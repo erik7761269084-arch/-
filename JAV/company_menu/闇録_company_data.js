@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMRK-040"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YMRK-040"
     },
     {
       "id": 4407,
@@ -31,7 +31,7 @@ window.companyData = {
       "actress": [
         "虹村由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMRK-050"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YMRK-050"
     },
     {
       "id": 5624,
@@ -47,7 +47,7 @@ window.companyData = {
       "actress": [
         "宮西光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMRK-048"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YMRK-048"
     },
     {
       "id": 6821,
@@ -61,7 +61,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250416/20250416065349725725_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250416/20250416065349725725_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMRK-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YMRK-047"
     },
     {
       "id": 6820,
@@ -75,7 +75,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250416/20250416065534941941_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250416/20250416065534941941_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMRK-045"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YMRK-045"
     }
   ]
 };

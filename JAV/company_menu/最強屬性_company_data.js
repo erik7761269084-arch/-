@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "宫泽千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CPDE-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-042"
     },
     {
       "id": 86964,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CPDE-041"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-041"
     },
     {
       "id": 86865,
@@ -47,7 +47,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CPDE-039"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-039"
     },
     {
       "id": 83074,
@@ -63,7 +63,7 @@ window.companyData = {
       "actress": [
         "葵玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CPDE-038"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-038"
     },
     {
       "id": 86891,
@@ -80,7 +80,7 @@ window.companyData = {
         "川越ゆい",
         "小西真理繪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CPDE-998"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-998"
     }
   ]
 };

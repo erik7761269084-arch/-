@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "都月楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKN-802"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=URKN-802"
     },
     {
       "id": 2558,
@@ -35,7 +35,7 @@ window.companyData = {
         "若月もあ",
         "あおい藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKN-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=URKN-005"
     },
     {
       "id": 3443,
@@ -53,7 +53,7 @@ window.companyData = {
         "白石渚",
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKN-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=URKN-004"
     },
     {
       "id": 62152,
@@ -71,7 +71,7 @@ window.companyData = {
         "花音うらら",
         "矢澤なの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKN-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=URKN-003"
     }
   ]
 };

@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250909/20250909033604599599_30482_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250909/20250909033604599599_30482_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FM-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FM-003"
     },
     {
       "id": 61075,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/08/09/cb267ff11d5522cbe0fd5bdec6623dd0.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFM-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFM-010"
     },
     {
       "id": 61074,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/08/09/eaab95623c08adc5a03a23dacdbd1863.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFM-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFM-006"
     },
     {
       "id": 61054,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/09/4e591ac4/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFM-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFM-004"
     },
     {
       "id": 61053,
@@ -71,7 +71,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/09/2ed61041/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFM-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFM-009"
     },
     {
       "id": 61430,
@@ -85,7 +85,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFM-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFM-003"
     },
     {
       "id": 61142,
@@ -102,7 +102,7 @@ window.companyData = {
         "宮ノ木しゅんか",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFM-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFM-007"
     },
     {
       "id": 62702,
@@ -119,7 +119,7 @@ window.companyData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFM-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFM-001"
     },
     {
       "id": 92331,
@@ -133,7 +133,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=COLLECTIONofMASTERPIECES"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=COLLECTIONofMASTERPIECES"
     },
     {
       "id": 107133,
@@ -147,7 +147,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2023/09/20/5819a6241a5dacf18196d16a93581017.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FMDL-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FMDL-010"
     },
     {
       "id": 1685,
@@ -163,7 +163,7 @@ window.companyData = {
       "actress": [
         "有村千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FMES-037"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FMES-037"
     }
   ]
 };

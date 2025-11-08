@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-993"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-993"
     },
     {
       "id": 60683,
@@ -32,7 +32,7 @@ window.companyData = {
         "松井日奈子",
         "葵百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-994"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-994"
     },
     {
       "id": 3440,
@@ -48,7 +48,7 @@ window.companyData = {
       "actress": [
         "北岡果林"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-986"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-986"
     },
     {
       "id": 4157,
@@ -65,7 +65,7 @@ window.companyData = {
         "九井珠奈緒",
         "大島愛里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-987"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-987"
     },
     {
       "id": 4151,
@@ -82,7 +82,7 @@ window.companyData = {
         "羽月乃蒼",
         "赤城穂波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-990"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-990"
     },
     {
       "id": 4559,
@@ -100,7 +100,7 @@ window.companyData = {
         "本田桃",
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-899"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-899"
     },
     {
       "id": 4557,
@@ -119,7 +119,7 @@ window.companyData = {
         "足立友梨",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-985"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-985"
     },
     {
       "id": 4547,
@@ -136,7 +136,7 @@ window.companyData = {
         "椿莉香",
         "小坂ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-983"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-983"
     },
     {
       "id": 62491,
@@ -150,7 +150,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/5ba72669/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-981"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-981"
     },
     {
       "id": 5013,
@@ -167,7 +167,7 @@ window.companyData = {
         "松井日奈子",
         "尾崎惠梨香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-972"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-972"
     },
     {
       "id": 5393,
@@ -183,7 +183,7 @@ window.companyData = {
       "actress": [
         "静河"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-984"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-984"
     },
     {
       "id": 5392,
@@ -201,7 +201,7 @@ window.companyData = {
         "葉山小百合",
         "吉泽友贵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-979"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-979"
     },
     {
       "id": 5382,
@@ -219,7 +219,7 @@ window.companyData = {
         "星乃夏月",
         "桜和ことこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-978"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-978"
     },
     {
       "id": 5950,
@@ -236,7 +236,7 @@ window.companyData = {
         "森澤佳奈",
         "辻井穗乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-960"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-960"
     },
     {
       "id": 5945,
@@ -254,7 +254,7 @@ window.companyData = {
         "橘日向",
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-976"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-976"
     },
     {
       "id": 5938,
@@ -270,7 +270,7 @@ window.companyData = {
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-982"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-982"
     },
     {
       "id": 6357,
@@ -287,7 +287,7 @@ window.companyData = {
         "水川潤",
         "鈴木真夕"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-975"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-975"
     },
     {
       "id": 6353,
@@ -303,7 +303,7 @@ window.companyData = {
       "actress": [
         "小那海綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-977"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-977"
     },
     {
       "id": 69052,
@@ -317,7 +317,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-970"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-970"
     },
     {
       "id": 68953,
@@ -331,7 +331,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/d15777ee/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-969"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-969"
     },
     {
       "id": 70626,
@@ -345,7 +345,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/07/19/f8162a7643ea9a3b0c2b161baaf84cf8.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-968"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-968"
     },
     {
       "id": 7411,
@@ -364,7 +364,7 @@ window.companyData = {
         "雅子裡菜",
         "小梅惠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-967"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-967"
     },
     {
       "id": 7759,
@@ -380,7 +380,7 @@ window.companyData = {
       "actress": [
         "辻井穗乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-954"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-954"
     },
     {
       "id": 7757,
@@ -396,7 +396,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-965"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-965"
     },
     {
       "id": 72844,
@@ -412,7 +412,7 @@ window.companyData = {
       "actress": [
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-961"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-961"
     },
     {
       "id": 73877,
@@ -429,7 +429,7 @@ window.companyData = {
         "皆月光",
         "雅子裡菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-958"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-958"
     },
     {
       "id": 8897,
@@ -445,7 +445,7 @@ window.companyData = {
       "actress": [
         "森日向子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-959"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-959"
     },
     {
       "id": 9293,
@@ -461,7 +461,7 @@ window.companyData = {
       "actress": [
         "由良佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-955"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-955"
     },
     {
       "id": 9292,
@@ -479,7 +479,7 @@ window.companyData = {
         "浜崎真緒",
         "皇柚子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-956"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-956"
     },
     {
       "id": 9580,
@@ -496,7 +496,7 @@ window.companyData = {
         "一条美緒",
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-339"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-339"
     },
     {
       "id": 76621,
@@ -510,7 +510,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-952"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-952"
     },
     {
       "id": 10014,
@@ -526,7 +526,7 @@ window.companyData = {
       "actress": [
         "夏川步美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-950"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-950"
     },
     {
       "id": 10001,
@@ -543,7 +543,7 @@ window.companyData = {
         "藤咲紫",
         "川越ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-951"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-951"
     },
     {
       "id": 94958,
@@ -557,7 +557,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-667CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-667CN"
     },
     {
       "id": 94909,
@@ -571,7 +571,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-708P1"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-708P1"
     },
     {
       "id": 10648,
@@ -589,7 +589,7 @@ window.companyData = {
         "黑川堇",
         "堀内美香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-944"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-944"
     },
     {
       "id": 95589,
@@ -603,7 +603,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/10/07/b8c44e8c2d7abb14f1c5e680f77ae52c.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-942"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-942"
     },
     {
       "id": 95587,
@@ -619,7 +619,7 @@ window.companyData = {
       "actress": [
         "天馬唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-943"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-943"
     },
     {
       "id": 80785,
@@ -638,7 +638,7 @@ window.companyData = {
         "弥生美月",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-799"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-799"
     },
     {
       "id": 80363,
@@ -652,7 +652,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-791"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-791"
     },
     {
       "id": 79866,
@@ -669,7 +669,7 @@ window.companyData = {
         "小梅惠奈",
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-778"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-778"
     },
     {
       "id": 87996,
@@ -683,7 +683,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-754"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-754"
     },
     {
       "id": 88005,
@@ -699,7 +699,7 @@ window.companyData = {
       "actress": [
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-711"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-711"
     },
     {
       "id": 82372,
@@ -717,7 +717,7 @@ window.companyData = {
         "通野未帆",
         "八乃翼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-709"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-709"
     },
     {
       "id": 81463,
@@ -734,7 +734,7 @@ window.companyData = {
         "瓊·洛夫喬伊",
         "西田卡莉娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-708"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-708"
     },
     {
       "id": 76212,
@@ -750,7 +750,7 @@ window.companyData = {
       "actress": [
         "桜庭ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-704"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-704"
     },
     {
       "id": 83502,
@@ -767,7 +767,7 @@ window.companyData = {
         "本真友里",
         "大森しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-702"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-702"
     },
     {
       "id": 83087,
@@ -787,7 +787,7 @@ window.companyData = {
         "タツ",
         "森本つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-696"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-696"
     },
     {
       "id": 75528,
@@ -801,7 +801,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-697"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-697"
     },
     {
       "id": 76674,
@@ -818,7 +818,7 @@ window.companyData = {
         "七海雛",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-695"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-695"
     },
     {
       "id": 86842,
@@ -834,7 +834,7 @@ window.companyData = {
       "actress": [
         "美谷朱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-685"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-685"
     },
     {
       "id": 72147,
@@ -848,7 +848,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-676"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-676"
     },
     {
       "id": 72146,
@@ -864,7 +864,7 @@ window.companyData = {
       "actress": [
         "高梨りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-668"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-668"
     },
     {
       "id": 71631,
@@ -883,7 +883,7 @@ window.companyData = {
         "音海里奈",
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-662"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-662"
     },
     {
       "id": 71406,
@@ -900,7 +900,7 @@ window.companyData = {
         "姫川礼子",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-658"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-658"
     },
     {
       "id": 71750,
@@ -914,7 +914,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-644"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-644"
     },
     {
       "id": 87638,
@@ -928,7 +928,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-642"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-642"
     },
     {
       "id": 71267,
@@ -944,7 +944,7 @@ window.companyData = {
       "actress": [
         "松沢ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-632"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-632"
     },
     {
       "id": 71727,
@@ -958,7 +958,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-626"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-626"
     },
     {
       "id": 82382,
@@ -976,7 +976,7 @@ window.companyData = {
         "宫崎彩",
         "桥本丽华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-619"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-619"
     },
     {
       "id": 71748,
@@ -990,7 +990,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-605"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DANDY-605"
     }
   ]
 };

@@ -21,7 +21,7 @@ window.companyData = {
         "矢泽美々",
         "くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-744"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-744"
     },
     {
       "id": 60849,
@@ -40,7 +40,7 @@ window.companyData = {
         "加贺美さら",
         "藤森朱音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-740"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-740"
     },
     {
       "id": 3664,
@@ -62,7 +62,7 @@ window.companyData = {
         "百叶花音",
         "二叶あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-735"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-735"
     },
     {
       "id": 6690,
@@ -81,7 +81,7 @@ window.companyData = {
         "逢澤理衣奈",
         "仲村りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-714"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-714"
     },
     {
       "id": 85249,
@@ -95,7 +95,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-404E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-404E"
     },
     {
       "id": 85209,
@@ -109,7 +109,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-406E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-406E"
     },
     {
       "id": 85207,
@@ -123,7 +123,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-405E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-405E"
     },
     {
       "id": 85204,
@@ -137,7 +137,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-403"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-403"
     },
     {
       "id": 85252,
@@ -151,7 +151,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-397E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-397E"
     },
     {
       "id": 85233,
@@ -165,7 +165,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-393"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-393"
     },
     {
       "id": 85231,
@@ -179,7 +179,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-395E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-395E"
     },
     {
       "id": 85228,
@@ -193,7 +193,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-394E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-394E"
     },
     {
       "id": 85227,
@@ -207,7 +207,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-396E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-396E"
     },
     {
       "id": 81110,
@@ -221,7 +221,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-383"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-383"
     },
     {
       "id": 81106,
@@ -235,7 +235,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-384"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-384"
     },
     {
       "id": 80783,
@@ -249,7 +249,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/8a4a8a45cda29bc9d3c26b6d637984d3.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-374"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-374"
     },
     {
       "id": 85246,
@@ -263,7 +263,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/30249697ff4c6067cc4a69fcc1f87076.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-357"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-357"
     },
     {
       "id": 85232,
@@ -277,7 +277,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-356E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-356E"
     },
     {
       "id": 85208,
@@ -291,7 +291,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-354"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-354"
     },
     {
       "id": 85205,
@@ -305,7 +305,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-355E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-355E"
     },
     {
       "id": 85201,
@@ -319,7 +319,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-353"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-353"
     },
     {
       "id": 93049,
@@ -335,7 +335,7 @@ window.companyData = {
       "actress": [
         "雨村梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-287"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-287"
     },
     {
       "id": 81803,
@@ -351,7 +351,7 @@ window.companyData = {
       "actress": [
         "泉莉音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-204"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-204"
     },
     {
       "id": 81802,
@@ -365,7 +365,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-208E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-208E"
     },
     {
       "id": 81760,
@@ -379,7 +379,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-207E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-207E"
     },
     {
       "id": 83367,
@@ -393,7 +393,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-198E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-198E"
     },
     {
       "id": 83363,
@@ -409,7 +409,7 @@ window.companyData = {
       "actress": [
         "原花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-197"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-197"
     },
     {
       "id": 81769,
@@ -425,7 +425,7 @@ window.companyData = {
       "actress": [
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-196"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-196"
     },
     {
       "id": 81764,
@@ -441,7 +441,7 @@ window.companyData = {
       "actress": [
         "五十岚ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-200"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-200"
     },
     {
       "id": 75202,
@@ -457,7 +457,7 @@ window.companyData = {
       "actress": [
         "市川花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-195"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-195"
     },
     {
       "id": 75201,
@@ -471,7 +471,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-201E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-201E"
     },
     {
       "id": 75200,
@@ -485,7 +485,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-195E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-195E"
     },
     {
       "id": 75151,
@@ -501,7 +501,7 @@ window.companyData = {
       "actress": [
         "早美怜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-199"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-199"
     },
     {
       "id": 82824,
@@ -515,7 +515,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/130b8214d9493e5eebad8be8b0173aea.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-188E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-188E"
     },
     {
       "id": 82802,
@@ -529,7 +529,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/36a0993172838909ed2517e69332317f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-187E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-187E"
     },
     {
       "id": 83662,
@@ -545,7 +545,7 @@ window.companyData = {
       "actress": [
         "日和ももか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-182"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-182"
     },
     {
       "id": 83658,
@@ -561,7 +561,7 @@ window.companyData = {
       "actress": [
         "柊留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-180"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-180"
     },
     {
       "id": 83337,
@@ -577,7 +577,7 @@ window.companyData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-181"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-181"
     },
     {
       "id": 81805,
@@ -593,7 +593,7 @@ window.companyData = {
       "actress": [
         "五十岚ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-179"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-179"
     },
     {
       "id": 75153,
@@ -609,7 +609,7 @@ window.companyData = {
       "actress": [
         "永濑唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-183"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-183"
     },
     {
       "id": 75152,
@@ -625,7 +625,7 @@ window.companyData = {
       "actress": [
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-184"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-184"
     },
     {
       "id": 83665,
@@ -641,7 +641,7 @@ window.companyData = {
       "actress": [
         "高梨ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-175"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-175"
     },
     {
       "id": 75157,
@@ -657,7 +657,7 @@ window.companyData = {
       "actress": [
         "忍川ほたる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-173"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-173"
     },
     {
       "id": 75154,
@@ -673,7 +673,7 @@ window.companyData = {
       "actress": [
         "百叶花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-174"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-174"
     },
     {
       "id": 74207,
@@ -689,7 +689,7 @@ window.companyData = {
       "actress": [
         "渚光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-139"
     },
     {
       "id": 76610,
@@ -705,7 +705,7 @@ window.companyData = {
       "actress": [
         "逢澤理衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-105"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-105"
     },
     {
       "id": 88054,
@@ -721,7 +721,7 @@ window.companyData = {
       "actress": [
         "双葉良香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KTRA-074"
     }
   ]
 };

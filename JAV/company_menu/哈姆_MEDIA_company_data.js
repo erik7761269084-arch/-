@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDHP-084"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DDHP-084"
     }
   ]
 };

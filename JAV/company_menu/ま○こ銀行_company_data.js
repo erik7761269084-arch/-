@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "百合良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-214"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-214"
     },
     {
       "id": 62021,
@@ -31,7 +31,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-215"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-215"
     },
     {
       "id": 4110,
@@ -48,7 +48,7 @@ window.companyData = {
         "赤名いと",
         "川栄結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-213"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-213"
     },
     {
       "id": 63912,
@@ -62,7 +62,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/01/1e219d2782aa49ef0aa7e5d10b9f2303.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-206"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-206"
     },
     {
       "id": 6598,
@@ -80,7 +80,7 @@ window.companyData = {
         "鈴木真夕",
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-202"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-202"
     },
     {
       "id": 6597,
@@ -96,7 +96,7 @@ window.companyData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-203"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-203"
     },
     {
       "id": 70915,
@@ -110,7 +110,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/25/a6d01051/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-197"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-197"
     },
     {
       "id": 7431,
@@ -128,7 +128,7 @@ window.companyData = {
         "千川とわ",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-198"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-198"
     },
     {
       "id": 95570,
@@ -144,7 +144,7 @@ window.companyData = {
       "actress": [
         "小坂ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-185"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-185"
     },
     {
       "id": 84027,
@@ -158,7 +158,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-091"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-091"
     },
     {
       "id": 80856,
@@ -174,7 +174,7 @@ window.companyData = {
       "actress": [
         "有坂深雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-070"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-070"
     },
     {
       "id": 80464,
@@ -188,7 +188,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-064"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-064"
     },
     {
       "id": 80462,
@@ -202,7 +202,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-065"
     },
     {
       "id": 84032,
@@ -219,7 +219,7 @@ window.companyData = {
         "鈴木真夕",
         "本真友里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-062"
     },
     {
       "id": 79787,
@@ -233,7 +233,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-051"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-051"
     },
     {
       "id": 86804,
@@ -249,7 +249,7 @@ window.companyData = {
       "actress": [
         "鈴木真夕"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-019"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BANK-019"
     }
   ]
 };

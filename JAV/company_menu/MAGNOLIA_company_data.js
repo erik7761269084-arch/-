@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250727/20250727112026187187_77106_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250727/20250727112026187187_77106_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGNL-115"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGNL-115"
     },
     {
       "id": 4058,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250727/20250727112140833833_23258_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250727/20250727112140833833_23258_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGNL-111"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGNL-111"
     },
     {
       "id": 4057,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250727/20250727112149648648_10298_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250727/20250727112149648648_10298_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGNL-114"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGNL-114"
     },
     {
       "id": 70918,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/03/5b9ecc25/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGNL-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGNL-075"
     }
   ]
 };

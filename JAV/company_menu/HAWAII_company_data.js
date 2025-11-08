@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/07/15/fabed4acadcec4d282b3b8baf207d555.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-036"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-036"
     },
     {
       "id": 70628,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/23/9947efcf/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-035"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-035"
     },
     {
       "id": 70600,
@@ -45,7 +45,7 @@ window.companyData = {
       "actress": [
         "梦野まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-034"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-034"
     },
     {
       "id": 69182,
@@ -61,7 +61,7 @@ window.companyData = {
       "actress": [
         "前乃菜菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-032"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-032"
     },
     {
       "id": 69177,
@@ -77,7 +77,7 @@ window.companyData = {
       "actress": [
         "二宮和香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-033"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-033"
     },
     {
       "id": 72018,
@@ -91,7 +91,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/02/24/214b0cafb24dffc165f87643efd2a8cd.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-031"
     },
     {
       "id": 75772,
@@ -107,7 +107,7 @@ window.companyData = {
       "actress": [
         "梦野まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-030"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-030"
     },
     {
       "id": 10500,
@@ -123,7 +123,7 @@ window.companyData = {
       "actress": [
         "浜辺栞帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-029"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-029"
     },
     {
       "id": 16573,
@@ -139,7 +139,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-020"
     },
     {
       "id": 88743,
@@ -155,7 +155,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-018"
     },
     {
       "id": 88773,
@@ -171,7 +171,7 @@ window.companyData = {
       "actress": [
         "響乃詩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-017"
     },
     {
       "id": 88796,
@@ -188,7 +188,7 @@ window.companyData = {
         "大村",
         "梦野まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-016"
     },
     {
       "id": 88779,
@@ -202,7 +202,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-015"
     },
     {
       "id": 88780,
@@ -218,7 +218,7 @@ window.companyData = {
       "actress": [
         "美園和花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-014"
     },
     {
       "id": 88777,
@@ -232,7 +232,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-013"
     },
     {
       "id": 88757,
@@ -246,7 +246,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-012"
     },
     {
       "id": 68688,
@@ -260,7 +260,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250406-1/b0b9be61e59c277935808beafdbc907d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-008"
     },
     {
       "id": 102617,
@@ -274,7 +274,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2023/01/20/ddfb6c414831959e775606104a796068.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-007"
     },
     {
       "id": 86639,
@@ -288,7 +288,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230211-1/deeeec1e329eceab7d7130261321f956.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-005"
     },
     {
       "id": 86636,
@@ -302,7 +302,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230211-1/99e7022099a41bde0afc606c4e01964f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WAWA-003"
     }
   ]
 };

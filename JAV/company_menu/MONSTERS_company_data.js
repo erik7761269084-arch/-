@@ -18,7 +18,7 @@ window.companyData = {
         "冬愛琴音",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DJN-025"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DJN-025"
     },
     {
       "id": 63404,
@@ -34,7 +34,7 @@ window.companyData = {
       "actress": [
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DJN-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DJN-024"
     }
   ]
 };

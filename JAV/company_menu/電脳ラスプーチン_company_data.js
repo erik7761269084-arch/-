@@ -18,7 +18,7 @@ window.companyData = {
         "末広純",
         "瀬那瑠美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-096"
     },
     {
       "id": 2965,
@@ -34,7 +34,7 @@ window.companyData = {
       "actress": [
         "天月梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-094"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-094"
     },
     {
       "id": 5638,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "佐倉陽菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-089"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-089"
     },
     {
       "id": 5635,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "橘日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-090"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-090"
     },
     {
       "id": 6600,
@@ -85,7 +85,7 @@ window.companyData = {
         "遠山まき",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-086"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-086"
     },
     {
       "id": 6596,
@@ -101,7 +101,7 @@ window.companyData = {
       "actress": [
         "羽月乃蒼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-083"
     },
     {
       "id": 8526,
@@ -117,7 +117,7 @@ window.companyData = {
       "actress": [
         "柊有希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-081"
     },
     {
       "id": 10000,
@@ -136,7 +136,7 @@ window.companyData = {
         "イセドン内村",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-076"
     },
     {
       "id": 9995,
@@ -152,7 +152,7 @@ window.companyData = {
       "actress": [
         "如月りいさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRPT-075"
     }
   ]
 };

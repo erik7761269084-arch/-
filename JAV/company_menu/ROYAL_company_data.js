@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "北岡果林"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-269"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-269"
     },
     {
       "id": 2629,
@@ -34,7 +34,7 @@ window.companyData = {
         "百永纱里奈",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-262"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-262"
     },
     {
       "id": 2626,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "逢坂希穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-266"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-266"
     },
     {
       "id": 2599,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "美谷朱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-265"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-265"
     },
     {
       "id": 2590,
@@ -83,7 +83,7 @@ window.companyData = {
         "小栗操",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-264"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-264"
     },
     {
       "id": 3403,
@@ -100,7 +100,7 @@ window.companyData = {
         "都月楓",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-261"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-261"
     },
     {
       "id": 3400,
@@ -117,7 +117,7 @@ window.companyData = {
         "天羽梨梨花",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-259"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-259"
     },
     {
       "id": 3377,
@@ -134,7 +134,7 @@ window.companyData = {
         "小栗操",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-258"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-258"
     },
     {
       "id": 3376,
@@ -152,7 +152,7 @@ window.companyData = {
         "ラビットけんと",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-257"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-257"
     },
     {
       "id": 3333,
@@ -168,7 +168,7 @@ window.companyData = {
       "actress": [
         "西元美紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-260"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-260"
     },
     {
       "id": 4123,
@@ -186,7 +186,7 @@ window.companyData = {
         "トイボーイ相沢",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OFES-003"
     },
     {
       "id": 5167,
@@ -204,7 +204,7 @@ window.companyData = {
         "黑川纱里奈",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-248"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-248"
     },
     {
       "id": 5166,
@@ -221,7 +221,7 @@ window.companyData = {
         "小野坂唯香",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-252"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-252"
     },
     {
       "id": 5163,
@@ -237,7 +237,7 @@ window.companyData = {
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-247"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-247"
     },
     {
       "id": 5158,
@@ -254,7 +254,7 @@ window.companyData = {
         "滝冬煇",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-246"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-246"
     },
     {
       "id": 5155,
@@ -270,7 +270,7 @@ window.companyData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-245"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-245"
     },
     {
       "id": 5889,
@@ -286,7 +286,7 @@ window.companyData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-243"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-243"
     },
     {
       "id": 5869,
@@ -303,7 +303,7 @@ window.companyData = {
         "百永纱里奈",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-244"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-244"
     },
     {
       "id": 6622,
@@ -320,7 +320,7 @@ window.companyData = {
         "百永纱里奈",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PFES-087"
     },
     {
       "id": 6756,
@@ -337,7 +337,7 @@ window.companyData = {
         "安斉愛結",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-235"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-235"
     },
     {
       "id": 6750,
@@ -353,7 +353,7 @@ window.companyData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-236"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-236"
     },
     {
       "id": 6749,
@@ -369,7 +369,7 @@ window.companyData = {
       "actress": [
         "虹村由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-237"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-237"
     },
     {
       "id": 6741,
@@ -385,7 +385,7 @@ window.companyData = {
       "actress": [
         "希島愛理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-234"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-234"
     },
     {
       "id": 17630,
@@ -402,7 +402,7 @@ window.companyData = {
         "佐藤しお",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-149"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-149"
     },
     {
       "id": 17629,
@@ -418,7 +418,7 @@ window.companyData = {
       "actress": [
         "和久井美兎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-148"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-148"
     },
     {
       "id": 17628,
@@ -434,7 +434,7 @@ window.companyData = {
       "actress": [
         "美園和花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-157"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ROYD-157"
     }
   ]
 };

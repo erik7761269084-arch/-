@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "山瀬美紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-081"
     },
     {
       "id": 4649,
@@ -34,7 +34,7 @@ window.companyData = {
         "若宮葉月",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GARA-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GARA-012"
     },
     {
       "id": 5443,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "葉山小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GARA-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GARA-011"
     },
     {
       "id": 5410,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "美咲佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-080"
     },
     {
       "id": 5217,
@@ -82,7 +82,7 @@ window.companyData = {
       "actress": [
         "八森若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAJK-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAJK-024"
     },
     {
       "id": 6953,
@@ -98,7 +98,7 @@ window.companyData = {
       "actress": [
         "有加里乃乃花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-078"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-078"
     },
     {
       "id": 67509,
@@ -112,7 +112,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/05/06/ce01d0979925445f3fd613d941f48a23.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GARA-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GARA-008"
     },
     {
       "id": 8400,
@@ -128,7 +128,7 @@ window.companyData = {
       "actress": [
         "夏希栗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GARA-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GARA-007"
     },
     {
       "id": 8333,
@@ -144,7 +144,7 @@ window.companyData = {
       "actress": [
         "桃井早苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-076"
     },
     {
       "id": 9132,
@@ -160,7 +160,7 @@ window.companyData = {
       "actress": [
         "末広純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GARA-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GARA-006"
     },
     {
       "id": 77200,
@@ -176,7 +176,7 @@ window.companyData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GARA-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GARA-005"
     },
     {
       "id": 77194,
@@ -193,7 +193,7 @@ window.companyData = {
         "小早川怜子",
         "川上優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-074"
     },
     {
       "id": 10715,
@@ -209,7 +209,7 @@ window.companyData = {
       "actress": [
         "本田瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GARA-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GARA-004"
     },
     {
       "id": 67425,
@@ -226,7 +226,7 @@ window.companyData = {
         "大島愛里亞",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-039"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-039"
     },
     {
       "id": 87198,
@@ -242,7 +242,7 @@ window.companyData = {
       "actress": [
         "佐倉陽菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-034"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-034"
     },
     {
       "id": 84471,
@@ -258,7 +258,7 @@ window.companyData = {
       "actress": [
         "雨村梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-029"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-029"
     },
     {
       "id": 67286,
@@ -274,7 +274,7 @@ window.companyData = {
       "actress": [
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-027"
     },
     {
       "id": 75674,
@@ -290,7 +290,7 @@ window.companyData = {
       "actress": [
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-005"
     },
     {
       "id": 75788,
@@ -306,7 +306,7 @@ window.companyData = {
       "actress": [
         "川上優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-002"
     },
     {
       "id": 75750,
@@ -322,7 +322,7 @@ window.companyData = {
       "actress": [
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMA-001"
     }
   ]
 };

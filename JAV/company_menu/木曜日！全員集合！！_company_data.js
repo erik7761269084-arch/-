@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/92608e46/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-137"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOV-137"
     },
     {
       "id": 89079,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-112"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOV-112"
     },
     {
       "id": 89078,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-110"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOV-110"
     },
     {
       "id": 89077,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-108"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOV-108"
     },
     {
       "id": 82143,
@@ -73,7 +73,7 @@ window.companyData = {
       "actress": [
         "渡辺そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOV-060"
     },
     {
       "id": 82135,
@@ -89,7 +89,7 @@ window.companyData = {
       "actress": [
         "向井藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-059"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOV-059"
     },
     {
       "id": 83871,
@@ -109,7 +109,7 @@ window.companyData = {
         "御坂莉亚",
         "久远れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-056"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOV-056"
     },
     {
       "id": 73102,
@@ -125,7 +125,7 @@ window.companyData = {
       "actress": [
         "御坂莉亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-023"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOV-023"
     }
   ]
 };

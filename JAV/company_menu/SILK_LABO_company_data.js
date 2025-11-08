@@ -23,7 +23,7 @@ window.companyData = {
         "木崎凪",
         "东惣介"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-190"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-190"
     },
     {
       "id": 60159,
@@ -37,7 +37,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILKU-114"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILKU-114"
     },
     {
       "id": 60206,
@@ -51,7 +51,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILKBT-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILKBT-057"
     },
     {
       "id": 3816,
@@ -71,7 +71,7 @@ window.companyData = {
         "向理来",
         "千歳小梅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-188"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-188"
     },
     {
       "id": 2368,
@@ -91,7 +91,7 @@ window.companyData = {
         "天道一然",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-187"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-187"
     },
     {
       "id": 5397,
@@ -111,7 +111,7 @@ window.companyData = {
         "千歳小梅",
         "清水健翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-183"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-183"
     },
     {
       "id": 5394,
@@ -130,7 +130,7 @@ window.companyData = {
         "千歳小梅",
         "さのさとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-184"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-184"
     },
     {
       "id": 6347,
@@ -153,7 +153,7 @@ window.companyData = {
         "大空太陽",
         "叶月もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-181"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-181"
     },
     {
       "id": 6343,
@@ -171,7 +171,7 @@ window.companyData = {
         "東雲怜弥",
         "大空太陽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-182"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-182"
     },
     {
       "id": 71276,
@@ -191,7 +191,7 @@ window.companyData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-178"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-178"
     },
     {
       "id": 72444,
@@ -207,7 +207,7 @@ window.companyData = {
       "actress": [
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILKU-117"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILKU-117"
     },
     {
       "id": 8513,
@@ -228,7 +228,7 @@ window.companyData = {
         "千歳小梅",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-175"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-175"
     },
     {
       "id": 8721,
@@ -245,7 +245,7 @@ window.companyData = {
         "花音うらら",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILKS-121"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILKS-121"
     },
     {
       "id": 76705,
@@ -264,7 +264,7 @@ window.companyData = {
         "東雲怜弥",
         "千歳小梅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-171"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-171"
     },
     {
       "id": 76618,
@@ -282,7 +282,7 @@ window.companyData = {
         "向理来",
         "千歳小梅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-172"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-172"
     },
     {
       "id": 94237,
@@ -296,7 +296,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-162AnothersideIII"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-162AnothersideIII"
     },
     {
       "id": 10811,
@@ -317,7 +317,7 @@ window.companyData = {
         "東雲怜弥",
         "成宮仁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-170"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-170"
     },
     {
       "id": 94221,
@@ -338,7 +338,7 @@ window.companyData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-163"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-163"
     },
     {
       "id": 94204,
@@ -358,7 +358,7 @@ window.companyData = {
         "向理来",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-164"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-164"
     },
     {
       "id": 13318,
@@ -381,7 +381,7 @@ window.companyData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-161"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-161"
     },
     {
       "id": 94222,
@@ -400,7 +400,7 @@ window.companyData = {
         "向理来",
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-159"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-159"
     },
     {
       "id": 107463,
@@ -420,7 +420,7 @@ window.companyData = {
         "東雲怜弥",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-138"
     },
     {
       "id": 77545,
@@ -443,7 +443,7 @@ window.companyData = {
         "及川大智",
         "有马芳彦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-135"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-135"
     },
     {
       "id": 77544,
@@ -463,7 +463,7 @@ window.companyData = {
         "东希美",
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-136"
     },
     {
       "id": 86214,
@@ -479,7 +479,7 @@ window.companyData = {
       "actress": [
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILKS-087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILKS-087"
     },
     {
       "id": 107144,
@@ -498,7 +498,7 @@ window.companyData = {
         "向理来",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-129"
     },
     {
       "id": 82013,
@@ -516,7 +516,7 @@ window.companyData = {
         "卯水咲流",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-125"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-125"
     },
     {
       "id": 82018,
@@ -535,7 +535,7 @@ window.companyData = {
         "上原千明",
         "东惣介"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-123"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-123"
     },
     {
       "id": 76758,
@@ -555,7 +555,7 @@ window.companyData = {
         "向理来",
         "西岛伊吹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-122"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-122"
     },
     {
       "id": 76757,
@@ -574,7 +574,7 @@ window.companyData = {
         "向理来",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-121"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-121"
     },
     {
       "id": 74200,
@@ -594,7 +594,7 @@ window.companyData = {
         "向理来",
         "东惣介"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-117"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-117"
     },
     {
       "id": 88203,
@@ -613,7 +613,7 @@ window.companyData = {
         "爱乃零",
         "有马芳彦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-116"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-116"
     },
     {
       "id": 86227,
@@ -631,7 +631,7 @@ window.companyData = {
         "一之瀨戀",
         "上原千明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-110"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SILK-110"
     }
   ]
 };

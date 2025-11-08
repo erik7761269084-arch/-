@@ -20,7 +20,7 @@ window.companyData = {
         "桃咲乃亞",
         "綾波蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-114"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HRSM-114"
     },
     {
       "id": 4111,
@@ -38,7 +38,7 @@ window.companyData = {
         "依本詩織",
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-106"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HRSM-106"
     },
     {
       "id": 4109,
@@ -56,7 +56,7 @@ window.companyData = {
         "響かれん",
         "月乃あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-105"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HRSM-105"
     },
     {
       "id": 5236,
@@ -75,7 +75,7 @@ window.companyData = {
         "前乃菜菜",
         "月見若葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-100"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HRSM-100"
     },
     {
       "id": 6593,
@@ -94,7 +94,7 @@ window.companyData = {
         "新垣まりん",
         "汐梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-094"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HRSM-094"
     },
     {
       "id": 6591,
@@ -113,7 +113,7 @@ window.companyData = {
         "渡辺まりか",
         "宮瀬夏純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-093"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HRSM-093"
     }
   ]
 };

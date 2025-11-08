@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-238"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-238"
     },
     {
       "id": 58072,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/2e2dcd0e1a69621c30bd7d36325f7c60.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-130"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-130"
     },
     {
       "id": 58048,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221008-1/41065c7f1c3c33d9e9a06ef7c2359f52.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-128"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-128"
     },
     {
       "id": 58069,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/f40a56319831fd103507c91c234c0405.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-122"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-122"
     },
     {
       "id": 58064,
@@ -71,7 +71,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-117"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-117"
     },
     {
       "id": 58156,
@@ -85,7 +85,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-081"
     },
     {
       "id": 1734,
@@ -101,7 +101,7 @@ window.companyData = {
       "actress": [
         "小泉真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-159"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-159"
     },
     {
       "id": 1745,
@@ -117,7 +117,7 @@ window.companyData = {
       "actress": [
         "長谷川美裸"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-158"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-158"
     },
     {
       "id": 1774,
@@ -133,7 +133,7 @@ window.companyData = {
       "actress": [
         "矢田千惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-149"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-149"
     },
     {
       "id": 1949,
@@ -149,7 +149,7 @@ window.companyData = {
       "actress": [
         "長谷川夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-155"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-155"
     },
     {
       "id": 1798,
@@ -165,7 +165,7 @@ window.companyData = {
       "actress": [
         "堀口真希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-154"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-154"
     },
     {
       "id": 1959,
@@ -181,7 +181,7 @@ window.companyData = {
       "actress": [
         "櫻木梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-147"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-147"
     },
     {
       "id": 1533,
@@ -203,7 +203,7 @@ window.companyData = {
         "真白希実",
         "永作亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-127"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-127"
     },
     {
       "id": 1531,
@@ -226,7 +226,7 @@ window.companyData = {
         "菅原奈緒美",
         "若林美保"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-108"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-108"
     },
     {
       "id": 1920,
@@ -242,7 +242,7 @@ window.companyData = {
       "actress": [
         "百合川紗羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-139"
     },
     {
       "id": 1789,
@@ -258,7 +258,7 @@ window.companyData = {
       "actress": [
         "若月玛丽亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-138"
     },
     {
       "id": 1950,
@@ -274,7 +274,7 @@ window.companyData = {
       "actress": [
         "佐佐木繪美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-136"
     },
     {
       "id": 1893,
@@ -290,7 +290,7 @@ window.companyData = {
       "actress": [
         "梦实空美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-135"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-135"
     },
     {
       "id": 1703,
@@ -306,7 +306,7 @@ window.companyData = {
       "actress": [
         "皆月真香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-134"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-134"
     },
     {
       "id": 1980,
@@ -322,7 +322,7 @@ window.companyData = {
       "actress": [
         "西园寺铃央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-133"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-133"
     },
     {
       "id": 1536,
@@ -338,7 +338,7 @@ window.companyData = {
       "actress": [
         "新山枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-132"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-132"
     },
     {
       "id": 1883,
@@ -354,7 +354,7 @@ window.companyData = {
       "actress": [
         "雅真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-131"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-131"
     },
     {
       "id": 1534,
@@ -370,7 +370,7 @@ window.companyData = {
       "actress": [
         "舞笑美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-130"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-130"
     },
     {
       "id": 1535,
@@ -386,7 +386,7 @@ window.companyData = {
       "actress": [
         "都盛星空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-129"
     },
     {
       "id": 1537,
@@ -402,7 +402,7 @@ window.companyData = {
       "actress": [
         "小司杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-128"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-128"
     },
     {
       "id": 1525,
@@ -418,7 +418,7 @@ window.companyData = {
       "actress": [
         "小泉真希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-126"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-126"
     },
     {
       "id": 2043,
@@ -436,7 +436,7 @@ window.companyData = {
         "櫻明菜",
         "夏川純子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-123"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-123"
     },
     {
       "id": 1997,
@@ -452,7 +452,7 @@ window.companyData = {
       "actress": [
         "古瀬玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-124"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-124"
     },
     {
       "id": 1776,
@@ -468,7 +468,7 @@ window.companyData = {
       "actress": [
         "樱井知香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-122"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-122"
     },
     {
       "id": 1526,
@@ -484,7 +484,7 @@ window.companyData = {
       "actress": [
         "愛乃娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-120"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-120"
     },
     {
       "id": 2010,
@@ -500,7 +500,7 @@ window.companyData = {
       "actress": [
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-125"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-125"
     },
     {
       "id": 1529,
@@ -516,7 +516,7 @@ window.companyData = {
       "actress": [
         "古瀬玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-117"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-117"
     },
     {
       "id": 1530,
@@ -534,7 +534,7 @@ window.companyData = {
         "藤北彩香",
         "春本優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-112"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-112"
     },
     {
       "id": 1527,
@@ -550,7 +550,7 @@ window.companyData = {
       "actress": [
         "滝川ソフィア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-110"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-110"
     },
     {
       "id": 2013,
@@ -566,7 +566,7 @@ window.companyData = {
       "actress": [
         "爱杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-102"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-102"
     },
     {
       "id": 1900,
@@ -582,7 +582,7 @@ window.companyData = {
       "actress": [
         "森野美由纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-121"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-121"
     },
     {
       "id": 1889,
@@ -598,7 +598,7 @@ window.companyData = {
       "actress": [
         "櫻明菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-119"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-119"
     },
     {
       "id": 1821,
@@ -614,7 +614,7 @@ window.companyData = {
       "actress": [
         "椎名光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-118"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-118"
     },
     {
       "id": 1973,
@@ -632,7 +632,7 @@ window.companyData = {
         "椎名美優",
         "武井麻希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-116"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-116"
     },
     {
       "id": 1911,
@@ -648,7 +648,7 @@ window.companyData = {
       "actress": [
         "中野亚梨沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-100"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-100"
     },
     {
       "id": 1882,
@@ -664,7 +664,7 @@ window.companyData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-115"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-115"
     },
     {
       "id": 1532,
@@ -680,7 +680,7 @@ window.companyData = {
       "actress": [
         "松本痲里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-106"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-106"
     },
     {
       "id": 1779,
@@ -696,7 +696,7 @@ window.companyData = {
       "actress": [
         "星咲優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-099"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-099"
     },
     {
       "id": 1791,
@@ -714,7 +714,7 @@ window.companyData = {
         "中野亚梨沙",
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-113"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-113"
     },
     {
       "id": 1709,
@@ -730,7 +730,7 @@ window.companyData = {
       "actress": [
         "沖仁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-111"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-111"
     },
     {
       "id": 1899,
@@ -749,7 +749,7 @@ window.companyData = {
         "藤北彩香",
         "春本優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-109"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-109"
     },
     {
       "id": 1797,
@@ -765,7 +765,7 @@ window.companyData = {
       "actress": [
         "木村都那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-098"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-098"
     },
     {
       "id": 1887,
@@ -781,7 +781,7 @@ window.companyData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-107"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-107"
     },
     {
       "id": 2000,
@@ -797,7 +797,7 @@ window.companyData = {
       "actress": [
         "北条麻妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-093"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-093"
     },
     {
       "id": 1528,
@@ -813,7 +813,7 @@ window.companyData = {
       "actress": [
         "爱内希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-095"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-095"
     },
     {
       "id": 1802,
@@ -829,7 +829,7 @@ window.companyData = {
       "actress": [
         "岩佐步美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-092"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-092"
     },
     {
       "id": 1807,
@@ -845,7 +845,7 @@ window.companyData = {
       "actress": [
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-105"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-105"
     },
     {
       "id": 2056,
@@ -861,7 +861,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-104"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-104"
     },
     {
       "id": 1781,
@@ -877,7 +877,7 @@ window.companyData = {
       "actress": [
         "夏川純子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-103"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-103"
     },
     {
       "id": 1728,
@@ -893,7 +893,7 @@ window.companyData = {
       "actress": [
         "木葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-097"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-097"
     },
     {
       "id": 2044,
@@ -909,7 +909,7 @@ window.companyData = {
       "actress": [
         "爱杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-096"
     },
     {
       "id": 58934,
@@ -923,7 +923,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2023/01/11/3eaba6462b3c87f4e174d028ce65a963.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-241"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-241"
     },
     {
       "id": 1894,
@@ -939,7 +939,7 @@ window.companyData = {
       "actress": [
         "木葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-083"
     },
     {
       "id": 1790,
@@ -955,7 +955,7 @@ window.companyData = {
       "actress": [
         "木村都那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-091"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-091"
     },
     {
       "id": 1748,
@@ -971,7 +971,7 @@ window.companyData = {
       "actress": [
         "大仓彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-089"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-089"
     },
     {
       "id": 1987,
@@ -987,7 +987,7 @@ window.companyData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-090"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-090"
     },
     {
       "id": 1928,
@@ -1003,7 +1003,7 @@ window.companyData = {
       "actress": [
         "杏樹紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-086"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-086"
     },
     {
       "id": 1925,
@@ -1019,7 +1019,7 @@ window.companyData = {
       "actress": [
         "中野亚梨沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-088"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-088"
     },
     {
       "id": 1753,
@@ -1035,7 +1035,7 @@ window.companyData = {
       "actress": [
         "爱内希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-082"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-082"
     },
     {
       "id": 2055,
@@ -1051,7 +1051,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-087"
     },
     {
       "id": 1812,
@@ -1067,7 +1067,7 @@ window.companyData = {
       "actress": [
         "中野亚梨沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-084"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-084"
     },
     {
       "id": 2046,
@@ -1083,7 +1083,7 @@ window.companyData = {
       "actress": [
         "杏樹紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-077"
     },
     {
       "id": 1521,
@@ -1099,7 +1099,7 @@ window.companyData = {
       "actress": [
         "横山みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-080"
     },
     {
       "id": 1751,
@@ -1115,7 +1115,7 @@ window.companyData = {
       "actress": [
         "星野愛佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-079"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-079"
     },
     {
       "id": 1727,
@@ -1131,7 +1131,7 @@ window.companyData = {
       "actress": [
         "前田阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-081"
     },
     {
       "id": 2017,
@@ -1147,7 +1147,7 @@ window.companyData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-078"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-078"
     },
     {
       "id": 1731,
@@ -1163,7 +1163,7 @@ window.companyData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-076"
     },
     {
       "id": 1518,
@@ -1179,7 +1179,7 @@ window.companyData = {
       "actress": [
         "沙織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-075"
     },
     {
       "id": 1872,
@@ -1195,7 +1195,7 @@ window.companyData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-071"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-071"
     },
     {
       "id": 1822,
@@ -1211,7 +1211,7 @@ window.companyData = {
       "actress": [
         "福山沙耶香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-069"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-069"
     },
     {
       "id": 1523,
@@ -1227,7 +1227,7 @@ window.companyData = {
       "actress": [
         "羽月希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-072"
     },
     {
       "id": 1519,
@@ -1243,7 +1243,7 @@ window.companyData = {
       "actress": [
         "松すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-070"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-070"
     },
     {
       "id": 2033,
@@ -1259,7 +1259,7 @@ window.companyData = {
       "actress": [
         "星野愛佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-065"
     },
     {
       "id": 1994,
@@ -1275,7 +1275,7 @@ window.companyData = {
       "actress": [
         "麻倉真美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-064"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-064"
     },
     {
       "id": 1828,
@@ -1291,7 +1291,7 @@ window.companyData = {
       "actress": [
         "初美沙希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-066"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-066"
     },
     {
       "id": 1516,
@@ -1307,7 +1307,7 @@ window.companyData = {
       "actress": [
         "朝田ばなな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-067"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-067"
     },
     {
       "id": 58135,
@@ -1321,7 +1321,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-216"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-216"
     },
     {
       "id": 1981,
@@ -1337,7 +1337,7 @@ window.companyData = {
       "actress": [
         "愛里未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-062"
     },
     {
       "id": 1773,
@@ -1353,7 +1353,7 @@ window.companyData = {
       "actress": [
         "水玉檸檬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-063"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-063"
     },
     {
       "id": 1520,
@@ -1369,7 +1369,7 @@ window.companyData = {
       "actress": [
         "荒木瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-060"
     },
     {
       "id": 1515,
@@ -1385,7 +1385,7 @@ window.companyData = {
       "actress": [
         "相内しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-057"
     },
     {
       "id": 1961,
@@ -1401,7 +1401,7 @@ window.companyData = {
       "actress": [
         "小坂惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-074"
     },
     {
       "id": 1921,
@@ -1417,7 +1417,7 @@ window.companyData = {
       "actress": [
         "双叶美佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-073"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-073"
     },
     {
       "id": 1972,
@@ -1433,7 +1433,7 @@ window.companyData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-068"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-068"
     },
     {
       "id": 1510,
@@ -1449,7 +1449,7 @@ window.companyData = {
       "actress": [
         "Ayami"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-047"
     },
     {
       "id": 1514,
@@ -1465,7 +1465,7 @@ window.companyData = {
       "actress": [
         "加藤ツバキ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-049"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-049"
     },
     {
       "id": 1504,
@@ -1481,7 +1481,7 @@ window.companyData = {
       "actress": [
         "相原れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-035"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-035"
     },
     {
       "id": 1502,
@@ -1497,7 +1497,7 @@ window.companyData = {
       "actress": [
         "KAREN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-025"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-025"
     },
     {
       "id": 1501,
@@ -1513,7 +1513,7 @@ window.companyData = {
       "actress": [
         "長月ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-030"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-030"
     },
     {
       "id": 1500,
@@ -1529,7 +1529,7 @@ window.companyData = {
       "actress": [
         "吉原ミィナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-024"
     },
     {
       "id": 1499,
@@ -1545,7 +1545,7 @@ window.companyData = {
       "actress": [
         "葉月みりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-027"
     },
     {
       "id": 1496,
@@ -1561,7 +1561,7 @@ window.companyData = {
       "actress": [
         "小泉梨菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-021"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-021"
     },
     {
       "id": 1491,
@@ -1577,7 +1577,7 @@ window.companyData = {
       "actress": [
         "桜庭彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-014"
     },
     {
       "id": 1490,
@@ -1593,7 +1593,7 @@ window.companyData = {
       "actress": [
         "伊藤青葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-015"
     },
     {
       "id": 1755,
@@ -1607,7 +1607,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230201/20230201032938833833.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230201/20230201032938833833.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-013"
     },
     {
       "id": 1492,
@@ -1623,7 +1623,7 @@ window.companyData = {
       "actress": [
         "桜沢まひる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-011"
     },
     {
       "id": 2002,
@@ -1639,7 +1639,7 @@ window.companyData = {
       "actress": [
         "倉木瑪娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-061"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-061"
     },
     {
       "id": 1495,
@@ -1655,7 +1655,7 @@ window.companyData = {
       "actress": [
         "水川アンナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-008"
     },
     {
       "id": 1493,
@@ -1671,7 +1671,7 @@ window.companyData = {
       "actress": [
         "工藤はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-007"
     },
     {
       "id": 1494,
@@ -1687,7 +1687,7 @@ window.companyData = {
       "actress": [
         "倉知莉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-006"
     },
     {
       "id": 1488,
@@ -1703,7 +1703,7 @@ window.companyData = {
       "actress": [
         "桜井梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-004"
     },
     {
       "id": 1866,
@@ -1719,7 +1719,7 @@ window.companyData = {
       "actress": [
         "早川瀬里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-002"
     },
     {
       "id": 1489,
@@ -1735,7 +1735,7 @@ window.companyData = {
       "actress": [
         "愛田奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-003"
     },
     {
       "id": 2053,
@@ -1751,7 +1751,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-029"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-029"
     },
     {
       "id": 1512,
@@ -1767,7 +1767,7 @@ window.companyData = {
       "actress": [
         "铃木里美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-048"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-048"
     },
     {
       "id": 1506,
@@ -1783,7 +1783,7 @@ window.companyData = {
       "actress": [
         "葉山潤子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-050"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-050"
     },
     {
       "id": 1505,
@@ -1799,7 +1799,7 @@ window.companyData = {
       "actress": [
         "小向まな美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-046"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-046"
     },
     {
       "id": 1503,
@@ -1815,7 +1815,7 @@ window.companyData = {
       "actress": [
         "北条麻妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-034"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-034"
     },
     {
       "id": 2003,
@@ -1831,7 +1831,7 @@ window.companyData = {
       "actress": [
         "北原香菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-058"
     },
     {
       "id": 1524,
@@ -1847,7 +1847,7 @@ window.companyData = {
       "actress": [
         "広田さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-055"
     },
     {
       "id": 1517,
@@ -1863,7 +1863,7 @@ window.companyData = {
       "actress": [
         "铃木里美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-056"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-056"
     },
     {
       "id": 1522,
@@ -1879,7 +1879,7 @@ window.companyData = {
       "actress": [
         "早見るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-054"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-054"
     },
     {
       "id": 1498,
@@ -1895,7 +1895,7 @@ window.companyData = {
       "actress": [
         "遥めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-019"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-019"
     },
     {
       "id": 1769,
@@ -1911,7 +1911,7 @@ window.companyData = {
       "actress": [
         "井川由衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-053"
     },
     {
       "id": 1906,
@@ -1927,7 +1927,7 @@ window.companyData = {
       "actress": [
         "铃木里美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-040"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-040"
     },
     {
       "id": 1829,
@@ -1943,7 +1943,7 @@ window.companyData = {
       "actress": [
         "石川鈴華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-018"
     },
     {
       "id": 1507,
@@ -1959,7 +1959,7 @@ window.companyData = {
       "actress": [
         "大島りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-042"
     },
     {
       "id": 1511,
@@ -1975,7 +1975,7 @@ window.companyData = {
       "actress": [
         "広瀬藍子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-043"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-043"
     },
     {
       "id": 1508,
@@ -1991,7 +1991,7 @@ window.companyData = {
       "actress": [
         "卯月麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-052"
     },
     {
       "id": 1509,
@@ -2007,7 +2007,7 @@ window.companyData = {
       "actress": [
         "春咲あずみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-036"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-036"
     },
     {
       "id": 1513,
@@ -2023,7 +2023,7 @@ window.companyData = {
       "actress": [
         "真白希実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-041"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-041"
     },
     {
       "id": 2047,
@@ -2039,7 +2039,7 @@ window.companyData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-051"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-051"
     },
     {
       "id": 2045,
@@ -2055,7 +2055,7 @@ window.companyData = {
       "actress": [
         "北条麻妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-045"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-045"
     },
     {
       "id": 1809,
@@ -2071,7 +2071,7 @@ window.companyData = {
       "actress": [
         "原小雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-044"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-044"
     },
     {
       "id": 1922,
@@ -2087,7 +2087,7 @@ window.companyData = {
       "actress": [
         "七濑茱莉亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-026"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-026"
     },
     {
       "id": 2054,
@@ -2103,7 +2103,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-039"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-039"
     },
     {
       "id": 1931,
@@ -2120,7 +2120,7 @@ window.companyData = {
         "小澤瑪麗亞",
         "原小雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-020"
     },
     {
       "id": 58008,
@@ -2134,7 +2134,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKY-154"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKY-154"
     },
     {
       "id": 1984,
@@ -2150,7 +2150,7 @@ window.companyData = {
       "actress": [
         "宮澤凱特"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-037"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-037"
     },
     {
       "id": 1824,
@@ -2166,7 +2166,7 @@ window.companyData = {
       "actress": [
         "石原千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-038"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-038"
     },
     {
       "id": 1843,
@@ -2182,7 +2182,7 @@ window.companyData = {
       "actress": [
         "早川瀬里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-032"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-032"
     },
     {
       "id": 1825,
@@ -2198,7 +2198,7 @@ window.companyData = {
       "actress": [
         "新城里美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-033"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-033"
     },
     {
       "id": 1840,
@@ -2214,7 +2214,7 @@ window.companyData = {
       "actress": [
         "檸衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-031"
     },
     {
       "id": 1860,
@@ -2230,7 +2230,7 @@ window.companyData = {
       "actress": [
         "小澤瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-022"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-022"
     },
     {
       "id": 1497,
@@ -2247,7 +2247,7 @@ window.companyData = {
         "桜井梨花",
         "日之内優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-017"
     },
     {
       "id": 1884,
@@ -2263,7 +2263,7 @@ window.companyData = {
       "actress": [
         "花井佳音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-016"
     },
     {
       "id": 1913,
@@ -2279,7 +2279,7 @@ window.companyData = {
       "actress": [
         "櫻井莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-012"
     },
     {
       "id": 1962,
@@ -2295,7 +2295,7 @@ window.companyData = {
       "actress": [
         "高野夕美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-009"
     },
     {
       "id": 1710,
@@ -2311,7 +2311,7 @@ window.companyData = {
       "actress": [
         "宮澤凱特"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-001"
     },
     {
       "id": 1750,
@@ -2327,7 +2327,7 @@ window.companyData = {
       "actress": [
         "相崎琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKYHD-005"
     }
   ]
 };

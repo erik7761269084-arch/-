@@ -46,7 +46,7 @@ window.companyData = {
         "永濑唯",
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-189"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-189"
     },
     {
       "id": 3422,
@@ -62,7 +62,7 @@ window.companyData = {
       "actress": [
         "三岳祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-478"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-478"
     },
     {
       "id": 3398,
@@ -78,7 +78,7 @@ window.companyData = {
       "actress": [
         "有村希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-471"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-471"
     },
     {
       "id": 3392,
@@ -96,7 +96,7 @@ window.companyData = {
         "トイボーイ相沢",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-472"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-472"
     },
     {
       "id": 3313,
@@ -133,7 +133,7 @@ window.companyData = {
         "安倍亜沙美",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-187"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-187"
     },
     {
       "id": 4334,
@@ -150,7 +150,7 @@ window.companyData = {
         "春陽萌花",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-467"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-467"
     },
     {
       "id": 4268,
@@ -179,7 +179,7 @@ window.companyData = {
         "安倍亜沙美",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-184"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-184"
     },
     {
       "id": 4267,
@@ -224,7 +224,7 @@ window.companyData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-185"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-185"
     },
     {
       "id": 5164,
@@ -240,7 +240,7 @@ window.companyData = {
       "actress": [
         "北野未奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-469"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-469"
     },
     {
       "id": 5150,
@@ -261,7 +261,7 @@ window.companyData = {
         "ナイアガラ翔",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-468"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-468"
     },
     {
       "id": 5126,
@@ -288,7 +288,7 @@ window.companyData = {
         "凪沙雪乃",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-182"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-182"
     },
     {
       "id": 5886,
@@ -306,7 +306,7 @@ window.companyData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-466"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-466"
     },
     {
       "id": 5885,
@@ -323,7 +323,7 @@ window.companyData = {
         "森日向子",
         "木下日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-181"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-181"
     },
     {
       "id": 5870,
@@ -352,7 +352,7 @@ window.companyData = {
         "弥生美月",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-180"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-180"
     },
     {
       "id": 6672,
@@ -383,7 +383,7 @@ window.companyData = {
         "安倍亜沙美",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-172"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-172"
     },
     {
       "id": 6671,
@@ -409,7 +409,7 @@ window.companyData = {
         "安倍亜沙美",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-178"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-178"
     },
     {
       "id": 7402,
@@ -426,7 +426,7 @@ window.companyData = {
         "JULIA",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-457"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-457"
     },
     {
       "id": 8119,
@@ -443,7 +443,7 @@ window.companyData = {
         "姫咲華",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-458"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-458"
     },
     {
       "id": 8114,
@@ -459,7 +459,7 @@ window.companyData = {
       "actress": [
         "春陽萌花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-454"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-454"
     },
     {
       "id": 7997,
@@ -476,7 +476,7 @@ window.companyData = {
         "天馬唯",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-453"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-453"
     },
     {
       "id": 8809,
@@ -492,7 +492,7 @@ window.companyData = {
       "actress": [
         "千川とわ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-449"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-449"
     },
     {
       "id": 8808,
@@ -510,7 +510,7 @@ window.companyData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-450"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-450"
     },
     {
       "id": 8787,
@@ -526,7 +526,7 @@ window.companyData = {
       "actress": [
         "宍戸里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-448"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-448"
     },
     {
       "id": 8786,
@@ -542,7 +542,7 @@ window.companyData = {
       "actress": [
         "逢澤美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-452"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-452"
     },
     {
       "id": 8785,
@@ -559,7 +559,7 @@ window.companyData = {
         "JULIA",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-456"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-456"
     },
     {
       "id": 9770,
@@ -575,7 +575,7 @@ window.companyData = {
       "actress": [
         "北岡果林"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-445"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-445"
     },
     {
       "id": 9769,
@@ -592,7 +592,7 @@ window.companyData = {
         "春陽萌花",
         "AIKA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-455"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-455"
     },
     {
       "id": 9699,
@@ -608,7 +608,7 @@ window.companyData = {
       "actress": [
         "都月楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-451"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-451"
     },
     {
       "id": 78597,
@@ -632,7 +632,7 @@ window.companyData = {
         "若槻みづな",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-168"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-168"
     },
     {
       "id": 78587,
@@ -657,7 +657,7 @@ window.companyData = {
         "篠田优",
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-167"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-167"
     },
     {
       "id": 10468,
@@ -673,7 +673,7 @@ window.companyData = {
       "actress": [
         "美咲佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-435"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-435"
     },
     {
       "id": 10432,
@@ -689,7 +689,7 @@ window.companyData = {
       "actress": [
         "姫咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-444"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-444"
     },
     {
       "id": 10429,
@@ -706,7 +706,7 @@ window.companyData = {
         "真木今日子",
         "本真友里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-441"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-441"
     },
     {
       "id": 10425,
@@ -722,7 +722,7 @@ window.companyData = {
       "actress": [
         "加藤桃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-446"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-446"
     },
     {
       "id": 10400,
@@ -741,7 +741,7 @@ window.companyData = {
         "ナイアガラ翔",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-447"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-447"
     },
     {
       "id": 16651,
@@ -757,7 +757,7 @@ window.companyData = {
       "actress": [
         "JULIA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-405"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-405"
     },
     {
       "id": 91322,
@@ -782,7 +782,7 @@ window.companyData = {
         "望月憧",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-143"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-143"
     },
     {
       "id": 91330,
@@ -808,7 +808,7 @@ window.companyData = {
         "浜崎真绪",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-141"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-141"
     },
     {
       "id": 91329,
@@ -832,7 +832,7 @@ window.companyData = {
         "七海雛",
         "永濑唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-142"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-142"
     },
     {
       "id": 18141,
@@ -849,7 +849,7 @@ window.companyData = {
         "黑川堇",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-398"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOD-398"
     },
     {
       "id": 91355,
@@ -873,7 +873,7 @@ window.companyData = {
         "安倍亜沙美",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-139"
     },
     {
       "id": 91332,
@@ -898,7 +898,7 @@ window.companyData = {
         "堀内美香",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-140"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-140"
     },
     {
       "id": 91353,
@@ -922,7 +922,7 @@ window.companyData = {
         "篠田优",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-138"
     },
     {
       "id": 91344,
@@ -948,7 +948,7 @@ window.companyData = {
         "若宫はずき",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-137"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-137"
     },
     {
       "id": 91346,
@@ -974,7 +974,7 @@ window.companyData = {
         "安倍亜沙美",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-135"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-135"
     },
     {
       "id": 91345,
@@ -1000,7 +1000,7 @@ window.companyData = {
         "安倍亜沙美",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-136"
     },
     {
       "id": 91350,
@@ -1025,7 +1025,7 @@ window.companyData = {
         "安倍亜沙美",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-133"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-133"
     },
     {
       "id": 91348,
@@ -1051,7 +1051,7 @@ window.companyData = {
         "篠田优",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-134"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-134"
     },
     {
       "id": 91351,
@@ -1074,7 +1074,7 @@ window.companyData = {
         "椎叶みくる",
         "新井爱丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-132"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-132"
     },
     {
       "id": 91347,
@@ -1100,7 +1100,7 @@ window.companyData = {
         "椎叶みくる",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-131"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-131"
     },
     {
       "id": 91335,
@@ -1124,7 +1124,7 @@ window.companyData = {
         "若槻みづな",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-129"
     },
     {
       "id": 91333,
@@ -1147,7 +1147,7 @@ window.companyData = {
         "浜崎真绪",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-130"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-130"
     },
     {
       "id": 87313,
@@ -1172,7 +1172,7 @@ window.companyData = {
         "安倍亜沙美",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-115"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-115"
     },
     {
       "id": 88285,
@@ -1195,7 +1195,7 @@ window.companyData = {
         "佐藤爱琉",
         "久远れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-076"
     },
     {
       "id": 81529,
@@ -1214,7 +1214,7 @@ window.companyData = {
         "星奈爱",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-061"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-061"
     },
     {
       "id": 83481,
@@ -1238,7 +1238,7 @@ window.companyData = {
         "今井真由美",
         "越川アメリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-058"
     },
     {
       "id": 74645,
@@ -1268,7 +1268,7 @@ window.companyData = {
         "関根奈美",
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-046"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CJOB-046"
     }
   ]
 };

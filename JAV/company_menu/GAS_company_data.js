@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "姫野ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-528"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-528"
     },
     {
       "id": 61283,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "浜辺まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-526"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-526"
     },
     {
       "id": 61236,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "雫らむね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-527"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-527"
     },
     {
       "id": 63301,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "渡辺うい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-525"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-525"
     },
     {
       "id": 63562,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "桜じゅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-524"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-524"
     },
     {
       "id": 63215,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GASS-041"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GASS-041"
     },
     {
       "id": 67513,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "姫野ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-523"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-523"
     },
     {
       "id": 7109,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "成実ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-522"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-522"
     },
     {
       "id": 78719,
@@ -145,7 +145,7 @@ window.companyData = {
       "actress": [
         "姫咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-485"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-485"
     },
     {
       "id": 81563,
@@ -161,7 +161,7 @@ window.companyData = {
       "actress": [
         "若槻みづな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-474"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GAS-474"
     }
   ]
 };

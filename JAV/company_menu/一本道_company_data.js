@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/f3b2f1b6e874b967c1becd815069400a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1PONDO"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=1PONDO"
     },
     {
       "id": 1486,
@@ -33,7 +33,7 @@ window.companyData = {
         "水谷杏",
         "平野愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=092618_748"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=092618_748"
     }
   ]
 };

@@ -18,7 +18,7 @@ window.companyData = {
         "七沢えま",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFT-031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFT-031"
     },
     {
       "id": 3622,
@@ -36,7 +36,7 @@ window.companyData = {
         "鲛岛",
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-030"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KBR-030"
     },
     {
       "id": 4340,
@@ -52,7 +52,7 @@ window.companyData = {
       "actress": [
         "鷲見蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFT-028"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFT-028"
     },
     {
       "id": 4549,
@@ -68,7 +68,7 @@ window.companyData = {
       "actress": [
         "斎木香住"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KBR-027"
     },
     {
       "id": 4548,
@@ -84,7 +84,7 @@ window.companyData = {
       "actress": [
         "茜音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFT-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFT-027"
     },
     {
       "id": 5941,
@@ -102,7 +102,7 @@ window.companyData = {
         "鲛岛",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIT-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KIT-010"
     },
     {
       "id": 68954,
@@ -118,7 +118,7 @@ window.companyData = {
       "actress": [
         "斎木香住"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-021"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KBR-021"
     },
     {
       "id": 6802,
@@ -135,7 +135,7 @@ window.companyData = {
         "新井伊織",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFT-026"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FFT-026"
     },
     {
       "id": 6636,
@@ -151,7 +151,7 @@ window.companyData = {
       "actress": [
         "羽月乃蒼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIT-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KIT-008"
     },
     {
       "id": 6800,
@@ -168,7 +168,7 @@ window.companyData = {
         "松岡鈴",
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-022"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KBR-022"
     }
   ]
 };

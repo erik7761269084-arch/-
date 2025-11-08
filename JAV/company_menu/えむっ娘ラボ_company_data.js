@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "真咲南朋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMLB-082"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=EMLB-082"
     },
     {
       "id": 2623,
@@ -34,7 +34,7 @@ window.companyData = {
         "桃瀨日葵",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-401"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-401"
     },
     {
       "id": 2611,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "大原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-404"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-404"
     },
     {
       "id": 2607,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "池内遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-411"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-411"
     },
     {
       "id": 2606,
@@ -83,7 +83,7 @@ window.companyData = {
         "光森珠理",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-400"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-400"
     },
     {
       "id": 2591,
@@ -100,7 +100,7 @@ window.companyData = {
         "足立友梨",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-403"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-403"
     },
     {
       "id": 3350,
@@ -117,7 +117,7 @@ window.companyData = {
         "花衣つばき",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-399"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-399"
     },
     {
       "id": 3348,
@@ -134,7 +134,7 @@ window.companyData = {
         "桂木春香",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-397"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-397"
     },
     {
       "id": 3317,
@@ -153,7 +153,7 @@ window.companyData = {
         "二叶エマ",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-398"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-398"
     },
     {
       "id": 4131,
@@ -171,7 +171,7 @@ window.companyData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OFES-012"
     },
     {
       "id": 63678,
@@ -188,7 +188,7 @@ window.companyData = {
         "海野いくら",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-391"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-391"
     },
     {
       "id": 5149,
@@ -204,7 +204,7 @@ window.companyData = {
       "actress": [
         "千石もなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-374"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-374"
     },
     {
       "id": 5144,
@@ -221,7 +221,7 @@ window.companyData = {
         "鲛岛",
         "百恵みこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-385"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-385"
     },
     {
       "id": 5135,
@@ -237,7 +237,7 @@ window.companyData = {
       "actress": [
         "星宮桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-390"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-390"
     },
     {
       "id": 5881,
@@ -254,7 +254,7 @@ window.companyData = {
         "美木雛乃",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-380"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-380"
     },
     {
       "id": 5879,
@@ -271,7 +271,7 @@ window.companyData = {
         "雨村梨花",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-383"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-383"
     },
     {
       "id": 5867,
@@ -289,7 +289,7 @@ window.companyData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-388"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-388"
     },
     {
       "id": 5861,
@@ -305,7 +305,7 @@ window.companyData = {
       "actress": [
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-386"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-386"
     },
     {
       "id": 6619,
@@ -322,7 +322,7 @@ window.companyData = {
         "花狩舞",
         "美波梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-091"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PFES-091"
     },
     {
       "id": 6757,
@@ -339,7 +339,7 @@ window.companyData = {
         "白石あきほ",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-379"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-379"
     },
     {
       "id": 6753,
@@ -356,7 +356,7 @@ window.companyData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-384"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-384"
     },
     {
       "id": 6734,
@@ -372,7 +372,7 @@ window.companyData = {
       "actress": [
         "佐久間津奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-378"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-378"
     },
     {
       "id": 6727,
@@ -388,7 +388,7 @@ window.companyData = {
       "actress": [
         "月野江翠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-377"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-377"
     },
     {
       "id": 6721,
@@ -406,7 +406,7 @@ window.companyData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-371"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-371"
     },
     {
       "id": 70558,
@@ -422,7 +422,7 @@ window.companyData = {
       "actress": [
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-381"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-381"
     },
     {
       "id": 7380,
@@ -439,7 +439,7 @@ window.companyData = {
         "美雲そら",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-373"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-373"
     },
     {
       "id": 7374,
@@ -457,7 +457,7 @@ window.companyData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-375"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-375"
     },
     {
       "id": 7348,
@@ -475,7 +475,7 @@ window.companyData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-372"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-372"
     },
     {
       "id": 8835,
@@ -493,7 +493,7 @@ window.companyData = {
         "妃月るい",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-360"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-360"
     },
     {
       "id": 8817,
@@ -510,7 +510,7 @@ window.companyData = {
         "本田瞳",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-366"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-366"
     },
     {
       "id": 8801,
@@ -528,7 +528,7 @@ window.companyData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-367"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-367"
     },
     {
       "id": 8775,
@@ -545,7 +545,7 @@ window.companyData = {
         "佐久間津奈",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-364"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-364"
     },
     {
       "id": 76135,
@@ -563,7 +563,7 @@ window.companyData = {
         "イセドン内村",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-359"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-359"
     },
     {
       "id": 9747,
@@ -580,7 +580,7 @@ window.companyData = {
         "十川ありさ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-356"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-356"
     },
     {
       "id": 95062,
@@ -594,7 +594,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/a7efb92f/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-353"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-353"
     },
     {
       "id": 10479,
@@ -611,7 +611,7 @@ window.companyData = {
         "月妃さら",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-355"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-355"
     },
     {
       "id": 10476,
@@ -629,7 +629,7 @@ window.companyData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-350"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-350"
     },
     {
       "id": 10426,
@@ -645,7 +645,7 @@ window.companyData = {
       "actress": [
         "天晴乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-354"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-354"
     },
     {
       "id": 16640,
@@ -662,7 +662,7 @@ window.companyData = {
         "生田りん",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-306"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-306"
     },
     {
       "id": 16637,
@@ -679,7 +679,7 @@ window.companyData = {
         "佐倉陽菜",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-305"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-305"
     },
     {
       "id": 92354,
@@ -695,7 +695,7 @@ window.companyData = {
       "actress": [
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-255"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-255"
     },
     {
       "id": 85602,
@@ -711,7 +711,7 @@ window.companyData = {
       "actress": [
         "夏目未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-254"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-254"
     },
     {
       "id": 85595,
@@ -728,7 +728,7 @@ window.companyData = {
         "鲛岛",
         "篠宮花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-251"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-251"
     },
     {
       "id": 85563,
@@ -742,7 +742,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-253"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-253"
     },
     {
       "id": 85547,
@@ -758,7 +758,7 @@ window.companyData = {
       "actress": [
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-252"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-252"
     },
     {
       "id": 73412,
@@ -772,7 +772,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250121-1/63b15e66735b3e69b267e30caca53f7f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-250"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-250"
     },
     {
       "id": 87019,
@@ -788,7 +788,7 @@ window.companyData = {
       "actress": [
         "妃月るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-247"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-247"
     },
     {
       "id": 85588,
@@ -802,7 +802,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-245"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-245"
     },
     {
       "id": 85534,
@@ -816,7 +816,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/7ddc08595440ee341da87d4f10deedfc.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-246"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-246"
     },
     {
       "id": 85594,
@@ -830,7 +830,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-244"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-244"
     },
     {
       "id": 85530,
@@ -846,7 +846,7 @@ window.companyData = {
       "actress": [
         "倉與田"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-243"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-243"
     },
     {
       "id": 80740,
@@ -860,7 +860,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-236"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-236"
     },
     {
       "id": 80722,
@@ -876,7 +876,7 @@ window.companyData = {
       "actress": [
         "望月綾香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-234"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-234"
     },
     {
       "id": 80721,
@@ -892,7 +892,7 @@ window.companyData = {
       "actress": [
         "前乃菜菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-233"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-233"
     },
     {
       "id": 85577,
@@ -910,7 +910,7 @@ window.companyData = {
         "タイ",
         "白沢比吕"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-232"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-232"
     },
     {
       "id": 85574,
@@ -926,7 +926,7 @@ window.companyData = {
       "actress": [
         "乙愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-231"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-231"
     },
     {
       "id": 85604,
@@ -943,7 +943,7 @@ window.companyData = {
         "前乃菜菜",
         "七宫ゆりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-223"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-223"
     },
     {
       "id": 85599,
@@ -959,7 +959,7 @@ window.companyData = {
       "actress": [
         "今井まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-222"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-222"
     },
     {
       "id": 85597,
@@ -975,7 +975,7 @@ window.companyData = {
       "actress": [
         "七宫ゆりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-221"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-221"
     },
     {
       "id": 85589,
@@ -991,7 +991,7 @@ window.companyData = {
       "actress": [
         "日泉舞香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-220"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-220"
     },
     {
       "id": 85590,
@@ -1005,7 +1005,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-215"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-215"
     },
     {
       "id": 79644,
@@ -1022,7 +1022,7 @@ window.companyData = {
         "一条美绪",
         "塩见彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-209"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-209"
     },
     {
       "id": 79561,
@@ -1038,7 +1038,7 @@ window.companyData = {
       "actress": [
         "望月綾香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-211"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-211"
     },
     {
       "id": 79521,
@@ -1052,7 +1052,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-210"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-210"
     },
     {
       "id": 88069,
@@ -1068,7 +1068,7 @@ window.companyData = {
       "actress": [
         "流川帆波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-182"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-182"
     },
     {
       "id": 77173,
@@ -1084,7 +1084,7 @@ window.companyData = {
       "actress": [
         "要ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-172"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-172"
     },
     {
       "id": 83666,
@@ -1100,7 +1100,7 @@ window.companyData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-169"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-169"
     },
     {
       "id": 82158,
@@ -1116,7 +1116,7 @@ window.companyData = {
       "actress": [
         "藤谷咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-170"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-170"
     },
     {
       "id": 81792,
@@ -1132,7 +1132,7 @@ window.companyData = {
       "actress": [
         "松ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-164"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-164"
     },
     {
       "id": 83109,
@@ -1146,7 +1146,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221220-1/1caaf580b1384bb00f7799459ca37490.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-161"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-161"
     },
     {
       "id": 81782,
@@ -1162,7 +1162,7 @@ window.companyData = {
       "actress": [
         "千种ちな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-157"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-157"
     },
     {
       "id": 75187,
@@ -1178,7 +1178,7 @@ window.companyData = {
       "actress": [
         "柊留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-159"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-159"
     },
     {
       "id": 73789,
@@ -1196,7 +1196,7 @@ window.companyData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-147"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-147"
     },
     {
       "id": 73775,
@@ -1214,7 +1214,7 @@ window.companyData = {
         "河合乃乃花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-146"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-146"
     },
     {
       "id": 73790,
@@ -1230,7 +1230,7 @@ window.companyData = {
       "actress": [
         "中尾芽衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-144"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-144"
     },
     {
       "id": 73788,
@@ -1247,7 +1247,7 @@ window.companyData = {
         "森林原人",
         "本多かおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-145"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-145"
     },
     {
       "id": 77172,
@@ -1263,7 +1263,7 @@ window.companyData = {
       "actress": [
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-140"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-140"
     },
     {
       "id": 77337,
@@ -1280,7 +1280,7 @@ window.companyData = {
         "松ゆきの",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-136"
     },
     {
       "id": 77254,
@@ -1297,7 +1297,7 @@ window.companyData = {
         "雨村梨花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-123"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-123"
     },
     {
       "id": 88111,
@@ -1313,7 +1313,7 @@ window.companyData = {
       "actress": [
         "桜木エリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MISM-060"
     }
   ]
 };

@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250727/20250727112010208208_83941_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250727/20250727112010208208_83941_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STCVS-029"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=STCVS-029"
     },
     {
       "id": 6204,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512093849562562_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250512/20250512093849562562_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STCVS-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=STCVS-024"
     }
   ]
 };

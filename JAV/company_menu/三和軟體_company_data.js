@@ -18,7 +18,7 @@ window.companyData = {
         "青山未来",
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LABY-006"
     },
     {
       "id": 61151,
@@ -36,7 +36,7 @@ window.companyData = {
         "新川优里",
         "広瀬うみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LABY-005"
     },
     {
       "id": 3095,
@@ -52,7 +52,7 @@ window.companyData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LABY-004"
     },
     {
       "id": 4031,
@@ -68,7 +68,7 @@ window.companyData = {
       "actress": [
         "岸永みりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LABY-002"
     },
     {
       "id": 4025,
@@ -84,7 +84,7 @@ window.companyData = {
       "actress": [
         "天乃のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LABY-001"
     },
     {
       "id": 4024,
@@ -98,7 +98,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250729/20250728235629548548_67443_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250729/20250728235629548548_67443_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LABY-003"
     }
   ]
 };

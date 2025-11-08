@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "前乃菜菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNIP-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KNIP-008"
     },
     {
       "id": 8379,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "神島*キララ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNIP-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KNIP-004"
     },
     {
       "id": 10718,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "初咲*ロラ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNIP-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KNIP-001"
     },
     {
       "id": 69470,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "辰美アカリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNIP-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KNIP-005"
     }
   ]
 };

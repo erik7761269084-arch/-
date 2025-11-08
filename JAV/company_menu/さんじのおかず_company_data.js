@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "玉城夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDGN-038"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDGN-038"
     },
     {
       "id": 90265,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "有栖舞衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDGN-031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDGN-031"
     },
     {
       "id": 90259,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "美澄玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDGN-029"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDGN-029"
     }
   ]
 };

@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/10/06/0c1c93f133e664112d10df989cbb4d79.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJEE-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JJEE-011"
     },
     {
       "id": 61566,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/08/23/4f1a5fb6ddec4ada366e8828306279b4.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJEE-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JJEE-010"
     },
     {
       "id": 3537,
@@ -45,7 +45,7 @@ window.companyData = {
       "actress": [
         "石原あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-177"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-177"
     },
     {
       "id": 3886,
@@ -62,7 +62,7 @@ window.companyData = {
         "有岡みう",
         "沖本さとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-176"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-176"
     },
     {
       "id": 3876,
@@ -78,7 +78,7 @@ window.companyData = {
       "actress": [
         "篠宮友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-175"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-175"
     },
     {
       "id": 62683,
@@ -92,7 +92,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/6e0092ba/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJEE-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JJEE-009"
     },
     {
       "id": 4360,
@@ -108,7 +108,7 @@ window.companyData = {
       "actress": [
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-173"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-173"
     },
     {
       "id": 5297,
@@ -124,7 +124,7 @@ window.companyData = {
       "actress": [
         "天瀬由花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-170"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-170"
     },
     {
       "id": 66103,
@@ -138,7 +138,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/7003d249/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJEE-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JJEE-007"
     },
     {
       "id": 6461,
@@ -155,7 +155,7 @@ window.companyData = {
         "前田美波",
         "武内有紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-167"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-167"
     },
     {
       "id": 6432,
@@ -172,7 +172,7 @@ window.companyData = {
         "倉木詩織",
         "南原ほたる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-166"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-166"
     },
     {
       "id": 67983,
@@ -186,7 +186,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJEE-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JJEE-006"
     },
     {
       "id": 68557,
@@ -200,7 +200,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJEE-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JJEE-005"
     },
     {
       "id": 7796,
@@ -216,7 +216,7 @@ window.companyData = {
       "actress": [
         "水端麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-163"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-163"
     },
     {
       "id": 8916,
@@ -233,7 +233,7 @@ window.companyData = {
         "九井珠奈緒",
         "木野野葉惠里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJEE-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JJEE-003"
     },
     {
       "id": 9388,
@@ -249,7 +249,7 @@ window.companyData = {
       "actress": [
         "大島絢香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-159"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUTA-159"
     },
     {
       "id": 9904,
@@ -263,7 +263,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20241214/3af9a28c-7e29-4d03-810e-e63953862781.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20241214/3af9a28c-7e29-4d03-810e-e63953862781.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJEE-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JJEE-002"
     }
   ]
 };

@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "羽月乃蒼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-364"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-364"
     },
     {
       "id": 3808,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-361"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-361"
     },
     {
       "id": 4160,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-360"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-360"
     },
     {
       "id": 4155,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "静河"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-359"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-359"
     },
     {
       "id": 5022,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "九井珠奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-358"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-358"
     },
     {
       "id": 5020,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "足立友梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-357"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-357"
     },
     {
       "id": 5389,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "伊東沙蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-345"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-345"
     },
     {
       "id": 5232,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "葉山小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-356"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-356"
     },
     {
       "id": 5959,
@@ -143,7 +143,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014256169169_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014256169169_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-354"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-354"
     },
     {
       "id": 5943,
@@ -159,7 +159,7 @@ window.companyData = {
       "actress": [
         "美木雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-353"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-353"
     },
     {
       "id": 6646,
@@ -175,7 +175,7 @@ window.companyData = {
       "actress": [
         "水川潤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-352"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-352"
     },
     {
       "id": 70617,
@@ -189,7 +189,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-350"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-350"
     },
     {
       "id": 7412,
@@ -205,7 +205,7 @@ window.companyData = {
       "actress": [
         "及川海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-349"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-349"
     },
     {
       "id": 7764,
@@ -221,7 +221,7 @@ window.companyData = {
       "actress": [
         "希咲愛莉絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-348"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-348"
     },
     {
       "id": 72450,
@@ -237,7 +237,7 @@ window.companyData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-347"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-347"
     },
     {
       "id": 72843,
@@ -253,7 +253,7 @@ window.companyData = {
       "actress": [
         "葵百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-344"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-344"
     },
     {
       "id": 9583,
@@ -269,7 +269,7 @@ window.companyData = {
       "actress": [
         "夏巳百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-341"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-341"
     },
     {
       "id": 76764,
@@ -283,7 +283,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-340"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-340"
     },
     {
       "id": 95414,
@@ -299,7 +299,7 @@ window.companyData = {
       "actress": [
         "美咲佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-336"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-336"
     },
     {
       "id": 95586,
@@ -316,7 +316,7 @@ window.companyData = {
         "イセドン内村",
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-333"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-333"
     },
     {
       "id": 107142,
@@ -332,7 +332,7 @@ window.companyData = {
       "actress": [
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-287"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-287"
     },
     {
       "id": 66711,
@@ -346,7 +346,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-283"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-283"
     },
     {
       "id": 72890,
@@ -362,7 +362,7 @@ window.companyData = {
       "actress": [
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-279"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-279"
     },
     {
       "id": 81135,
@@ -378,7 +378,7 @@ window.companyData = {
       "actress": [
         "姫咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-272"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-272"
     },
     {
       "id": 84633,
@@ -394,7 +394,7 @@ window.companyData = {
       "actress": [
         "水森めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-264"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-264"
     },
     {
       "id": 79718,
@@ -410,7 +410,7 @@ window.companyData = {
       "actress": [
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-257"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-257"
     },
     {
       "id": 83558,
@@ -426,7 +426,7 @@ window.companyData = {
       "actress": [
         "天野弥生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-204"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-204"
     },
     {
       "id": 76237,
@@ -443,7 +443,7 @@ window.companyData = {
         "藤森里穂",
         "志田雪奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-205"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-205"
     },
     {
       "id": 76208,
@@ -457,7 +457,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-203"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-203"
     },
     {
       "id": 76236,
@@ -473,7 +473,7 @@ window.companyData = {
       "actress": [
         "河北春菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-196"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-196"
     },
     {
       "id": 75796,
@@ -490,7 +490,7 @@ window.companyData = {
         "赤瀬尚子",
         "加濑七穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-197"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-197"
     },
     {
       "id": 76026,
@@ -504,7 +504,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/f1f771d869b096710b6cd83a37c4727a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-195"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-195"
     },
     {
       "id": 76344,
@@ -518,7 +518,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/22ee4aee5e4317496bdff9fd6da3965f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-192"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-192"
     },
     {
       "id": 73455,
@@ -534,7 +534,7 @@ window.companyData = {
       "actress": [
         "深田詠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-171"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-171"
     },
     {
       "id": 71184,
@@ -550,7 +550,7 @@ window.companyData = {
       "actress": [
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-167"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-167"
     },
     {
       "id": 71211,
@@ -566,7 +566,7 @@ window.companyData = {
       "actress": [
         "寶生莉莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-148"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-148"
     },
     {
       "id": 71420,
@@ -582,7 +582,7 @@ window.companyData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-138"
     },
     {
       "id": 71482,
@@ -598,7 +598,7 @@ window.companyData = {
       "actress": [
         "桐岛莉乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-127"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HAWA-127"
     }
   ]
 };

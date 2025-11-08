@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-565"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-565"
     },
     {
       "id": 84399,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-348"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-348"
     },
     {
       "id": 84395,
@@ -45,7 +45,7 @@ window.companyData = {
       "actress": [
         "天然美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-349"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-349"
     },
     {
       "id": 88018,
@@ -59,7 +59,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-208"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-208"
     },
     {
       "id": 88012,
@@ -75,7 +75,7 @@ window.companyData = {
       "actress": [
         "東條夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-207"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-207"
     },
     {
       "id": 78526,
@@ -91,7 +91,7 @@ window.companyData = {
       "actress": [
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-127"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-127"
     },
     {
       "id": 78524,
@@ -107,7 +107,7 @@ window.companyData = {
       "actress": [
         "岬梓沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-128"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-128"
     },
     {
       "id": 81557,
@@ -123,7 +123,7 @@ window.companyData = {
       "actress": [
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-126"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-126"
     },
     {
       "id": 83605,
@@ -139,7 +139,7 @@ window.companyData = {
       "actress": [
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-123"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-123"
     },
     {
       "id": 76219,
@@ -155,7 +155,7 @@ window.companyData = {
       "actress": [
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-125"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-125"
     },
     {
       "id": 83610,
@@ -171,7 +171,7 @@ window.companyData = {
       "actress": [
         "夏川海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-120"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-120"
     },
     {
       "id": 83607,
@@ -187,7 +187,7 @@ window.companyData = {
       "actress": [
         "新田みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-121"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-121"
     },
     {
       "id": 76248,
@@ -203,7 +203,7 @@ window.companyData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-117"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-117"
     },
     {
       "id": 76247,
@@ -219,7 +219,7 @@ window.companyData = {
       "actress": [
         "御坂莉亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-118"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-118"
     },
     {
       "id": 76249,
@@ -235,7 +235,7 @@ window.companyData = {
       "actress": [
         "渚光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-116"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-116"
     },
     {
       "id": 76218,
@@ -251,7 +251,7 @@ window.companyData = {
       "actress": [
         "爱瀬るか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-115"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-115"
     },
     {
       "id": 76254,
@@ -267,7 +267,7 @@ window.companyData = {
       "actress": [
         "森本つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-112"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-112"
     },
     {
       "id": 76246,
@@ -283,7 +283,7 @@ window.companyData = {
       "actress": [
         "河北春菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-113"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ETQR-113"
     }
   ]
 };

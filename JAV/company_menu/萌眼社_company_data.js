@@ -18,7 +18,7 @@ window.companyData = {
         "潤うるる",
         "花乃春日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FGAN-139"
     },
     {
       "id": 7924,
@@ -35,7 +35,7 @@ window.companyData = {
         "千川とわ",
         "星仲ここみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-140"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FGAN-140"
     }
   ]
 };

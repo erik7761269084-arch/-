@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250916/202509162245451111_83367_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250916/202509162245451111_83367_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-485"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-485"
     },
     {
       "id": 3631,
@@ -31,7 +31,7 @@ window.companyData = {
       "actress": [
         "若宮穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-479"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-479"
     },
     {
       "id": 3445,
@@ -49,7 +49,7 @@ window.companyData = {
         "伊織雛乃",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-482"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-482"
     },
     {
       "id": 62167,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "吉崎きよか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-478"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-478"
     },
     {
       "id": 4056,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "堀北実来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIHA-097"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIHA-097"
     },
     {
       "id": 4545,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "天馬唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-476"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-476"
     },
     {
       "id": 4401,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "卯水咲流"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-477"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-477"
     },
     {
       "id": 5750,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "美澄玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIHA-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIHA-096"
     },
     {
       "id": 6193,
@@ -145,7 +145,7 @@ window.companyData = {
       "actress": [
         "大槻响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-471"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-471"
     },
     {
       "id": 6189,
@@ -161,7 +161,7 @@ window.companyData = {
       "actress": [
         "玉城夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-472"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-472"
     },
     {
       "id": 63330,
@@ -177,7 +177,7 @@ window.companyData = {
       "actress": [
         "美澄玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-468"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-468"
     },
     {
       "id": 70485,
@@ -191,7 +191,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/21/b650562e/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-466"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-466"
     },
     {
       "id": 72864,
@@ -205,7 +205,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/15/11471327/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-463"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-463"
     },
     {
       "id": 10013,
@@ -219,7 +219,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20241212/c5a8b4d8-7a7e-40c3-a2a5-96a0bc257989.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20241212/c5a8b4d8-7a7e-40c3-a2a5-96a0bc257989.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-457"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-457"
     },
     {
       "id": 10003,
@@ -235,7 +235,7 @@ window.companyData = {
       "actress": [
         "瀬那瑠美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-456"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-456"
     },
     {
       "id": 10818,
@@ -251,7 +251,7 @@ window.companyData = {
       "actress": [
         "皆瀨明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-454"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-454"
     },
     {
       "id": 103560,
@@ -267,7 +267,7 @@ window.companyData = {
       "actress": [
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-416"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-416"
     },
     {
       "id": 106708,
@@ -283,7 +283,7 @@ window.companyData = {
       "actress": [
         "妃光莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-408"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-408"
     },
     {
       "id": 106707,
@@ -299,7 +299,7 @@ window.companyData = {
       "actress": [
         "高瀬りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-409"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-409"
     },
     {
       "id": 88266,
@@ -315,7 +315,7 @@ window.companyData = {
       "actress": [
         "大槻响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-396"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-396"
     },
     {
       "id": 73375,
@@ -331,7 +331,7 @@ window.companyData = {
       "actress": [
         "橘瑪麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-397"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-397"
     },
     {
       "id": 85566,
@@ -347,7 +347,7 @@ window.companyData = {
       "actress": [
         "有村希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-371"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-371"
     },
     {
       "id": 81175,
@@ -363,7 +363,7 @@ window.companyData = {
       "actress": [
         "姫咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-365"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-365"
     },
     {
       "id": 93133,
@@ -379,7 +379,7 @@ window.companyData = {
       "actress": [
         "瀨名光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-361"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-361"
     },
     {
       "id": 80370,
@@ -395,7 +395,7 @@ window.companyData = {
       "actress": [
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-356"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-356"
     },
     {
       "id": 88068,
@@ -411,7 +411,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-308"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-308"
     },
     {
       "id": 83654,
@@ -425,7 +425,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-293"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-293"
     },
     {
       "id": 83122,
@@ -442,7 +442,7 @@ window.companyData = {
         "葵百合香",
         "相泽ゆりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-294"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-294"
     },
     {
       "id": 81787,
@@ -456,7 +456,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/b2077f3868844967a55f0872486a2a58.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-295"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-295"
     },
     {
       "id": 83679,
@@ -472,7 +472,7 @@ window.companyData = {
       "actress": [
         "佐知子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIHA-028"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIHA-028"
     },
     {
       "id": 81756,
@@ -488,7 +488,7 @@ window.companyData = {
       "actress": [
         "仓吉美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIHA-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIHA-027"
     },
     {
       "id": 83675,
@@ -504,7 +504,7 @@ window.companyData = {
       "actress": [
         "仓吉美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-288"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-288"
     },
     {
       "id": 83688,
@@ -520,7 +520,7 @@ window.companyData = {
       "actress": [
         "春菜华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIHA-025"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIHA-025"
     },
     {
       "id": 83645,
@@ -538,7 +538,7 @@ window.companyData = {
         "今井まひな",
         "宝来せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-285"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-285"
     },
     {
       "id": 85581,
@@ -554,7 +554,7 @@ window.companyData = {
       "actress": [
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-274"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-274"
     },
     {
       "id": 77408,
@@ -570,7 +570,7 @@ window.companyData = {
       "actress": [
         "牧村柚希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-259"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-259"
     },
     {
       "id": 77315,
@@ -586,7 +586,7 @@ window.companyData = {
       "actress": [
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-254"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-254"
     },
     {
       "id": 77244,
@@ -600,7 +600,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-240"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-240"
     },
     {
       "id": 88125,
@@ -616,7 +616,7 @@ window.companyData = {
       "actress": [
         "富田优衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-235"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-235"
     },
     {
       "id": 88124,
@@ -632,7 +632,7 @@ window.companyData = {
       "actress": [
         "宫沢ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-234"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-234"
     },
     {
       "id": 77336,
@@ -651,7 +651,7 @@ window.companyData = {
         "松下美织",
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-202"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-202"
     },
     {
       "id": 77338,
@@ -667,7 +667,7 @@ window.companyData = {
       "actress": [
         "北川りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-177"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MIST-177"
     }
   ]
 };

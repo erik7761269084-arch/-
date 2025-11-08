@@ -18,7 +18,7 @@ window.companyData = {
         "倉木詩織",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-018"
     },
     {
       "id": 4233,
@@ -34,7 +34,7 @@ window.companyData = {
       "actress": [
         "瀬田一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-015"
     },
     {
       "id": 5069,
@@ -51,7 +51,7 @@ window.companyData = {
         "葉山小百合",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-013"
     },
     {
       "id": 4050,
@@ -67,7 +67,7 @@ window.companyData = {
       "actress": [
         "姫咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-014"
     },
     {
       "id": 5837,
@@ -83,7 +83,7 @@ window.companyData = {
       "actress": [
         "大島愛里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-012"
     },
     {
       "id": 6707,
@@ -99,7 +99,7 @@ window.companyData = {
       "actress": [
         "橘日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-010"
     },
     {
       "id": 6691,
@@ -115,7 +115,7 @@ window.companyData = {
       "actress": [
         "九十九メイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-011"
     },
     {
       "id": 70445,
@@ -132,7 +132,7 @@ window.companyData = {
         "瀬那瑠美奈",
         "城咲京花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-009"
     },
     {
       "id": 7255,
@@ -148,7 +148,7 @@ window.companyData = {
       "actress": [
         "逢見梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-008"
     },
     {
       "id": 62227,
@@ -164,7 +164,7 @@ window.companyData = {
       "actress": [
         "姫咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-007"
     },
     {
       "id": 8022,
@@ -180,7 +180,7 @@ window.companyData = {
       "actress": [
         "那賀崎雪音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-006"
     },
     {
       "id": 62229,
@@ -196,7 +196,7 @@ window.companyData = {
       "actress": [
         "山瀬美紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-004"
     },
     {
       "id": 75008,
@@ -212,7 +212,7 @@ window.companyData = {
       "actress": [
         "平冈里枝子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-003"
     },
     {
       "id": 9688,
@@ -228,7 +228,7 @@ window.companyData = {
       "actress": [
         "九十九メイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-001"
     },
     {
       "id": 9683,
@@ -244,7 +244,7 @@ window.companyData = {
       "actress": [
         "水川蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUCY-002"
     }
   ]
 };

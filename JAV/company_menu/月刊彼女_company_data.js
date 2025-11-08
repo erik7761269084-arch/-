@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "岬梓沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-058"
     },
     {
       "id": 74272,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-052"
     },
     {
       "id": 12531,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "前田美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-051"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-051"
     },
     {
       "id": 15162,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-031"
     },
     {
       "id": 15161,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "天晴乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-032"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-032"
     },
     {
       "id": 90935,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "绀野光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-013"
     },
     {
       "id": 17161,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "弘中優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-014"
     },
     {
       "id": 90933,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "倉與田"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-011"
     },
     {
       "id": 17676,
@@ -145,7 +145,7 @@ window.companyData = {
       "actress": [
         "真木今日子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-010"
     },
     {
       "id": 90938,
@@ -161,7 +161,7 @@ window.companyData = {
       "actress": [
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-009"
     },
     {
       "id": 91027,
@@ -177,7 +177,7 @@ window.companyData = {
       "actress": [
         "高瀬りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-005"
     },
     {
       "id": 90937,
@@ -193,7 +193,7 @@ window.companyData = {
       "actress": [
         "水卜麻衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-006"
     },
     {
       "id": 92002,
@@ -207,7 +207,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-003"
     },
     {
       "id": 91035,
@@ -221,7 +221,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-004"
     },
     {
       "id": 92004,
@@ -235,7 +235,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-002"
     },
     {
       "id": 92001,
@@ -252,7 +252,7 @@ window.companyData = {
         "枢木葵",
         "成田紬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KANO-001"
     }
   ]
 };

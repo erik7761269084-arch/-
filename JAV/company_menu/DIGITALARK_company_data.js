@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "羽生ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KCDA-320"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KCDA-320"
     },
     {
       "id": 62615,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-399"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-399"
     },
     {
       "id": 62614,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "長谷川玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-400"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-400"
     },
     {
       "id": 63202,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "堀北実来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-397"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-397"
     },
     {
       "id": 63201,
@@ -79,7 +79,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/1efe7227/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-398"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-398"
     },
     {
       "id": 62747,
@@ -93,7 +93,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-396"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-396"
     },
     {
       "id": 62737,
@@ -107,7 +107,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-395"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-395"
     },
     {
       "id": 5068,
@@ -124,7 +124,7 @@ window.companyData = {
         "倉木詩織",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUKE-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUKE-047"
     },
     {
       "id": 63060,
@@ -138,7 +138,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-392HYPER"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-392HYPER"
     },
     {
       "id": 66197,
@@ -154,7 +154,7 @@ window.companyData = {
       "actress": [
         "有村希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-394"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-394"
     },
     {
       "id": 70466,
@@ -170,7 +170,7 @@ window.companyData = {
       "actress": [
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-386"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-386"
     },
     {
       "id": 70346,
@@ -184,7 +184,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-383"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-383"
     },
     {
       "id": 70345,
@@ -198,7 +198,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-385"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-385"
     },
     {
       "id": 74597,
@@ -214,7 +214,7 @@ window.companyData = {
       "actress": [
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-380"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-380"
     },
     {
       "id": 91237,
@@ -230,7 +230,7 @@ window.companyData = {
       "actress": [
         "田中寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-340"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-340"
     },
     {
       "id": 90910,
@@ -246,7 +246,7 @@ window.companyData = {
       "actress": [
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUKE-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUKE-027"
     },
     {
       "id": 90919,
@@ -260,7 +260,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUKE-025"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUKE-025"
     },
     {
       "id": 90917,
@@ -276,7 +276,7 @@ window.companyData = {
       "actress": [
         "如月夏希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUKE-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUKE-024"
     },
     {
       "id": 67439,
@@ -290,7 +290,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250425-1/5c2891d6c9080aefa271ab9bc12ab63e.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-316"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-316"
     },
     {
       "id": 81739,
@@ -306,7 +306,7 @@ window.companyData = {
       "actress": [
         "塚田詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KCDA-276"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KCDA-276"
     },
     {
       "id": 83676,
@@ -322,7 +322,7 @@ window.companyData = {
       "actress": [
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUKE-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUKE-004"
     },
     {
       "id": 81684,
@@ -336,7 +336,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIGI-246"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DIGI-246"
     },
     {
       "id": 83667,
@@ -352,7 +352,7 @@ window.companyData = {
       "actress": [
         "水野朝陽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KCDA-270"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=KCDA-270"
     },
     {
       "id": 83358,
@@ -368,7 +368,7 @@ window.companyData = {
       "actress": [
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUKE-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUKE-003"
     },
     {
       "id": 83083,
@@ -382,7 +382,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221218-1/92516d6bdbe0917e85aabf25ff809b8d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-234"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-234"
     },
     {
       "id": 69479,
@@ -398,7 +398,7 @@ window.companyData = {
       "actress": [
         "星明日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-387"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FLAV-387"
     },
     {
       "id": 69378,
@@ -414,7 +414,7 @@ window.companyData = {
       "actress": [
         "本真友里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIGI-252"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DIGI-252"
     }
   ]
 };

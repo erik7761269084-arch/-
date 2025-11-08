@@ -19,7 +19,7 @@ window.companyData = {
         "川村まなみ",
         "美原すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-537"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCPX-537"
     },
     {
       "id": 3294,
@@ -38,7 +38,7 @@ window.companyData = {
         "香椎佳穂",
         "千葉彩芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-536"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCPX-536"
     },
     {
       "id": 3268,
@@ -56,7 +56,7 @@ window.companyData = {
         "椿莉香",
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-881"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCOP-881"
     },
     {
       "id": 3669,
@@ -70,7 +70,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811032745132132_90511_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250811/20250811032745132132_90511_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-882"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCOP-882"
     },
     {
       "id": 4184,
@@ -91,7 +91,7 @@ window.companyData = {
         "春日惠奈",
         "上白美央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-534"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCPX-534"
     },
     {
       "id": 4180,
@@ -105,7 +105,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/202507182111598787_60222_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250718/202507182111598787_60222_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-880"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCOP-880"
     },
     {
       "id": 4701,
@@ -123,7 +123,7 @@ window.companyData = {
         "沙月惠奈",
         "美波梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-879"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCOP-879"
     },
     {
       "id": 5039,
@@ -141,7 +141,7 @@ window.companyData = {
         "辻井穗乃果",
         "辻いまる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-532"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCPX-532"
     },
     {
       "id": 4831,
@@ -159,7 +159,7 @@ window.companyData = {
         "美泉咲",
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-530"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCPX-530"
     },
     {
       "id": 5823,
@@ -177,7 +177,7 @@ window.companyData = {
         "澤乃明日香",
         "城咲京花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-528"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCPX-528"
     },
     {
       "id": 5820,
@@ -191,7 +191,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525020606840840_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250525/20250525020606840840_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-875"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCOP-875"
     },
     {
       "id": 5802,
@@ -205,7 +205,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525214124864864_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250525/20250525214124864864_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-874"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCOP-874"
     },
     {
       "id": 6685,
@@ -224,7 +224,7 @@ window.companyData = {
         "野上しおり",
         "希和みこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-526"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SCPX-526"
     }
   ]
 };

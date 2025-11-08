@@ -18,7 +18,7 @@ window.companyData = {
         "南條彩",
         "美波汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIOD-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SIOD-002"
     },
     {
       "id": 2575,
@@ -37,7 +37,7 @@ window.companyData = {
         "若宮穂乃",
         "今井惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCO-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCO-010"
     },
     {
       "id": 2574,
@@ -55,7 +55,7 @@ window.companyData = {
         "千川とわ",
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCD-022"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCD-022"
     },
     {
       "id": 60890,
@@ -69,7 +69,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/09/26/31a2fd978c38d0c11dcb46790650ca00.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JNKE-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JNKE-008"
     },
     {
       "id": 60888,
@@ -83,7 +83,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/09/26/4aacaaad8a40ebacd9c6160e14720ab0.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTD-054"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGTD-054"
     },
     {
       "id": 2943,
@@ -101,7 +101,7 @@ window.companyData = {
         "沙優七羽",
         "音月みり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCT-022"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCT-022"
     },
     {
       "id": 60577,
@@ -115,7 +115,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-501"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-501"
     },
     {
       "id": 60550,
@@ -129,7 +129,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-500"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-500"
     },
     {
       "id": 61669,
@@ -143,7 +143,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTD-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGTD-053"
     },
     {
       "id": 3519,
@@ -161,7 +161,7 @@ window.companyData = {
         "似鳥日菜",
         "天羽梨梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-069"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-069"
     },
     {
       "id": 61113,
@@ -175,7 +175,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTD-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGTD-052"
     },
     {
       "id": 3914,
@@ -194,7 +194,7 @@ window.companyData = {
         "月見若葉",
         "椎名琪琪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCT-021"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCT-021"
     },
     {
       "id": 3913,
@@ -212,7 +212,7 @@ window.companyData = {
         "知花しおん",
         "長澤りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JNKD-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JNKD-014"
     },
     {
       "id": 61470,
@@ -226,7 +226,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/3972e011/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMRK-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HMRK-042"
     },
     {
       "id": 62600,
@@ -240,7 +240,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-066"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-066"
     },
     {
       "id": 62599,
@@ -258,7 +258,7 @@ window.companyData = {
         "泉莉音",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-067"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-067"
     },
     {
       "id": 62598,
@@ -272,7 +272,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCD-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCD-020"
     },
     {
       "id": 62597,
@@ -286,7 +286,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTD-050"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGTD-050"
     },
     {
       "id": 62596,
@@ -300,7 +300,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/30/c1aa7502/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTD-051"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGTD-051"
     },
     {
       "id": 61870,
@@ -316,7 +316,7 @@ window.companyData = {
       "actress": [
         "キキ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1090"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1090"
     },
     {
       "id": 62045,
@@ -330,7 +330,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1064"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1064"
     },
     {
       "id": 4626,
@@ -349,7 +349,7 @@ window.companyData = {
         "真白風羽里",
         "星宮桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-064"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-064"
     },
     {
       "id": 4571,
@@ -367,7 +367,7 @@ window.companyData = {
         "宮城理惠",
         "宮本聡美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-065"
     },
     {
       "id": 62384,
@@ -383,7 +383,7 @@ window.companyData = {
       "actress": [
         "のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1087"
     },
     {
       "id": 62403,
@@ -399,7 +399,7 @@ window.companyData = {
       "actress": [
         "ほの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1086"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1086"
     },
     {
       "id": 62706,
@@ -415,7 +415,7 @@ window.companyData = {
       "actress": [
         "かり丸"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1085"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1085"
     },
     {
       "id": 62717,
@@ -431,7 +431,7 @@ window.companyData = {
       "actress": [
         "美咲佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1084"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1084"
     },
     {
       "id": 5103,
@@ -447,7 +447,7 @@ window.companyData = {
       "actress": [
         "逢澤美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCZ-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCZ-004"
     },
     {
       "id": 62950,
@@ -461,7 +461,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/22/1f438e4e/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1082"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1082"
     },
     {
       "id": 63059,
@@ -475,7 +475,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCO-008MOON"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCO-008MOON"
     },
     {
       "id": 63345,
@@ -489,7 +489,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1073E"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1073E"
     },
     {
       "id": 5449,
@@ -506,7 +506,7 @@ window.companyData = {
         "小島美子",
         "長澤りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JNKE-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JNKE-007"
     },
     {
       "id": 64132,
@@ -520,7 +520,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-519"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-519"
     },
     {
       "id": 64130,
@@ -534,7 +534,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-531"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-531"
     },
     {
       "id": 64034,
@@ -550,7 +550,7 @@ window.companyData = {
       "actress": [
         "ゆきね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMRK-041"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HMRK-041"
     },
     {
       "id": 66387,
@@ -566,7 +566,7 @@ window.companyData = {
       "actress": [
         "Ria"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1074"
     },
     {
       "id": 66058,
@@ -580,7 +580,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-949"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-949"
     },
     {
       "id": 64088,
@@ -596,7 +596,7 @@ window.companyData = {
       "actress": [
         "なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1072"
     },
     {
       "id": 67491,
@@ -610,7 +610,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/26/43108840/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-057"
     },
     {
       "id": 67345,
@@ -628,7 +628,7 @@ window.companyData = {
         "依本詩織",
         "渋谷夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-058"
     },
     {
       "id": 67330,
@@ -642,7 +642,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCT-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCT-018"
     },
     {
       "id": 6503,
@@ -658,7 +658,7 @@ window.companyData = {
       "actress": [
         "花野井りり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAL-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DAL-006"
     },
     {
       "id": 67714,
@@ -674,7 +674,7 @@ window.companyData = {
       "actress": [
         "nano"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1070"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1070"
     },
     {
       "id": 67717,
@@ -688,7 +688,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1069"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1069"
     },
     {
       "id": 68172,
@@ -704,7 +704,7 @@ window.companyData = {
       "actress": [
         "さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1068"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1068"
     },
     {
       "id": 70178,
@@ -718,7 +718,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-055"
     },
     {
       "id": 70177,
@@ -732,7 +732,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-056"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-056"
     },
     {
       "id": 70176,
@@ -746,7 +746,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/01/aa2d5d72/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCD-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCD-017"
     },
     {
       "id": 70175,
@@ -760,7 +760,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/07/01/2e46dd060e15cc20a6aa8eb6b2f6e022.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTD-043"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGTD-043"
     },
     {
       "id": 68809,
@@ -774,7 +774,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1066"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1066"
     },
     {
       "id": 69577,
@@ -791,7 +791,7 @@ window.companyData = {
         "姫咲華",
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-054"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-054"
     },
     {
       "id": 68951,
@@ -807,7 +807,7 @@ window.companyData = {
       "actress": [
         "なつみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1062"
     },
     {
       "id": 7332,
@@ -826,7 +826,7 @@ window.companyData = {
         "乃木絢愛",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-052"
     },
     {
       "id": 7324,
@@ -842,7 +842,7 @@ window.companyData = {
       "actress": [
         "宍戸里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCZ-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCZ-003"
     },
     {
       "id": 7313,
@@ -861,7 +861,7 @@ window.companyData = {
         "花里明理",
         "有馬美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-051"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-051"
     },
     {
       "id": 69703,
@@ -877,7 +877,7 @@ window.companyData = {
       "actress": [
         "riho"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1060"
     },
     {
       "id": 69704,
@@ -893,7 +893,7 @@ window.companyData = {
       "actress": [
         "MIZUKI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1059"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1059"
     },
     {
       "id": 70597,
@@ -909,7 +909,7 @@ window.companyData = {
       "actress": [
         "ゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1058"
     },
     {
       "id": 70632,
@@ -925,7 +925,7 @@ window.companyData = {
       "actress": [
         "あいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1057"
     },
     {
       "id": 71685,
@@ -941,7 +941,7 @@ window.companyData = {
       "actress": [
         "ひなかりん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1055"
     },
     {
       "id": 72716,
@@ -955,7 +955,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/09/dc6e9d4c/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1050"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1050"
     },
     {
       "id": 8545,
@@ -972,7 +972,7 @@ window.companyData = {
         "桃咲乃亞",
         "のあた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1049"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1049"
     },
     {
       "id": 72723,
@@ -988,7 +988,7 @@ window.companyData = {
       "actress": [
         "あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1048"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1048"
     },
     {
       "id": 9008,
@@ -1004,7 +1004,7 @@ window.companyData = {
       "actress": [
         "逢月日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCZ-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCZ-001"
     },
     {
       "id": 73401,
@@ -1018,7 +1018,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1045"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1045"
     },
     {
       "id": 75476,
@@ -1032,7 +1032,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/cbccfe3c/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1039"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1039"
     },
     {
       "id": 77218,
@@ -1050,7 +1050,7 @@ window.companyData = {
         "松井日奈子",
         "胡桃多惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-038"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DOCD-038"
     },
     {
       "id": 10166,
@@ -1066,7 +1066,7 @@ window.companyData = {
       "actress": [
         "鳳ユメ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAL-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DAL-002"
     },
     {
       "id": 95222,
@@ -1080,7 +1080,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCO-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MFCO-005"
     },
     {
       "id": 95565,
@@ -1096,7 +1096,7 @@ window.companyData = {
       "actress": [
         "さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1024"
     },
     {
       "id": 95431,
@@ -1112,7 +1112,7 @@ window.companyData = {
       "actress": [
         "satomi"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1023"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1023"
     },
     {
       "id": 96289,
@@ -1126,7 +1126,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1009"
     },
     {
       "id": 82736,
@@ -1140,7 +1140,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-429"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-429"
     },
     {
       "id": 58116,
@@ -1154,7 +1154,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/e56ed237eedb9a18f6b9f69c2e467b9f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-532"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-532"
     },
     {
       "id": 58102,
@@ -1168,7 +1168,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-521"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-521"
     },
     {
       "id": 57936,
@@ -1182,7 +1182,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-181"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-181"
     },
     {
       "id": 101231,
@@ -1198,7 +1198,7 @@ window.companyData = {
       "actress": [
         "るいさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-946"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-946"
     },
     {
       "id": 78748,
@@ -1212,7 +1212,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/267d77da8790f3a6500a65ccb5388e10.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-802"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-802"
     },
     {
       "id": 106003,
@@ -1228,7 +1228,7 @@ window.companyData = {
       "actress": [
         "すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-844"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-844"
     },
     {
       "id": 78740,
@@ -1242,7 +1242,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/77b2522e1ee4d55851f2acf72c0ca034.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-793"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-793"
     },
     {
       "id": 103017,
@@ -1256,7 +1256,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-493"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-493"
     },
     {
       "id": 82715,
@@ -1270,7 +1270,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-372"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-372"
     },
     {
       "id": 81011,
@@ -1284,7 +1284,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-753"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-753"
     },
     {
       "id": 78739,
@@ -1298,7 +1298,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/2e9a0658b8e521c1b569046179785127.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-790"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-790"
     },
     {
       "id": 76490,
@@ -1312,7 +1312,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-513"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-513"
     },
     {
       "id": 78745,
@@ -1326,7 +1326,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-794"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-794"
     },
     {
       "id": 76521,
@@ -1340,7 +1340,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-499"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-499"
     },
     {
       "id": 78658,
@@ -1354,7 +1354,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-800"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-800"
     },
     {
       "id": 83411,
@@ -1368,7 +1368,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-506"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-506"
     },
     {
       "id": 82726,
@@ -1382,7 +1382,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221120-1/ff7a0d86fba7880917e17c0979dbfa83.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-428"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-428"
     },
     {
       "id": 80563,
@@ -1396,7 +1396,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/a226a811cf4740983f7d5e1868230795.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-723"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-723"
     },
     {
       "id": 80324,
@@ -1410,7 +1410,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/74520e3cc6224b70e2e473d7c8642781.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-724"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-724"
     },
     {
       "id": 80289,
@@ -1424,7 +1424,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-725"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-725"
     },
     {
       "id": 80148,
@@ -1438,7 +1438,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-720"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-720"
     },
     {
       "id": 80128,
@@ -1452,7 +1452,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-719"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-719"
     },
     {
       "id": 79956,
@@ -1466,7 +1466,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-716"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-716"
     },
     {
       "id": 79936,
@@ -1480,7 +1480,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-717"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-717"
     },
     {
       "id": 79783,
@@ -1494,7 +1494,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-704"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-704"
     },
     {
       "id": 79588,
@@ -1508,7 +1508,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-701"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-701"
     },
     {
       "id": 79387,
@@ -1522,7 +1522,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/72f5c82638a30b45260f02f8febdc120.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-698"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-698"
     },
     {
       "id": 76520,
@@ -1536,7 +1536,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-503"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-503"
     },
     {
       "id": 80743,
@@ -1550,7 +1550,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-744"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-744"
     },
     {
       "id": 80468,
@@ -1564,7 +1564,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/ab7163e3b94950826a6df3f52d2f3f4b.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-727"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-727"
     },
     {
       "id": 78638,
@@ -1578,7 +1578,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-649"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-649"
     },
     {
       "id": 97513,
@@ -1594,7 +1594,7 @@ window.companyData = {
       "actress": [
         "藤森里穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-532"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-532"
     },
     {
       "id": 79160,
@@ -1608,7 +1608,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=300MAAN-696"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=300MAAN-696"
     },
     {
       "id": 69280,
@@ -1624,7 +1624,7 @@ window.companyData = {
       "actress": [
         "りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1065"
     },
     {
       "id": 69278,
@@ -1640,7 +1640,7 @@ window.companyData = {
       "actress": [
         "あやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1061"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1061"
     },
     {
       "id": 59905,
@@ -1654,7 +1654,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTD-055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGTD-055"
     },
     {
       "id": 59904,
@@ -1668,7 +1668,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/71e7c193/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTD-056"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MGTD-056"
     },
     {
       "id": 59775,
@@ -1682,7 +1682,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1109"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MAAN-1109"
     }
   ]
 };

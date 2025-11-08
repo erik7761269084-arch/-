@@ -18,7 +18,7 @@ window.companyData = {
         "真木今日子",
         "笠木いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPIN-093"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TPIN-093"
     },
     {
       "id": 10019,
@@ -37,7 +37,7 @@ window.companyData = {
         "真木今日子",
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPIN-087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TPIN-087"
     }
   ]
 };

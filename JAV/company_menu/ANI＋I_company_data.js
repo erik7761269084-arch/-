@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "祈山愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANAV-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ANAV-007"
     },
     {
       "id": 5457,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "由良佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANAV-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ANAV-006"
     }
   ]
 };

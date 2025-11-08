@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "原千草"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-25"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-25"
     },
     {
       "id": 1903,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "篠田步美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCB3DBD-51A"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCB3DBD-51A"
     },
     {
       "id": 1869,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "篠田步美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCB3DBD-51B"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCB3DBD-51B"
     },
     {
       "id": 1801,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "西川结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-24"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-24"
     },
     {
       "id": 1761,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "一條莉音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCDV-48"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCDV-48"
     },
     {
       "id": 1870,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "篠田步美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-20"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-20"
     },
     {
       "id": 57943,
@@ -111,7 +111,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCDV-40"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCDV-40"
     },
     {
       "id": 2011,
@@ -127,7 +127,7 @@ window.companyData = {
       "actress": [
         "一條莉音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-13"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-13"
     },
     {
       "id": 1992,
@@ -143,7 +143,7 @@ window.companyData = {
       "actress": [
         "眞白愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-12"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-12"
     },
     {
       "id": 1985,
@@ -159,7 +159,7 @@ window.companyData = {
       "actress": [
         "西川千寻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-10"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-10"
     },
     {
       "id": 1878,
@@ -175,7 +175,7 @@ window.companyData = {
       "actress": [
         "大空美緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-09"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-09"
     },
     {
       "id": 1760,
@@ -191,7 +191,7 @@ window.companyData = {
       "actress": [
         "安藤有紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-08"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-08"
     },
     {
       "id": 1754,
@@ -208,7 +208,7 @@ window.companyData = {
         "安城安娜",
         "秋野早苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-07"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-07"
     },
     {
       "id": 1930,
@@ -224,7 +224,7 @@ window.companyData = {
       "actress": [
         "一之濑铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-06"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-06"
     },
     {
       "id": 1935,
@@ -240,7 +240,7 @@ window.companyData = {
       "actress": [
         "尾上若叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-05"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-05"
     },
     {
       "id": 1810,
@@ -256,7 +256,7 @@ window.companyData = {
       "actress": [
         "松岡聖羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-04"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-04"
     },
     {
       "id": 1990,
@@ -272,7 +272,7 @@ window.companyData = {
       "actress": [
         "音羽蕾恩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-03"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MCBD-03"
     }
   ]
 };

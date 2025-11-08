@@ -19,7 +19,7 @@ window.companyData = {
         "前田美波",
         "恵沙也香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GUN-782"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GUN-782"
     },
     {
       "id": 60265,
@@ -35,7 +35,7 @@ window.companyData = {
       "actress": [
         "廣瀬好美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-134"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-134"
     },
     {
       "id": 61480,
@@ -52,7 +52,7 @@ window.companyData = {
         "幾田真知",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-133"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-133"
     },
     {
       "id": 61964,
@@ -66,7 +66,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/11/891cfe4b/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-928"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-928"
     },
     {
       "id": 61963,
@@ -80,7 +80,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/11/a3e4695c/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-830"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-830"
     },
     {
       "id": 61958,
@@ -94,7 +94,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-929"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-929"
     },
     {
       "id": 61957,
@@ -108,7 +108,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-829"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-829"
     },
     {
       "id": 63437,
@@ -124,7 +124,7 @@ window.companyData = {
       "actress": [
         "秋月まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-932"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-932"
     },
     {
       "id": 63987,
@@ -138,7 +138,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/82bb783b/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-930"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-930"
     },
     {
       "id": 63962,
@@ -152,7 +152,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/484423e8/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-831"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-831"
     },
     {
       "id": 63954,
@@ -166,7 +166,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/6724b9cc/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-832"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-832"
     },
     {
       "id": 70525,
@@ -182,7 +182,7 @@ window.companyData = {
       "actress": [
         "恵沙也香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-132"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-132"
     },
     {
       "id": 7425,
@@ -198,7 +198,7 @@ window.companyData = {
       "actress": [
         "绀野光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-828"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-828"
     },
     {
       "id": 72447,
@@ -214,7 +214,7 @@ window.companyData = {
       "actress": [
         "藤田梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-925"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-925"
     },
     {
       "id": 73205,
@@ -228,7 +228,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-924"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-924"
     },
     {
       "id": 72130,
@@ -242,7 +242,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-825"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-825"
     },
     {
       "id": 8899,
@@ -258,7 +258,7 @@ window.companyData = {
       "actress": [
         "天晴乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-826"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-826"
     },
     {
       "id": 8898,
@@ -274,7 +274,7 @@ window.companyData = {
       "actress": [
         "前田美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-923"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-923"
     },
     {
       "id": 75804,
@@ -290,7 +290,7 @@ window.companyData = {
       "actress": [
         "真白りま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-824"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-824"
     },
     {
       "id": 9587,
@@ -306,7 +306,7 @@ window.companyData = {
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-921"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-921"
     },
     {
       "id": 95083,
@@ -322,7 +322,7 @@ window.companyData = {
       "actress": [
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-919"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-919"
     },
     {
       "id": 95078,
@@ -338,7 +338,7 @@ window.companyData = {
       "actress": [
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-822"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-822"
     },
     {
       "id": 95077,
@@ -354,7 +354,7 @@ window.companyData = {
       "actress": [
         "木下日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-920"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-920"
     },
     {
       "id": 95588,
@@ -370,7 +370,7 @@ window.companyData = {
       "actress": [
         "白河花清"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-820"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-820"
     },
     {
       "id": 93410,
@@ -386,7 +386,7 @@ window.companyData = {
       "actress": [
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-912"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-912"
     },
     {
       "id": 13109,
@@ -402,7 +402,7 @@ window.companyData = {
       "actress": [
         "岬櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-911"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-911"
     },
     {
       "id": 93399,
@@ -418,7 +418,7 @@ window.companyData = {
       "actress": [
         "丹羽すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-910"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-910"
     },
     {
       "id": 93396,
@@ -434,7 +434,7 @@ window.companyData = {
       "actress": [
         "柊有希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-818"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-818"
     },
     {
       "id": 13855,
@@ -450,7 +450,7 @@ window.companyData = {
       "actress": [
         "小松杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-909"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-909"
     },
     {
       "id": 93408,
@@ -466,7 +466,7 @@ window.companyData = {
       "actress": [
         "川上優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-908"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-908"
     },
     {
       "id": 93405,
@@ -482,7 +482,7 @@ window.companyData = {
       "actress": [
         "加藤桃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-907"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-907"
     },
     {
       "id": 93403,
@@ -499,7 +499,7 @@ window.companyData = {
         "桐香悠裡",
         "宫泽千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-129"
     },
     {
       "id": 14517,
@@ -515,7 +515,7 @@ window.companyData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-817"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-817"
     },
     {
       "id": 90692,
@@ -529,7 +529,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240131-1/62fb2cca67d95662a8c9c105a1712c0a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-809"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-809"
     },
     {
       "id": 90697,
@@ -545,7 +545,7 @@ window.companyData = {
       "actress": [
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-801"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-801"
     },
     {
       "id": 87111,
@@ -564,7 +564,7 @@ window.companyData = {
         "川上優",
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-434"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-434"
     },
     {
       "id": 87097,
@@ -584,7 +584,7 @@ window.companyData = {
         "姫川礼子",
         "古田優子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-435"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-435"
     },
     {
       "id": 87209,
@@ -600,7 +600,7 @@ window.companyData = {
       "actress": [
         "辻芽爱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GUN-881"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GUN-881"
     },
     {
       "id": 87195,
@@ -616,7 +616,7 @@ window.companyData = {
       "actress": [
         "通野未帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GUN-880"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GUN-880"
     },
     {
       "id": 83754,
@@ -632,7 +632,7 @@ window.companyData = {
       "actress": [
         "今井夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-715"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-715"
     },
     {
       "id": 83116,
@@ -648,7 +648,7 @@ window.companyData = {
       "actress": [
         "今井栞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-716"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-716"
     },
     {
       "id": 81883,
@@ -664,7 +664,7 @@ window.companyData = {
       "actress": [
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-714"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-714"
     },
     {
       "id": 81867,
@@ -680,7 +680,7 @@ window.companyData = {
       "actress": [
         "有村希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-717"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-717"
     },
     {
       "id": 81876,
@@ -696,7 +696,7 @@ window.companyData = {
       "actress": [
         "阿部乃美久"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-706"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-706"
     },
     {
       "id": 78827,
@@ -712,7 +712,7 @@ window.companyData = {
       "actress": [
         "ヴァレンタリッチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-704"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-704"
     },
     {
       "id": 76185,
@@ -731,7 +731,7 @@ window.companyData = {
         "美月葵",
         "ユナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GUN-683"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GUN-683"
     },
     {
       "id": 92695,
@@ -747,7 +747,7 @@ window.companyData = {
       "actress": [
         "朝仓ことみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NEO-053"
     }
   ]
 };

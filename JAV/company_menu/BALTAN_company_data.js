@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "悠木あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BASJ-026"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BASJ-026"
     },
     {
       "id": 3719,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "佐倉陽菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-157"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-157"
     },
     {
       "id": 3699,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-159"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-159"
     },
     {
       "id": 3673,
@@ -66,7 +66,7 @@ window.companyData = {
         "真白みのり",
         "紫月由香里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-161"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-161"
     },
     {
       "id": 3658,
@@ -82,7 +82,7 @@ window.companyData = {
       "actress": [
         "那津乃千奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-160"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-160"
     },
     {
       "id": 3655,
@@ -100,7 +100,7 @@ window.companyData = {
         "月島さくら",
         "月岛さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-158"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-158"
     },
     {
       "id": 3651,
@@ -116,7 +116,7 @@ window.companyData = {
       "actress": [
         "久和原聖羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAGR-066"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAGR-066"
     },
     {
       "id": 66538,
@@ -133,7 +133,7 @@ window.companyData = {
         "美澄玲衣",
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAGR-062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAGR-062"
     },
     {
       "id": 5482,
@@ -149,7 +149,7 @@ window.companyData = {
       "actress": [
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-152"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-152"
     },
     {
       "id": 5481,
@@ -165,7 +165,7 @@ window.companyData = {
       "actress": [
         "皆月光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAGR-060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAGR-060"
     },
     {
       "id": 5475,
@@ -181,7 +181,7 @@ window.companyData = {
       "actress": [
         "三田櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BASJ-025"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BASJ-025"
     },
     {
       "id": 5472,
@@ -197,7 +197,7 @@ window.companyData = {
       "actress": [
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAGR-061"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAGR-061"
     },
     {
       "id": 3829,
@@ -213,7 +213,7 @@ window.companyData = {
       "actress": [
         "水城りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-153"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-153"
     },
     {
       "id": 6961,
@@ -229,7 +229,7 @@ window.companyData = {
       "actress": [
         "有加里乃乃花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-146"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-146"
     },
     {
       "id": 6950,
@@ -246,7 +246,7 @@ window.companyData = {
         "有賀千里",
         "有贺みなほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-145"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-145"
     },
     {
       "id": 6948,
@@ -262,7 +262,7 @@ window.companyData = {
       "actress": [
         "五十嵐清華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-148"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-148"
     },
     {
       "id": 74550,
@@ -278,7 +278,7 @@ window.companyData = {
       "actress": [
         "響かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-135"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-135"
     },
     {
       "id": 9165,
@@ -294,7 +294,7 @@ window.companyData = {
       "actress": [
         "静河"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-133"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-133"
     },
     {
       "id": 9164,
@@ -312,7 +312,7 @@ window.companyData = {
         "市成心海",
         "桐嶋あみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-136"
     },
     {
       "id": 91464,
@@ -328,7 +328,7 @@ window.companyData = {
       "actress": [
         "绫濑心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAGR-025"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAGR-025"
     },
     {
       "id": 91499,
@@ -344,7 +344,7 @@ window.companyData = {
       "actress": [
         "前田美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-074"
     },
     {
       "id": 91497,
@@ -360,7 +360,7 @@ window.companyData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-073"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-073"
     },
     {
       "id": 91496,
@@ -376,7 +376,7 @@ window.companyData = {
       "actress": [
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-076"
     },
     {
       "id": 91495,
@@ -390,7 +390,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-066"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-066"
     },
     {
       "id": 91498,
@@ -406,7 +406,7 @@ window.companyData = {
       "actress": [
         "桐香悠裡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-065"
     },
     {
       "id": 91470,
@@ -420,7 +420,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAGR-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAGR-018"
     },
     {
       "id": 67294,
@@ -436,7 +436,7 @@ window.companyData = {
       "actress": [
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-034"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-034"
     },
     {
       "id": 90790,
@@ -452,7 +452,7 @@ window.companyData = {
       "actress": [
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-031"
     },
     {
       "id": 67586,
@@ -466,7 +466,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-032"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-032"
     },
     {
       "id": 83977,
@@ -482,7 +482,7 @@ window.companyData = {
       "actress": [
         "辻芽爱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-022"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-022"
     },
     {
       "id": 69480,
@@ -498,7 +498,7 @@ window.companyData = {
       "actress": [
         "藤咲紫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-147"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BACJ-147"
     }
   ]
 };

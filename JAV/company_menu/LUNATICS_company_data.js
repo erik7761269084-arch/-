@@ -18,7 +18,7 @@ window.companyData = {
         "月野香澄",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-400"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-400"
     },
     {
       "id": 2169,
@@ -34,7 +34,7 @@ window.companyData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-402"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-402"
     },
     {
       "id": 61026,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-394"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-394"
     },
     {
       "id": 61024,
@@ -67,7 +67,7 @@ window.companyData = {
         "若宮穂乃",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-395"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-395"
     },
     {
       "id": 61023,
@@ -84,7 +84,7 @@ window.companyData = {
         "レンジャー鏑木",
         "佐佐波绫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-396"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-396"
     },
     {
       "id": 61022,
@@ -100,7 +100,7 @@ window.companyData = {
       "actress": [
         "宇流木沙羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-397"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-397"
     },
     {
       "id": 61021,
@@ -116,7 +116,7 @@ window.companyData = {
       "actress": [
         "柳可憐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-398"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-398"
     },
     {
       "id": 3123,
@@ -133,7 +133,7 @@ window.companyData = {
         "北山憂",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-399"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-399"
     },
     {
       "id": 61295,
@@ -149,7 +149,7 @@ window.companyData = {
       "actress": [
         "宇流木沙羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-393"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-393"
     },
     {
       "id": 3950,
@@ -166,7 +166,7 @@ window.companyData = {
         "松井日奈子",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-392"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-392"
     },
     {
       "id": 3909,
@@ -182,7 +182,7 @@ window.companyData = {
       "actress": [
         "北岡果林"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-389"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-389"
     },
     {
       "id": 3892,
@@ -198,7 +198,7 @@ window.companyData = {
       "actress": [
         "宮城理惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-390"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-390"
     },
     {
       "id": 3878,
@@ -215,7 +215,7 @@ window.companyData = {
         "柳可憐",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-391"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-391"
     },
     {
       "id": 63115,
@@ -231,7 +231,7 @@ window.companyData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-383"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-383"
     },
     {
       "id": 62515,
@@ -248,7 +248,7 @@ window.companyData = {
         "レンジャー鏑木",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-385"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-385"
     },
     {
       "id": 62492,
@@ -264,7 +264,7 @@ window.companyData = {
       "actress": [
         "小坂ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-387"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-387"
     },
     {
       "id": 62438,
@@ -280,7 +280,7 @@ window.companyData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-386"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-386"
     },
     {
       "id": 5653,
@@ -296,7 +296,7 @@ window.companyData = {
       "actress": [
         "瀬田一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-379"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-379"
     },
     {
       "id": 5650,
@@ -313,7 +313,7 @@ window.companyData = {
         "九井珠奈緒",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-382"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-382"
     },
     {
       "id": 67490,
@@ -330,7 +330,7 @@ window.companyData = {
         "大志",
         "由爱可奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-373"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-373"
     },
     {
       "id": 67463,
@@ -346,7 +346,7 @@ window.companyData = {
       "actress": [
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-374"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-374"
     },
     {
       "id": 67450,
@@ -362,7 +362,7 @@ window.companyData = {
       "actress": [
         "清巳麗乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-377"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-377"
     },
     {
       "id": 67324,
@@ -379,7 +379,7 @@ window.companyData = {
         "千石もなか",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-378"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-378"
     },
     {
       "id": 62061,
@@ -395,7 +395,7 @@ window.companyData = {
       "actress": [
         "愛葉陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-376"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-376"
     },
     {
       "id": 60163,
@@ -411,7 +411,7 @@ window.companyData = {
       "actress": [
         "ティカル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-375"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-375"
     },
     {
       "id": 70002,
@@ -428,7 +428,7 @@ window.companyData = {
         "天月梓",
         "ティカル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-367"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-367"
     },
     {
       "id": 70000,
@@ -442,7 +442,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-369"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-369"
     },
     {
       "id": 69999,
@@ -456,7 +456,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-372"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-372"
     },
     {
       "id": 69919,
@@ -472,7 +472,7 @@ window.companyData = {
       "actress": [
         "星奈茉奈花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-370"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-370"
     },
     {
       "id": 69895,
@@ -486,7 +486,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-368"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-368"
     },
     {
       "id": 69694,
@@ -502,7 +502,7 @@ window.companyData = {
       "actress": [
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-371"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-371"
     },
     {
       "id": 71978,
@@ -519,7 +519,7 @@ window.companyData = {
         "ティカル",
         "雨宫凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-366"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-366"
     },
     {
       "id": 71915,
@@ -536,7 +536,7 @@ window.companyData = {
         "皆月光",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-364"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-364"
     },
     {
       "id": 71900,
@@ -552,7 +552,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-362"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-362"
     },
     {
       "id": 73215,
@@ -568,7 +568,7 @@ window.companyData = {
       "actress": [
         "夏巳百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-359"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-359"
     },
     {
       "id": 73147,
@@ -584,7 +584,7 @@ window.companyData = {
       "actress": [
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-357"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-357"
     },
     {
       "id": 73146,
@@ -600,7 +600,7 @@ window.companyData = {
       "actress": [
         "春陽萌花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-356"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-356"
     },
     {
       "id": 73140,
@@ -616,7 +616,7 @@ window.companyData = {
       "actress": [
         "羽月乃蒼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-360"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-360"
     },
     {
       "id": 8624,
@@ -632,7 +632,7 @@ window.companyData = {
       "actress": [
         "末広純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-361"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-361"
     },
     {
       "id": 8623,
@@ -648,7 +648,7 @@ window.companyData = {
       "actress": [
         "椿莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-358"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-358"
     },
     {
       "id": 75301,
@@ -664,7 +664,7 @@ window.companyData = {
       "actress": [
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-353"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-353"
     },
     {
       "id": 75116,
@@ -680,7 +680,7 @@ window.companyData = {
       "actress": [
         "都月楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-354"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-354"
     },
     {
       "id": 9405,
@@ -696,7 +696,7 @@ window.companyData = {
       "actress": [
         "美園和花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-351"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-351"
     },
     {
       "id": 9403,
@@ -712,7 +712,7 @@ window.companyData = {
       "actress": [
         "九井珠奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-352"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-352"
     },
     {
       "id": 11670,
@@ -728,7 +728,7 @@ window.companyData = {
       "actress": [
         "花音うらら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-337"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-337"
     },
     {
       "id": 17982,
@@ -744,7 +744,7 @@ window.companyData = {
       "actress": [
         "美園和花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-249"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-249"
     },
     {
       "id": 106518,
@@ -760,7 +760,7 @@ window.companyData = {
       "actress": [
         "森澤佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-234"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-234"
     },
     {
       "id": 90918,
@@ -777,7 +777,7 @@ window.companyData = {
         "美咲佳奈",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-237"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-237"
     },
     {
       "id": 85268,
@@ -793,7 +793,7 @@ window.companyData = {
       "actress": [
         "木下日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-171"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-171"
     },
     {
       "id": 85267,
@@ -809,7 +809,7 @@ window.companyData = {
       "actress": [
         "三岳祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-140"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-140"
     },
     {
       "id": 85266,
@@ -826,7 +826,7 @@ window.companyData = {
         "吉根柚莉爱",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-139"
     },
     {
       "id": 85254,
@@ -842,7 +842,7 @@ window.companyData = {
       "actress": [
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-137"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-137"
     },
     {
       "id": 85250,
@@ -858,7 +858,7 @@ window.companyData = {
       "actress": [
         "AIKA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-136"
     },
     {
       "id": 85245,
@@ -874,7 +874,7 @@ window.companyData = {
       "actress": [
         "乙愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-138"
     },
     {
       "id": 85202,
@@ -888,7 +888,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-141"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-141"
     },
     {
       "id": 81057,
@@ -902,7 +902,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-128"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-128"
     },
     {
       "id": 80285,
@@ -919,7 +919,7 @@ window.companyData = {
         "黑川堇",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-129"
     },
     {
       "id": 80283,
@@ -935,7 +935,7 @@ window.companyData = {
       "actress": [
         "木下日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-127"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-127"
     },
     {
       "id": 80280,
@@ -949,7 +949,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/fbdb4c6143325c16954ec85fe27f7628.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-125"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-125"
     },
     {
       "id": 80669,
@@ -965,7 +965,7 @@ window.companyData = {
       "actress": [
         "永野司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-124"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-124"
     },
     {
       "id": 80626,
@@ -981,7 +981,7 @@ window.companyData = {
       "actress": [
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-123"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-123"
     },
     {
       "id": 80623,
@@ -995,7 +995,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-121"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-121"
     },
     {
       "id": 69607,
@@ -1012,7 +1012,7 @@ window.companyData = {
         "タイ",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-119"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-119"
     },
     {
       "id": 80343,
@@ -1026,7 +1026,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-107"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-107"
     },
     {
       "id": 80319,
@@ -1042,7 +1042,7 @@ window.companyData = {
       "actress": [
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-112"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-112"
     },
     {
       "id": 79823,
@@ -1056,7 +1056,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/61f39c5615ca8a43f0932374eb3b60ca.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-096"
     },
     {
       "id": 79788,
@@ -1072,7 +1072,7 @@ window.companyData = {
       "actress": [
         "辻井穗乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-098"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-098"
     },
     {
       "id": 79782,
@@ -1088,7 +1088,7 @@ window.companyData = {
       "actress": [
         "黑川堇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-099"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-099"
     },
     {
       "id": 106520,
@@ -1104,7 +1104,7 @@ window.companyData = {
       "actress": [
         "瀨名光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-092"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-092"
     },
     {
       "id": 78700,
@@ -1120,7 +1120,7 @@ window.companyData = {
       "actress": [
         "七草千歲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-068"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-068"
     },
     {
       "id": 78699,
@@ -1136,7 +1136,7 @@ window.companyData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-067"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-067"
     },
     {
       "id": 78681,
@@ -1152,7 +1152,7 @@ window.companyData = {
       "actress": [
         "瀬崎彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-069"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-069"
     },
     {
       "id": 78679,
@@ -1168,7 +1168,7 @@ window.companyData = {
       "actress": [
         "赤城穂波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-066"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-066"
     },
     {
       "id": 78678,
@@ -1184,7 +1184,7 @@ window.companyData = {
       "actress": [
         "舞奈みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-070"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-070"
     },
     {
       "id": 93077,
@@ -1200,7 +1200,7 @@ window.companyData = {
       "actress": [
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-064"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-064"
     },
     {
       "id": 100651,
@@ -1216,7 +1216,7 @@ window.companyData = {
       "actress": [
         "藤森里穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-045"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-045"
     },
     {
       "id": 93063,
@@ -1232,7 +1232,7 @@ window.companyData = {
       "actress": [
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-047"
     },
     {
       "id": 82167,
@@ -1249,7 +1249,7 @@ window.companyData = {
         "雫月心桜",
         "河奈亜依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-016"
     },
     {
       "id": 81813,
@@ -1266,7 +1266,7 @@ window.companyData = {
         "凛音とうか",
         "唯乃光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-014"
     },
     {
       "id": 81808,
@@ -1280,7 +1280,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-015"
     },
     {
       "id": 83369,
@@ -1296,7 +1296,7 @@ window.companyData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-011"
     },
     {
       "id": 83131,
@@ -1312,7 +1312,7 @@ window.companyData = {
       "actress": [
         "大浦真奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-008"
     },
     {
       "id": 76455,
@@ -1328,7 +1328,7 @@ window.companyData = {
       "actress": [
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-007"
     },
     {
       "id": 76391,
@@ -1345,7 +1345,7 @@ window.companyData = {
         "赤瀬尚子",
         "森萤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-006"
     },
     {
       "id": 75427,
@@ -1362,7 +1362,7 @@ window.companyData = {
         "永野司",
         "桜庭ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LULU-004"
     }
   ]
 };

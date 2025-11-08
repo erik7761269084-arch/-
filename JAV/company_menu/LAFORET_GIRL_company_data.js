@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "白石真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-87"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-87"
     },
     {
       "id": 1714,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "水島仁菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-86"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-86"
     },
     {
       "id": 1758,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "七濑莉娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-85"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-85"
     },
     {
       "id": 1783,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "大橋里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-84"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-84"
     },
     {
       "id": 1948,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-83"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-83"
     },
     {
       "id": 1778,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "愛乃真幌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-80"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-80"
     },
     {
       "id": 1805,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "美波遊彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-79"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-79"
     },
     {
       "id": 1768,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "前田沙羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-78"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-78"
     },
     {
       "id": 2008,
@@ -145,7 +145,7 @@ window.companyData = {
       "actress": [
         "葵千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-77"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-77"
     },
     {
       "id": 1771,
@@ -162,7 +162,7 @@ window.companyData = {
         "一條莉音",
         "乃木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-76"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-76"
     },
     {
       "id": 1932,
@@ -178,7 +178,7 @@ window.companyData = {
       "actress": [
         "篠田步美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-74"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-74"
     },
     {
       "id": 1730,
@@ -194,7 +194,7 @@ window.companyData = {
       "actress": [
         "加藤霞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-72"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-72"
     },
     {
       "id": 1989,
@@ -210,7 +210,7 @@ window.companyData = {
       "actress": [
         "坂咲美穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-69"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-69"
     },
     {
       "id": 1814,
@@ -226,7 +226,7 @@ window.companyData = {
       "actress": [
         "葉山友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-68"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-68"
     },
     {
       "id": 1846,
@@ -242,7 +242,7 @@ window.companyData = {
       "actress": [
         "楓優香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-66"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-66"
     },
     {
       "id": 1944,
@@ -258,7 +258,7 @@ window.companyData = {
       "actress": [
         "佐佐木真理亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-67"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-67"
     },
     {
       "id": 1958,
@@ -274,7 +274,7 @@ window.companyData = {
       "actress": [
         "美神彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-64"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-64"
     },
     {
       "id": 1879,
@@ -290,7 +290,7 @@ window.companyData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-55"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-55"
     },
     {
       "id": 1763,
@@ -306,7 +306,7 @@ window.companyData = {
       "actress": [
         "真野優莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-54"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-54"
     },
     {
       "id": 2052,
@@ -322,7 +322,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-53"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-53"
     },
     {
       "id": 1929,
@@ -338,7 +338,7 @@ window.companyData = {
       "actress": [
         "水菜麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-45"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-45"
     },
     {
       "id": 1757,
@@ -354,7 +354,7 @@ window.companyData = {
       "actress": [
         "川村真矢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-44"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-44"
     },
     {
       "id": 1945,
@@ -370,7 +370,7 @@ window.companyData = {
       "actress": [
         "水野葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-43"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-43"
     },
     {
       "id": 1148,
@@ -386,7 +386,7 @@ window.companyData = {
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-41"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-41"
     },
     {
       "id": 1924,
@@ -402,7 +402,7 @@ window.companyData = {
       "actress": [
         "杏奈莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-38"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-38"
     },
     {
       "id": 1786,
@@ -418,7 +418,7 @@ window.companyData = {
       "actress": [
         "星咲優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=lafbd-37"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=lafbd-37"
     },
     {
       "id": 1838,
@@ -434,7 +434,7 @@ window.companyData = {
       "actress": [
         "櫻木梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-33"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-33"
     },
     {
       "id": 2014,
@@ -450,7 +450,7 @@ window.companyData = {
       "actress": [
         "春日野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-32"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-32"
     },
     {
       "id": 1965,
@@ -466,7 +466,7 @@ window.companyData = {
       "actress": [
         "佳苗瑠華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-26"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-26"
     },
     {
       "id": 1742,
@@ -482,7 +482,7 @@ window.companyData = {
       "actress": [
         "Meru"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-24"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-24"
     },
     {
       "id": 1996,
@@ -498,7 +498,7 @@ window.companyData = {
       "actress": [
         "小西真理繪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-23"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-23"
     },
     {
       "id": 1808,
@@ -514,7 +514,7 @@ window.companyData = {
       "actress": [
         "安城安娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-21"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-21"
     },
     {
       "id": 2057,
@@ -530,7 +530,7 @@ window.companyData = {
       "actress": [
         "川瀬遥菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-19"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-19"
     },
     {
       "id": 1715,
@@ -546,7 +546,7 @@ window.companyData = {
       "actress": [
         "柚木楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-13"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-13"
     },
     {
       "id": 2048,
@@ -562,7 +562,7 @@ window.companyData = {
       "actress": [
         "川瀬遥菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-15"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-15"
     },
     {
       "id": 1955,
@@ -581,7 +581,7 @@ window.companyData = {
         "HIKARI",
         "滝川ソフィア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-10"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-10"
     },
     {
       "id": 1947,
@@ -599,7 +599,7 @@ window.companyData = {
         "HIKARI",
         "浅之美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-09"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-09"
     },
     {
       "id": 1977,
@@ -615,7 +615,7 @@ window.companyData = {
       "actress": [
         "立川理恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-08"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-08"
     },
     {
       "id": 1868,
@@ -631,7 +631,7 @@ window.companyData = {
       "actress": [
         "愛乃娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-06"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-06"
     },
     {
       "id": 1983,
@@ -647,7 +647,7 @@ window.companyData = {
       "actress": [
         "美织舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-04"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-04"
     },
     {
       "id": 1978,
@@ -663,7 +663,7 @@ window.companyData = {
       "actress": [
         "美波愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-03"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-03"
     },
     {
       "id": 1851,
@@ -679,7 +679,7 @@ window.companyData = {
       "actress": [
         "愛花沙也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-02"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LAFBD-02"
     }
   ]
 };

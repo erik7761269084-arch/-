@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "有加里乃乃花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ASEX-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ASEX-003"
     },
     {
       "id": 55622,
@@ -31,7 +31,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221026-1/d9b45dd8707f54838fbac1f06cc54971.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PACOPACOMAMA"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PACOPACOMAMA"
     },
     {
       "id": 90769,
@@ -48,7 +48,7 @@ window.companyData = {
         "天然美月",
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMA-086"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AMA-086"
     },
     {
       "id": 88473,
@@ -65,7 +65,7 @@ window.companyData = {
         "大原结莉",
         "まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMA-083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NAMA-083"
     },
     {
       "id": 94898,
@@ -87,7 +87,7 @@ window.companyData = {
         "东条有希",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMA-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AMA-052"
     },
     {
       "id": 88471,
@@ -103,7 +103,7 @@ window.companyData = {
       "actress": [
         "泽村レイナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMA-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NAMA-017"
     },
     {
       "id": 73230,
@@ -123,7 +123,7 @@ window.companyData = {
         "南野ゆきな",
         "平原みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAMA-662"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SAMA-662"
     },
     {
       "id": 1548,
@@ -139,7 +139,7 @@ window.companyData = {
       "actress": [
         "AIKA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAMA-462"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SAMA-462"
     },
     {
       "id": 1671,
@@ -155,7 +155,7 @@ window.companyData = {
       "actress": [
         "高田美沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAMA-372"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SAMA-372"
     }
   ]
 };

@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "音羽美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHC-019"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CHC-019"
     },
     {
       "id": 87365,
@@ -31,7 +31,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHCH-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CHCH-024"
     },
     {
       "id": 87358,
@@ -45,7 +45,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/9b886ea2002a7d34d27fe630442e1998.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHCH-023"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CHCH-023"
     },
     {
       "id": 87357,
@@ -61,7 +61,7 @@ window.companyData = {
       "actress": [
         "晴山ひとは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHCH-022"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CHCH-022"
     }
   ]
 };

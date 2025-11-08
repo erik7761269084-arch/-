@@ -19,7 +19,7 @@ window.companyData = {
         "ネリー・キャン",
         "キャシー・ヘブン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZOOO-197"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ZOOO-197"
     },
     {
       "id": 5618,
@@ -33,7 +33,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250601/20250601234252414414_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250601/20250601234252414414_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZOOO-194"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ZOOO-194"
     }
   ]
 };

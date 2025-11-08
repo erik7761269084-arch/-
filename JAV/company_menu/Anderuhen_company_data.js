@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "ちびとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADHN-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ADHN-008"
     },
     {
       "id": 60498,
@@ -34,7 +34,7 @@ window.companyData = {
         "小野寺舞",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADHN-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ADHN-006"
     },
     {
       "id": 4432,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "柊有希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADHN-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ADHN-003"
     },
     {
       "id": 4406,
@@ -67,7 +67,7 @@ window.companyData = {
         "浜崎真緒",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADHN-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ADHN-002"
     },
     {
       "id": 4403,
@@ -85,7 +85,7 @@ window.companyData = {
         "藤井蕾菈",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADHN-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ADHN-001"
     }
   ]
 };

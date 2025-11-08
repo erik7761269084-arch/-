@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250926/20250926225818620620_36056_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250926/20250926225818620620_36056_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UBUG-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=UBUG-004"
     },
     {
       "id": 60695,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/acd69302/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNIK-019"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TNIK-019"
     },
     {
       "id": 60694,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/09/19/a4601dc08499ff33f33782c4988f5f1b.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-079"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-079"
     },
     {
       "id": 60301,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-078"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-078"
     },
     {
       "id": 3238,
@@ -73,7 +73,7 @@ window.companyData = {
       "actress": [
         "岡本莉里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-028"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-028"
     },
     {
       "id": 60760,
@@ -87,7 +87,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOOD-028"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GOOD-028"
     },
     {
       "id": 61756,
@@ -101,7 +101,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/18/1ea7e8aa/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-077"
     },
     {
       "id": 3644,
@@ -117,7 +117,7 @@ window.companyData = {
       "actress": [
         "大原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-027"
     },
     {
       "id": 3633,
@@ -133,7 +133,7 @@ window.companyData = {
       "actress": [
         "有村希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-440"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-440"
     },
     {
       "id": 3630,
@@ -149,7 +149,7 @@ window.companyData = {
       "actress": [
         "山郷カイリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-080"
     },
     {
       "id": 62303,
@@ -163,7 +163,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/05/1b4ed5b1/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-076"
     },
     {
       "id": 61420,
@@ -177,7 +177,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/04/78d2af9e/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-114"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-114"
     },
     {
       "id": 4088,
@@ -193,7 +193,7 @@ window.companyData = {
       "actress": [
         "花衣つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-092"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-092"
     },
     {
       "id": 4078,
@@ -210,7 +210,7 @@ window.companyData = {
         "徳島理子",
         "徳岛理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-025"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-025"
     },
     {
       "id": 4077,
@@ -224,7 +224,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250726/202507262236168585_36977_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250726/202507262236168585_36977_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-439"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-439"
     },
     {
       "id": 4076,
@@ -240,7 +240,7 @@ window.companyData = {
       "actress": [
         "綾香あかね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-026"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-026"
     },
     {
       "id": 61498,
@@ -254,7 +254,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOOD-031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GOOD-031"
     },
     {
       "id": 62875,
@@ -268,7 +268,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/21/e84e0075/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-113"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-113"
     },
     {
       "id": 62874,
@@ -282,7 +282,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/21/3381eae7/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-075"
     },
     {
       "id": 4419,
@@ -298,7 +298,7 @@ window.companyData = {
       "actress": [
         "櫻木湊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GONE-077"
     },
     {
       "id": 63466,
@@ -312,7 +312,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-433"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-433"
     },
     {
       "id": 63465,
@@ -326,7 +326,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-435"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-435"
     },
     {
       "id": 62440,
@@ -340,7 +340,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-112"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-112"
     },
     {
       "id": 66600,
@@ -354,7 +354,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/42e30288/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-072"
     },
     {
       "id": 5390,
@@ -370,7 +370,7 @@ window.companyData = {
       "actress": [
         "葵百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-091"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-091"
     },
     {
       "id": 5385,
@@ -386,7 +386,7 @@ window.companyData = {
       "actress": [
         "美神萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNIK-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TNIK-017"
     },
     {
       "id": 35626,
@@ -400,7 +400,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/03/1b8bd73b946ab61501de9659157b5d48.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-111"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-111"
     },
     {
       "id": 5768,
@@ -416,7 +416,7 @@ window.companyData = {
       "actress": [
         "沙月文乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GONE-076"
     },
     {
       "id": 5756,
@@ -432,7 +432,7 @@ window.companyData = {
       "actress": [
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OTIN-016"
     },
     {
       "id": 5753,
@@ -448,7 +448,7 @@ window.companyData = {
       "actress": [
         "星明日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-023"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-023"
     },
     {
       "id": 66363,
@@ -466,7 +466,7 @@ window.companyData = {
         "上戶真理",
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOOD-502"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GOOD-502"
     },
     {
       "id": 66360,
@@ -480,7 +480,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/24/048f8076/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-070"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-070"
     },
     {
       "id": 66130,
@@ -494,7 +494,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/20/ced7e249/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-110"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-110"
     },
     {
       "id": 6197,
@@ -511,7 +511,7 @@ window.companyData = {
         "鳳可怜",
         "泉あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-090"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-090"
     },
     {
       "id": 69644,
@@ -525,7 +525,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/01/2371691d/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-109"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-109"
     },
     {
       "id": 6573,
@@ -541,7 +541,7 @@ window.companyData = {
       "actress": [
         "夏海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-089"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-089"
     },
     {
       "id": 6572,
@@ -557,7 +557,7 @@ window.companyData = {
       "actress": [
         "野野宮司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UBUG-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=UBUG-002"
     },
     {
       "id": 68783,
@@ -573,7 +573,7 @@ window.companyData = {
       "actress": [
         "浜辺香奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDAN-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GDAN-003"
     },
     {
       "id": 6808,
@@ -589,7 +589,7 @@ window.companyData = {
       "actress": [
         "蘆名穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-088"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-088"
     },
     {
       "id": 70014,
@@ -603,7 +603,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-108"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-108"
     },
     {
       "id": 70013,
@@ -617,7 +617,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-087"
     },
     {
       "id": 7239,
@@ -633,7 +633,7 @@ window.companyData = {
       "actress": [
         "笠木いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDAN-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GDAN-002"
     },
     {
       "id": 7238,
@@ -649,7 +649,7 @@ window.companyData = {
       "actress": [
         "天瀬由花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OTIN-014"
     },
     {
       "id": 70966,
@@ -663,7 +663,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/27/1fa79ef6/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-107"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-107"
     },
     {
       "id": 71947,
@@ -679,7 +679,7 @@ window.companyData = {
       "actress": [
         "柊有希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-418"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-418"
     },
     {
       "id": 71944,
@@ -693,7 +693,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-085"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-085"
     },
     {
       "id": 7930,
@@ -709,7 +709,7 @@ window.companyData = {
       "actress": [
         "優梨舞奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-419"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-419"
     },
     {
       "id": 7923,
@@ -725,7 +725,7 @@ window.companyData = {
       "actress": [
         "那賀崎雪音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OTIN-013"
     },
     {
       "id": 7795,
@@ -739,7 +739,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20250303/e6ec287c-3c7d-4ad8-a66f-451753f6a37c.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20250303/e6ec287c-3c7d-4ad8-a66f-451753f6a37c.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MERO-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MERO-004"
     },
     {
       "id": 72691,
@@ -755,7 +755,7 @@ window.companyData = {
       "actress": [
         "翔田千里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOOD-030"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GOOD-030"
     },
     {
       "id": 72687,
@@ -769,7 +769,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-065"
     },
     {
       "id": 8754,
@@ -783,7 +783,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20250127/9401243a-9d1c-4511-a603-b630f436863d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20250127/9401243a-9d1c-4511-a603-b630f436863d.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MERO-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MERO-003"
     },
     {
       "id": 8748,
@@ -799,7 +799,7 @@ window.companyData = {
       "actress": [
         "佐久間楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GHAP-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GHAP-013"
     },
     {
       "id": 9117,
@@ -815,7 +815,7 @@ window.companyData = {
       "actress": [
         "志田みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GONE-072"
     },
     {
       "id": 75775,
@@ -831,7 +831,7 @@ window.companyData = {
       "actress": [
         "佐久間楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-073"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GONE-073"
     },
     {
       "id": 75718,
@@ -847,7 +847,7 @@ window.companyData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OTIN-011"
     },
     {
       "id": 75717,
@@ -861,7 +861,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/2ae2cccd/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-079"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-079"
     },
     {
       "id": 75716,
@@ -875,7 +875,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/7c11c8af/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TFOR-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TFOR-001"
     },
     {
       "id": 76773,
@@ -891,7 +891,7 @@ window.companyData = {
       "actress": [
         "寺島志保"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOOD-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GOOD-027"
     },
     {
       "id": 76767,
@@ -905,7 +905,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-078"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-078"
     },
     {
       "id": 76765,
@@ -919,7 +919,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-082"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-082"
     },
     {
       "id": 76704,
@@ -933,7 +933,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/09/06/92d8ae57a6b95e4d574ef938ae7a8676.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-071"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GONE-071"
     },
     {
       "id": 10009,
@@ -949,7 +949,7 @@ window.companyData = {
       "actress": [
         "美木雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TDAN-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TDAN-007"
     },
     {
       "id": 78226,
@@ -963,7 +963,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-081"
     },
     {
       "id": 78162,
@@ -979,7 +979,7 @@ window.companyData = {
       "actress": [
         "小坂ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-103"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-103"
     },
     {
       "id": 95267,
@@ -995,7 +995,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNIK-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TNIK-012"
     },
     {
       "id": 95265,
@@ -1011,7 +1011,7 @@ window.companyData = {
       "actress": [
         "みなも吹雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-080"
     },
     {
       "id": 95256,
@@ -1025,7 +1025,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-076"
     },
     {
       "id": 11045,
@@ -1041,7 +1041,7 @@ window.companyData = {
       "actress": [
         "末広純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-069"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GONE-069"
     },
     {
       "id": 11040,
@@ -1057,7 +1057,7 @@ window.companyData = {
       "actress": [
         "藤咲紫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOOD-025"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GOOD-025"
     },
     {
       "id": 93471,
@@ -1071,7 +1071,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-094"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-094"
     },
     {
       "id": 12741,
@@ -1085,7 +1085,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20240812/b7e62396-d1c9-4d3d-a06f-fc20cbb400ea.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240812/b7e62396-d1c9-4d3d-a06f-fc20cbb400ea.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-077"
     },
     {
       "id": 12738,
@@ -1101,7 +1101,7 @@ window.companyData = {
       "actress": [
         "愛瀬優里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-071"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-071"
     },
     {
       "id": 93707,
@@ -1117,7 +1117,7 @@ window.companyData = {
       "actress": [
         "西野絵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-076"
     },
     {
       "id": 93514,
@@ -1133,7 +1133,7 @@ window.companyData = {
       "actress": [
         "岛津かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-096"
     },
     {
       "id": 13089,
@@ -1149,7 +1149,7 @@ window.companyData = {
       "actress": [
         "宮野佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OTIN-006"
     },
     {
       "id": 13086,
@@ -1165,7 +1165,7 @@ window.companyData = {
       "actress": [
         "星七奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-070"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-070"
     },
     {
       "id": 93740,
@@ -1181,7 +1181,7 @@ window.companyData = {
       "actress": [
         "黒木奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-075"
     },
     {
       "id": 93679,
@@ -1197,7 +1197,7 @@ window.companyData = {
       "actress": [
         "石田美久"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-069"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-069"
     },
     {
       "id": 93518,
@@ -1211,7 +1211,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-092"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-092"
     },
     {
       "id": 94023,
@@ -1225,7 +1225,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMSQ-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=RMSQ-010"
     },
     {
       "id": 93457,
@@ -1239,7 +1239,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-091"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-091"
     },
     {
       "id": 13723,
@@ -1255,7 +1255,7 @@ window.companyData = {
       "actress": [
         "美波汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OTIN-005"
     },
     {
       "id": 93730,
@@ -1269,7 +1269,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-068"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-068"
     },
     {
       "id": 93723,
@@ -1285,7 +1285,7 @@ window.companyData = {
       "actress": [
         "绀野光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-074"
     },
     {
       "id": 14396,
@@ -1301,7 +1301,7 @@ window.companyData = {
       "actress": [
         "清巳麗乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OTIN-004"
     },
     {
       "id": 14398,
@@ -1315,7 +1315,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20240526/20240526215944460460.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240526/20240526215944460460.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-090"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-090"
     },
     {
       "id": 91917,
@@ -1329,7 +1329,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240615-1/6c7af6b3ccaf6ca9e7eacaa03879f8c6.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNIK-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TNIK-006"
     },
     {
       "id": 91869,
@@ -1345,7 +1345,7 @@ window.companyData = {
       "actress": [
         "桜和ことこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNIK-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TNIK-005"
     },
     {
       "id": 91834,
@@ -1361,7 +1361,7 @@ window.companyData = {
       "actress": [
         "千石もなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TDAN-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TDAN-004"
     },
     {
       "id": 90626,
@@ -1375,7 +1375,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-057"
     },
     {
       "id": 90625,
@@ -1389,7 +1389,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-056"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-056"
     },
     {
       "id": 90566,
@@ -1405,7 +1405,7 @@ window.companyData = {
       "actress": [
         "星乃夏月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-054"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-054"
     },
     {
       "id": 88861,
@@ -1419,7 +1419,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNIK-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TNIK-003"
     },
     {
       "id": 90630,
@@ -1433,7 +1433,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-067"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-067"
     },
     {
       "id": 90499,
@@ -1449,7 +1449,7 @@ window.companyData = {
       "actress": [
         "矢島ちえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-055"
     },
     {
       "id": 88903,
@@ -1463,7 +1463,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNIK-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TNIK-002"
     },
     {
       "id": 90569,
@@ -1479,7 +1479,7 @@ window.companyData = {
       "actress": [
         "篠崎ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-053"
     },
     {
       "id": 90289,
@@ -1493,7 +1493,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMSQ-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=RMSQ-004"
     },
     {
       "id": 90632,
@@ -1509,7 +1509,7 @@ window.companyData = {
       "actress": [
         "瀬崎彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-066"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-066"
     },
     {
       "id": 90567,
@@ -1523,7 +1523,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-052"
     },
     {
       "id": 90563,
@@ -1537,7 +1537,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-050"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-050"
     },
     {
       "id": 90274,
@@ -1551,7 +1551,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMSQ-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=RMSQ-003"
     },
     {
       "id": 91197,
@@ -1567,7 +1567,7 @@ window.companyData = {
       "actress": [
         "有村希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GHAP-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GHAP-009"
     },
     {
       "id": 90631,
@@ -1583,7 +1583,7 @@ window.companyData = {
       "actress": [
         "岬櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-065"
     },
     {
       "id": 90624,
@@ -1599,7 +1599,7 @@ window.companyData = {
       "actress": [
         "伊原明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-064"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-064"
     },
     {
       "id": 90562,
@@ -1613,7 +1613,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-049"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-049"
     },
     {
       "id": 90565,
@@ -1627,7 +1627,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-051"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-051"
     },
     {
       "id": 90561,
@@ -1643,7 +1643,7 @@ window.companyData = {
       "actress": [
         "羽月乃蒼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-048"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-048"
     },
     {
       "id": 18818,
@@ -1657,7 +1657,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230827/20230827230419590590.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230827/20230827230419590590.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-043"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-043"
     },
     {
       "id": 91200,
@@ -1673,7 +1673,7 @@ window.companyData = {
       "actress": [
         "大槻响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-063"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GONE-063"
     },
     {
       "id": 90633,
@@ -1687,7 +1687,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-063"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-063"
     },
     {
       "id": 90560,
@@ -1701,7 +1701,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-047"
     },
     {
       "id": 88651,
@@ -1717,7 +1717,7 @@ window.companyData = {
       "actress": [
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-044"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-044"
     },
     {
       "id": 90634,
@@ -1733,7 +1733,7 @@ window.companyData = {
       "actress": [
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-062"
     },
     {
       "id": 88646,
@@ -1749,7 +1749,7 @@ window.companyData = {
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-042"
     },
     {
       "id": 87847,
@@ -1763,7 +1763,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMSQ-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=RMSQ-002"
     },
     {
       "id": 90564,
@@ -1777,7 +1777,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-046"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-046"
     },
     {
       "id": 90623,
@@ -1791,7 +1791,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/6bec04f2ec1051f35540780fb7293cae.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-061"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-061"
     },
     {
       "id": 90559,
@@ -1805,7 +1805,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-045"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-045"
     },
     {
       "id": 88656,
@@ -1819,7 +1819,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-041"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-041"
     },
     {
       "id": 87145,
@@ -1835,7 +1835,7 @@ window.companyData = {
       "actress": [
         "塚田詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-073"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-073"
     },
     {
       "id": 87039,
@@ -1849,7 +1849,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-044"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-044"
     },
     {
       "id": 88834,
@@ -1865,7 +1865,7 @@ window.companyData = {
       "actress": [
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TDAN-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TDAN-003"
     },
     {
       "id": 87852,
@@ -1879,7 +1879,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMSQ-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=RMSQ-001"
     },
     {
       "id": 87092,
@@ -1895,7 +1895,7 @@ window.companyData = {
       "actress": [
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-072"
     },
     {
       "id": 87028,
@@ -1911,7 +1911,7 @@ window.companyData = {
       "actress": [
         "新山ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-043"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAIS-043"
     },
     {
       "id": 82209,
@@ -1927,7 +1927,7 @@ window.companyData = {
       "actress": [
         "星乃麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-006"
     },
     {
       "id": 82122,
@@ -1943,7 +1943,7 @@ window.companyData = {
       "actress": [
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-005"
     },
     {
       "id": 83877,
@@ -1957,7 +1957,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/553f3f9abd31e54ac849f6ec2c501c81.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-004"
     },
     {
       "id": 83583,
@@ -1971,7 +1971,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-163"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-163"
     },
     {
       "id": 83207,
@@ -1985,7 +1985,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/2f3158f532804b9b47b989ed1702bab5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-019"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAKO-019"
     },
     {
       "id": 82107,
@@ -2001,7 +2001,7 @@ window.companyData = {
       "actress": [
         "凑罗梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-002"
     },
     {
       "id": 83759,
@@ -2017,7 +2017,7 @@ window.companyData = {
       "actress": [
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-028"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-028"
     },
     {
       "id": 83868,
@@ -2031,7 +2031,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YAKO-001"
     },
     {
       "id": 83719,
@@ -2047,7 +2047,7 @@ window.companyData = {
       "actress": [
         "富井美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-027"
     },
     {
       "id": 72705,
@@ -2063,7 +2063,7 @@ window.companyData = {
       "actress": [
         "黑咲滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-150"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-150"
     },
     {
       "id": 74972,
@@ -2077,7 +2077,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250106-1/a739279753bd5a6957b5654a10805a79.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-136"
     },
     {
       "id": 71198,
@@ -2093,7 +2093,7 @@ window.companyData = {
       "actress": [
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-126"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-126"
     },
     {
       "id": 70905,
@@ -2107,7 +2107,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-103"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HONB-103"
     },
     {
       "id": 59799,
@@ -2123,7 +2123,7 @@ window.companyData = {
       "actress": [
         "清巳麗乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-019"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OTIN-019"
     },
     {
       "id": 59790,
@@ -2137,7 +2137,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-116"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NINE-116"
     }
   ]
 };

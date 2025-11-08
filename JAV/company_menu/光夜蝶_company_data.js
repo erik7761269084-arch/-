@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "佐久間楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-334"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YST-334"
     },
     {
       "id": 5633,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "小野寺舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-335"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YST-335"
     },
     {
       "id": 6571,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "美雲そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-332"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YST-332"
     },
     {
       "id": 6570,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "佐久間楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-333"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=YST-333"
     }
   ]
 };

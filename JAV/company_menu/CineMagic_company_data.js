@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "兎美かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-089"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMF-089"
     },
     {
       "id": 4247,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "奥乃美加奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-328"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-328"
     },
     {
       "id": 5124,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "響かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-326"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-326"
     },
     {
       "id": 9151,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "足立友梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-318"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-318"
     },
     {
       "id": 91434,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "北原杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-302"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-302"
     },
     {
       "id": 91398,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "佐々木咲和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-082"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMF-082"
     },
     {
       "id": 91380,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "乃南ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-301"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-301"
     },
     {
       "id": 91425,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "さのさとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-300"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-300"
     },
     {
       "id": 91396,
@@ -145,7 +145,7 @@ window.companyData = {
       "actress": [
         "壬生恋白"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMF-081"
     },
     {
       "id": 91397,
@@ -162,7 +162,7 @@ window.companyData = {
         "乃南ゆい",
         "蓬莱かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-299"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-299"
     },
     {
       "id": 91395,
@@ -183,7 +183,7 @@ window.companyData = {
         "莲美柚香",
         "爱実ありあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-298"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-298"
     },
     {
       "id": 91383,
@@ -199,7 +199,7 @@ window.companyData = {
       "actress": [
         "渡森ちひろ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-296"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-296"
     },
     {
       "id": 91429,
@@ -215,7 +215,7 @@ window.companyData = {
       "actress": [
         "秋名柚杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-295"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-295"
     },
     {
       "id": 91431,
@@ -231,7 +231,7 @@ window.companyData = {
       "actress": [
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-293"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-293"
     },
     {
       "id": 91382,
@@ -247,7 +247,7 @@ window.companyData = {
       "actress": [
         "华月瑠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMF-080"
     },
     {
       "id": 91381,
@@ -264,7 +264,7 @@ window.companyData = {
         "新川ゆず",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-291"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-291"
     },
     {
       "id": 91130,
@@ -280,7 +280,7 @@ window.companyData = {
       "actress": [
         "夏目未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMF-075"
     },
     {
       "id": 87354,
@@ -297,7 +297,7 @@ window.companyData = {
         "蓬莱かすみ",
         "盛岡みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-281"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-281"
     },
     {
       "id": 87368,
@@ -311,7 +311,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-172"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMV-172"
     },
     {
       "id": 87361,
@@ -325,7 +325,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-073"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMF-073"
     },
     {
       "id": 87336,
@@ -341,7 +341,7 @@ window.companyData = {
       "actress": [
         "爱乃零"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMF-072"
     },
     {
       "id": 87363,
@@ -357,7 +357,7 @@ window.companyData = {
       "actress": [
         "夏目未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-170"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMV-170"
     },
     {
       "id": 81431,
@@ -374,7 +374,7 @@ window.companyData = {
         "管野静香",
         "平川琴菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMN-211"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMN-211"
     },
     {
       "id": 81428,
@@ -390,7 +390,7 @@ window.companyData = {
       "actress": [
         "叶山るる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-234"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-234"
     },
     {
       "id": 83487,
@@ -406,7 +406,7 @@ window.companyData = {
       "actress": [
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMF-052"
     },
     {
       "id": 81597,
@@ -423,7 +423,7 @@ window.companyData = {
         "神野雛",
         "君嶋かほる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-233"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-233"
     },
     {
       "id": 81453,
@@ -446,7 +446,7 @@ window.companyData = {
         "野々宫みさと",
         "青山のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-140"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMV-140"
     },
     {
       "id": 81696,
@@ -462,7 +462,7 @@ window.companyData = {
       "actress": [
         "汐見唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMV-138"
     },
     {
       "id": 81666,
@@ -478,7 +478,7 @@ window.companyData = {
       "actress": [
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMN-208"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMN-208"
     },
     {
       "id": 82363,
@@ -496,7 +496,7 @@ window.companyData = {
         "咲雪华奈",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-120"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMV-120"
     },
     {
       "id": 73800,
@@ -512,7 +512,7 @@ window.companyData = {
       "actress": [
         "华恋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-045"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMC-045"
     },
     {
       "id": 69277,
@@ -528,7 +528,7 @@ window.companyData = {
       "actress": [
         "仲条さき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMN-252"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CMN-252"
     }
   ]
 };

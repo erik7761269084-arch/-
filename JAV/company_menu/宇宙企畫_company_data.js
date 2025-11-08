@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "向井藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-866"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MDTM-866"
     },
     {
       "id": 7012,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "多華部しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTE-059"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MDTE-059"
     }
   ]
 };

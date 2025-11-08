@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "廣瀨百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-746"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-746"
     },
     {
       "id": 3131,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-744"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-744"
     },
     {
       "id": 5659,
@@ -50,7 +50,7 @@ window.companyData = {
         "碓氷紗也",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-739"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-739"
     },
     {
       "id": 6491,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "永野鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-735"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-735"
     },
     {
       "id": 7156,
@@ -83,7 +83,7 @@ window.companyData = {
         "静河",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-732"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-732"
     },
     {
       "id": 8633,
@@ -99,7 +99,7 @@ window.companyData = {
       "actress": [
         "宮西光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-728"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-728"
     },
     {
       "id": 9415,
@@ -115,7 +115,7 @@ window.companyData = {
       "actress": [
         "西野絵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-727"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-727"
     },
     {
       "id": 16423,
@@ -132,7 +132,7 @@ window.companyData = {
         "藍芽水月",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-703"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-703"
     },
     {
       "id": 16934,
@@ -148,7 +148,7 @@ window.companyData = {
       "actress": [
         "宮西光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-701"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-701"
     },
     {
       "id": 16933,
@@ -164,7 +164,7 @@ window.companyData = {
       "actress": [
         "響乃詩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-700"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BF-700"
     }
   ]
 };

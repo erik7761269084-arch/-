@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "山口由愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-099"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-099"
     },
     {
       "id": 60664,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-098"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-098"
     },
     {
       "id": 61309,
@@ -47,7 +47,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-097"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-097"
     },
     {
       "id": 61140,
@@ -63,7 +63,7 @@ window.companyData = {
       "actress": [
         "石川陽波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-096"
     },
     {
       "id": 61692,
@@ -79,7 +79,7 @@ window.companyData = {
       "actress": [
         "河北笑茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-095"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-095"
     },
     {
       "id": 62235,
@@ -95,7 +95,7 @@ window.companyData = {
       "actress": [
         "犬飼果南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-094"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-094"
     },
     {
       "id": 62764,
@@ -111,7 +111,7 @@ window.companyData = {
       "actress": [
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-093"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-093"
     },
     {
       "id": 69583,
@@ -127,7 +127,7 @@ window.companyData = {
       "actress": [
         "松井日奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-090"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-090"
     },
     {
       "id": 77292,
@@ -141,7 +141,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-083"
     },
     {
       "id": 93677,
@@ -157,7 +157,7 @@ window.companyData = {
       "actress": [
         "川菜美铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-076"
     },
     {
       "id": 93676,
@@ -171,7 +171,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-075"
     },
     {
       "id": 93638,
@@ -185,7 +185,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-074"
     },
     {
       "id": 93666,
@@ -201,7 +201,7 @@ window.companyData = {
       "actress": [
         "桂木春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-073"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-073"
     },
     {
       "id": 93646,
@@ -217,7 +217,7 @@ window.companyData = {
       "actress": [
         "前田美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-072"
     },
     {
       "id": 93611,
@@ -233,7 +233,7 @@ window.companyData = {
       "actress": [
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-071"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-071"
     },
     {
       "id": 87053,
@@ -249,7 +249,7 @@ window.companyData = {
       "actress": [
         "今井栞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-057"
     },
     {
       "id": 93553,
@@ -263,7 +263,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-028"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-028"
     },
     {
       "id": 81893,
@@ -279,7 +279,7 @@ window.companyData = {
       "actress": [
         "奏自由"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-013"
     },
     {
       "id": 93557,
@@ -295,7 +295,7 @@ window.companyData = {
       "actress": [
         "百合川紗羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-012"
     },
     {
       "id": 83190,
@@ -311,7 +311,7 @@ window.companyData = {
       "actress": [
         "水谷あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-010"
     },
     {
       "id": 76593,
@@ -327,7 +327,7 @@ window.companyData = {
       "actress": [
         "宫泽千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OKK-009"
     }
   ]
 };

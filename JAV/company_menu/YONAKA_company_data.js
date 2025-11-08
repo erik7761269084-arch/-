@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "森澤佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-047"
     },
     {
       "id": 3810,
@@ -34,7 +34,7 @@ window.companyData = {
         "紗紗原百合",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-046"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-046"
     },
     {
       "id": 5406,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "永野鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-042"
     },
     {
       "id": 5958,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "鈴木真夕"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-041"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-041"
     },
     {
       "id": 5939,
@@ -82,7 +82,7 @@ window.companyData = {
       "actress": [
         "滝ゆいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-040"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-040"
     },
     {
       "id": 6578,
@@ -99,7 +99,7 @@ window.companyData = {
         "蒼山愛奈",
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-039"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-039"
     },
     {
       "id": 67723,
@@ -116,7 +116,7 @@ window.companyData = {
         "有馬美月",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-038"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-038"
     },
     {
       "id": 8895,
@@ -133,7 +133,7 @@ window.companyData = {
         "宇流木沙羅",
         "玉城夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-036"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-036"
     },
     {
       "id": 88634,
@@ -147,7 +147,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON"
     },
     {
       "id": 63328,
@@ -161,7 +161,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-035"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-035"
     },
     {
       "id": 12858,
@@ -178,7 +178,7 @@ window.companyData = {
         "长濑麻美",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-033"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-033"
     },
     {
       "id": 13414,
@@ -194,7 +194,7 @@ window.companyData = {
       "actress": [
         "沙月芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-029"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-029"
     },
     {
       "id": 14178,
@@ -210,7 +210,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-028"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-028"
     },
     {
       "id": 14532,
@@ -226,7 +226,7 @@ window.companyData = {
       "actress": [
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-027"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-027"
     },
     {
       "id": 16399,
@@ -243,7 +243,7 @@ window.companyData = {
         "新村朱里",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MOON-020"
     }
   ]
 };

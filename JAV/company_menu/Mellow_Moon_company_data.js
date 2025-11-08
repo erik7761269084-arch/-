@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "冬木舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-079"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-079"
     },
     {
       "id": 66469,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "大桥ひとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-080"
     },
     {
       "id": 66292,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "永濑唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-078"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-078"
     },
     {
       "id": 8381,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "川菜美铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-072"
     },
     {
       "id": 77193,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "朝宫凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-067"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-067"
     },
     {
       "id": 77185,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-068"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-068"
     },
     {
       "id": 93100,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "加藤あやの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-060"
     },
     {
       "id": 93098,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "蓮実クレア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-059"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-059"
     },
     {
       "id": 93123,
@@ -145,7 +145,7 @@ window.companyData = {
       "actress": [
         "緒川春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-058"
     },
     {
       "id": 93104,
@@ -161,7 +161,7 @@ window.companyData = {
       "actress": [
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-057"
     },
     {
       "id": 93125,
@@ -177,7 +177,7 @@ window.companyData = {
       "actress": [
         "小泉彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-056"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-056"
     },
     {
       "id": 93090,
@@ -191,7 +191,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/a490c928236a4fdc4003ba206181e171.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-055"
     },
     {
       "id": 93119,
@@ -207,7 +207,7 @@ window.companyData = {
       "actress": [
         "山井すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-054"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-054"
     },
     {
       "id": 93106,
@@ -223,7 +223,7 @@ window.companyData = {
       "actress": [
         "北島玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MLMM-053"
     }
   ]
 };

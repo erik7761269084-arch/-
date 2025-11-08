@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GNS-129"
     },
     {
       "id": 61949,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-130"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GNS-130"
     },
     {
       "id": 62760,
@@ -45,7 +45,7 @@ window.companyData = {
       "actress": [
         "白咲まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNSZ-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GNSZ-001"
     },
     {
       "id": 8340,
@@ -77,7 +77,7 @@ window.companyData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GNS-113"
     },
     {
       "id": 95297,
@@ -91,7 +91,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/85a40c97/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-106"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GNS-106"
     }
   ]
 };

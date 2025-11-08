@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=S2MBD-007"
     }
   ]
 };

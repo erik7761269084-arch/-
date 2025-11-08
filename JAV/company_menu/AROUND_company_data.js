@@ -18,7 +18,7 @@ window.companyData = {
         "二羽紗愛",
         "夏目加奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25198"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-25198"
     },
     {
       "id": 4073,
@@ -35,7 +35,7 @@ window.companyData = {
         "足立友梨",
         "花里明理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25196"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-25196"
     },
     {
       "id": 5012,
@@ -52,7 +52,7 @@ window.companyData = {
         "丸石稀有",
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25195"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-25195"
     },
     {
       "id": 5947,
@@ -68,7 +68,7 @@ window.companyData = {
       "actress": [
         "水乃菜乃華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25194"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-25194"
     },
     {
       "id": 6580,
@@ -85,7 +85,7 @@ window.companyData = {
         "小野坂唯香",
         "葉月まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25193"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-25193"
     },
     {
       "id": 72309,
@@ -101,7 +101,7 @@ window.companyData = {
       "actress": [
         "斉藤月乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25191"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-25191"
     },
     {
       "id": 73882,
@@ -115,7 +115,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25190"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-25190"
     },
     {
       "id": 90716,
@@ -132,7 +132,7 @@ window.companyData = {
         "五十嵐未華子",
         "吉瀬栞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-22162"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-22162"
     },
     {
       "id": 81260,
@@ -146,7 +146,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-22161"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-22161"
     },
     {
       "id": 83462,
@@ -162,7 +162,7 @@ window.companyData = {
       "actress": [
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-20131"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-20131"
     },
     {
       "id": 82746,
@@ -179,7 +179,7 @@ window.companyData = {
         "大岛丈",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-19123"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ARSO-19123"
     }
   ]
 };

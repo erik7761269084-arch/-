@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-021"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-021"
     },
     {
       "id": 63056,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "九井珠奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-019"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-019"
     },
     {
       "id": 66606,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-018"
     },
     {
       "id": 7266,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "静河"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-016"
     },
     {
       "id": 72509,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "那賀崎雪音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-013"
     },
     {
       "id": 9524,
@@ -98,7 +98,7 @@ window.companyData = {
         "小那海綾",
         "佐佐波绫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-009"
     },
     {
       "id": 12854,
@@ -114,7 +114,7 @@ window.companyData = {
       "actress": [
         "西野絵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-003"
     },
     {
       "id": 94778,
@@ -128,7 +128,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-001"
     },
     {
       "id": 13108,
@@ -144,7 +144,7 @@ window.companyData = {
       "actress": [
         "橘京花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVGAL-002"
     }
   ]
 };

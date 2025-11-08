@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/08/21/8859fdf542729f999203f63b65bef53a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMSL-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NMSL-015"
     },
     {
       "id": 61101,
@@ -31,7 +31,7 @@ window.companyData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMSL-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NMSL-014"
     },
     {
       "id": 61855,
@@ -47,7 +47,7 @@ window.companyData = {
       "actress": [
         "美咲佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMSL-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NMSL-010"
     },
     {
       "id": 62416,
@@ -61,7 +61,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMSL-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NMSL-007"
     },
     {
       "id": 63409,
@@ -75,7 +75,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMSL-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NMSL-004"
     },
     {
       "id": 63567,
@@ -89,7 +89,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMSL-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NMSL-005"
     },
     {
       "id": 59903,
@@ -105,7 +105,7 @@ window.companyData = {
       "actress": [
         "皆月光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMSL-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NMSL-020"
     }
   ]
 };

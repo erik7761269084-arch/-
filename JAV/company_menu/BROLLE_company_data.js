@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-IHIV3OZ3"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-IHIV3OZ3"
     },
     {
       "id": 60047,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/ba7f1308/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-BPCZQE1J"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-BPCZQE1J"
     },
     {
       "id": 60085,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/09/f4cb3a1f/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-FKAWYGAH"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-FKAWYGAH"
     },
     {
       "id": 60246,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-GUM4Q7DU"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-GUM4Q7DU"
     },
     {
       "id": 60245,
@@ -71,7 +71,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-H9YXXM2K"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-H9YXXM2K"
     },
     {
       "id": 60324,
@@ -85,7 +85,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-LC4PSEYR"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-LC4PSEYR"
     },
     {
       "id": 60323,
@@ -99,7 +99,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-EDFGJPNL"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-EDFGJPNL"
     },
     {
       "id": 61355,
@@ -113,7 +113,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-699"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-699"
     },
     {
       "id": 61354,
@@ -127,7 +127,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-700"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-700"
     },
     {
       "id": 60996,
@@ -141,7 +141,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-YM3JPMCS"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-YM3JPMCS"
     },
     {
       "id": 62291,
@@ -155,7 +155,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-694"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-694"
     },
     {
       "id": 62290,
@@ -169,7 +169,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-695"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-695"
     },
     {
       "id": 61453,
@@ -183,7 +183,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-OMYINVSR"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-OMYINVSR"
     },
     {
       "id": 61630,
@@ -197,7 +197,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/21/0fee1a04/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-BKPHKNSJ"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-BKPHKNSJ"
     },
     {
       "id": 61656,
@@ -211,7 +211,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/07/18/a95527c267b888c4740d2df513a8dec5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-IAVF94RS"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-IAVF94RS"
     },
     {
       "id": 61812,
@@ -225,7 +225,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-BVALUNHM"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-BVALUNHM"
     },
     {
       "id": 61852,
@@ -239,7 +239,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/07/13/ef735e057bac6b04378686114d85d85b.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-OJKLYIYS"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-OJKLYIYS"
     },
     {
       "id": 61887,
@@ -253,7 +253,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-O74FAAL6"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-O74FAAL6"
     },
     {
       "id": 62398,
@@ -267,7 +267,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/28/ffb717a9/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-N5ER1ECM"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-N5ER1ECM"
     },
     {
       "id": 62690,
@@ -281,7 +281,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/22/5a1b077e/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-XFDPLZKO"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-XFDPLZKO"
     },
     {
       "id": 62818,
@@ -295,7 +295,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-NGMOY2XV"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-NGMOY2XV"
     },
     {
       "id": 62817,
@@ -309,7 +309,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-024FUCK"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-024FUCK"
     },
     {
       "id": 63057,
@@ -323,7 +323,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/13/7578d5e8/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-AOMZH8OR"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-AOMZH8OR"
     },
     {
       "id": 63382,
@@ -337,7 +337,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/06/0c00cf195162fb500bdc443039dba389.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-5YKFIYKB"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-5YKFIYKB"
     },
     {
       "id": 63682,
@@ -351,7 +351,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-OQHD9YCQ"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-OQHD9YCQ"
     },
     {
       "id": 64142,
@@ -365,7 +365,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-5IWDXMXB"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-5IWDXMXB"
     },
     {
       "id": 66088,
@@ -379,7 +379,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-IKWOPSUS"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-IKWOPSUS"
     },
     {
       "id": 66086,
@@ -393,7 +393,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-J3MF1F5A"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-J3MF1F5A"
     },
     {
       "id": 69645,
@@ -407,7 +407,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/07/01/6521357a808f029620508464bec252a3.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-022"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-022"
     },
     {
       "id": 69640,
@@ -421,7 +421,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-681"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-681"
     },
     {
       "id": 67845,
@@ -435,7 +435,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/8e1602cf/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-683"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-683"
     },
     {
       "id": 75721,
@@ -449,7 +449,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-021"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-021"
     },
     {
       "id": 94225,
@@ -463,7 +463,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKJK-033"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKJK-033"
     },
     {
       "id": 94213,
@@ -477,7 +477,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKJK-031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKJK-031"
     },
     {
       "id": 94208,
@@ -491,7 +491,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKJK-032"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKJK-032"
     },
     {
       "id": 95266,
@@ -507,7 +507,7 @@ window.companyData = {
       "actress": [
         "瑶真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-020"
     },
     {
       "id": 82730,
@@ -521,7 +521,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=326JKK-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=326JKK-001"
     },
     {
       "id": 82729,
@@ -535,7 +535,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=326JKK-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=326JKK-018"
     },
     {
       "id": 100510,
@@ -549,7 +549,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2023/03/10/616e9dd37dcbbe8af504ff9c50460ced.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKJK-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SKJK-016"
     },
     {
       "id": 87528,
@@ -563,7 +563,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-553"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-553"
     },
     {
       "id": 87526,
@@ -577,7 +577,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-555"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-555"
     },
     {
       "id": 87226,
@@ -593,7 +593,7 @@ window.companyData = {
       "actress": [
         "川菜美铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=GMJK-004"
     },
     {
       "id": 87525,
@@ -607,7 +607,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-551"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-551"
     },
     {
       "id": 87515,
@@ -621,7 +621,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-549"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-549"
     },
     {
       "id": 87502,
@@ -635,7 +635,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230729-1/b8f1b43d0558bdd3f70dbd0412605ed2.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-550"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-550"
     },
     {
       "id": 84903,
@@ -651,7 +651,7 @@ window.companyData = {
       "actress": [
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-541"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-541"
     },
     {
       "id": 84870,
@@ -667,7 +667,7 @@ window.companyData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-518"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-518"
     },
     {
       "id": 84901,
@@ -681,7 +681,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-509"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-509"
     },
     {
       "id": 84897,
@@ -695,7 +695,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-510"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-510"
     },
     {
       "id": 81727,
@@ -715,7 +715,7 @@ window.companyData = {
         "平花",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-439"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-439"
     },
     {
       "id": 81604,
@@ -729,7 +729,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKNK-098"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKNK-098"
     },
     {
       "id": 83652,
@@ -745,7 +745,7 @@ window.companyData = {
       "actress": [
         "森萤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKW-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKW-017"
     },
     {
       "id": 83623,
@@ -759,7 +759,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-435"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-435"
     },
     {
       "id": 82971,
@@ -773,7 +773,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-436"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-436"
     },
     {
       "id": 75779,
@@ -787,7 +787,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-434"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-434"
     },
     {
       "id": 94985,
@@ -801,7 +801,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/cdbf881757c187b196e2a61874403318.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-428"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-428"
     },
     {
       "id": 83638,
@@ -824,7 +824,7 @@ window.companyData = {
         "森川杏奈",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-427"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-427"
     },
     {
       "id": 76013,
@@ -838,7 +838,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-425"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-425"
     },
     {
       "id": 75740,
@@ -855,7 +855,7 @@ window.companyData = {
         "久保今日子",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-426"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-426"
     },
     {
       "id": 76458,
@@ -869,7 +869,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241210-1/7dbeac75ab5085a7058543b0caa639a6.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-421"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-421"
     },
     {
       "id": 70935,
@@ -883,7 +883,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-414"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-414"
     },
     {
       "id": 98256,
@@ -903,7 +903,7 @@ window.companyData = {
         "天野仁美",
         "平井雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-410"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-410"
     },
     {
       "id": 86919,
@@ -919,7 +919,7 @@ window.companyData = {
       "actress": [
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-406"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-406"
     },
     {
       "id": 86914,
@@ -933,7 +933,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-405"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-405"
     },
     {
       "id": 70716,
@@ -947,7 +947,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-407"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-407"
     },
     {
       "id": 70934,
@@ -961,7 +961,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-401"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-401"
     },
     {
       "id": 70720,
@@ -975,7 +975,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-402"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-402"
     },
     {
       "id": 70936,
@@ -989,7 +989,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-384"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JKSR-384"
     },
     {
       "id": 59767,
@@ -1003,7 +1003,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAVC-KULG9CGF"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAVC-KULG9CGF"
     }
   ]
 };

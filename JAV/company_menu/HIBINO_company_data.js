@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "真希泉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-714"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-714"
     },
     {
       "id": 3815,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "山瀬美紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-715"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-715"
     },
     {
       "id": 4565,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "辻井穗乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-713"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-713"
     },
     {
       "id": 4564,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "花柳杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-712"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-712"
     },
     {
       "id": 5407,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "本田瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-710"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-710"
     },
     {
       "id": 5386,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-711"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-711"
     },
     {
       "id": 35630,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "椎名由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-178"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-178"
     },
     {
       "id": 6354,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-709"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-709"
     },
     {
       "id": 6349,
@@ -147,7 +147,7 @@ window.companyData = {
         "姫野らん",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-708"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-708"
     },
     {
       "id": 69063,
@@ -161,7 +161,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-707"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-707"
     },
     {
       "id": 60922,
@@ -177,7 +177,7 @@ window.companyData = {
       "actress": [
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-706"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-706"
     },
     {
       "id": 60923,
@@ -193,7 +193,7 @@ window.companyData = {
       "actress": [
         "橘日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-705"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-705"
     },
     {
       "id": 7765,
@@ -209,7 +209,7 @@ window.companyData = {
       "actress": [
         "九井珠奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-704"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-704"
     },
     {
       "id": 8524,
@@ -225,7 +225,7 @@ window.companyData = {
       "actress": [
         "天晴乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-702"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-702"
     },
     {
       "id": 8523,
@@ -241,7 +241,7 @@ window.companyData = {
       "actress": [
         "潤うるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-703"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-703"
     },
     {
       "id": 74773,
@@ -257,7 +257,7 @@ window.companyData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-701"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-701"
     },
     {
       "id": 10007,
@@ -273,7 +273,7 @@ window.companyData = {
       "actress": [
         "吉田彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-699"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-699"
     },
     {
       "id": 9994,
@@ -289,7 +289,7 @@ window.companyData = {
       "actress": [
         "岡本莉里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-698"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-698"
     },
     {
       "id": 10820,
@@ -305,7 +305,7 @@ window.companyData = {
       "actress": [
         "逢月日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-696"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-696"
     },
     {
       "id": 105814,
@@ -321,7 +321,7 @@ window.companyData = {
       "actress": [
         "彩奈莉娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-678"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-678"
     },
     {
       "id": 101207,
@@ -338,7 +338,7 @@ window.companyData = {
         "澤乃明日香",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-673"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-673"
     },
     {
       "id": 16826,
@@ -355,7 +355,7 @@ window.companyData = {
         "北乃由奈",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-674"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-674"
     },
     {
       "id": 106243,
@@ -371,7 +371,7 @@ window.companyData = {
       "actress": [
         "櫻田杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-670"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-670"
     },
     {
       "id": 17160,
@@ -387,7 +387,7 @@ window.companyData = {
       "actress": [
         "夏希栗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-672"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-672"
     },
     {
       "id": 106506,
@@ -403,7 +403,7 @@ window.companyData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-668"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-668"
     },
     {
       "id": 106505,
@@ -419,7 +419,7 @@ window.companyData = {
       "actress": [
         "有坂唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-669"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-669"
     },
     {
       "id": 107173,
@@ -435,7 +435,7 @@ window.companyData = {
       "actress": [
         "笹原麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-663"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-663"
     },
     {
       "id": 107172,
@@ -451,7 +451,7 @@ window.companyData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-664"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-664"
     },
     {
       "id": 107174,
@@ -468,7 +468,7 @@ window.companyData = {
         "日泉舞香",
         "日泉舞華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-661"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-661"
     },
     {
       "id": 77583,
@@ -482,7 +482,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-657"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-657"
     },
     {
       "id": 107363,
@@ -498,7 +498,7 @@ window.companyData = {
       "actress": [
         "美原すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-655"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-655"
     },
     {
       "id": 67554,
@@ -512,7 +512,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/63c5700c9432cf0cf7b6e5517569b5a0.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-654"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-654"
     },
     {
       "id": 66836,
@@ -528,7 +528,7 @@ window.companyData = {
       "actress": [
         "音羽美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-653"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-653"
     },
     {
       "id": 67897,
@@ -544,7 +544,7 @@ window.companyData = {
       "actress": [
         "美園マリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-652"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-652"
     },
     {
       "id": 67859,
@@ -558,7 +558,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-651"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-651"
     },
     {
       "id": 100523,
@@ -572,7 +572,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-646"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-646"
     },
     {
       "id": 67287,
@@ -588,7 +588,7 @@ window.companyData = {
       "actress": [
         "佐伯由美香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-645"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-645"
     },
     {
       "id": 66773,
@@ -605,7 +605,7 @@ window.companyData = {
         "森林原人",
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-644"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-644"
     },
     {
       "id": 67238,
@@ -621,7 +621,7 @@ window.companyData = {
       "actress": [
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-641"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-641"
     },
     {
       "id": 66702,
@@ -635,7 +635,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-642"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-642"
     },
     {
       "id": 66730,
@@ -649,7 +649,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-638"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-638"
     },
     {
       "id": 66690,
@@ -663,7 +663,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250504-1/0e2b4cd0554e6452e4eb1422ae43f90f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-639"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-639"
     },
     {
       "id": 67785,
@@ -679,7 +679,7 @@ window.companyData = {
       "actress": [
         "北川真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-635"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-635"
     },
     {
       "id": 66895,
@@ -693,7 +693,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-636"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-636"
     },
     {
       "id": 68099,
@@ -710,7 +710,7 @@ window.companyData = {
         "岩沢香代",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-634"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-634"
     },
     {
       "id": 67180,
@@ -724,7 +724,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-633"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-633"
     },
     {
       "id": 67140,
@@ -740,7 +740,7 @@ window.companyData = {
       "actress": [
         "深美みりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-632"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-632"
     },
     {
       "id": 67035,
@@ -754,7 +754,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-631"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-631"
     },
     {
       "id": 68113,
@@ -770,7 +770,7 @@ window.companyData = {
       "actress": [
         "本田瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-629"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-629"
     },
     {
       "id": 66955,
@@ -784,7 +784,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250422-1/cc79fb5a985891186c3efd48f2bc59b8.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-630"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-630"
     },
     {
       "id": 67575,
@@ -798,7 +798,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-626"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-626"
     },
     {
       "id": 84662,
@@ -814,7 +814,7 @@ window.companyData = {
       "actress": [
         "廣瀨里緒菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-622"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-622"
     },
     {
       "id": 84632,
@@ -830,7 +830,7 @@ window.companyData = {
       "actress": [
         "田中寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-621"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-621"
     },
     {
       "id": 84631,
@@ -846,7 +846,7 @@ window.companyData = {
       "actress": [
         "谷梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-620"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-620"
     },
     {
       "id": 67617,
@@ -860,7 +860,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-619"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-619"
     },
     {
       "id": 84659,
@@ -874,7 +874,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-618"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-618"
     },
     {
       "id": 84641,
@@ -890,7 +890,7 @@ window.companyData = {
       "actress": [
         "东凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-615"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-615"
     },
     {
       "id": 84623,
@@ -904,7 +904,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230111-1/77f079aaaa37275b04ef123b485fc2f6.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-616"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-616"
     },
     {
       "id": 81133,
@@ -920,7 +920,7 @@ window.companyData = {
       "actress": [
         "廣瀨里緒菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-613"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-613"
     },
     {
       "id": 81122,
@@ -936,7 +936,7 @@ window.companyData = {
       "actress": [
         "ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-614"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-614"
     },
     {
       "id": 80749,
@@ -950,7 +950,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-611"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-611"
     },
     {
       "id": 80748,
@@ -966,7 +966,7 @@ window.companyData = {
       "actress": [
         "夏川海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-610"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-610"
     },
     {
       "id": 84629,
@@ -982,7 +982,7 @@ window.companyData = {
       "actress": [
         "乃木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-606"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-606"
     },
     {
       "id": 80344,
@@ -998,7 +998,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-604"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-604"
     },
     {
       "id": 80339,
@@ -1012,7 +1012,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-603"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-603"
     },
     {
       "id": 79931,
@@ -1028,7 +1028,7 @@ window.companyData = {
       "actress": [
         "谷梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-599"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-599"
     },
     {
       "id": 79966,
@@ -1042,7 +1042,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/818f3371751694e6b21541c25bc74be7.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-598"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-598"
     },
     {
       "id": 79869,
@@ -1058,7 +1058,7 @@ window.companyData = {
       "actress": [
         "高瀬りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-595"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-595"
     },
     {
       "id": 79786,
@@ -1074,7 +1074,7 @@ window.companyData = {
       "actress": [
         "姫咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-593"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-593"
     },
     {
       "id": 79320,
@@ -1088,7 +1088,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/3a471f0f14dddd70ebc473cf1b30ade4.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-589"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-589"
     },
     {
       "id": 73453,
@@ -1104,7 +1104,7 @@ window.companyData = {
       "actress": [
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-548"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-548"
     },
     {
       "id": 82429,
@@ -1120,7 +1120,7 @@ window.companyData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-532"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-532"
     },
     {
       "id": 82679,
@@ -1136,7 +1136,7 @@ window.companyData = {
       "actress": [
         "今井夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-530"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-530"
     },
     {
       "id": 73450,
@@ -1152,7 +1152,7 @@ window.companyData = {
       "actress": [
         "大浦真奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-526"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-526"
     },
     {
       "id": 76211,
@@ -1168,7 +1168,7 @@ window.companyData = {
       "actress": [
         "河奈亜依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-516"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-516"
     },
     {
       "id": 82972,
@@ -1184,7 +1184,7 @@ window.companyData = {
       "actress": [
         "桜井萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-514"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-514"
     },
     {
       "id": 75669,
@@ -1201,7 +1201,7 @@ window.companyData = {
         "真田さな",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-515"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-515"
     },
     {
       "id": 76181,
@@ -1217,7 +1217,7 @@ window.companyData = {
       "actress": [
         "海空花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-511"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-511"
     },
     {
       "id": 76009,
@@ -1234,7 +1234,7 @@ window.companyData = {
         "向理来",
         "逢坂はるな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-512"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-512"
     },
     {
       "id": 76723,
@@ -1250,7 +1250,7 @@ window.companyData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-509"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-509"
     },
     {
       "id": 71209,
@@ -1266,7 +1266,7 @@ window.companyData = {
       "actress": [
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-510"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-510"
     },
     {
       "id": 76343,
@@ -1282,7 +1282,7 @@ window.companyData = {
       "actress": [
         "铃木里美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-504"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-504"
     },
     {
       "id": 71004,
@@ -1298,7 +1298,7 @@ window.companyData = {
       "actress": [
         "凛音とうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-502"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-502"
     },
     {
       "id": 77914,
@@ -1314,7 +1314,7 @@ window.companyData = {
       "actress": [
         "あゆみ莉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-499"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-499"
     },
     {
       "id": 102920,
@@ -1335,7 +1335,7 @@ window.companyData = {
         "伊东红",
         "あきら [TS]"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-493"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-493"
     },
     {
       "id": 77913,
@@ -1352,7 +1352,7 @@ window.companyData = {
         "蓝井优太",
         "森萤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-494"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-494"
     },
     {
       "id": 77985,
@@ -1368,7 +1368,7 @@ window.companyData = {
       "actress": [
         "葵百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-487"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-487"
     },
     {
       "id": 71219,
@@ -1384,7 +1384,7 @@ window.companyData = {
       "actress": [
         "葵百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-484"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-484"
     },
     {
       "id": 76029,
@@ -1400,7 +1400,7 @@ window.companyData = {
       "actress": [
         "柚木めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-479"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-479"
     },
     {
       "id": 71207,
@@ -1416,7 +1416,7 @@ window.companyData = {
       "actress": [
         "河合乃乃花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-480"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-480"
     },
     {
       "id": 106280,
@@ -1432,7 +1432,7 @@ window.companyData = {
       "actress": [
         "望月理沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-465"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-465"
     },
     {
       "id": 77100,
@@ -1448,7 +1448,7 @@ window.companyData = {
       "actress": [
         "初乃文香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-464"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-464"
     },
     {
       "id": 71208,
@@ -1464,7 +1464,7 @@ window.companyData = {
       "actress": [
         "持田栞里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-460"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-460"
     },
     {
       "id": 71041,
@@ -1481,7 +1481,7 @@ window.companyData = {
         "森林原人",
         "织田真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-459"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-459"
     },
     {
       "id": 71157,
@@ -1497,7 +1497,7 @@ window.companyData = {
       "actress": [
         "永野司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-456"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-456"
     },
     {
       "id": 82418,
@@ -1513,7 +1513,7 @@ window.companyData = {
       "actress": [
         "大浦真奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-454"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-454"
     },
     {
       "id": 97659,
@@ -1529,7 +1529,7 @@ window.companyData = {
       "actress": [
         "香坂紗梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-450"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-450"
     },
     {
       "id": 97635,
@@ -1545,7 +1545,7 @@ window.companyData = {
       "actress": [
         "吉川爱美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-447"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-447"
     },
     {
       "id": 71210,
@@ -1561,7 +1561,7 @@ window.companyData = {
       "actress": [
         "江藤侑里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-427"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-427"
     },
     {
       "id": 82669,
@@ -1577,7 +1577,7 @@ window.companyData = {
       "actress": [
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-406"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-406"
     },
     {
       "id": 82616,
@@ -1593,7 +1593,7 @@ window.companyData = {
       "actress": [
         "桐岛莉乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-402"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-402"
     },
     {
       "id": 62209,
@@ -1609,7 +1609,7 @@ window.companyData = {
       "actress": [
         "吉川爱美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-361"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-361"
     },
     {
       "id": 71204,
@@ -1625,7 +1625,7 @@ window.companyData = {
       "actress": [
         "乃木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-346"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-346"
     },
     {
       "id": 62211,
@@ -1641,7 +1641,7 @@ window.companyData = {
       "actress": [
         "仓多真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-342"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-342"
     },
     {
       "id": 79702,
@@ -1657,7 +1657,7 @@ window.companyData = {
       "actress": [
         "仓多真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-337"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-337"
     },
     {
       "id": 82442,
@@ -1671,7 +1671,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/fc89643995162ff2e3ac57f0505cd0ec.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-336"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-336"
     },
     {
       "id": 100664,
@@ -1688,7 +1688,7 @@ window.companyData = {
         "佐佐木明希",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-328"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-328"
     },
     {
       "id": 82402,
@@ -1704,7 +1704,7 @@ window.companyData = {
       "actress": [
         "佐佐木明希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-323"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-323"
     },
     {
       "id": 99866,
@@ -1720,7 +1720,7 @@ window.companyData = {
       "actress": [
         "星野明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-322"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-322"
     },
     {
       "id": 97793,
@@ -1736,7 +1736,7 @@ window.companyData = {
       "actress": [
         "天羽栞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-316"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-316"
     },
     {
       "id": 82401,
@@ -1752,7 +1752,7 @@ window.companyData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-305"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-305"
     },
     {
       "id": 103028,
@@ -1768,7 +1768,7 @@ window.companyData = {
       "actress": [
         "新山沙弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-260"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-260"
     },
     {
       "id": 82412,
@@ -1784,7 +1784,7 @@ window.companyData = {
       "actress": [
         "椎名由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-189"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-189"
     },
     {
       "id": 82605,
@@ -1800,7 +1800,7 @@ window.companyData = {
       "actress": [
         "早乙女露依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-141"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HBAD-141"
     }
   ]
 };

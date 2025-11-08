@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "柊麗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-20"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRGBD-20"
     },
     {
       "id": 2060,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "小泉真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-18"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRGBD-18"
     },
     {
       "id": 2061,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "北条麻妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-15"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRGBD-15"
     },
     {
       "id": 1795,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "青山未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-14"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRGBD-14"
     },
     {
       "id": 1832,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "霧島さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-12"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRGBD-12"
     },
     {
       "id": 2063,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "舞笑美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-11"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRGBD-11"
     },
     {
       "id": 2062,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "舞笑美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-09"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRGBD-09"
     },
     {
       "id": 2058,
@@ -133,7 +133,7 @@ window.companyData = {
         "宮崎由麻",
         "三沢明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-05"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRGBD-05"
     },
     {
       "id": 1964,
@@ -149,7 +149,7 @@ window.companyData = {
       "actress": [
         "小坂惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRCBD-02"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DRCBD-02"
     }
   ]
 };

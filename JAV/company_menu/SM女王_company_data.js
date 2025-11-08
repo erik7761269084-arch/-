@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/89f95078/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-204"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-204"
     },
     {
       "id": 61715,
@@ -31,7 +31,7 @@ window.companyData = {
       "actress": [
         "龍妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-203"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-203"
     },
     {
       "id": 63733,
@@ -45,7 +45,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-202"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-202"
     },
     {
       "id": 93831,
@@ -59,7 +59,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-185MONE"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-185MONE"
     },
     {
       "id": 93829,
@@ -73,7 +73,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-1883"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-1883"
     },
     {
       "id": 93877,
@@ -89,7 +89,7 @@ window.companyData = {
       "actress": [
         "Himari"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-190"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-190"
     },
     {
       "id": 93907,
@@ -103,7 +103,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/5417c9be191a69699faaf47b0441dada.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-189"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-189"
     },
     {
       "id": 93835,
@@ -117,7 +117,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/e813764edd9ca46d7a23cf81254de91c.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-187"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-187"
     },
     {
       "id": 93878,
@@ -131,7 +131,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-186"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-186"
     },
     {
       "id": 90072,
@@ -148,7 +148,7 @@ window.companyData = {
         "RURIKO",
         "阿万音遊珠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-176"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-176"
     },
     {
       "id": 90116,
@@ -164,7 +164,7 @@ window.companyData = {
       "actress": [
         "HOTARU"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-175"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-175"
     },
     {
       "id": 90113,
@@ -180,7 +180,7 @@ window.companyData = {
       "actress": [
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-174"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-174"
     },
     {
       "id": 90074,
@@ -196,7 +196,7 @@ window.companyData = {
       "actress": [
         "RURIKO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-173"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-173"
     },
     {
       "id": 90083,
@@ -212,7 +212,7 @@ window.companyData = {
       "actress": [
         "阿万音遊珠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-172"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-172"
     },
     {
       "id": 90098,
@@ -226,7 +226,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-171"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-171"
     },
     {
       "id": 90099,
@@ -243,7 +243,7 @@ window.companyData = {
         "辰神丽子",
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-170"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-170"
     },
     {
       "id": 90114,
@@ -259,7 +259,7 @@ window.companyData = {
       "actress": [
         "Aoi"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-169"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-169"
     },
     {
       "id": 90075,
@@ -273,7 +273,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-168"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-168"
     },
     {
       "id": 90096,
@@ -289,7 +289,7 @@ window.companyData = {
       "actress": [
         "槐モナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-167"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-167"
     },
     {
       "id": 90106,
@@ -305,7 +305,7 @@ window.companyData = {
       "actress": [
         "RURIKO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-166"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-166"
     },
     {
       "id": 90068,
@@ -323,7 +323,7 @@ window.companyData = {
         "虹邑みなみ",
         "観菜月らみぃ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-153"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-153"
     },
     {
       "id": 90095,
@@ -337,7 +337,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240112-1/a3cbc0f3c47f89df02159650a9a8cb7c.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-152"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-152"
     },
     {
       "id": 90070,
@@ -353,7 +353,7 @@ window.companyData = {
       "actress": [
         "辰神丽子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-150"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-150"
     },
     {
       "id": 81935,
@@ -371,7 +371,7 @@ window.companyData = {
         "怜佳",
         "HOTARU"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-108"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=QRDA-108"
     }
   ]
 };

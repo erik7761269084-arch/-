@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-597"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-597"
     },
     {
       "id": 2304,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "黒島玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-593"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-593"
     },
     {
       "id": 2217,
@@ -50,7 +50,7 @@ window.companyData = {
         "西條琉璃",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-598"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-598"
     },
     {
       "id": 2164,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "希咲愛莉絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-599"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-599"
     },
     {
       "id": 2781,
@@ -82,7 +82,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-020"
     },
     {
       "id": 2778,
@@ -99,7 +99,7 @@ window.companyData = {
         "海老咲碧",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-019"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-019"
     },
     {
       "id": 2755,
@@ -116,7 +116,7 @@ window.companyData = {
         "宍戸里帆",
         "ラリアット黒川"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-595"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-595"
     },
     {
       "id": 3181,
@@ -132,7 +132,7 @@ window.companyData = {
       "actress": [
         "福原美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-594"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-594"
     },
     {
       "id": 3178,
@@ -148,7 +148,7 @@ window.companyData = {
       "actress": [
         "松本菜奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-197"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-197"
     },
     {
       "id": 3170,
@@ -166,7 +166,7 @@ window.companyData = {
         "永野司",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-193"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-193"
     },
     {
       "id": 3167,
@@ -182,7 +182,7 @@ window.companyData = {
       "actress": [
         "黒島玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-592"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-592"
     },
     {
       "id": 3162,
@@ -198,7 +198,7 @@ window.companyData = {
       "actress": [
         "北野未奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-589"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-589"
     },
     {
       "id": 3154,
@@ -215,7 +215,7 @@ window.companyData = {
         "姫咲華",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-196"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-196"
     },
     {
       "id": 3580,
@@ -231,7 +231,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-194"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-194"
     },
     {
       "id": 3579,
@@ -248,7 +248,7 @@ window.companyData = {
         "宍戸里帆",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-060"
     },
     {
       "id": 3575,
@@ -264,7 +264,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-195"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-195"
     },
     {
       "id": 3571,
@@ -283,7 +283,7 @@ window.companyData = {
         "じゅうもんじ",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-189"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-189"
     },
     {
       "id": 3568,
@@ -300,7 +300,7 @@ window.companyData = {
         "黒咲華",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-018"
     },
     {
       "id": 3541,
@@ -317,7 +317,7 @@ window.companyData = {
         "海老咲碧",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-191"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-191"
     },
     {
       "id": 3972,
@@ -333,7 +333,7 @@ window.companyData = {
       "actress": [
         "美咲佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-017"
     },
     {
       "id": 3893,
@@ -349,7 +349,7 @@ window.companyData = {
       "actress": [
         "一色ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-159"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-159"
     },
     {
       "id": 4119,
@@ -366,7 +366,7 @@ window.companyData = {
         "松本菜奈実",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=OFES-009"
     },
     {
       "id": 4520,
@@ -382,7 +382,7 @@ window.companyData = {
       "actress": [
         "美谷朱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-011"
     },
     {
       "id": 4518,
@@ -398,7 +398,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-185"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-185"
     },
     {
       "id": 4510,
@@ -414,7 +414,7 @@ window.companyData = {
       "actress": [
         "海老咲碧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-187"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-187"
     },
     {
       "id": 4502,
@@ -430,7 +430,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-190"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-190"
     },
     {
       "id": 4489,
@@ -450,7 +450,7 @@ window.companyData = {
         "新村晶",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-186"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-186"
     },
     {
       "id": 4483,
@@ -466,7 +466,7 @@ window.companyData = {
       "actress": [
         "永井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DEAB-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DEAB-001"
     },
     {
       "id": 63272,
@@ -482,7 +482,7 @@ window.companyData = {
       "actress": [
         "金城さおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DEAB-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DEAB-003"
     },
     {
       "id": 4990,
@@ -498,7 +498,7 @@ window.companyData = {
       "actress": [
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-183"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-183"
     },
     {
       "id": 4983,
@@ -514,7 +514,7 @@ window.companyData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-184"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-184"
     },
     {
       "id": 4973,
@@ -530,7 +530,7 @@ window.companyData = {
       "actress": [
         "末広純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-591"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-591"
     },
     {
       "id": 4932,
@@ -546,7 +546,7 @@ window.companyData = {
       "actress": [
         "都月楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-016"
     },
     {
       "id": 63919,
@@ -562,7 +562,7 @@ window.companyData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-181"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-181"
     },
     {
       "id": 5360,
@@ -578,7 +578,7 @@ window.companyData = {
       "actress": [
         "松本菜奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-058"
     },
     {
       "id": 5349,
@@ -594,7 +594,7 @@ window.companyData = {
       "actress": [
         "北島愛菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DEAB-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DEAB-004"
     },
     {
       "id": 5335,
@@ -612,7 +612,7 @@ window.companyData = {
         "鲛岛",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-014"
     },
     {
       "id": 5330,
@@ -628,7 +628,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-015"
     },
     {
       "id": 5322,
@@ -645,7 +645,7 @@ window.companyData = {
         "海老咲碧",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-178"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-178"
     },
     {
       "id": 5302,
@@ -664,7 +664,7 @@ window.companyData = {
         "じゅうもんじ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-180"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-180"
     },
     {
       "id": 5727,
@@ -680,7 +680,7 @@ window.companyData = {
       "actress": [
         "美谷朱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-012"
     },
     {
       "id": 5705,
@@ -697,7 +697,7 @@ window.companyData = {
         "櫻木湊",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-157"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-157"
     },
     {
       "id": 5682,
@@ -713,7 +713,7 @@ window.companyData = {
       "actress": [
         "藤森日南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-171"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-171"
     },
     {
       "id": 5669,
@@ -729,7 +729,7 @@ window.companyData = {
       "actress": [
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-182"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-182"
     },
     {
       "id": 6096,
@@ -745,7 +745,7 @@ window.companyData = {
       "actress": [
         "松本菜奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-176"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-176"
     },
     {
       "id": 6074,
@@ -761,7 +761,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-179"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-179"
     },
     {
       "id": 67471,
@@ -778,7 +778,7 @@ window.companyData = {
         "藤森日南",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-169"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-169"
     },
     {
       "id": 67325,
@@ -794,7 +794,7 @@ window.companyData = {
       "actress": [
         "櫻木湊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-155"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-155"
     },
     {
       "id": 6502,
@@ -810,7 +810,7 @@ window.companyData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-057"
     },
     {
       "id": 6487,
@@ -829,7 +829,7 @@ window.companyData = {
         "しめじ",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-170"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-170"
     },
     {
       "id": 6453,
@@ -846,7 +846,7 @@ window.companyData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-587"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-587"
     },
     {
       "id": 6434,
@@ -862,7 +862,7 @@ window.companyData = {
       "actress": [
         "静河"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-585"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-585"
     },
     {
       "id": 6176,
@@ -878,7 +878,7 @@ window.companyData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-010"
     },
     {
       "id": 6612,
@@ -897,7 +897,7 @@ window.companyData = {
         "天月梓",
         "末広純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-106"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PFES-106"
     },
     {
       "id": 68976,
@@ -913,7 +913,7 @@ window.companyData = {
       "actress": [
         "海老咲碧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-054"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-054"
     },
     {
       "id": 68964,
@@ -929,7 +929,7 @@ window.companyData = {
       "actress": [
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-009"
     },
     {
       "id": 68311,
@@ -945,7 +945,7 @@ window.companyData = {
       "actress": [
         "柳可憐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-152"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-152"
     },
     {
       "id": 63316,
@@ -961,7 +961,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-055"
     },
     {
       "id": 6898,
@@ -980,7 +980,7 @@ window.companyData = {
         "トミフミ",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-143"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-143"
     },
     {
       "id": 6885,
@@ -996,7 +996,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-144"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-144"
     },
     {
       "id": 70043,
@@ -1013,7 +1013,7 @@ window.companyData = {
         "美谷朱里",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-582"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-582"
     },
     {
       "id": 70038,
@@ -1030,7 +1030,7 @@ window.companyData = {
         "永井瑪麗亞",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-042"
     },
     {
       "id": 70037,
@@ -1046,7 +1046,7 @@ window.companyData = {
       "actress": [
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-044"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-044"
     },
     {
       "id": 68551,
@@ -1060,7 +1060,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-580"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-580"
     },
     {
       "id": 62050,
@@ -1077,7 +1077,7 @@ window.companyData = {
         "春陽萌花",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-583"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-583"
     },
     {
       "id": 7202,
@@ -1095,7 +1095,7 @@ window.companyData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEAD-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MEAD-012"
     },
     {
       "id": 7179,
@@ -1111,7 +1111,7 @@ window.companyData = {
       "actress": [
         "北野未奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-165"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-165"
     },
     {
       "id": 7165,
@@ -1128,7 +1128,7 @@ window.companyData = {
         "藤森日南",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-156"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-156"
     },
     {
       "id": 7160,
@@ -1144,7 +1144,7 @@ window.companyData = {
       "actress": [
         "櫻木湊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-149"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-149"
     },
     {
       "id": 7158,
@@ -1160,7 +1160,7 @@ window.companyData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-162"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-162"
     },
     {
       "id": 70610,
@@ -1177,7 +1177,7 @@ window.companyData = {
         "小田切ジュン",
         "えれな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEAD-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MEAD-011"
     },
     {
       "id": 7564,
@@ -1194,7 +1194,7 @@ window.companyData = {
         "新村朱里",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-151"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-151"
     },
     {
       "id": 7548,
@@ -1211,7 +1211,7 @@ window.companyData = {
         "柳可憐",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-153"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-153"
     },
     {
       "id": 7527,
@@ -1228,7 +1228,7 @@ window.companyData = {
         "桃園怜奈",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-137"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-137"
     },
     {
       "id": 7519,
@@ -1245,7 +1245,7 @@ window.companyData = {
         "海老咲碧",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-163"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-163"
     },
     {
       "id": 7503,
@@ -1261,7 +1261,7 @@ window.companyData = {
       "actress": [
         "七草千歲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-150"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-150"
     },
     {
       "id": 71968,
@@ -1278,7 +1278,7 @@ window.companyData = {
         "美谷朱里",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-581"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-581"
     },
     {
       "id": 7901,
@@ -1298,7 +1298,7 @@ window.companyData = {
         "日森一",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-050"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-050"
     },
     {
       "id": 7895,
@@ -1314,7 +1314,7 @@ window.companyData = {
       "actress": [
         "塚田詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-053"
     },
     {
       "id": 7849,
@@ -1331,7 +1331,7 @@ window.companyData = {
         "美澄玲衣",
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-052"
     },
     {
       "id": 8304,
@@ -1347,7 +1347,7 @@ window.companyData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-140"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-140"
     },
     {
       "id": 8282,
@@ -1363,7 +1363,7 @@ window.companyData = {
       "actress": [
         "海老咲碧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-148"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-148"
     },
     {
       "id": 8281,
@@ -1380,7 +1380,7 @@ window.companyData = {
         "佐野由真",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-160"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-160"
     },
     {
       "id": 8278,
@@ -1397,7 +1397,7 @@ window.companyData = {
         "吉根柚莉爱",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-146"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-146"
     },
     {
       "id": 8264,
@@ -1414,7 +1414,7 @@ window.companyData = {
         "七草千歲",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-041"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-041"
     },
     {
       "id": 8252,
@@ -1430,7 +1430,7 @@ window.companyData = {
       "actress": [
         "雪月花羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEAD-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MEAD-008"
     },
     {
       "id": 8193,
@@ -1446,7 +1446,7 @@ window.companyData = {
       "actress": [
         "柳可憐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-147"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-147"
     },
     {
       "id": 8188,
@@ -1464,7 +1464,7 @@ window.companyData = {
         "新村晶",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-039"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-039"
     },
     {
       "id": 8186,
@@ -1480,7 +1480,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-126"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-126"
     },
     {
       "id": 8185,
@@ -1496,7 +1496,7 @@ window.companyData = {
       "actress": [
         "卯佐美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-147"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-147"
     },
     {
       "id": 8705,
@@ -1512,7 +1512,7 @@ window.companyData = {
       "actress": [
         "永井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-007"
     },
     {
       "id": 8696,
@@ -1528,7 +1528,7 @@ window.companyData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-043"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-043"
     },
     {
       "id": 8690,
@@ -1544,7 +1544,7 @@ window.companyData = {
       "actress": [
         "宮西光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-577"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-577"
     },
     {
       "id": 8688,
@@ -1563,7 +1563,7 @@ window.companyData = {
         "工藤拉拉",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-049"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-049"
     },
     {
       "id": 8622,
@@ -1580,7 +1580,7 @@ window.companyData = {
         "塚田詩織",
         "南畑颯花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-148"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-148"
     },
     {
       "id": 8621,
@@ -1596,7 +1596,7 @@ window.companyData = {
       "actress": [
         "西條琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-571"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-571"
     },
     {
       "id": 8620,
@@ -1612,7 +1612,7 @@ window.companyData = {
       "actress": [
         "藤森日南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-154"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-154"
     },
     {
       "id": 8619,
@@ -1628,7 +1628,7 @@ window.companyData = {
       "actress": [
         "小森舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-153"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-153"
     },
     {
       "id": 8618,
@@ -1644,7 +1644,7 @@ window.companyData = {
       "actress": [
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-142"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-142"
     },
     {
       "id": 8173,
@@ -1660,7 +1660,7 @@ window.companyData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-136"
     },
     {
       "id": 8172,
@@ -1676,7 +1676,7 @@ window.companyData = {
       "actress": [
         "北野未奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-141"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-141"
     },
     {
       "id": 72623,
@@ -1693,7 +1693,7 @@ window.companyData = {
         "松本菜奈実",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-139"
     },
     {
       "id": 9052,
@@ -1709,7 +1709,7 @@ window.companyData = {
       "actress": [
         "海老咲碧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-130"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-130"
     },
     {
       "id": 9050,
@@ -1725,7 +1725,7 @@ window.companyData = {
       "actress": [
         "北岡果林"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-579"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-579"
     },
     {
       "id": 9049,
@@ -1742,7 +1742,7 @@ window.companyData = {
         "七草千歲",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-144"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-144"
     },
     {
       "id": 9027,
@@ -1758,7 +1758,7 @@ window.companyData = {
       "actress": [
         "卯佐美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-097"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-097"
     },
     {
       "id": 9025,
@@ -1774,7 +1774,7 @@ window.companyData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-575"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-575"
     },
     {
       "id": 9024,
@@ -1790,7 +1790,7 @@ window.companyData = {
       "actress": [
         "浦川紗凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-145"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-145"
     },
     {
       "id": 9023,
@@ -1807,7 +1807,7 @@ window.companyData = {
         "柳可憐",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-146"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-146"
     },
     {
       "id": 9021,
@@ -1825,7 +1825,7 @@ window.companyData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEAD-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MEAD-007"
     },
     {
       "id": 9018,
@@ -1841,7 +1841,7 @@ window.companyData = {
       "actress": [
         "佐野由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-138"
     },
     {
       "id": 9000,
@@ -1858,7 +1858,7 @@ window.companyData = {
         "新村朱里",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-132"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-132"
     },
     {
       "id": 75239,
@@ -1874,7 +1874,7 @@ window.companyData = {
       "actress": [
         "永井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-139"
     },
     {
       "id": 75090,
@@ -1890,7 +1890,7 @@ window.companyData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-133"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-133"
     },
     {
       "id": 9457,
@@ -1908,7 +1908,7 @@ window.companyData = {
         "由良佳奈",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-045"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-045"
     },
     {
       "id": 9420,
@@ -1925,7 +1925,7 @@ window.companyData = {
         "羽月乃蒼",
         "しょーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-573"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-573"
     },
     {
       "id": 9418,
@@ -1941,7 +1941,7 @@ window.companyData = {
       "actress": [
         "北野未奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-131"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-131"
     },
     {
       "id": 9407,
@@ -1958,7 +1958,7 @@ window.companyData = {
         "塚田詩織",
         "すぱいく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-143"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-143"
     },
     {
       "id": 9954,
@@ -1975,7 +1975,7 @@ window.companyData = {
         "新村朱里",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MANX-006"
     },
     {
       "id": 9939,
@@ -1991,7 +1991,7 @@ window.companyData = {
       "actress": [
         "七草千歲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-141"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-141"
     },
     {
       "id": 9937,
@@ -2007,7 +2007,7 @@ window.companyData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-127"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-127"
     },
     {
       "id": 9926,
@@ -2023,7 +2023,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-128"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-128"
     },
     {
       "id": 9922,
@@ -2039,7 +2039,7 @@ window.companyData = {
       "actress": [
         "都月楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-570"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-570"
     },
     {
       "id": 9920,
@@ -2055,7 +2055,7 @@ window.companyData = {
       "actress": [
         "卯佐美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-119"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-119"
     },
     {
       "id": 9913,
@@ -2071,7 +2071,7 @@ window.companyData = {
       "actress": [
         "柳可憐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-142"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-142"
     },
     {
       "id": 9899,
@@ -2087,7 +2087,7 @@ window.companyData = {
       "actress": [
         "南條彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-120"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-120"
     },
     {
       "id": 9890,
@@ -2103,7 +2103,7 @@ window.companyData = {
       "actress": [
         "浜辺栞帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-572"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-572"
     },
     {
       "id": 10309,
@@ -2120,7 +2120,7 @@ window.companyData = {
         "永井瑪麗亞",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-038"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-038"
     },
     {
       "id": 10302,
@@ -2136,7 +2136,7 @@ window.companyData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-124"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-124"
     },
     {
       "id": 94990,
@@ -2150,7 +2150,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/ec07f8ab963f9d815adf842dc7a127e9.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-125CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-125CN"
     },
     {
       "id": 94989,
@@ -2164,7 +2164,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/b57e0385d90825cac2d4eb59ccc09b7c.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-064CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-064CN"
     },
     {
       "id": 94988,
@@ -2178,7 +2178,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/0d47dad0c566d59ef312bb1dba6d8695.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-121CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-121CN"
     },
     {
       "id": 94987,
@@ -2192,7 +2192,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/c897ad085bb77d1308b3b45bd9251130.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-128CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-128CN"
     },
     {
       "id": 94983,
@@ -2206,7 +2206,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-123CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-123CN"
     },
     {
       "id": 94981,
@@ -2220,7 +2220,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-068CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-068CN"
     },
     {
       "id": 94980,
@@ -2234,7 +2234,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-122CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-122CN"
     },
     {
       "id": 78503,
@@ -2248,7 +2248,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/c50634338d1e0c4e7fd674efc2d35eb4.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-127CN"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-127CN"
     },
     {
       "id": 10640,
@@ -2265,7 +2265,7 @@ window.companyData = {
         "七草千歲",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-037"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-037"
     },
     {
       "id": 10637,
@@ -2281,7 +2281,7 @@ window.companyData = {
       "actress": [
         "松本梨穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-568"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-568"
     },
     {
       "id": 12670,
@@ -2297,7 +2297,7 @@ window.companyData = {
       "actress": [
         "柏木小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-033"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-033"
     },
     {
       "id": 93526,
@@ -2313,7 +2313,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-032"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-032"
     },
     {
       "id": 14292,
@@ -2329,7 +2329,7 @@ window.companyData = {
       "actress": [
         "宮本聡美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-029"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-029"
     },
     {
       "id": 16441,
@@ -2347,7 +2347,7 @@ window.companyData = {
         "大岛丈",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-016"
     },
     {
       "id": 16778,
@@ -2363,7 +2363,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-005"
     },
     {
       "id": 16776,
@@ -2379,7 +2379,7 @@ window.companyData = {
       "actress": [
         "瀬田一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-006"
     },
     {
       "id": 16775,
@@ -2398,7 +2398,7 @@ window.companyData = {
         "ニック",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-024"
     },
     {
       "id": 16773,
@@ -2414,7 +2414,7 @@ window.companyData = {
       "actress": [
         "星乃夏月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-551"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-551"
     },
     {
       "id": 16956,
@@ -2430,7 +2430,7 @@ window.companyData = {
       "actress": [
         "乃々瀬みつは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-009"
     },
     {
       "id": 16953,
@@ -2446,7 +2446,7 @@ window.companyData = {
       "actress": [
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-023"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-023"
     },
     {
       "id": 16952,
@@ -2463,7 +2463,7 @@ window.companyData = {
         "天月梓",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-013"
     },
     {
       "id": 16950,
@@ -2479,7 +2479,7 @@ window.companyData = {
       "actress": [
         "逢月日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-539"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-539"
     },
     {
       "id": 17253,
@@ -2496,7 +2496,7 @@ window.companyData = {
         "森澤佳奈",
         "朝日奈みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-542"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-542"
     },
     {
       "id": 106304,
@@ -2513,7 +2513,7 @@ window.companyData = {
         "桃園怜奈",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-525"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-525"
     },
     {
       "id": 17471,
@@ -2529,7 +2529,7 @@ window.companyData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-007"
     },
     {
       "id": 17417,
@@ -2545,7 +2545,7 @@ window.companyData = {
       "actress": [
         "天月梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=FPRE-002"
     },
     {
       "id": 17465,
@@ -2561,7 +2561,7 @@ window.companyData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-538"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-538"
     },
     {
       "id": 17464,
@@ -2577,7 +2577,7 @@ window.companyData = {
       "actress": [
         "月乃露娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-537"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-537"
     },
     {
       "id": 17452,
@@ -2594,7 +2594,7 @@ window.companyData = {
         "川上麗亞",
         "渡辺杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-536"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-536"
     },
     {
       "id": 17735,
@@ -2611,7 +2611,7 @@ window.companyData = {
         "波多野结衣",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-533"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-533"
     },
     {
       "id": 17734,
@@ -2628,7 +2628,7 @@ window.companyData = {
         "新村朱里",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-531"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-531"
     },
     {
       "id": 17732,
@@ -2644,7 +2644,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-523"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-523"
     },
     {
       "id": 18020,
@@ -2660,7 +2660,7 @@ window.companyData = {
       "actress": [
         "都月楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-534"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-534"
     },
     {
       "id": 18018,
@@ -2676,7 +2676,7 @@ window.companyData = {
       "actress": [
         "有栖舞衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-528"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-528"
     },
     {
       "id": 18017,
@@ -2693,7 +2693,7 @@ window.companyData = {
         "日下部加奈",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-527"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-527"
     },
     {
       "id": 18012,
@@ -2709,7 +2709,7 @@ window.companyData = {
       "actress": [
         "北野未奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-507"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-507"
     },
     {
       "id": 91133,
@@ -2723,7 +2723,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-521"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-521"
     },
     {
       "id": 18288,
@@ -2740,7 +2740,7 @@ window.companyData = {
         "有岡みう",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-512"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-512"
     },
     {
       "id": 18287,
@@ -2757,7 +2757,7 @@ window.companyData = {
         "大槻响",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-526"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-526"
     },
     {
       "id": 18291,
@@ -2773,7 +2773,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-502"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-502"
     },
     {
       "id": 106882,
@@ -2789,7 +2789,7 @@ window.companyData = {
       "actress": [
         "美咲佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-514"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-514"
     },
     {
       "id": 91143,
@@ -2805,7 +2805,7 @@ window.companyData = {
       "actress": [
         "有栖舞衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-517"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-517"
     },
     {
       "id": 91135,
@@ -2821,7 +2821,7 @@ window.companyData = {
       "actress": [
         "天月梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-520"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-520"
     },
     {
       "id": 106997,
@@ -2835,7 +2835,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-503"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-503"
     },
     {
       "id": 106983,
@@ -2851,7 +2851,7 @@ window.companyData = {
       "actress": [
         "岡本莉里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-104"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-104"
     },
     {
       "id": 106962,
@@ -2867,7 +2867,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-510"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-510"
     },
     {
       "id": 103458,
@@ -2884,7 +2884,7 @@ window.companyData = {
         "天川空",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-515"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-515"
     },
     {
       "id": 107103,
@@ -2900,7 +2900,7 @@ window.companyData = {
       "actress": [
         "日下部加奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-485"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-485"
     },
     {
       "id": 107102,
@@ -2916,7 +2916,7 @@ window.companyData = {
       "actress": [
         "美波汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-501"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-501"
     },
     {
       "id": 107101,
@@ -2932,7 +2932,7 @@ window.companyData = {
       "actress": [
         "天月梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-508"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-508"
     },
     {
       "id": 107071,
@@ -2948,7 +2948,7 @@ window.companyData = {
       "actress": [
         "鳳美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-509"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-509"
     },
     {
       "id": 107327,
@@ -2962,7 +2962,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2023/09/04/5004b243ac478f372ac54eeb3106a0f0.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-500"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-500"
     },
     {
       "id": 107326,
@@ -2979,7 +2979,7 @@ window.companyData = {
         "西村ニーナ",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-096"
     },
     {
       "id": 91141,
@@ -2993,7 +2993,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-495"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-495"
     },
     {
       "id": 107072,
@@ -3009,7 +3009,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-492"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-492"
     },
     {
       "id": 90951,
@@ -3025,7 +3025,7 @@ window.companyData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-100"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-100"
     },
     {
       "id": 77518,
@@ -3041,7 +3041,7 @@ window.companyData = {
       "actress": [
         "白花暖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-473"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-473"
     },
     {
       "id": 107636,
@@ -3061,7 +3061,7 @@ window.companyData = {
         "じゅうもんじ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-478"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-478"
     },
     {
       "id": 107731,
@@ -3077,7 +3077,7 @@ window.companyData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-095"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-095"
     },
     {
       "id": 107713,
@@ -3094,7 +3094,7 @@ window.companyData = {
         "岡本莉里",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-097"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-097"
     },
     {
       "id": 91142,
@@ -3110,7 +3110,7 @@ window.companyData = {
       "actress": [
         "天月梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-490"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-490"
     },
     {
       "id": 100663,
@@ -3127,7 +3127,7 @@ window.companyData = {
         "黑木玲奈",
         "三四郎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-093"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-093"
     },
     {
       "id": 91140,
@@ -3141,7 +3141,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-474"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-474"
     },
     {
       "id": 87102,
@@ -3157,7 +3157,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-017"
     },
     {
       "id": 92984,
@@ -3173,7 +3173,7 @@ window.companyData = {
       "actress": [
         "高瀬りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-016"
     },
     {
       "id": 77589,
@@ -3189,7 +3189,7 @@ window.companyData = {
       "actress": [
         "滝ゆいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-462"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-462"
     },
     {
       "id": 104378,
@@ -3205,7 +3205,7 @@ window.companyData = {
       "actress": [
         "森澤佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-461"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-461"
     },
     {
       "id": 100425,
@@ -3222,7 +3222,7 @@ window.companyData = {
         "日々樹梨花",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-088"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-088"
     },
     {
       "id": 92985,
@@ -3238,7 +3238,7 @@ window.companyData = {
       "actress": [
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-015"
     },
     {
       "id": 107558,
@@ -3254,7 +3254,7 @@ window.companyData = {
       "actress": [
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-457"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-457"
     },
     {
       "id": 69125,
@@ -3270,7 +3270,7 @@ window.companyData = {
       "actress": [
         "本田瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-442"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-442"
     },
     {
       "id": 69112,
@@ -3286,7 +3286,7 @@ window.companyData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-083"
     },
     {
       "id": 68865,
@@ -3300,7 +3300,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-441"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-441"
     },
     {
       "id": 67767,
@@ -3316,7 +3316,7 @@ window.companyData = {
       "actress": [
         "佐山爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-440"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-440"
     },
     {
       "id": 92982,
@@ -3333,7 +3333,7 @@ window.companyData = {
         "姫咲華",
         "小梅惠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-014"
     },
     {
       "id": 66900,
@@ -3349,7 +3349,7 @@ window.companyData = {
       "actress": [
         "绫濑心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-438"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-438"
     },
     {
       "id": 68133,
@@ -3365,7 +3365,7 @@ window.companyData = {
       "actress": [
         "佐山爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-437"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-437"
     },
     {
       "id": 67436,
@@ -3381,7 +3381,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-435"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-435"
     },
     {
       "id": 85114,
@@ -3398,7 +3398,7 @@ window.companyData = {
         "黑木玲奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-081"
     },
     {
       "id": 85030,
@@ -3416,7 +3416,7 @@ window.companyData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-434"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-434"
     },
     {
       "id": 106893,
@@ -3432,7 +3432,7 @@ window.companyData = {
       "actress": [
         "あのね未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-429"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-429"
     },
     {
       "id": 85035,
@@ -3449,7 +3449,7 @@ window.companyData = {
         "吉根柚莉爱",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-431"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-431"
     },
     {
       "id": 85013,
@@ -3465,7 +3465,7 @@ window.companyData = {
       "actress": [
         "波多野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-432"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-432"
     },
     {
       "id": 85001,
@@ -3481,7 +3481,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-430"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-430"
     },
     {
       "id": 85036,
@@ -3497,7 +3497,7 @@ window.companyData = {
       "actress": [
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-428"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-428"
     },
     {
       "id": 85005,
@@ -3513,7 +3513,7 @@ window.companyData = {
       "actress": [
         "佐山爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-426"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-426"
     },
     {
       "id": 68936,
@@ -3529,7 +3529,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-079"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-079"
     },
     {
       "id": 85757,
@@ -3543,7 +3543,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-013"
     },
     {
       "id": 85106,
@@ -3559,7 +3559,7 @@ window.companyData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-078"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-078"
     },
     {
       "id": 85027,
@@ -3575,7 +3575,7 @@ window.companyData = {
       "actress": [
         "绫濑心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-427"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-427"
     },
     {
       "id": 106895,
@@ -3592,7 +3592,7 @@ window.companyData = {
         "鬼塚萌奈美",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-076"
     },
     {
       "id": 106892,
@@ -3608,7 +3608,7 @@ window.companyData = {
       "actress": [
         "天川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-425"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-425"
     },
     {
       "id": 90955,
@@ -3625,7 +3625,7 @@ window.companyData = {
         "永井瑪麗亞",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-075"
     },
     {
       "id": 90953,
@@ -3642,7 +3642,7 @@ window.companyData = {
         "姫咲華",
         "叶月美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-077"
     },
     {
       "id": 85042,
@@ -3659,7 +3659,7 @@ window.companyData = {
         "浜崎真绪",
         "今井夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-424"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-424"
     },
     {
       "id": 85039,
@@ -3676,7 +3676,7 @@ window.companyData = {
         "桃園怜奈",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-423"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-423"
     },
     {
       "id": 93059,
@@ -3693,7 +3693,7 @@ window.companyData = {
         "新村晶",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-420"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-420"
     },
     {
       "id": 91139,
@@ -3709,7 +3709,7 @@ window.companyData = {
       "actress": [
         "八乃翼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-422"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-422"
     },
     {
       "id": 85124,
@@ -3726,7 +3726,7 @@ window.companyData = {
         "藤沢麗央",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-074"
     },
     {
       "id": 85007,
@@ -3740,7 +3740,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/a37c67bae252d098b683fc030bdc86c3.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-421"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-421"
     },
     {
       "id": 85002,
@@ -3754,7 +3754,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/95f5e6e42a2c603f274472aa027b1d2d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-418"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-418"
     },
     {
       "id": 68746,
@@ -3770,7 +3770,7 @@ window.companyData = {
       "actress": [
         "佐山爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-419"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-419"
     },
     {
       "id": 85115,
@@ -3787,7 +3787,7 @@ window.companyData = {
         "織田真子",
         "春菜华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-072"
     },
     {
       "id": 85019,
@@ -3803,7 +3803,7 @@ window.companyData = {
       "actress": [
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-417"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-417"
     },
     {
       "id": 69148,
@@ -3821,7 +3821,7 @@ window.companyData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-416"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-416"
     },
     {
       "id": 85020,
@@ -3835,7 +3835,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-415"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-415"
     },
     {
       "id": 100649,
@@ -3849,7 +3849,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2023/04/23/ee1419764b067d5243f684b13b3c8783.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-400"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-400"
     },
     {
       "id": 85041,
@@ -3865,7 +3865,7 @@ window.companyData = {
       "actress": [
         "绫濑心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-411"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-411"
     },
     {
       "id": 85008,
@@ -3879,7 +3879,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-412"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-412"
     },
     {
       "id": 84977,
@@ -3893,7 +3893,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/1ce628222ece58c08598e78b7d2bc0c7.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-410"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-410"
     },
     {
       "id": 69808,
@@ -3907,7 +3907,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-413"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-413"
     },
     {
       "id": 85040,
@@ -3921,7 +3921,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-409"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-409"
     },
     {
       "id": 85034,
@@ -3937,7 +3937,7 @@ window.companyData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-406"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-406"
     },
     {
       "id": 85026,
@@ -3953,7 +3953,7 @@ window.companyData = {
       "actress": [
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-407"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-407"
     },
     {
       "id": 85014,
@@ -3970,7 +3970,7 @@ window.companyData = {
         "織田真子",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-408"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-408"
     },
     {
       "id": 85022,
@@ -3986,7 +3986,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-404"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-404"
     },
     {
       "id": 68911,
@@ -4000,7 +4000,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-405"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-405"
     },
     {
       "id": 68388,
@@ -4018,7 +4018,7 @@ window.companyData = {
         "塚田詩織",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-399"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-399"
     },
     {
       "id": 85037,
@@ -4032,7 +4032,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-402"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-402"
     },
     {
       "id": 85023,
@@ -4048,7 +4048,7 @@ window.companyData = {
       "actress": [
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-403"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-403"
     },
     {
       "id": 69038,
@@ -4062,7 +4062,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-401"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-401"
     },
     {
       "id": 92983,
@@ -4078,7 +4078,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-011"
     },
     {
       "id": 85046,
@@ -4092,7 +4092,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-396"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-396"
     },
     {
       "id": 85028,
@@ -4108,7 +4108,7 @@ window.companyData = {
       "actress": [
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-398"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-398"
     },
     {
       "id": 84986,
@@ -4124,7 +4124,7 @@ window.companyData = {
       "actress": [
         "倉與田"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-397"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-397"
     },
     {
       "id": 85021,
@@ -4138,7 +4138,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-394"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-394"
     },
     {
       "id": 85003,
@@ -4152,7 +4152,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/aac4189e116233c39cde78406be723a1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-393"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-393"
     },
     {
       "id": 85121,
@@ -4169,7 +4169,7 @@ window.companyData = {
         "藤沢麗央",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-064"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-064"
     },
     {
       "id": 85044,
@@ -4185,7 +4185,7 @@ window.companyData = {
       "actress": [
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-388"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-388"
     },
     {
       "id": 85032,
@@ -4201,7 +4201,7 @@ window.companyData = {
       "actress": [
         "倉與田"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-391"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-391"
     },
     {
       "id": 85033,
@@ -4215,7 +4215,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-389"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-389"
     },
     {
       "id": 85017,
@@ -4229,7 +4229,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-392"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-392"
     },
     {
       "id": 85009,
@@ -4245,7 +4245,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-390"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-390"
     },
     {
       "id": 85745,
@@ -4261,7 +4261,7 @@ window.companyData = {
       "actress": [
         "塚田詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-010"
     },
     {
       "id": 85119,
@@ -4275,7 +4275,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-063"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-063"
     },
     {
       "id": 85018,
@@ -4289,7 +4289,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-387"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-387"
     },
     {
       "id": 85016,
@@ -4305,7 +4305,7 @@ window.companyData = {
       "actress": [
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-386"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-386"
     },
     {
       "id": 84993,
@@ -4321,7 +4321,7 @@ window.companyData = {
       "actress": [
         "藤井蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-384"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-384"
     },
     {
       "id": 84983,
@@ -4338,7 +4338,7 @@ window.companyData = {
         "本真友里",
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-383"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-383"
     },
     {
       "id": 85742,
@@ -4352,7 +4352,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-009"
     },
     {
       "id": 85060,
@@ -4370,7 +4370,7 @@ window.companyData = {
         "森林原人",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-060"
     },
     {
       "id": 85031,
@@ -4386,7 +4386,7 @@ window.companyData = {
       "actress": [
         "田中寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-381"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-381"
     },
     {
       "id": 85015,
@@ -4402,7 +4402,7 @@ window.companyData = {
       "actress": [
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-380"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-380"
     },
     {
       "id": 81171,
@@ -4418,7 +4418,7 @@ window.companyData = {
       "actress": [
         "松本菜奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-379"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-379"
     },
     {
       "id": 81168,
@@ -4434,7 +4434,7 @@ window.companyData = {
       "actress": [
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-378"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-378"
     },
     {
       "id": 81155,
@@ -4450,7 +4450,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-377"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-377"
     },
     {
       "id": 81154,
@@ -4466,7 +4466,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-058"
     },
     {
       "id": 81143,
@@ -4480,7 +4480,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/558a9aa6df9ff51bd0ed3a6bc9254159.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-376"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-376"
     },
     {
       "id": 80988,
@@ -4496,7 +4496,7 @@ window.companyData = {
       "actress": [
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-371"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-371"
     },
     {
       "id": 80967,
@@ -4512,7 +4512,7 @@ window.companyData = {
       "actress": [
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-373"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-373"
     },
     {
       "id": 80963,
@@ -4528,7 +4528,7 @@ window.companyData = {
       "actress": [
         "小早川怜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-374"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-374"
     },
     {
       "id": 80951,
@@ -4545,7 +4545,7 @@ window.companyData = {
         "沙月芽衣",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-372"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-372"
     },
     {
       "id": 85108,
@@ -4561,7 +4561,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-056"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-056"
     },
     {
       "id": 85038,
@@ -4577,7 +4577,7 @@ window.companyData = {
       "actress": [
         "塚田詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-369"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-369"
     },
     {
       "id": 80792,
@@ -4594,7 +4594,7 @@ window.companyData = {
         "月野香澄",
         "宝生めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-370"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-370"
     },
     {
       "id": 80791,
@@ -4608,7 +4608,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-057"
     },
     {
       "id": 80790,
@@ -4624,7 +4624,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-368"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-368"
     },
     {
       "id": 85049,
@@ -4638,7 +4638,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/94b3c0d20835a74d6981d7de465a3e98.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-365"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-365"
     },
     {
       "id": 85045,
@@ -4654,7 +4654,7 @@ window.companyData = {
       "actress": [
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-366"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-366"
     },
     {
       "id": 85012,
@@ -4671,7 +4671,7 @@ window.companyData = {
         "イセドン内村",
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-367"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-367"
     },
     {
       "id": 85025,
@@ -4687,7 +4687,7 @@ window.companyData = {
       "actress": [
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-363"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-363"
     },
     {
       "id": 84906,
@@ -4704,7 +4704,7 @@ window.companyData = {
         "藤井蘭々",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-361"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-361"
     },
     {
       "id": 84890,
@@ -4720,7 +4720,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-360"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-360"
     },
     {
       "id": 84889,
@@ -4734,7 +4734,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-359"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-359"
     },
     {
       "id": 84888,
@@ -4750,7 +4750,7 @@ window.companyData = {
       "actress": [
         "鳳美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-358"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-358"
     },
     {
       "id": 84876,
@@ -4764,7 +4764,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-357"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-357"
     },
     {
       "id": 85105,
@@ -4780,7 +4780,7 @@ window.companyData = {
       "actress": [
         "吉根柚莉爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-054"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-054"
     },
     {
       "id": 84902,
@@ -4794,7 +4794,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-353"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-353"
     },
     {
       "id": 84896,
@@ -4810,7 +4810,7 @@ window.companyData = {
       "actress": [
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-354"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-354"
     },
     {
       "id": 84887,
@@ -4826,7 +4826,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-352"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-352"
     },
     {
       "id": 85107,
@@ -4843,7 +4843,7 @@ window.companyData = {
         "藤沢麗央",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-053"
     },
     {
       "id": 80282,
@@ -4860,7 +4860,7 @@ window.companyData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-349"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-349"
     },
     {
       "id": 80232,
@@ -4876,7 +4876,7 @@ window.companyData = {
       "actress": [
         "美園和花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-350"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-350"
     },
     {
       "id": 80230,
@@ -4892,7 +4892,7 @@ window.companyData = {
       "actress": [
         "推川悠里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-351"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-351"
     },
     {
       "id": 80163,
@@ -4908,7 +4908,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-345"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-345"
     },
     {
       "id": 80154,
@@ -4926,7 +4926,7 @@ window.companyData = {
         "塚田詩織",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-051"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-051"
     },
     {
       "id": 79986,
@@ -4940,7 +4940,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ad50910b88657ad0a01e70727e4a6f16.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-348"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-348"
     },
     {
       "id": 79971,
@@ -4956,7 +4956,7 @@ window.companyData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-346"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-346"
     },
     {
       "id": 79947,
@@ -4970,7 +4970,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-347"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-347"
     },
     {
       "id": 80063,
@@ -4986,7 +4986,7 @@ window.companyData = {
       "actress": [
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-339"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-339"
     },
     {
       "id": 79957,
@@ -5000,7 +5000,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-047"
     },
     {
       "id": 79819,
@@ -5014,7 +5014,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/b42936878e8bb494c6dc251de38f50ed.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-335"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-335"
     },
     {
       "id": 79810,
@@ -5028,7 +5028,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-332"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-332"
     },
     {
       "id": 79752,
@@ -5042,7 +5042,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/591d2c8487db908c07005f5c0325cc48.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-334"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-334"
     },
     {
       "id": 79739,
@@ -5059,7 +5059,7 @@ window.companyData = {
         "藤森里穂",
         "八乃翼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-333"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-333"
     },
     {
       "id": 79715,
@@ -5075,7 +5075,7 @@ window.companyData = {
       "actress": [
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-045"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-045"
     },
     {
       "id": 79704,
@@ -5091,7 +5091,7 @@ window.companyData = {
       "actress": [
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-331"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-331"
     },
     {
       "id": 79307,
@@ -5107,7 +5107,7 @@ window.companyData = {
       "actress": [
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-330"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-330"
     },
     {
       "id": 79296,
@@ -5123,7 +5123,7 @@ window.companyData = {
       "actress": [
         "初川南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-329"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-329"
     },
     {
       "id": 79286,
@@ -5139,7 +5139,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-327"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-327"
     },
     {
       "id": 79246,
@@ -5155,7 +5155,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-043"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-043"
     },
     {
       "id": 79359,
@@ -5169,7 +5169,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-305"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-305"
     },
     {
       "id": 106917,
@@ -5185,7 +5185,7 @@ window.companyData = {
       "actress": [
         "前田桃杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-300"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-300"
     },
     {
       "id": 93051,
@@ -5201,7 +5201,7 @@ window.companyData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-301"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-301"
     },
     {
       "id": 93060,
@@ -5218,7 +5218,7 @@ window.companyData = {
         "新村晶",
         "新井爱丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-297"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-297"
     },
     {
       "id": 93057,
@@ -5234,7 +5234,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-265"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-265"
     },
     {
       "id": 70893,
@@ -5250,7 +5250,7 @@ window.companyData = {
       "actress": [
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-263"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-263"
     },
     {
       "id": 107328,
@@ -5266,7 +5266,7 @@ window.companyData = {
       "actress": [
         "木下日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-260"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-260"
     },
     {
       "id": 93050,
@@ -5282,7 +5282,7 @@ window.companyData = {
       "actress": [
         "姫咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-251"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-251"
     },
     {
       "id": 93056,
@@ -5298,7 +5298,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-232"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-232"
     },
     {
       "id": 84900,
@@ -5314,7 +5314,7 @@ window.companyData = {
       "actress": [
         "本真友里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-236"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-236"
     },
     {
       "id": 107351,
@@ -5330,7 +5330,7 @@ window.companyData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-226"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-226"
     },
     {
       "id": 81332,
@@ -5348,7 +5348,7 @@ window.companyData = {
         "玉木玲",
         "黒木美沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-203"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-203"
     },
     {
       "id": 77624,
@@ -5364,7 +5364,7 @@ window.companyData = {
       "actress": [
         "新井爱丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-201"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-201"
     },
     {
       "id": 107312,
@@ -5381,7 +5381,7 @@ window.companyData = {
         "望月綾香",
         "三岛奈津子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-185"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-185"
     },
     {
       "id": 107446,
@@ -5397,7 +5397,7 @@ window.companyData = {
       "actress": [
         "深田詠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-168"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-168"
     },
     {
       "id": 74998,
@@ -5414,7 +5414,7 @@ window.companyData = {
         "牧村彩香",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-020"
     },
     {
       "id": 83617,
@@ -5430,7 +5430,7 @@ window.companyData = {
       "actress": [
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-147"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-147"
     },
     {
       "id": 75777,
@@ -5447,7 +5447,7 @@ window.companyData = {
         "しみけん",
         "今井夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-149"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-149"
     },
     {
       "id": 75634,
@@ -5463,7 +5463,7 @@ window.companyData = {
       "actress": [
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-140"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-140"
     },
     {
       "id": 76843,
@@ -5479,7 +5479,7 @@ window.companyData = {
       "actress": [
         "永井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-138"
     },
     {
       "id": 76842,
@@ -5495,7 +5495,7 @@ window.companyData = {
       "actress": [
         "根尾朱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-137"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-137"
     },
     {
       "id": 75517,
@@ -5511,7 +5511,7 @@ window.companyData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-139"
     },
     {
       "id": 74898,
@@ -5528,7 +5528,7 @@ window.companyData = {
         "瓊·洛夫喬伊",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-018"
     },
     {
       "id": 78509,
@@ -5544,7 +5544,7 @@ window.companyData = {
       "actress": [
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-129"
     },
     {
       "id": 77991,
@@ -5561,7 +5561,7 @@ window.companyData = {
         "イセドン内村",
         "今井夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-134"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-134"
     },
     {
       "id": 75727,
@@ -5577,7 +5577,7 @@ window.companyData = {
       "actress": [
         "小梅惠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-131"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-131"
     },
     {
       "id": 75516,
@@ -5593,7 +5593,7 @@ window.companyData = {
       "actress": [
         "新井爱丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-132"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-132"
     },
     {
       "id": 63518,
@@ -5609,7 +5609,7 @@ window.companyData = {
       "actress": [
         "佐山爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-130"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-130"
     },
     {
       "id": 95015,
@@ -5626,7 +5626,7 @@ window.companyData = {
         "田渊正浩",
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-017"
     },
     {
       "id": 94992,
@@ -5643,7 +5643,7 @@ window.companyData = {
         "小森美久露",
         "高坂あいり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-128"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-128"
     },
     {
       "id": 94986,
@@ -5659,7 +5659,7 @@ window.companyData = {
       "actress": [
         "美園和花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-124"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-124"
     },
     {
       "id": 78508,
@@ -5675,7 +5675,7 @@ window.companyData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-127"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-127"
     },
     {
       "id": 77355,
@@ -5691,7 +5691,7 @@ window.companyData = {
       "actress": [
         "奏音花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-126"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-126"
     },
     {
       "id": 88247,
@@ -5707,7 +5707,7 @@ window.companyData = {
       "actress": [
         "河北春菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-121"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-121"
     },
     {
       "id": 78537,
@@ -5723,7 +5723,7 @@ window.companyData = {
       "actress": [
         "根尾朱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-119"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-119"
     },
     {
       "id": 76528,
@@ -5737,7 +5737,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NIMA-007"
     },
     {
       "id": 71039,
@@ -5753,7 +5753,7 @@ window.companyData = {
       "actress": [
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-120"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-120"
     },
     {
       "id": 70717,
@@ -5771,7 +5771,7 @@ window.companyData = {
         "イセドン内村",
         "前田いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-122"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-122"
     },
     {
       "id": 94973,
@@ -5788,7 +5788,7 @@ window.companyData = {
         "しいなのあ",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-115"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-115"
     },
     {
       "id": 76488,
@@ -5806,7 +5806,7 @@ window.companyData = {
         "真琴",
         "丸千香子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-116"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-116"
     },
     {
       "id": 76486,
@@ -5823,7 +5823,7 @@ window.companyData = {
         "奏音花音",
         "中尾芽衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-117"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-117"
     },
     {
       "id": 78510,
@@ -5840,7 +5840,7 @@ window.companyData = {
         "望月憧",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-112"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-112"
     },
     {
       "id": 76753,
@@ -5856,7 +5856,7 @@ window.companyData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-015"
     },
     {
       "id": 70718,
@@ -5872,7 +5872,7 @@ window.companyData = {
       "actress": [
         "指原あかね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-108"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-108"
     },
     {
       "id": 63519,
@@ -5888,7 +5888,7 @@ window.companyData = {
       "actress": [
         "佐山爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-101"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-101"
     },
     {
       "id": 82782,
@@ -5904,7 +5904,7 @@ window.companyData = {
       "actress": [
         "深田詠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-096"
     },
     {
       "id": 82783,
@@ -5920,7 +5920,7 @@ window.companyData = {
       "actress": [
         "渚光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-091"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-091"
     },
     {
       "id": 74487,
@@ -5939,7 +5939,7 @@ window.companyData = {
         "玉木玲",
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-089"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-089"
     },
     {
       "id": 74165,
@@ -5955,7 +5955,7 @@ window.companyData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-093"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-093"
     },
     {
       "id": 74151,
@@ -5972,7 +5972,7 @@ window.companyData = {
         "佐山爱",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-090"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-090"
     },
     {
       "id": 74150,
@@ -5988,7 +5988,7 @@ window.companyData = {
       "actress": [
         "凛音とうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-092"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-092"
     },
     {
       "id": 74538,
@@ -6004,7 +6004,7 @@ window.companyData = {
       "actress": [
         "深田詠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-085"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-085"
     },
     {
       "id": 74478,
@@ -6020,7 +6020,7 @@ window.companyData = {
       "actress": [
         "美園和花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-011"
     },
     {
       "id": 74442,
@@ -6036,7 +6036,7 @@ window.companyData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-086"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-086"
     },
     {
       "id": 74235,
@@ -6052,7 +6052,7 @@ window.companyData = {
       "actress": [
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-087"
     },
     {
       "id": 70982,
@@ -6068,7 +6068,7 @@ window.companyData = {
       "actress": [
         "永井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-088"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-088"
     },
     {
       "id": 74508,
@@ -6084,7 +6084,7 @@ window.companyData = {
       "actress": [
         "市丸ひめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUNY-010"
     },
     {
       "id": 74438,
@@ -6103,7 +6103,7 @@ window.companyData = {
         "イセドン内村",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-084"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-084"
     },
     {
       "id": 74436,
@@ -6120,7 +6120,7 @@ window.companyData = {
         "心菜りお",
         "芹沢ゆず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-082"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-082"
     },
     {
       "id": 74435,
@@ -6137,7 +6137,7 @@ window.companyData = {
         "渚光希",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-083"
     },
     {
       "id": 73917,
@@ -6153,7 +6153,7 @@ window.companyData = {
       "actress": [
         "高杉麻里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-081"
     },
     {
       "id": 73857,
@@ -6169,7 +6169,7 @@ window.companyData = {
       "actress": [
         "友光夏华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-080"
     },
     {
       "id": 70994,
@@ -6185,7 +6185,7 @@ window.companyData = {
       "actress": [
         "八乃翼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-077"
     },
     {
       "id": 74819,
@@ -6201,7 +6201,7 @@ window.companyData = {
       "actress": [
         "神咲诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-073"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-073"
     },
     {
       "id": 74447,
@@ -6217,7 +6217,7 @@ window.companyData = {
       "actress": [
         "柳美憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-070"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-070"
     },
     {
       "id": 74227,
@@ -6233,7 +6233,7 @@ window.companyData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-072"
     },
     {
       "id": 73916,
@@ -6247,7 +6247,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/33f759d420b79d95c6bc4f90b6a407c2.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-074"
     },
     {
       "id": 71040,
@@ -6263,7 +6263,7 @@ window.companyData = {
       "actress": [
         "織田真子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-063"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-063"
     },
     {
       "id": 70932,
@@ -6279,7 +6279,7 @@ window.companyData = {
       "actress": [
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-068"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-068"
     },
     {
       "id": 70835,
@@ -6295,7 +6295,7 @@ window.companyData = {
       "actress": [
         "本田岬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-062"
     },
     {
       "id": 74824,
@@ -6311,7 +6311,7 @@ window.companyData = {
       "actress": [
         "加藤桃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-051"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-051"
     },
     {
       "id": 74823,
@@ -6327,7 +6327,7 @@ window.companyData = {
       "actress": [
         "高坂ますみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-055"
     },
     {
       "id": 74821,
@@ -6343,7 +6343,7 @@ window.companyData = {
       "actress": [
         "宫川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-053"
     },
     {
       "id": 74484,
@@ -6359,7 +6359,7 @@ window.companyData = {
       "actress": [
         "八乃翼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-052"
     },
     {
       "id": 88245,
@@ -6377,7 +6377,7 @@ window.companyData = {
         "鲛岛",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-042"
     },
     {
       "id": 71031,
@@ -6393,7 +6393,7 @@ window.companyData = {
       "actress": [
         "松本菜奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-044"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-044"
     },
     {
       "id": 70834,
@@ -6411,7 +6411,7 @@ window.companyData = {
         "イセドン内村",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-047"
     },
     {
       "id": 88246,
@@ -6429,7 +6429,7 @@ window.companyData = {
         "日向澪",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-037"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-037"
     },
     {
       "id": 87945,
@@ -6445,7 +6445,7 @@ window.companyData = {
       "actress": [
         "小栗萌中"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-006"
     },
     {
       "id": 70980,
@@ -6461,7 +6461,7 @@ window.companyData = {
       "actress": [
         "永野司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-008"
     },
     {
       "id": 70949,
@@ -6477,7 +6477,7 @@ window.companyData = {
       "actress": [
         "宝生めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-010"
     },
     {
       "id": 70896,
@@ -6493,7 +6493,7 @@ window.companyData = {
       "actress": [
         "牧村柚希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-004"
     },
     {
       "id": 70836,
@@ -6509,7 +6509,7 @@ window.companyData = {
       "actress": [
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-009"
     },
     {
       "id": 79118,
@@ -6525,7 +6525,7 @@ window.companyData = {
       "actress": [
         "高瀬りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-288"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-288"
     },
     {
       "id": 79086,
@@ -6541,7 +6541,7 @@ window.companyData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-287"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JUFE-287"
     }
   ]
 };

@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "乙羽あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUMU-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SUMU-004"
     },
     {
       "id": 3080,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "岸永みりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUMU-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SUMU-003"
     },
     {
       "id": 4350,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUMU-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SUMU-002"
     },
     {
       "id": 6532,
@@ -66,7 +66,7 @@ window.companyData = {
         "姫川ゆうな",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEND-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TEND-024"
     }
   ]
 };

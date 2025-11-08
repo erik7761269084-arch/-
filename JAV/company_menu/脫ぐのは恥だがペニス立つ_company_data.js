@@ -20,7 +20,7 @@ window.companyData = {
         "川上しずく",
         "福原美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NGHJ-024"
     },
     {
       "id": 3678,
@@ -39,7 +39,7 @@ window.companyData = {
         "あおい藍",
         "凪宮ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-023"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NGHJ-023"
     },
     {
       "id": 3647,
@@ -58,7 +58,7 @@ window.companyData = {
         "湊波流",
         "河北笑茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-021"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NGHJ-021"
     },
     {
       "id": 4675,
@@ -77,7 +77,7 @@ window.companyData = {
         "倉木詩織",
         "小倉和葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-020"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NGHJ-020"
     },
     {
       "id": 5227,
@@ -95,7 +95,7 @@ window.companyData = {
         "斉藤帆夏",
         "夢川ほの香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NGHJ-013"
     },
     {
       "id": 6238,
@@ -109,7 +109,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250511/20250511030715994994_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250511/20250511030715994994_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NGHJ-012"
     },
     {
       "id": 6166,
@@ -127,7 +127,7 @@ window.companyData = {
         "桃瀨日葵",
         "下川紬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NGHJ-009"
     }
   ]
 };

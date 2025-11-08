@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "丘咲愛蜜莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-172"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-172"
     },
     {
       "id": 2031,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "篠田步美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-151"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-151"
     },
     {
       "id": 2035,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-145"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-145"
     },
     {
       "id": 1732,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "神尾舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-141"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-141"
     },
     {
       "id": 1792,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "酒井桃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-140"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-140"
     },
     {
       "id": 2041,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "真野優莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-138"
     },
     {
       "id": 1759,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "美星琉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-134"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-134"
     },
     {
       "id": 1816,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "金井美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-131"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-131"
     },
     {
       "id": 1849,
@@ -145,7 +145,7 @@ window.companyData = {
       "actress": [
         "杉崎絵里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-130"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-130"
     },
     {
       "id": 1834,
@@ -161,7 +161,7 @@ window.companyData = {
       "actress": [
         "新山沙弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-129"
     },
     {
       "id": 1799,
@@ -177,7 +177,7 @@ window.companyData = {
       "actress": [
         "爱泽花梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-128"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-128"
     },
     {
       "id": 2030,
@@ -193,7 +193,7 @@ window.companyData = {
       "actress": [
         "辻井悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-124"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-124"
     },
     {
       "id": 1813,
@@ -209,7 +209,7 @@ window.companyData = {
       "actress": [
         "加藤麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-119"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-119"
     },
     {
       "id": 2037,
@@ -225,7 +225,7 @@ window.companyData = {
       "actress": [
         "櫻木梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-111"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-111"
     },
     {
       "id": 1862,
@@ -241,7 +241,7 @@ window.companyData = {
       "actress": [
         "大澤美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-113"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-113"
     },
     {
       "id": 2050,
@@ -257,7 +257,7 @@ window.companyData = {
       "actress": [
         "小西真理繪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-110"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-110"
     },
     {
       "id": 1839,
@@ -273,7 +273,7 @@ window.companyData = {
       "actress": [
         "藤森里穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-109"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-109"
     },
     {
       "id": 1737,
@@ -289,7 +289,7 @@ window.companyData = {
       "actress": [
         "堀口真希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-107"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-107"
     },
     {
       "id": 1756,
@@ -305,7 +305,7 @@ window.companyData = {
       "actress": [
         "绀野真理惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-100"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-100"
     },
     {
       "id": 1926,
@@ -321,7 +321,7 @@ window.companyData = {
       "actress": [
         "荒木里菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-97"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-97"
     },
     {
       "id": 1777,
@@ -337,7 +337,7 @@ window.companyData = {
       "actress": [
         "武井萌菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-96"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-96"
     },
     {
       "id": 1865,
@@ -353,7 +353,7 @@ window.companyData = {
       "actress": [
         "尾上若叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-95"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-95"
     },
     {
       "id": 1993,
@@ -369,7 +369,7 @@ window.companyData = {
       "actress": [
         "爱田樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-88"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-88"
     },
     {
       "id": 1881,
@@ -385,7 +385,7 @@ window.companyData = {
       "actress": [
         "椎名未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-86"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-86"
     },
     {
       "id": 1740,
@@ -401,7 +401,7 @@ window.companyData = {
       "actress": [
         "日向優梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-79"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-79"
     },
     {
       "id": 1741,
@@ -417,7 +417,7 @@ window.companyData = {
       "actress": [
         "上原結衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-77"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-77"
     },
     {
       "id": 1864,
@@ -433,7 +433,7 @@ window.companyData = {
       "actress": [
         "水菜麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-73"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-73"
     },
     {
       "id": 1917,
@@ -449,7 +449,7 @@ window.companyData = {
       "actress": [
         "椎名光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-68"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-68"
     },
     {
       "id": 1854,
@@ -465,7 +465,7 @@ window.companyData = {
       "actress": [
         "上條慈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-46"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-46"
     },
     {
       "id": 1716,
@@ -481,7 +481,7 @@ window.companyData = {
       "actress": [
         "沙藤由梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-67"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-67"
     },
     {
       "id": 1963,
@@ -497,7 +497,7 @@ window.companyData = {
       "actress": [
         "大海真铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-50"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-50"
     },
     {
       "id": 1796,
@@ -513,7 +513,7 @@ window.companyData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-53"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-53"
     },
     {
       "id": 1858,
@@ -529,7 +529,7 @@ window.companyData = {
       "actress": [
         "杏樹紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-51"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-51"
     },
     {
       "id": 1725,
@@ -545,7 +545,7 @@ window.companyData = {
       "actress": [
         "新井祐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-52"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-52"
     },
     {
       "id": 1830,
@@ -561,7 +561,7 @@ window.companyData = {
       "actress": [
         "遥惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-60"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-60"
     },
     {
       "id": 1890,
@@ -577,7 +577,7 @@ window.companyData = {
       "actress": [
         "愛花沙也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-61"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-61"
     },
     {
       "id": 1901,
@@ -593,7 +593,7 @@ window.companyData = {
       "actress": [
         "若菜亜衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-38"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-38"
     },
     {
       "id": 1712,
@@ -609,7 +609,7 @@ window.companyData = {
       "actress": [
         "彩音心爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-39"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-39"
     },
     {
       "id": 1724,
@@ -625,7 +625,7 @@ window.companyData = {
       "actress": [
         "桜花惠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=smbd-36"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=smbd-36"
     },
     {
       "id": 1957,
@@ -641,7 +641,7 @@ window.companyData = {
       "actress": [
         "橘日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-32"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-32"
     },
     {
       "id": 1729,
@@ -657,7 +657,7 @@ window.companyData = {
       "actress": [
         "愛内梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=smbd-30"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=smbd-30"
     },
     {
       "id": 1831,
@@ -673,7 +673,7 @@ window.companyData = {
       "actress": [
         "白咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-29"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-29"
     },
     {
       "id": 1837,
@@ -689,7 +689,7 @@ window.companyData = {
       "actress": [
         "桃夏凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-27"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-27"
     },
     {
       "id": 1744,
@@ -705,7 +705,7 @@ window.companyData = {
       "actress": [
         "天宮真理留"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=smbd-20"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=smbd-20"
     },
     {
       "id": 1960,
@@ -721,7 +721,7 @@ window.companyData = {
       "actress": [
         "直嶋爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-15"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-15"
     },
     {
       "id": 1793,
@@ -737,7 +737,7 @@ window.companyData = {
       "actress": [
         "松本桃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-13"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-13"
     },
     {
       "id": 1804,
@@ -753,7 +753,7 @@ window.companyData = {
       "actress": [
         "原明奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-12"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-12"
     },
     {
       "id": 1885,
@@ -769,7 +769,7 @@ window.companyData = {
       "actress": [
         "花井芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-09"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-09"
     },
     {
       "id": 2034,
@@ -785,7 +785,7 @@ window.companyData = {
       "actress": [
         "大冢咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-03"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SMBD-03"
     }
   ]
 };

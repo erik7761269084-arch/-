@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/07/29/d240f7769d11a0fa72e9b223f67bccb4.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTES-137"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MTES-137"
     },
     {
       "id": 35587,
@@ -32,7 +32,7 @@ window.companyData = {
         "高桥圣子",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TEK-077"
     },
     {
       "id": 63413,
@@ -46,7 +46,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-102FLOWING"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TEK-102FLOWING"
     },
     {
       "id": 70058,
@@ -60,7 +60,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTES-133"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MTES-133"
     },
     {
       "id": 93148,
@@ -76,7 +76,7 @@ window.companyData = {
       "actress": [
         "風間由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTES-123"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MTES-123"
     },
     {
       "id": 93147,
@@ -90,7 +90,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTES-122"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MTES-122"
     },
     {
       "id": 93145,
@@ -104,7 +104,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTES-121"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MTES-121"
     },
     {
       "id": 93267,
@@ -118,7 +118,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241010-1/e7b1bb7f05c8630e99ee3d9caaca71cb.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTES-120"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MTES-120"
     },
     {
       "id": 85673,
@@ -132,7 +132,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230127-1/49f097639e9fe2672c6366c4dd36e5b2.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTES-035"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MTES-035"
     },
     {
       "id": 19575,
@@ -148,7 +148,7 @@ window.companyData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-072"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TEK-072"
     },
     {
       "id": 19535,
@@ -166,7 +166,7 @@ window.companyData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-071"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TEK-071"
     },
     {
       "id": 19580,
@@ -184,7 +184,7 @@ window.companyData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-067"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TEK-067"
     }
   ]
 };

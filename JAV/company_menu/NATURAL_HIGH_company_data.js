@@ -19,7 +19,7 @@ window.companyData = {
         "夕美紫苑",
         "如月りいさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTC-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NHDTC-001"
     },
     {
       "id": 12852,
@@ -35,7 +35,7 @@ window.companyData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-950"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NHDTB-950"
     },
     {
       "id": 14530,
@@ -51,7 +51,7 @@ window.companyData = {
       "actress": [
         "皆月光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-922"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NHDTB-922"
     },
     {
       "id": 14527,
@@ -65,7 +65,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522230056392392.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240522/20240522230056392392.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-918"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NHDTB-918"
     },
     {
       "id": 14526,
@@ -82,7 +82,7 @@ window.companyData = {
         "渚光希",
         "竹内夏希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-920"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NHDTB-920"
     },
     {
       "id": 14520,
@@ -99,7 +99,7 @@ window.companyData = {
         "乙愛麗絲",
         "花狩舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-917"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NHDTB-917"
     },
     {
       "id": 14514,
@@ -113,7 +113,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20240523/20240523020139471471.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240523/20240523020139471471.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-919"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=NHDTB-919"
     },
     {
       "id": 78806,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "深田詠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACME-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ACME-005"
     },
     {
       "id": 1966,
@@ -145,7 +145,7 @@ window.companyData = {
       "actress": [
         "美谷朱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACME-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ACME-003"
     },
     {
       "id": 74761,
@@ -161,7 +161,7 @@ window.companyData = {
       "actress": [
         "渚光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACME-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ACME-001"
     }
   ]
 };

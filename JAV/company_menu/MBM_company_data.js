@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/c7b0c415/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-094"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-094"
     },
     {
       "id": 59928,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/58cdfb2b/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-103"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-103"
     },
     {
       "id": 59923,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/5943befe/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-100"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-100"
     },
     {
       "id": 61668,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-080"
     },
     {
       "id": 61667,
@@ -71,7 +71,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-082"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-082"
     },
     {
       "id": 61666,
@@ -85,7 +85,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-083"
     },
     {
       "id": 61665,
@@ -99,7 +99,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-086"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-086"
     },
     {
       "id": 61664,
@@ -113,7 +113,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-092"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-092"
     },
     {
       "id": 61663,
@@ -127,7 +127,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-093"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-093"
     },
     {
       "id": 62595,
@@ -141,7 +141,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/7ce8aa3e/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-062"
     },
     {
       "id": 62594,
@@ -155,7 +155,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/6dd41a0a/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-063"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-063"
     },
     {
       "id": 62593,
@@ -169,7 +169,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-065"
     },
     {
       "id": 62592,
@@ -183,7 +183,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/6ab39083/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-067"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-067"
     },
     {
       "id": 62591,
@@ -197,7 +197,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/08/02/1696e0434d78867b89aef01ffe454341.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-070"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-070"
     },
     {
       "id": 62590,
@@ -211,7 +211,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/b9e87c3a/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-075"
     },
     {
       "id": 62589,
@@ -225,7 +225,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/befd3f9b/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-077"
     },
     {
       "id": 59791,
@@ -239,7 +239,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-098"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-098"
     },
     {
       "id": 59787,
@@ -253,7 +253,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBMA-104"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBMA-104"
     }
   ]
 };

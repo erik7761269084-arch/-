@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828081327834834_14272_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828081327834834_14272_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAOX-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PAOX-003"
     }
   ]
 };

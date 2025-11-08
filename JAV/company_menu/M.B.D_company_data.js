@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "北见えり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBDD-2031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBDD-2031"
     },
     {
       "id": 59882,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "西尾真里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBDD-2155"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MBDD-2155"
     }
   ]
 };

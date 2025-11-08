@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-042"
     },
     {
       "id": 60141,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/09/08/2b8106a28b81762e289e222a003c6744.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-024"
     },
     {
       "id": 61195,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/08/03/de10b0947642edc43832c351e55b1a43.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-040"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-040"
     },
     {
       "id": 62692,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/23/73f004ba2cc30275f50166ea229d3d74.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-037"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-037"
     },
     {
       "id": 62691,
@@ -71,7 +71,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/23/1bba4fcfce9b3b9fdb95cdd80926bbf4.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-036"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-036"
     },
     {
       "id": 63479,
@@ -85,7 +85,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/1508e903/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-035"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-035"
     },
     {
       "id": 63797,
@@ -101,7 +101,7 @@ window.companyData = {
       "actress": [
         "星明日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-034"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-034"
     },
     {
       "id": 6338,
@@ -117,7 +117,7 @@ window.companyData = {
       "actress": [
         "宇佐美すい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-033"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-033"
     },
     {
       "id": 70012,
@@ -133,7 +133,7 @@ window.companyData = {
       "actress": [
         "藤沢麗央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-030"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-030"
     },
     {
       "id": 7629,
@@ -149,7 +149,7 @@ window.companyData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-029"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-029"
     },
     {
       "id": 93759,
@@ -165,7 +165,7 @@ window.companyData = {
       "actress": [
         "田中寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-018"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-018"
     },
     {
       "id": 93814,
@@ -181,7 +181,7 @@ window.companyData = {
       "actress": [
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-016"
     },
     {
       "id": 93761,
@@ -195,7 +195,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/b71d202f208bf79466dffb1b8b08dfa3.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-015"
     },
     {
       "id": 90609,
@@ -211,7 +211,7 @@ window.companyData = {
       "actress": [
         "浅田结梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-003"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-003"
     },
     {
       "id": 59734,
@@ -225,7 +225,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/10/05/b5532818898958a2bd726d18c2fbb2f6.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-043"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=PJAM-043"
     }
   ]
 };

@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "柏木小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-022"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-022"
     },
     {
       "id": 2705,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "北岡果林"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-628"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-628"
     },
     {
       "id": 2703,
@@ -49,7 +49,7 @@ window.companyData = {
       "actress": [
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-629"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-629"
     },
     {
       "id": 3082,
@@ -65,7 +65,7 @@ window.companyData = {
       "actress": [
         "尾崎惠梨香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-021"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-021"
     },
     {
       "id": 3291,
@@ -81,7 +81,7 @@ window.companyData = {
       "actress": [
         "宍戸里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-624"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-624"
     },
     {
       "id": 61248,
@@ -97,7 +97,7 @@ window.companyData = {
       "actress": [
         "天月梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-622"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-622"
     },
     {
       "id": 3926,
@@ -113,7 +113,7 @@ window.companyData = {
       "actress": [
         "北野未奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-016"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-016"
     },
     {
       "id": 3925,
@@ -129,7 +129,7 @@ window.companyData = {
       "actress": [
         "宮城理惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-017"
     },
     {
       "id": 4434,
@@ -146,7 +146,7 @@ window.companyData = {
         "松井日奈子",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-620"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-620"
     },
     {
       "id": 4411,
@@ -163,7 +163,7 @@ window.companyData = {
         "虹村由美",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-619"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-619"
     },
     {
       "id": 4387,
@@ -179,7 +179,7 @@ window.companyData = {
       "actress": [
         "柏木小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-621"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-621"
     },
     {
       "id": 4825,
@@ -196,7 +196,7 @@ window.companyData = {
         "北野未奈",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-617"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-617"
     },
     {
       "id": 4893,
@@ -212,7 +212,7 @@ window.companyData = {
       "actress": [
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-618"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-618"
     },
     {
       "id": 4855,
@@ -229,7 +229,7 @@ window.companyData = {
         "长濑麻美",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-014"
     },
     {
       "id": 4852,
@@ -245,7 +245,7 @@ window.companyData = {
       "actress": [
         "南條彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-015"
     },
     {
       "id": 63009,
@@ -261,7 +261,7 @@ window.companyData = {
       "actress": [
         "天馬唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-614"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-614"
     },
     {
       "id": 63007,
@@ -278,7 +278,7 @@ window.companyData = {
         "鲛岛",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-616"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-616"
     },
     {
       "id": 5281,
@@ -294,7 +294,7 @@ window.companyData = {
       "actress": [
         "静河"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-615"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-615"
     },
     {
       "id": 5628,
@@ -310,7 +310,7 @@ window.companyData = {
       "actress": [
         "北岡果林"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-612"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-612"
     },
     {
       "id": 5580,
@@ -327,7 +327,7 @@ window.companyData = {
         "天月梓",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-613"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-613"
     },
     {
       "id": 67376,
@@ -343,7 +343,7 @@ window.companyData = {
       "actress": [
         "松井日奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-010"
     },
     {
       "id": 6427,
@@ -360,7 +360,7 @@ window.companyData = {
         "新井里真",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-608"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-608"
     },
     {
       "id": 6425,
@@ -378,7 +378,7 @@ window.companyData = {
         "鲛岛",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-607"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-607"
     },
     {
       "id": 6417,
@@ -395,7 +395,7 @@ window.companyData = {
         "椿莉香",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-609"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-609"
     },
     {
       "id": 68881,
@@ -411,7 +411,7 @@ window.companyData = {
       "actress": [
         "若宮穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-605"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-605"
     },
     {
       "id": 6858,
@@ -427,7 +427,7 @@ window.companyData = {
       "actress": [
         "天月梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-606"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-606"
     },
     {
       "id": 7149,
@@ -443,7 +443,7 @@ window.companyData = {
       "actress": [
         "美咲佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-604"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-604"
     },
     {
       "id": 7497,
@@ -460,7 +460,7 @@ window.companyData = {
         "胡桃櫻花",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-601"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-601"
     },
     {
       "id": 7460,
@@ -476,7 +476,7 @@ window.companyData = {
       "actress": [
         "美咲音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-600"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-600"
     },
     {
       "id": 7785,
@@ -492,7 +492,7 @@ window.companyData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-008"
     },
     {
       "id": 72445,
@@ -506,7 +506,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-013"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQSG-013"
     },
     {
       "id": 72522,
@@ -523,7 +523,7 @@ window.companyData = {
         "天馬唯",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-595"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-595"
     },
     {
       "id": 8231,
@@ -540,7 +540,7 @@ window.companyData = {
         "宮城理惠",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-594"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-594"
     },
     {
       "id": 8414,
@@ -556,7 +556,7 @@ window.companyData = {
       "actress": [
         "那賀崎雪音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-593"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-593"
     },
     {
       "id": 74180,
@@ -572,7 +572,7 @@ window.companyData = {
       "actress": [
         "木下日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-588"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-588"
     },
     {
       "id": 9813,
@@ -589,7 +589,7 @@ window.companyData = {
         "彌生美月",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-581"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-581"
     },
     {
       "id": 9812,
@@ -605,7 +605,7 @@ window.companyData = {
       "actress": [
         "永野鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-582"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-582"
     },
     {
       "id": 94503,
@@ -619,7 +619,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-549"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-549"
     },
     {
       "id": 10531,
@@ -636,7 +636,7 @@ window.companyData = {
         "上戶真理",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-576"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-576"
     },
     {
       "id": 94485,
@@ -654,7 +654,7 @@ window.companyData = {
         "堀北実来",
         "美澄玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-558"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-558"
     },
     {
       "id": 12586,
@@ -670,7 +670,7 @@ window.companyData = {
       "actress": [
         "日向理名"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-557"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-557"
     },
     {
       "id": 12735,
@@ -686,7 +686,7 @@ window.companyData = {
       "actress": [
         "月本海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQSG-009"
     },
     {
       "id": 12734,
@@ -702,7 +702,7 @@ window.companyData = {
       "actress": [
         "流川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-010"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQSG-010"
     },
     {
       "id": 12421,
@@ -718,7 +718,7 @@ window.companyData = {
       "actress": [
         "白濱南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-005"
     },
     {
       "id": 12939,
@@ -734,7 +734,7 @@ window.companyData = {
       "actress": [
         "武田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-556"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-556"
     },
     {
       "id": 12936,
@@ -750,7 +750,7 @@ window.companyData = {
       "actress": [
         "菊池春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-555"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-555"
     },
     {
       "id": 12926,
@@ -766,7 +766,7 @@ window.companyData = {
       "actress": [
         "瀬戸ひなこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-554"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-554"
     },
     {
       "id": 13309,
@@ -783,7 +783,7 @@ window.companyData = {
         "美波汐里",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-553"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-553"
     },
     {
       "id": 13295,
@@ -801,7 +801,7 @@ window.companyData = {
         "鲛岛",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-552"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-552"
     },
     {
       "id": 13294,
@@ -818,7 +818,7 @@ window.companyData = {
         "美咲音",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-551"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-551"
     },
     {
       "id": 94399,
@@ -834,7 +834,7 @@ window.companyData = {
       "actress": [
         "市井結夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQDE-004"
     },
     {
       "id": 13501,
@@ -850,7 +850,7 @@ window.companyData = {
       "actress": [
         "花音うらら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-008"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQSG-008"
     },
     {
       "id": 13499,
@@ -867,7 +867,7 @@ window.companyData = {
         "若宮穂乃",
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQSG-005"
     },
     {
       "id": 13646,
@@ -883,7 +883,7 @@ window.companyData = {
       "actress": [
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-548"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-548"
     },
     {
       "id": 13624,
@@ -899,7 +899,7 @@ window.companyData = {
       "actress": [
         "久和原聖羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-550"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-550"
     },
     {
       "id": 13764,
@@ -915,7 +915,7 @@ window.companyData = {
       "actress": [
         "堀北実来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQSG-007"
     },
     {
       "id": 94473,
@@ -931,7 +931,7 @@ window.companyData = {
       "actress": [
         "高島愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-545"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-545"
     },
     {
       "id": 13904,
@@ -947,7 +947,7 @@ window.companyData = {
       "actress": [
         "松本梨穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-546"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-546"
     },
     {
       "id": 94482,
@@ -963,7 +963,7 @@ window.companyData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQSG-006"
     },
     {
       "id": 14242,
@@ -979,7 +979,7 @@ window.companyData = {
       "actress": [
         "渚光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-544"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-544"
     },
     {
       "id": 14240,
@@ -995,7 +995,7 @@ window.companyData = {
       "actress": [
         "野原なこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-543"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-543"
     },
     {
       "id": 94459,
@@ -1011,7 +1011,7 @@ window.companyData = {
       "actress": [
         "日向ひかげ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQSG-004"
     },
     {
       "id": 14611,
@@ -1027,7 +1027,7 @@ window.companyData = {
       "actress": [
         "佐藤しお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-540"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-540"
     },
     {
       "id": 14591,
@@ -1043,7 +1043,7 @@ window.companyData = {
       "actress": [
         "橘京花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-541"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-541"
     },
     {
       "id": 87737,
@@ -1064,7 +1064,7 @@ window.companyData = {
         "有季奈绪",
         "清宫すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-485"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-485"
     },
     {
       "id": 87714,
@@ -1078,7 +1078,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-486"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-486"
     },
     {
       "id": 87747,
@@ -1094,7 +1094,7 @@ window.companyData = {
       "actress": [
         "藤田梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-482"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-482"
     },
     {
       "id": 87745,
@@ -1108,7 +1108,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230814-1/b11a572c512013a99f6552d86418160f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-481"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-481"
     },
     {
       "id": 87715,
@@ -1124,7 +1124,7 @@ window.companyData = {
       "actress": [
         "渚光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-480"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-480"
     },
     {
       "id": 67907,
@@ -1141,7 +1141,7 @@ window.companyData = {
         "鲛岛",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-449"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-449"
     },
     {
       "id": 86217,
@@ -1157,7 +1157,7 @@ window.companyData = {
       "actress": [
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-411"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-411"
     },
     {
       "id": 86216,
@@ -1174,7 +1174,7 @@ window.companyData = {
         "東條夏",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-410"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-410"
     },
     {
       "id": 73013,
@@ -1192,7 +1192,7 @@ window.companyData = {
         "タツ",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-314"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-314"
     },
     {
       "id": 72877,
@@ -1210,7 +1210,7 @@ window.companyData = {
         "タツ",
         "服部义"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-312"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-312"
     },
     {
       "id": 82180,
@@ -1232,7 +1232,7 @@ window.companyData = {
         "志戸哲也",
         "堀沢ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-292"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-292"
     },
     {
       "id": 82065,
@@ -1249,7 +1249,7 @@ window.companyData = {
         "香坂みりな",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-291"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-291"
     },
     {
       "id": 83304,
@@ -1268,7 +1268,7 @@ window.companyData = {
         "有花萌",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-290"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-290"
     },
     {
       "id": 82009,
@@ -1287,7 +1287,7 @@ window.companyData = {
         "胡桃圓",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-289"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-289"
     },
     {
       "id": 83820,
@@ -1308,7 +1308,7 @@ window.companyData = {
         "有花萌",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-288"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-288"
     },
     {
       "id": 82005,
@@ -1328,7 +1328,7 @@ window.companyData = {
         "稻场流花",
         "服部义"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-287"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-287"
     },
     {
       "id": 81988,
@@ -1344,7 +1344,7 @@ window.companyData = {
       "actress": [
         "枢木葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-286"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-286"
     },
     {
       "id": 82843,
@@ -1365,7 +1365,7 @@ window.companyData = {
         "琴音芽衣",
         "森山なつか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-285"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-285"
     },
     {
       "id": 77119,
@@ -1382,7 +1382,7 @@ window.companyData = {
         "タツ",
         "川上まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-282"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-282"
     },
     {
       "id": 82002,
@@ -1403,7 +1403,7 @@ window.companyData = {
         "森山なつか",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-280"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-280"
     },
     {
       "id": 81997,
@@ -1423,7 +1423,7 @@ window.companyData = {
         "タツ",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-281"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-281"
     },
     {
       "id": 83287,
@@ -1442,7 +1442,7 @@ window.companyData = {
         "诗音乃らん",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-278"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-278"
     },
     {
       "id": 81993,
@@ -1460,7 +1460,7 @@ window.companyData = {
         "爱瀬るか",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-277"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-277"
     },
     {
       "id": 70570,
@@ -1479,7 +1479,7 @@ window.companyData = {
         "宫村ななこ",
         "梦咲ひなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-249"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-249"
     },
     {
       "id": 73015,
@@ -1500,7 +1500,7 @@ window.companyData = {
         "月本爱",
         "四ツ叶うらら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-191"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SQTE-191"
     }
   ]
 };

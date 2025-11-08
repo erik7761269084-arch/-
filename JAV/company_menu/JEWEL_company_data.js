@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "守屋いずみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSE-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MSE-002"
     },
     {
       "id": 6005,
@@ -34,7 +34,7 @@ window.companyData = {
         "羽田真子",
         "梶原聡子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WCX-011"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WCX-011"
     },
     {
       "id": 8374,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "守屋いずみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSE-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MSE-001"
     },
     {
       "id": 59884,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "梶原聡子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WCX-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=WCX-012"
     }
   ]
 };

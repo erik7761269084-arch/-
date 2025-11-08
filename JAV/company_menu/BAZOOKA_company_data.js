@@ -19,7 +19,7 @@ window.companyData = {
         "星乃夏月",
         "碓井せりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-407"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-407"
     },
     {
       "id": 66884,
@@ -33,7 +33,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250430-1/25faa14fdb5a0cbf8dc1b504a49798b1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-363"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-363"
     },
     {
       "id": 75748,
@@ -52,7 +52,7 @@ window.companyData = {
         "御坂莉亚",
         "柊ゆうの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-226"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-226"
     },
     {
       "id": 74896,
@@ -66,7 +66,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-227"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-227"
     },
     {
       "id": 74895,
@@ -85,7 +85,7 @@ window.companyData = {
         "野野原薺",
         "新田みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-221"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-221"
     },
     {
       "id": 75025,
@@ -99,7 +99,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-198"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-198"
     },
     {
       "id": 71758,
@@ -118,7 +118,7 @@ window.companyData = {
         "桥本丽华",
         "小峰みこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-193"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-193"
     },
     {
       "id": 70956,
@@ -137,7 +137,7 @@ window.companyData = {
         "天音りおん",
         "ゆうひ菜那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-183"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-183"
     },
     {
       "id": 70955,
@@ -151,7 +151,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-169"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-169"
     },
     {
       "id": 71006,
@@ -165,7 +165,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-165"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-165"
     },
     {
       "id": 98577,
@@ -184,7 +184,7 @@ window.companyData = {
         "斎藤ミオリ",
         "花崎りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-147"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-147"
     },
     {
       "id": 70959,
@@ -203,7 +203,7 @@ window.companyData = {
         "凉美ほのか",
         "冴木エリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-146"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-146"
     },
     {
       "id": 87594,
@@ -222,7 +222,7 @@ window.companyData = {
         "美咲まや",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-134"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-134"
     },
     {
       "id": 70847,
@@ -241,7 +241,7 @@ window.companyData = {
         "海空花",
         "星咲伶美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-124"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-124"
     },
     {
       "id": 70848,
@@ -260,7 +260,7 @@ window.companyData = {
         "美咲まや",
         "近藤ユキ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-109"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=BAZX-109"
     }
   ]
 };

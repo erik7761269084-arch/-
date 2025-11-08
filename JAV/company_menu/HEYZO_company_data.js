@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2007"
     },
     {
       "id": 35459,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2001"
     },
     {
       "id": 35457,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/06/9c632688/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2004"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2004"
     },
     {
       "id": 35502,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/e94721a57e7098a0e01debb6d260ba14.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2110"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2110"
     },
     {
       "id": 35533,
@@ -71,7 +71,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/07/11/d8079140/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2091"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2091"
     },
     {
       "id": 35558,
@@ -85,7 +85,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2088"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2088"
     },
     {
       "id": 58108,
@@ -99,7 +99,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2019/08/07/QQ2019080716412803e5b.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-474"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-474"
     },
     {
       "id": 1538,
@@ -115,7 +115,7 @@ window.companyData = {
       "actress": [
         "中川貴子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2928"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2928"
     },
     {
       "id": 1541,
@@ -131,7 +131,7 @@ window.companyData = {
       "actress": [
         "香椎美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2925"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2925"
     },
     {
       "id": 1586,
@@ -147,7 +147,7 @@ window.companyData = {
       "actress": [
         "霧島奈津美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2938"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2938"
     },
     {
       "id": 1561,
@@ -163,7 +163,7 @@ window.companyData = {
       "actress": [
         "中田南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2924"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2924"
     },
     {
       "id": 1600,
@@ -179,7 +179,7 @@ window.companyData = {
       "actress": [
         "佐藤玲緒奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2936"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2936"
     },
     {
       "id": 1429,
@@ -195,7 +195,7 @@ window.companyData = {
       "actress": [
         "山田萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2790"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2790"
     },
     {
       "id": 58143,
@@ -209,7 +209,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231008-1/8201f7c9b2d48cd75731cbf98c16f68d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2789"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2789"
     },
     {
       "id": 1427,
@@ -225,7 +225,7 @@ window.companyData = {
       "actress": [
         "長澤ルナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2788"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2788"
     },
     {
       "id": 1426,
@@ -241,7 +241,7 @@ window.companyData = {
       "actress": [
         "柳井瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2787"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2787"
     },
     {
       "id": 1439,
@@ -257,7 +257,7 @@ window.companyData = {
       "actress": [
         "沢田美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2805"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2805"
     },
     {
       "id": 82759,
@@ -271,7 +271,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2083"
     },
     {
       "id": 81594,
@@ -285,7 +285,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/c7157d98b29eba7b225f309fc602277a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2249"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2249"
     },
     {
       "id": 73253,
@@ -299,7 +299,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2101"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2101"
     },
     {
       "id": 1584,
@@ -313,7 +313,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230410/2023041003443677.",
       "background_img": "https://picture.yoshiclub.xyz/20230410/2023041003443677.",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2739"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2739"
     },
     {
       "id": 1370,
@@ -329,7 +329,7 @@ window.companyData = {
       "actress": [
         "水蜜りえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2712"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2712"
     },
     {
       "id": 1375,
@@ -343,7 +343,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230714/20230714223435102102.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230714/20230714223435102102.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2713"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2713"
     },
     {
       "id": 1379,
@@ -359,7 +359,7 @@ window.companyData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2710"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2710"
     },
     {
       "id": 1365,
@@ -375,7 +375,7 @@ window.companyData = {
       "actress": [
         "白雪麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2700"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2700"
     },
     {
       "id": 1332,
@@ -391,7 +391,7 @@ window.companyData = {
       "actress": [
         "月島花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2620"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2620"
     },
     {
       "id": 1327,
@@ -407,7 +407,7 @@ window.companyData = {
       "actress": [
         "春風コウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2614"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2614"
     },
     {
       "id": 1278,
@@ -423,7 +423,7 @@ window.companyData = {
       "actress": [
         "美雲愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2513"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2513"
     },
     {
       "id": 57979,
@@ -437,7 +437,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/5d79c92cfa35b87f62774a0522e26942.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2525"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2525"
     },
     {
       "id": 57950,
@@ -451,7 +451,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250130-1/937d86a740222355122dffa9acc5a253.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2244"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2244"
     },
     {
       "id": 58082,
@@ -465,7 +465,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2233"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2233"
     },
     {
       "id": 58079,
@@ -479,7 +479,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2232"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2232"
     },
     {
       "id": 58083,
@@ -493,7 +493,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2231"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2231"
     },
     {
       "id": 58081,
@@ -507,7 +507,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2230"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2230"
     },
     {
       "id": 58084,
@@ -521,7 +521,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2229"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2229"
     },
     {
       "id": 58080,
@@ -535,7 +535,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2224"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2224"
     },
     {
       "id": 58078,
@@ -549,7 +549,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2223"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2223"
     },
     {
       "id": 57929,
@@ -563,7 +563,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2162"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2162"
     },
     {
       "id": 57927,
@@ -577,7 +577,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250130-1/b2246dc883c4ffb11c1752184c9b9ba9.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2122"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2122"
     },
     {
       "id": 57946,
@@ -591,7 +591,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250130-1/e07f33501f461974190b66d83ce59d2e.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2119"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2119"
     },
     {
       "id": 57954,
@@ -605,7 +605,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2115"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2115"
     },
     {
       "id": 57944,
@@ -619,7 +619,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2114"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2114"
     },
     {
       "id": 57928,
@@ -633,7 +633,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250130-1/b87dc43b9e73673597c0c6bfaa8f8266.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2113"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2113"
     },
     {
       "id": 1197,
@@ -649,7 +649,7 @@ window.companyData = {
       "actress": [
         "菊川三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2096"
     },
     {
       "id": 57953,
@@ -663,7 +663,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2087"
     },
     {
       "id": 58095,
@@ -677,7 +677,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/c0891fad3c061d684cbcd720dec5c6f5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2065"
     },
     {
       "id": 57934,
@@ -691,7 +691,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2062"
     },
     {
       "id": 58097,
@@ -705,7 +705,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/9e266958739ced76b23979c69375e3f1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2059"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2059"
     },
     {
       "id": 58096,
@@ -719,7 +719,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/cbc2dc494e0387dce738797231fcb5c5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2055"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2055"
     },
     {
       "id": 58094,
@@ -733,7 +733,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2037"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2037"
     },
     {
       "id": 58093,
@@ -747,7 +747,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/7865e62114960eb7054364a3d43c44f3.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2032"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2032"
     },
     {
       "id": 58092,
@@ -761,7 +761,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/6341ea59011f77b1c400a538ca98fecf.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2017"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2017"
     },
     {
       "id": 58091,
@@ -775,7 +775,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/14fe7f192aedb9572bc87cf43db74f27.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2015"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2015"
     },
     {
       "id": 58090,
@@ -789,7 +789,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/993b645cd0a4c15b30d0b785056e79a1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2012"
     },
     {
       "id": 58098,
@@ -803,7 +803,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/87a849750874eb8b59e07b679e9b1644.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-2005"
     },
     {
       "id": 57968,
@@ -817,7 +817,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1949"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1949"
     },
     {
       "id": 57972,
@@ -831,7 +831,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/af7ac18ec3ff76faa802d32b2d2b9c43.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1919"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1919"
     },
     {
       "id": 58177,
@@ -845,7 +845,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1891"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1891"
     },
     {
       "id": 1163,
@@ -861,7 +861,7 @@ window.companyData = {
       "actress": [
         "日高千晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1854"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1854"
     },
     {
       "id": 1153,
@@ -877,7 +877,7 @@ window.companyData = {
       "actress": [
         "日高千晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1816"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1816"
     },
     {
       "id": 1484,
@@ -893,7 +893,7 @@ window.companyData = {
       "actress": [
         "相本みき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1736"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1736"
     },
     {
       "id": 58176,
@@ -907,7 +907,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1729"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1729"
     },
     {
       "id": 58111,
@@ -921,7 +921,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1637"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1637"
     },
     {
       "id": 58016,
@@ -935,7 +935,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1665"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1665"
     },
     {
       "id": 1132,
@@ -951,7 +951,7 @@ window.companyData = {
       "actress": [
         "南河あかね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1655"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1655"
     },
     {
       "id": 58007,
@@ -965,7 +965,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1654"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1654"
     },
     {
       "id": 99339,
@@ -979,7 +979,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO1629"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO1629"
     },
     {
       "id": 58012,
@@ -993,7 +993,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1623"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1623"
     },
     {
       "id": 1124,
@@ -1009,7 +1009,7 @@ window.companyData = {
       "actress": [
         "双葉みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1620"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1620"
     },
     {
       "id": 58009,
@@ -1023,7 +1023,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1513"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1513"
     },
     {
       "id": 1107,
@@ -1039,7 +1039,7 @@ window.companyData = {
       "actress": [
         "白石真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1587"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1587"
     },
     {
       "id": 1119,
@@ -1055,7 +1055,7 @@ window.companyData = {
       "actress": [
         "白瀬心乙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1613"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1613"
     },
     {
       "id": 1111,
@@ -1071,7 +1071,7 @@ window.companyData = {
       "actress": [
         "生島涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1594"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1594"
     },
     {
       "id": 1031,
@@ -1087,7 +1087,7 @@ window.companyData = {
       "actress": [
         "美月瑠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1443"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1443"
     },
     {
       "id": 1093,
@@ -1103,7 +1103,7 @@ window.companyData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1608"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1608"
     },
     {
       "id": 1118,
@@ -1119,7 +1119,7 @@ window.companyData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1606"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1606"
     },
     {
       "id": 1110,
@@ -1135,7 +1135,7 @@ window.companyData = {
       "actress": [
         "三原雅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1590"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1590"
     },
     {
       "id": 58063,
@@ -1149,7 +1149,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1602"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1602"
     },
     {
       "id": 1116,
@@ -1165,7 +1165,7 @@ window.companyData = {
       "actress": [
         "北川レイラ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1601"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1601"
     },
     {
       "id": 1105,
@@ -1181,7 +1181,7 @@ window.companyData = {
       "actress": [
         "桜夜まよい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1584"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1584"
     },
     {
       "id": 1104,
@@ -1197,7 +1197,7 @@ window.companyData = {
       "actress": [
         "本条彩乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1583"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1583"
     },
     {
       "id": 1059,
@@ -1213,7 +1213,7 @@ window.companyData = {
       "actress": [
         "REN(月乃なつき)"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1486"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1486"
     },
     {
       "id": 57939,
@@ -1227,7 +1227,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1553"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1553"
     },
     {
       "id": 1071,
@@ -1243,7 +1243,7 @@ window.companyData = {
       "actress": [
         "麻生希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1525"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1525"
     },
     {
       "id": 1077,
@@ -1257,7 +1257,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20231212/47a40099-1771-4368-b131-4d21ddcb08c2.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20231212/47a40099-1771-4368-b131-4d21ddcb08c2.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1518"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1518"
     },
     {
       "id": 1076,
@@ -1273,7 +1273,7 @@ window.companyData = {
       "actress": [
         "臼井さと美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1517"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1517"
     },
     {
       "id": 58160,
@@ -1287,7 +1287,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1514"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1514"
     },
     {
       "id": 1075,
@@ -1303,7 +1303,7 @@ window.companyData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1510"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1510"
     },
     {
       "id": 1032,
@@ -1319,7 +1319,7 @@ window.companyData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1441"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1441"
     },
     {
       "id": 1068,
@@ -1335,7 +1335,7 @@ window.companyData = {
       "actress": [
         "初音ろりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1503"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1503"
     },
     {
       "id": 58060,
@@ -1349,7 +1349,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1502"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1502"
     },
     {
       "id": 1067,
@@ -1365,7 +1365,7 @@ window.companyData = {
       "actress": [
         "葵千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1500"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1500"
     },
     {
       "id": 58054,
@@ -1379,7 +1379,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1483"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1483"
     },
     {
       "id": 1063,
@@ -1395,7 +1395,7 @@ window.companyData = {
       "actress": [
         "七濑莉娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1495"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1495"
     },
     {
       "id": 58047,
@@ -1409,7 +1409,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221008-1/c9b6104299e933308a23fb8e261ec1f0.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1480"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1480"
     },
     {
       "id": 1054,
@@ -1425,7 +1425,7 @@ window.companyData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1475"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1475"
     },
     {
       "id": 1055,
@@ -1441,7 +1441,7 @@ window.companyData = {
       "actress": [
         "樞木美栞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1477"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1477"
     },
     {
       "id": 1053,
@@ -1457,7 +1457,7 @@ window.companyData = {
       "actress": [
         "铃木里美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1473"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1473"
     },
     {
       "id": 1004,
@@ -1473,7 +1473,7 @@ window.companyData = {
       "actress": [
         "鈴木理沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1398"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1398"
     },
     {
       "id": 1050,
@@ -1487,7 +1487,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20231227/6a57984f-93b2-4dd1-a744-dd3b1a27cc5b.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20231227/6a57984f-93b2-4dd1-a744-dd3b1a27cc5b.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1467"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1467"
     },
     {
       "id": 1049,
@@ -1503,7 +1503,7 @@ window.companyData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1465"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1465"
     },
     {
       "id": 1033,
@@ -1519,7 +1519,7 @@ window.companyData = {
       "actress": [
         "葵千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1444"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1444"
     },
     {
       "id": 1026,
@@ -1535,7 +1535,7 @@ window.companyData = {
       "actress": [
         "向井藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1432"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1432"
     },
     {
       "id": 1035,
@@ -1549,7 +1549,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105014948436436.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240105/20240105014948436436.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1448"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1448"
     },
     {
       "id": 985,
@@ -1563,7 +1563,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20240208/38147396-97d3-49a7-b4a5-9de61dc5d906.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240208/38147396-97d3-49a7-b4a5-9de61dc5d906.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1374"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1374"
     },
     {
       "id": 987,
@@ -1579,7 +1579,7 @@ window.companyData = {
       "actress": [
         "九条紗季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1372"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1372"
     },
     {
       "id": 979,
@@ -1595,7 +1595,7 @@ window.companyData = {
       "actress": [
         "中井綾香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1363"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1363"
     },
     {
       "id": 974,
@@ -1611,7 +1611,7 @@ window.companyData = {
       "actress": [
         "坂咲美穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1337"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1337"
     },
     {
       "id": 57992,
@@ -1625,7 +1625,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1308"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1308"
     },
     {
       "id": 57983,
@@ -1639,7 +1639,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1250"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1250"
     },
     {
       "id": 948,
@@ -1655,7 +1655,7 @@ window.companyData = {
       "actress": [
         "希咲彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1199"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1199"
     },
     {
       "id": 909,
@@ -1671,7 +1671,7 @@ window.companyData = {
       "actress": [
         "並木静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1147"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1147"
     },
     {
       "id": 864,
@@ -1687,7 +1687,7 @@ window.companyData = {
       "actress": [
         "櫻木梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1075"
     },
     {
       "id": 838,
@@ -1703,7 +1703,7 @@ window.companyData = {
       "actress": [
         "羽鳥みか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1039"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1039"
     },
     {
       "id": 830,
@@ -1719,7 +1719,7 @@ window.companyData = {
       "actress": [
         "白咲碧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1031"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-1031"
     },
     {
       "id": 760,
@@ -1735,7 +1735,7 @@ window.companyData = {
       "actress": [
         "藤井沙紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0934"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0934"
     },
     {
       "id": 57986,
@@ -1749,7 +1749,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0911"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0911"
     },
     {
       "id": 721,
@@ -1765,7 +1765,7 @@ window.companyData = {
       "actress": [
         "杏堂怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0870"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0870"
     },
     {
       "id": 57995,
@@ -1779,7 +1779,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-5/0db4c4bcb98db3933a738556b0fbe1e2.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0862"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0862"
     },
     {
       "id": 57997,
@@ -1793,7 +1793,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-5/8a46a357df5c9e6dae9d4dbae5e3ecd0.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0866"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0866"
     },
     {
       "id": 671,
@@ -1809,7 +1809,7 @@ window.companyData = {
       "actress": [
         "市川みのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0807"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0807"
     },
     {
       "id": 1483,
@@ -1825,7 +1825,7 @@ window.companyData = {
       "actress": [
         "山梨ゆず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=heyzo-0815"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=heyzo-0815"
     },
     {
       "id": 1487,
@@ -1841,7 +1841,7 @@ window.companyData = {
       "actress": [
         "大高舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=heyzo-0795"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=heyzo-0795"
     },
     {
       "id": 576,
@@ -1857,7 +1857,7 @@ window.companyData = {
       "actress": [
         "沢田ユカリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0690"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0690"
     },
     {
       "id": 560,
@@ -1873,7 +1873,7 @@ window.companyData = {
       "actress": [
         "沢田ユカリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0668"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0668"
     },
     {
       "id": 57987,
@@ -1887,7 +1887,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0674"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0674"
     },
     {
       "id": 529,
@@ -1903,7 +1903,7 @@ window.companyData = {
       "actress": [
         "雨宮ののか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0627"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0627"
     },
     {
       "id": 526,
@@ -1919,7 +1919,7 @@ window.companyData = {
       "actress": [
         "綾瀬唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0624"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0624"
     },
     {
       "id": 509,
@@ -1935,7 +1935,7 @@ window.companyData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0608"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0608"
     },
     {
       "id": 9527,
@@ -1951,7 +1951,7 @@ window.companyData = {
       "actress": [
         "瀧澤麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0603"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0603"
     },
     {
       "id": 444,
@@ -1967,7 +1967,7 @@ window.companyData = {
       "actress": [
         "松すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0528"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0528"
     },
     {
       "id": 410,
@@ -1983,7 +1983,7 @@ window.companyData = {
       "actress": [
         "美波愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0484"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0484"
     },
     {
       "id": 408,
@@ -1999,7 +1999,7 @@ window.companyData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0481"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0481"
     },
     {
       "id": 57981,
@@ -2013,7 +2013,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0463"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0463"
     },
     {
       "id": 57988,
@@ -2027,7 +2027,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0430"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0430"
     },
     {
       "id": 222,
@@ -2043,7 +2043,7 @@ window.companyData = {
       "actress": [
         "今井乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0237"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=HEYZO-0237"
     }
   ]
 };

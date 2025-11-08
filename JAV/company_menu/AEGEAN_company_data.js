@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250730/202507300107176464_66779_thumbnail.webp",
       "background_img": "https://picture.yoshiclub.xyz/compressed/20250730/202507300107176464_66779_s.webp",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-053"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-053"
     },
     {
       "id": 63463,
@@ -34,7 +34,7 @@ window.companyData = {
         "沙優七羽",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-052"
     },
     {
       "id": 63846,
@@ -50,7 +50,7 @@ window.companyData = {
       "actress": [
         "梦野まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-050"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-050"
     },
     {
       "id": 5957,
@@ -66,7 +66,7 @@ window.companyData = {
       "actress": [
         "浜辺栞帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-049"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-049"
     },
     {
       "id": 70124,
@@ -82,7 +82,7 @@ window.companyData = {
       "actress": [
         "清美れの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-047"
     },
     {
       "id": 6577,
@@ -98,7 +98,7 @@ window.companyData = {
       "actress": [
         "前乃菜菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-048"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-048"
     },
     {
       "id": 6575,
@@ -114,7 +114,7 @@ window.companyData = {
       "actress": [
         "伊織雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-046"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-046"
     },
     {
       "id": 71317,
@@ -128,7 +128,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-044"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-044"
     },
     {
       "id": 8893,
@@ -145,7 +145,7 @@ window.companyData = {
         "有賀千里",
         "有贺みなほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-043"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-043"
     },
     {
       "id": 95590,
@@ -161,7 +161,7 @@ window.companyData = {
       "actress": [
         "七堂蓮未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-040"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-040"
     },
     {
       "id": 91683,
@@ -175,7 +175,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-006"
     },
     {
       "id": 91669,
@@ -191,7 +191,7 @@ window.companyData = {
       "actress": [
         "富井美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-026"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=AEGE-026"
     }
   ]
 };

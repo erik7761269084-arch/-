@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "那賀崎雪音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVFLA-009"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVFLA-009"
     },
     {
       "id": 7274,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "静河"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVFLA-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SVFLA-005"
     }
   ]
 };

@@ -17,7 +17,7 @@ window.companyData = {
       "actress": [
         "青葉ねね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XYZA-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=XYZA-002"
     },
     {
       "id": 3326,
@@ -33,7 +33,7 @@ window.companyData = {
       "actress": [
         "牧田ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZKWD-024"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ZKWD-024"
     },
     {
       "id": 5098,
@@ -50,7 +50,7 @@ window.companyData = {
         "菜月光",
         "涼宮るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTLS-002"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=MTLS-002"
     },
     {
       "id": 5096,
@@ -67,7 +67,7 @@ window.companyData = {
         "涼宮るな",
         "伊吹ちな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDZS-005"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDZS-005"
     },
     {
       "id": 68431,
@@ -83,7 +83,7 @@ window.companyData = {
       "actress": [
         "金丸ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZKWD-023"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=ZKWD-023"
     },
     {
       "id": 6747,
@@ -100,7 +100,7 @@ window.companyData = {
         "恵沙也香",
         "永木真知子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RYZR-006"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=RYZR-006"
     },
     {
       "id": 7315,
@@ -116,7 +116,7 @@ window.companyData = {
       "actress": [
         "高城なぎさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RPRJ-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=RPRJ-001"
     },
     {
       "id": 8057,
@@ -132,7 +132,7 @@ window.companyData = {
       "actress": [
         "星宮咲妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAHA-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=JAHA-001"
     },
     {
       "id": 83822,
@@ -148,7 +148,7 @@ window.companyData = {
       "actress": [
         "高坂あいり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RYZR-001"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=RYZR-001"
     }
   ]
 };

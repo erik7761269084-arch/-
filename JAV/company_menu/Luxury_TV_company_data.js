@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/09/01/7dd1ae48e85348fdb94898871c2a7243.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=259LUXU-1200"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=259LUXU-1200"
     },
     {
       "id": 60330,
@@ -29,7 +29,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/09/01/ba4eb5922ed16988b274fee26e7beb5d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=259LUXU-1212"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=259LUXU-1212"
     },
     {
       "id": 60574,
@@ -43,7 +43,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/daca6bcf/vod.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=259LUXU-1202"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=259LUXU-1202"
     },
     {
       "id": 60547,
@@ -57,7 +57,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=259LUXU-1210"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=259LUXU-1210"
     },
     {
       "id": 66051,
@@ -71,7 +71,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=259LUXU-1745"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=259LUXU-1745"
     },
     {
       "id": 92883,
@@ -85,7 +85,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-335"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-335"
     },
     {
       "id": 92866,
@@ -99,7 +99,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-046"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-046"
     },
     {
       "id": 92865,
@@ -113,7 +113,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-047"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-047"
     },
     {
       "id": 92864,
@@ -127,7 +127,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-434"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-434"
     },
     {
       "id": 92862,
@@ -141,7 +141,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-223"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-223"
     },
     {
       "id": 92859,
@@ -155,7 +155,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-033"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-033"
     },
     {
       "id": 92858,
@@ -169,7 +169,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-146"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-146"
     },
     {
       "id": 92854,
@@ -183,7 +183,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/f44efd3a63b99a87e0e089d4dcdc280d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-014"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-014"
     },
     {
       "id": 92850,
@@ -197,7 +197,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/4e89ce3dd6f3bdbc055ea3cdcb281f55.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-376"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-376"
     },
     {
       "id": 92849,
@@ -211,7 +211,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/9b14f63080d023e29af234c1e784c2c8.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-408"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-408"
     },
     {
       "id": 92765,
@@ -225,7 +225,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-451"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-451"
     },
     {
       "id": 92764,
@@ -239,7 +239,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-452"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-452"
     },
     {
       "id": 92758,
@@ -253,7 +253,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/0897a1fac31d89b60a2b3c179d4ea1ca.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-259"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-259"
     },
     {
       "id": 92755,
@@ -267,7 +267,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/15f4bc4ef1cafdf71f74ee40e377fdba.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-283LuxurySoap"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-283LuxurySoap"
     },
     {
       "id": 66658,
@@ -283,7 +283,7 @@ window.companyData = {
       "actress": [
         "香蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1785"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1785"
     },
     {
       "id": 66661,
@@ -297,7 +297,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1784"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1784"
     },
     {
       "id": 66663,
@@ -314,7 +314,7 @@ window.companyData = {
         "白都四季",
         "静葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1786"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1786"
     },
     {
       "id": 66952,
@@ -330,7 +330,7 @@ window.companyData = {
       "actress": [
         "つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1783"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1783"
     },
     {
       "id": 66807,
@@ -346,7 +346,7 @@ window.companyData = {
       "actress": [
         "海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1782"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1782"
     },
     {
       "id": 66653,
@@ -360,7 +360,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1781"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1781"
     },
     {
       "id": 66668,
@@ -376,7 +376,7 @@ window.companyData = {
       "actress": [
         "朝比奈結花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1779"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1779"
     },
     {
       "id": 66954,
@@ -392,7 +392,7 @@ window.companyData = {
       "actress": [
         "佐々木恵梨香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1773"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1773"
     },
     {
       "id": 66655,
@@ -408,7 +408,7 @@ window.companyData = {
       "actress": [
         "小林日菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1766"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1766"
     },
     {
       "id": 66896,
@@ -424,7 +424,7 @@ window.companyData = {
       "actress": [
         "月野りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1762"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1762"
     },
     {
       "id": 66956,
@@ -440,7 +440,7 @@ window.companyData = {
       "actress": [
         "瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1761"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1761"
     },
     {
       "id": 66880,
@@ -456,7 +456,7 @@ window.companyData = {
       "actress": [
         "喜多川あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1760"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1760"
     },
     {
       "id": 66664,
@@ -472,7 +472,7 @@ window.companyData = {
       "actress": [
         "一条恋花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1759"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1759"
     },
     {
       "id": 66897,
@@ -488,7 +488,7 @@ window.companyData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1749"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1749"
     },
     {
       "id": 66898,
@@ -504,7 +504,7 @@ window.companyData = {
       "actress": [
         "璃奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1744"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1744"
     },
     {
       "id": 66623,
@@ -520,7 +520,7 @@ window.companyData = {
       "actress": [
         "宮村友梨佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1739"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1739"
     },
     {
       "id": 66803,
@@ -536,7 +536,7 @@ window.companyData = {
       "actress": [
         "柴崎佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1720"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1720"
     },
     {
       "id": 66660,
@@ -553,7 +553,7 @@ window.companyData = {
         "竹内翼",
         "加賀いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1702"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1702"
     },
     {
       "id": 66934,
@@ -569,7 +569,7 @@ window.companyData = {
       "actress": [
         "彩夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1719"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1719"
     },
     {
       "id": 66628,
@@ -585,7 +585,7 @@ window.companyData = {
       "actress": [
         "由衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1717"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1717"
     },
     {
       "id": 66659,
@@ -601,7 +601,7 @@ window.companyData = {
       "actress": [
         "伊波香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1714"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1714"
     },
     {
       "id": 79463,
@@ -615,7 +615,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/2504f13eab27d5883ca00b38918285d3.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1459"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1459"
     },
     {
       "id": 80718,
@@ -629,7 +629,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1555"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1555"
     },
     {
       "id": 80521,
@@ -643,7 +643,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1540"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1540"
     },
     {
       "id": 81016,
@@ -657,7 +657,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1542"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1542"
     },
     {
       "id": 80261,
@@ -673,7 +673,7 @@ window.companyData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1564"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1564"
     },
     {
       "id": 80944,
@@ -687,7 +687,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1559"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1559"
     },
     {
       "id": 80564,
@@ -701,7 +701,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/14c2f44911dfe7232000902bf592feb1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1554"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1554"
     },
     {
       "id": 80604,
@@ -715,7 +715,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1543"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1543"
     },
     {
       "id": 80460,
@@ -729,7 +729,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1503"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1503"
     },
     {
       "id": 80543,
@@ -743,7 +743,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/43b459a55f7625b99ef8d180c2e71542.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1508"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1508"
     },
     {
       "id": 80327,
@@ -759,7 +759,7 @@ window.companyData = {
       "actress": [
         "衣吹花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1502"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1502"
     },
     {
       "id": 80243,
@@ -775,7 +775,7 @@ window.companyData = {
       "actress": [
         "丽奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1513"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1513"
     },
     {
       "id": 80542,
@@ -791,7 +791,7 @@ window.companyData = {
       "actress": [
         "露梨あやせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1498"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1498"
     },
     {
       "id": 80147,
@@ -805,7 +805,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1489"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1489"
     },
     {
       "id": 80102,
@@ -821,7 +821,7 @@ window.companyData = {
       "actress": [
         "東條夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1514"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1514"
     },
     {
       "id": 79910,
@@ -838,7 +838,7 @@ window.companyData = {
         "姫咲華",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1497"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1497"
     },
     {
       "id": 79802,
@@ -854,7 +854,7 @@ window.companyData = {
       "actress": [
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1481"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1481"
     },
     {
       "id": 79612,
@@ -870,7 +870,7 @@ window.companyData = {
       "actress": [
         "小嶋由里子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1483"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1483"
     },
     {
       "id": 79355,
@@ -884,7 +884,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1482"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1482"
     },
     {
       "id": 79421,
@@ -898,7 +898,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1466"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1466"
     },
     {
       "id": 79815,
@@ -912,7 +912,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1475"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1475"
     },
     {
       "id": 79452,
@@ -926,7 +926,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1468"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1468"
     },
     {
       "id": 79213,
@@ -940,7 +940,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1427"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1427"
     },
     {
       "id": 78629,
@@ -957,7 +957,7 @@ window.companyData = {
         "森林原人",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1422"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1422"
     },
     {
       "id": 101599,
@@ -973,7 +973,7 @@ window.companyData = {
       "actress": [
         "松冈京香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1357"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1357"
     },
     {
       "id": 101596,
@@ -990,7 +990,7 @@ window.companyData = {
         "大岛丈",
         "咲乃にいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1353"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1353"
     },
     {
       "id": 101595,
@@ -1007,7 +1007,7 @@ window.companyData = {
         "イセドン内村",
         "志恩まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1345"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1345"
     },
     {
       "id": 101598,
@@ -1023,7 +1023,7 @@ window.companyData = {
       "actress": [
         "弘崎ゆみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1346"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1346"
     },
     {
       "id": 105860,
@@ -1040,7 +1040,7 @@ window.companyData = {
         "織田真子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1331"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1331"
     },
     {
       "id": 101597,
@@ -1057,7 +1057,7 @@ window.companyData = {
         "森林原人",
         "三花しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1342"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1342"
     },
     {
       "id": 89528,
@@ -1073,7 +1073,7 @@ window.companyData = {
       "actress": [
         "朝阳えま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1337"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1337"
     },
     {
       "id": 89529,
@@ -1090,7 +1090,7 @@ window.companyData = {
         "奥井楓",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1335"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1335"
     },
     {
       "id": 66621,
@@ -1106,7 +1106,7 @@ window.companyData = {
       "actress": [
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1326"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1326"
     },
     {
       "id": 67260,
@@ -1120,7 +1120,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1328"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1328"
     },
     {
       "id": 67432,
@@ -1136,7 +1136,7 @@ window.companyData = {
       "actress": [
         "ひなちゆん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1273"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1273"
     },
     {
       "id": 89500,
@@ -1152,7 +1152,7 @@ window.companyData = {
       "actress": [
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1267"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1267"
     },
     {
       "id": 86971,
@@ -1168,7 +1168,7 @@ window.companyData = {
       "actress": [
         "うららか丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1261"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1261"
     },
     {
       "id": 89508,
@@ -1184,7 +1184,7 @@ window.companyData = {
       "actress": [
         "木下日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1276"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1276"
     },
     {
       "id": 67048,
@@ -1200,7 +1200,7 @@ window.companyData = {
       "actress": [
         "藤森里穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1277"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1277"
     },
     {
       "id": 89509,
@@ -1217,7 +1217,7 @@ window.companyData = {
         "しみけん",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1275"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1275"
     },
     {
       "id": 89499,
@@ -1233,7 +1233,7 @@ window.companyData = {
       "actress": [
         "葵玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1272"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1272"
     },
     {
       "id": 89507,
@@ -1250,7 +1250,7 @@ window.companyData = {
         "原花音",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1274"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1274"
     },
     {
       "id": 89502,
@@ -1267,7 +1267,7 @@ window.companyData = {
         "逢澤理衣奈",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1268"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1268"
     },
     {
       "id": 89494,
@@ -1283,7 +1283,7 @@ window.companyData = {
       "actress": [
         "叶月りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1248"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1248"
     },
     {
       "id": 89498,
@@ -1300,7 +1300,7 @@ window.companyData = {
         "大岛丈",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1266"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1266"
     },
     {
       "id": 89501,
@@ -1314,7 +1314,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1265"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1265"
     },
     {
       "id": 89497,
@@ -1328,7 +1328,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1254"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1254"
     },
     {
       "id": 81403,
@@ -1345,7 +1345,7 @@ window.companyData = {
         "市川润",
         "高坂亜由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1264"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1264"
     },
     {
       "id": 81405,
@@ -1362,7 +1362,7 @@ window.companyData = {
         "玉木玲",
         "桜庭みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1230"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1230"
     },
     {
       "id": 81407,
@@ -1378,7 +1378,7 @@ window.companyData = {
       "actress": [
         "远野ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1262"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1262"
     },
     {
       "id": 81408,
@@ -1394,7 +1394,7 @@ window.companyData = {
       "actress": [
         "月乃滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1241"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1241"
     },
     {
       "id": 81402,
@@ -1411,7 +1411,7 @@ window.companyData = {
         "玉木玲",
         "森本つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1260"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1260"
     },
     {
       "id": 81400,
@@ -1425,7 +1425,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1244"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1244"
     },
     {
       "id": 89496,
@@ -1442,7 +1442,7 @@ window.companyData = {
         "丹羽すみれ",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1259"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1259"
     },
     {
       "id": 89495,
@@ -1456,7 +1456,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231223-1/8cefafac811516a1ccf6eb47bca01b78.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1257"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1257"
     },
     {
       "id": 66912,
@@ -1472,7 +1472,7 @@ window.companyData = {
       "actress": [
         "有原りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1247"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1247"
     },
     {
       "id": 82949,
@@ -1488,7 +1488,7 @@ window.companyData = {
       "actress": [
         "小椋绫乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1256"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1256"
     },
     {
       "id": 83409,
@@ -1505,7 +1505,7 @@ window.companyData = {
         "鲛岛",
         "大原结莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1255"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1255"
     },
     {
       "id": 82950,
@@ -1521,7 +1521,7 @@ window.companyData = {
       "actress": [
         "成宫ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1249"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1249"
     },
     {
       "id": 82957,
@@ -1537,7 +1537,7 @@ window.companyData = {
       "actress": [
         "栗山絵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1240"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1240"
     },
     {
       "id": 83419,
@@ -1554,7 +1554,7 @@ window.companyData = {
         "森林原人",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1246"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1246"
     },
     {
       "id": 82952,
@@ -1570,7 +1570,7 @@ window.companyData = {
       "actress": [
         "美仓あやみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1243"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1243"
     },
     {
       "id": 83397,
@@ -1586,7 +1586,7 @@ window.companyData = {
       "actress": [
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1239"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1239"
     },
     {
       "id": 82947,
@@ -1600,7 +1600,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1238"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1238"
     },
     {
       "id": 66772,
@@ -1616,7 +1616,7 @@ window.companyData = {
       "actress": [
         "心音にこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1242"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1242"
     },
     {
       "id": 83402,
@@ -1632,7 +1632,7 @@ window.companyData = {
       "actress": [
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1237"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1237"
     },
     {
       "id": 82955,
@@ -1648,7 +1648,7 @@ window.companyData = {
       "actress": [
         "桜田みつ叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1232"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1232"
     },
     {
       "id": 83418,
@@ -1664,7 +1664,7 @@ window.companyData = {
       "actress": [
         "折坂麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1235"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1235"
     },
     {
       "id": 83422,
@@ -1680,7 +1680,7 @@ window.companyData = {
       "actress": [
         "胡桃圓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1233"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1233"
     },
     {
       "id": 104484,
@@ -1697,7 +1697,7 @@ window.companyData = {
         "星仲ここみ",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1227"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1227"
     },
     {
       "id": 83058,
@@ -1711,7 +1711,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221216-1/b078f3a0708e3b0103c8310c1a852a17.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1225"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1225"
     },
     {
       "id": 83421,
@@ -1727,7 +1727,7 @@ window.companyData = {
       "actress": [
         "河北春菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1223"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1223"
     },
     {
       "id": 83403,
@@ -1741,7 +1741,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1217"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1217"
     },
     {
       "id": 83396,
@@ -1757,7 +1757,7 @@ window.companyData = {
       "actress": [
         "瀬戸ののは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1220"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1220"
     },
     {
       "id": 105800,
@@ -1773,7 +1773,7 @@ window.companyData = {
       "actress": [
         "如月夏希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1221"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1221"
     },
     {
       "id": 82958,
@@ -1789,7 +1789,7 @@ window.companyData = {
       "actress": [
         "仓吉美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1214"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1214"
     },
     {
       "id": 83413,
@@ -1805,7 +1805,7 @@ window.companyData = {
       "actress": [
         "小森美久露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1218"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1218"
     },
     {
       "id": 82951,
@@ -1821,7 +1821,7 @@ window.companyData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1216"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1216"
     },
     {
       "id": 82953,
@@ -1835,7 +1835,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1209"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1209"
     },
     {
       "id": 82948,
@@ -1851,7 +1851,7 @@ window.companyData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1198"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1198"
     },
     {
       "id": 82954,
@@ -1867,7 +1867,7 @@ window.companyData = {
       "actress": [
         "冈部真代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1207"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1207"
     },
     {
       "id": 83412,
@@ -1881,7 +1881,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1206"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1206"
     },
     {
       "id": 83054,
@@ -1897,7 +1897,7 @@ window.companyData = {
       "actress": [
         "永野司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1212"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1212"
     },
     {
       "id": 83410,
@@ -1913,7 +1913,7 @@ window.companyData = {
       "actress": [
         "伊吹彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1205"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1205"
     },
     {
       "id": 83053,
@@ -1929,7 +1929,7 @@ window.companyData = {
       "actress": [
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1200"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1200"
     },
     {
       "id": 83414,
@@ -1945,7 +1945,7 @@ window.companyData = {
       "actress": [
         "藤森里穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1210"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1210"
     },
     {
       "id": 87980,
@@ -1961,7 +1961,7 @@ window.companyData = {
       "actress": [
         "藤白桃羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1202"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1202"
     },
     {
       "id": 101401,
@@ -1975,7 +1975,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1199"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1199"
     },
     {
       "id": 97441,
@@ -1991,7 +1991,7 @@ window.companyData = {
       "actress": [
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1191"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1191"
     },
     {
       "id": 87985,
@@ -2005,7 +2005,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/a0255077995f1e844f879f540aa2b8b7.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1190"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1190"
     },
     {
       "id": 74714,
@@ -2021,7 +2021,7 @@ window.companyData = {
       "actress": [
         "高槻れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1148"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1148"
     },
     {
       "id": 74713,
@@ -2037,7 +2037,7 @@ window.companyData = {
       "actress": [
         "向井藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1139"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1139"
     },
     {
       "id": 74612,
@@ -2053,7 +2053,7 @@ window.companyData = {
       "actress": [
         "成宫つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1120"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1120"
     },
     {
       "id": 74716,
@@ -2069,7 +2069,7 @@ window.companyData = {
       "actress": [
         "朝仓桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1144"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1144"
     },
     {
       "id": 74724,
@@ -2083,7 +2083,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1125"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1125"
     },
     {
       "id": 74602,
@@ -2099,7 +2099,7 @@ window.companyData = {
       "actress": [
         "茜えりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1116"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1116"
     },
     {
       "id": 74730,
@@ -2115,7 +2115,7 @@ window.companyData = {
       "actress": [
         "三田杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1138"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1138"
     },
     {
       "id": 74720,
@@ -2129,7 +2129,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1127"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1127"
     },
     {
       "id": 74721,
@@ -2143,7 +2143,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1136"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1136"
     },
     {
       "id": 74719,
@@ -2159,7 +2159,7 @@ window.companyData = {
       "actress": [
         "天音りおん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1134"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1134"
     },
     {
       "id": 74722,
@@ -2175,7 +2175,7 @@ window.companyData = {
       "actress": [
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1133"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1133"
     },
     {
       "id": 74717,
@@ -2192,7 +2192,7 @@ window.companyData = {
         "大岛丈",
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1132"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1132"
     },
     {
       "id": 73397,
@@ -2209,7 +2209,7 @@ window.companyData = {
         "有坂深雪",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1141"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1141"
     },
     {
       "id": 74725,
@@ -2226,7 +2226,7 @@ window.companyData = {
         "小田切ジュン",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1142"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1142"
     },
     {
       "id": 74718,
@@ -2242,7 +2242,7 @@ window.companyData = {
       "actress": [
         "桐谷奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1128"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1128"
     },
     {
       "id": 18711,
@@ -2258,7 +2258,7 @@ window.companyData = {
       "actress": [
         "伊吹彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1130"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1130"
     },
     {
       "id": 74728,
@@ -2272,7 +2272,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1129"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1129"
     },
     {
       "id": 74727,
@@ -2288,7 +2288,7 @@ window.companyData = {
       "actress": [
         "高梨ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1131"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1131"
     },
     {
       "id": 74621,
@@ -2304,7 +2304,7 @@ window.companyData = {
       "actress": [
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1119"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1119"
     },
     {
       "id": 74715,
@@ -2321,7 +2321,7 @@ window.companyData = {
         "小田切ジュン",
         "松岛渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1122"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1122"
     },
     {
       "id": 74723,
@@ -2338,7 +2338,7 @@ window.companyData = {
         "岬梓沙",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1126"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1126"
     },
     {
       "id": 74606,
@@ -2354,7 +2354,7 @@ window.companyData = {
       "actress": [
         "藤白桃羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1118"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1118"
     },
     {
       "id": 74619,
@@ -2370,7 +2370,7 @@ window.companyData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1117"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1117"
     },
     {
       "id": 74611,
@@ -2387,7 +2387,7 @@ window.companyData = {
         "大岛丈",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1115"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1115"
     },
     {
       "id": 74614,
@@ -2401,7 +2401,7 @@ window.companyData = {
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250110-1/87d9342b992e25d09609706352aadd54.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1114"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1114"
     },
     {
       "id": 74210,
@@ -2417,7 +2417,7 @@ window.companyData = {
       "actress": [
         "高野姫奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1050"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1050"
     },
     {
       "id": 74601,
@@ -2433,7 +2433,7 @@ window.companyData = {
       "actress": [
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1098"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1098"
     },
     {
       "id": 74608,
@@ -2449,7 +2449,7 @@ window.companyData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1089"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1089"
     },
     {
       "id": 74605,
@@ -2466,7 +2466,7 @@ window.companyData = {
         "杏树",
         "富永舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1097"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1097"
     },
     {
       "id": 74617,
@@ -2482,7 +2482,7 @@ window.companyData = {
       "actress": [
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1087"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1087"
     },
     {
       "id": 74610,
@@ -2498,7 +2498,7 @@ window.companyData = {
       "actress": [
         "水谷あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1096"
     },
     {
       "id": 74613,
@@ -2514,7 +2514,7 @@ window.companyData = {
       "actress": [
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1095"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1095"
     },
     {
       "id": 74620,
@@ -2528,7 +2528,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1094"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1094"
     },
     {
       "id": 74622,
@@ -2542,7 +2542,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1093"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1093"
     },
     {
       "id": 82705,
@@ -2558,7 +2558,7 @@ window.companyData = {
       "actress": [
         "咲々原リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1081"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1081"
     },
     {
       "id": 74615,
@@ -2574,7 +2574,7 @@ window.companyData = {
       "actress": [
         "园山美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1091"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1091"
     },
     {
       "id": 74604,
@@ -2588,7 +2588,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1090"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1090"
     },
     {
       "id": 74618,
@@ -2604,7 +2604,7 @@ window.companyData = {
       "actress": [
         "铃木みか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1088"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1088"
     },
     {
       "id": 74607,
@@ -2621,7 +2621,7 @@ window.companyData = {
         "富田优衣",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1086"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1086"
     },
     {
       "id": 74239,
@@ -2637,7 +2637,7 @@ window.companyData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1073"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1073"
     },
     {
       "id": 74616,
@@ -2653,7 +2653,7 @@ window.companyData = {
       "actress": [
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1085"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1085"
     },
     {
       "id": 74240,
@@ -2669,7 +2669,7 @@ window.companyData = {
       "actress": [
         "あゆみ莉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1076"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1076"
     },
     {
       "id": 74208,
@@ -2685,7 +2685,7 @@ window.companyData = {
       "actress": [
         "南真悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1083"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1083"
     },
     {
       "id": 74603,
@@ -2701,7 +2701,7 @@ window.companyData = {
       "actress": [
         "吉泽ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1084"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1084"
     },
     {
       "id": 74440,
@@ -2717,7 +2717,7 @@ window.companyData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1061"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1061"
     },
     {
       "id": 74357,
@@ -2733,7 +2733,7 @@ window.companyData = {
       "actress": [
         "あかね葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1082"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1082"
     },
     {
       "id": 74360,
@@ -2749,7 +2749,7 @@ window.companyData = {
       "actress": [
         "咲々原リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1080"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1080"
     },
     {
       "id": 74070,
@@ -2765,7 +2765,7 @@ window.companyData = {
       "actress": [
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1079"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1079"
     },
     {
       "id": 74071,
@@ -2781,7 +2781,7 @@ window.companyData = {
       "actress": [
         "阿由葉あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1078"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1078"
     },
     {
       "id": 74155,
@@ -2797,7 +2797,7 @@ window.companyData = {
       "actress": [
         "七瀬もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1077"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1077"
     },
     {
       "id": 74241,
@@ -2813,7 +2813,7 @@ window.companyData = {
       "actress": [
         "加藤桃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1062"
     },
     {
       "id": 74439,
@@ -2829,7 +2829,7 @@ window.companyData = {
       "actress": [
         "凛音とうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1041"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1041"
     },
     {
       "id": 73977,
@@ -2846,7 +2846,7 @@ window.companyData = {
         "森林原人",
         "柚木めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1049"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1049"
     },
     {
       "id": 74228,
@@ -2862,7 +2862,7 @@ window.companyData = {
       "actress": [
         "桐谷奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1074"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1074"
     },
     {
       "id": 73978,
@@ -2878,7 +2878,7 @@ window.companyData = {
       "actress": [
         "大沢カスミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1058"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1058"
     },
     {
       "id": 73979,
@@ -2894,7 +2894,7 @@ window.companyData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1060"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1060"
     },
     {
       "id": 74142,
@@ -2908,7 +2908,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1075"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1075"
     },
     {
       "id": 73925,
@@ -2924,7 +2924,7 @@ window.companyData = {
       "actress": [
         "あゆみ莉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1052"
     },
     {
       "id": 74144,
@@ -2938,7 +2938,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1068"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1068"
     },
     {
       "id": 74143,
@@ -2954,7 +2954,7 @@ window.companyData = {
       "actress": [
         "水谷あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1069"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1069"
     },
     {
       "id": 74394,
@@ -2970,7 +2970,7 @@ window.companyData = {
       "actress": [
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1065"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1065"
     },
     {
       "id": 73111,
@@ -2986,7 +2986,7 @@ window.companyData = {
       "actress": [
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-933"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-933"
     },
     {
       "id": 88057,
@@ -3000,7 +3000,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-910"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-910"
     },
     {
       "id": 73061,
@@ -3016,7 +3016,7 @@ window.companyData = {
       "actress": [
         "百合川紗羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-842"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-842"
     },
     {
       "id": 73273,
@@ -3032,7 +3032,7 @@ window.companyData = {
       "actress": [
         "星井笑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-837"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-837"
     },
     {
       "id": 92853,
@@ -3048,7 +3048,7 @@ window.companyData = {
       "actress": [
         "豊田じゅんな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-110"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-110"
     },
     {
       "id": 92860,
@@ -3066,7 +3066,7 @@ window.companyData = {
         "安斎芳香",
         "野原もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-096"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-096"
     },
     {
       "id": 92863,
@@ -3085,7 +3085,7 @@ window.companyData = {
         "増尾彩",
         "田辺香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-069"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-069"
     },
     {
       "id": 92753,
@@ -3104,7 +3104,7 @@ window.companyData = {
         "山口智美",
         "藤井さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-057"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SDSS-057"
     },
     {
       "id": 79184,
@@ -3120,7 +3120,7 @@ window.companyData = {
       "actress": [
         "沙织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1444"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1444"
     },
     {
       "id": 79166,
@@ -3136,7 +3136,7 @@ window.companyData = {
       "actress": [
         "美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1484"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=LUXU-1484"
     },
     {
       "id": 59892,
@@ -3150,7 +3150,7 @@ window.companyData = {
       "cover_url": "https://upload.xchina.io/default/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=259LUXU-1206"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=259LUXU-1206"
     },
     {
       "id": 59685,
@@ -3164,7 +3164,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/10/04/6b7ff4a2a8d95d22cedc3788e2f4e4af.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=259LUXU-1854"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=259LUXU-1854"
     }
   ]
 };

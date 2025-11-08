@@ -20,7 +20,7 @@ window.companyData = {
         "宇佐美すい",
         "安藤春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAMX-012"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=DAMX-012"
     }
   ]
 };
