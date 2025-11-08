@@ -134,7 +134,7 @@ let actresses = [], actressPage = 1, actressPageSize = 18;
 
 async function loadActresses() {
   try {
-    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/JAV_actress_menu_all.json");
+    const res = await fetch("https://yunvgong.com/JAV/category/actress_menu_all.json");
     const data = await res.json();
     actresses = data.filter(a => a.img_url && a.img_url.trim() !== "");
     renderActresses();
