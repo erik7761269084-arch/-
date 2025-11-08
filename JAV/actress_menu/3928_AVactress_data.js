@@ -33,7 +33,7 @@ window.actressData = {
         "石原青",
         "スケザネヘイタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-821"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-821"
     },
     {
       "id": 8841,
@@ -50,7 +50,7 @@ window.actressData = {
         "鈴之家鈴",
         "スケザネヘイタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-642"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-642"
     },
     {
       "id": 9453,
@@ -68,7 +68,7 @@ window.actressData = {
         "春菜华",
         "スケザネヘイタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-006"
     },
     {
       "id": 86338,
@@ -85,7 +85,7 @@ window.actressData = {
         "あまねまひな",
         "スケザネヘイタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-467"
     }
   ]
 };

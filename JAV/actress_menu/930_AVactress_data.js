@@ -50,7 +50,7 @@ window.actressData = {
         "天海一華",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-109"
     },
     {
       "id": 6719,
@@ -71,7 +71,7 @@ window.actressData = {
         "天海一華",
         "児玉れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
     },
     {
       "id": 8340,
@@ -103,7 +103,7 @@ window.actressData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     }
   ]
 };

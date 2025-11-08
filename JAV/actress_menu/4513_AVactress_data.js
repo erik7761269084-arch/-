@@ -36,7 +36,7 @@ window.actressData = {
         "东希美",
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-136"
     },
     {
       "id": 86250,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-381"
     },
     {
       "id": 78677,
@@ -72,7 +72,7 @@ window.actressData = {
         "高坂あいり",
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-999"
     },
     {
       "id": 83357,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-035"
     },
     {
       "id": 75169,
@@ -108,7 +108,7 @@ window.actressData = {
         "タツ",
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-033"
     },
     {
       "id": 75701,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-027"
     },
     {
       "id": 78231,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-024"
     }
   ]
 };

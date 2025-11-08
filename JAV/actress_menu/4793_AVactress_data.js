@@ -33,7 +33,7 @@ window.actressData = {
         "玉木玲",
         "蓝泽润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-228"
     },
     {
       "id": 95106,
@@ -50,7 +50,7 @@ window.actressData = {
         "しみけん",
         "蓝泽润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-208"
     }
   ]
 };

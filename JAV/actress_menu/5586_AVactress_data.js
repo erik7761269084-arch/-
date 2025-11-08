@@ -36,7 +36,7 @@ window.actressData = {
         "篠宫千明",
         "中山早纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-219"
     },
     {
       "id": 102300,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "中山早纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TYOD-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYOD-262"
     }
   ]
 };

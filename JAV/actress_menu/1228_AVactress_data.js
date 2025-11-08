@@ -55,7 +55,7 @@ window.actressData = {
         "夏树カオル",
         "塩见彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-521"
     },
     {
       "id": 93399,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "丹羽すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-910"
     },
     {
       "id": 14428,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "丹羽すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMER-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-038"
     },
     {
       "id": 91395,
@@ -108,7 +108,7 @@ window.actressData = {
         "莲美柚香",
         "爱実ありあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-298"
     },
     {
       "id": 79458,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "丹羽すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-726"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-726"
     },
     {
       "id": 79382,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "丹羽すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-335"
     },
     {
       "id": 89496,
@@ -157,7 +157,7 @@ window.actressData = {
         "丹羽すみれ",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1259"
     }
   ]
 };

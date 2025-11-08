@@ -50,7 +50,7 @@ window.actressData = {
         "雨宫いぶき",
         "高岛理恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRLE-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-053"
     },
     {
       "id": 82149,
@@ -71,7 +71,7 @@ window.actressData = {
         "后藤里香",
         "佐々木恋海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-298"
     },
     {
       "id": 83075,
@@ -90,7 +90,7 @@ window.actressData = {
         "篠原ちとせ",
         "歩川みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CRYNM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRYNM-003"
     },
     {
       "id": 75432,
@@ -107,7 +107,7 @@ window.actressData = {
         "后藤里香",
         "瀬乃ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRU-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-075"
     },
     {
       "id": 75586,
@@ -128,7 +128,7 @@ window.actressData = {
         "月宫ねね",
         "満岛みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-702"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-702"
     },
     {
       "id": 83888,
@@ -146,7 +146,7 @@ window.actressData = {
         "稻场流花",
         "后藤里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-716"
     },
     {
       "id": 82391,
@@ -165,7 +165,7 @@ window.actressData = {
         "桜庭ひかり",
         "后藤里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-597"
     },
     {
       "id": 71133,
@@ -186,7 +186,7 @@ window.actressData = {
         "新垣ことり",
         "今井まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-652"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-652"
     },
     {
       "id": 82893,
@@ -206,7 +206,7 @@ window.actressData = {
         "海空花",
         "后藤里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-239"
     },
     {
       "id": 77883,
@@ -227,7 +227,7 @@ window.actressData = {
         "瀬乃ひなた",
         "仓科もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRU-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-048"
     },
     {
       "id": 73920,
@@ -244,7 +244,7 @@ window.actressData = {
         "后藤里香",
         "高野しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKI-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKI-102"
     },
     {
       "id": 70294,
@@ -264,7 +264,7 @@ window.actressData = {
         "梦咲ひなみ",
         "后藤里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-024"
     },
     {
       "id": 72082,
@@ -281,7 +281,7 @@ window.actressData = {
         "后藤里香",
         "増田ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKS-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-100"
     },
     {
       "id": 74975,
@@ -300,7 +300,7 @@ window.actressData = {
         "北川りこ",
         "后藤里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-654"
     },
     {
       "id": 71726,
@@ -319,7 +319,7 @@ window.actressData = {
         "后藤里香",
         "白桃心奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-149"
     },
     {
       "id": 71626,
@@ -338,7 +338,7 @@ window.actressData = {
         "后藤里香",
         "小岛ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GCF-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GCF-009"
     },
     {
       "id": 71168,
@@ -358,7 +358,7 @@ window.actressData = {
         "后藤里香",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-574"
     },
     {
       "id": 88116,
@@ -382,7 +382,7 @@ window.actressData = {
         "后藤里香",
         "加藤みゆ纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-224"
     },
     {
       "id": 88482,
@@ -401,7 +401,7 @@ window.actressData = {
         "后藤里香",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-163"
     }
   ]
 };

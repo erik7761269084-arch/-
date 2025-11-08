@@ -56,7 +56,7 @@ window.actressData = {
         "桂木春香",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-397"
     },
     {
       "id": 8198,
@@ -76,7 +76,7 @@ window.actressData = {
         "水瀬美弥",
         "市川七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-204"
     },
     {
       "id": 71382,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "桂木春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-273"
     },
     {
       "id": 9838,
@@ -109,7 +109,7 @@ window.actressData = {
         "桂木春香",
         "堤芹奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIBB-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIBB-049"
     },
     {
       "id": 93217,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "桂木春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSAJ-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-013"
     },
     {
       "id": 93666,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "桂木春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-073"
     },
     {
       "id": 106495,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "桂木春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-231"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "大友いずみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-105"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URE-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-095"
     },
     {
       "id": 90117,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-075"
     },
     {
       "id": 88545,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-143"
     },
     {
       "id": 100541,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-264"
     },
     {
       "id": 92974,
@@ -97,7 +97,7 @@ window.actressData = {
         "栗原良",
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-653"
     },
     {
       "id": 68797,
@@ -114,7 +114,7 @@ window.actressData = {
         "夏川步美",
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-128"
     },
     {
       "id": 68049,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-453"
     },
     {
       "id": 67555,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-276"
     },
     {
       "id": 67676,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-064"
     }
   ]
 };

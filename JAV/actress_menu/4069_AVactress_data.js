@@ -39,7 +39,7 @@ window.actressData = {
         "鲛岛",
         "逢坂优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSI-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSI-055"
     },
     {
       "id": 77169,
@@ -56,7 +56,7 @@ window.actressData = {
         "逢坂优",
         "星美りか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILD-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILD-932"
     }
   ]
 };

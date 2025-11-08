@@ -40,7 +40,7 @@ window.actressData = {
         "八束みこと",
         "星野ひびき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-591"
     },
     {
       "id": 88938,
@@ -64,7 +64,7 @@ window.actressData = {
         "叶月美音",
         "九条さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-522"
     },
     {
       "id": 90953,
@@ -81,7 +81,7 @@ window.actressData = {
         "姫咲華",
         "叶月美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-077"
     },
     {
       "id": 80647,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "叶月美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ECB-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-151"
     },
     {
       "id": 85830,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "叶月美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-045"
     },
     {
       "id": 84390,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "叶月美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ECB-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-148"
     },
     {
       "id": 88520,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "叶月美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-543"
     },
     {
       "id": 88255,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "叶月美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-439"
     },
     {
       "id": 83499,
@@ -181,7 +181,7 @@ window.actressData = {
         "叶月美音",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDT-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDT-629"
     },
     {
       "id": 76252,
@@ -200,7 +200,7 @@ window.actressData = {
         "久远れいら",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GZAP-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GZAP-009"
     },
     {
       "id": 83565,
@@ -221,7 +221,7 @@ window.actressData = {
         "桜乃ゆいな",
         "水泽りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-195"
     },
     {
       "id": 81815,
@@ -244,7 +244,7 @@ window.actressData = {
         "叶月美音",
         "新月さなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMBS-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMBS-007"
     },
     {
       "id": 76187,
@@ -263,7 +263,7 @@ window.actressData = {
         "久远れいら",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GGEN-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-003"
     },
     {
       "id": 73548,
@@ -279,7 +279,7 @@ window.actressData = {
       "actress": [
         "叶月美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-244"
     }
   ]
 };

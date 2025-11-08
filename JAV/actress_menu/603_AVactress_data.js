@@ -57,7 +57,7 @@ window.actressData = {
         "マサムー",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
     },
     {
       "id": 3045,
@@ -78,7 +78,7 @@ window.actressData = {
         "神坂朋子",
         "神村彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-282"
     },
     {
       "id": 4891,
@@ -103,7 +103,7 @@ window.actressData = {
         "夏巳百合香",
         "橋本理佐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-825"
     },
     {
       "id": 6697,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "神村彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-374"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-374"
     },
     {
       "id": 7125,
@@ -144,7 +144,7 @@ window.actressData = {
         "夏巳百合香",
         "橋本理佐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-808"
     },
     {
       "id": 70463,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "神村彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GUPP-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GUPP-029"
     },
     {
       "id": 69695,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "神村彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-270"
     }
   ]
 };

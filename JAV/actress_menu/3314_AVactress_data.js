@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "柊かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-731"
     },
     {
       "id": 63174,
@@ -49,7 +49,7 @@ window.actressData = {
         "タイ",
         "柊かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-693"
     },
     {
       "id": 63793,
@@ -66,7 +66,7 @@ window.actressData = {
         "伊崎悠人",
         "柊かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-656"
     },
     {
       "id": 69561,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "柊かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-620"
     },
     {
       "id": 72859,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "柊かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-588"
     },
     {
       "id": 78586,
@@ -116,7 +116,7 @@ window.actressData = {
         "柊かな",
         "ハドイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-547"
     }
   ]
 };

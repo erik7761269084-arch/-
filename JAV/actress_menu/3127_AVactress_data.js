@@ -33,7 +33,7 @@ window.actressData = {
         "羽田真子",
         "梶原聡子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WCX-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WCX-011"
     },
     {
       "id": 59884,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "梶原聡子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WCX-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WCX-012"
     }
   ]
 };

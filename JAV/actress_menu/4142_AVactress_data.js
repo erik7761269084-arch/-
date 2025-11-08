@@ -45,7 +45,7 @@ window.actressData = {
         "田渊正浩",
         "蒂亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-349"
     },
     {
       "id": 77886,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "蒂亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-905"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-905"
     },
     {
       "id": 82468,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "蒂亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-458"
     },
     {
       "id": 71348,
@@ -95,7 +95,7 @@ window.actressData = {
         "玉木玲",
         "蒂亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-405"
     },
     {
       "id": 73440,
@@ -113,7 +113,7 @@ window.actressData = {
         "玉木玲",
         "蒂亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-383"
     },
     {
       "id": 106760,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "蒂亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-156"
     },
     {
       "id": 104369,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "蒂亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-057"
     },
     {
       "id": 104401,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "蒂亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-951"
     }
   ]
 };

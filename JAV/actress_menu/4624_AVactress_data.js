@@ -34,7 +34,7 @@ window.actressData = {
         "しみけん",
         "松井悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-753"
     },
     {
       "id": 77003,
@@ -51,7 +51,7 @@ window.actressData = {
         "鲛岛",
         "松井悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-091"
     }
   ]
 };

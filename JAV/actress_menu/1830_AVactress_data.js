@@ -56,7 +56,7 @@ window.actressData = {
         "乃木蛍",
         "夏目藍果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-126"
     },
     {
       "id": 5742,
@@ -76,7 +76,7 @@ window.actressData = {
         "響乃詩",
         "夏目藍果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-117"
     }
   ]
 };

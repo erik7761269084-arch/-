@@ -51,7 +51,7 @@ window.actressData = {
         "倖田李梨",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-504"
     },
     {
       "id": 9342,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "倖田李梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-640"
     },
     {
       "id": 93973,
@@ -85,7 +85,7 @@ window.actressData = {
         "成宫いろは",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-608"
     },
     {
       "id": 88521,
@@ -102,7 +102,7 @@ window.actressData = {
         "倖田李梨",
         "菊川麻里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCT-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-203"
     }
   ]
 };

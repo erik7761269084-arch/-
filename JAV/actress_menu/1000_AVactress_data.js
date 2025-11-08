@@ -87,7 +87,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 101159,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRPA-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRPA-001"
     },
     {
       "id": 17296,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-277"
     },
     {
       "id": 106389,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-164"
     },
     {
       "id": 66897,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1749"
     },
     {
       "id": 66800,
@@ -168,7 +168,7 @@ window.actressData = {
         "並木愛奈",
         "あいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2948"
     },
     {
       "id": 90974,
@@ -185,7 +185,7 @@ window.actressData = {
         "並木愛奈",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-422"
     },
     {
       "id": 91629,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-360"
     },
     {
       "id": 106341,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-193"
     },
     {
       "id": 106966,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-192"
     },
     {
       "id": 107041,
@@ -249,7 +249,7 @@ window.actressData = {
       "actress": [
         "並木愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-188"
     }
   ]
 };

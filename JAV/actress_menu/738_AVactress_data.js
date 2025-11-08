@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "水菜麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-45"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-45"
     },
     {
       "id": 1844,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "水菜麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-82"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-82"
     },
     {
       "id": 1864,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "水菜麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-73"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-73"
     }
   ]
 };

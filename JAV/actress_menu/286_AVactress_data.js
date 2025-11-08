@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "入田真綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-432"
     },
     {
       "id": 3112,
@@ -83,7 +83,7 @@ window.actressData = {
         "入田真綾",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-426"
     },
     {
       "id": 4198,
@@ -100,7 +100,7 @@ window.actressData = {
         "入田真綾",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-420"
     },
     {
       "id": 4927,
@@ -117,7 +117,7 @@ window.actressData = {
         "入田真綾",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-413"
     },
     {
       "id": 6086,
@@ -134,7 +134,7 @@ window.actressData = {
         "入田真綾",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-407"
     },
     {
       "id": 6718,
@@ -152,7 +152,7 @@ window.actressData = {
         "鲛岛",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-400"
     },
     {
       "id": 8394,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "入田真綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-395"
     },
     {
       "id": 9189,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "入田真綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-383"
     },
     {
       "id": 11059,
@@ -204,7 +204,7 @@ window.actressData = {
         "向理来",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-356"
     },
     {
       "id": 16464,
@@ -222,7 +222,7 @@ window.actressData = {
         "ナイアガラ翔",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-270"
     },
     {
       "id": 16723,
@@ -240,7 +240,7 @@ window.actressData = {
         "大村",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-261"
     },
     {
       "id": 18477,
@@ -256,7 +256,7 @@ window.actressData = {
       "actress": [
         "入田真綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-240"
     },
     {
       "id": 15961,
@@ -273,7 +273,7 @@ window.actressData = {
         "入田真綾",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-219"
     },
     {
       "id": 17438,
@@ -290,7 +290,7 @@ window.actressData = {
         "入田真綾",
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-254"
     },
     {
       "id": 87858,
@@ -306,7 +306,7 @@ window.actressData = {
       "actress": [
         "入田真綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-755"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-755"
     },
     {
       "id": 100413,
@@ -322,7 +322,7 @@ window.actressData = {
       "actress": [
         "入田真綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-198"
     },
     {
       "id": 100647,
@@ -339,7 +339,7 @@ window.actressData = {
         "入田真綾",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-197"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "月岛さくら",
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-011"
     },
     {
       "id": 106183,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-257"
     },
     {
       "id": 106850,
@@ -68,7 +68,7 @@ window.actressData = {
         "ひょこり",
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-215"
     },
     {
       "id": 91641,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-173"
     },
     {
       "id": 90704,
@@ -101,7 +101,7 @@ window.actressData = {
         "みっちー",
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-141"
     },
     {
       "id": 67421,
@@ -118,7 +118,7 @@ window.actressData = {
         "左慈半造",
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-109"
     },
     {
       "id": 67195,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-057"
     },
     {
       "id": 70349,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1281"
     },
     {
       "id": 75548,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1235"
     },
     {
       "id": 76468,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OBA-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OBA-395"
     },
     {
       "id": 70574,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "中山穂香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOEN-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOEN-019"
     }
   ]
 };

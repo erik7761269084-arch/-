@@ -70,7 +70,7 @@ window.actressData = {
         "ししお",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACT-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-009"
     },
     {
       "id": 3077,
@@ -104,7 +104,7 @@ window.actressData = {
         "长瀬麻美",
         "儿玉玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-092"
     },
     {
       "id": 3735,
@@ -121,7 +121,7 @@ window.actressData = {
         "长濑麻美",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-283"
     },
     {
       "id": 4132,
@@ -138,7 +138,7 @@ window.actressData = {
         "长濑麻美",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21987"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21987"
     },
     {
       "id": 4855,
@@ -155,7 +155,7 @@ window.actressData = {
         "长濑麻美",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQDE-014"
     },
     {
       "id": 6362,
@@ -184,7 +184,7 @@ window.actressData = {
         "长瀬麻美",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-077"
     },
     {
       "id": 6512,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "长濑麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-483"
     },
     {
       "id": 7867,
@@ -216,7 +216,7 @@ window.actressData = {
       "actress": [
         "长濑麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-109"
     },
     {
       "id": 9424,
@@ -233,7 +233,7 @@ window.actressData = {
         "长濑麻美",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-621"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-621"
     },
     {
       "id": 9669,
@@ -252,7 +252,7 @@ window.actressData = {
         "水瀨裡奈",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-859"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-859"
     },
     {
       "id": 12858,
@@ -269,7 +269,7 @@ window.actressData = {
         "长濑麻美",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-033"
     },
     {
       "id": 13304,
@@ -286,7 +286,7 @@ window.actressData = {
         "长濑麻美",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-081"
     },
     {
       "id": 13577,
@@ -304,7 +304,7 @@ window.actressData = {
         "左慈半造",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-824"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-824"
     },
     {
       "id": 17969,
@@ -322,7 +322,7 @@ window.actressData = {
         "蓝井优太",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-730"
     }
   ]
 };

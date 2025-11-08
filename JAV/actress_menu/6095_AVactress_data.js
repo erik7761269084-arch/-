@@ -33,7 +33,7 @@ window.actressData = {
         "莲美恋",
         "三井里绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-242"
     }
   ]
 };

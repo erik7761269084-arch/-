@@ -35,7 +35,7 @@ window.actressData = {
         "黒瀬萌衣",
         "结城ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-476"
     }
   ]
 };

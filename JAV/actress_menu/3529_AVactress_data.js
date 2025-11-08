@@ -35,7 +35,7 @@ window.actressData = {
         "池田マリナ",
         "さんたま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-647"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-647"
     },
     {
       "id": 5922,
@@ -52,7 +52,7 @@ window.actressData = {
         "木村玲衣",
         "さんたま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-335"
     },
     {
       "id": 5878,
@@ -69,7 +69,7 @@ window.actressData = {
         "古東まりこ",
         "さんたま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-282"
     }
   ]
 };

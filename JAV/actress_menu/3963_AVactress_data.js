@@ -33,7 +33,7 @@ window.actressData = {
         "松原昭代",
         "真矢织江"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUAM-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUAM-001"
     }
   ]
 };

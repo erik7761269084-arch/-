@@ -33,7 +33,7 @@ window.actressData = {
         "绫濑心",
         "辻かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-063"
     }
   ]
 };

@@ -39,7 +39,7 @@ window.actressData = {
         "小田切ジュン",
         "新山らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-385"
     },
     {
       "id": 77116,
@@ -56,7 +56,7 @@ window.actressData = {
         "小田切ジュン",
         "新山らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-100"
     }
   ]
 };

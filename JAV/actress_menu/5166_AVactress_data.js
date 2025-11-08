@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "叶月りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-184"
     },
     {
       "id": 89494,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "叶月りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1248"
     }
   ]
 };

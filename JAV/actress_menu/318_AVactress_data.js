@@ -69,7 +69,7 @@ window.actressData = {
         "上羽絢",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-403"
     },
     {
       "id": 4740,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "上羽絢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-333"
     },
     {
       "id": 6289,
@@ -104,7 +104,7 @@ window.actressData = {
         "大岛丈",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-256"
     },
     {
       "id": 7045,
@@ -121,7 +121,7 @@ window.actressData = {
         "上羽絢",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-272"
     },
     {
       "id": 7701,
@@ -139,7 +139,7 @@ window.actressData = {
         "上羽絢",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-188"
     },
     {
       "id": 8466,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "上羽絢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-155"
     },
     {
       "id": 9203,
@@ -175,7 +175,7 @@ window.actressData = {
         "しょーと",
         "すぱいく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-128"
     },
     {
       "id": 10147,
@@ -192,7 +192,7 @@ window.actressData = {
         "上羽絢",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-996"
     },
     {
       "id": 14860,
@@ -208,7 +208,7 @@ window.actressData = {
       "actress": [
         "上羽絢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-684"
     },
     {
       "id": 15577,
@@ -224,7 +224,7 @@ window.actressData = {
       "actress": [
         "上羽絢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-655"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-655"
     },
     {
       "id": 16305,
@@ -240,7 +240,7 @@ window.actressData = {
       "actress": [
         "上羽絢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-551"
     },
     {
       "id": 16874,
@@ -256,7 +256,7 @@ window.actressData = {
       "actress": [
         "上羽絢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-526"
     },
     {
       "id": 17329,
@@ -272,7 +272,7 @@ window.actressData = {
       "actress": [
         "上羽絢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-475"
     },
     {
       "id": 17893,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "上羽絢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-437"
     }
   ]
 };

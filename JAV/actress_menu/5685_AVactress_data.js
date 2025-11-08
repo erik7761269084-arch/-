@@ -34,7 +34,7 @@ window.actressData = {
         "殊酔ぜる",
         "狐森りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-025"
     },
     {
       "id": 90577,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "狐森りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-154"
     }
   ]
 };

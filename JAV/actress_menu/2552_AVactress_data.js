@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "新海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-904"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-904"
     },
     {
       "id": 89331,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "新海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-888"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-888"
     },
     {
       "id": 89247,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "新海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-839"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-839"
     },
     {
       "id": 89235,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "新海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-865"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-865"
     }
   ]
 };

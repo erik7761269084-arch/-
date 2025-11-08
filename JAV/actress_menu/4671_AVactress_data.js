@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "本田梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-186"
     }
   ]
 };

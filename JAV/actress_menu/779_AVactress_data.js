@@ -49,7 +49,7 @@ window.actressData = {
         "知花しおん",
         "長澤りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JNKD-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNKD-014"
     },
     {
       "id": 6055,
@@ -67,7 +67,7 @@ window.actressData = {
         "知花しおん",
         "佐野なつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-278"
     },
     {
       "id": 10332,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "知花しおん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-092"
     },
     {
       "id": 17137,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "知花しおん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21831"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21831"
     },
     {
       "id": 104299,
@@ -116,7 +116,7 @@ window.actressData = {
         "知花しおん",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-572"
     }
   ]
 };

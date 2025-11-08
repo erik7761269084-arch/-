@@ -39,7 +39,7 @@ window.actressData = {
         "田中瞳",
         "舞奈みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-288"
     },
     {
       "id": 93838,
@@ -62,7 +62,7 @@ window.actressData = {
         "田中瞳",
         "舞奈みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-283"
     },
     {
       "id": 89713,
@@ -80,7 +80,7 @@ window.actressData = {
         "斎藤まりな",
         "舞奈みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROOM-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-044"
     },
     {
       "id": 78678,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "舞奈みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-070"
     },
     {
       "id": 88339,
@@ -116,7 +116,7 @@ window.actressData = {
         "舞奈みく",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-976"
     }
   ]
 };

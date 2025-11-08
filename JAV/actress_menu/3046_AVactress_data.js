@@ -35,7 +35,7 @@ window.actressData = {
         "飞鸟铃",
         "吉泽ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-257"
     },
     {
       "id": 82053,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "吉泽ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-006"
     },
     {
       "id": 75044,
@@ -69,7 +69,7 @@ window.actressData = {
         "管野静香",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-047"
     },
     {
       "id": 77106,
@@ -86,7 +86,7 @@ window.actressData = {
         "通野未帆",
         "吉泽ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-413"
     },
     {
       "id": 78284,
@@ -105,7 +105,7 @@ window.actressData = {
         "吉泽ひかり",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-093"
     },
     {
       "id": 77146,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "吉泽ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-008"
     },
     {
       "id": 74603,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "吉泽ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1084"
     }
   ]
 };

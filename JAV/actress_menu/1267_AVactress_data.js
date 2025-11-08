@@ -51,7 +51,7 @@ window.actressData = {
         "有馬美月",
         "星乃蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-270"
     },
     {
       "id": 68453,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "星乃蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAD-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAD-031"
     },
     {
       "id": 7256,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "星乃蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APGH-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-033"
     },
     {
       "id": 9927,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "星乃蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-638"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-638"
     }
   ]
 };

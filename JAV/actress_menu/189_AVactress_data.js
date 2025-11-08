@@ -81,7 +81,7 @@ window.actressData = {
         "浜崎真绪",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-657"
     },
     {
       "id": 4173,
@@ -110,7 +110,7 @@ window.actressData = {
         "安倍亜沙美",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-926"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-926"
     },
     {
       "id": 4564,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "花柳杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-712"
     },
     {
       "id": 5037,
@@ -145,7 +145,7 @@ window.actressData = {
         "佐藤遥希",
         "大原亞夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-119"
     },
     {
       "id": 8804,
@@ -164,7 +164,7 @@ window.actressData = {
         "花柳杏奈",
         "千鶴えま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-298"
     },
     {
       "id": 14039,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "花柳杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NOSKN-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-091"
     },
     {
       "id": 13783,
@@ -199,7 +199,7 @@ window.actressData = {
         "花柳杏奈",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-853"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-853"
     },
     {
       "id": 13778,
@@ -218,7 +218,7 @@ window.actressData = {
         "花柳杏奈",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-852"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-852"
     },
     {
       "id": 17448,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "花柳杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-612"
     },
     {
       "id": 17646,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "花柳杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPPN-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-243"
     },
     {
       "id": 17884,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "花柳杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDRD-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-011"
     },
     {
       "id": 18510,
@@ -286,7 +286,7 @@ window.actressData = {
         "花柳杏奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-133"
     }
   ]
 };

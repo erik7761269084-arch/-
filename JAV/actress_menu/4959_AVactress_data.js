@@ -33,7 +33,7 @@ window.actressData = {
         "中山琴叶",
         "森川玉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-184"
     },
     {
       "id": 80978,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "森川玉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-139"
     }
   ]
 };

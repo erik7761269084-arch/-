@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "本上郁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-135"
     }
   ]
 };

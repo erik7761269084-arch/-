@@ -60,7 +60,7 @@ window.actressData = {
         "雪奈真冬",
         "木之内奈々葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
     },
     {
       "id": 6610,
@@ -85,7 +85,7 @@ window.actressData = {
         "香月えりさ",
         "木之内奈々葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-101"
     },
     {
       "id": 70187,
@@ -105,7 +105,7 @@ window.actressData = {
         "木之内奈々葉",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-220"
     }
   ]
 };

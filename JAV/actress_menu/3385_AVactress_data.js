@@ -33,7 +33,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-251"
     },
     {
       "id": 89064,
@@ -50,7 +50,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-598"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-598"
     },
     {
       "id": 68611,
@@ -67,7 +67,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-594"
     },
     {
       "id": 68181,
@@ -84,7 +84,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-106"
     },
     {
       "id": 90677,
@@ -101,7 +101,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-092"
     },
     {
       "id": 66745,
@@ -118,7 +118,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-083"
     },
     {
       "id": 62357,
@@ -135,7 +135,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-069"
     },
     {
       "id": 86077,
@@ -152,7 +152,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-074"
     },
     {
       "id": 85994,
@@ -169,7 +169,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-064"
     },
     {
       "id": 86028,
@@ -186,7 +186,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-058"
     },
     {
       "id": 85978,
@@ -203,7 +203,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-050"
     },
     {
       "id": 86022,
@@ -220,7 +220,7 @@ window.actressData = {
         "しみけん",
         "伊沢凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-045"
     }
   ]
 };

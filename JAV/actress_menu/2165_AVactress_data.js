@@ -48,7 +48,7 @@ window.actressData = {
         "白石あきほ",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-379"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-379"
     },
     {
       "id": 7654,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "白石あきほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PQJ-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PQJ-001"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "有村希",
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-461"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-461"
     },
     {
       "id": 67281,
@@ -50,7 +50,7 @@ window.actressData = {
         "儿玉玲奈",
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-897"
     },
     {
       "id": 107094,
@@ -68,7 +68,7 @@ window.actressData = {
         "天然美月",
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-421"
     },
     {
       "id": 85547,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-252"
     },
     {
       "id": 85979,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-049"
     },
     {
       "id": 86500,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUN-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUN-050"
     },
     {
       "id": 81138,
@@ -134,7 +134,7 @@ window.actressData = {
         "纱々原ゆり",
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-834"
     },
     {
       "id": 80658,
@@ -153,7 +153,7 @@ window.actressData = {
         "白鸟すわん",
         "凉美ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-202"
     },
     {
       "id": 84840,
@@ -171,7 +171,7 @@ window.actressData = {
         "白鸟すわん",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-172"
     },
     {
       "id": 84823,
@@ -189,7 +189,7 @@ window.actressData = {
         "弥生美月",
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-143"
     },
     {
       "id": 86652,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-074"
     },
     {
       "id": 79195,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "白鸟すわん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-435"
     }
   ]
 };

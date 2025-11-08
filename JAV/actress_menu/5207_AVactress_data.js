@@ -33,7 +33,7 @@ window.actressData = {
         "大原结莉",
         "ゆりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-418"
     }
   ]
 };

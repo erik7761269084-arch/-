@@ -107,7 +107,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 19539,
@@ -125,7 +125,7 @@ window.actressData = {
         "桜井步",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-462"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-462"
     }
   ]
 };

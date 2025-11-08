@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "神谷咲良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-689"
     },
     {
       "id": 8189,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "神谷咲良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-045"
     },
     {
       "id": 11410,
@@ -79,7 +79,7 @@ window.actressData = {
         "小田切ジュン",
         "えいおき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-360"
     }
   ]
 };

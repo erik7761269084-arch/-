@@ -41,7 +41,7 @@ window.actressData = {
         "澄川鲇",
         "须藤あいく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ID-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ID-038"
     },
     {
       "id": 88665,
@@ -59,7 +59,7 @@ window.actressData = {
         "浜崎真绪",
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-720"
     },
     {
       "id": 87027,
@@ -76,7 +76,7 @@ window.actressData = {
         "小高里保",
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-368"
     },
     {
       "id": 82915,
@@ -93,7 +93,7 @@ window.actressData = {
         "岬梓沙",
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-536"
     },
     {
       "id": 82921,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-532"
     },
     {
       "id": 82925,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-522"
     },
     {
       "id": 73391,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-497"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-497"
     },
     {
       "id": 70099,
@@ -158,7 +158,7 @@ window.actressData = {
         "タツ",
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-491"
     },
     {
       "id": 82441,
@@ -176,7 +176,7 @@ window.actressData = {
         "葵玲奈",
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-668"
     },
     {
       "id": 88321,
@@ -195,7 +195,7 @@ window.actressData = {
         "川村真矢",
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-878"
     },
     {
       "id": 73230,
@@ -215,7 +215,7 @@ window.actressData = {
         "南野ゆきな",
         "平原みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAMA-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-662"
     }
   ]
 };

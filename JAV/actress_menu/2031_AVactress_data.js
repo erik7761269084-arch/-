@@ -93,7 +93,7 @@ window.actressData = {
         "牧村柚希",
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-253"
     },
     {
       "id": 87603,
@@ -119,7 +119,7 @@ window.actressData = {
         "逢沢るる",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-257"
     },
     {
       "id": 82190,
@@ -142,7 +142,7 @@ window.actressData = {
         "西仓まより",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-616"
     },
     {
       "id": 82102,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "野野原薺"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TYD-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-001"
     },
     {
       "id": 74895,
@@ -177,7 +177,7 @@ window.actressData = {
         "野野原薺",
         "新田みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-221"
     },
     {
       "id": 76213,
@@ -200,7 +200,7 @@ window.actressData = {
         "山井すず",
         "夏目澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-047"
     },
     {
       "id": 75383,
@@ -219,7 +219,7 @@ window.actressData = {
         "真田さな",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-078"
     },
     {
       "id": 81520,
@@ -242,7 +242,7 @@ window.actressData = {
         "花宫レイ",
         "石川ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-283"
     },
     {
       "id": 83655,
@@ -259,7 +259,7 @@ window.actressData = {
         "美谷朱里",
         "野野原薺"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LZDM-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-030"
     },
     {
       "id": 76475,
@@ -277,7 +277,7 @@ window.actressData = {
         "野野原薺",
         "森本つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-585"
     },
     {
       "id": 76397,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "野野原薺"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-584"
     },
     {
       "id": 78499,
@@ -313,7 +313,7 @@ window.actressData = {
         "东条有希",
         "菊川みつ叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-092"
     },
     {
       "id": 72138,
@@ -332,7 +332,7 @@ window.actressData = {
         "野野原薺",
         "桜庭ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-180"
     },
     {
       "id": 76686,
@@ -348,7 +348,7 @@ window.actressData = {
       "actress": [
         "野野原薺"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-083"
     }
   ]
 };

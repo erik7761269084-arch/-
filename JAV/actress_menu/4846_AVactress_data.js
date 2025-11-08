@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "唯月优花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-176"
     },
     {
       "id": 79620,
@@ -49,7 +49,7 @@ window.actressData = {
         "イセドン内村",
         "唯月优花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-150"
     },
     {
       "id": 79299,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "唯月优花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-115"
     },
     {
       "id": 78714,
@@ -83,7 +83,7 @@ window.actressData = {
         "タイ",
         "唯月优花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-089"
     },
     {
       "id": 86723,
@@ -100,7 +100,7 @@ window.actressData = {
         "玉木玲",
         "唯月优花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-079"
     },
     {
       "id": 106771,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "唯月优花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-190"
     }
   ]
 };

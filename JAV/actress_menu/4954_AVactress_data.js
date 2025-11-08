@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "仲丘たまき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKO-456"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-456"
     },
     {
       "id": 81491,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "仲丘たまき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BTH-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTH-018"
     },
     {
       "id": 82800,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "仲丘たまき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-240"
     }
   ]
 };

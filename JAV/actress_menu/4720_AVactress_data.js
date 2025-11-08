@@ -34,7 +34,7 @@ window.actressData = {
         "秋山ゆう",
         "花崎りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RIX-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-048"
     }
   ]
 };

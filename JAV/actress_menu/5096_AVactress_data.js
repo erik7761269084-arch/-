@@ -35,7 +35,7 @@ window.actressData = {
         "二ノ宫庆子",
         "福田凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-206"
     }
   ]
 };

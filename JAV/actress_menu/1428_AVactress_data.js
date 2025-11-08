@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "佐久間れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-972"
     },
     {
       "id": 9045,
@@ -65,7 +65,7 @@ window.actressData = {
         "佐久間れみ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-967"
     },
     {
       "id": 9910,
@@ -82,7 +82,7 @@ window.actressData = {
         "佐久間れみ",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-959"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
         "河合乃乃花",
         "初美りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-939"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-939"
     },
     {
       "id": 82763,
@@ -63,7 +63,7 @@ window.actressData = {
         "初美りん",
         "仓科もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-064"
     },
     {
       "id": 77380,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "初美りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-210"
     },
     {
       "id": 99085,
@@ -98,7 +98,7 @@ window.actressData = {
         "初美りん",
         "美咲みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-686"
     },
     {
       "id": 72429,
@@ -115,7 +115,7 @@ window.actressData = {
         "鲛岛",
         "初美りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKA-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKA-059"
     },
     {
       "id": 78463,
@@ -132,7 +132,7 @@ window.actressData = {
         "初美りん",
         "なつめ爱梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-051"
     }
   ]
 };

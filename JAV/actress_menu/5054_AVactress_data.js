@@ -35,7 +35,7 @@ window.actressData = {
         "天月叶菜",
         "橘莉苑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-208"
     }
   ]
 };

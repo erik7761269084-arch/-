@@ -34,7 +34,7 @@ window.actressData = {
         "藤原瞳",
         "カレンさん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-705"
     }
   ]
 };

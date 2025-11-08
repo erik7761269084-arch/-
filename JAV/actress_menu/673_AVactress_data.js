@@ -50,7 +50,7 @@ window.actressData = {
         "白都四季",
         "静葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1786"
     },
     {
       "id": 94796,
@@ -67,7 +67,7 @@ window.actressData = {
         "響乃詩",
         "白都四季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVSHA-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-023"
     },
     {
       "id": 18040,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "白都四季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-486"
     },
     {
       "id": 18518,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "白都四季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-500"
     },
     {
       "id": 92302,
@@ -117,7 +117,7 @@ window.actressData = {
         "小田切ジュン",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-396"
     }
   ]
 };

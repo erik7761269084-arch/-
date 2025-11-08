@@ -67,7 +67,7 @@ window.actressData = {
         "凉森玲梦",
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
       "id": 79664,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "愛音麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-129"
     },
     {
       "id": 79284,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "愛音麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-114"
     },
     {
       "id": 86678,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "愛音麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-081"
     },
     {
       "id": 100669,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "愛音麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-014"
     },
     {
       "id": 73576,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "愛音麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-973"
     },
     {
       "id": 97825,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "愛音麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-965"
     },
     {
       "id": 76050,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "愛音麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-936"
     },
     {
       "id": 82739,
@@ -196,7 +196,7 @@ window.actressData = {
         "愛音麻里亞",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-884"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-884"
     },
     {
       "id": 75142,
@@ -213,7 +213,7 @@ window.actressData = {
         "愛音麻里亞",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-875"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-875"
     },
     {
       "id": 75414,
@@ -230,7 +230,7 @@ window.actressData = {
         "愛音麻里亞",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-864"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-864"
     },
     {
       "id": 73320,
@@ -247,7 +247,7 @@ window.actressData = {
         "愛音麻里亞",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-794"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-794"
     },
     {
       "id": 106340,
@@ -263,7 +263,7 @@ window.actressData = {
       "actress": [
         "愛音麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-772"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-772"
     },
     {
       "id": 88275,
@@ -281,7 +281,7 @@ window.actressData = {
         "小田切ジュン",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-748"
     }
   ]
 };

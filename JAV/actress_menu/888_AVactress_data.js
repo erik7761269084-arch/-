@@ -53,7 +53,7 @@ window.actressData = {
         "冬爱琴音",
         "永山遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-240"
     },
     {
       "id": 2908,
@@ -75,7 +75,7 @@ window.actressData = {
         "タイ",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-440"
     },
     {
       "id": 4590,
@@ -95,7 +95,7 @@ window.actressData = {
         "櫻木繪里香",
         "涼宮るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-369"
     }
   ]
 };

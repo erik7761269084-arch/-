@@ -46,7 +46,7 @@ window.actressData = {
         "峰田奈奈美",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-007"
     },
     {
       "id": 93954,
@@ -66,7 +66,7 @@ window.actressData = {
         "市成心海",
         "峰田奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-600"
     },
     {
       "id": 66682,
@@ -87,7 +87,7 @@ window.actressData = {
         "新村晶",
         "爱乃零"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-130"
     },
     {
       "id": 86027,
@@ -106,7 +106,7 @@ window.actressData = {
         "最上さゆき",
         "吉木美織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-151"
     },
     {
       "id": 79384,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "峰田奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIR-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-043"
     },
     {
       "id": 67292,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "峰田奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-224"
     }
   ]
 };

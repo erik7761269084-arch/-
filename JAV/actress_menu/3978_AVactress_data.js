@@ -35,7 +35,7 @@ window.actressData = {
         "コンピューター园田",
         "吉冈沙华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PCDE-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PCDE-007"
     },
     {
       "id": 83031,
@@ -58,7 +58,7 @@ window.actressData = {
         "高梨りの",
         "市原由芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-119"
     },
     {
       "id": 74086,
@@ -75,7 +75,7 @@ window.actressData = {
         "亜矢みつき",
         "高梨りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-392"
     },
     {
       "id": 75123,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "高梨りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-889"
     },
     {
       "id": 72146,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "高梨りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-668"
     },
     {
       "id": 70232,
@@ -124,7 +124,7 @@ window.actressData = {
         "市川润",
         "高梨りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOAV-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAV-053"
     },
     {
       "id": 76184,
@@ -142,7 +142,7 @@ window.actressData = {
         "花笑一杏",
         "高梨りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-261"
     },
     {
       "id": 79017,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "高梨りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SH-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SH-007"
     }
   ]
 };

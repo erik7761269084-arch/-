@@ -40,7 +40,7 @@ window.actressData = {
         "椎叶みくる",
         "咲良ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-188"
     }
   ]
 };

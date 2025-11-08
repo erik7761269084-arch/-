@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "宮村友梨佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1739"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1739"
     }
   ]
 };

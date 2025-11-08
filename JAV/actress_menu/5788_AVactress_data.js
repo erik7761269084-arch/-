@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "久須美亜優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-060"
     },
     {
       "id": 92376,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "久須美亜優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-050"
     }
   ]
 };

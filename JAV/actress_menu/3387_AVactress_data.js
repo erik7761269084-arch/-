@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1087"
     },
     {
       "id": 92131,
@@ -49,7 +49,7 @@ window.actressData = {
         "菊池春",
         "のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCS-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCS-105"
     }
   ]
 };

@@ -52,7 +52,7 @@ window.actressData = {
         "侑李愛美",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-310"
     }
   ]
 };

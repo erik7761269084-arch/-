@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMOT-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOT-013"
     },
     {
       "id": 104228,
@@ -49,7 +49,7 @@ window.actressData = {
         "仓木诗织",
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-872"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-872"
     },
     {
       "id": 83230,
@@ -68,7 +68,7 @@ window.actressData = {
         "白咲柚子",
         "なつめ爱梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-802"
     },
     {
       "id": 95029,
@@ -87,7 +87,7 @@ window.actressData = {
         "仓木诗织",
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-289"
     },
     {
       "id": 76782,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21426"
     },
     {
       "id": 77410,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-169"
     },
     {
       "id": 74959,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-030"
     },
     {
       "id": 78200,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DFDM-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFDM-010"
     },
     {
       "id": 77158,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-107"
     },
     {
       "id": 88345,
@@ -188,7 +188,7 @@ window.actressData = {
         "玉木玲",
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-674"
     },
     {
       "id": 70400,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-576"
     },
     {
       "id": 71402,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FINH-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FINH-068"
     },
     {
       "id": 104294,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "美保结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGA-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-117"
     }
   ]
 };

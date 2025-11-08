@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "なつか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2894"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2894"
     }
   ]
 };

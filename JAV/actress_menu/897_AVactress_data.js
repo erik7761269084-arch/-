@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-725"
     },
     {
       "id": 3445,
@@ -72,7 +72,7 @@ window.actressData = {
         "伊織雛乃",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-482"
     },
     {
       "id": 4805,
@@ -93,7 +93,7 @@ window.actressData = {
         "真白みのり",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-233"
     },
     {
       "id": 67204,
@@ -115,7 +115,7 @@ window.actressData = {
         "花里明理",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-219"
     },
     {
       "id": 70429,
@@ -137,7 +137,7 @@ window.actressData = {
         "六華ノア",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-217"
     },
     {
       "id": 10423,
@@ -156,7 +156,7 @@ window.actressData = {
         "五十嵐美月",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-262"
     },
     {
       "id": 13914,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-505"
     }
   ]
 };

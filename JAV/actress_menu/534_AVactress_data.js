@@ -41,7 +41,7 @@ window.actressData = {
         "瀬尾礼子",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-396"
     },
     {
       "id": 4730,
@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "瀬尾礼子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-370"
     },
     {
       "id": 5505,
@@ -74,7 +74,7 @@ window.actressData = {
         "瀬尾礼子",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-363"
     },
     {
       "id": 7013,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "瀬尾礼子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-341"
     },
     {
       "id": 7683,
@@ -107,7 +107,7 @@ window.actressData = {
         "瀬尾礼子",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-335"
     },
     {
       "id": 8506,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "瀬尾礼子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-314"
     },
     {
       "id": 10124,
@@ -140,7 +140,7 @@ window.actressData = {
         "瀬尾礼子",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-308"
     },
     {
       "id": 10799,
@@ -156,7 +156,7 @@ window.actressData = {
       "actress": [
         "瀬尾礼子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-280"
     },
     {
       "id": 18399,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "瀬尾礼子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-172"
     }
   ]
 };

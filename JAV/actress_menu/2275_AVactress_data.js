@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "成瀬花奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MARAA-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-201"
     }
   ]
 };

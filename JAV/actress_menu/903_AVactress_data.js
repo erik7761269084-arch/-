@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "姬乃雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-861"
     },
     {
       "id": 18101,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "姬乃雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-842"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-842"
     },
     {
       "id": 18122,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "姬乃雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-823"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-823"
     },
     {
       "id": 18172,
@@ -96,7 +96,7 @@ window.actressData = {
         "姬乃雪",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-804"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-804"
     },
     {
       "id": 18372,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "姬乃雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-769"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-769"
     }
   ]
 };

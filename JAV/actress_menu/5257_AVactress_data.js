@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "浅见レナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-111"
     },
     {
       "id": 83537,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "浅见レナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BGSD-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGSD-408"
     }
   ]
 };

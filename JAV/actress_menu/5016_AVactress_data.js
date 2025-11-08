@@ -39,7 +39,7 @@ window.actressData = {
         "彩音舞衣",
         "凉宫はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-220"
     },
     {
       "id": 81469,
@@ -57,7 +57,7 @@ window.actressData = {
         "松本菜奈実",
         "七栄ここ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-275"
     },
     {
       "id": 83577,
@@ -77,7 +77,7 @@ window.actressData = {
         "香苗レノン",
         "七栄ここ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-183"
     },
     {
       "id": 83301,
@@ -96,7 +96,7 @@ window.actressData = {
         "七栄ここ",
         "新海珠理奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-075"
     }
   ]
 };

@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "春野ゆこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-067"
     },
     {
       "id": 15544,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "春野ゆこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-066"
     },
     {
       "id": 94563,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "春野ゆこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-032"
     },
     {
       "id": 16193,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "春野ゆこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-941"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-941"
     },
     {
       "id": 89215,
@@ -123,7 +123,7 @@ window.actressData = {
         "春野ゆこ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-816"
     },
     {
       "id": 89214,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "春野ゆこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-799"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "羽佐美めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLOT-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLOT-024"
     },
     {
       "id": 91176,
@@ -49,7 +49,7 @@ window.actressData = {
         "ひょこり",
         "羽佐美めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-288"
     },
     {
       "id": 87464,
@@ -66,7 +66,7 @@ window.actressData = {
         "鲛岛",
         "羽佐美めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-925"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-925"
     }
   ]
 };

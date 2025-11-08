@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "平手志帆梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOTK-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTK-010"
     },
     {
       "id": 73160,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "平手志帆梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-480"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-480"
     },
     {
       "id": 90555,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "平手志帆梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-155"
     },
     {
       "id": 90923,
@@ -81,7 +81,7 @@ window.actressData = {
         "平手志帆梨",
         "てらの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-266"
     }
   ]
 };

@@ -46,7 +46,7 @@ window.actressData = {
         "橋本涼",
         "凰香奈芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-219"
     },
     {
       "id": 87974,
@@ -64,7 +64,7 @@ window.actressData = {
         "南佳也",
         "谷田部和沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-394"
     }
   ]
 };

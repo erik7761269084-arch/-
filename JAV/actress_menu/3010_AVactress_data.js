@@ -33,7 +33,7 @@ window.actressData = {
         "葉月まゆ",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-885"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-885"
     },
     {
       "id": 2759,
@@ -51,7 +51,7 @@ window.actressData = {
         "大村",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRTD-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRTD-034"
     },
     {
       "id": 2968,
@@ -68,7 +68,7 @@ window.actressData = {
         "夕木小彩",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-719"
     },
     {
       "id": 3138,
@@ -85,7 +85,7 @@ window.actressData = {
         "向井藍",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-201"
     },
     {
       "id": 3328,
@@ -104,7 +104,7 @@ window.actressData = {
         "太刀茜祢",
         "磯山道"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-385"
     },
     {
       "id": 4319,
@@ -122,7 +122,7 @@ window.actressData = {
         "イセドン内村",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-818"
     },
     {
       "id": 4394,
@@ -139,7 +139,7 @@ window.actressData = {
         "柏木小夏",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-760"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-760"
     },
     {
       "id": 4531,
@@ -157,7 +157,7 @@ window.actressData = {
         "ラヴズ",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-242"
     },
     {
       "id": 4489,
@@ -177,7 +177,7 @@ window.actressData = {
         "新村晶",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-186"
     },
     {
       "id": 4724,
@@ -194,7 +194,7 @@ window.actressData = {
         "藤浦惠",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-380"
     },
     {
       "id": 5024,
@@ -213,7 +213,7 @@ window.actressData = {
         "向理来",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-041"
     },
     {
       "id": 6179,
@@ -230,7 +230,7 @@ window.actressData = {
         "翼舞",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-036"
     }
   ]
 };

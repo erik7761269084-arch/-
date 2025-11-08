@@ -45,7 +45,7 @@ window.actressData = {
         "徳島理子",
         "徳岛理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMJK-025"
     },
     {
       "id": 4884,
@@ -63,7 +63,7 @@ window.actressData = {
         "徳島理子",
         "徳岛理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-083"
     }
   ]
 };

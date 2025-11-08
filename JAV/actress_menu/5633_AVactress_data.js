@@ -38,7 +38,7 @@ window.actressData = {
         "星名千聖",
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDC-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDC-034"
     },
     {
       "id": 90072,
@@ -55,7 +55,7 @@ window.actressData = {
         "RURIKO",
         "阿万音遊珠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-176"
     },
     {
       "id": 90074,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "RURIKO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-173"
     },
     {
       "id": 90106,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "RURIKO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-166"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-166"
     }
   ]
 };

@@ -72,7 +72,7 @@ window.actressData = {
         "水希杏",
         "椿かなり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-404"
     },
     {
       "id": 1540,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "葵野真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTSN-07"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTSN-07"
     }
   ]
 };

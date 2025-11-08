@@ -33,7 +33,7 @@ window.actressData = {
         "森林原人",
         "みずしの叶月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-657"
     }
   ]
 };

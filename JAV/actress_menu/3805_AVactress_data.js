@@ -36,7 +36,7 @@ window.actressData = {
         "広瀬结香",
         "京野美丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-302"
     },
     {
       "id": 89098,
@@ -59,7 +59,7 @@ window.actressData = {
         "高仓梨奈",
         "下妻恭子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3400"
     },
     {
       "id": 90172,
@@ -76,7 +76,7 @@ window.actressData = {
         "上野菜穂",
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-158"
     },
     {
       "id": 87085,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-214"
     },
     {
       "id": 91103,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JSOP-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JSOP-026"
     },
     {
       "id": 68376,
@@ -126,7 +126,7 @@ window.actressData = {
         "若宫はずき",
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-014"
     },
     {
       "id": 86031,
@@ -145,7 +145,7 @@ window.actressData = {
         "広瀬结香",
         "盛岡みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-486"
     },
     {
       "id": 86515,
@@ -162,7 +162,7 @@ window.actressData = {
         "広瀬结香",
         "水森めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-421"
     },
     {
       "id": 84004,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDA-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-132"
     },
     {
       "id": 106036,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1309"
     },
     {
       "id": 82086,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-414"
     },
     {
       "id": 95040,
@@ -227,7 +227,7 @@ window.actressData = {
         "市川润",
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-225"
     },
     {
       "id": 79162,
@@ -247,7 +247,7 @@ window.actressData = {
         "成泽ひなみ",
         "野々宫兰"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-016"
     }
   ]
 };

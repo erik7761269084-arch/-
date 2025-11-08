@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "岛津かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NINE-096"
     },
     {
       "id": 88942,
@@ -56,7 +56,7 @@ window.actressData = {
         "岛津かおる",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-514"
     },
     {
       "id": 87132,
@@ -76,7 +76,7 @@ window.actressData = {
         "城月あやね",
         "七海ひさ代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-897"
     },
     {
       "id": 83875,
@@ -100,7 +100,7 @@ window.actressData = {
         "响りん",
         "岛津かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-310"
     },
     {
       "id": 83711,
@@ -123,7 +123,7 @@ window.actressData = {
         "响りん",
         "岛津かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-243"
     },
     {
       "id": 83622,
@@ -146,7 +146,7 @@ window.actressData = {
         "岛津かおる",
         "城月あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-069"
     },
     {
       "id": 76482,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "岛津かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NATR-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-611"
     },
     {
       "id": 72067,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "岛津かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-178"
     }
   ]
 };

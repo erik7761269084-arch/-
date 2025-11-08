@@ -34,7 +34,7 @@ window.actressData = {
         "真城杏",
         "守永葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-432"
     }
   ]
 };

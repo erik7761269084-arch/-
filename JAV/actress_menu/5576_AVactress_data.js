@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "大園明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-209"
     },
     {
       "id": 89126,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "大園明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-020"
     },
     {
       "id": 89144,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "大園明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEO-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-070"
     }
   ]
 };

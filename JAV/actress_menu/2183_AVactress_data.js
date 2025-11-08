@@ -45,7 +45,7 @@ window.actressData = {
         "渡辺凛",
         "干立夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-222"
     },
     {
       "id": 19073,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "渡辺凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-376"
     }
   ]
 };

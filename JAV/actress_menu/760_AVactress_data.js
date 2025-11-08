@@ -56,7 +56,7 @@ window.actressData = {
         "伊贺真子",
         "伊贺まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-550"
     },
     {
       "id": 9796,
@@ -73,7 +73,7 @@ window.actressData = {
         "伊贺真子",
         "伊贺まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-501"
     }
   ]
 };

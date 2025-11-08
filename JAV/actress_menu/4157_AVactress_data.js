@@ -35,7 +35,7 @@ window.actressData = {
         "和泉つかさ",
         "一ノ瀬菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-568"
     },
     {
       "id": 71469,
@@ -52,7 +52,7 @@ window.actressData = {
         "玉木玲",
         "和泉つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-705"
     }
   ]
 };

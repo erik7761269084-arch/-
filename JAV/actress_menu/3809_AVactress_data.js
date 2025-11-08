@@ -39,7 +39,7 @@ window.actressData = {
         "橘优花",
         "清城雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-782"
     },
     {
       "id": 100940,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "橘优花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DW-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DW-008"
     }
   ]
 };

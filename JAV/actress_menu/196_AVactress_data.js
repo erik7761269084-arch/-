@@ -51,7 +51,7 @@ window.actressData = {
         "本田桃",
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-899"
     },
     {
       "id": 6412,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDS-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-205"
     },
     {
       "id": 6474,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-169"
     },
     {
       "id": 7159,
@@ -101,7 +101,7 @@ window.actressData = {
         "久和原聖羅",
         "真白みのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-153"
     },
     {
       "id": 9831,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-341"
     },
     {
       "id": 10109,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-239"
     },
     {
       "id": 12852,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-950"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-950"
     },
     {
       "id": 13785,
@@ -166,7 +166,7 @@ window.actressData = {
         "本田桃",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REXD-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-523"
     },
     {
       "id": 15656,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-292"
     },
     {
       "id": 17209,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AQSH-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-108"
     },
     {
       "id": 18126,
@@ -216,7 +216,7 @@ window.actressData = {
         "平井シンジ",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REXD-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-490"
     },
     {
       "id": 18664,
@@ -232,7 +232,7 @@ window.actressData = {
       "actress": [
         "本田桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRSS-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-148"
     }
   ]
 };

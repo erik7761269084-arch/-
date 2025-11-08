@@ -61,7 +61,7 @@ window.actressData = {
         "鲛岛",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-878"
     },
     {
       "id": 3207,
@@ -78,7 +78,7 @@ window.actressData = {
         "青葉春",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-870"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-870"
     },
     {
       "id": 5715,
@@ -90,12 +90,12 @@ window.actressData = {
       "type": "有码",
       "company": "KAWAII",
       "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075828805805_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075828805805_s.webp",
       "actress": [
         "青葉春",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-838"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-838"
     }
   ]
 };

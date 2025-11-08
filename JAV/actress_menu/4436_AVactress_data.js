@@ -33,7 +33,7 @@ window.actressData = {
         "心菜りお",
         "芹沢ゆず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-082"
     }
   ]
 };

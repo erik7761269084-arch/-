@@ -33,7 +33,7 @@ window.actressData = {
         "上岛美都子",
         "菊川まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PES-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-056"
     }
   ]
 };

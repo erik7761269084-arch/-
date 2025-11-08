@@ -58,7 +58,7 @@ window.actressData = {
         "泉百華",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-331"
     },
     {
       "id": 3610,
@@ -75,7 +75,7 @@ window.actressData = {
         "泉百華",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-293"
     },
     {
       "id": 4534,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "泉百華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-209"
     },
     {
       "id": 5324,
@@ -108,7 +108,7 @@ window.actressData = {
         "泉百華",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-164"
     },
     {
       "id": 7522,
@@ -125,7 +125,7 @@ window.actressData = {
         "泉百華",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-090"
     },
     {
       "id": 8242,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "泉百華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-052"
     },
     {
       "id": 9096,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "泉百華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-012"
     },
     {
       "id": 9959,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "泉百華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-971"
     }
   ]
 };

@@ -61,7 +61,7 @@ window.actressData = {
         "吉野愛衣",
         "小野寺ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
     },
     {
       "id": 6354,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-709"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-709"
     },
     {
       "id": 69577,
@@ -94,7 +94,7 @@ window.actressData = {
         "姫咲華",
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-054"
     },
     {
       "id": 72244,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-089"
     },
     {
       "id": 9004,
@@ -130,7 +130,7 @@ window.actressData = {
         "七原紗由",
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-191"
     },
     {
       "id": 10506,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-312"
     },
     {
       "id": 10632,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-268"
     }
   ]
 };

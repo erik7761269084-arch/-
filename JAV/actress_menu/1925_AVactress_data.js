@@ -44,7 +44,7 @@ window.actressData = {
         "滝川ソフィア",
         "北田千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-91"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-91"
     },
     {
       "id": 1857,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "北田千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S57"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S57"
     }
   ]
 };

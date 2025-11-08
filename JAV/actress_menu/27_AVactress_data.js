@@ -70,7 +70,7 @@ window.actressData = {
         "櫻若菜",
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-623"
     },
     {
       "id": 4777,
@@ -88,7 +88,7 @@ window.actressData = {
         "羽田貴史",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-596"
     },
     {
       "id": 5517,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-571"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-571"
     },
     {
       "id": 7033,
@@ -121,7 +121,7 @@ window.actressData = {
         "西宮夢",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-498"
     },
     {
       "id": 7678,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-521"
     },
     {
       "id": 8476,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-472"
     },
     {
       "id": 17900,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-113"
     },
     {
       "id": 73944,
@@ -186,7 +186,7 @@ window.actressData = {
         "西宮夢",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-044"
     },
     {
       "id": 17514,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-989"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-989"
     },
     {
       "id": 17541,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-970"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-970"
     },
     {
       "id": 17555,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-953"
     },
     {
       "id": 17699,
@@ -251,7 +251,7 @@ window.actressData = {
         "西宮夢",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-936"
     },
     {
       "id": 17802,
@@ -267,7 +267,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-919"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-919"
     },
     {
       "id": 17839,
@@ -284,7 +284,7 @@ window.actressData = {
         "西宮夢",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-887"
     },
     {
       "id": 18058,
@@ -300,7 +300,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-870"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-870"
     },
     {
       "id": 18089,
@@ -316,7 +316,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-854"
     },
     {
       "id": 18112,
@@ -332,7 +332,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-835"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-835"
     },
     {
       "id": 18256,
@@ -348,7 +348,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-797"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-797"
     },
     {
       "id": 18357,
@@ -365,7 +365,7 @@ window.actressData = {
         "西宮夢",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-780"
     },
     {
       "id": 18379,
@@ -381,7 +381,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-762"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-762"
     },
     {
       "id": 18934,
@@ -397,7 +397,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-505"
     },
     {
       "id": 19011,
@@ -414,7 +414,7 @@ window.actressData = {
         "西宮夢",
         "八乃翼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-441"
     },
     {
       "id": 19022,
@@ -430,7 +430,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-431"
     },
     {
       "id": 19038,
@@ -446,7 +446,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-417"
     },
     {
       "id": 19049,
@@ -462,7 +462,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-401"
     },
     {
       "id": 19075,
@@ -478,7 +478,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-371"
     },
     {
       "id": 19091,
@@ -494,7 +494,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-357"
     },
     {
       "id": 19106,
@@ -510,7 +510,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-341"
     },
     {
       "id": 19120,
@@ -526,7 +526,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-326"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-326"
     },
     {
       "id": 19212,
@@ -542,7 +542,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-231"
     },
     {
       "id": 19232,
@@ -558,7 +558,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-218"
     },
     {
       "id": 19313,
@@ -575,7 +575,7 @@ window.actressData = {
         "西宮夢",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-131"
     },
     {
       "id": 19374,
@@ -594,7 +594,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-074"
     },
     {
       "id": 19390,
@@ -610,7 +610,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-054"
     },
     {
       "id": 19415,
@@ -626,7 +626,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-024"
     },
     {
       "id": 19426,
@@ -642,7 +642,7 @@ window.actressData = {
       "actress": [
         "西宮夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-007"
     }
   ]
 };

@@ -37,7 +37,7 @@ window.actressData = {
         "月宫ねね",
         "NAOO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-047"
     },
     {
       "id": 88662,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "NAOO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-336"
     }
   ]
 };

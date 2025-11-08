@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "渚沢まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-144"
     },
     {
       "id": 75734,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "渚沢まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-102"
     }
   ]
 };

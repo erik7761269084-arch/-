@@ -39,7 +39,7 @@ window.actressData = {
         "大沢カスミ",
         "きみと歩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DBER-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBER-160"
     }
   ]
 };

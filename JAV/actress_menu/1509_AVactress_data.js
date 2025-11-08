@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "木南日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-636"
     },
     {
       "id": 1670,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "木南日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-705"
     },
     {
       "id": 19594,
@@ -92,7 +92,7 @@ window.actressData = {
         "JULIA",
         "木南日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-133"
     },
     {
       "id": 19529,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "木南日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-058"
     }
   ]
 };

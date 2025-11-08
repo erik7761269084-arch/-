@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-496"
     },
     {
       "id": 83489,
@@ -49,7 +49,7 @@ window.actressData = {
         "原田千晶",
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-509"
     },
     {
       "id": 83843,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTS-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTS-010"
     },
     {
       "id": 83164,
@@ -84,7 +84,7 @@ window.actressData = {
         "凉城りおな",
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-292"
     },
     {
       "id": 94921,
@@ -102,7 +102,7 @@ window.actressData = {
         "逢泽真里亚",
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-471"
     },
     {
       "id": 74624,
@@ -119,7 +119,7 @@ window.actressData = {
         "南佳也",
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-034"
     }
   ]
 };

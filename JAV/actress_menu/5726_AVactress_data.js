@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "池野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FRD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FRD-005"
     }
   ]
 };

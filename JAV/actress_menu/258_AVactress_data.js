@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-855"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-855"
     },
     {
       "id": 4318,
@@ -96,7 +96,7 @@ window.actressData = {
         "乃坂日和",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
     },
     {
       "id": 5195,
@@ -122,7 +122,7 @@ window.actressData = {
         "金松季歩",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
     },
     {
       "id": 5193,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-765"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-765"
     },
     {
       "id": 6286,
@@ -155,7 +155,7 @@ window.actressData = {
         "淺野心",
         "川越仁子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-711"
     },
     {
       "id": 6798,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-689"
     },
     {
       "id": 7405,
@@ -189,7 +189,7 @@ window.actressData = {
         "左慈半造",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-645"
     },
     {
       "id": 8243,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-194"
     },
     {
       "id": 8873,
@@ -237,7 +237,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 10457,
@@ -253,7 +253,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-460"
     },
     {
       "id": 13219,
@@ -269,7 +269,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-272"
     },
     {
       "id": 94347,
@@ -285,7 +285,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-235"
     },
     {
       "id": 14495,
@@ -302,7 +302,7 @@ window.actressData = {
         "淺野心",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-208"
     },
     {
       "id": 16683,
@@ -318,7 +318,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-035"
     },
     {
       "id": 17129,
@@ -335,7 +335,7 @@ window.actressData = {
         "淺野心",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-992"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-992"
     },
     {
       "id": 17673,
@@ -352,7 +352,7 @@ window.actressData = {
         "淺野心",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-959"
     },
     {
       "id": 18594,
@@ -368,7 +368,7 @@ window.actressData = {
       "actress": [
         "淺野心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-812"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-812"
     },
     {
       "id": 87652,
@@ -385,7 +385,7 @@ window.actressData = {
         "淺野心",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-753"
     },
     {
       "id": 89562,
@@ -402,7 +402,7 @@ window.actressData = {
         "淺野心",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-714"
     },
     {
       "id": 61658,
@@ -419,7 +419,7 @@ window.actressData = {
         "淺野心",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-697"
     }
   ]
 };

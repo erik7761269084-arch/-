@@ -36,7 +36,7 @@ window.actressData = {
         "茅原里恋",
         "槇原爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-287"
     }
   ]
 };

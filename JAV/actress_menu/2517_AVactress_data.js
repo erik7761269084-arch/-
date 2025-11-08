@@ -53,7 +53,7 @@ window.actressData = {
         "森澤佳奈",
         "朝日奈みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-542"
     },
     {
       "id": 87128,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "朝日奈みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKD-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKD-304"
     },
     {
       "id": 86103,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "朝日奈みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-753"
     }
   ]
 };

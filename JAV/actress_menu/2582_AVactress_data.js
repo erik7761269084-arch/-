@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "市川花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIBB-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIBB-001"
     },
     {
       "id": 77989,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "市川花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAHP-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAHP-028"
     },
     {
       "id": 81887,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "市川花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKP-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKP-057"
     },
     {
       "id": 81986,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "市川花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-088"
     },
     {
       "id": 89362,
@@ -125,7 +125,7 @@ window.actressData = {
         "市川花音",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2263"
     },
     {
       "id": 81845,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "市川花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-103"
     },
     {
       "id": 75202,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "市川花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-195"
     },
     {
       "id": 81686,
@@ -176,7 +176,7 @@ window.actressData = {
         "春风光",
         "七槻りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-510"
     },
     {
       "id": 81496,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "市川花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-443"
     },
     {
       "id": 81479,
@@ -210,7 +210,7 @@ window.actressData = {
         "南佳也",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-050"
     }
   ]
 };

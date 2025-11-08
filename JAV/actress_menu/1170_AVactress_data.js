@@ -46,7 +46,7 @@ window.actressData = {
         "星野みき",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-077"
     }
   ]
 };

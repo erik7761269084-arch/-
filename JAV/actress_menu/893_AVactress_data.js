@@ -53,7 +53,7 @@ window.actressData = {
         "東雲はる",
         "ちなみん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTACO-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTACO-001"
     },
     {
       "id": 5003,
@@ -71,7 +71,7 @@ window.actressData = {
         "東雲はる",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-231"
     },
     {
       "id": 13132,
@@ -91,7 +91,7 @@ window.actressData = {
         "椎叶みくる",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-730"
     },
     {
       "id": 90586,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "東雲はる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-072"
     }
   ]
 };

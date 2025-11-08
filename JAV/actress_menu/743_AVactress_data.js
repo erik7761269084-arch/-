@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "星咲優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=lafbd-37"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=lafbd-37"
     },
     {
       "id": 1779,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "星咲優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-099"
     },
     {
       "id": 1791,
@@ -87,7 +87,7 @@ window.actressData = {
         "中野亚梨沙",
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-113"
     }
   ]
 };

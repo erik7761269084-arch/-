@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "若槻いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-327"
     },
     {
       "id": 69783,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "若槻いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-048"
     },
     {
       "id": 8630,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "若槻いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-308"
     },
     {
       "id": 9312,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "若槻いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-033"
     },
     {
       "id": 10189,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "若槻いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEO-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-080"
     }
   ]
 };

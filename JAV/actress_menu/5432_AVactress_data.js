@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "新木えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-245"
     }
   ]
 };

@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "織本せりの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MASE-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MASE-069"
     },
     {
       "id": 6389,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "織本せりの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPL-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPL-053"
     },
     {
       "id": 91891,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "織本せりの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-644"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-644"
     },
     {
       "id": 17429,
@@ -95,7 +95,7 @@ window.actressData = {
         "織本せりの",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-088"
     },
     {
       "id": 18002,
@@ -112,7 +112,7 @@ window.actressData = {
         "織本せりの",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-509"
     },
     {
       "id": 107706,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "織本せりの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-301"
     }
   ]
 };

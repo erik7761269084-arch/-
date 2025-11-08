@@ -35,7 +35,7 @@ window.actressData = {
         "北川莉乃",
         "伊东红兰"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-031"
     },
     {
       "id": 90696,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "伊东红兰"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-108"
     },
     {
       "id": 83812,
@@ -70,7 +70,7 @@ window.actressData = {
         "コンピューター园田",
         "今井初音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PCDE-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PCDE-006"
     },
     {
       "id": 83143,
@@ -93,7 +93,7 @@ window.actressData = {
         "七海祐希",
         "松田千波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-052"
     }
   ]
 };

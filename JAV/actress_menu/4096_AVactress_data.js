@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "铃乃広香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-392"
     },
     {
       "id": 88251,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "铃乃広香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-358"
     }
   ]
 };

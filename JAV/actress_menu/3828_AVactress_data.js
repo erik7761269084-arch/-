@@ -41,7 +41,7 @@ window.actressData = {
         "澄川鲇",
         "须藤あいく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ID-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ID-038"
     },
     {
       "id": 97658,
@@ -59,7 +59,7 @@ window.actressData = {
         "佳苗瑠華",
         "早瀬ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-376"
     },
     {
       "id": 88209,
@@ -80,7 +80,7 @@ window.actressData = {
         "早坂リア",
         "野々宫ここみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-354"
     },
     {
       "id": 68527,
@@ -99,7 +99,7 @@ window.actressData = {
         "若叶りか",
         "青空小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-132"
     }
   ]
 };

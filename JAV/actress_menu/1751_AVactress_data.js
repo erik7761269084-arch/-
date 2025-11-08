@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "古瀬玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-124"
     },
     {
       "id": 1529,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "古瀬玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-117"
     }
   ]
 };

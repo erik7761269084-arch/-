@@ -33,7 +33,7 @@ window.actressData = {
         "夏目未來",
         "星乃美桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-008"
     },
     {
       "id": 82183,
@@ -56,7 +56,7 @@ window.actressData = {
         "染谷凛",
         "林奈恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-061"
     }
   ]
 };

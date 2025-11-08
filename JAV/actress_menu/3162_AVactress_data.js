@@ -33,7 +33,7 @@ window.actressData = {
         "古東まりこ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-425"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-425"
     },
     {
       "id": 2789,
@@ -50,7 +50,7 @@ window.actressData = {
         "波多野结衣",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-541"
     },
     {
       "id": 2944,
@@ -67,7 +67,7 @@ window.actressData = {
         "吉泽友贵",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-290"
     },
     {
       "id": 3112,
@@ -84,7 +84,7 @@ window.actressData = {
         "入田真綾",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-426"
     },
     {
       "id": 3295,
@@ -102,7 +102,7 @@ window.actressData = {
         "ラビットけんと",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-665"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-665"
     },
     {
       "id": 3364,
@@ -121,7 +121,7 @@ window.actressData = {
         "青沼",
         "マース"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-862"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-862"
     },
     {
       "id": 4198,
@@ -138,7 +138,7 @@ window.actressData = {
         "入田真綾",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-420"
     },
     {
       "id": 4489,
@@ -158,7 +158,7 @@ window.actressData = {
         "新村晶",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-186"
     },
     {
       "id": 4468,
@@ -175,7 +175,7 @@ window.actressData = {
         "虹村由美",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-329"
     },
     {
       "id": 63038,
@@ -192,7 +192,7 @@ window.actressData = {
         "今井栞菜",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-273"
     },
     {
       "id": 63229,
@@ -212,7 +212,7 @@ window.actressData = {
         "若月もあ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-262"
     },
     {
       "id": 63447,
@@ -229,7 +229,7 @@ window.actressData = {
         "青沼",
         "塩見剣人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTHTD-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-113"
     },
     {
       "id": 5089,
@@ -248,7 +248,7 @@ window.actressData = {
         "ラヴズ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-646"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-646"
     },
     {
       "id": 5302,
@@ -267,7 +267,7 @@ window.actressData = {
         "じゅうもんじ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-180"
     },
     {
       "id": 66447,
@@ -285,7 +285,7 @@ window.actressData = {
         "青沼",
         "磯山道"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-876"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-876"
     },
     {
       "id": 3825,
@@ -302,7 +302,7 @@ window.actressData = {
         "五芭",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-751"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-751"
     },
     {
       "id": 5463,
@@ -319,7 +319,7 @@ window.actressData = {
         "波多野结衣",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-270"
     },
     {
       "id": 63589,
@@ -337,7 +337,7 @@ window.actressData = {
         "じゅうもんじ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-248"
     },
     {
       "id": 6327,
@@ -356,7 +356,7 @@ window.actressData = {
         "青沼",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-681"
     },
     {
       "id": 6914,
@@ -374,7 +374,7 @@ window.actressData = {
         "マサムー",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-314"
     },
     {
       "id": 7154,
@@ -391,7 +391,7 @@ window.actressData = {
         "若宮穂乃",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-734"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-734"
     },
     {
       "id": 7402,
@@ -408,7 +408,7 @@ window.actressData = {
         "JULIA",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-457"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-457"
     },
     {
       "id": 7563,
@@ -426,7 +426,7 @@ window.actressData = {
         "日森一",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-647"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-647"
     },
     {
       "id": 7698,
@@ -443,7 +443,7 @@ window.actressData = {
         "波多野结衣",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-253"
     },
     {
       "id": 7824,
@@ -461,7 +461,7 @@ window.actressData = {
         "ラビットけんと",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-727"
     },
     {
       "id": 69482,
@@ -480,7 +480,7 @@ window.actressData = {
         "椎叶みくる",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-625"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-625"
     }
   ]
 };

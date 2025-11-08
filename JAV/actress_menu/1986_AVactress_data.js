@@ -52,7 +52,7 @@ window.actressData = {
         "加贺美さら",
         "雨宫もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-300"
     },
     {
       "id": 100913,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "二之宮りえな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-108"
     },
     {
       "id": 91358,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "二之宮りえな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHUC-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-036"
     },
     {
       "id": 87062,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "二之宮りえな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-192"
     },
     {
       "id": 67920,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "二之宮りえな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGOLD-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-015"
     },
     {
       "id": 100540,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "二之宮りえな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGOLD-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-012"
     }
   ]
 };

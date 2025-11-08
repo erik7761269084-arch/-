@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "星野娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-257"
     },
     {
       "id": 106743,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "星野娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-247"
     },
     {
       "id": 74582,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "星野娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-153"
     },
     {
       "id": 70253,
@@ -117,7 +117,7 @@ window.actressData = {
         "星野娜美",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-882"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-882"
     },
     {
       "id": 9477,
@@ -134,7 +134,7 @@ window.actressData = {
         "星野娜美",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-543"
     },
     {
       "id": 9561,
@@ -153,7 +153,7 @@ window.actressData = {
         "イセドン内村",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-517"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-517"
     },
     {
       "id": 9802,
@@ -170,7 +170,7 @@ window.actressData = {
         "星野娜美",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-494"
     },
     {
       "id": 11101,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "星野娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-433"
     },
     {
       "id": 13067,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "星野娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-345"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-345"
     },
     {
       "id": 13120,
@@ -222,7 +222,7 @@ window.actressData = {
         "星野娜美",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-333"
     },
     {
       "id": 13269,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "星野娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-323"
     },
     {
       "id": 14940,
@@ -255,7 +255,7 @@ window.actressData = {
         "星野娜美",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-230"
     },
     {
       "id": 96275,
@@ -273,7 +273,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-555"
     },
     {
       "id": 96142,
@@ -291,7 +291,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-510"
     },
     {
       "id": 87995,
@@ -313,7 +313,7 @@ window.actressData = {
         "星野娜美",
         "美里有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-127"
     },
     {
       "id": 96141,
@@ -330,7 +330,7 @@ window.actressData = {
         "星野娜美",
         "ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-418"
     },
     {
       "id": 96278,
@@ -346,7 +346,7 @@ window.actressData = {
       "actress": [
         "星野娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-373"
     },
     {
       "id": 77626,
@@ -363,7 +363,7 @@ window.actressData = {
         "星野娜美",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-026"
     },
     {
       "id": 73447,
@@ -379,7 +379,7 @@ window.actressData = {
       "actress": [
         "星野娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-991"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-991"
     }
   ]
 };

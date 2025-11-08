@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "藤咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-693"
     },
     {
       "id": 7753,
@@ -78,7 +78,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-507"
     },
     {
       "id": 8450,
@@ -95,7 +95,7 @@ window.actressData = {
         "天美めあ",
         "藤咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-478"
     },
     {
       "id": 9260,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "藤咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-465"
     }
   ]
 };

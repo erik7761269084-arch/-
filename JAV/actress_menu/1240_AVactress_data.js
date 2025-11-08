@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "優希真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S40"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S40"
     },
     {
       "id": 1652,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "優希真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1341"
     },
     {
       "id": 1571,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "優希真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1234"
     },
     {
       "id": 1631,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "優希真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1216"
     }
   ]
 };

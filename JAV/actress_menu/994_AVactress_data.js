@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "篠咲拉拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTDH-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDH-010"
     },
     {
       "id": 8354,
@@ -71,7 +71,7 @@ window.actressData = {
         "乃木絢愛",
         "篠咲拉拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-724"
     },
     {
       "id": 9737,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "篠咲拉拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-130"
     }
   ]
 };

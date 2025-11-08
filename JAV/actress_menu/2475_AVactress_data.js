@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "白咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91CM-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=91CM-248"
     },
     {
       "id": 83477,
@@ -85,7 +85,7 @@ window.actressData = {
         "前田いろは",
         "桐谷しほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-062"
     },
     {
       "id": 76988,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "白咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-286"
     },
     {
       "id": 78284,
@@ -120,7 +120,7 @@ window.actressData = {
         "吉泽ひかり",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-093"
     },
     {
       "id": 71408,
@@ -140,7 +140,7 @@ window.actressData = {
         "宫名初季",
         "优木カリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-421"
     },
     {
       "id": 70408,
@@ -157,7 +157,7 @@ window.actressData = {
         "白咲花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGA-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-132"
     }
   ]
 };

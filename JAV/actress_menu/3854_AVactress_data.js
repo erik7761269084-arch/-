@@ -39,7 +39,7 @@ window.actressData = {
         "玉木玲",
         "伊东千奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-585"
     },
     {
       "id": 73324,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "伊东千奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-460"
     },
     {
       "id": 106987,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "伊东千奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-443"
     },
     {
       "id": 95905,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "伊东千奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-362"
     },
     {
       "id": 95906,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "伊东千奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-350"
     },
     {
       "id": 105525,
@@ -120,7 +120,7 @@ window.actressData = {
         "大岛丈",
         "伊东千奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-291"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "夏目さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIS-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-111"
     },
     {
       "id": 77014,
@@ -53,7 +53,7 @@ window.actressData = {
         "夏目さゆり",
         "夏日风"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-047"
     },
     {
       "id": 92751,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "夏目さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIS-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-104"
     },
     {
       "id": 74817,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "夏目さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-015"
     },
     {
       "id": 74418,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "夏目さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-014"
     },
     {
       "id": 78384,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "夏目さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-012"
     }
   ]
 };

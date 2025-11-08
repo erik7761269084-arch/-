@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "坂野由梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-021"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "桜田みつ叶",
         "はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DROP-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DROP-053"
     },
     {
       "id": 82955,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "桜田みつ叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1232"
     },
     {
       "id": 71624,
@@ -69,7 +69,7 @@ window.actressData = {
         "小田切ジュン",
         "桜田みつ叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-046"
     }
   ]
 };

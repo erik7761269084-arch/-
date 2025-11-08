@@ -41,7 +41,7 @@ window.actressData = {
         "桥本丽华",
         "松下美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-012"
     },
     {
       "id": 86962,
@@ -63,7 +63,7 @@ window.actressData = {
         "市桥惠理奈",
         "纱凪美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-416"
     },
     {
       "id": 77020,
@@ -83,7 +83,7 @@ window.actressData = {
         "相泽ゆりな",
         "平野爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-231"
     },
     {
       "id": 106297,
@@ -103,7 +103,7 @@ window.actressData = {
         "望月",
         "松下美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-396"
     },
     {
       "id": 88518,
@@ -121,7 +121,7 @@ window.actressData = {
         "松下美织",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-158"
     },
     {
       "id": 99913,
@@ -139,7 +139,7 @@ window.actressData = {
         "ちなみん",
         "松下美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-356"
     },
     {
       "id": 77336,
@@ -158,7 +158,7 @@ window.actressData = {
         "松下美织",
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-202"
     },
     {
       "id": 71086,
@@ -179,7 +179,7 @@ window.actressData = {
         "松下美织",
         "华月瑠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-409"
     }
   ]
 };

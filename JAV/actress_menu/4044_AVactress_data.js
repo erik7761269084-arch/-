@@ -40,7 +40,7 @@ window.actressData = {
         "冬爱琴音",
         "ななせ麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-857"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-857"
     },
     {
       "id": 70576,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "ななせ麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIKB-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-040"
     },
     {
       "id": 77637,
@@ -75,7 +75,7 @@ window.actressData = {
         "天野美优",
         "ななせ麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-406"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-406"
     },
     {
       "id": 73802,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "ななせ麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-409"
     }
   ]
 };

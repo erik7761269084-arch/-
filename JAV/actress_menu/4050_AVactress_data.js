@@ -35,7 +35,7 @@ window.actressData = {
         "佐久间恵美",
         "沢原佑香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-595"
     },
     {
       "id": 81618,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "沢原佑香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOI-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOI-032"
     },
     {
       "id": 74399,
@@ -68,7 +68,7 @@ window.actressData = {
         "タツ",
         "沢原佑香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIC-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-061"
     }
   ]
 };

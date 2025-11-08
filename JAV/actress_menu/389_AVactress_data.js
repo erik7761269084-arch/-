@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-305"
     },
     {
       "id": 4005,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-258"
     },
     {
       "id": 60799,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAAC-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAAC-032"
     },
     {
       "id": 4982,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-214"
     },
     {
       "id": 5718,
@@ -124,7 +124,7 @@ window.actressData = {
         "百田光稀",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-139"
     },
     {
       "id": 6516,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-102"
     },
     {
       "id": 7175,
@@ -157,7 +157,7 @@ window.actressData = {
         "清宮仁愛",
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-190"
     },
     {
       "id": 7904,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-064"
     },
     {
       "id": 8644,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-026"
     },
     {
       "id": 9434,
@@ -206,7 +206,7 @@ window.actressData = {
         "百田光稀",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-985"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-985"
     },
     {
       "id": 10316,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-943"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-943"
     },
     {
       "id": 16482,
@@ -239,7 +239,7 @@ window.actressData = {
         "百田光稀",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-577"
     },
     {
       "id": 17014,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-574"
     },
     {
       "id": 17503,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-569"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-569"
     }
   ]
 };

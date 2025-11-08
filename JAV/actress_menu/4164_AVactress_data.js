@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "伊藤好玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMRAA-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMRAA-361"
     },
     {
       "id": 95443,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "伊藤好玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMRAA-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMRAA-350"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
         "澤乃明日香",
         "山本かをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEZ-803"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-803"
     },
     {
       "id": 5823,
@@ -71,7 +71,7 @@ window.actressData = {
         "澤乃明日香",
         "城咲京花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-528"
     },
     {
       "id": 12420,
@@ -89,7 +89,7 @@ window.actressData = {
         "澤乃明日香",
         "真弓あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-016"
     },
     {
       "id": 93742,
@@ -107,7 +107,7 @@ window.actressData = {
         "美里亜希",
         "椎名朝妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-012"
     },
     {
       "id": 101207,
@@ -124,7 +124,7 @@ window.actressData = {
         "澤乃明日香",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-673"
     },
     {
       "id": 92018,
@@ -142,7 +142,7 @@ window.actressData = {
         "岩下たろう",
         "テッペイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-273"
     },
     {
       "id": 106621,
@@ -159,7 +159,7 @@ window.actressData = {
         "澤乃明日香",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-227"
     },
     {
       "id": 89178,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "澤乃明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-088"
     },
     {
       "id": 107025,
@@ -192,7 +192,7 @@ window.actressData = {
         "澤乃明日香",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-702"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-702"
     },
     {
       "id": 87857,
@@ -208,7 +208,7 @@ window.actressData = {
       "actress": [
         "澤乃明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-143"
     },
     {
       "id": 87866,
@@ -224,7 +224,7 @@ window.actressData = {
       "actress": [
         "澤乃明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-139"
     },
     {
       "id": 90266,
@@ -241,7 +241,7 @@ window.actressData = {
         "澤乃明日香",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-138"
     }
   ]
 };

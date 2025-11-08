@@ -33,7 +33,7 @@ window.actressData = {
         "阿由葉あみ",
         "花咲ひらり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-531"
     },
     {
       "id": 71422,
@@ -52,7 +52,7 @@ window.actressData = {
         "宫川ありさ",
         "花咲ひらり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-519"
     },
     {
       "id": 77335,
@@ -71,7 +71,7 @@ window.actressData = {
         "花咲ひらり",
         "相泽ゆりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-211"
     }
   ]
 };

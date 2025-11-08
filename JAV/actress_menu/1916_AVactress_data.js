@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "上原結衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-77"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-77"
     },
     {
       "id": 1915,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "上原結衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-79"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-79"
     }
   ]
 };

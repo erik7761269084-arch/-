@@ -34,7 +34,7 @@ window.actressData = {
         "冲田里绪",
         "黒江リィナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-690"
     },
     {
       "id": 81989,
@@ -53,7 +53,7 @@ window.actressData = {
         "冲田里绪",
         "夜空せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-063"
     },
     {
       "id": 81773,
@@ -71,7 +71,7 @@ window.actressData = {
         "冲田里绪",
         "今井まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANE-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANE-044"
     },
     {
       "id": 78124,
@@ -90,7 +90,7 @@ window.actressData = {
         "冲田里绪",
         "樱美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-646"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-646"
     },
     {
       "id": 71133,
@@ -111,7 +111,7 @@ window.actressData = {
         "新垣ことり",
         "今井まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-652"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-652"
     },
     {
       "id": 74472,
@@ -131,7 +131,7 @@ window.actressData = {
         "タツ",
         "冲田里绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-838"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-838"
     },
     {
       "id": 71490,
@@ -151,7 +151,7 @@ window.actressData = {
         "千种ちな",
         "爱原れの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-013"
     },
     {
       "id": 71193,
@@ -169,7 +169,7 @@ window.actressData = {
         "冲田里绪",
         "斉藤ゆいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-262"
     },
     {
       "id": 74055,
@@ -188,7 +188,7 @@ window.actressData = {
         "织田真琴",
         "市桥惠理奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUBI-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUBI-027"
     },
     {
       "id": 70306,
@@ -208,7 +208,7 @@ window.actressData = {
         "春埼芽衣",
         "冲田里绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-003"
     },
     {
       "id": 86962,
@@ -230,7 +230,7 @@ window.actressData = {
         "市桥惠理奈",
         "纱凪美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-416"
     },
     {
       "id": 77862,
@@ -246,7 +246,7 @@ window.actressData = {
       "actress": [
         "冲田里绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-002"
     },
     {
       "id": 97452,
@@ -266,7 +266,7 @@ window.actressData = {
         "枢木美栞",
         "冲田里绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-624"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-624"
     },
     {
       "id": 79178,
@@ -286,7 +286,7 @@ window.actressData = {
         "塩见彩",
         "冲田里绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-017"
     }
   ]
 };

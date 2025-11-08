@@ -36,7 +36,7 @@ window.actressData = {
         "円城ひとみ",
         "柏木舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-145"
     },
     {
       "id": 95192,
@@ -61,7 +61,7 @@ window.actressData = {
         "柏木舞子",
         "黒川珠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-344"
     },
     {
       "id": 93391,
@@ -82,7 +82,7 @@ window.actressData = {
         "松冈瑠実",
         "大森凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-092"
     },
     {
       "id": 74590,
@@ -99,7 +99,7 @@ window.actressData = {
         "向理来",
         "柏木舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOEN-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOEN-023"
     },
     {
       "id": 83507,
@@ -118,7 +118,7 @@ window.actressData = {
         "柏木舞子",
         "木村志乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-505"
     },
     {
       "id": 81635,
@@ -136,7 +136,7 @@ window.actressData = {
         "木村志乃",
         "藤原京子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOJU-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOJU-137"
     },
     {
       "id": 78176,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "柏木舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-059"
     },
     {
       "id": 76883,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "柏木舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEGO-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEGO-001"
     }
   ]
 };

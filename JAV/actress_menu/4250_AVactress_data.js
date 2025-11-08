@@ -35,7 +35,7 @@ window.actressData = {
         "织田真琴",
         "市桥惠理奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUBI-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUBI-027"
     },
     {
       "id": 86962,
@@ -57,7 +57,7 @@ window.actressData = {
         "市桥惠理奈",
         "纱凪美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-416"
     },
     {
       "id": 72223,
@@ -75,7 +75,7 @@ window.actressData = {
         "市桥惠理奈",
         "菊川みつ叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AFS-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-036"
     },
     {
       "id": 78455,
@@ -94,7 +94,7 @@ window.actressData = {
         "さくらはる",
         "西野悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-043"
     }
   ]
 };

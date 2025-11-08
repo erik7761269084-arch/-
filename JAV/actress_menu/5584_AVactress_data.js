@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "望月律花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-166"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-166"
     },
     {
       "id": 89127,
@@ -51,7 +51,7 @@ window.actressData = {
         "桥野爱琉",
         "望月律花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3403"
     }
   ]
 };

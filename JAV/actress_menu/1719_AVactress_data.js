@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "爱泽花梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S102"
     },
     {
       "id": 1799,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "爱泽花梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-128"
     }
   ]
 };

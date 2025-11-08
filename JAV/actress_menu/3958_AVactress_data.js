@@ -43,7 +43,7 @@ window.actressData = {
         "中村知恵",
         "新谷美爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-433"
     },
     {
       "id": 88930,
@@ -68,7 +68,7 @@ window.actressData = {
         "中村知恵",
         "柊莉々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-507"
     },
     {
       "id": 89538,
@@ -94,7 +94,7 @@ window.actressData = {
         "新井爱丽",
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-465"
     },
     {
       "id": 85183,
@@ -112,7 +112,7 @@ window.actressData = {
         "朝桐光",
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIR-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-050"
     },
     {
       "id": 71860,
@@ -129,7 +129,7 @@ window.actressData = {
         "優月真裡奈",
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-476"
     },
     {
       "id": 75437,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1233"
     },
     {
       "id": 76987,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-282"
     },
     {
       "id": 70932,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-068"
     },
     {
       "id": 77378,
@@ -194,7 +194,7 @@ window.actressData = {
         "三岛奈津子",
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-222"
     },
     {
       "id": 70069,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URPW-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URPW-044"
     },
     {
       "id": 71401,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-168"
     },
     {
       "id": 71051,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-710"
     }
   ]
 };

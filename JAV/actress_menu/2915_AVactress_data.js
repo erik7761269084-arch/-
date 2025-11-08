@@ -77,7 +77,7 @@ window.actressData = {
         "タツ",
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-752"
     },
     {
       "id": 81646,
@@ -100,7 +100,7 @@ window.actressData = {
         "森本つぐみ",
         "丸山れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-051"
     },
     {
       "id": 83304,
@@ -119,7 +119,7 @@ window.actressData = {
         "有花萌",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-290"
     },
     {
       "id": 75748,
@@ -138,7 +138,7 @@ window.actressData = {
         "御坂莉亚",
         "柊ゆうの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-226"
     },
     {
       "id": 82798,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "小森美久露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-605"
     },
     {
       "id": 77164,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "小森美久露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-040"
     },
     {
       "id": 75696,
@@ -187,7 +187,7 @@ window.actressData = {
         "小森美久露",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-051"
     },
     {
       "id": 83855,
@@ -205,7 +205,7 @@ window.actressData = {
         "小森美久露",
         "今井夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YRH-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YRH-217"
     },
     {
       "id": 83473,
@@ -225,7 +225,7 @@ window.actressData = {
         "タツ",
         "久远れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-063"
     },
     {
       "id": 83413,
@@ -241,7 +241,7 @@ window.actressData = {
       "actress": [
         "小森美久露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1218"
     },
     {
       "id": 76596,
@@ -259,7 +259,7 @@ window.actressData = {
         "小森美久露",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-372"
     },
     {
       "id": 94992,
@@ -276,7 +276,7 @@ window.actressData = {
         "小森美久露",
         "高坂あいり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-128"
     },
     {
       "id": 83823,
@@ -292,7 +292,7 @@ window.actressData = {
       "actress": [
         "小森美久露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKSK-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-016"
     },
     {
       "id": 72136,
@@ -311,7 +311,7 @@ window.actressData = {
         "若槻さくら",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-188"
     },
     {
       "id": 82274,
@@ -327,7 +327,7 @@ window.actressData = {
       "actress": [
         "小森美久露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-036"
     }
   ]
 };

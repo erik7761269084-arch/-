@@ -34,7 +34,7 @@ window.actressData = {
         "清音咲良",
         "若槻さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-309"
     },
     {
       "id": 76166,
@@ -60,7 +60,7 @@ window.actressData = {
         "小园梨央",
         "中西南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-184"
     },
     {
       "id": 75698,
@@ -81,7 +81,7 @@ window.actressData = {
         "若槻さくら",
         "堀口美衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-420"
     },
     {
       "id": 72136,
@@ -100,7 +100,7 @@ window.actressData = {
         "若槻さくら",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-188"
     }
   ]
 };

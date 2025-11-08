@@ -42,7 +42,7 @@ window.actressData = {
         "麻仓忧",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-265"
     },
     {
       "id": 69509,
@@ -61,7 +61,7 @@ window.actressData = {
         "香澄莉绪",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-115"
     },
     {
       "id": 87255,
@@ -79,7 +79,7 @@ window.actressData = {
         "河合阳菜",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-110"
     },
     {
       "id": 86671,
@@ -97,7 +97,7 @@ window.actressData = {
         "仲间明日香",
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-091"
     },
     {
       "id": 89498,
@@ -114,7 +114,7 @@ window.actressData = {
         "大岛丈",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1266"
     },
     {
       "id": 71398,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2230"
     },
     {
       "id": 94954,
@@ -149,7 +149,7 @@ window.actressData = {
         "河北麻衣",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-193"
     },
     {
       "id": 80502,
@@ -166,7 +166,7 @@ window.actressData = {
         "戸川夏也",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-362"
     }
   ]
 };

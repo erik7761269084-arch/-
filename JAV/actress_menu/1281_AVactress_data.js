@@ -51,7 +51,7 @@ window.actressData = {
         "左慈半造",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-259"
     }
   ]
 };

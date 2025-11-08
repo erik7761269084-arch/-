@@ -39,7 +39,7 @@ window.actressData = {
         "小向美奈子",
         "牧原れい子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-031"
     },
     {
       "id": 76850,
@@ -56,7 +56,7 @@ window.actressData = {
         "南佳也",
         "小向美奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-768"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-768"
     },
     {
       "id": 78142,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "小向美奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBYD-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBYD-300"
     },
     {
       "id": 82304,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "小向美奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-505"
     },
     {
       "id": 78054,
@@ -105,7 +105,7 @@ window.actressData = {
         "イセドン内村",
         "小向美奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-468"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-468"
     },
     {
       "id": 74452,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "小向美奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-441"
     }
   ]
 };

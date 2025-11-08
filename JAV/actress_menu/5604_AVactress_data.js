@@ -34,7 +34,7 @@ window.actressData = {
         "磐井玲子",
         "藍沢汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-049"
     },
     {
       "id": 89717,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "藍沢汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-157"
     }
   ]
 };

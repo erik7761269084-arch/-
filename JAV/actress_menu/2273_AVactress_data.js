@@ -53,7 +53,7 @@ window.actressData = {
         "弘前綾香",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMGH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-011"
     }
   ]
 };

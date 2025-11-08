@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-112"
     },
     {
       "id": 9454,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-621"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-621"
     },
     {
       "id": 10280,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-101"
     },
     {
       "id": 12947,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-123"
     },
     {
       "id": 13688,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-115"
     },
     {
       "id": 16971,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-513"
     },
     {
       "id": 17991,
@@ -154,7 +154,7 @@ window.actressData = {
         "工藤由羅",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-083"
     },
     {
       "id": 73243,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-829"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-829"
     },
     {
       "id": 107067,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-809"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-809"
     },
     {
       "id": 68571,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-780"
     }
   ]
 };

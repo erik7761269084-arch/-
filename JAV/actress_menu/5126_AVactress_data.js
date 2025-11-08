@@ -33,7 +33,7 @@ window.actressData = {
         "葵玲奈",
         "泽村香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-098"
     },
     {
       "id": 82017,
@@ -50,7 +50,7 @@ window.actressData = {
         "大島愛里亞",
         "泽村香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-089"
     }
   ]
 };

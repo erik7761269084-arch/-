@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "逢坂希穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-266"
     },
     {
       "id": 3183,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "逢坂希穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-270"
     },
     {
       "id": 7565,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "逢坂希穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-199"
     },
     {
       "id": 9007,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "逢坂希穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-187"
     }
   ]
 };

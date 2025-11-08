@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-084"
     },
     {
       "id": 4563,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-073"
     },
     {
       "id": 5423,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-043"
     },
     {
       "id": 6686,
@@ -102,7 +102,7 @@ window.actressData = {
         "小田切ジュン",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-019"
     },
     {
       "id": 6365,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-028"
     },
     {
       "id": 7600,
@@ -136,7 +136,7 @@ window.actressData = {
         "じゅうもんじ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-018"
     },
     {
       "id": 8937,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-963"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-963"
     },
     {
       "id": 8176,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-980"
     },
     {
       "id": 9826,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-916"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-916"
     },
     {
       "id": 10724,
@@ -201,7 +201,7 @@ window.actressData = {
         "御園桃",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-902"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-902"
     },
     {
       "id": 11395,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-859"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-859"
     },
     {
       "id": 16429,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "御園桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-754"
     }
   ]
 };

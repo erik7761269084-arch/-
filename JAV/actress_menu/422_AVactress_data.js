@@ -81,7 +81,7 @@ window.actressData = {
         "成宫いろは",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-363"
     },
     {
       "id": 95288,
@@ -102,7 +102,7 @@ window.actressData = {
         "吉瀬菜々子",
         "黒泽雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-331"
     },
     {
       "id": 106088,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-099"
     },
     {
       "id": 67171,
@@ -135,7 +135,7 @@ window.actressData = {
         "篠惠美",
         "平井シンジ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANGR-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANGR-011"
     },
     {
       "id": 71085,
@@ -153,7 +153,7 @@ window.actressData = {
         "篠惠美",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-437"
     },
     {
       "id": 73806,
@@ -173,7 +173,7 @@ window.actressData = {
         "凉川绚音",
         "逢沢るる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-471"
     },
     {
       "id": 12411,
@@ -190,7 +190,7 @@ window.actressData = {
         "友田彩也香",
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMGH-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-002"
     },
     {
       "id": 77907,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-454"
     },
     {
       "id": 88370,
@@ -226,7 +226,7 @@ window.actressData = {
         "西尾れむ",
         "今野美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-219"
     },
     {
       "id": 86916,
@@ -243,7 +243,7 @@ window.actressData = {
         "篠惠美",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-298"
     },
     {
       "id": 107161,
@@ -266,7 +266,7 @@ window.actressData = {
         "水希杏",
         "椿かなり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-404"
     },
     {
       "id": 88450,
@@ -284,7 +284,7 @@ window.actressData = {
         "芹沢つむぎ",
         "星川麻纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-641"
     },
     {
       "id": 1533,
@@ -306,7 +306,7 @@ window.actressData = {
         "真白希実",
         "永作亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-127"
     },
     {
       "id": 1987,
@@ -322,7 +322,7 @@ window.actressData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-090"
     },
     {
       "id": 1731,
@@ -338,7 +338,7 @@ window.actressData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-076"
     },
     {
       "id": 1796,
@@ -354,7 +354,7 @@ window.actressData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-53"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-53"
     },
     {
       "id": 1910,
@@ -370,7 +370,7 @@ window.actressData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S24"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S24"
     },
     {
       "id": 1972,
@@ -386,7 +386,7 @@ window.actressData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-068"
     },
     {
       "id": 2047,
@@ -402,7 +402,7 @@ window.actressData = {
       "actress": [
         "篠惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-051"
     }
   ]
 };

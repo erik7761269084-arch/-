@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "若叶加奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-155"
     },
     {
       "id": 63419,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "若叶加奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-059"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "ししお",
         "西丘エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKOU-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKOU-005"
     },
     {
       "id": 87801,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "西丘エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-249"
     }
   ]
 };

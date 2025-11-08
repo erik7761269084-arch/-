@@ -55,7 +55,7 @@ window.actressData = {
         "佐藤しお",
         "如月りいさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNEO-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-091"
     },
     {
       "id": 8117,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-560"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-560"
     },
     {
       "id": 8784,
@@ -88,7 +88,7 @@ window.actressData = {
         "弓乃凜夢",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-540"
     },
     {
       "id": 10422,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-498"
     },
     {
       "id": 16639,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-155"
     },
     {
       "id": 16840,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-304"
     },
     {
       "id": 17313,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-636"
     },
     {
       "id": 17730,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-567"
     },
     {
       "id": 17981,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-579"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-579"
     },
     {
       "id": 18210,
@@ -202,7 +202,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-241"
     },
     {
       "id": 18394,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-232"
     },
     {
       "id": 18393,
@@ -235,7 +235,7 @@ window.actressData = {
         "弓乃凜夢",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-645"
     },
     {
       "id": 106973,
@@ -251,7 +251,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-226"
     },
     {
       "id": 107038,
@@ -268,7 +268,7 @@ window.actressData = {
         "弓乃凜夢",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-216"
     },
     {
       "id": 88968,
@@ -284,7 +284,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-089"
     },
     {
       "id": 88897,
@@ -300,7 +300,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPPN-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-241"
     },
     {
       "id": 107286,
@@ -317,7 +317,7 @@ window.actressData = {
         "弓乃凜夢",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-015"
     },
     {
       "id": 68665,
@@ -333,7 +333,7 @@ window.actressData = {
       "actress": [
         "弓乃凜夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-083"
     },
     {
       "id": 92388,
@@ -351,7 +351,7 @@ window.actressData = {
         "小田切ジュン",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-080"
     }
   ]
 };

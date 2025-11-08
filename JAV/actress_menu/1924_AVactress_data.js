@@ -63,7 +63,7 @@ window.actressData = {
         "安倍亜沙美",
         "永濑唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-090"
     },
     {
       "id": 62865,
@@ -88,7 +88,7 @@ window.actressData = {
         "新垣智江",
         "天月叶菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-969"
     },
     {
       "id": 69714,
@@ -113,7 +113,7 @@ window.actressData = {
         "安倍亜沙美",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-534"
     },
     {
       "id": 94426,
@@ -135,7 +135,7 @@ window.actressData = {
         "菅谷わかの",
         "绫乃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPO-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPO-021"
     },
     {
       "id": 87379,
@@ -158,7 +158,7 @@ window.actressData = {
         "大沢カスミ",
         "きみと歩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DBER-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBER-160"
     },
     {
       "id": 82147,
@@ -181,7 +181,7 @@ window.actressData = {
         "相沢夏帆",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-297"
     },
     {
       "id": 83712,
@@ -203,7 +203,7 @@ window.actressData = {
         "橘エレナ",
         "早坂麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-292"
     },
     {
       "id": 83112,
@@ -222,7 +222,7 @@ window.actressData = {
         "相沢夏帆",
         "七海ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-588"
     },
     {
       "id": 75639,
@@ -245,7 +245,7 @@ window.actressData = {
         "佐久间恵美",
         "さくらはる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-590"
     },
     {
       "id": 73949,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "相沢夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-224"
     },
     {
       "id": 77887,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "相沢夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-537"
     },
     {
       "id": 73700,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "相沢夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1108"
     },
     {
       "id": 75071,
@@ -310,7 +310,7 @@ window.actressData = {
         "川上優",
         "相沢夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-125"
     },
     {
       "id": 73851,
@@ -327,7 +327,7 @@ window.actressData = {
         "相沢夏帆",
         "森菜菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKSK-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-003"
     },
     {
       "id": 71089,
@@ -344,7 +344,7 @@ window.actressData = {
         "相沢夏帆",
         "三岛奈津子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-831"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-831"
     },
     {
       "id": 82725,
@@ -360,7 +360,7 @@ window.actressData = {
       "actress": [
         "相沢夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-368"
     },
     {
       "id": 77339,
@@ -380,7 +380,7 @@ window.actressData = {
         "相沢夏帆",
         "桃尻かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-182"
     },
     {
       "id": 82695,
@@ -396,7 +396,7 @@ window.actressData = {
       "actress": [
         "相沢夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-574"
     },
     {
       "id": 82497,
@@ -413,7 +413,7 @@ window.actressData = {
         "相沢夏帆",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-650"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-650"
     }
   ]
 };

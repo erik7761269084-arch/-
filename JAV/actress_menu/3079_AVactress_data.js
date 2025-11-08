@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "柴田良香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-254"
     },
     {
       "id": 59699,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "柴田良香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-234"
     }
   ]
 };

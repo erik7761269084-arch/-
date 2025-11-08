@@ -46,7 +46,7 @@ window.actressData = {
         "春日惠奈",
         "上白美央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-534"
     },
     {
       "id": 12706,
@@ -63,7 +63,7 @@ window.actressData = {
         "上白美央",
         "冴島翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-268"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
         "神野藍",
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-045"
     },
     {
       "id": 85807,
@@ -70,7 +70,7 @@ window.actressData = {
         "推川悠里",
         "神野藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-644"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-644"
     },
     {
       "id": 80454,
@@ -90,7 +90,7 @@ window.actressData = {
         "水谷あおい",
         "田嶋まお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-153"
     },
     {
       "id": 86035,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "神野藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-434"
     },
     {
       "id": 79486,
@@ -125,7 +125,7 @@ window.actressData = {
         "二の宫すずか",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-580"
     },
     {
       "id": 79716,
@@ -144,7 +144,7 @@ window.actressData = {
         "弥生美月",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-568"
     },
     {
       "id": 86127,
@@ -162,7 +162,7 @@ window.actressData = {
         "うららか丽",
         "凑ひめか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-087"
     }
   ]
 };

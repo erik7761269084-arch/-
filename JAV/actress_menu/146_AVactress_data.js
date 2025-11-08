@@ -67,7 +67,7 @@ window.actressData = {
         "ニック",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-726"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-726"
     },
     {
       "id": 4958,
@@ -84,7 +84,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-187"
     },
     {
       "id": 5728,
@@ -101,7 +101,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-038"
     },
     {
       "id": 6790,
@@ -118,7 +118,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-289"
     },
     {
       "id": 7351,
@@ -135,7 +135,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-614"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-614"
     },
     {
       "id": 8105,
@@ -153,7 +153,7 @@ window.actressData = {
         "左慈半造",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-190"
     },
     {
       "id": 8777,
@@ -170,7 +170,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-170"
     },
     {
       "id": 9708,
@@ -187,7 +187,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-121"
     },
     {
       "id": 10419,
@@ -204,7 +204,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-984"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-984"
     },
     {
       "id": 15920,
@@ -221,7 +221,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-617"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-617"
     },
     {
       "id": 16663,
@@ -239,7 +239,7 @@ window.actressData = {
         "大岛丈",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-533"
     },
     {
       "id": 17114,
@@ -256,7 +256,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-483"
     },
     {
       "id": 17617,
@@ -273,7 +273,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-442"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-442"
     },
     {
       "id": 18229,
@@ -290,7 +290,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-415"
     },
     {
       "id": 18493,
@@ -307,7 +307,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-738"
     },
     {
       "id": 18539,
@@ -324,7 +324,7 @@ window.actressData = {
         "栗山莉緒",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-720"
     },
     {
       "id": 18828,
@@ -342,7 +342,7 @@ window.actressData = {
         "本田さとみ",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-575"
     }
   ]
 };

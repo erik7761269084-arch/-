@@ -42,7 +42,7 @@ window.actressData = {
       "actress": [
         "久野和咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-532"
     },
     {
       "id": 17103,
@@ -60,7 +60,7 @@ window.actressData = {
         "輝大",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-493"
     },
     {
       "id": 91752,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "久野和咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-444"
     },
     {
       "id": 106718,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "久野和咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-420"
     },
     {
       "id": 91701,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "久野和咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-394"
     }
   ]
 };

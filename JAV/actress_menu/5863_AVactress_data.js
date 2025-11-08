@@ -37,7 +37,7 @@ window.actressData = {
         "ウェンレイシン",
         "モンルォユー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WWMM-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WWMM-002"
     },
     {
       "id": 14781,
@@ -54,7 +54,7 @@ window.actressData = {
         "温芮欣",
         "ウェンレイシン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RATW-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RATW-010"
     }
   ]
 };

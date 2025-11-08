@@ -35,7 +35,7 @@ window.actressData = {
         "日向みさき",
         "野春あゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-190"
     }
   ]
 };

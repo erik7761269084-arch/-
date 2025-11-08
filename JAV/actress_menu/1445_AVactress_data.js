@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "森野美由纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-121"
     }
   ]
 };

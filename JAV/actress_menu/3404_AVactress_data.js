@@ -40,7 +40,7 @@ window.actressData = {
         "涟ゆめ",
         "樱井夕树"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-266"
     },
     {
       "id": 95979,
@@ -57,7 +57,7 @@ window.actressData = {
         "村上涼子",
         "五十岚しのぶ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-362"
     }
   ]
 };

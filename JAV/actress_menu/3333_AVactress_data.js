@@ -40,7 +40,7 @@ window.actressData = {
         "及川莉央",
         "藤田さち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
     },
     {
       "id": 63309,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "藤田さち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZOZO-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOZO-239"
     }
   ]
 };

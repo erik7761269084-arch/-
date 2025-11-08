@@ -56,7 +56,7 @@ window.actressData = {
         "宮崎由麻",
         "三沢明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-05"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-05"
     },
     {
       "id": 1711,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "绫濑妃亚罗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-51"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-51"
     }
   ]
 };

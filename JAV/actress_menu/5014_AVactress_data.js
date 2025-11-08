@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "本桥実来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-253"
     },
     {
       "id": 81459,
@@ -52,7 +52,7 @@ window.actressData = {
         "一ノ瀬菫",
         "本桥実来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-757"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "奥山ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-869"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-869"
     }
   ]
 };

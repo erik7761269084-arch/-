@@ -43,7 +43,7 @@ window.actressData = {
       "actress": [
         "菊市桃子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-178"
     },
     {
       "id": 75993,
@@ -64,7 +64,7 @@ window.actressData = {
         "高瀬智香",
         "西宫纪香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-046"
     },
     {
       "id": 74474,
@@ -81,7 +81,7 @@ window.actressData = {
         "菊市桃子",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-838"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-838"
     },
     {
       "id": 100740,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "菊市桃子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CP-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CP-019"
     }
   ]
 };

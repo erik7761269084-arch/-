@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "峰玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-388"
     },
     {
       "id": 10360,
@@ -63,7 +63,7 @@ window.actressData = {
         "峰玲子",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-370"
     },
     {
       "id": 9599,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "峰玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-374"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-374"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "桃瀬ゆり",
         "星野はるあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-440"
     }
   ]
 };

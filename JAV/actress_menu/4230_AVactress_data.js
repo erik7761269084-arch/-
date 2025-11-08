@@ -42,7 +42,7 @@ window.actressData = {
         "南凉",
         "茜麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     },
     {
       "id": 74870,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "やしきれな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-128"
     },
     {
       "id": 72145,
@@ -77,7 +77,7 @@ window.actressData = {
         "逢月はるな",
         "やしきれな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-149"
     }
   ]
 };

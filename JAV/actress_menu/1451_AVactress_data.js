@@ -51,7 +51,7 @@ window.actressData = {
         "八坂凪",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-302"
     },
     {
       "id": 3964,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "八坂凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-251"
     }
   ]
 };

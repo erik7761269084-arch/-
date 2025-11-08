@@ -37,7 +37,7 @@ window.actressData = {
         "天野美优",
         "西原ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDB-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDB-125"
     },
     {
       "id": 78064,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "西原ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-519"
     }
   ]
 };

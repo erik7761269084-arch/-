@@ -73,7 +73,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-396"
     },
     {
       "id": 5511,
@@ -90,7 +90,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-374"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-374"
     },
     {
       "id": 6280,
@@ -107,7 +107,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-353"
     },
     {
       "id": 7069,
@@ -124,7 +124,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-286"
     },
     {
       "id": 7739,
@@ -142,7 +142,7 @@ window.actressData = {
         "星宫一花",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-030"
     },
     {
       "id": 8280,
@@ -159,7 +159,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-748"
     },
     {
       "id": 9071,
@@ -177,7 +177,7 @@ window.actressData = {
         "小坂七香",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-731"
     },
     {
       "id": 9878,
@@ -195,7 +195,7 @@ window.actressData = {
         "星宫一花",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-726"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-726"
     },
     {
       "id": 10577,
@@ -213,7 +213,7 @@ window.actressData = {
         "星宫一花",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-720"
     },
     {
       "id": 12624,
@@ -230,7 +230,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-700"
     },
     {
       "id": 13331,
@@ -247,7 +247,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-696"
     },
     {
       "id": 14008,
@@ -264,7 +264,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-686"
     },
     {
       "id": 17922,
@@ -281,7 +281,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-930"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-930"
     },
     {
       "id": 18728,
@@ -299,7 +299,7 @@ window.actressData = {
         "星宫一花",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-837"
     },
     {
       "id": 8917,
@@ -317,7 +317,7 @@ window.actressData = {
         "星宫一花",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-572"
     },
     {
       "id": 9483,
@@ -336,7 +336,7 @@ window.actressData = {
         "イセドン内村",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-549"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-549"
     },
     {
       "id": 9516,
@@ -353,7 +353,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-523"
     },
     {
       "id": 10669,
@@ -371,7 +371,7 @@ window.actressData = {
         "星宫一花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-459"
     },
     {
       "id": 11374,
@@ -388,7 +388,7 @@ window.actressData = {
         "星宮一花",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-416"
     },
     {
       "id": 13066,
@@ -408,7 +408,7 @@ window.actressData = {
         "イセドン内村",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-354"
     },
     {
       "id": 13126,
@@ -426,7 +426,7 @@ window.actressData = {
         "星宫一花",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-332"
     }
   ]
 };

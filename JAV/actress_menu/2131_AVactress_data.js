@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "美星琉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-134"
     }
   ]
 };

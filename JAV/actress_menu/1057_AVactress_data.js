@@ -44,7 +44,7 @@ window.actressData = {
         "蓝井优太",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-994"
     },
     {
       "id": 17672,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "河西玲央奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-961"
     },
     {
       "id": 18243,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "河西玲央奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-922"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-922"
     },
     {
       "id": 18605,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "河西玲央奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-884"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-884"
     },
     {
       "id": 77519,
@@ -109,7 +109,7 @@ window.actressData = {
         "河西玲央奈",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-814"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-814"
     },
     {
       "id": 87705,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "河西玲央奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-774"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-774"
     }
   ]
 };

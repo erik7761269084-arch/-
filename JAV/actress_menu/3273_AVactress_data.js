@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "雨夏そよ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKS-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-179"
     },
     {
       "id": 4082,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "雨夏そよ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNMB-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMB-105"
     }
   ]
 };

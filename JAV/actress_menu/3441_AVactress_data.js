@@ -46,7 +46,7 @@ window.actressData = {
         "池田マリナ",
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-248"
     },
     {
       "id": 62762,
@@ -63,7 +63,7 @@ window.actressData = {
         "ラビットけんと",
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-663"
     },
     {
       "id": 63880,
@@ -82,7 +82,7 @@ window.actressData = {
         "池田マリナ",
         "さんたま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-647"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-647"
     },
     {
       "id": 68446,
@@ -99,7 +99,7 @@ window.actressData = {
         "ティカル",
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-628"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-628"
     },
     {
       "id": 70530,
@@ -116,7 +116,7 @@ window.actressData = {
         "左慈半造",
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-607"
     },
     {
       "id": 76159,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-528"
     },
     {
       "id": 78585,
@@ -149,7 +149,7 @@ window.actressData = {
         "もんご",
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-525"
     },
     {
       "id": 87387,
@@ -167,7 +167,7 @@ window.actressData = {
         "向理来",
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-051"
     }
   ]
 };

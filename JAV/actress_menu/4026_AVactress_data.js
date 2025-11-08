@@ -40,7 +40,7 @@ window.actressData = {
         "须崎まどか",
         "美咲みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-069"
     },
     {
       "id": 83167,
@@ -58,7 +58,7 @@ window.actressData = {
         "须崎まどか",
         "诗音乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROOM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-011"
     },
     {
       "id": 83154,
@@ -78,7 +78,7 @@ window.actressData = {
         "须崎まどか",
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-050"
     },
     {
       "id": 83477,
@@ -97,7 +97,7 @@ window.actressData = {
         "前田いろは",
         "桐谷しほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-062"
     },
     {
       "id": 83380,
@@ -116,7 +116,7 @@ window.actressData = {
         "须崎まどか",
         "川口ともか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KATU-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KATU-063"
     },
     {
       "id": 94898,
@@ -138,7 +138,7 @@ window.actressData = {
         "东条有希",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMA-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-052"
     },
     {
       "id": 74867,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "须崎まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-395"
     },
     {
       "id": 70414,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "须崎まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMF-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-003"
     },
     {
       "id": 91276,
@@ -187,7 +187,7 @@ window.actressData = {
         "鲛岛",
         "须崎まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-685"
     }
   ]
 };

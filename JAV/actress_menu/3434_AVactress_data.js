@@ -35,7 +35,7 @@ window.actressData = {
         "相沢澪",
         "TAE"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-305"
     },
     {
       "id": 6359,
@@ -54,7 +54,7 @@ window.actressData = {
         "豊崎清香",
         "TAE"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-291"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "一二三铃",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-061"
     },
     {
       "id": 87605,
@@ -56,7 +56,7 @@ window.actressData = {
         "山口椿",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-060"
     },
     {
       "id": 77071,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-190"
     },
     {
       "id": 75554,
@@ -91,7 +91,7 @@ window.actressData = {
         "桜井萌",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-816"
     },
     {
       "id": 75740,
@@ -108,7 +108,7 @@ window.actressData = {
         "久保今日子",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-426"
     },
     {
       "id": 75172,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEM-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEM-023"
     },
     {
       "id": 75993,
@@ -145,7 +145,7 @@ window.actressData = {
         "高瀬智香",
         "西宫纪香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-046"
     },
     {
       "id": 75514,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1232"
     },
     {
       "id": 77029,
@@ -182,7 +182,7 @@ window.actressData = {
         "桜树玲奈",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-118"
     },
     {
       "id": 75536,
@@ -199,7 +199,7 @@ window.actressData = {
         "平井シンジ",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AQSH-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-050"
     },
     {
       "id": 83136,
@@ -223,7 +223,7 @@ window.actressData = {
         "瀬戸すみれ",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-605"
     },
     {
       "id": 78395,
@@ -240,7 +240,7 @@ window.actressData = {
         "小田切ジュン",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-832"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-832"
     }
   ]
 };

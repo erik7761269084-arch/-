@@ -38,7 +38,7 @@ window.actressData = {
         "浪川ゆかり",
         "我妻淳子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBM-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBM-043"
     },
     {
       "id": 3230,
@@ -55,7 +55,7 @@ window.actressData = {
         "大原理央",
         "藤沢ユリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GHAT-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-160"
     }
   ]
 };

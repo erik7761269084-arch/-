@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "松永明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-328"
     },
     {
       "id": 3857,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "松永明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-325"
     },
     {
       "id": 66560,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "松永明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-309"
     },
     {
       "id": 5601,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "松永明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-314"
     }
   ]
 };

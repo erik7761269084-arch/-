@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "藤谷咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-170"
     },
     {
       "id": 1627,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "藤谷咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNT-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-005"
     },
     {
       "id": 73950,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "藤谷咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNT-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-002"
     }
   ]
 };

@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "羽田あい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-985"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-985"
     },
     {
       "id": 106390,
@@ -55,7 +55,7 @@ window.actressData = {
         "田渊正浩",
         "羽田あい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-021"
     },
     {
       "id": 106268,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "羽田あい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-048"
     },
     {
       "id": 100966,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "羽田あい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-336"
     },
     {
       "id": 97717,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "羽田あい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-325"
     },
     {
       "id": 106501,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "羽田あい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-297"
     },
     {
       "id": 101004,
@@ -137,7 +137,7 @@ window.actressData = {
         "しみけん",
         "羽田あい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-285"
     },
     {
       "id": 100965,
@@ -154,7 +154,7 @@ window.actressData = {
         "羽田あい",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-278"
     }
   ]
 };

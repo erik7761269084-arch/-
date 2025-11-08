@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "白岩冬萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-036"
     },
     {
       "id": 4542,
@@ -76,7 +76,7 @@ window.actressData = {
         "白岩冬萌",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-028"
     },
     {
       "id": 5345,
@@ -96,7 +96,7 @@ window.actressData = {
         "夏海いく",
         "乙叶ななせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-016"
     },
     {
       "id": 6930,
@@ -116,7 +116,7 @@ window.actressData = {
         "美月まい",
         "后藤由乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-010"
     },
     {
       "id": 7517,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "白岩冬萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-009"
     },
     {
       "id": 8260,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "白岩冬萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-008"
     }
   ]
 };

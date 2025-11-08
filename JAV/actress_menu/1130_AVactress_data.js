@@ -56,7 +56,7 @@ window.actressData = {
         "兎美かれん",
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-118"
     },
     {
       "id": 5065,
@@ -123,7 +123,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     }
   ]
 };

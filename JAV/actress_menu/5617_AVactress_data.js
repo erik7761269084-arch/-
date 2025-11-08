@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "遥奈杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-136"
     }
   ]
 };

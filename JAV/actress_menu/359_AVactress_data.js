@@ -82,7 +82,7 @@ window.actressData = {
         "一之瀨綾乃",
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-242"
     },
     {
       "id": 3657,
@@ -99,7 +99,7 @@ window.actressData = {
         "加藤ツバキ",
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-494"
     },
     {
       "id": 7302,
@@ -116,7 +116,7 @@ window.actressData = {
         "加藤ツバキ",
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-369"
     },
     {
       "id": 8609,
@@ -145,7 +145,7 @@ window.actressData = {
         "安倍亜沙美",
         "东凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-358"
     },
     {
       "id": 1514,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "加藤ツバキ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-049"
     }
   ]
 };

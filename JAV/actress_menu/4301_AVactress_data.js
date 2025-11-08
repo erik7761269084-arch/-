@@ -38,7 +38,7 @@ window.actressData = {
         "NATSUKA",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUBLK-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-044"
     },
     {
       "id": 91496,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-076"
     },
     {
       "id": 89759,
@@ -71,7 +71,7 @@ window.actressData = {
         "東條夏",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-851"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-851"
     },
     {
       "id": 89930,
@@ -91,7 +91,7 @@ window.actressData = {
         "平川琴菜",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-149"
     },
     {
       "id": 89963,
@@ -109,7 +109,7 @@ window.actressData = {
         "爱须みのん",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-139"
     },
     {
       "id": 86184,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-169"
     },
     {
       "id": 86157,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-158"
     },
     {
       "id": 80728,
@@ -158,7 +158,7 @@ window.actressData = {
         "水卜麻衣奈",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-234"
     },
     {
       "id": 80256,
@@ -175,7 +175,7 @@ window.actressData = {
         "真琴",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-369"
     },
     {
       "id": 80630,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-041"
     },
     {
       "id": 80251,
@@ -210,7 +210,7 @@ window.actressData = {
         "水谷あおい",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-207"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-207"
     },
     {
       "id": 93554,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-472"
     },
     {
       "id": 87648,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-098"
     }
   ]
 };

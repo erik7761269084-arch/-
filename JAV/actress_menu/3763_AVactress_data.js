@@ -40,7 +40,7 @@ window.actressData = {
         "玉木玲",
         "立花はるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-770"
     },
     {
       "id": 69022,
@@ -58,7 +58,7 @@ window.actressData = {
         "玉木玲",
         "立花はるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-750"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-750"
     },
     {
       "id": 77431,
@@ -75,7 +75,7 @@ window.actressData = {
         "白石茉莉奈",
         "立花はるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-649"
     },
     {
       "id": 67794,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "立花はるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-623"
     }
   ]
 };

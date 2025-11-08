@@ -36,7 +36,7 @@ window.actressData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-178"
     },
     {
       "id": 94221,
@@ -57,7 +57,7 @@ window.actressData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-163"
     },
     {
       "id": 13318,
@@ -80,7 +80,7 @@ window.actressData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-161"
     },
     {
       "id": 107463,
@@ -100,7 +100,7 @@ window.actressData = {
         "東雲怜弥",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-138"
     },
     {
       "id": 77545,
@@ -123,7 +123,7 @@ window.actressData = {
         "及川大智",
         "有马芳彦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-135"
     },
     {
       "id": 77600,
@@ -140,7 +140,7 @@ window.actressData = {
         "白石茉莉奈",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-215"
     },
     {
       "id": 88618,
@@ -157,7 +157,7 @@ window.actressData = {
         "岬櫻",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-601"
     },
     {
       "id": 87460,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-854"
     },
     {
       "id": 85334,
@@ -190,7 +190,7 @@ window.actressData = {
         "月乃露娜",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-614"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-614"
     },
     {
       "id": 79350,
@@ -207,7 +207,7 @@ window.actressData = {
         "月野香澄",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-842"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-842"
     },
     {
       "id": 88324,
@@ -226,7 +226,7 @@ window.actressData = {
         "及川大智",
         "香乃萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-281"
     },
     {
       "id": 107144,
@@ -245,7 +245,7 @@ window.actressData = {
         "向理来",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-129"
     },
     {
       "id": 106377,
@@ -262,7 +262,7 @@ window.actressData = {
         "枢木葵",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-966"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-966"
     },
     {
       "id": 81950,
@@ -279,7 +279,7 @@ window.actressData = {
         "仓木诗织",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-962"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-962"
     },
     {
       "id": 76757,
@@ -298,7 +298,7 @@ window.actressData = {
         "向理来",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-121"
     },
     {
       "id": 71424,
@@ -315,7 +315,7 @@ window.actressData = {
         "及川大智",
         "桜树玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-074"
     },
     {
       "id": 79062,
@@ -332,7 +332,7 @@ window.actressData = {
         "及川大智",
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-218"
     }
   ]
 };

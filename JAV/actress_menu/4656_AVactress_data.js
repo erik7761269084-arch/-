@@ -33,7 +33,7 @@ window.actressData = {
         "桐谷奈緒",
         "南あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-490"
     }
   ]
 };

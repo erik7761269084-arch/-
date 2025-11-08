@@ -33,7 +33,7 @@ window.actressData = {
         "戸来みりか",
         "深澤翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANTW-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANTW-001"
     }
   ]
 };

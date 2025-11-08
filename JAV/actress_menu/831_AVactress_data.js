@@ -55,7 +55,7 @@ window.actressData = {
         "新木希空",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-864"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-864"
     },
     {
       "id": 5202,
@@ -72,7 +72,7 @@ window.actressData = {
         "新木希空",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-775"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-775"
     },
     {
       "id": 5927,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "新木希空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-721"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-721"
     },
     {
       "id": 6722,
@@ -105,7 +105,7 @@ window.actressData = {
         "新木希空",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-707"
     },
     {
       "id": 7398,
@@ -122,7 +122,7 @@ window.actressData = {
         "新木希空",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-704"
     }
   ]
 };

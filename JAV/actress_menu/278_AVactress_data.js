@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-420"
     },
     {
       "id": 76691,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXSPS-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-601"
     },
     {
       "id": 12067,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-379"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-379"
     },
     {
       "id": 14722,
@@ -123,7 +123,7 @@ window.actressData = {
         "吉沢明歩",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-242"
     },
     {
       "id": 88269,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1050"
     },
     {
       "id": 16294,
@@ -158,7 +158,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-141"
     },
     {
       "id": 16595,
@@ -175,7 +175,7 @@ window.actressData = {
         "吉沢明歩",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-114"
     },
     {
       "id": 16718,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-088"
     },
     {
       "id": 17045,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-065"
     },
     {
       "id": 17264,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-020"
     },
     {
       "id": 73053,
@@ -240,7 +240,7 @@ window.actressData = {
         "吉沢明歩",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-998"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-998"
     },
     {
       "id": 67796,
@@ -257,7 +257,7 @@ window.actressData = {
         "吉沢明歩",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-974"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-974"
     },
     {
       "id": 68625,
@@ -274,7 +274,7 @@ window.actressData = {
         "吉沢明歩",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-950"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-950"
     },
     {
       "id": 1635,
@@ -290,7 +290,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-917"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-917"
     },
     {
       "id": 70274,
@@ -307,7 +307,7 @@ window.actressData = {
         "吉沢明歩",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-788"
     },
     {
       "id": 1640,
@@ -323,7 +323,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-910"
     },
     {
       "id": 19563,
@@ -339,7 +339,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-898"
     },
     {
       "id": 1697,
@@ -355,7 +355,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-891"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-891"
     },
     {
       "id": 1657,
@@ -371,7 +371,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-884"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-884"
     },
     {
       "id": 1581,
@@ -387,7 +387,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-868"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-868"
     },
     {
       "id": 1607,
@@ -403,7 +403,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-861"
     },
     {
       "id": 72989,
@@ -419,7 +419,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-507"
     },
     {
       "id": 1572,
@@ -435,7 +435,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=mxgs-803"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=mxgs-803"
     },
     {
       "id": 1556,
@@ -451,7 +451,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-783"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-783"
     },
     {
       "id": 86937,
@@ -467,7 +467,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-761"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-761"
     },
     {
       "id": 69156,
@@ -484,7 +484,7 @@ window.actressData = {
         "吉沢明歩",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-371"
     },
     {
       "id": 68696,
@@ -501,7 +501,7 @@ window.actressData = {
         "吉沢明歩",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-349"
     },
     {
       "id": 77152,
@@ -517,7 +517,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-205"
     },
     {
       "id": 67866,
@@ -534,7 +534,7 @@ window.actressData = {
         "吉沢明歩",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-185"
     },
     {
       "id": 75099,
@@ -550,7 +550,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-631"
     },
     {
       "id": 100052,
@@ -568,7 +568,7 @@ window.actressData = {
         "田渊正浩",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-104"
     },
     {
       "id": 97539,
@@ -586,7 +586,7 @@ window.actressData = {
         "森林原人",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-085"
     },
     {
       "id": 68929,
@@ -603,7 +603,7 @@ window.actressData = {
         "吉沢明歩",
         "香西咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-002"
     },
     {
       "id": 72566,
@@ -619,7 +619,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-553"
     },
     {
       "id": 68196,
@@ -635,7 +635,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-145"
     },
     {
       "id": 69103,
@@ -651,7 +651,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-142"
     },
     {
       "id": 72938,
@@ -667,7 +667,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-936"
     },
     {
       "id": 97443,
@@ -683,7 +683,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-922"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-922"
     },
     {
       "id": 73448,
@@ -701,7 +701,7 @@ window.actressData = {
         "戸川夏也",
         "笹木良一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-910"
     },
     {
       "id": 67909,
@@ -719,7 +719,7 @@ window.actressData = {
         "森林原人",
         "笹木良一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-898"
     },
     {
       "id": 68930,
@@ -736,7 +736,7 @@ window.actressData = {
         "吉沢明歩",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-115"
     },
     {
       "id": 67795,
@@ -753,7 +753,7 @@ window.actressData = {
         "吉沢明歩",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-829"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-829"
     },
     {
       "id": 69102,
@@ -771,7 +771,7 @@ window.actressData = {
         "森林原人",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-798"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-798"
     },
     {
       "id": 68584,
@@ -787,7 +787,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-082"
     },
     {
       "id": 68412,
@@ -803,7 +803,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-068"
     },
     {
       "id": 73495,
@@ -821,7 +821,7 @@ window.actressData = {
         "大岛丈",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-371"
     },
     {
       "id": 72392,
@@ -840,7 +840,7 @@ window.actressData = {
         "小田切ジュン",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-655"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-655"
     },
     {
       "id": 73517,
@@ -857,7 +857,7 @@ window.actressData = {
         "吉沢明歩",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-337"
     },
     {
       "id": 106453,
@@ -873,7 +873,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-557"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-557"
     },
     {
       "id": 74271,
@@ -889,7 +889,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-234"
     },
     {
       "id": 74284,
@@ -905,7 +905,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-159"
     },
     {
       "id": 1700,
@@ -921,7 +921,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-154"
     },
     {
       "id": 72407,
@@ -939,7 +939,7 @@ window.actressData = {
         "大岛丈",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-047"
     },
     {
       "id": 99186,
@@ -955,7 +955,7 @@ window.actressData = {
       "actress": [
         "吉沢明歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-028"
     }
   ]
 };

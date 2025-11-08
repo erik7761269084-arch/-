@@ -55,7 +55,7 @@ window.actressData = {
         "希望美",
         "久美木マリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-151"
     },
     {
       "id": 81361,
@@ -74,7 +74,7 @@ window.actressData = {
         "佐藤爱琉",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-204"
     },
     {
       "id": 83071,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "泉麻里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-022"
     },
     {
       "id": 81993,
@@ -108,7 +108,7 @@ window.actressData = {
         "爱瀬るか",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-277"
     },
     {
       "id": 69981,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "泉麻里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-938"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-938"
     }
   ]
 };

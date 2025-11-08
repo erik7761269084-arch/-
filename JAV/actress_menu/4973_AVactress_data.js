@@ -33,7 +33,7 @@ window.actressData = {
         "华村香汐",
         "稲森ケイト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAD-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAD-030"
     },
     {
       "id": 81365,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "华村香汐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAD-042"
     }
   ]
 };

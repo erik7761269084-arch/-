@@ -33,7 +33,7 @@ window.actressData = {
         "しみけん",
         "春那和花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-786"
     }
   ]
 };

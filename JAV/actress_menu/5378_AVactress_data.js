@@ -33,7 +33,7 @@ window.actressData = {
         "ニック",
         "生野光代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEWM-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-055"
     }
   ]
 };

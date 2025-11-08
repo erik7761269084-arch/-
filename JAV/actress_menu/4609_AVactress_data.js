@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "西野めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-354"
     },
     {
       "id": 77204,
@@ -51,7 +51,7 @@ window.actressData = {
         "女優×NH",
         "西野めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-487"
     },
     {
       "id": 78160,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "西野めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SXMA-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-012"
     },
     {
       "id": 95282,
@@ -85,7 +85,7 @@ window.actressData = {
         "女優×NH",
         "西野めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-034"
     },
     {
       "id": 93674,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "西野めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-027"
     }
   ]
 };

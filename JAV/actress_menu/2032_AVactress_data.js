@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "新山沙弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-778"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-778"
     },
     {
       "id": 87946,
@@ -69,7 +69,7 @@ window.actressData = {
         "新山沙弥",
         "梦実あくび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-330"
     },
     {
       "id": 1815,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "新山沙弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S103"
     },
     {
       "id": 1834,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "新山沙弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-129"
     },
     {
       "id": 103028,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "新山沙弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-260"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
         "池田あやみ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-959"
     },
     {
       "id": 69453,
@@ -76,7 +76,7 @@ window.actressData = {
         "由爱可奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-674"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "葉月ひな",
         "二代目乱田舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-302"
     },
     {
       "id": 6471,
@@ -50,7 +50,7 @@ window.actressData = {
         "向井藍",
         "二代目乱田舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-117"
     }
   ]
 };

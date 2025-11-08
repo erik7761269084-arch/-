@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "香山美桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLO-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-026"
     },
     {
       "id": 88301,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "香山美桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-861"
     }
   ]
 };

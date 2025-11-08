@@ -76,7 +76,7 @@ window.actressData = {
         "河北彩花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-967"
     },
     {
       "id": 3421,
@@ -93,7 +93,7 @@ window.actressData = {
         "河北彩花",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-853"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-853"
     },
     {
       "id": 5198,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-763"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-763"
     },
     {
       "id": 5195,
@@ -135,7 +135,7 @@ window.actressData = {
         "金松季歩",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
     },
     {
       "id": 5913,
@@ -152,7 +152,7 @@ window.actressData = {
         "河北彩花",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-725"
     },
     {
       "id": 6795,
@@ -170,7 +170,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-687"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-687"
     },
     {
       "id": 7404,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-543"
     },
     {
       "id": 8101,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-642"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-642"
     },
     {
       "id": 69191,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIVR-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIVR-394"
     },
     {
       "id": 8873,
@@ -250,7 +250,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 9759,
@@ -267,7 +267,7 @@ window.actressData = {
         "河北彩花",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-499"
     },
     {
       "id": 10445,
@@ -284,7 +284,7 @@ window.actressData = {
         "河北彩花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-454"
     },
     {
       "id": 93636,
@@ -300,7 +300,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-448"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-448"
     },
     {
       "id": 13208,
@@ -317,7 +317,7 @@ window.actressData = {
         "河北彩花",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-266"
     },
     {
       "id": 13819,
@@ -333,7 +333,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-228"
     },
     {
       "id": 16690,
@@ -349,7 +349,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-027"
     },
     {
       "id": 17658,
@@ -365,7 +365,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-951"
     },
     {
       "id": 18236,
@@ -382,7 +382,7 @@ window.actressData = {
         "河北彩花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-913"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-913"
     },
     {
       "id": 100658,
@@ -398,7 +398,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-685"
     },
     {
       "id": 77559,
@@ -414,7 +414,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-607"
     },
     {
       "id": 68692,
@@ -430,7 +430,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-595"
     },
     {
       "id": 67686,
@@ -446,7 +446,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-586"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-586"
     },
     {
       "id": 86360,
@@ -462,7 +462,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-560"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-560"
     },
     {
       "id": 68252,
@@ -479,7 +479,7 @@ window.actressData = {
         "河北彩花",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-531"
     },
     {
       "id": 67938,
@@ -496,7 +496,7 @@ window.actressData = {
         "河北彩花",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-499"
     },
     {
       "id": 86355,
@@ -512,7 +512,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-440"
     },
     {
       "id": 86326,
@@ -528,7 +528,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-413"
     },
     {
       "id": 86325,
@@ -544,7 +544,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-387"
     },
     {
       "id": 80452,
@@ -561,7 +561,7 @@ window.actressData = {
         "河北彩花",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-361"
     },
     {
       "id": 86314,
@@ -577,7 +577,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-280"
     },
     {
       "id": 80160,
@@ -593,7 +593,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-252"
     },
     {
       "id": 96357,
@@ -609,7 +609,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-222"
     },
     {
       "id": 79510,
@@ -626,7 +626,7 @@ window.actressData = {
         "河北彩花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-194"
     },
     {
       "id": 79412,
@@ -643,7 +643,7 @@ window.actressData = {
         "河北彩花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-158"
     },
     {
       "id": 77623,
@@ -659,7 +659,7 @@ window.actressData = {
       "actress": [
         "河北彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-162"
     },
     {
       "id": 96123,
@@ -676,7 +676,7 @@ window.actressData = {
         "河北彩花",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-129"
     },
     {
       "id": 15336,
@@ -693,7 +693,7 @@ window.actressData = {
         "河北彩花",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-190"
     }
   ]
 };

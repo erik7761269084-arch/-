@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "神嶋エミリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-217"
     },
     {
       "id": 106925,
@@ -49,7 +49,7 @@ window.actressData = {
         "神嶋エミリ",
         "吉岡麻友"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-134"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "爱花みちる",
         "鳴海景子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CPSN-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPSN-010"
     }
   ]
 };

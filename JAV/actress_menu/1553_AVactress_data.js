@@ -51,7 +51,7 @@ window.actressData = {
         "蓮見天",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-786"
     },
     {
       "id": 85774,
@@ -69,7 +69,7 @@ window.actressData = {
         "白川柚子",
         "蓮見天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-649"
     },
     {
       "id": 85890,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "蓮見天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-043"
     },
     {
       "id": 81180,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "蓮見天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-601"
     },
     {
       "id": 80786,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "蓮見天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-629"
     },
     {
       "id": 80742,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "蓮見天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-224"
     },
     {
       "id": 90324,
@@ -150,7 +150,7 @@ window.actressData = {
         "天馬唯",
         "蓮見天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-136"
     },
     {
       "id": 86018,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "蓮見天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-438"
     },
     {
       "id": 88325,
@@ -184,7 +184,7 @@ window.actressData = {
         "蓮見天",
         "松井さあや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-283"
     },
     {
       "id": 70690,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "蓮見天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-152"
     },
     {
       "id": 88227,
@@ -217,7 +217,7 @@ window.actressData = {
         "蓮見天",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-143"
     }
   ]
 };

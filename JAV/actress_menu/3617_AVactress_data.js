@@ -35,7 +35,7 @@ window.actressData = {
         "乃木蛍",
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-142"
     },
     {
       "id": 91274,
@@ -56,7 +56,7 @@ window.actressData = {
         "岬梓沙",
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-589"
     },
     {
       "id": 89553,
@@ -76,7 +76,7 @@ window.actressData = {
         "水卜麻衣奈",
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-169"
     },
     {
       "id": 100629,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-159"
     },
     {
       "id": 67582,
@@ -111,7 +111,7 @@ window.actressData = {
         "希望美",
         "优木なお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-157"
     },
     {
       "id": 89546,
@@ -130,7 +130,7 @@ window.actressData = {
         "希望美",
         "久美木マリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-151"
     },
     {
       "id": 67177,
@@ -148,7 +148,7 @@ window.actressData = {
         "中園めいな",
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-150"
     },
     {
       "id": 66700,
@@ -166,7 +166,7 @@ window.actressData = {
         "希望美",
         "久美木マリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-141"
     },
     {
       "id": 67778,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XMOM-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-047"
     },
     {
       "id": 87414,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDOB-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-112"
     },
     {
       "id": 86189,
@@ -217,7 +217,7 @@ window.actressData = {
         "希望美",
         "凪泽诗音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-055"
     },
     {
       "id": 85735,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-091"
     },
     {
       "id": 84166,
@@ -252,7 +252,7 @@ window.actressData = {
         "黑川纱里奈",
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-674"
     },
     {
       "id": 80100,
@@ -268,7 +268,7 @@ window.actressData = {
       "actress": [
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-043"
     },
     {
       "id": 78672,
@@ -284,7 +284,7 @@ window.actressData = {
       "actress": [
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-474"
     }
   ]
 };

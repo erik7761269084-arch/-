@@ -62,7 +62,7 @@ window.actressData = {
         "本城花",
         "柴又詩穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
     },
     {
       "id": 2487,
@@ -87,7 +87,7 @@ window.actressData = {
         "三河瑛茉",
         "野田朔弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-334"
     },
     {
       "id": 3526,
@@ -105,7 +105,7 @@ window.actressData = {
         "小松本果",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-280"
     },
     {
       "id": 4786,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "小松本果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPSE-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-016"
     },
     {
       "id": 6334,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "小松本果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPSE-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-014"
     },
     {
       "id": 7015,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "小松本果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPSE-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-012"
     }
   ]
 };

@@ -59,7 +59,7 @@ window.actressData = {
         "百永纱里奈",
         "凰華鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21989"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21989"
     },
     {
       "id": 8026,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "凰華鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MADV-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-577"
     },
     {
       "id": 10850,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "凰華鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-311"
     },
     {
       "id": 14202,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "凰華鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRHP-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-034"
     }
   ]
 };

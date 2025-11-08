@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "石原あやみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-059"
     }
   ]
 };

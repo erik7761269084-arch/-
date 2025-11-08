@@ -37,7 +37,7 @@ window.actressData = {
         "水川爱莉",
         "本多由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-060"
     },
     {
       "id": 83698,
@@ -60,7 +60,7 @@ window.actressData = {
         "菊池えりか",
         "望月れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-219"
     },
     {
       "id": 73690,
@@ -79,7 +79,7 @@ window.actressData = {
         "生田みく",
         "凉海みさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-251"
     },
     {
       "id": 70256,
@@ -103,7 +103,7 @@ window.actressData = {
         "凉海みさ",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-908"
     },
     {
       "id": 76792,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "凉海みさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-005"
     }
   ]
 };

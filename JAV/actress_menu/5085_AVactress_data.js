@@ -45,7 +45,7 @@ window.actressData = {
         "叶月美音",
         "新月さなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMBS-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMBS-007"
     }
   ]
 };

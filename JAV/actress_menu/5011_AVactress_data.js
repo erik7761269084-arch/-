@@ -33,7 +33,7 @@ window.actressData = {
         "春原未来",
         "城川ティナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-179"
     }
   ]
 };

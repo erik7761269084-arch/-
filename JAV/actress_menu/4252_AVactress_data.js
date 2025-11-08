@@ -39,7 +39,7 @@ window.actressData = {
         "宫泽みほ",
         "椿くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-248"
     },
     {
       "id": 88056,
@@ -58,7 +58,7 @@ window.actressData = {
         "メイメイ",
         "立花ゆずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-430"
     },
     {
       "id": 77026,
@@ -77,7 +77,7 @@ window.actressData = {
         "椎叶みくる",
         "メイメイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-289"
     },
     {
       "id": 73058,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "メイメイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-013"
     },
     {
       "id": 72224,
@@ -113,7 +113,7 @@ window.actressData = {
         "叶月雏乃",
         "一宫つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AFS-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-035"
     }
   ]
 };

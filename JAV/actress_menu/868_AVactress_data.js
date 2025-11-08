@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-098"
     },
     {
       "id": 3767,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-088"
     },
     {
       "id": 4794,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-064"
     },
     {
       "id": 5577,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-045"
     },
     {
       "id": 7104,
@@ -126,7 +126,7 @@ window.actressData = {
         "濱邊彌生",
         "宮本由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-008"
     },
     {
       "id": 6403,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-030"
     },
     {
       "id": 70488,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-003"
     }
   ]
 };

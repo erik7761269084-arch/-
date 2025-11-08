@@ -42,7 +42,7 @@ window.actressData = {
         "近藤郁",
         "平冈里枝子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-269"
     },
     {
       "id": 13751,
@@ -67,7 +67,7 @@ window.actressData = {
         "宮園さゆり",
         "伊東かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-174"
     },
     {
       "id": 70206,
@@ -85,7 +85,7 @@ window.actressData = {
         "白藤ゆりえ",
         "君嶋かほる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3312"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "君野步美",
         "松下纱世"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-054"
     }
   ]
 };

@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "宫地由梨香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S46"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S46"
     }
   ]
 };

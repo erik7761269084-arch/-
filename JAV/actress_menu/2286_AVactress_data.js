@@ -49,7 +49,7 @@ window.actressData = {
         "三田杏",
         "雪美千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-333"
     },
     {
       "id": 81742,
@@ -70,7 +70,7 @@ window.actressData = {
         "タツ",
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-752"
     },
     {
       "id": 78279,
@@ -88,7 +88,7 @@ window.actressData = {
         "雪美千夏",
         "音海里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-414"
     },
     {
       "id": 81600,
@@ -112,7 +112,7 @@ window.actressData = {
         "须崎まどか",
         "美咲みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-069"
     },
     {
       "id": 83552,
@@ -133,7 +133,7 @@ window.actressData = {
         "雪美千夏",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-740"
     },
     {
       "id": 83574,
@@ -152,7 +152,7 @@ window.actressData = {
         "内海みう",
         "滝川由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-065"
     },
     {
       "id": 75052,
@@ -175,7 +175,7 @@ window.actressData = {
         "永濑唯",
         "山井すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-129"
     },
     {
       "id": 83465,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "雪美千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-122"
     },
     {
       "id": 82861,
@@ -209,7 +209,7 @@ window.actressData = {
         "柊留衣",
         "雪美千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-869"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-869"
     },
     {
       "id": 86906,
@@ -229,7 +229,7 @@ window.actressData = {
         "纱々原ゆり",
         "凉川えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATOM-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-394"
     },
     {
       "id": 76507,
@@ -247,7 +247,7 @@ window.actressData = {
         "雪美千夏",
         "浅田结梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-860"
     },
     {
       "id": 76461,
@@ -269,7 +269,7 @@ window.actressData = {
         "凉川えいみ",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-688"
     },
     {
       "id": 88291,
@@ -285,7 +285,7 @@ window.actressData = {
       "actress": [
         "雪美千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BHG-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BHG-034"
     },
     {
       "id": 74554,
@@ -302,7 +302,7 @@ window.actressData = {
         "雪美千夏",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-697"
     }
   ]
 };

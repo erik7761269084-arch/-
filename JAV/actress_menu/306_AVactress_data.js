@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-402"
     },
     {
       "id": 60454,
@@ -68,7 +68,7 @@ window.actressData = {
         "天月梓",
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-044"
     },
     {
       "id": 2671,
@@ -88,7 +88,7 @@ window.actressData = {
         "雪代一鳳",
         "菊池春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-147"
     },
     {
       "id": 3378,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-268"
     },
     {
       "id": 6713,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-152"
     },
     {
       "id": 68785,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-081"
     },
     {
       "id": 69229,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-038"
     },
     {
       "id": 7702,
@@ -169,7 +169,7 @@ window.actressData = {
         "雪代一鳳",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-619"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-619"
     },
     {
       "id": 7866,
@@ -185,7 +185,7 @@ window.actressData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-144"
     },
     {
       "id": 7794,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-236"
     },
     {
       "id": 13346,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "雪代一鳳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-245"
     }
   ]
 };

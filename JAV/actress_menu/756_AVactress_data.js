@@ -56,7 +56,7 @@ window.actressData = {
         "北山憂",
         "野原なこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-634"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-634"
     },
     {
       "id": 4109,
@@ -74,7 +74,7 @@ window.actressData = {
         "響かれん",
         "月乃あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-105"
     },
     {
       "id": 5124,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "響かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-326"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-326"
     },
     {
       "id": 63940,
@@ -107,7 +107,7 @@ window.actressData = {
         "花衣つばき",
         "響かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-628"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-628"
     },
     {
       "id": 70452,
@@ -128,7 +128,7 @@ window.actressData = {
         "江澄ゆゆ",
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-218"
     },
     {
       "id": 74550,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "響かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-135"
     },
     {
       "id": 14638,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "響かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-267"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-267"
     }
   ]
 };

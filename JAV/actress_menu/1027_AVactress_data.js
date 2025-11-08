@@ -52,7 +52,7 @@ window.actressData = {
         "HIKARI",
         "滝川ソフィア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-10"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-10"
     },
     {
       "id": 1947,
@@ -70,7 +70,7 @@ window.actressData = {
         "HIKARI",
         "浅之美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-09"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-09"
     }
   ]
 };

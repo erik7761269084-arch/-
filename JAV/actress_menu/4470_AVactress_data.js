@@ -52,7 +52,7 @@ window.actressData = {
         "関根奈美",
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-046"
     },
     {
       "id": 88036,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "関根奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-445"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-445"
     }
   ]
 };

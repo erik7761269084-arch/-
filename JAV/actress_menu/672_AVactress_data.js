@@ -54,7 +54,7 @@ window.actressData = {
         "森本あかり",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-385"
     },
     {
       "id": 9631,
@@ -76,7 +76,7 @@ window.actressData = {
         "國森有紗",
         "冨永れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-741"
     },
     {
       "id": 10207,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "森本あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-074"
     },
     {
       "id": 94298,
@@ -111,7 +111,7 @@ window.actressData = {
         "木村好乃美",
         "森本あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKMJ-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-535"
     },
     {
       "id": 13871,
@@ -128,7 +128,7 @@ window.actressData = {
         "森本あかり",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TANF-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANF-020"
     }
   ]
 };

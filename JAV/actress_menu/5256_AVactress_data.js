@@ -37,7 +37,7 @@ window.actressData = {
         "莲美柚香",
         "爱実ありあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-298"
     },
     {
       "id": 83538,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "爱実ありあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTSG-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTSG-007"
     },
     {
       "id": 83524,
@@ -73,7 +73,7 @@ window.actressData = {
         "森本つぐみ",
         "爱実ありあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-509"
     }
   ]
 };

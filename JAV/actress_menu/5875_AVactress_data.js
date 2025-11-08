@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "毛利梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-197"
     }
   ]
 };

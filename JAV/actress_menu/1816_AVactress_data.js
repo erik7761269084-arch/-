@@ -44,7 +44,7 @@ window.actressData = {
         "藤北彩香",
         "春本優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-112"
     },
     {
       "id": 1899,
@@ -63,7 +63,7 @@ window.actressData = {
         "藤北彩香",
         "春本優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-109"
     }
   ]
 };

@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-207"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-207"
     },
     {
       "id": 82050,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-194"
     },
     {
       "id": 1682,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-178"
     },
     {
       "id": 75203,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-146"
     },
     {
       "id": 73958,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-116"
     },
     {
       "id": 74341,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-101"
     },
     {
       "id": 71408,
@@ -158,7 +158,7 @@ window.actressData = {
         "宫名初季",
         "优木カリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-421"
     },
     {
       "id": 74406,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-093"
     },
     {
       "id": 73838,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-074"
     },
     {
       "id": 1624,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-042"
     },
     {
       "id": 19453,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-055"
     },
     {
       "id": 19471,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-033"
     },
     {
       "id": 19488,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-009"
     },
     {
       "id": 71605,
@@ -270,7 +270,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-996"
     },
     {
       "id": 71346,
@@ -286,7 +286,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-982"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-982"
     },
     {
       "id": 70506,
@@ -302,7 +302,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-911"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-911"
     },
     {
       "id": 70504,
@@ -318,7 +318,7 @@ window.actressData = {
       "actress": [
         "市川雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-890"
     }
   ]
 };

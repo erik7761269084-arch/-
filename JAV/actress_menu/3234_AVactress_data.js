@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "松山まなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HIGR-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIGR-079"
     },
     {
       "id": 72128,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "松山まなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HIGR-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIGR-072"
     }
   ]
 };

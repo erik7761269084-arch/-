@@ -37,7 +37,7 @@ window.actressData = {
         "中村知恵",
         "新谷美爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-433"
     }
   ]
 };

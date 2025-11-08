@@ -55,7 +55,7 @@ window.actressData = {
         "卯佐美鈴",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKDV-779"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-779"
     },
     {
       "id": 63864,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "卯佐美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21971"
     },
     {
       "id": 8185,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "卯佐美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-147"
     },
     {
       "id": 9027,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "卯佐美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-097"
     },
     {
       "id": 9920,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "卯佐美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-119"
     }
   ]
 };

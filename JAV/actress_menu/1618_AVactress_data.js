@@ -51,7 +51,7 @@ window.actressData = {
         "白葉莉子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-775"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-775"
     },
     {
       "id": 107524,
@@ -68,7 +68,7 @@ window.actressData = {
         "白葉莉子",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-749"
     },
     {
       "id": 97701,
@@ -88,7 +88,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-724"
     },
     {
       "id": 83314,
@@ -105,7 +105,7 @@ window.actressData = {
         "白葉莉子",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-697"
     },
     {
       "id": 75889,
@@ -122,7 +122,7 @@ window.actressData = {
         "白葉莉子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-668"
     },
     {
       "id": 73781,
@@ -140,7 +140,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-541"
     }
   ]
 };

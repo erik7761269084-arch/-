@@ -50,7 +50,7 @@ window.actressData = {
         "星川光希",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-502"
     },
     {
       "id": 77423,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "星川光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-489"
     },
     {
       "id": 19385,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "星川光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-055"
     },
     {
       "id": 19403,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "星川光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-036"
     },
     {
       "id": 19412,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "星川光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-020"
     },
     {
       "id": 19427,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "星川光希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-003"
     }
   ]
 };

@@ -51,7 +51,7 @@ window.actressData = {
         "最上さゆき",
         "吉木美織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-151"
     },
     {
       "id": 85247,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "檜山百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MADM-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADM-160"
     },
     {
       "id": 66924,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "檜山百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-151"
     }
   ]
 };

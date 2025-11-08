@@ -42,7 +42,7 @@ window.actressData = {
       "actress": [
         "久保田早苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-195"
     },
     {
       "id": 70541,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "久保田早苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-140"
     },
     {
       "id": 8522,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "久保田早苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-230"
     }
   ]
 };

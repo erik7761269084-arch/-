@@ -52,7 +52,7 @@ window.actressData = {
         "しみけん",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-370"
     },
     {
       "id": 19513,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "柚木緹娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-275"
     },
     {
       "id": 19593,
@@ -86,7 +86,7 @@ window.actressData = {
         "希志爱野",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-127"
     }
   ]
 };

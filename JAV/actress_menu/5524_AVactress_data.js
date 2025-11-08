@@ -33,7 +33,7 @@ window.actressData = {
         "しみけん",
         "初美りえな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-781"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-781"
     }
   ]
 };

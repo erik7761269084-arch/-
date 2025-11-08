@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "诗月圆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-017"
     },
     {
       "id": 81871,
@@ -51,7 +51,7 @@ window.actressData = {
         "小田切ジュン",
         "诗月圆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-009"
     },
     {
       "id": 83351,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "诗月圆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYBI-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYBI-004"
     }
   ]
 };

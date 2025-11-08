@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "柳美憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-070"
     },
     {
       "id": 88205,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "柳美憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-820"
     }
   ]
 };

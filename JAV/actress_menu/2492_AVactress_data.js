@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "本庄優花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BRK-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BRK-002"
     },
     {
       "id": 83866,
@@ -89,7 +89,7 @@ window.actressData = {
         "神波多一花",
         "城月あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-308"
     },
     {
       "id": 81828,
@@ -110,7 +110,7 @@ window.actressData = {
         "逢泽真里亚",
         "古川祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-234"
     },
     {
       "id": 71736,
@@ -133,7 +133,7 @@ window.actressData = {
         "樱井菜々子",
         "新堂有望"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKB-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-096"
     },
     {
       "id": 19564,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "本庄優花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-537"
     }
   ]
 };

@@ -45,7 +45,7 @@ window.actressData = {
         "藤田柚",
         "加賀美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUBLK-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-053"
     },
     {
       "id": 4591,
@@ -65,7 +65,7 @@ window.actressData = {
         "加賀美さら",
         "沙つむぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-344"
     },
     {
       "id": 6719,
@@ -86,7 +86,7 @@ window.actressData = {
         "天海一華",
         "児玉れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
     },
     {
       "id": 8070,
@@ -107,7 +107,7 @@ window.actressData = {
         "伊織雛乃",
         "加賀美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-224"
     },
     {
       "id": 8469,
@@ -128,7 +128,7 @@ window.actressData = {
         "五十嵐美月",
         "加賀美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-277"
     }
   ]
 };

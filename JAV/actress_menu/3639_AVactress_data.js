@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "あいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1057"
     },
     {
       "id": 66800,
@@ -49,7 +49,7 @@ window.actressData = {
         "並木愛奈",
         "あいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2948"
     },
     {
       "id": 89244,
@@ -66,7 +66,7 @@ window.actressData = {
         "タツ",
         "あいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2253"
     }
   ]
 };

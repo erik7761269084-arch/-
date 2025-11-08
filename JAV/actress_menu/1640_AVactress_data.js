@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "水沢のの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-709"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-709"
     },
     {
       "id": 1976,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "水沢のの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-697"
     }
   ]
 };

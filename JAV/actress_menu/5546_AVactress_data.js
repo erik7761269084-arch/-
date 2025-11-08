@@ -42,7 +42,7 @@ window.actressData = {
         "市川つばさ",
         "佐々木えな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-732"
     }
   ]
 };

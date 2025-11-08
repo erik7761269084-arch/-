@@ -34,7 +34,7 @@ window.actressData = {
         "天海丽",
         "あすか伊央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-177"
     },
     {
       "id": 77383,
@@ -52,7 +52,7 @@ window.actressData = {
         "天海丽",
         "あすか伊央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-178"
     }
   ]
 };

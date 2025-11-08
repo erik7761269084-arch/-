@@ -58,7 +58,7 @@ window.actressData = {
         "片寄しゅうか",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-153"
     },
     {
       "id": 63190,
@@ -75,7 +75,7 @@ window.actressData = {
         "池内遥",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-533"
     },
     {
       "id": 63994,
@@ -92,7 +92,7 @@ window.actressData = {
         "川越ゆい",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-146"
     },
     {
       "id": 63978,
@@ -112,7 +112,7 @@ window.actressData = {
         "川越ゆい",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-148"
     },
     {
       "id": 94204,
@@ -132,7 +132,7 @@ window.actressData = {
         "向理来",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-164"
     },
     {
       "id": 93410,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-912"
     },
     {
       "id": 77545,
@@ -171,7 +171,7 @@ window.actressData = {
         "及川大智",
         "有马芳彦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-135"
     },
     {
       "id": 89534,
@@ -189,7 +189,7 @@ window.actressData = {
         "茅野亜美",
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-139"
     },
     {
       "id": 69509,
@@ -208,7 +208,7 @@ window.actressData = {
         "香澄莉绪",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-115"
     },
     {
       "id": 82170,
@@ -226,7 +226,7 @@ window.actressData = {
         "凉城りおな",
         "石川ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PARATHD-2871"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PARATHD-2871"
     },
     {
       "id": 81715,
@@ -245,7 +245,7 @@ window.actressData = {
         "栗山絵麻",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HGOT-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-035"
     }
   ]
 };

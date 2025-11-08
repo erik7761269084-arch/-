@@ -35,7 +35,7 @@ window.actressData = {
         "野々宫みさと",
         "渡良瀬りほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRI-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-080"
     },
     {
       "id": 88298,
@@ -53,7 +53,7 @@ window.actressData = {
         "爱华みれい",
         "渡良瀬りほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-302"
     },
     {
       "id": 77424,
@@ -72,7 +72,7 @@ window.actressData = {
         "しみけん",
         "渡良瀬りほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-469"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-469"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "大桥依织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRHK-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRHK-014"
     },
     {
       "id": 83543,
@@ -53,7 +53,7 @@ window.actressData = {
         "水川爱莉",
         "本多由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-060"
     },
     {
       "id": 83474,
@@ -73,7 +73,7 @@ window.actressData = {
         "柏木恵",
         "最上さゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CADV-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CADV-757"
     },
     {
       "id": 73055,
@@ -95,7 +95,7 @@ window.actressData = {
         "渋谷美希",
         "高山えみり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-489"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "本田莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLO-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-035"
     }
   ]
 };

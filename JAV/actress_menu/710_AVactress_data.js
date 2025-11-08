@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "日向由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-882"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-882"
     },
     {
       "id": 3208,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "日向由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-873"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-873"
     },
     {
       "id": 4765,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "日向由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-615"
     },
     {
       "id": 5545,
@@ -106,7 +106,7 @@ window.actressData = {
         "日向由奈",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-624"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-624"
     },
     {
       "id": 6304,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "日向由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-620"
     },
     {
       "id": 7036,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "日向由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-567"
     },
     {
       "id": 9249,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "日向由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-473"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-473"
     },
     {
       "id": 95317,
@@ -171,7 +171,7 @@ window.actressData = {
         "日向由奈",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-449"
     }
   ]
 };

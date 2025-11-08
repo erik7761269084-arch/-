@@ -34,7 +34,7 @@ window.actressData = {
         "美里亜希",
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-242"
     },
     {
       "id": 94084,
@@ -51,7 +51,7 @@ window.actressData = {
         "平井シンジ",
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-235"
     },
     {
       "id": 106075,
@@ -68,7 +68,7 @@ window.actressData = {
         "安倍亜沙美",
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-262"
     },
     {
       "id": 91607,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-239"
     },
     {
       "id": 89575,
@@ -101,7 +101,7 @@ window.actressData = {
         "若槻めぐみ",
         "眞ゆみ恵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-227"
     },
     {
       "id": 106848,
@@ -118,7 +118,7 @@ window.actressData = {
         "レンジャー鏑木",
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-217"
     },
     {
       "id": 89098,
@@ -141,7 +141,7 @@ window.actressData = {
         "高仓梨奈",
         "下妻恭子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3400"
     },
     {
       "id": 89191,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-079"
     },
     {
       "id": 91109,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-124"
     }
   ]
 };

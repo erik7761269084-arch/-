@@ -34,7 +34,7 @@ window.actressData = {
         "吉泽留美",
         "早乙女露依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-028"
     }
   ]
 };

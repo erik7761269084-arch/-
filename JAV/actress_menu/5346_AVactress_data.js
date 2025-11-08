@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "鈴音りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-675"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-675"
     }
   ]
 };

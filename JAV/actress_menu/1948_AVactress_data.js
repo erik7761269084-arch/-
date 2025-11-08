@@ -54,7 +54,7 @@ window.actressData = {
         "吉根柚莉爱",
         "星乃麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-395"
     },
     {
       "id": 106443,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "星乃麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEKO-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKO-253"
     },
     {
       "id": 72765,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "星乃麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=USBA-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-020"
     },
     {
       "id": 82091,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "星乃麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-027"
     },
     {
       "id": 82209,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "星乃麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YAKO-006"
     },
     {
       "id": 83379,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "星乃麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTKC-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-078"
     },
     {
       "id": 83391,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "星乃麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHRV-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-105"
     }
   ]
 };

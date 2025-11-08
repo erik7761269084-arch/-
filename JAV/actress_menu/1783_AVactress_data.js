@@ -57,7 +57,7 @@ window.actressData = {
         "七海祐希",
         "松田千波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-052"
     },
     {
       "id": 83105,
@@ -74,7 +74,7 @@ window.actressData = {
         "夏原唯",
         "天音りおん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-589"
     },
     {
       "id": 94898,
@@ -96,7 +96,7 @@ window.actressData = {
         "东条有希",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMA-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-052"
     },
     {
       "id": 74719,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "天音りおん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1134"
     },
     {
       "id": 70956,
@@ -131,7 +131,7 @@ window.actressData = {
         "天音りおん",
         "ゆうひ菜那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-183"
     },
     {
       "id": 72154,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "天音りおん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-110"
     },
     {
       "id": 78400,
@@ -164,7 +164,7 @@ window.actressData = {
         "天音りおん",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-788"
     }
   ]
 };

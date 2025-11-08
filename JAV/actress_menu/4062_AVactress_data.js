@@ -43,7 +43,7 @@ window.actressData = {
         "月宫ねね",
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-180"
     },
     {
       "id": 70728,
@@ -62,7 +62,7 @@ window.actressData = {
         "西园さくや",
         "堀越なぎさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-145"
     }
   ]
 };

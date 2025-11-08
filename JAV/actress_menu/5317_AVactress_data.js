@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "綿貫こよみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-508"
     },
     {
       "id": 84473,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "綿貫こよみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-495"
     }
   ]
 };

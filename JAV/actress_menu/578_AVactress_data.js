@@ -62,7 +62,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSODN-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSODN-001"
     },
     {
       "id": 4104,
@@ -90,7 +90,7 @@ window.actressData = {
         "有森涼",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-394"
     },
     {
       "id": 4593,
@@ -113,7 +113,7 @@ window.actressData = {
         "星仲ここみ",
         "深月芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-402"
     },
     {
       "id": 4803,
@@ -134,7 +134,7 @@ window.actressData = {
         "彩葉ゆな",
         "雨村梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-378"
     },
     {
       "id": 7097,
@@ -153,7 +153,7 @@ window.actressData = {
         "深月芽衣",
         "吉岡日和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-199"
     }
   ]
 };

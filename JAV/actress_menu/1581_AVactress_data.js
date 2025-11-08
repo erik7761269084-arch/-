@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "花井芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-22"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-22"
     },
     {
       "id": 1885,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "花井芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-09"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-09"
     }
   ]
 };

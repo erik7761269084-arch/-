@@ -52,7 +52,7 @@ window.actressData = {
         "乙葉らぶ",
         "小日向める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-387"
     },
     {
       "id": 63463,
@@ -71,7 +71,7 @@ window.actressData = {
         "沙優七羽",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-052"
     },
     {
       "id": 5946,
@@ -98,7 +98,7 @@ window.actressData = {
         "梅川ことね",
         "戸崎めく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-386"
     },
     {
       "id": 6437,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "相坂すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-248"
     },
     {
       "id": 67331,
@@ -132,7 +132,7 @@ window.actressData = {
         "真木今日子",
         "相坂すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-368"
     },
     {
       "id": 64080,
@@ -150,7 +150,7 @@ window.actressData = {
         "相坂すみれ",
         "白城梨紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-381"
     }
   ]
 };

@@ -55,7 +55,7 @@ window.actressData = {
         "花狩舞",
         "廣瀨成美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-153"
     },
     {
       "id": 94827,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "廣瀨成美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-932"
     },
     {
       "id": 91118,
@@ -91,7 +91,7 @@ window.actressData = {
         "妃月るい",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-283"
     },
     {
       "id": 85614,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "廣瀨成美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-042"
     },
     {
       "id": 84512,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "廣瀨成美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GENM-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GENM-097"
     },
     {
       "id": 84630,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "廣瀨成美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-227"
     },
     {
       "id": 19003,
@@ -159,7 +159,7 @@ window.actressData = {
         "玉木玲",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-450"
     },
     {
       "id": 19025,
@@ -179,7 +179,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-423"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-423"
     }
   ]
 };

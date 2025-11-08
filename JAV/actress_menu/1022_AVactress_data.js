@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "冨安玲於奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-396"
     },
     {
       "id": 2554,
@@ -90,7 +90,7 @@ window.actressData = {
         "浜崎真绪",
         "浅田结梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
     },
     {
       "id": 3491,
@@ -174,7 +174,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     }
   ]
 };

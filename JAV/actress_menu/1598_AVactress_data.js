@@ -49,7 +49,7 @@ window.actressData = {
         "五十嵐美月",
         "大槻ゆりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21964"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21964"
     },
     {
       "id": 95566,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "大槻ゆりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNHU-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNHU-126"
     },
     {
       "id": 14277,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "大槻ゆりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-038"
     }
   ]
 };

@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-091"
     },
     {
       "id": 5209,
@@ -78,11 +78,11 @@ window.actressData = {
       "type": "有码",
       "company": "FALENO",
       "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619170724709709_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619170724709709_s.webp",
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-050"
     },
     {
       "id": 5842,
@@ -101,7 +101,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-035"
     },
     {
       "id": 8540,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-979"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-979"
     },
     {
       "id": 10087,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-913"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-913"
     },
     {
       "id": 10895,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-906"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-906"
     },
     {
       "id": 11553,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-887"
     },
     {
       "id": 11242,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSFST-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSFST-002"
     }
   ]
 };

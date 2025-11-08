@@ -55,7 +55,7 @@ window.actressData = {
         "佐々木恋海",
         "ゆうきさやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-343"
     },
     {
       "id": 88174,
@@ -79,7 +79,7 @@ window.actressData = {
         "凉美ほのか",
         "一ノ瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPV-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPV-021"
     },
     {
       "id": 68385,
@@ -96,7 +96,7 @@ window.actressData = {
         "西川りおん",
         "美绪みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-404"
     },
     {
       "id": 76868,
@@ -116,7 +116,7 @@ window.actressData = {
         "イセドン内村",
         "藤江由恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCT-592"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-592"
     },
     {
       "id": 81382,
@@ -135,7 +135,7 @@ window.actressData = {
         "入江爱美",
         "山本美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMT-948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-948"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "宇佐美みおん",
         "広末みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-710"
     }
   ]
 };

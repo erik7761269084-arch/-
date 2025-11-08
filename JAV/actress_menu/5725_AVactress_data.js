@@ -33,7 +33,7 @@ window.actressData = {
         "仲野梢",
         "ダガー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-547"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "中邑みずき",
         "石桥やよい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OLM-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-080"
     },
     {
       "id": 1531,
@@ -58,7 +58,7 @@ window.actressData = {
         "菅原奈緒美",
         "若林美保"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-108"
     },
     {
       "id": 88115,
@@ -75,7 +75,7 @@ window.actressData = {
         "若林美保",
         "辰神丽子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOM-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-005"
     }
   ]
 };

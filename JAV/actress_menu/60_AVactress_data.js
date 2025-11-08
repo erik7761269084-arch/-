@@ -79,7 +79,7 @@ window.actressData = {
         "永濑唯",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-341"
     },
     {
       "id": 3380,
@@ -96,7 +96,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-717"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-717"
     },
     {
       "id": 3491,
@@ -180,7 +180,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 4490,
@@ -196,7 +196,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-242"
     },
     {
       "id": 4728,
@@ -212,7 +212,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-704"
     },
     {
       "id": 5154,
@@ -229,7 +229,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-707"
     },
     {
       "id": 5363,
@@ -246,7 +246,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-223"
     },
     {
       "id": 5289,
@@ -277,7 +277,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 6627,
@@ -294,7 +294,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-088"
     },
     {
       "id": 6723,
@@ -311,7 +311,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-694"
     },
     {
       "id": 7384,
@@ -327,7 +327,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-677"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-677"
     },
     {
       "id": 7579,
@@ -344,7 +344,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-202"
     },
     {
       "id": 7672,
@@ -362,7 +362,7 @@ window.actressData = {
         "日森一",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-611"
     },
     {
       "id": 7992,
@@ -380,7 +380,7 @@ window.actressData = {
         "タイ",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-675"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-675"
     },
     {
       "id": 8250,
@@ -397,7 +397,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-188"
     },
     {
       "id": 8455,
@@ -413,7 +413,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-585"
     },
     {
       "id": 8853,
@@ -429,7 +429,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-653"
     },
     {
       "id": 10395,
@@ -445,7 +445,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-639"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-639"
     },
     {
       "id": 10765,
@@ -462,7 +462,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-485"
     },
     {
       "id": 16089,
@@ -478,7 +478,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-525"
     },
     {
       "id": 16221,
@@ -494,7 +494,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-068"
     },
     {
       "id": 16770,
@@ -510,7 +510,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-054"
     },
     {
       "id": 77590,
@@ -526,7 +526,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-509"
     },
     {
       "id": 100565,
@@ -543,7 +543,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-506"
     },
     {
       "id": 69107,
@@ -559,7 +559,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-495"
     },
     {
       "id": 85571,
@@ -575,7 +575,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-483"
     },
     {
       "id": 66614,
@@ -591,7 +591,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-476"
     },
     {
       "id": 85585,
@@ -607,7 +607,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-470"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-470"
     },
     {
       "id": 85564,
@@ -624,7 +624,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-463"
     },
     {
       "id": 80247,
@@ -640,7 +640,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21631"
     },
     {
       "id": 80045,
@@ -656,7 +656,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-938"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-938"
     },
     {
       "id": 79537,
@@ -672,7 +672,7 @@ window.actressData = {
       "actress": [
         "七瀨愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-905"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-905"
     },
     {
       "id": 68680,
@@ -689,7 +689,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-002"
     }
   ]
 };

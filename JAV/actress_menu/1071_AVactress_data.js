@@ -86,7 +86,7 @@ window.actressData = {
         "永濑唯",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-341"
     },
     {
       "id": 3337,
@@ -103,7 +103,7 @@ window.actressData = {
         "AIKA",
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21998"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21998"
     },
     {
       "id": 5870,
@@ -132,7 +132,7 @@ window.actressData = {
         "弥生美月",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-180"
     },
     {
       "id": 70005,
@@ -155,7 +155,7 @@ window.actressData = {
         "安倍亜沙美",
         "斎藤まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-330"
     },
     {
       "id": 93982,
@@ -180,7 +180,7 @@ window.actressData = {
         "安倍亜沙美",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-849"
     },
     {
       "id": 81529,
@@ -199,7 +199,7 @@ window.actressData = {
         "星奈爱",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-061"
     },
     {
       "id": 83491,
@@ -220,7 +220,7 @@ window.actressData = {
         "蕾",
         "爱须心亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-200"
     },
     {
       "id": 75431,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-793"
     },
     {
       "id": 75874,
@@ -253,7 +253,7 @@ window.actressData = {
         "椎名空",
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-265"
     },
     {
       "id": 75835,
@@ -273,7 +273,7 @@ window.actressData = {
         "永濑唯",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-197"
     },
     {
       "id": 104217,
@@ -291,7 +291,7 @@ window.actressData = {
         "河南実里",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-067"
     },
     {
       "id": 76838,
@@ -307,7 +307,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-766"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-766"
     },
     {
       "id": 83223,
@@ -326,7 +326,7 @@ window.actressData = {
         "优梨まいな",
         "桜庭ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-289"
     },
     {
       "id": 78755,
@@ -342,7 +342,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVOKS-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVOKS-076"
     },
     {
       "id": 70407,
@@ -358,7 +358,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-909"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-909"
     },
     {
       "id": 76033,
@@ -374,7 +374,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-755"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-755"
     },
     {
       "id": 70404,
@@ -392,7 +392,7 @@ window.actressData = {
         "蓝井优太",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-902"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-902"
     },
     {
       "id": 82543,
@@ -408,7 +408,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-737"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-737"
     },
     {
       "id": 70391,
@@ -426,7 +426,7 @@ window.actressData = {
         "イセドン内村",
         "咲雪华奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-898"
     },
     {
       "id": 73264,
@@ -442,7 +442,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-131"
     },
     {
       "id": 73767,
@@ -459,7 +459,7 @@ window.actressData = {
         "椎名空",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-881"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-881"
     },
     {
       "id": 74645,
@@ -489,7 +489,7 @@ window.actressData = {
         "関根奈美",
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-046"
     },
     {
       "id": 71175,
@@ -512,7 +512,7 @@ window.actressData = {
         "高坂ますみ",
         "若菜奈央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDB-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDB-143"
     },
     {
       "id": 74008,
@@ -528,7 +528,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-109"
     },
     {
       "id": 69728,
@@ -545,7 +545,7 @@ window.actressData = {
         "椎名空",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-868"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-868"
     },
     {
       "id": 70066,
@@ -562,7 +562,7 @@ window.actressData = {
         "吉高寧寧",
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-498"
     },
     {
       "id": 69550,
@@ -582,7 +582,7 @@ window.actressData = {
         "尾上若叶",
         "青山はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-443"
     },
     {
       "id": 73358,
@@ -598,7 +598,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-165"
     },
     {
       "id": 71160,
@@ -619,7 +619,7 @@ window.actressData = {
         "天野美优",
         "西原ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDB-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDB-125"
     },
     {
       "id": 78181,
@@ -644,7 +644,7 @@ window.actressData = {
         "五十岚かな",
         "桜庭このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-232"
     },
     {
       "id": 78063,
@@ -660,7 +660,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-523"
     },
     {
       "id": 68401,
@@ -683,7 +683,7 @@ window.actressData = {
         "橘优花",
         "清城雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-782"
     },
     {
       "id": 71046,
@@ -699,7 +699,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMPD-10051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMPD-10051"
     },
     {
       "id": 82312,
@@ -715,7 +715,7 @@ window.actressData = {
       "actress": [
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-077"
     },
     {
       "id": 88213,
@@ -732,7 +732,7 @@ window.actressData = {
         "椎名空",
         "宫崎彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-480"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-480"
     },
     {
       "id": 73582,
@@ -757,7 +757,7 @@ window.actressData = {
         "冲田奈々",
         "玉城マイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
     }
   ]
 };

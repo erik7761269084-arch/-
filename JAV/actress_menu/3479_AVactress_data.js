@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBZ-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-325"
     },
     {
       "id": 7999,
@@ -56,7 +56,7 @@ window.actressData = {
         "成宫いろは",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-363"
     },
     {
       "id": 8413,
@@ -81,7 +81,7 @@ window.actressData = {
         "若宫はずき",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-357"
     },
     {
       "id": 72876,
@@ -99,7 +99,7 @@ window.actressData = {
         "SHIN",
         "水菜丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WA-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-303"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "武藤つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-342"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-342"
     },
     {
       "id": 59847,
@@ -50,7 +50,7 @@ window.actressData = {
         "一条绮美香",
         "爱代さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTMS-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTMS-084"
     },
     {
       "id": 59834,
@@ -69,7 +69,7 @@ window.actressData = {
         "武藤つぐみ",
         "凉川绚音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTMS-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTMS-099"
     }
   ]
 };

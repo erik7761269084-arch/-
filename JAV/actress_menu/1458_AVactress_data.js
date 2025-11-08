@@ -49,7 +49,7 @@ window.actressData = {
         "藤北彩香",
         "春本優菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-109"
     },
     {
       "id": 1847,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "Maika（MEW）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S32"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S32"
     },
     {
       "id": 1770,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "Maika（MEW）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-68"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-68"
     }
   ]
 };

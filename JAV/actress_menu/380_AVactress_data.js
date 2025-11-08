@@ -48,7 +48,7 @@ window.actressData = {
         "藤原真帆",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-688"
     },
     {
       "id": 2512,
@@ -67,7 +67,7 @@ window.actressData = {
         "二宮桃",
         "渋谷夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOHM-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-006"
     },
     {
       "id": 4160,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-360"
     },
     {
       "id": 62989,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOON-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOON-003"
     },
     {
       "id": 6287,
@@ -116,7 +116,7 @@ window.actressData = {
         "藤原真帆",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-711"
     },
     {
       "id": 6841,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-373"
     },
     {
       "id": 7271,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-368"
     },
     {
       "id": 7535,
@@ -165,7 +165,7 @@ window.actressData = {
         "藤原真帆",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-985"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-985"
     },
     {
       "id": 7685,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-254"
     },
     {
       "id": 70340,
@@ -198,7 +198,7 @@ window.actressData = {
         "藤原真帆",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-920"
     },
     {
       "id": 8665,
@@ -214,7 +214,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-133"
     },
     {
       "id": 9172,
@@ -230,7 +230,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APGH-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-029"
     },
     {
       "id": 10803,
@@ -246,7 +246,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-669"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-669"
     },
     {
       "id": 14553,
@@ -262,7 +262,7 @@ window.actressData = {
       "actress": [
         "藤原真帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-470"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-470"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "青木りょう",
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OBD-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OBD-084"
     },
     {
       "id": 63367,
@@ -51,7 +51,7 @@ window.actressData = {
         "秋田富由美",
         "蓝原かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-264"
     },
     {
       "id": 63655,
@@ -68,7 +68,7 @@ window.actressData = {
         "なっつ",
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-477"
     },
     {
       "id": 67357,
@@ -85,7 +85,7 @@ window.actressData = {
         "タクト",
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-458"
     },
     {
       "id": 77368,
@@ -102,7 +102,7 @@ window.actressData = {
         "竹内梨恵",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-390"
     },
     {
       "id": 93724,
@@ -119,7 +119,7 @@ window.actressData = {
         "竹内梨恵",
         "林愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAP-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAP-245"
     },
     {
       "id": 93694,
@@ -137,7 +137,7 @@ window.actressData = {
         "秋田富由美",
         "蓝原かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OLM-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-060"
     },
     {
       "id": 91573,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-275"
     },
     {
       "id": 106329,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-250"
     },
     {
       "id": 89143,
@@ -189,7 +189,7 @@ window.actressData = {
         "篠宫千明",
         "中山早纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-219"
     },
     {
       "id": 91684,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AED-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AED-217"
     },
     {
       "id": 87110,
@@ -224,7 +224,7 @@ window.actressData = {
         "梅田りょう",
         "新堂绫乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-898"
     },
     {
       "id": 90713,
@@ -241,7 +241,7 @@ window.actressData = {
         "竹内梨恵",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-146"
     },
     {
       "id": 106522,
@@ -257,7 +257,7 @@ window.actressData = {
       "actress": [
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-080"
     },
     {
       "id": 74467,
@@ -276,7 +276,7 @@ window.actressData = {
         "御坂莉亚",
         "加瀬まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-703"
     }
   ]
 };

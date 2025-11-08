@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "姫野ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAS-528"
     },
     {
       "id": 67513,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "姫野ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAS-523"
     }
   ]
 };

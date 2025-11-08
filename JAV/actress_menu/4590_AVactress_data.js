@@ -35,7 +35,7 @@ window.actressData = {
         "二ノ宫庆子",
         "竹内美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-434"
     },
     {
       "id": 83143,
@@ -58,7 +58,7 @@ window.actressData = {
         "七海祐希",
         "松田千波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-052"
     },
     {
       "id": 75787,
@@ -75,7 +75,7 @@ window.actressData = {
         "戸川夏也",
         "七海祐希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-171"
     }
   ]
 };

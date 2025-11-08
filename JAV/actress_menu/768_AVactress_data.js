@@ -49,7 +49,7 @@ window.actressData = {
         "いち",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-002"
     },
     {
       "id": 7530,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "澪真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-995"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-995"
     },
     {
       "id": 8212,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "澪真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-979"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-979"
     },
     {
       "id": 9019,
@@ -98,7 +98,7 @@ window.actressData = {
         "澪真央",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-975"
     },
     {
       "id": 9930,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "澪真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-956"
     }
   ]
 };

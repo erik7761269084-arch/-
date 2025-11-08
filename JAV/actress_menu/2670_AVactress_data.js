@@ -64,7 +64,7 @@ window.actressData = {
         "南真悠",
         "天河水無瀨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-269"
     }
   ]
 };

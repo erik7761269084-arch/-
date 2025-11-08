@@ -35,7 +35,7 @@ window.actressData = {
         "辻芽愛里",
         "辻芽爱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-287"
     },
     {
       "id": 18074,
@@ -52,7 +52,7 @@ window.actressData = {
         "辻芽愛里",
         "辻芽爱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-181"
     }
   ]
 };

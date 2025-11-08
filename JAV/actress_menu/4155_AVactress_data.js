@@ -46,7 +46,7 @@ window.actressData = {
         "桜庭舞香",
         "有坂りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKAX-581"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-581"
     },
     {
       "id": 71426,
@@ -65,7 +65,7 @@ window.actressData = {
         "二阶堂ゆり",
         "月本爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-095"
     },
     {
       "id": 72625,
@@ -82,7 +82,7 @@ window.actressData = {
         "鲛岛",
         "月本爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21266"
     },
     {
       "id": 73015,
@@ -103,7 +103,7 @@ window.actressData = {
         "月本爱",
         "四ツ叶うらら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-191"
     },
     {
       "id": 88202,
@@ -122,7 +122,7 @@ window.actressData = {
         "柳美和子",
         "早野いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-196"
     },
     {
       "id": 83539,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "月本爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLOR-064"
     }
   ]
 };

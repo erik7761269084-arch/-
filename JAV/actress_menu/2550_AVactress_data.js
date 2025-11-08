@@ -43,7 +43,7 @@ window.actressData = {
         "大空太陽",
         "叶月もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-181"
     },
     {
       "id": 71276,
@@ -63,7 +63,7 @@ window.actressData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-178"
     },
     {
       "id": 10575,
@@ -81,7 +81,7 @@ window.actressData = {
         "奈築里緒",
         "上原千明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-517"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-517"
     },
     {
       "id": 94204,
@@ -101,7 +101,7 @@ window.actressData = {
         "向理来",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-164"
     },
     {
       "id": 13318,
@@ -124,7 +124,7 @@ window.actressData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-161"
     },
     {
       "id": 106978,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "上原千明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-224"
     },
     {
       "id": 77545,
@@ -163,7 +163,7 @@ window.actressData = {
         "及川大智",
         "有马芳彦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-135"
     },
     {
       "id": 77544,
@@ -183,7 +183,7 @@ window.actressData = {
         "东希美",
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-136"
     },
     {
       "id": 81204,
@@ -200,7 +200,7 @@ window.actressData = {
         "上原千明",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-522"
     },
     {
       "id": 86531,
@@ -217,7 +217,7 @@ window.actressData = {
         "松本菜奈実",
         "上原千明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-100"
     },
     {
       "id": 80099,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "上原千明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-089"
     },
     {
       "id": 82018,
@@ -252,7 +252,7 @@ window.actressData = {
         "上原千明",
         "东惣介"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-123"
     },
     {
       "id": 76758,
@@ -272,7 +272,7 @@ window.actressData = {
         "向理来",
         "西岛伊吹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-122"
     },
     {
       "id": 74200,
@@ -292,7 +292,7 @@ window.actressData = {
         "向理来",
         "东惣介"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-117"
     },
     {
       "id": 86227,
@@ -310,7 +310,7 @@ window.actressData = {
         "一之瀨戀",
         "上原千明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-110"
     }
   ]
 };

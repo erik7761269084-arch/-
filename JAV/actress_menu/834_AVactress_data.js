@@ -55,7 +55,7 @@ window.actressData = {
         "小倉和葉",
         "白穂乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     },
     {
       "id": 8757,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "西野乙音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEXT-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEXT-006"
     }
   ]
 };

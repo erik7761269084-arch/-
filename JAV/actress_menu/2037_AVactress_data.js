@@ -57,7 +57,7 @@ window.actressData = {
         "羽田貴史",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-849"
     },
     {
       "id": 5725,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "橘伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-841"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-841"
     }
   ]
 };

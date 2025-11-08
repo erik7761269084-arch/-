@@ -33,7 +33,7 @@ window.actressData = {
         "胡桃多惠",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-721"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-721"
     },
     {
       "id": 8444,
@@ -50,7 +50,7 @@ window.actressData = {
         "Miru",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-572"
     },
     {
       "id": 8393,
@@ -68,7 +68,7 @@ window.actressData = {
         "ラビットけんと",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-426"
     },
     {
       "id": 73642,
@@ -85,7 +85,7 @@ window.actressData = {
         "星乃夏月",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-608"
     },
     {
       "id": 9246,
@@ -104,7 +104,7 @@ window.actressData = {
         "まーち",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-453"
     },
     {
       "id": 9219,
@@ -121,7 +121,7 @@ window.actressData = {
         "白石茉莉奈",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-123"
     },
     {
       "id": 9202,
@@ -138,7 +138,7 @@ window.actressData = {
         "瀬田一花",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-549"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-549"
     },
     {
       "id": 9178,
@@ -156,7 +156,7 @@ window.actressData = {
         "成宫いろは",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-409"
     },
     {
       "id": 76085,
@@ -173,7 +173,7 @@ window.actressData = {
         "寺島志保",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-401"
     },
     {
       "id": 9719,
@@ -191,7 +191,7 @@ window.actressData = {
         "谷梓",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-539"
     },
     {
       "id": 9627,
@@ -208,7 +208,7 @@ window.actressData = {
         "白河花清",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-404"
     },
     {
       "id": 9918,
@@ -225,7 +225,7 @@ window.actressData = {
         "松本一香",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIH-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIH-012"
     },
     {
       "id": 10248,
@@ -242,7 +242,7 @@ window.actressData = {
         "月野香澄",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-451"
     },
     {
       "id": 77368,
@@ -259,7 +259,7 @@ window.actressData = {
         "竹内梨恵",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-390"
     },
     {
       "id": 10462,
@@ -276,7 +276,7 @@ window.actressData = {
         "古東まりこ",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-955"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-955"
     }
   ]
 };

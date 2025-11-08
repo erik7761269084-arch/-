@@ -50,7 +50,7 @@ window.actressData = {
         "青山未来",
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-006"
     },
     {
       "id": 76370,
@@ -69,7 +69,7 @@ window.actressData = {
         "美原すみれ",
         "三条つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-050"
     },
     {
       "id": 1795,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "青山未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-14"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-14"
     },
     {
       "id": 73105,
@@ -103,7 +103,7 @@ window.actressData = {
         "山内舞",
         "川原里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YRH-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YRH-089"
     }
   ]
 };

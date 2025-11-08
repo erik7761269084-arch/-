@@ -35,7 +35,7 @@ window.actressData = {
         "今井夏帆",
         "初音ろな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-69404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-69404"
     },
     {
       "id": 89912,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "初音ろな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-69402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-69402"
     },
     {
       "id": 83698,
@@ -74,7 +74,7 @@ window.actressData = {
         "菊池えりか",
         "望月れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-219"
     },
     {
       "id": 83826,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "初音ろな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POKQ-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POKQ-006"
     },
     {
       "id": 83102,
@@ -113,7 +113,7 @@ window.actressData = {
         "一宫みかり",
         "初音ろな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-076"
     },
     {
       "id": 79117,
@@ -132,7 +132,7 @@ window.actressData = {
         "神无月れな",
         "初音ろな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-093"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "神野雛",
         "大原りま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-821"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-821"
     }
   ]
 };

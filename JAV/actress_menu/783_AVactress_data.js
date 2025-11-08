@@ -50,7 +50,7 @@ window.actressData = {
         "宮ノ木しゅんか",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFM-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFM-007"
     },
     {
       "id": 5307,
@@ -75,7 +75,7 @@ window.actressData = {
         "雪奈真冬",
         "木之内奈々葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
     },
     {
       "id": 68359,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "宮ノ木しゅんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGAV-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-137"
     },
     {
       "id": 6778,
@@ -109,7 +109,7 @@ window.actressData = {
         "宮ノ木しゅんか",
         "御子柴美花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-293"
     },
     {
       "id": 70452,
@@ -130,7 +130,7 @@ window.actressData = {
         "江澄ゆゆ",
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-218"
     },
     {
       "id": 8093,
@@ -148,7 +148,7 @@ window.actressData = {
         "宮ノ木しゅんか",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-605"
     },
     {
       "id": 8090,
@@ -167,7 +167,7 @@ window.actressData = {
         "日森一",
         "笕纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-641"
     },
     {
       "id": 8274,
@@ -188,7 +188,7 @@ window.actressData = {
         "神崎ゆま",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-203"
     },
     {
       "id": 9667,
@@ -205,7 +205,7 @@ window.actressData = {
         "真木今日子",
         "宮ノ木しゅんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-516"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-516"
     },
     {
       "id": 93747,
@@ -224,7 +224,7 @@ window.actressData = {
         "岡江みどり",
         "后藤さなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-018"
     },
     {
       "id": 16748,
@@ -240,7 +240,7 @@ window.actressData = {
       "actress": [
         "宮ノ木しゅんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-025"
     },
     {
       "id": 103618,
@@ -256,7 +256,7 @@ window.actressData = {
       "actress": [
         "宮ノ木しゅんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-022"
     },
     {
       "id": 89102,
@@ -273,7 +273,7 @@ window.actressData = {
         "宮ノ木しゅんか",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEO-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-076"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "河野純香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-476"
     },
     {
       "id": 94151,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "河野純香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-473"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-473"
     }
   ]
 };

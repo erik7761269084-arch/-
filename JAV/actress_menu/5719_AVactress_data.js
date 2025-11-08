@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "日吉みよの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAAD-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-071"
     },
     {
       "id": 91966,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "日吉みよの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-091"
     },
     {
       "id": 91105,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "日吉みよの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-169"
     }
   ]
 };

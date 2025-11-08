@@ -60,7 +60,7 @@ window.actressData = {
         "安倍亜沙美",
         "菅野真穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-396"
     },
     {
       "id": 98046,
@@ -77,7 +77,7 @@ window.actressData = {
         "八神沙織",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-049"
     },
     {
       "id": 78283,
@@ -94,7 +94,7 @@ window.actressData = {
         "八神沙織",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-078"
     },
     {
       "id": 94978,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "八神沙織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-042"
     },
     {
       "id": 88248,
@@ -128,7 +128,7 @@ window.actressData = {
         "イセドン内村",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-010"
     },
     {
       "id": 106277,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "八神沙織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-750"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-750"
     }
   ]
 };

@@ -39,7 +39,7 @@ window.actressData = {
         "及川大智",
         "有马芳彦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-135"
     },
     {
       "id": 81699,
@@ -58,7 +58,7 @@ window.actressData = {
         "有马芳彦",
         "一彻（铃木一彻）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2801"
     },
     {
       "id": 88203,
@@ -77,7 +77,7 @@ window.actressData = {
         "爱乃零",
         "有马芳彦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-116"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "塚田詩織",
         "真木夏芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-817"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-817"
     },
     {
       "id": 79696,
@@ -53,7 +53,7 @@ window.actressData = {
         "稻场流花",
         "真木夏芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-653"
     },
     {
       "id": 88300,
@@ -72,7 +72,7 @@ window.actressData = {
         "若宫はずき",
         "真木夏芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-113"
     },
     {
       "id": 86721,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "真木夏芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-476"
     },
     {
       "id": 91452,
@@ -107,7 +107,7 @@ window.actressData = {
         "梁井一",
         "真木夏芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-771"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-771"
     }
   ]
 };

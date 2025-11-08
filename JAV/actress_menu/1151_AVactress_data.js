@@ -51,7 +51,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-469"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-469"
     },
     {
       "id": 10761,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-467"
     }
   ]
 };

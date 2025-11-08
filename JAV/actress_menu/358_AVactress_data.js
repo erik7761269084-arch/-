@@ -60,7 +60,7 @@ window.actressData = {
         "金松季歩",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-791"
     },
     {
       "id": 4774,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-790"
     },
     {
       "id": 5195,
@@ -102,7 +102,7 @@ window.actressData = {
         "金松季歩",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
     },
     {
       "id": 5557,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-752"
     },
     {
       "id": 6302,
@@ -136,7 +136,7 @@ window.actressData = {
         "鲛岛",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-714"
     },
     {
       "id": 7068,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-676"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-676"
     },
     {
       "id": 7743,
@@ -169,7 +169,7 @@ window.actressData = {
         "金松季歩",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-632"
     },
     {
       "id": 8427,
@@ -185,7 +185,7 @@ window.actressData = {
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-586"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-586"
     },
     {
       "id": 8873,
@@ -217,7 +217,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 9263,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-521"
     },
     {
       "id": 10137,
@@ -250,7 +250,7 @@ window.actressData = {
         "金松季歩",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-492"
     },
     {
       "id": 12771,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-262"
     },
     {
       "id": 13573,
@@ -283,7 +283,7 @@ window.actressData = {
         "金松季歩",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-227"
     }
   ]
 };

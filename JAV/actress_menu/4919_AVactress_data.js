@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "初岛うい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-205"
     },
     {
       "id": 79539,
@@ -49,7 +49,7 @@ window.actressData = {
         "爱须みのん",
         "初岛うい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-098"
     },
     {
       "id": 88367,
@@ -67,7 +67,7 @@ window.actressData = {
         "初岛うい",
         "环ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-975"
     },
     {
       "id": 81818,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "初岛うい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTKZ-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKZ-068"
     }
   ]
 };

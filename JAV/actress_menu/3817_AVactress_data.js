@@ -33,7 +33,7 @@ window.actressData = {
         "恵沙也香",
         "永木真知子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RYZR-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RYZR-006"
     }
   ]
 };

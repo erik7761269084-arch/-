@@ -36,7 +36,7 @@ window.actressData = {
         "逢沢るる",
         "羽田璃子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-657"
     }
   ]
 };

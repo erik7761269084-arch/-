@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "篠真有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-894"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-894"
     },
     {
       "id": 4718,
@@ -75,7 +75,7 @@ window.actressData = {
         "篠真有",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-807"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-807"
     },
     {
       "id": 5554,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "篠真有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-754"
     },
     {
       "id": 6328,
@@ -108,7 +108,7 @@ window.actressData = {
         "篠真有",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-716"
     },
     {
       "id": 7080,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "篠真有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-678"
     },
     {
       "id": 7734,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "篠真有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-634"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-634"
     },
     {
       "id": 8454,
@@ -157,7 +157,7 @@ window.actressData = {
         "篠真有",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-588"
     },
     {
       "id": 9250,
@@ -174,7 +174,7 @@ window.actressData = {
         "篠真有",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-538"
     },
     {
       "id": 10130,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "篠真有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-494"
     }
   ]
 };

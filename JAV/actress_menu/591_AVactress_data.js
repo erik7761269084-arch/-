@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "宮崎千尋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-103"
     },
     {
       "id": 7877,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "宮崎千尋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-065"
     },
     {
       "id": 8685,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "宮崎千尋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-027"
     },
     {
       "id": 73528,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "宮崎千尋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-901"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-901"
     },
     {
       "id": 10313,
@@ -129,7 +129,7 @@ window.actressData = {
         "ナイアガラ翔",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-944"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-944"
     }
   ]
 };

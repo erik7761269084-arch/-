@@ -33,7 +33,7 @@ window.actressData = {
         "新川ゆず",
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-171"
     },
     {
       "id": 66899,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPIN-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-047"
     },
     {
       "id": 68518,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-460"
     },
     {
       "id": 68044,
@@ -82,7 +82,7 @@ window.actressData = {
         "高梨有纱",
         "永瀬爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-130"
     },
     {
       "id": 89598,
@@ -99,7 +99,7 @@ window.actressData = {
         "中園めいな",
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-458"
     },
     {
       "id": 81265,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-1023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-1023"
     },
     {
       "id": 84809,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-123"
     },
     {
       "id": 84826,
@@ -150,7 +150,7 @@ window.actressData = {
         "爱须みのん",
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-240"
     },
     {
       "id": 84812,
@@ -168,7 +168,7 @@ window.actressData = {
         "爱须みのん",
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-198"
     },
     {
       "id": 84842,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-149"
     },
     {
       "id": 81350,
@@ -201,7 +201,7 @@ window.actressData = {
         "优梨まいな",
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-1011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-1011"
     },
     {
       "id": 72678,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIKP-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKP-056"
     },
     {
       "id": 102325,
@@ -240,7 +240,7 @@ window.actressData = {
         "浅宫ちなつ",
         "月原和奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-090"
     },
     {
       "id": 81387,
@@ -256,7 +256,7 @@ window.actressData = {
       "actress": [
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-1003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-1003"
     }
   ]
 };

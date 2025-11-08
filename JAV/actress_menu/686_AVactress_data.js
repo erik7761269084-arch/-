@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "杏津杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-269"
     },
     {
       "id": 6484,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "杏津杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-136"
     },
     {
       "id": 7169,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "杏津杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-099"
     },
     {
       "id": 7910,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "杏津杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-061"
     },
     {
       "id": 8645,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "杏津杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-001"
     },
     {
       "id": 75290,
@@ -139,7 +139,7 @@ window.actressData = {
         "杏津杏",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-974"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-974"
     }
   ]
 };

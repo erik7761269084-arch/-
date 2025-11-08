@@ -47,7 +47,7 @@ window.actressData = {
         "豊田爱菜",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-394"
     },
     {
       "id": 83455,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "伊吹彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGAV-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-016"
     },
     {
       "id": 81990,
@@ -82,7 +82,7 @@ window.actressData = {
         "有花萌",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-061"
     },
     {
       "id": 82827,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "伊吹彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-507"
     },
     {
       "id": 83227,
@@ -117,7 +117,7 @@ window.actressData = {
         "有花萌",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-058"
     },
     {
       "id": 83410,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "伊吹彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1205"
     },
     {
       "id": 76476,
@@ -154,7 +154,7 @@ window.actressData = {
         "山井すず",
         "茜はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-683"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-683"
     },
     {
       "id": 18711,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "伊吹彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1130"
     },
     {
       "id": 69969,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "伊吹彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-201"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桐島明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AWD-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AWD-155"
     }
   ]
 };

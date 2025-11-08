@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "藤井有彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-093"
     },
     {
       "id": 106871,
@@ -55,7 +55,7 @@ window.actressData = {
         "小田切ジュン",
         "藤井有彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-392"
     }
   ]
 };

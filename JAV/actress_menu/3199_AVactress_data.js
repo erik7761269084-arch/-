@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "石川芙美乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEWM-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-116"
     },
     {
       "id": 62546,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "石川芙美乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JSOP-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JSOP-052"
     },
     {
       "id": 94416,
@@ -66,7 +66,7 @@ window.actressData = {
         "磐井玲子",
         "矢島ちえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPZ-1142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPZ-1142"
     },
     {
       "id": 90107,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "石川芙美乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RAF-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RAF-018"
     },
     {
       "id": 106949,
@@ -99,7 +99,7 @@ window.actressData = {
         "ひょこり",
         "石川芙美乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-210"
     }
   ]
 };

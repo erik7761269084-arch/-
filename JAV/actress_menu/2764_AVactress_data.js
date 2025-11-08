@@ -90,7 +90,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-185"
     },
     {
       "id": 5126,
@@ -117,7 +117,7 @@ window.actressData = {
         "凪沙雪乃",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-182"
     },
     {
       "id": 93840,
@@ -140,7 +140,7 @@ window.actressData = {
         "安倍亜沙美",
         "田中瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-284"
     },
     {
       "id": 93811,
@@ -164,7 +164,7 @@ window.actressData = {
         "安倍亜沙美",
         "深泽祈莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-282"
     },
     {
       "id": 90611,
@@ -187,7 +187,7 @@ window.actressData = {
         "黑川纱里奈",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-266"
     },
     {
       "id": 91345,
@@ -213,7 +213,7 @@ window.actressData = {
         "安倍亜沙美",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-136"
     },
     {
       "id": 79881,
@@ -230,7 +230,7 @@ window.actressData = {
         "凪沙雪乃",
         "ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4662"
     },
     {
       "id": 79365,
@@ -246,7 +246,7 @@ window.actressData = {
       "actress": [
         "凪沙雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=USAG-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-037"
     },
     {
       "id": 79488,
@@ -262,7 +262,7 @@ window.actressData = {
       "actress": [
         "凪沙雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBTU-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-018"
     },
     {
       "id": 79272,
@@ -278,7 +278,7 @@ window.actressData = {
       "actress": [
         "凪沙雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-041"
     },
     {
       "id": 86874,
@@ -294,7 +294,7 @@ window.actressData = {
       "actress": [
         "凪沙雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-286"
     },
     {
       "id": 67743,
@@ -311,7 +311,7 @@ window.actressData = {
         "凪沙雪乃",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-794"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-794"
     },
     {
       "id": 91474,
@@ -328,7 +328,7 @@ window.actressData = {
         "白石環奈",
         "凪沙雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-788"
     },
     {
       "id": 91453,
@@ -344,7 +344,7 @@ window.actressData = {
       "actress": [
         "凪沙雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-777"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-777"
     },
     {
       "id": 67405,
@@ -360,7 +360,7 @@ window.actressData = {
       "actress": [
         "凪沙雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-770"
     }
   ]
 };

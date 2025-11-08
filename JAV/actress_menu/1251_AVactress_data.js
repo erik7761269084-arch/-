@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "水崎瑠華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-333"
     },
     {
       "id": 7846,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "水崎瑠華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOER-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-008"
     }
   ]
 };

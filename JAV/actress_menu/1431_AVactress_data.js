@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "內田菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-255"
     },
     {
       "id": 106862,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "內田菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-146"
     },
     {
       "id": 89020,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "內田菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-205"
     }
   ]
 };

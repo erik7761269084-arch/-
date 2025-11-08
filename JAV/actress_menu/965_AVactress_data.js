@@ -51,7 +51,7 @@ window.actressData = {
         "七瀨詩音",
         "南紫音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-229"
     },
     {
       "id": 63661,
@@ -73,7 +73,7 @@ window.actressData = {
         "桐生珠帆",
         "春瀬ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-225"
     },
     {
       "id": 63659,
@@ -95,7 +95,7 @@ window.actressData = {
         "若宫はずき",
         "黒石純礼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-228"
     },
     {
       "id": 5031,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "七瀨詩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGAV-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-141"
     },
     {
       "id": 10515,
@@ -139,7 +139,7 @@ window.actressData = {
         "れみ",
         "安藤ハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
     },
     {
       "id": 94167,
@@ -156,7 +156,7 @@ window.actressData = {
         "木下日葵",
         "七瀨詩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-728"
     },
     {
       "id": 94846,
@@ -174,7 +174,7 @@ window.actressData = {
         "透美かなた",
         "七瀨詩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-958"
     },
     {
       "id": 66735,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "七瀨詩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2997"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2997"
     }
   ]
 };

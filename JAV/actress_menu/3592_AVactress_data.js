@@ -34,7 +34,7 @@ window.actressData = {
         "女優×NH",
         "铃音ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-055"
     },
     {
       "id": 90593,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "铃音ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-147"
     }
   ]
 };

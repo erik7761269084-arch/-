@@ -33,7 +33,7 @@ window.actressData = {
         "坂井千晴",
         "都築亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-071"
     },
     {
       "id": 107060,
@@ -50,7 +50,7 @@ window.actressData = {
         "坂井千晴",
         "都築亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-067"
     }
   ]
 };

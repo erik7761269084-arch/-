@@ -41,7 +41,7 @@ window.actressData = {
       "actress": [
         "倉田優希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-273"
     },
     {
       "id": 13882,
@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "倉田優希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-268"
     }
   ]
 };

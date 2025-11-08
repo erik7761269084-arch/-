@@ -33,7 +33,7 @@ window.actressData = {
         "イセドン内村",
         "山岸琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-170"
     }
   ]
 };

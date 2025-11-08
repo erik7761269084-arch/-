@@ -42,7 +42,7 @@ window.actressData = {
         "西尾れむ",
         "今野美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-219"
     }
   ]
 };

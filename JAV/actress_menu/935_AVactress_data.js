@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "十川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DFE-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-104"
     },
     {
       "id": 4706,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "十川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-705"
     },
     {
       "id": 74659,
@@ -79,7 +79,7 @@ window.actressData = {
         "友田彩也香",
         "十川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-516"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-516"
     },
     {
       "id": 9747,
@@ -96,7 +96,7 @@ window.actressData = {
         "十川ありさ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-356"
     },
     {
       "id": 14049,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "十川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-021"
     }
   ]
 };

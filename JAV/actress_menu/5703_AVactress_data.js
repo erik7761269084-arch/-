@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "美山ゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-088"
     },
     {
       "id": 91076,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "美山ゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-165"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "由良佳奈",
         "ホウセ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-754"
     },
     {
       "id": 16242,
@@ -50,7 +50,7 @@ window.actressData = {
         "月野江翠",
         "ホウセ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-005"
     }
   ]
 };

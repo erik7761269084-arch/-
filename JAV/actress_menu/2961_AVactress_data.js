@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "麻生芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S49"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S49"
     },
     {
       "id": 1817,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "麻生芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-76"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-76"
     }
   ]
 };

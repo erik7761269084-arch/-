@@ -50,7 +50,7 @@ window.actressData = {
         "トイボーイ相沢",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNTRZ-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-021"
     },
     {
       "id": 72786,
@@ -70,7 +70,7 @@ window.actressData = {
         "鳥楽ひな",
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-314"
     },
     {
       "id": 8634,
@@ -89,7 +89,7 @@ window.actressData = {
         "美咲音",
         "鳥楽ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-198"
     },
     {
       "id": 12910,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "鳥楽ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-315"
     },
     {
       "id": 13911,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "鳥楽ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-272"
     },
     {
       "id": 10008,
@@ -139,7 +139,7 @@ window.actressData = {
         "鳥楽ひな",
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-307"
     }
   ]
 };

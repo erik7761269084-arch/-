@@ -33,7 +33,7 @@ window.actressData = {
         "今井夏帆",
         "爱波りりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-138"
     },
     {
       "id": 88306,
@@ -51,7 +51,7 @@ window.actressData = {
         "花宫レイ",
         "爱波りりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-153"
     }
   ]
 };

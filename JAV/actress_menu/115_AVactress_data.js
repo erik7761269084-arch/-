@@ -73,7 +73,7 @@ window.actressData = {
         "浜崎真绪",
         "浅田结梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
     },
     {
       "id": 3899,
@@ -96,7 +96,7 @@ window.actressData = {
         "桃木結愛",
         "宝生めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-086"
     },
     {
       "id": 4267,
@@ -141,7 +141,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-185"
     },
     {
       "id": 4990,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-183"
     },
     {
       "id": 5065,
@@ -224,7 +224,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 5130,
@@ -244,7 +244,7 @@ window.actressData = {
         "愛寶鈴",
         "武藤彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-155"
     },
     {
       "id": 5126,
@@ -271,7 +271,7 @@ window.actressData = {
         "凪沙雪乃",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-182"
     },
     {
       "id": 5669,
@@ -287,7 +287,7 @@ window.actressData = {
       "actress": [
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-182"
     },
     {
       "id": 5845,
@@ -313,7 +313,7 @@ window.actressData = {
         "神宫寺奈绪",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-599"
     },
     {
       "id": 8618,
@@ -329,7 +329,7 @@ window.actressData = {
       "actress": [
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-142"
     },
     {
       "id": 8613,
@@ -346,7 +346,7 @@ window.actressData = {
         "吉根柚莉爱",
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-432"
     },
     {
       "id": 16953,
@@ -362,7 +362,7 @@ window.actressData = {
       "actress": [
         "宝田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-023"
     },
     {
       "id": 17405,
@@ -379,7 +379,7 @@ window.actressData = {
         "宝田萌奈美",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-737"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-737"
     }
   ]
 };

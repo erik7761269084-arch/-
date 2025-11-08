@@ -36,7 +36,7 @@ window.actressData = {
         "向理来",
         "千歳小梅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-188"
     },
     {
       "id": 5397,
@@ -56,7 +56,7 @@ window.actressData = {
         "千歳小梅",
         "清水健翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-183"
     },
     {
       "id": 5394,
@@ -75,7 +75,7 @@ window.actressData = {
         "千歳小梅",
         "さのさとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-184"
     },
     {
       "id": 8513,
@@ -96,7 +96,7 @@ window.actressData = {
         "千歳小梅",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-175"
     },
     {
       "id": 76705,
@@ -115,7 +115,7 @@ window.actressData = {
         "東雲怜弥",
         "千歳小梅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-171"
     },
     {
       "id": 76618,
@@ -133,7 +133,7 @@ window.actressData = {
         "向理来",
         "千歳小梅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-172"
     },
     {
       "id": 13318,
@@ -156,7 +156,7 @@ window.actressData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-161"
     }
   ]
 };

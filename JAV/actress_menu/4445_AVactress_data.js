@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-451"
     },
     {
       "id": 83617,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-147"
     },
     {
       "id": 75634,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-140"
     },
     {
       "id": 78509,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-129"
     },
     {
       "id": 74487,
@@ -99,7 +99,7 @@ window.actressData = {
         "玉木玲",
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-089"
     },
     {
       "id": 79185,
@@ -116,7 +116,7 @@ window.actressData = {
         "タツ",
         "流田みな実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-052"
     }
   ]
 };

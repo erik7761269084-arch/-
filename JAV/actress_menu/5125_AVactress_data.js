@@ -33,7 +33,7 @@ window.actressData = {
         "向理来",
         "野中萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKMJ-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-083"
     }
   ]
 };

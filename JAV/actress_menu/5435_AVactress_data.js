@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小林沙良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-389"
     },
     {
       "id": 87875,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "小林沙良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-762"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-762"
     }
   ]
 };

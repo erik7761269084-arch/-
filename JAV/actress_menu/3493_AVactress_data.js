@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "守屋いずみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSE-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSE-002"
     },
     {
       "id": 8374,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "守屋いずみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSE-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSE-001"
     }
   ]
 };

@@ -89,7 +89,7 @@ window.actressData = {
         "乙白さやか",
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
     },
     {
       "id": 77520,
@@ -110,7 +110,7 @@ window.actressData = {
         "タイ",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-816"
     },
     {
       "id": 17389,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-795"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-795"
     },
     {
       "id": 87703,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-777"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-777"
     },
     {
       "id": 92304,
@@ -161,7 +161,7 @@ window.actressData = {
         "小田切ジュン",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-400"
     },
     {
       "id": 87663,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-737"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-737"
     },
     {
       "id": 100579,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-604"
     },
     {
       "id": 104019,
@@ -209,7 +209,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-570"
     },
     {
       "id": 68589,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-541"
     },
     {
       "id": 87270,
@@ -241,7 +241,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-509"
     },
     {
       "id": 86361,
@@ -257,7 +257,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-477"
     },
     {
       "id": 86329,
@@ -274,7 +274,7 @@ window.actressData = {
         "三上悠亜",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-448"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-448"
     },
     {
       "id": 86279,
@@ -291,7 +291,7 @@ window.actressData = {
         "三上悠亜",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-419"
     },
     {
       "id": 86288,
@@ -308,7 +308,7 @@ window.actressData = {
         "三上悠亜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-392"
     },
     {
       "id": 86261,
@@ -324,7 +324,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-365"
     },
     {
       "id": 80518,
@@ -340,7 +340,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-338"
     },
     {
       "id": 86317,
@@ -357,7 +357,7 @@ window.actressData = {
         "三上悠亜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-313"
     },
     {
       "id": 96835,
@@ -373,7 +373,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-287"
     },
     {
       "id": 80449,
@@ -390,7 +390,7 @@ window.actressData = {
         "三上悠亜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-270"
     },
     {
       "id": 80037,
@@ -406,7 +406,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-241"
     },
     {
       "id": 100587,
@@ -422,7 +422,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-211"
     },
     {
       "id": 4219,
@@ -438,7 +438,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-181"
     },
     {
       "id": 100670,
@@ -455,7 +455,7 @@ window.actressData = {
         "三上悠亜",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-088"
     },
     {
       "id": 17283,
@@ -474,7 +474,7 @@ window.actressData = {
         "イセドン内村",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-939"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-939"
     },
     {
       "id": 70133,
@@ -491,7 +491,7 @@ window.actressData = {
         "三上悠亜",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-916"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-916"
     },
     {
       "id": 88439,
@@ -508,7 +508,7 @@ window.actressData = {
         "三上悠亜",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-888"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-888"
     },
     {
       "id": 104418,
@@ -524,7 +524,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-845"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-845"
     },
     {
       "id": 19568,
@@ -540,7 +540,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-802"
     },
     {
       "id": 70224,
@@ -558,7 +558,7 @@ window.actressData = {
         "イセドン内村",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-780"
     },
     {
       "id": 107340,
@@ -575,7 +575,7 @@ window.actressData = {
         "三上悠亜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-756"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-756"
     },
     {
       "id": 82837,
@@ -592,7 +592,7 @@ window.actressData = {
         "三上悠亜",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-703"
     },
     {
       "id": 88173,
@@ -615,7 +615,7 @@ window.actressData = {
         "彩美旬果",
         "安斋拉拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-231"
     },
     {
       "id": 76668,
@@ -631,7 +631,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-674"
     },
     {
       "id": 7622,
@@ -647,7 +647,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-589"
     },
     {
       "id": 8923,
@@ -663,7 +663,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-566"
     },
     {
       "id": 9562,
@@ -679,7 +679,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-516"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-516"
     },
     {
       "id": 9803,
@@ -695,7 +695,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-493"
     },
     {
       "id": 11102,
@@ -711,7 +711,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-432"
     },
     {
       "id": 12068,
@@ -733,7 +733,7 @@ window.actressData = {
         "羽笑美晴",
         "彩美旬果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-378"
     },
     {
       "id": 13115,
@@ -749,7 +749,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-344"
     },
     {
       "id": 13270,
@@ -767,7 +767,7 @@ window.actressData = {
         "小田切ジュン",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-322"
     },
     {
       "id": 14938,
@@ -783,7 +783,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-229"
     },
     {
       "id": 16815,
@@ -799,7 +799,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-077"
     },
     {
       "id": 17146,
@@ -815,7 +815,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-054"
     },
     {
       "id": 73451,
@@ -832,7 +832,7 @@ window.actressData = {
         "三上悠亜",
         "望月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-986"
     },
     {
       "id": 73066,
@@ -851,7 +851,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-896"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-896"
     },
     {
       "id": 104419,
@@ -867,7 +867,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-825"
     },
     {
       "id": 88496,
@@ -886,7 +886,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-786"
     },
     {
       "id": 19575,
@@ -902,7 +902,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-072"
     },
     {
       "id": 19535,
@@ -920,7 +920,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-071"
     },
     {
       "id": 19580,
@@ -938,7 +938,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-067"
     },
     {
       "id": 59703,
@@ -954,7 +954,7 @@ window.actressData = {
       "actress": [
         "三上悠亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-778"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-778"
     }
   ]
 };

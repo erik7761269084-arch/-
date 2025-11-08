@@ -35,7 +35,7 @@ window.actressData = {
         "奈津野こはく",
         "MOMONE"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-706"
     }
   ]
 };

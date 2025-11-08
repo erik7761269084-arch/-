@@ -41,7 +41,7 @@ window.actressData = {
         "庄司优喜江",
         "吉瀬菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMIX-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-044"
     },
     {
       "id": 75177,
@@ -60,7 +60,7 @@ window.actressData = {
         "内原美智子",
         "大宫凉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-242"
     },
     {
       "id": 81862,
@@ -83,7 +83,7 @@ window.actressData = {
         "叶山りん",
         "水上由纪恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-226"
     }
   ]
 };

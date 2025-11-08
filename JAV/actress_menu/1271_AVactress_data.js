@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "樟葉杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-010"
     },
     {
       "id": 89685,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "樟葉杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-289"
     },
     {
       "id": 89654,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "樟葉杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-279"
     },
     {
       "id": 89703,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "樟葉杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-280"
     },
     {
       "id": 89662,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "樟葉杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-269"
     }
   ]
 };

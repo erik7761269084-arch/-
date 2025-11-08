@@ -68,7 +68,7 @@ window.actressData = {
         "青沼",
         "マース"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-862"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-862"
     },
     {
       "id": 5192,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "榊原萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-772"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-772"
     },
     {
       "id": 6784,
@@ -101,7 +101,7 @@ window.actressData = {
         "榊原萌",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-698"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-698"
     },
     {
       "id": 7370,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "榊原萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-656"
     },
     {
       "id": 7751,
@@ -145,7 +145,7 @@ window.actressData = {
         "ラヴズ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
     },
     {
       "id": 8041,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "榊原萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-587"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-587"
     },
     {
       "id": 8873,
@@ -193,7 +193,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 9725,
@@ -212,7 +212,7 @@ window.actressData = {
         "小田切ジュン",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-493"
     },
     {
       "id": 10442,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "榊原萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-450"
     }
   ]
 };

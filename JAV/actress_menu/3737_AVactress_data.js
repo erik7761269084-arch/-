@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "百合奈ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKDV-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-627"
     },
     {
       "id": 97609,
@@ -49,7 +49,7 @@ window.actressData = {
         "イセドン内村",
         "百合奈ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-805"
     }
   ]
 };

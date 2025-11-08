@@ -35,7 +35,7 @@ window.actressData = {
         "仓木诗织",
         "加護まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-230"
     }
   ]
 };

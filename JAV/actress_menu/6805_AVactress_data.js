@@ -34,7 +34,7 @@ window.actressData = {
         "小田切ジュン",
         "七尾神×"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPIT-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-045"
     }
   ]
 };

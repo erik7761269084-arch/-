@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "爱内梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-430"
     },
     {
       "id": 77235,
@@ -49,7 +49,7 @@ window.actressData = {
         "仲村はるか",
         "爱内梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-229"
     }
   ]
 };

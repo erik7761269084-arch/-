@@ -41,7 +41,7 @@ window.actressData = {
         "庄司优喜江",
         "吉瀬菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMIX-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-044"
     },
     {
       "id": 95288,
@@ -62,7 +62,7 @@ window.actressData = {
         "吉瀬菜々子",
         "黒泽雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-331"
     },
     {
       "id": 69605,
@@ -82,7 +82,7 @@ window.actressData = {
         "美里亜希",
         "藤崎美冬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-396"
     },
     {
       "id": 77429,
@@ -99,7 +99,7 @@ window.actressData = {
         "イセドン内村",
         "吉瀬菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-764"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-764"
     },
     {
       "id": 106034,
@@ -124,7 +124,7 @@ window.actressData = {
         "三浦恵理子",
         "吉瀬菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-703"
     }
   ]
 };

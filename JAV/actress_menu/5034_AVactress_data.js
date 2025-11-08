@@ -36,7 +36,7 @@ window.actressData = {
         "海空花",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-754"
     },
     {
       "id": 81578,
@@ -55,7 +55,7 @@ window.actressData = {
         "纱仓ひなの",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-195"
     },
     {
       "id": 81980,
@@ -76,7 +76,7 @@ window.actressData = {
         "一乃瀬るりあ",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-333"
     },
     {
       "id": 83149,
@@ -95,7 +95,7 @@ window.actressData = {
         "叶芽ゆきな",
         "黒崎さく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-066"
     },
     {
       "id": 81645,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FONE-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FONE-102"
     },
     {
       "id": 82999,
@@ -130,7 +130,7 @@ window.actressData = {
         "天月叶菜",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUBI-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUBI-036"
     },
     {
       "id": 81639,
@@ -148,7 +148,7 @@ window.actressData = {
         "浅井阳登",
         "一彻（铃木一彻）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2381"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "久保田湊琴",
         "梶尾羽歌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-326"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-326"
     }
   ]
 };

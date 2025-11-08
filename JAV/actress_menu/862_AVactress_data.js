@@ -45,7 +45,7 @@ window.actressData = {
         "前田美波",
         "百仁花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-217"
     },
     {
       "id": 94712,
@@ -62,7 +62,7 @@ window.actressData = {
         "椿莉香",
         "百仁花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-125"
     },
     {
       "id": 89321,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "百仁花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-889"
     },
     {
       "id": 89325,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "百仁花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-912"
     },
     {
       "id": 89327,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "百仁花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-876"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-876"
     },
     {
       "id": 89258,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "百仁花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-860"
     },
     {
       "id": 77580,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "百仁花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-823"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-823"
     },
     {
       "id": 69240,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "百仁花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-763"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-763"
     },
     {
       "id": 96986,
@@ -175,7 +175,7 @@ window.actressData = {
         "百仁花",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-741"
     }
   ]
 };

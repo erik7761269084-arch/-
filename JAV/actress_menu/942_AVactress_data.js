@@ -61,7 +61,7 @@ window.actressData = {
         "成宫いろは",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-363"
     },
     {
       "id": 88940,
@@ -86,7 +86,7 @@ window.actressData = {
         "枢木美栞",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-526"
     },
     {
       "id": 83476,
@@ -109,7 +109,7 @@ window.actressData = {
         "纱东みお",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-413"
     },
     {
       "id": 71867,
@@ -126,7 +126,7 @@ window.actressData = {
         "西条沙羅",
         "清本玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATOM-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-299"
     },
     {
       "id": 72512,
@@ -144,7 +144,7 @@ window.actressData = {
         "西条沙羅",
         "松本芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-408"
     }
   ]
 };

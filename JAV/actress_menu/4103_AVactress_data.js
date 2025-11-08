@@ -34,7 +34,7 @@ window.actressData = {
         "Qべぇ",
         "ヴァレンタリッチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-020"
     },
     {
       "id": 78827,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "ヴァレンタリッチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-704"
     },
     {
       "id": 78122,
@@ -67,7 +67,7 @@ window.actressData = {
         "梁井一",
         "ヴァレンタリッチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-597"
     },
     {
       "id": 71038,
@@ -86,7 +86,7 @@ window.actressData = {
         "玉木玲",
         "ヴァレンタリッチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-735"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-735"
     },
     {
       "id": 91319,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "ヴァレンタリッチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-713"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-713"
     }
   ]
 };

@@ -57,7 +57,7 @@ window.actressData = {
         "菜月光",
         "三舩美鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-393"
     },
     {
       "id": 6452,
@@ -93,7 +93,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-333"
     },
     {
       "id": 7932,
@@ -110,7 +110,7 @@ window.actressData = {
         "三舩美鈴",
         "一宫みかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNMB-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMB-094"
     }
   ]
 };

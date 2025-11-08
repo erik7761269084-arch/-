@@ -35,7 +35,7 @@ window.actressData = {
         "叶川みなみ",
         "日向ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMJD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMJD-005"
     }
   ]
 };

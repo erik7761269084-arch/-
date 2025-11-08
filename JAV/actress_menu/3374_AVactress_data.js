@@ -34,7 +34,7 @@ window.actressData = {
         "じゅうもんじ",
         "那々未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-058"
     }
   ]
 };

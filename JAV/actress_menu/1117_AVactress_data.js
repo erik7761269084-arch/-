@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "辉月杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-770"
     },
     {
       "id": 78379,
@@ -74,7 +74,7 @@ window.actressData = {
         "辉月杏梨",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-791"
     },
     {
       "id": 95107,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "辉月杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-752"
     },
     {
       "id": 62052,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "辉月杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-700"
     }
   ]
 };

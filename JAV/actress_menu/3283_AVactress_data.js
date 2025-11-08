@@ -35,7 +35,7 @@ window.actressData = {
         "香澄麗子",
         "香澄丽子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-035"
     },
     {
       "id": 93699,
@@ -52,7 +52,7 @@ window.actressData = {
         "翔田千里",
         "香澄丽子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-011"
     },
     {
       "id": 70199,
@@ -72,7 +72,7 @@ window.actressData = {
         "竹内响子",
         "佳乃美冬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3271"
     }
   ]
 };

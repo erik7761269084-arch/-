@@ -60,7 +60,7 @@ window.actressData = {
         "乃木絢愛",
         "伊東沙蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-159"
     },
     {
       "id": 3578,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "乃木絢愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-544"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-544"
     },
     {
       "id": 3812,
@@ -94,7 +94,7 @@ window.actressData = {
         "工藤百合",
         "乃木絢愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-405"
     },
     {
       "id": 7332,
@@ -113,7 +113,7 @@ window.actressData = {
         "乃木絢愛",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-052"
     },
     {
       "id": 8354,
@@ -132,7 +132,7 @@ window.actressData = {
         "乃木絢愛",
         "篠咲拉拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-724"
     },
     {
       "id": 17304,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "乃木絢愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-644"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-644"
     },
     {
       "id": 17641,
@@ -165,7 +165,7 @@ window.actressData = {
         "乃木絢愛",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-258"
     },
     {
       "id": 17895,
@@ -182,7 +182,7 @@ window.actressData = {
         "胡桃櫻花",
         "乃木絢愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-491"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "新田みれい",
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-386"
     },
     {
       "id": 81424,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-175"
     },
     {
       "id": 83801,
@@ -70,7 +70,7 @@ window.actressData = {
         "稻场流花",
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-066"
     },
     {
       "id": 86773,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-134"
     },
     {
       "id": 83643,
@@ -103,7 +103,7 @@ window.actressData = {
         "市川润",
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-007"
     },
     {
       "id": 78251,
@@ -120,7 +120,7 @@ window.actressData = {
         "玉木玲",
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-004"
     },
     {
       "id": 76613,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHR-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-086"
     }
   ]
 };

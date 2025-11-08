@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "佐伯蓮加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-154"
     },
     {
       "id": 68445,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "佐伯蓮加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-465"
     },
     {
       "id": 8169,
@@ -89,7 +89,7 @@ window.actressData = {
         "佐伯蓮加",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-747"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-747"
     }
   ]
 };

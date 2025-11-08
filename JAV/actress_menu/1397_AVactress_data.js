@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "加藤麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-119"
     },
     {
       "id": 1800,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "加藤麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S87"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S87"
     }
   ]
 };

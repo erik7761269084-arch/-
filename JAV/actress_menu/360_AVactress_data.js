@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "美之島惠理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-728"
     },
     {
       "id": 3206,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "美之島惠理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-720"
     },
     {
       "id": 4755,
@@ -100,7 +100,7 @@ window.actressData = {
         "美之島惠理",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-414"
     },
     {
       "id": 5524,
@@ -118,7 +118,7 @@ window.actressData = {
         "レンジャー鏑木",
         "ドピュー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-363"
     },
     {
       "id": 6311,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "美之島惠理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-351"
     },
     {
       "id": 7017,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "美之島惠理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-288"
     },
     {
       "id": 7706,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "美之島惠理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-249"
     },
     {
       "id": 8503,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "美之島惠理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-192"
     },
     {
       "id": 8855,
@@ -199,7 +199,7 @@ window.actressData = {
         "美之島惠理",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-014"
     },
     {
       "id": 16503,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "美之島惠理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-071"
     }
   ]
 };

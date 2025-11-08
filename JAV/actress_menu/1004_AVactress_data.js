@@ -108,7 +108,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 17548,
@@ -127,7 +127,7 @@ window.actressData = {
         "高梨步",
         "しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-195"
     },
     {
       "id": 1828,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "初美沙希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-066"
     }
   ]
 };

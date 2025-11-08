@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "石原京香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KEED-43"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-43"
     }
   ]
 };

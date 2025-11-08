@@ -65,7 +65,7 @@ window.actressData = {
         "姫川ゆうな",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEND-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-024"
     }
   ]
 };

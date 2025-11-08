@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "柚月沙央梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-790"
     },
     {
       "id": 87600,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "柚月沙央梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-784"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-784"
     }
   ]
 };

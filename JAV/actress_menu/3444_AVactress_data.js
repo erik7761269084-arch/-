@@ -41,7 +41,7 @@ window.actressData = {
         "水城りの",
         "叶山美空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-023"
     },
     {
       "id": 82116,
@@ -65,7 +65,7 @@ window.actressData = {
         "优希エリナ",
         "绚森いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-805"
     },
     {
       "id": 86915,
@@ -85,7 +85,7 @@ window.actressData = {
         "水城りの",
         "爱原さえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-161"
     },
     {
       "id": 98746,
@@ -103,7 +103,7 @@ window.actressData = {
         "水城りの",
         "冈本希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCT-841"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-841"
     }
   ]
 };

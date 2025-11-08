@@ -34,7 +34,7 @@ window.actressData = {
         "蓝川美夏",
         "荒金さとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-438"
     }
   ]
 };

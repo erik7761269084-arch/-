@@ -35,7 +35,7 @@ window.actressData = {
         "宫村ななこ",
         "平手茜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-053"
     },
     {
       "id": 99207,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "平手茜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-048"
     }
   ]
 };

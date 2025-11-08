@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "日向優梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-79"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-79"
     }
   ]
 };

@@ -38,7 +38,7 @@ window.actressData = {
         "三船かれん",
         "七瀬もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-053"
     },
     {
       "id": 82429,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-532"
     },
     {
       "id": 81742,
@@ -75,7 +75,7 @@ window.actressData = {
         "タツ",
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-752"
     },
     {
       "id": 83369,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-011"
     },
     {
       "id": 86687,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-183"
     },
     {
       "id": 83210,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-717"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-717"
     },
     {
       "id": 83119,
@@ -140,7 +140,7 @@ window.actressData = {
         "岩下たろう",
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-485"
     },
     {
       "id": 76167,
@@ -163,7 +163,7 @@ window.actressData = {
         "神楽アイネ",
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-864"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-864"
     },
     {
       "id": 76672,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-223"
     },
     {
       "id": 75675,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-136"
     },
     {
       "id": 76170,
@@ -213,7 +213,7 @@ window.actressData = {
         "妃月るい",
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-861"
     },
     {
       "id": 76989,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-288"
     },
     {
       "id": 76723,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-509"
     },
     {
       "id": 67062,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-971"
     },
     {
       "id": 74165,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-093"
     },
     {
       "id": 74797,
@@ -294,7 +294,7 @@ window.actressData = {
         "小田切ジュン",
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-908"
     },
     {
       "id": 82906,
@@ -310,7 +310,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-864"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-864"
     },
     {
       "id": 74227,
@@ -326,7 +326,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-072"
     },
     {
       "id": 74755,
@@ -342,7 +342,7 @@ window.actressData = {
       "actress": [
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-579"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-579"
     },
     {
       "id": 72213,
@@ -360,7 +360,7 @@ window.actressData = {
         "田渊正浩",
         "三船かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-136"
     }
   ]
 };

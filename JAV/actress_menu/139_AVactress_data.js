@@ -67,7 +67,7 @@ window.actressData = {
         "宮下玲奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-500"
     },
     {
       "id": 3585,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-326"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-326"
     },
     {
       "id": 3524,
@@ -120,7 +120,7 @@ window.actressData = {
         "高桥圣子",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-477"
     },
     {
       "id": 4501,
@@ -137,7 +137,7 @@ window.actressData = {
         "宮下玲奈",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-241"
     },
     {
       "id": 5379,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-200"
     },
     {
       "id": 6442,
@@ -197,7 +197,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 6874,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-094"
     },
     {
       "id": 7590,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-087"
     },
     {
       "id": 8258,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-048"
     },
     {
       "id": 8993,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-008"
     },
     {
       "id": 9534,
@@ -302,7 +302,7 @@ window.actressData = {
         "安倍亜沙美",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-424"
     },
     {
       "id": 9940,
@@ -320,7 +320,7 @@ window.actressData = {
         "ナイアガラ翔",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-965"
     },
     {
       "id": 10268,
@@ -349,7 +349,7 @@ window.actressData = {
         "志田雪奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
     },
     {
       "id": 10606,
@@ -365,7 +365,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-925"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-925"
     },
     {
       "id": 17017,
@@ -381,7 +381,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-580"
     },
     {
       "id": 17495,
@@ -397,7 +397,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-549"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-549"
     },
     {
       "id": 18044,
@@ -413,7 +413,7 @@ window.actressData = {
       "actress": [
         "宮下玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-518"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-518"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "玉木玲",
         "汐音まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-651"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-651"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "朝霧ましろ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMRAA-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMRAA-351"
     },
     {
       "id": 95978,
@@ -49,7 +49,7 @@ window.actressData = {
         "月見るい",
         "朝霧ましろ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MARAA-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-193"
     }
   ]
 };

@@ -42,7 +42,7 @@ window.actressData = {
         "樱井夕树",
         "北川りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-512"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-512"
     },
     {
       "id": 74975,
@@ -61,7 +61,7 @@ window.actressData = {
         "北川りこ",
         "后藤里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-654"
     },
     {
       "id": 71168,
@@ -81,7 +81,7 @@ window.actressData = {
         "后藤里香",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-574"
     },
     {
       "id": 69677,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "北川りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-144"
     },
     {
       "id": 77338,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "北川りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-177"
     }
   ]
 };

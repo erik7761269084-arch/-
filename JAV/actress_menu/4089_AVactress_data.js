@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "加濑佳奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-949"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-949"
     }
   ]
 };

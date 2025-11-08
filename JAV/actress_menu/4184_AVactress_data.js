@@ -41,7 +41,7 @@ window.actressData = {
         "青井いちご",
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-508"
     },
     {
       "id": 88929,
@@ -66,7 +66,7 @@ window.actressData = {
         "青井いちご",
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-511"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-511"
     },
     {
       "id": 81342,
@@ -92,7 +92,7 @@ window.actressData = {
         "结まきな",
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-054"
     },
     {
       "id": 75126,
@@ -112,7 +112,7 @@ window.actressData = {
         "星咲せいら",
         "富永舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GETS-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-126"
     },
     {
       "id": 74512,
@@ -138,7 +138,7 @@ window.actressData = {
         "南凉",
         "茜麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     },
     {
       "id": 71728,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-405"
     }
   ]
 };

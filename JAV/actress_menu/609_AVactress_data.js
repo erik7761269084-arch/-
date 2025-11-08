@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "鈴乃宇都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-118"
     },
     {
       "id": 16370,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "鈴乃宇都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-209"
     },
     {
       "id": 16898,
@@ -93,7 +93,7 @@ window.actressData = {
         "鈴乃宇都",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-189"
     },
     {
       "id": 17363,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "鈴乃宇都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-175"
     },
     {
       "id": 17907,
@@ -126,7 +126,7 @@ window.actressData = {
         "鈴乃宇都",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-167"
     }
   ]
 };

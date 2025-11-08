@@ -34,7 +34,7 @@ window.actressData = {
         "みゆさん",
         "盛岡みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-057"
     },
     {
       "id": 89164,
@@ -51,7 +51,7 @@ window.actressData = {
         "桐香悠裡",
         "盛岡みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SWDF-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SWDF-022"
     },
     {
       "id": 87354,
@@ -68,7 +68,7 @@ window.actressData = {
         "蓬莱かすみ",
         "盛岡みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-281"
     },
     {
       "id": 86031,
@@ -87,7 +87,7 @@ window.actressData = {
         "広瀬结香",
         "盛岡みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-486"
     }
   ]
 };

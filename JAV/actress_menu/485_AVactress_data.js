@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-597"
     },
     {
       "id": 2330,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-886"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-886"
     },
     {
       "id": 3568,
@@ -100,7 +100,7 @@ window.actressData = {
         "黒咲華",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-018"
     },
     {
       "id": 61971,
@@ -125,7 +125,7 @@ window.actressData = {
         "斋藤亚美里",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-331"
     },
     {
       "id": 4462,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-661"
     },
     {
       "id": 63919,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-181"
     },
     {
       "id": 6898,
@@ -176,7 +176,7 @@ window.actressData = {
         "トミフミ",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-143"
     },
     {
       "id": 7563,
@@ -194,7 +194,7 @@ window.actressData = {
         "日森一",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-647"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-647"
     },
     {
       "id": 8304,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-140"
     },
     {
       "id": 74174,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-648"
     },
     {
       "id": 9937,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-127"
     },
     {
       "id": 10639,
@@ -259,7 +259,7 @@ window.actressData = {
         "黒咲華",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-646"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-646"
     }
   ]
 };

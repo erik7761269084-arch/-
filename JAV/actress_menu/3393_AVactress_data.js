@@ -45,7 +45,7 @@ window.actressData = {
         "白川千织",
         "高槻れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-386"
     },
     {
       "id": 93455,
@@ -65,7 +65,7 @@ window.actressData = {
         "东凛",
         "钟梨ほしな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-071"
     },
     {
       "id": 90632,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "瀬崎彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAKO-066"
     },
     {
       "id": 89532,
@@ -100,7 +100,7 @@ window.actressData = {
         "瀬崎彩音",
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-127"
     },
     {
       "id": 80956,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "瀬崎彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-906"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-906"
     },
     {
       "id": 78681,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "瀬崎彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-069"
     },
     {
       "id": 107250,
@@ -149,7 +149,7 @@ window.actressData = {
         "永野司",
         "瀬崎彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-175"
     },
     {
       "id": 76800,
@@ -166,7 +166,7 @@ window.actressData = {
         "イセドン内村",
         "瀬崎彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-092"
     }
   ]
 };

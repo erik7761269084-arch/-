@@ -34,7 +34,7 @@ window.actressData = {
         "樱井菜々子",
         "乌丸まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-010"
     },
     {
       "id": 78484,
@@ -51,7 +51,7 @@ window.actressData = {
         "绪方泰子",
         "樱井菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RD-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-972"
     },
     {
       "id": 78118,
@@ -68,7 +68,7 @@ window.actressData = {
         "平冈里枝子",
         "樱井菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RD-965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-965"
     },
     {
       "id": 78188,
@@ -85,7 +85,7 @@ window.actressData = {
         "瀬戸すみれ",
         "樱井菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-285"
     },
     {
       "id": 70397,
@@ -104,7 +104,7 @@ window.actressData = {
         "樱井菜々子",
         "蓝川なぎさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WPOM-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WPOM-005"
     },
     {
       "id": 71736,
@@ -127,7 +127,7 @@ window.actressData = {
         "樱井菜々子",
         "新堂有望"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKB-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-096"
     }
   ]
 };

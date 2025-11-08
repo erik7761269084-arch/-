@@ -35,7 +35,7 @@ window.actressData = {
         "橘かりん",
         "青羽ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PCDE-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PCDE-005"
     }
   ]
 };

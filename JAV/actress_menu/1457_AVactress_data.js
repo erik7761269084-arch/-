@@ -52,7 +52,7 @@ window.actressData = {
         "逢坂瞳",
         "最上もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-252"
     },
     {
       "id": 7041,
@@ -71,7 +71,7 @@ window.actressData = {
         "大岛丈",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-232"
     },
     {
       "id": 9001,
@@ -90,7 +90,7 @@ window.actressData = {
         "月見伊織",
         "逢坂瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-194"
     },
     {
       "id": 88603,
@@ -108,7 +108,7 @@ window.actressData = {
         "小田切ジュン",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-836"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-836"
     }
   ]
 };

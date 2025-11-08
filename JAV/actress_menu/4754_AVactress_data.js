@@ -39,7 +39,7 @@ window.actressData = {
         "黒木麻衣（花野真衣、SHIHO）",
         "立花みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-355"
     }
   ]
 };

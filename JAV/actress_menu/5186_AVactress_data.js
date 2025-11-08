@@ -41,7 +41,7 @@ window.actressData = {
       "actress": [
         "坂口れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-230"
     },
     {
       "id": 88220,
@@ -58,7 +58,7 @@ window.actressData = {
         "小田切ジュン",
         "坂口れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGA-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-026"
     }
   ]
 };

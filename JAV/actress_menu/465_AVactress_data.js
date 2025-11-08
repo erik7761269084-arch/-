@@ -75,7 +75,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 9740,
@@ -100,7 +100,7 @@ window.actressData = {
         "弥生美月",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-570"
     },
     {
       "id": 14565,
@@ -126,7 +126,7 @@ window.actressData = {
         "加贺美さら",
         "雨宫もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-300"
     }
   ]
 };

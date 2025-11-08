@@ -33,7 +33,7 @@ window.actressData = {
         "三宮椿",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-722"
     },
     {
       "id": 3161,
@@ -50,7 +50,7 @@ window.actressData = {
         "三宮椿",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-198"
     },
     {
       "id": 3994,
@@ -67,7 +67,7 @@ window.actressData = {
         "三宮椿",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-042"
     },
     {
       "id": 4959,
@@ -84,7 +84,7 @@ window.actressData = {
         "三宮椿",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-190"
     },
     {
       "id": 5712,
@@ -102,7 +102,7 @@ window.actressData = {
         "三宫つばき",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-039"
     },
     {
       "id": 6509,
@@ -120,7 +120,7 @@ window.actressData = {
         "三宫つばき",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-037"
     },
     {
       "id": 68603,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-931"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-931"
     },
     {
       "id": 7198,
@@ -153,7 +153,7 @@ window.actressData = {
         "三宮椿",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-035"
     },
     {
       "id": 7881,
@@ -170,7 +170,7 @@ window.actressData = {
         "三宮椿",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-666"
     },
     {
       "id": 8669,
@@ -187,7 +187,7 @@ window.actressData = {
         "三宮椿",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-657"
     },
     {
       "id": 73280,
@@ -204,7 +204,7 @@ window.actressData = {
         "田渊正浩",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-648"
     },
     {
       "id": 16978,
@@ -222,7 +222,7 @@ window.actressData = {
         "蓝井优太",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-491"
     },
     {
       "id": 17467,
@@ -239,7 +239,7 @@ window.actressData = {
         "三宮椿",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-517"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-517"
     },
     {
       "id": 90200,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-786"
     },
     {
       "id": 90246,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-749"
     },
     {
       "id": 90780,
@@ -288,7 +288,7 @@ window.actressData = {
         "亜矢みつき",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-556"
     },
     {
       "id": 90377,
@@ -304,7 +304,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-462"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-462"
     },
     {
       "id": 66940,
@@ -321,7 +321,7 @@ window.actressData = {
         "田渊正浩",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-451"
     },
     {
       "id": 90258,
@@ -337,7 +337,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-445"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-445"
     },
     {
       "id": 106477,
@@ -353,7 +353,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-032"
     },
     {
       "id": 61500,
@@ -369,7 +369,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-425"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-425"
     },
     {
       "id": 66631,
@@ -385,7 +385,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-414"
     },
     {
       "id": 86065,
@@ -401,7 +401,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-014"
     },
     {
       "id": 106643,
@@ -417,7 +417,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-388"
     },
     {
       "id": 81028,
@@ -433,7 +433,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-040"
     },
     {
       "id": 86207,
@@ -449,7 +449,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-985"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-985"
     },
     {
       "id": 86233,
@@ -466,7 +466,7 @@ window.actressData = {
         "田渊正浩",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-233"
     },
     {
       "id": 79842,
@@ -482,7 +482,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-204"
     },
     {
       "id": 79225,
@@ -498,7 +498,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-109"
     },
     {
       "id": 78642,
@@ -514,7 +514,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-057"
     },
     {
       "id": 106956,
@@ -530,7 +530,7 @@ window.actressData = {
       "actress": [
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-032"
     },
     {
       "id": 106994,
@@ -548,7 +548,7 @@ window.actressData = {
         "イセドン内村",
         "三宫つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-009"
     },
     {
       "id": 106906,
@@ -566,7 +566,7 @@ window.actressData = {
         "三宫つばき",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-886"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-886"
     }
   ]
 };

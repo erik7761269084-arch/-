@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-363"
     },
     {
       "id": 3863,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-341"
     },
     {
       "id": 4821,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-319"
     },
     {
       "id": 7112,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-267"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-267"
     },
     {
       "id": 6380,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-283"
     },
     {
       "id": 7784,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-250"
     },
     {
       "id": 10212,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-192"
     },
     {
       "id": 12891,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-110"
     },
     {
       "id": 94638,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-089"
     },
     {
       "id": 14054,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-068"
     },
     {
       "id": 14558,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-050"
     },
     {
       "id": 15178,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-017"
     },
     {
       "id": 16437,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-984"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-984"
     }
   ]
 };

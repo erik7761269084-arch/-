@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "月見るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBRAA-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBRAA-319"
     },
     {
       "id": 76442,
@@ -49,7 +49,7 @@ window.actressData = {
         "月見るい",
         "新沢渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MARAA-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-202"
     },
     {
       "id": 95978,
@@ -66,7 +66,7 @@ window.actressData = {
         "月見るい",
         "朝霧ましろ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MARAA-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-193"
     }
   ]
 };

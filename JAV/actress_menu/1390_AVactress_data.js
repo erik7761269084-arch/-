@@ -58,7 +58,7 @@ window.actressData = {
         "稲村ひかり",
         "玉木なるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-465"
     }
   ]
 };

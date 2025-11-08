@@ -56,7 +56,7 @@ window.actressData = {
         "仓木诗织",
         "しずかさん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-064"
     },
     {
       "id": 81459,
@@ -76,7 +76,7 @@ window.actressData = {
         "一ノ瀬菫",
         "本桥実来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-757"
     },
     {
       "id": 76789,
@@ -95,7 +95,7 @@ window.actressData = {
         "南なつき",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
     },
     {
       "id": 71614,
@@ -112,7 +112,7 @@ window.actressData = {
         "星咲ひな",
         "水野朝陽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-012"
     },
     {
       "id": 102744,
@@ -130,7 +130,7 @@ window.actressData = {
         "新村晶",
         "森保さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-249"
     }
   ]
 };

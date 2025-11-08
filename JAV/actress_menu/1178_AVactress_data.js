@@ -50,7 +50,7 @@ window.actressData = {
         "星乃夏月",
         "羽田真子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-674"
     },
     {
       "id": 6005,
@@ -67,7 +67,7 @@ window.actressData = {
         "羽田真子",
         "梶原聡子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WCX-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WCX-011"
     },
     {
       "id": 67341,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "羽田真子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBZ-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-322"
     }
   ]
 };

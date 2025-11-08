@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "日向陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-292"
     },
     {
       "id": 17113,
@@ -77,7 +77,7 @@ window.actressData = {
         "日向陽葵",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-045"
     },
     {
       "id": 17675,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "日向陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-044"
     },
     {
       "id": 18246,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "日向陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-998"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-998"
     },
     {
       "id": 18607,
@@ -126,7 +126,7 @@ window.actressData = {
         "日向陽葵",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-891"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-891"
     },
     {
       "id": 16565,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "日向陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-770"
     },
     {
       "id": 87659,
@@ -159,7 +159,7 @@ window.actressData = {
         "日向陽葵",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-729"
     },
     {
       "id": 104398,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "日向陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-661"
     },
     {
       "id": 100418,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "日向陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-567"
     },
     {
       "id": 87269,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "日向陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-508"
     }
   ]
 };

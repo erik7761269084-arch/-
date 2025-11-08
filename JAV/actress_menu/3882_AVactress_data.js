@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "石原める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-017"
     },
     {
       "id": 75190,
@@ -49,7 +49,7 @@ window.actressData = {
         "鲛岛",
         "石原める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-167"
     },
     {
       "id": 69162,
@@ -67,7 +67,7 @@ window.actressData = {
         "南佳也",
         "石原める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-151"
     }
   ]
 };

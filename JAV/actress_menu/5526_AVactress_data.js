@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "水谷弥生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMO-16"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NMO-16"
     }
   ]
 };

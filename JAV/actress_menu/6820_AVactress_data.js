@@ -39,7 +39,7 @@ window.actressData = {
         "田渊正浩",
         "藤井あいさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-062"
     }
   ]
 };

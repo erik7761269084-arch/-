@@ -34,7 +34,7 @@ window.actressData = {
         "凉川えいみ",
         "芦屋静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-048"
     },
     {
       "id": 71788,
@@ -53,7 +53,7 @@ window.actressData = {
         "中西江梨子",
         "芦屋静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-047"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
         "蒼井澪",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-180"
     }
   ]
 };

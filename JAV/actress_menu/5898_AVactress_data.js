@@ -40,7 +40,7 @@ window.actressData = {
         "樱井ゆうこ",
         "神崎久美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-501"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "ひかり唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAA-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-401"
     },
     {
       "id": 84310,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "ひかり唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-069"
     },
     {
       "id": 85498,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "ひかり唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-217"
     }
   ]
 };

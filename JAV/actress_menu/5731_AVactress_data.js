@@ -34,7 +34,7 @@ window.actressData = {
         "大岛丈",
         "前田朱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-495"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "夏希ゆめ",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-611"
     },
     {
       "id": 89778,
@@ -60,7 +60,7 @@ window.actressData = {
         "春风光",
         "海空花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-174"
     },
     {
       "id": 79105,
@@ -79,7 +79,7 @@ window.actressData = {
         "もなみ铃",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-094"
     }
   ]
 };

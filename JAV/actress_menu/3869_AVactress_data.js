@@ -39,7 +39,7 @@ window.actressData = {
         "村松响子",
         "响京香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3316"
     }
   ]
 };

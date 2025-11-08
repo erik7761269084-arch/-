@@ -61,7 +61,7 @@ window.actressData = {
         "夏白麻矢",
         "綾瀬ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-234"
     }
   ]
 };

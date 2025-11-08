@@ -35,7 +35,7 @@ window.actressData = {
         "石原莉红",
         "星咲きい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-061"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-502"
     },
     {
       "id": 66965,
@@ -49,7 +49,7 @@ window.actressData = {
         "田渊正浩",
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-430"
     },
     {
       "id": 84106,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-417"
     },
     {
       "id": 67276,
@@ -82,7 +82,7 @@ window.actressData = {
         "鲛岛",
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-402"
     },
     {
       "id": 86998,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-388"
     },
     {
       "id": 84174,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-377"
     },
     {
       "id": 84152,
@@ -131,7 +131,7 @@ window.actressData = {
         "蓝井优太",
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-367"
     },
     {
       "id": 84046,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-355"
     },
     {
       "id": 80939,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-343"
     },
     {
       "id": 80653,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-499"
     },
     {
       "id": 84589,
@@ -196,7 +196,7 @@ window.actressData = {
         "イセドン内村",
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-114"
     },
     {
       "id": 85280,
@@ -212,7 +212,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-553"
     },
     {
       "id": 84057,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-287"
     },
     {
       "id": 79578,
@@ -245,7 +245,7 @@ window.actressData = {
         "渚光希",
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-261"
     },
     {
       "id": 86867,
@@ -262,7 +262,7 @@ window.actressData = {
         "鲛岛",
         "天音ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-117"
     }
   ]
 };

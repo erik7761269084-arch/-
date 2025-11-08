@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-121"
     },
     {
       "id": 7524,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-084"
     },
     {
       "id": 8310,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-045"
     },
     {
       "id": 9091,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-005"
     },
     {
       "id": 9938,
@@ -119,7 +119,7 @@ window.actressData = {
         "優木友愛",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-961"
     },
     {
       "id": 10579,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-920"
     }
   ]
 };

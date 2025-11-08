@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "西仓まより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHN-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHN-042"
     },
     {
       "id": 82190,
@@ -55,7 +55,7 @@ window.actressData = {
         "西仓まより",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-616"
     },
     {
       "id": 83166,
@@ -73,7 +73,7 @@ window.actressData = {
         "山井すず",
         "西仓まより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-065"
     },
     {
       "id": 81994,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "西仓まより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHM-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHM-022"
     },
     {
       "id": 73603,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "西仓まより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-098"
     }
   ]
 };

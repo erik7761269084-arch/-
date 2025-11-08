@@ -36,7 +36,7 @@ window.actressData = {
         "美月まい",
         "后藤由乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-010"
     },
     {
       "id": 74395,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "后藤由乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKYH-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKYH-055"
     },
     {
       "id": 74865,
@@ -71,7 +71,7 @@ window.actressData = {
         "后藤由乃",
         "宫崎遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-040"
     },
     {
       "id": 71498,
@@ -89,7 +89,7 @@ window.actressData = {
         "后藤由乃",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-980"
     }
   ]
 };

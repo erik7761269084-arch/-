@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "陽向さえか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=mxgs-916"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=mxgs-916"
     }
   ]
 };

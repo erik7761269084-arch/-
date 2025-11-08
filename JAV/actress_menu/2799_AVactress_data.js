@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "蒼井まなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-239"
     }
   ]
 };

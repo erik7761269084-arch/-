@@ -33,7 +33,7 @@ window.actressData = {
         "豊中爱丽丝",
         "赤渕莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPUD-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPUD-316"
     },
     {
       "id": 72150,
@@ -52,7 +52,7 @@ window.actressData = {
         "皆野あい",
         "赤渕莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-401"
     },
     {
       "id": 77276,
@@ -71,7 +71,7 @@ window.actressData = {
         "立花瑠莉",
         "赤渕莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-956"
     }
   ]
 };

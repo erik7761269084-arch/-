@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桐生珠帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-239"
     },
     {
       "id": 63661,
@@ -54,7 +54,7 @@ window.actressData = {
         "桐生珠帆",
         "春瀬ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-225"
     },
     {
       "id": 72169,
@@ -71,7 +71,7 @@ window.actressData = {
         "桐生珠帆",
         "浜辺香奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-028"
     },
     {
       "id": 91968,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "桐生珠帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-093"
     },
     {
       "id": 91075,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "桐生珠帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-167"
     }
   ]
 };

@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-273"
     },
     {
       "id": 4010,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-254"
     },
     {
       "id": 4792,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-244"
     },
     {
       "id": 7088,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-216"
     },
     {
       "id": 11000,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-169"
     }
   ]
 };

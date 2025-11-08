@@ -68,7 +68,7 @@ window.actressData = {
         "藤井林檎",
         "前田いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EQ-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EQ-506"
     },
     {
       "id": 77126,
@@ -86,7 +86,7 @@ window.actressData = {
         "幸田ユマ",
         "藤井林檎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROOM-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-013"
     },
     {
       "id": 75795,
@@ -105,7 +105,7 @@ window.actressData = {
         "桥本丽华",
         "凉宫ましろ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GZAP-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GZAP-011"
     },
     {
       "id": 70997,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "藤井林檎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21434"
     },
     {
       "id": 71475,
@@ -139,7 +139,7 @@ window.actressData = {
         "藤井林檎",
         "松ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-849"
     },
     {
       "id": 73959,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "藤井林檎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-641"
     },
     {
       "id": 77730,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "藤井林檎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-528"
     },
     {
       "id": 73566,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "藤井林檎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-191"
     }
   ]
 };

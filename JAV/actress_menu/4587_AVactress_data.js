@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "一色まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-092"
     },
     {
       "id": 81991,
@@ -51,7 +51,7 @@ window.actressData = {
         "一色まりあ",
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKMJ-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-089"
     },
     {
       "id": 81630,
@@ -71,7 +71,7 @@ window.actressData = {
         "一色まりあ",
         "优木しの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-201"
     },
     {
       "id": 75755,
@@ -88,7 +88,7 @@ window.actressData = {
         "タツ",
         "一色まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HISN-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HISN-002"
     }
   ]
 };

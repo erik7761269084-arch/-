@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "雅真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-131"
     },
     {
       "id": 1927,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "雅真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S68"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S68"
     }
   ]
 };

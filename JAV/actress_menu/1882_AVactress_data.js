@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "山口由愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-099"
     },
     {
       "id": 3266,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "山口由愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUBE-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-032"
     },
     {
       "id": 5775,
@@ -86,7 +86,7 @@ window.actressData = {
         "石川陽波",
         "山口由愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-752"
     },
     {
       "id": 70482,
@@ -112,7 +112,7 @@ window.actressData = {
         "佐野星彩",
         "森永千波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-289"
     }
   ]
 };

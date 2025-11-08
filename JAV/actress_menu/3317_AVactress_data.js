@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "姫野じゅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOC-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOC-008"
     },
     {
       "id": 62097,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "姫野じゅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARAN-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARAN-099"
     },
     {
       "id": 61419,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "姫野じゅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SXMA-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-016"
     },
     {
       "id": 67387,
@@ -81,7 +81,7 @@ window.actressData = {
         "タクト",
         "姫野じゅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-051"
     },
     {
       "id": 68462,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "姫野じゅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HERY-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-157"
     }
   ]
 };

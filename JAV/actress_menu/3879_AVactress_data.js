@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "森谷美穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZEX-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-317"
     }
   ]
 };

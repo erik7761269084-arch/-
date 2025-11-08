@@ -63,7 +63,7 @@ window.actressData = {
         "稻场流花",
         "永爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-568"
     },
     {
       "id": 81455,
@@ -82,7 +82,7 @@ window.actressData = {
         "饭山香织",
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-216"
     },
     {
       "id": 81616,
@@ -103,7 +103,7 @@ window.actressData = {
         "东条苍",
         "成宫ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-432"
     },
     {
       "id": 81471,
@@ -121,7 +121,7 @@ window.actressData = {
         "清音咲良",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAC-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAC-006"
     },
     {
       "id": 83193,
@@ -139,7 +139,7 @@ window.actressData = {
         "清音咲良",
         "若槻さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-309"
     },
     {
       "id": 83208,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "清音咲良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-076"
     },
     {
       "id": 81630,
@@ -175,7 +175,7 @@ window.actressData = {
         "一色まりあ",
         "优木しの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-201"
     }
   ]
 };

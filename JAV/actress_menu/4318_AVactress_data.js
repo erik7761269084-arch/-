@@ -35,7 +35,7 @@ window.actressData = {
         "すぱいく",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-764"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-764"
     },
     {
       "id": 9740,
@@ -60,7 +60,7 @@ window.actressData = {
         "弥生美月",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-570"
     },
     {
       "id": 10080,
@@ -77,7 +77,7 @@ window.actressData = {
         "岡江凛",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-301"
     },
     {
       "id": 10269,
@@ -96,7 +96,7 @@ window.actressData = {
         "まーち",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-945"
     },
     {
       "id": 10789,
@@ -113,7 +113,7 @@ window.actressData = {
         "藤環奈",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-954"
     }
   ]
 };

@@ -55,7 +55,7 @@ window.actressData = {
         "月本海咲",
         "川菜美铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOGO-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOGO-034"
     },
     {
       "id": 71416,
@@ -73,7 +73,7 @@ window.actressData = {
         "月本海咲",
         "綾瀬もか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LOL-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-242"
     },
     {
       "id": 95334,
@@ -90,7 +90,7 @@ window.actressData = {
         "月本海咲",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-494"
     },
     {
       "id": 93382,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "月本海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEBO-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEBO-018"
     },
     {
       "id": 12735,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "月本海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQSG-009"
     },
     {
       "id": 13287,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "月本海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-241"
     },
     {
       "id": 94858,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "月本海咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TANF-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANF-014"
     }
   ]
 };

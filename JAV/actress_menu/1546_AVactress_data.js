@@ -51,7 +51,7 @@ window.actressData = {
         "市成心海",
         "桐嶋あみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-136"
     },
     {
       "id": 93954,
@@ -71,7 +71,7 @@ window.actressData = {
         "市成心海",
         "峰田奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-600"
     },
     {
       "id": 93485,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "市成心海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKD-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKD-318"
     },
     {
       "id": 90138,
@@ -104,7 +104,7 @@ window.actressData = {
         "宇佐美みおん",
         "市成心海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-562"
     },
     {
       "id": 106399,
@@ -121,7 +121,7 @@ window.actressData = {
         "市成心海",
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-169"
     }
   ]
 };

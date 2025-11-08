@@ -62,7 +62,7 @@ window.actressData = {
         "MIRANO",
         "双叶ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-632"
     },
     {
       "id": 69040,
@@ -81,7 +81,7 @@ window.actressData = {
         "蘭々",
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-799"
     },
     {
       "id": 83988,
@@ -98,7 +98,7 @@ window.actressData = {
         "川原かなえ",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-186"
     },
     {
       "id": 77867,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-029"
     },
     {
       "id": 82104,
@@ -131,7 +131,7 @@ window.actressData = {
         "川原かなえ",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-227"
     },
     {
       "id": 81791,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTB-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-034"
     },
     {
       "id": 81856,
@@ -167,7 +167,7 @@ window.actressData = {
         "川原かなえ",
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-133"
     },
     {
       "id": 75758,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-126"
     },
     {
       "id": 83453,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANZD-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANZD-001"
     },
     {
       "id": 75168,
@@ -216,7 +216,7 @@ window.actressData = {
         "川原かなえ",
         "牧村柚希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSAT-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSAT-004"
     },
     {
       "id": 83785,
@@ -232,7 +232,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKYH-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKYH-052"
     },
     {
       "id": 83063,
@@ -248,7 +248,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-120"
     },
     {
       "id": 82211,
@@ -264,7 +264,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KATU-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KATU-065"
     },
     {
       "id": 81480,
@@ -281,7 +281,7 @@ window.actressData = {
         "川原かなえ",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-861"
     },
     {
       "id": 77416,
@@ -297,7 +297,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-417"
     },
     {
       "id": 74765,
@@ -313,7 +313,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-299"
     },
     {
       "id": 76736,
@@ -329,7 +329,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TG-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TG-044"
     },
     {
       "id": 81772,
@@ -345,7 +345,7 @@ window.actressData = {
       "actress": [
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MICA-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MICA-024"
     }
   ]
 };

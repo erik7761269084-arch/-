@@ -35,7 +35,7 @@ window.actressData = {
         "久美木マリア",
         "优木なお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-168"
     },
     {
       "id": 89546,
@@ -54,7 +54,7 @@ window.actressData = {
         "希望美",
         "久美木マリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-151"
     },
     {
       "id": 66700,
@@ -72,7 +72,7 @@ window.actressData = {
         "希望美",
         "久美木マリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-141"
     }
   ]
 };

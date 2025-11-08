@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "華月愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-225"
     }
   ]
 };

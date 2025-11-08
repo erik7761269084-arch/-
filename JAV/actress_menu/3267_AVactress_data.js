@@ -38,7 +38,7 @@ window.actressData = {
         "瀬那瑠美奈",
         "Reona"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAB-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAB-165"
     }
   ]
 };

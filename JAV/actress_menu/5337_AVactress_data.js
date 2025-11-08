@@ -34,7 +34,7 @@ window.actressData = {
         "最上さゆき",
         "白沢比吕"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPBD-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPBD-209"
     },
     {
       "id": 85577,
@@ -52,7 +52,7 @@ window.actressData = {
         "タイ",
         "白沢比吕"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-232"
     }
   ]
 };

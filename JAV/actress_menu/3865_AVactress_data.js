@@ -39,7 +39,7 @@ window.actressData = {
         "イセドン内村",
         "香西咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-087"
     },
     {
       "id": 68929,
@@ -56,7 +56,7 @@ window.actressData = {
         "吉沢明歩",
         "香西咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-002"
     }
   ]
 };

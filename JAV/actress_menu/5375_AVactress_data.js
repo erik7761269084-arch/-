@@ -34,7 +34,7 @@ window.actressData = {
         "磐井玲子",
         "矢島ちえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPZ-1142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPZ-1142"
     },
     {
       "id": 93657,
@@ -52,7 +52,7 @@ window.actressData = {
         "月岛さくら",
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-050"
     },
     {
       "id": 93654,
@@ -70,7 +70,7 @@ window.actressData = {
         "磐井玲子",
         "藍沢汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-049"
     },
     {
       "id": 91673,
@@ -87,7 +87,7 @@ window.actressData = {
         "左慈半造",
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AED-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AED-224"
     },
     {
       "id": 90144,
@@ -104,7 +104,7 @@ window.actressData = {
         "三云ゆり子",
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RD-1201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-1201"
     },
     {
       "id": 88875,
@@ -121,7 +121,7 @@ window.actressData = {
         "三云ゆり子",
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1201"
     },
     {
       "id": 106399,
@@ -138,7 +138,7 @@ window.actressData = {
         "市成心海",
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-169"
     },
     {
       "id": 88863,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1197"
     },
     {
       "id": 88833,
@@ -171,7 +171,7 @@ window.actressData = {
         "磐井玲子",
         "冴島もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKD-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-049"
     },
     {
       "id": 107540,
@@ -188,7 +188,7 @@ window.actressData = {
         "三云ゆり子",
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-154"
     },
     {
       "id": 87092,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NINE-072"
     },
     {
       "id": 91111,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-122"
     }
   ]
 };

@@ -41,7 +41,7 @@ window.actressData = {
         "平岡里枝子",
         "平冈里枝子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-395"
     },
     {
       "id": 3298,
@@ -59,7 +59,7 @@ window.actressData = {
         "ひょこり",
         "平冈里枝子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-500"
     },
     {
       "id": 3536,
@@ -76,7 +76,7 @@ window.actressData = {
         "平岡里枝子",
         "平冈里枝子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAM-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-254"
     },
     {
       "id": 3865,
@@ -94,7 +94,7 @@ window.actressData = {
         "平冈里枝子",
         "ししお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-999"
     },
     {
       "id": 4696,
@@ -112,7 +112,7 @@ window.actressData = {
         "平冈里枝子",
         "町田りく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-397"
     },
     {
       "id": 6430,
@@ -130,7 +130,7 @@ window.actressData = {
         "トミフミ",
         "平冈里枝子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJDA-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-060"
     }
   ]
 };

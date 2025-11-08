@@ -59,7 +59,7 @@ window.actressData = {
         "タツ",
         "河北恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-738"
     },
     {
       "id": 83662,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "日和ももか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-182"
     },
     {
       "id": 75586,
@@ -96,7 +96,7 @@ window.actressData = {
         "月宫ねね",
         "満岛みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-702"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-702"
     },
     {
       "id": 91273,
@@ -114,7 +114,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-674"
     }
   ]
 };

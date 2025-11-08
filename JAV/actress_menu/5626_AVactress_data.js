@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "绀野沙织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-131"
     }
   ]
 };

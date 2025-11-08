@@ -37,7 +37,7 @@ window.actressData = {
         "水川爱莉",
         "本多由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-060"
     }
   ]
 };

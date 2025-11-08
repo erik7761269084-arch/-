@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "优木いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNOZ-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNOZ-003"
     },
     {
       "id": 83242,
@@ -51,7 +51,7 @@ window.actressData = {
         "逢澤理衣奈",
         "优木いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-287"
     },
     {
       "id": 69863,
@@ -70,7 +70,7 @@ window.actressData = {
         "逢澤理衣奈",
         "优木いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-276"
     }
   ]
 };

@@ -60,7 +60,7 @@ window.actressData = {
         "一之瀨葵",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-215"
     },
     {
       "id": 5690,
@@ -77,7 +77,7 @@ window.actressData = {
         "一之瀨葵",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-179"
     },
     {
       "id": 6514,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "一之瀨葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-141"
     },
     {
       "id": 7173,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "一之瀨葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-105"
     },
     {
       "id": 8701,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "一之瀨葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-029"
     },
     {
       "id": 74767,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "一之瀨葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-988"
     }
   ]
 };

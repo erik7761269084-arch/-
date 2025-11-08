@@ -50,7 +50,7 @@ window.actressData = {
         "山本かをり",
         "なっつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-781"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-781"
     },
     {
       "id": 62067,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "山本かをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HKIK-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKIK-017"
     },
     {
       "id": 61905,
@@ -85,7 +85,7 @@ window.actressData = {
         "澤乃明日香",
         "山本かをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEZ-803"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-803"
     },
     {
       "id": 68302,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "山本かをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEWM-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-106"
     },
     {
       "id": 93404,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "山本かをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEWM-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-081"
     },
     {
       "id": 92011,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "山本かをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KEED-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-083"
     }
   ]
 };

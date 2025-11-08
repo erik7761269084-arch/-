@@ -33,7 +33,7 @@ window.actressData = {
         "春陽萌花",
         "高峰千花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ID-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ID-033"
     }
   ]
 };

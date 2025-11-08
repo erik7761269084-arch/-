@@ -80,7 +80,7 @@ window.actressData = {
         "神谷秋妃",
         "柏木あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOMN-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOMN-078"
     },
     {
       "id": 104413,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "松井優子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-110"
     },
     {
       "id": 67881,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "松井優子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-178"
     }
   ]
 };

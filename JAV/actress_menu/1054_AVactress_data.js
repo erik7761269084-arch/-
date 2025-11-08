@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "相本みき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1736"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1736"
     },
     {
       "id": 1767,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "相本みき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S131"
     },
     {
       "id": 1855,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "相本みき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-149"
     }
   ]
 };

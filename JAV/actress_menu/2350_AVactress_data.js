@@ -69,7 +69,7 @@ window.actressData = {
         "市成心海",
         "桐嶋あみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-136"
     },
     {
       "id": 73027,
@@ -92,7 +92,7 @@ window.actressData = {
         "浅仓真凛",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-036"
     }
   ]
 };

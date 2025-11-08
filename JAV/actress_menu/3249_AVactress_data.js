@@ -33,7 +33,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-186"
     },
     {
       "id": 61101,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMSL-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NMSL-014"
     },
     {
       "id": 3851,
@@ -73,7 +73,7 @@ window.actressData = {
         "夢莉梨花",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-087"
     },
     {
       "id": 3888,
@@ -90,7 +90,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-314"
     },
     {
       "id": 61971,
@@ -115,7 +115,7 @@ window.actressData = {
         "斋藤亚美里",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-331"
     },
     {
       "id": 4586,
@@ -134,7 +134,7 @@ window.actressData = {
         "有棲奏羽",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-384"
     },
     {
       "id": 64035,
@@ -157,7 +157,7 @@ window.actressData = {
         "奏音花音",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-076"
     },
     {
       "id": 6934,
@@ -174,7 +174,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-472"
     },
     {
       "id": 70325,
@@ -196,7 +196,7 @@ window.actressData = {
         "斋藤亚美里",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAGP-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAGP-351"
     },
     {
       "id": 7537,
@@ -214,7 +214,7 @@ window.actressData = {
         "トイボーイ相沢",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-432"
     },
     {
       "id": 7516,
@@ -231,7 +231,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-316"
     },
     {
       "id": 71888,
@@ -248,7 +248,7 @@ window.actressData = {
         "蓝井优太",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-729"
     },
     {
       "id": 69175,
@@ -264,7 +264,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-801"
     },
     {
       "id": 8574,
@@ -281,7 +281,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-796"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-796"
     },
     {
       "id": 8808,
@@ -299,7 +299,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-450"
     },
     {
       "id": 9534,
@@ -340,7 +340,7 @@ window.actressData = {
         "安倍亜沙美",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-424"
     },
     {
       "id": 9780,
@@ -357,7 +357,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21927"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21927"
     },
     {
       "id": 95103,
@@ -373,7 +373,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYU-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYU-424"
     },
     {
       "id": 13807,
@@ -392,7 +392,7 @@ window.actressData = {
         "タイ",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-182"
     },
     {
       "id": 94127,
@@ -412,7 +412,7 @@ window.actressData = {
         "凛音とうか",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-221"
     },
     {
       "id": 16964,
@@ -431,7 +431,7 @@ window.actressData = {
         "沙月芽衣",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-627"
     },
     {
       "id": 17195,
@@ -448,7 +448,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NOSKN-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-064"
     },
     {
       "id": 90303,
@@ -465,7 +465,7 @@ window.actressData = {
         "椿莉香",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-650"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-650"
     },
     {
       "id": 17499,
@@ -483,7 +483,7 @@ window.actressData = {
         "ようく",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-138"
     },
     {
       "id": 17447,
@@ -500,7 +500,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-319"
     },
     {
       "id": 92209,
@@ -517,7 +517,7 @@ window.actressData = {
         "田渊正浩",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-013"
     },
     {
       "id": 17965,
@@ -534,7 +534,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-731"
     },
     {
       "id": 18213,
@@ -552,7 +552,7 @@ window.actressData = {
         "ニック",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-248"
     },
     {
       "id": 88653,
@@ -568,7 +568,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-728"
     },
     {
       "id": 18481,
@@ -587,7 +587,7 @@ window.actressData = {
         "星宮菜奈",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-577"
     },
     {
       "id": 106977,
@@ -603,7 +603,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-219"
     },
     {
       "id": 89816,
@@ -619,7 +619,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-142"
     },
     {
       "id": 89740,
@@ -635,7 +635,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-136"
     },
     {
       "id": 107455,
@@ -651,7 +651,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-078"
     },
     {
       "id": 87855,
@@ -667,7 +667,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-637"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-637"
     },
     {
       "id": 92168,
@@ -683,7 +683,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-892"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-892"
     },
     {
       "id": 91205,
@@ -699,7 +699,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDRD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-002"
     },
     {
       "id": 89097,
@@ -715,7 +715,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-266"
     },
     {
       "id": 92373,
@@ -731,7 +731,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-075"
     },
     {
       "id": 68560,
@@ -747,7 +747,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TYSF-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYSF-037"
     },
     {
       "id": 88581,
@@ -763,7 +763,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-110"
     },
     {
       "id": 68034,
@@ -779,7 +779,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-605"
     },
     {
       "id": 88577,
@@ -795,7 +795,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-102"
     },
     {
       "id": 91149,
@@ -811,7 +811,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-087"
     },
     {
       "id": 68375,
@@ -827,7 +827,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-108"
     },
     {
       "id": 84079,
@@ -843,7 +843,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-609"
     },
     {
       "id": 72747,
@@ -859,7 +859,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-592"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-592"
     },
     {
       "id": 87501,
@@ -875,7 +875,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-229"
     },
     {
       "id": 86112,
@@ -891,7 +891,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-019"
     },
     {
       "id": 84684,
@@ -907,7 +907,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-450"
     },
     {
       "id": 67856,
@@ -923,7 +923,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRSS-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-137"
     },
     {
       "id": 87966,
@@ -941,7 +941,7 @@ window.actressData = {
         "朝比奈七瀨",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCP-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCP-097"
     },
     {
       "id": 84073,
@@ -958,7 +958,7 @@ window.actressData = {
         "タイ",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-591"
     },
     {
       "id": 84022,
@@ -974,7 +974,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-666"
     },
     {
       "id": 85765,
@@ -990,7 +990,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-507"
     },
     {
       "id": 18085,
@@ -1008,7 +1008,7 @@ window.actressData = {
         "中尾芽衣子",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-858"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-858"
     },
     {
       "id": 18107,
@@ -1025,7 +1025,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-839"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-839"
     },
     {
       "id": 18154,
@@ -1042,7 +1042,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-820"
     },
     {
       "id": 18351,
@@ -1059,7 +1059,7 @@ window.actressData = {
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-785"
     },
     {
       "id": 86694,
@@ -1075,7 +1075,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-066"
     },
     {
       "id": 88159,
@@ -1091,7 +1091,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPT-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPT-099"
     },
     {
       "id": 73597,
@@ -1107,7 +1107,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-979"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-979"
     },
     {
       "id": 76366,
@@ -1123,7 +1123,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-944"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-944"
     },
     {
       "id": 82306,
@@ -1139,7 +1139,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-181"
     },
     {
       "id": 76893,
@@ -1161,7 +1161,7 @@ window.actressData = {
         "芹泽飞鸟",
         "水川まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIV-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIV-040"
     },
     {
       "id": 79171,
@@ -1177,7 +1177,7 @@ window.actressData = {
       "actress": [
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-112"
     }
   ]
 };

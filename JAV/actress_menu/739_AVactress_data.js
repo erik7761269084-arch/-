@@ -58,7 +58,7 @@ window.actressData = {
         "葵百合香",
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNTRZ-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-016"
     },
     {
       "id": 5945,
@@ -76,7 +76,7 @@ window.actressData = {
         "橘日向",
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-976"
     },
     {
       "id": 6366,
@@ -99,7 +99,7 @@ window.actressData = {
         "小倉和葉",
         "白穂乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     },
     {
       "id": 6598,
@@ -117,7 +117,7 @@ window.actressData = {
         "鈴木真夕",
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-202"
     },
     {
       "id": 76661,
@@ -135,7 +135,7 @@ window.actressData = {
         "明里友香",
         "黒木歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKS-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-151"
     },
     {
       "id": 93734,
@@ -152,7 +152,7 @@ window.actressData = {
         "明里友香",
         "上野菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PESS-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-009"
     },
     {
       "id": 89098,
@@ -175,7 +175,7 @@ window.actressData = {
         "高仓梨奈",
         "下妻恭子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3400"
     },
     {
       "id": 66918,
@@ -192,7 +192,7 @@ window.actressData = {
         "明里友香",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-496"
     },
     {
       "id": 84861,
@@ -208,7 +208,7 @@ window.actressData = {
       "actress": [
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-274"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-274"
     },
     {
       "id": 74722,
@@ -224,7 +224,7 @@ window.actressData = {
       "actress": [
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1133"
     },
     {
       "id": 74974,
@@ -242,7 +242,7 @@ window.actressData = {
         "神ユキ",
         "秋本詩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-656"
     },
     {
       "id": 103086,
@@ -260,7 +260,7 @@ window.actressData = {
         "明里友香",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-224"
     },
     {
       "id": 71722,
@@ -279,7 +279,7 @@ window.actressData = {
         "沙藤由梨",
         "森春流"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAPL-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAPL-053"
     },
     {
       "id": 74070,
@@ -295,7 +295,7 @@ window.actressData = {
       "actress": [
         "明里友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1079"
     }
   ]
 };

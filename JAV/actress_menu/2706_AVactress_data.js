@@ -68,7 +68,7 @@ window.actressData = {
         "小田切ジュン",
         "大冢れん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-474"
     },
     {
       "id": 67844,
@@ -94,7 +94,7 @@ window.actressData = {
         "三浦恵理子",
         "大桥ひとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-597"
     },
     {
       "id": 82163,
@@ -117,7 +117,7 @@ window.actressData = {
         "宫野ゆかな",
         "八ッ桥さい子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-382"
     },
     {
       "id": 2021,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "原千草"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-25"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-25"
     },
     {
       "id": 88218,
@@ -152,7 +152,7 @@ window.actressData = {
         "大冢れん",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHE-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHE-475"
     }
   ]
 };

@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "白石真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1587"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1587"
     },
     {
       "id": 1733,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "白石真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-87"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-87"
     },
     {
       "id": 1905,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "白石真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-160"
     },
     {
       "id": 2032,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "白石真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-156"
     }
   ]
 };

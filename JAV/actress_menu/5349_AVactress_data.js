@@ -36,7 +36,7 @@ window.actressData = {
         "豊中爱丽丝",
         "浅仓もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-986"
     }
   ]
 };

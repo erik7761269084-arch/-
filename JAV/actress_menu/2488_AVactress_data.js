@@ -48,7 +48,7 @@ window.actressData = {
         "黑奈露西亞",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-463"
     }
   ]
 };

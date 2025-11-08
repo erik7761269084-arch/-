@@ -87,7 +87,7 @@ window.actressData = {
         "迦纳瞳",
         "夏目レイコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-411"
     },
     {
       "id": 82809,
@@ -104,7 +104,7 @@ window.actressData = {
         "水嶋あい",
         "脇坂エム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIL-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIL-016"
     }
   ]
 };

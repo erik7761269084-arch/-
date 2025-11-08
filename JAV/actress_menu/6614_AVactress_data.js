@@ -37,7 +37,7 @@ window.actressData = {
         "伊东红",
         "あきら [TS]"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-493"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "纱仓ひなの",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-195"
     },
     {
       "id": 70783,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "纱仓ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-176"
     }
   ]
 };

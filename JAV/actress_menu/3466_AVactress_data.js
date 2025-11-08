@@ -42,7 +42,7 @@ window.actressData = {
         "三浦恵理子",
         "大桥ひとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-597"
     },
     {
       "id": 62967,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-545"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-545"
     },
     {
       "id": 70191,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-930"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-930"
     },
     {
       "id": 82163,
@@ -97,7 +97,7 @@ window.actressData = {
         "宫野ゆかな",
         "八ッ桥さい子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-382"
     },
     {
       "id": 83117,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-118"
     },
     {
       "id": 75552,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1231"
     },
     {
       "id": 74589,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-222"
     },
     {
       "id": 77344,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-973"
     },
     {
       "id": 71474,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FUGA-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-037"
     },
     {
       "id": 74481,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-887"
     },
     {
       "id": 76755,
@@ -209,7 +209,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-861"
     },
     {
       "id": 106034,
@@ -234,7 +234,7 @@ window.actressData = {
         "三浦恵理子",
         "吉瀬菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-703"
     },
     {
       "id": 77941,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-597"
     },
     {
       "id": 67196,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "三浦恵理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-485"
     }
   ]
 };

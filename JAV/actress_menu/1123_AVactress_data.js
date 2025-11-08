@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "鈴芽由羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-140"
     }
   ]
 };

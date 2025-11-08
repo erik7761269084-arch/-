@@ -56,7 +56,7 @@ window.actressData = {
         "小田切ジュン",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-819"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-819"
     }
   ]
 };

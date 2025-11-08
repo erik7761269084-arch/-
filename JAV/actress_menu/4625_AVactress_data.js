@@ -37,7 +37,7 @@ window.actressData = {
         "奥菜えいみ",
         "小宫山えまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-700"
     }
   ]
 };

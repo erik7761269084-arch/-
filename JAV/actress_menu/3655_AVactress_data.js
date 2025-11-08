@@ -33,7 +33,7 @@ window.actressData = {
         "滝ゆいな",
         "ゆーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-077"
     },
     {
       "id": 69254,
@@ -51,7 +51,7 @@ window.actressData = {
         "吉根柚莉爱",
         "ゆーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-500"
     },
     {
       "id": 66864,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "ゆーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-102"
     },
     {
       "id": 67764,
@@ -84,7 +84,7 @@ window.actressData = {
         "ゆーと",
         "松川令奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-170"
     },
     {
       "id": 86165,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "ゆーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-078"
     },
     {
       "id": 100506,
@@ -117,7 +117,7 @@ window.actressData = {
         "瞳リョウ",
         "ゆーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-231"
     }
   ]
 };

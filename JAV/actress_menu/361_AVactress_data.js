@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-272"
     },
     {
       "id": 2962,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-322"
     },
     {
       "id": 5275,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-077"
     },
     {
       "id": 7477,
@@ -95,7 +95,7 @@ window.actressData = {
         "森彩美",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-998"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-998"
     },
     {
       "id": 8903,
@@ -113,7 +113,7 @@ window.actressData = {
         "コグレハルト",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-972"
     },
     {
       "id": 9553,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-942"
     },
     {
       "id": 10541,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-925"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-925"
     },
     {
       "id": 105104,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-846"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-846"
     },
     {
       "id": 17214,
@@ -178,7 +178,7 @@ window.actressData = {
         "森彩美",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-718"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-718"
     }
   ]
 };

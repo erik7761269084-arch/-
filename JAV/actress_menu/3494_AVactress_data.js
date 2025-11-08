@@ -34,7 +34,7 @@ window.actressData = {
         "保坂えり",
         "篠宫ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-370"
     },
     {
       "id": 81821,
@@ -57,7 +57,7 @@ window.actressData = {
         "篠宫ゆり",
         "山井すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-088"
     },
     {
       "id": 83031,
@@ -80,7 +80,7 @@ window.actressData = {
         "高梨りの",
         "市原由芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-119"
     },
     {
       "id": 73966,
@@ -98,7 +98,7 @@ window.actressData = {
         "篠宫ゆり",
         "皆野あい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-640"
     },
     {
       "id": 86041,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "篠宫ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-693"
     },
     {
       "id": 77898,
@@ -133,7 +133,7 @@ window.actressData = {
         "篠宫ゆり",
         "宫沢ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-982"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-982"
     },
     {
       "id": 76878,
@@ -150,7 +150,7 @@ window.actressData = {
         "音羽美鈴",
         "篠宫ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-563"
     },
     {
       "id": 73011,
@@ -169,7 +169,7 @@ window.actressData = {
         "大原友美",
         "朝比奈みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-215"
     }
   ]
 };

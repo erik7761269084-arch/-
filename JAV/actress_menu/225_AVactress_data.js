@@ -57,7 +57,7 @@ window.actressData = {
         "椎名心春",
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAGP-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAGP-371"
     },
     {
       "id": 3124,
@@ -102,7 +102,7 @@ window.actressData = {
         "永濑唯",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-341"
     },
     {
       "id": 5755,
@@ -122,7 +122,7 @@ window.actressData = {
         "椎名心春",
         "夢莉梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMJB-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMJB-011"
     },
     {
       "id": 7228,
@@ -140,7 +140,7 @@ window.actressData = {
         "皆瀨明里",
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-427"
     },
     {
       "id": 7912,
@@ -156,7 +156,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-431"
     },
     {
       "id": 7856,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-474"
     },
     {
       "id": 62696,
@@ -188,7 +188,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21947"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21947"
     },
     {
       "id": 8124,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-667"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-667"
     },
     {
       "id": 8324,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DORI-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DORI-136"
     },
     {
       "id": 72009,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-147"
     },
     {
       "id": 8636,
@@ -252,7 +252,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-235"
     },
     {
       "id": 9062,
@@ -268,7 +268,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-974"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-974"
     },
     {
       "id": 9159,
@@ -294,7 +294,7 @@ window.actressData = {
         "工藤りおな",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-661"
     },
     {
       "id": 9368,
@@ -311,7 +311,7 @@ window.actressData = {
         "椎名心春",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-712"
     },
     {
       "id": 77301,
@@ -327,7 +327,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-509"
     },
     {
       "id": 14050,
@@ -343,7 +343,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-092"
     },
     {
       "id": 15380,
@@ -359,7 +359,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-041"
     },
     {
       "id": 94572,
@@ -375,7 +375,7 @@ window.actressData = {
       "actress": [
         "椎名心春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-013"
     }
   ]
 };

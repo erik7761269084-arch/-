@@ -44,7 +44,7 @@ window.actressData = {
         "大石香织",
         "伊东真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-370"
     },
     {
       "id": 68401,
@@ -67,7 +67,7 @@ window.actressData = {
         "橘优花",
         "清城雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-782"
     }
   ]
 };

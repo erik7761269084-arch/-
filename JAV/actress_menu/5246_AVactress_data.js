@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "宇野莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SS-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SS-146"
     }
   ]
 };

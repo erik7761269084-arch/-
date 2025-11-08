@@ -78,7 +78,7 @@ window.actressData = {
         "松坂美纪",
         "荻野舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-782"
     }
   ]
 };

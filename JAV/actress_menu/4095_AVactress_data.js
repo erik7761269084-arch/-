@@ -37,7 +37,7 @@ window.actressData = {
         "宫川ありさ",
         "月宫ねね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-853"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-853"
     },
     {
       "id": 76779,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "宫川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21387"
     },
     {
       "id": 74821,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "宫川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-053"
     },
     {
       "id": 71422,
@@ -88,7 +88,7 @@ window.actressData = {
         "宫川ありさ",
         "花咲ひらり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-519"
     },
     {
       "id": 71043,
@@ -108,7 +108,7 @@ window.actressData = {
         "宫川ありさ",
         "绫瀬みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-520"
     },
     {
       "id": 70981,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "宫川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-958"
     },
     {
       "id": 78066,
@@ -142,7 +142,7 @@ window.actressData = {
         "しみけん",
         "宫川ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-482"
     }
   ]
 };

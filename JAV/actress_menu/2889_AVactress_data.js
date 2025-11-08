@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "君野夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-005"
     }
   ]
 };

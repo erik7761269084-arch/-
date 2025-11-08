@@ -40,7 +40,7 @@ window.actressData = {
         "饭山香织",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-418"
     },
     {
       "id": 95192,
@@ -65,7 +65,7 @@ window.actressData = {
         "柏木舞子",
         "黒川珠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-344"
     },
     {
       "id": 93414,
@@ -89,7 +89,7 @@ window.actressData = {
         "北川真由香",
         "羽咲美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-094"
     },
     {
       "id": 67785,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "北川真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-635"
     },
     {
       "id": 69381,
@@ -129,7 +129,7 @@ window.actressData = {
         "叶月奈穂",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-151"
     }
   ]
 };

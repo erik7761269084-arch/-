@@ -35,7 +35,7 @@ window.actressData = {
         "小田切ジュン",
         "大冢れん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-474"
     },
     {
       "id": 88218,
@@ -54,7 +54,7 @@ window.actressData = {
         "大冢れん",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHE-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHE-475"
     },
     {
       "id": 88323,
@@ -71,7 +71,7 @@ window.actressData = {
         "加藤あやの",
         "大冢れん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-144"
     },
     {
       "id": 82756,
@@ -88,7 +88,7 @@ window.actressData = {
         "冬月枫",
         "大冢れん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-459"
     },
     {
       "id": 88006,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "大冢れん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-223"
     },
     {
       "id": 66676,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "大冢れん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOM-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOM-040"
     }
   ]
 };

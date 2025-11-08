@@ -34,7 +34,7 @@ window.actressData = {
         "蓮見天",
         "松井さあや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-283"
     },
     {
       "id": 88296,
@@ -53,7 +53,7 @@ window.actressData = {
         "香乃萌音",
         "松井さあや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-280"
     }
   ]
 };

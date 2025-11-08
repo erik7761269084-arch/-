@@ -60,7 +60,7 @@ window.actressData = {
         "仓木诗织",
         "小鸟游りか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-104"
     },
     {
       "id": 63749,
@@ -82,7 +82,7 @@ window.actressData = {
         "七瀬蘭",
         "沢尻ウタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-102"
     },
     {
       "id": 6981,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "七瀬蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-934"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-934"
     },
     {
       "id": 8538,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "七瀬蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-910"
     }
   ]
 };

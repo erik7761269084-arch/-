@@ -35,7 +35,7 @@ window.actressData = {
         "ナイアガラ翔",
         "ダンディ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-682"
     },
     {
       "id": 7053,
@@ -53,7 +53,7 @@ window.actressData = {
         "ダンディ",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-666"
     },
     {
       "id": 7667,
@@ -70,7 +70,7 @@ window.actressData = {
         "古川穗花",
         "ダンディ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-499"
     },
     {
       "id": 9031,
@@ -89,7 +89,7 @@ window.actressData = {
         "ダンディ",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-633"
     },
     {
       "id": 10287,
@@ -106,7 +106,7 @@ window.actressData = {
         "安位薫",
         "ダンディ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-026"
     },
     {
       "id": 10629,
@@ -123,7 +123,7 @@ window.actressData = {
         "如月りいさ",
         "ダンディ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-274"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-274"
     },
     {
       "id": 11198,
@@ -140,7 +140,7 @@ window.actressData = {
         "宇野美玲",
         "ダンディ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-408"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
         "夏希ゆめ",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-611"
     },
     {
       "id": 3160,
@@ -67,7 +67,7 @@ window.actressData = {
         "水原みその",
         "小梅惠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-540"
     },
     {
       "id": 3576,
@@ -86,7 +86,7 @@ window.actressData = {
         "水原みその",
         "小梅惠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-261"
     },
     {
       "id": 3491,
@@ -170,7 +170,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 4104,
@@ -198,7 +198,7 @@ window.actressData = {
         "有森涼",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-394"
     },
     {
       "id": 4875,
@@ -214,7 +214,7 @@ window.actressData = {
       "actress": [
         "水原みその"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-456"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-456"
     },
     {
       "id": 5801,
@@ -244,7 +244,7 @@ window.actressData = {
         "篠田优",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-596"
     },
     {
       "id": 6442,
@@ -288,7 +288,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 7100,
@@ -311,7 +311,7 @@ window.actressData = {
         "黑木玲奈",
         "碓井せりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTNL-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTNL-002"
     },
     {
       "id": 8600,
@@ -329,7 +329,7 @@ window.actressData = {
         "水原みその",
         "矢澤なの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-430"
     },
     {
       "id": 9015,
@@ -387,7 +387,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 10379,
@@ -405,7 +405,7 @@ window.actressData = {
         "绫濑心",
         "水原みその"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGKI-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-034"
     },
     {
       "id": 11083,
@@ -421,7 +421,7 @@ window.actressData = {
       "actress": [
         "水原みその"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21911"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21911"
     },
     {
       "id": 14619,
@@ -437,7 +437,7 @@ window.actressData = {
       "actress": [
         "水原みその"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-222"
     }
   ]
 };

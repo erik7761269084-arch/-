@@ -36,7 +36,7 @@ window.actressData = {
         "逢沢るる",
         "羽田璃子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-657"
     },
     {
       "id": 88112,
@@ -58,7 +58,7 @@ window.actressData = {
         "叶山弓子",
         "甲斐ミハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMIX-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-012"
     },
     {
       "id": 73110,
@@ -77,7 +77,7 @@ window.actressData = {
         "迦纳绫子",
         "山本美和子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-038"
     },
     {
       "id": 88209,
@@ -98,7 +98,7 @@ window.actressData = {
         "早坂リア",
         "野々宫ここみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-354"
     },
     {
       "id": 69273,
@@ -116,7 +116,7 @@ window.actressData = {
         "松沢ゆかり",
         "星野明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEM-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEM-029"
     }
   ]
 };

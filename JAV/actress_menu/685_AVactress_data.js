@@ -60,7 +60,7 @@ window.actressData = {
         "中丸未来",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-421"
     },
     {
       "id": 3813,
@@ -78,7 +78,7 @@ window.actressData = {
         "碓井せりな",
         "中丸未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-400"
     },
     {
       "id": 10078,
@@ -96,7 +96,7 @@ window.actressData = {
         "藤井蕾菈",
         "中丸未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-223"
     },
     {
       "id": 66901,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "中丸未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-107"
     },
     {
       "id": 86158,
@@ -129,7 +129,7 @@ window.actressData = {
         "中丸未来",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-162"
     }
   ]
 };

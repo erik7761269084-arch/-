@@ -34,7 +34,7 @@ window.actressData = {
         "大石忍",
         "金山ほの花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-150"
     },
     {
       "id": 75208,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "远田恵未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1261"
     },
     {
       "id": 75870,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "远田恵未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BKD-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-229"
     },
     {
       "id": 75444,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "远田恵未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1228"
     },
     {
       "id": 78239,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "远田恵未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-079"
     },
     {
       "id": 72904,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "远田恵未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1077"
     },
     {
       "id": 59876,
@@ -137,7 +137,7 @@ window.actressData = {
         "远田恵未",
         "白鸟るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5225"
     }
   ]
 };

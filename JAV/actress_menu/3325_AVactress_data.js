@@ -37,7 +37,7 @@ window.actressData = {
         "石原れみ",
         "神咲纱々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-193"
     }
   ]
 };

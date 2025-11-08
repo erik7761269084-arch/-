@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOTK-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTK-008"
     }
   ]
 };

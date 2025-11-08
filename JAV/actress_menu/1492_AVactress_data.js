@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "灰原かほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-482"
     }
   ]
 };

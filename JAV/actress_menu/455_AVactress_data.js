@@ -72,7 +72,7 @@ window.actressData = {
         "夏目りょうこ",
         "詩音乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-140"
     },
     {
       "id": 19137,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "结城乃乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-314"
     },
     {
       "id": 19275,
@@ -106,7 +106,7 @@ window.actressData = {
         "イセドン内村",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-172"
     }
   ]
 };

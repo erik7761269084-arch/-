@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "平山羽那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-823"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-823"
     }
   ]
 };

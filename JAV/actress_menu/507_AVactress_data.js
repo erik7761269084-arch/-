@@ -64,7 +64,7 @@ window.actressData = {
         "有星青理",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-126"
     },
     {
       "id": 14709,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-116"
     },
     {
       "id": 15898,
@@ -99,7 +99,7 @@ window.actressData = {
         "蘭々",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-328"
     },
     {
       "id": 90153,
@@ -117,7 +117,7 @@ window.actressData = {
         "蘭々",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-564"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-564"
     },
     {
       "id": 90158,
@@ -134,7 +134,7 @@ window.actressData = {
         "蘭々",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-835"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-835"
     },
     {
       "id": 88885,
@@ -152,7 +152,7 @@ window.actressData = {
         "七碧乃蒼",
         "夏目未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TUE-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-141"
     },
     {
       "id": 107106,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-149"
     },
     {
       "id": 88817,
@@ -189,7 +189,7 @@ window.actressData = {
         "水卜麻衣奈",
         "渋谷華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIKB-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-168"
     },
     {
       "id": 89603,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-815"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-815"
     },
     {
       "id": 88950,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-083"
     },
     {
       "id": 89604,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-812"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-812"
     },
     {
       "id": 89927,
@@ -253,7 +253,7 @@ window.actressData = {
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCR-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-316"
     },
     {
       "id": 104465,
@@ -271,7 +271,7 @@ window.actressData = {
         "岩沢香代",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-692"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-692"
     },
     {
       "id": 69040,
@@ -290,7 +290,7 @@ window.actressData = {
         "蘭々",
         "川原かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-799"
     },
     {
       "id": 69139,
@@ -307,7 +307,7 @@ window.actressData = {
         "夏希栗",
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-388"
     },
     {
       "id": 68509,
@@ -325,7 +325,7 @@ window.actressData = {
         "望月綾香",
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-264"
     },
     {
       "id": 79981,
@@ -341,7 +341,7 @@ window.actressData = {
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-940"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-940"
     },
     {
       "id": 79959,
@@ -359,7 +359,7 @@ window.actressData = {
         "蘭々",
         "富井美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-806"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-806"
     },
     {
       "id": 79424,
@@ -377,7 +377,7 @@ window.actressData = {
         "蘭々",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-800"
     },
     {
       "id": 72511,
@@ -393,7 +393,7 @@ window.actressData = {
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-300"
     },
     {
       "id": 76034,
@@ -411,7 +411,7 @@ window.actressData = {
         "蘭々",
         "迹美珠里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-758"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-758"
     },
     {
       "id": 78169,
@@ -434,7 +434,7 @@ window.actressData = {
         "凉美ほのか",
         "茉莉ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-558"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-558"
     },
     {
       "id": 73771,
@@ -455,7 +455,7 @@ window.actressData = {
         "鲛岛",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-190"
     },
     {
       "id": 77899,
@@ -473,7 +473,7 @@ window.actressData = {
         "蘭々",
         "有坂深雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDS-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDS-889"
     },
     {
       "id": 77755,
@@ -492,7 +492,7 @@ window.actressData = {
         "愛名光莉",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-953"
     },
     {
       "id": 88156,
@@ -512,7 +512,7 @@ window.actressData = {
         "佐佐波绫",
         "波木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-165"
     }
   ]
 };

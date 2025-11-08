@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "岸永みりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUMU-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUMU-003"
     },
     {
       "id": 4031,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "岸永みりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-002"
     }
   ]
 };

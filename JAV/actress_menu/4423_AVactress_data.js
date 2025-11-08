@@ -36,7 +36,7 @@ window.actressData = {
         "柏木恵",
         "最上さゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CADV-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CADV-757"
     },
     {
       "id": 83329,
@@ -60,7 +60,7 @@ window.actressData = {
         "一二三铃",
         "柏木恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-283"
     },
     {
       "id": 74084,
@@ -80,7 +80,7 @@ window.actressData = {
         "管野静香",
         "柏木恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-390"
     }
   ]
 };

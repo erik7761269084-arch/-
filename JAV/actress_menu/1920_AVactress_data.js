@@ -55,7 +55,7 @@ window.actressData = {
         "姫川礼子",
         "碓氷紗也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-627"
     },
     {
       "id": 5659,
@@ -72,7 +72,7 @@ window.actressData = {
         "碓氷紗也",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-739"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-739"
     }
   ]
 };

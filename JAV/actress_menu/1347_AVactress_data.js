@@ -53,7 +53,7 @@ window.actressData = {
         "夏目未來",
         "森永あいす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAB-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAB-164"
     },
     {
       "id": 6599,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "森永あいす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOWY-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOWY-008"
     }
   ]
 };

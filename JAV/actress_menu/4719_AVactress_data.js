@@ -33,7 +33,7 @@ window.actressData = {
         "瓊·洛夫喬伊",
         "林美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-045"
     },
     {
       "id": 77310,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "林美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-490"
     }
   ]
 };

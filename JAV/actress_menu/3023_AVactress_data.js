@@ -33,7 +33,7 @@ window.actressData = {
         "樱井步",
         "板垣あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-712"
     },
     {
       "id": 92749,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "板垣あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIS-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-005"
     }
   ]
 };

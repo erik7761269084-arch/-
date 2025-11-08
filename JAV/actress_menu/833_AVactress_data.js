@@ -63,7 +63,7 @@ window.actressData = {
         "三河瑛茉",
         "野田朔弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-334"
     },
     {
       "id": 4300,
@@ -80,7 +80,7 @@ window.actressData = {
         "池上乙葉",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-712"
     },
     {
       "id": 5306,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "池上乙葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-097"
     },
     {
       "id": 6875,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "池上乙葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-570"
     },
     {
       "id": 7585,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "池上乙葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-539"
     }
   ]
 };

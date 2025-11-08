@@ -42,11 +42,11 @@ window.actressData = {
       "type": "有码",
       "company": "FIRST STAR",
       "publish_date": "2025-04-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/202504271116357575_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/202504271116357575_s.webp",
       "actress": [
         "篠崎菜都香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NECO-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NECO-002"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "爱沢さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-057"
     },
     {
       "id": 87378,
@@ -49,7 +49,7 @@ window.actressData = {
         "左慈半造",
         "爱沢さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-044"
     },
     {
       "id": 87371,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "爱沢さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-944"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-944"
     },
     {
       "id": 87383,
@@ -82,7 +82,7 @@ window.actressData = {
         "左慈半造",
         "爱沢さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-927"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-927"
     },
     {
       "id": 94959,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "爱沢さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-601"
     },
     {
       "id": 78083,
@@ -115,7 +115,7 @@ window.actressData = {
         "梁井一",
         "爱沢さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-590"
     },
     {
       "id": 74533,
@@ -133,7 +133,7 @@ window.actressData = {
         "鲛岛",
         "爱沢さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-544"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-544"
     }
   ]
 };

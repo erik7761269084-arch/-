@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-855"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-855"
     },
     {
       "id": 18110,
@@ -81,7 +81,7 @@ window.actressData = {
         "岬奈奈美",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-836"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-836"
     },
     {
       "id": 18158,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-816"
     },
     {
       "id": 18257,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-798"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-798"
     },
     {
       "id": 18358,
@@ -130,7 +130,7 @@ window.actressData = {
         "岬奈奈美",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-781"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-781"
     },
     {
       "id": 18524,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-729"
     },
     {
       "id": 18572,
@@ -164,7 +164,7 @@ window.actressData = {
         "小田切ジュン",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-694"
     },
     {
       "id": 19527,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-568"
     },
     {
       "id": 18961,
@@ -197,7 +197,7 @@ window.actressData = {
         "岬奈奈美",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-488"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-488"
     },
     {
       "id": 18999,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-456"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-456"
     },
     {
       "id": 19012,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-442"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-442"
     },
     {
       "id": 19037,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-418"
     },
     {
       "id": 19077,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-373"
     },
     {
       "id": 19097,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-359"
     },
     {
       "id": 19099,
@@ -294,7 +294,7 @@ window.actressData = {
         "岬奈奈美",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-343"
     },
     {
       "id": 19127,
@@ -310,7 +310,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-327"
     },
     {
       "id": 19159,
@@ -327,7 +327,7 @@ window.actressData = {
         "岬奈奈美",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-298"
     },
     {
       "id": 19519,
@@ -343,7 +343,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-247"
     },
     {
       "id": 19225,
@@ -359,7 +359,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-228"
     },
     {
       "id": 19234,
@@ -375,7 +375,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-217"
     },
     {
       "id": 19386,
@@ -391,7 +391,7 @@ window.actressData = {
       "actress": [
         "岬奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-051"
     },
     {
       "id": 19405,
@@ -409,7 +409,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-035"
     }
   ]
 };

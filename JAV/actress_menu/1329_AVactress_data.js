@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "源川ゆずな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TGYM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TGYM-003"
     },
     {
       "id": 89701,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "源川ゆずな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-256"
     },
     {
       "id": 89687,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "源川ゆずな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-255"
     },
     {
       "id": 89695,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "源川ゆずな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-251"
     }
   ]
 };

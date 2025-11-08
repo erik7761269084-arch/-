@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "西元美紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-260"
     },
     {
       "id": 3869,
@@ -80,7 +80,7 @@ window.actressData = {
         "西元美紗",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-996"
     },
     {
       "id": 7934,
@@ -97,7 +97,7 @@ window.actressData = {
         "沙月惠奈",
         "西元美紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GGP-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGP-008"
     },
     {
       "id": 17478,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "西元美紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-613"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-613"
     },
     {
       "id": 18030,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "西元美紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-600"
     }
   ]
 };

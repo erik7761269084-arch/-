@@ -54,7 +54,7 @@ window.actressData = {
         "菜月光",
         "虹色久美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-179"
     },
     {
       "id": 94708,
@@ -73,7 +73,7 @@ window.actressData = {
         "虹色久美",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-115"
     },
     {
       "id": 92318,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "虹色久美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-422"
     },
     {
       "id": 92278,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "虹色久美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-371"
     }
   ]
 };

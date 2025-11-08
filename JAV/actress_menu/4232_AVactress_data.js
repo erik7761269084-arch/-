@@ -37,7 +37,7 @@ window.actressData = {
         "凉城りおな",
         "吉冈麻结"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-061"
     },
     {
       "id": 81930,
@@ -56,7 +56,7 @@ window.actressData = {
         "木叶ちひろ",
         "五十岚かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-293"
     },
     {
       "id": 75703,
@@ -75,7 +75,7 @@ window.actressData = {
         "木叶ちひろ",
         "南凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-049"
     },
     {
       "id": 74414,
@@ -94,7 +94,7 @@ window.actressData = {
         "木叶ちひろ",
         "桜アン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-600"
     },
     {
       "id": 72155,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "木叶ちひろ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-103"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "美空",
         "美空みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-144"
     },
     {
       "id": 89116,
@@ -50,7 +50,7 @@ window.actressData = {
         "美空",
         "美空みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-275"
     }
   ]
 };

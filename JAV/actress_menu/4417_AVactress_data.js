@@ -33,7 +33,7 @@ window.actressData = {
         "葵百合香",
         "高野しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CRYNM-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRYNM-002"
     },
     {
       "id": 73920,
@@ -50,7 +50,7 @@ window.actressData = {
         "后藤里香",
         "高野しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKI-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKI-102"
     },
     {
       "id": 78073,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "高野しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-502"
     },
     {
       "id": 78072,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "高野しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-495"
     }
   ]
 };

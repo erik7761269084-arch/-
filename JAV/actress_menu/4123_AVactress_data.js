@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "有马茉利"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-711"
     }
   ]
 };

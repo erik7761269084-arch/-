@@ -37,7 +37,7 @@ window.actressData = {
         "一乃瀬るりあ",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-333"
     },
     {
       "id": 83062,
@@ -60,7 +60,7 @@ window.actressData = {
         "梦乃美咲",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-834"
     },
     {
       "id": 76471,
@@ -78,7 +78,7 @@ window.actressData = {
         "中西南",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-040"
     },
     {
       "id": 83635,
@@ -97,7 +97,7 @@ window.actressData = {
         "樱美雪",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-073"
     },
     {
       "id": 75832,
@@ -118,7 +118,7 @@ window.actressData = {
         "绫瀬さくら",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-820"
     },
     {
       "id": 78285,
@@ -141,7 +141,7 @@ window.actressData = {
         "七海ゆあ",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-071"
     }
   ]
 };

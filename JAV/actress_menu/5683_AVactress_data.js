@@ -34,7 +34,7 @@ window.actressData = {
         "ナイアガラ翔",
         "およよ中野×"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-150"
     }
   ]
 };

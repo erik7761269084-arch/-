@@ -36,7 +36,7 @@ window.actressData = {
         "叶月もえ",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-601"
     },
     {
       "id": 79486,
@@ -55,7 +55,7 @@ window.actressData = {
         "二の宫すずか",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-580"
     },
     {
       "id": 79716,
@@ -74,7 +74,7 @@ window.actressData = {
         "弥生美月",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-568"
     },
     {
       "id": 88339,
@@ -94,7 +94,7 @@ window.actressData = {
         "舞奈みく",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-976"
     }
   ]
 };

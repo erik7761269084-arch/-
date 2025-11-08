@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "佐々木恋海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-500"
     },
     {
       "id": 82149,
@@ -53,7 +53,7 @@ window.actressData = {
         "后藤里香",
         "佐々木恋海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-298"
     },
     {
       "id": 77740,
@@ -76,7 +76,7 @@ window.actressData = {
         "佐々木恋海",
         "ゆうきさやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-343"
     },
     {
       "id": 82935,
@@ -94,7 +94,7 @@ window.actressData = {
         "大场唯",
         "佐々木恋海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZIZG-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-012"
     },
     {
       "id": 103122,
@@ -111,7 +111,7 @@ window.actressData = {
         "佐々木恋海",
         "未来ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-325"
     }
   ]
 };

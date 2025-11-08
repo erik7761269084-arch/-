@@ -69,7 +69,7 @@ window.actressData = {
         "安倍亜沙美",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-424"
     },
     {
       "id": 10268,
@@ -98,7 +98,7 @@ window.actressData = {
         "志田雪奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
     },
     {
       "id": 17018,
@@ -116,7 +116,7 @@ window.actressData = {
         "大村",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-554"
     },
     {
       "id": 17489,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "小栗美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-525"
     },
     {
       "id": 18038,
@@ -150,7 +150,7 @@ window.actressData = {
         "吉村卓",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-495"
     },
     {
       "id": 18519,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "小栗美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-466"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-466"
     },
     {
       "id": 107544,
@@ -183,7 +183,7 @@ window.actressData = {
         "小栗美優",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-437"
     },
     {
       "id": 92310,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "小栗美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-410"
     },
     {
       "id": 67864,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "小栗美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-223"
     }
   ]
 };

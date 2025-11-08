@@ -36,7 +36,7 @@ window.actressData = {
         "久住咲良",
         "奥井咲歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-322"
     }
   ]
 };

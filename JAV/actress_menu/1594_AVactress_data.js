@@ -58,7 +58,7 @@ window.actressData = {
         "冲田奈々",
         "玉城マイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
     },
     {
       "id": 88321,
@@ -77,7 +77,7 @@ window.actressData = {
         "川村真矢",
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-878"
     },
     {
       "id": 88337,
@@ -96,7 +96,7 @@ window.actressData = {
         "彩音遙菜",
         "あゆみ翼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-827"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-827"
     },
     {
       "id": 1757,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "川村真矢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-44"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-44"
     },
     {
       "id": 97715,
@@ -130,7 +130,7 @@ window.actressData = {
         "川村真矢",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-290"
     }
   ]
 };

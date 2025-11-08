@@ -34,7 +34,7 @@ window.actressData = {
         "市川润",
         "爱世くらら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-130"
     }
   ]
 };

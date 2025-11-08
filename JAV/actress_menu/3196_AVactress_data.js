@@ -40,7 +40,7 @@ window.actressData = {
         "饭山香织",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-418"
     },
     {
       "id": 86647,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "春明润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-194"
     }
   ]
 };

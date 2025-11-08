@@ -105,7 +105,7 @@ window.actressData = {
         "安倍亜沙美",
         "响りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
       "id": 70231,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "水元恵梨香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1179"
     }
   ]
 };

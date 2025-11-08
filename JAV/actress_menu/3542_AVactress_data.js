@@ -39,7 +39,7 @@ window.actressData = {
         "柏原友美恵",
         "高岛恭子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5222"
     },
     {
       "id": 93734,
@@ -56,7 +56,7 @@ window.actressData = {
         "明里友香",
         "上野菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PESS-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-009"
     },
     {
       "id": 90172,
@@ -73,7 +73,7 @@ window.actressData = {
         "上野菜穂",
         "広瀬结香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-158"
     },
     {
       "id": 89112,
@@ -91,7 +91,7 @@ window.actressData = {
         "原千岁",
         "上野菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-216"
     }
   ]
 };

@@ -51,7 +51,7 @@ window.actressData = {
         "飞鸟铃",
         "吉泽ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-257"
     },
     {
       "id": 78600,
@@ -75,7 +75,7 @@ window.actressData = {
         "飞鸟铃",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-878"
     },
     {
       "id": 82692,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "飞鸟铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-295"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-295"
     },
     {
       "id": 75033,
@@ -108,7 +108,7 @@ window.actressData = {
         "飞鸟铃",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDHZ-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHZ-005"
     },
     {
       "id": 77379,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "飞鸟铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-701"
     },
     {
       "id": 74037,
@@ -141,7 +141,7 @@ window.actressData = {
         "飞鸟铃",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1105"
     },
     {
       "id": 77863,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "飞鸟铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMKZ-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-059"
     },
     {
       "id": 19496,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "飞鸟铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-001"
     },
     {
       "id": 105730,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "飞鸟铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-910"
     },
     {
       "id": 70499,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "飞鸟铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-899"
     }
   ]
 };

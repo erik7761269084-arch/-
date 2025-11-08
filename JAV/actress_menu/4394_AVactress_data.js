@@ -37,7 +37,7 @@ window.actressData = {
         "奥菜えいみ",
         "小宫山えまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-700"
     },
     {
       "id": 73613,
@@ -58,7 +58,7 @@ window.actressData = {
         "御坂莉亚",
         "奥菜えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-189"
     },
     {
       "id": 94955,
@@ -77,7 +77,7 @@ window.actressData = {
         "奥菜えいみ",
         "石川ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-152"
     }
   ]
 };

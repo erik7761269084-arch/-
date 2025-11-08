@@ -47,7 +47,7 @@ window.actressData = {
         "一宮希帆",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-331"
     },
     {
       "id": 100439,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "一宮希帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-245"
     },
     {
       "id": 68510,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "一宮希帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-226"
     },
     {
       "id": 68525,
@@ -96,7 +96,7 @@ window.actressData = {
         "一宮希帆",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-204"
     },
     {
       "id": 67852,
@@ -114,7 +114,7 @@ window.actressData = {
         "田渊正浩",
         "ハメ撮り"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-181"
     }
   ]
 };

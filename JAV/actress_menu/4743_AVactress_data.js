@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "青山菜々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIGD-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-443"
     },
     {
       "id": 77631,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "青山菜々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-341"
     }
   ]
 };

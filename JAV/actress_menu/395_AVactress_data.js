@@ -65,7 +65,7 @@ window.actressData = {
         "依本詩織",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-736"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-736"
     },
     {
       "id": 2680,
@@ -84,7 +84,7 @@ window.actressData = {
         "綾波蓮",
         "及川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
     },
     {
       "id": 3319,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "依本詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-334"
     },
     {
       "id": 3916,
@@ -121,7 +121,7 @@ window.actressData = {
         "左慈半造",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-259"
     },
     {
       "id": 4111,
@@ -139,7 +139,7 @@ window.actressData = {
         "依本詩織",
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-106"
     },
     {
       "id": 4311,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "依本詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-260"
     },
     {
       "id": 4591,
@@ -175,7 +175,7 @@ window.actressData = {
         "加賀美さら",
         "沙つむぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-344"
     },
     {
       "id": 4357,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "依本詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-408"
     },
     {
       "id": 5383,
@@ -209,7 +209,7 @@ window.actressData = {
         "依本詩織",
         "水谷心音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-390"
     },
     {
       "id": 67345,
@@ -227,7 +227,7 @@ window.actressData = {
         "依本詩織",
         "渋谷夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-058"
     },
     {
       "id": 8037,
@@ -245,7 +245,7 @@ window.actressData = {
         "鲛岛",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-610"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-610"
     },
     {
       "id": 8877,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "依本詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-559"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-559"
     },
     {
       "id": 9731,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "依本詩織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-520"
     }
   ]
 };

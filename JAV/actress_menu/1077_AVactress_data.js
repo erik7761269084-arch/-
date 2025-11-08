@@ -49,7 +49,7 @@ window.actressData = {
         "雪奈真冬",
         "木之内奈々葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
     },
     {
       "id": 6201,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "香月えりさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TANL-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANL-002"
     },
     {
       "id": 6610,
@@ -90,7 +90,7 @@ window.actressData = {
         "香月えりさ",
         "木之内奈々葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-101"
     },
     {
       "id": 9164,
@@ -108,7 +108,7 @@ window.actressData = {
         "市成心海",
         "桐嶋あみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-136"
     }
   ]
 };

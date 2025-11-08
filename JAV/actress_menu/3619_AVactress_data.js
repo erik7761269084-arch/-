@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "长泽あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIGD-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-501"
     },
     {
       "id": 82652,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "长泽あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GG-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-165"
     },
     {
       "id": 66704,
@@ -66,7 +66,7 @@ window.actressData = {
         "杏美月",
         "长泽あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HITMA-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HITMA-165"
     }
   ]
 };

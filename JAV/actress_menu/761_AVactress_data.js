@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "櫻乃莉乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-897"
     },
     {
       "id": 4769,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "櫻乃莉乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-812"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-812"
     },
     {
       "id": 5564,
@@ -95,7 +95,7 @@ window.actressData = {
         "櫻乃莉乃",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-778"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-778"
     },
     {
       "id": 6322,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "櫻乃莉乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-701"
     },
     {
       "id": 7749,
@@ -128,7 +128,7 @@ window.actressData = {
         "櫻乃莉乃",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-662"
     }
   ]
 };

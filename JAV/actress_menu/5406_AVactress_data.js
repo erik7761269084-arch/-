@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "櫻田杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-670"
     },
     {
       "id": 106400,
@@ -49,7 +49,7 @@ window.actressData = {
         "桐香悠裡",
         "櫻田杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-168"
     },
     {
       "id": 87586,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "櫻田杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-064"
     }
   ]
 };

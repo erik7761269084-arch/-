@@ -35,7 +35,7 @@ window.actressData = {
         "逢泽真里亚",
         "宫泽アオ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-061"
     }
   ]
 };

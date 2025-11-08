@@ -46,7 +46,7 @@ window.actressData = {
         "今井真由美",
         "越川アメリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-058"
     },
     {
       "id": 105755,
@@ -63,7 +63,7 @@ window.actressData = {
         "波多野结衣",
         "今井真由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-337"
     },
     {
       "id": 105032,
@@ -82,7 +82,7 @@ window.actressData = {
         "南佳也",
         "今井真由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-097"
     }
   ]
 };

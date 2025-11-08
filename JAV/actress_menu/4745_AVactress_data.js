@@ -35,7 +35,7 @@ window.actressData = {
         "天野美优",
         "河北彩未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-031"
     }
   ]
 };

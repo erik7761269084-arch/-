@@ -54,7 +54,7 @@ window.actressData = {
         "葉月ひな",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRMO-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRMO-241"
     },
     {
       "id": 4414,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "葉月ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-149"
     },
     {
       "id": 4595,
@@ -88,7 +88,7 @@ window.actressData = {
         "宮西光",
         "葉月ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-270"
     },
     {
       "id": 62497,
@@ -105,7 +105,7 @@ window.actressData = {
         "葉月ひな",
         "二代目乱田舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-302"
     },
     {
       "id": 6127,
@@ -123,7 +123,7 @@ window.actressData = {
         "葉月ひな",
         "水本葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-256"
     }
   ]
 };

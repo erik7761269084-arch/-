@@ -34,7 +34,7 @@ window.actressData = {
         "鲛岛",
         "星岛るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-786"
     },
     {
       "id": 75207,
@@ -55,7 +55,7 @@ window.actressData = {
         "星岛るり",
         "林爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
     },
     {
       "id": 83182,
@@ -75,7 +75,7 @@ window.actressData = {
         "星岛るり",
         "世罗いのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-313"
     }
   ]
 };

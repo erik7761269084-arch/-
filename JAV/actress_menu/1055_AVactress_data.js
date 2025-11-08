@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "望月凜音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-637"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-637"
     },
     {
       "id": 4729,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "望月凜音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-607"
     }
   ]
 };

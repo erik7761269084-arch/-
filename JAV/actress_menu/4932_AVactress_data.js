@@ -40,7 +40,7 @@ window.actressData = {
         "长谷川ゆうこ",
         "瀬名凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-019"
     },
     {
       "id": 79942,
@@ -59,7 +59,7 @@ window.actressData = {
         "kaede",
         "宫下真纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-005"
     }
   ]
 };

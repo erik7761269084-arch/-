@@ -33,7 +33,7 @@ window.actressData = {
         "市川润",
         "えみる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URA-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URA-002"
     }
   ]
 };

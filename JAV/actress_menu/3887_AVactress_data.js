@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "松沢ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-632"
     },
     {
       "id": 69273,
@@ -50,7 +50,7 @@ window.actressData = {
         "松沢ゆかり",
         "星野明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEM-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEM-029"
     }
   ]
 };

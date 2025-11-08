@@ -53,7 +53,7 @@ window.actressData = {
         "佐藤里釆",
         "五味紗瑛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-315"
     },
     {
       "id": 6600,
@@ -72,7 +72,7 @@ window.actressData = {
         "遠山まき",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-086"
     },
     {
       "id": 72829,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "遠山まき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-133"
     },
     {
       "id": 8334,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "遠山まき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMEM-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMEM-124"
     },
     {
       "id": 77922,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "遠山まき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYK-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYK-011"
     },
     {
       "id": 67194,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "遠山まき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDTH-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-027"
     }
   ]
 };

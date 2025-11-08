@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-952"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-952"
     },
     {
       "id": 6862,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-017"
     },
     {
       "id": 6525,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-038"
     },
     {
       "id": 7237,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-997"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-997"
     },
     {
       "id": 8821,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-968"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-968"
     },
     {
       "id": 9702,
@@ -156,7 +156,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-940"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-940"
     },
     {
       "id": 16901,
@@ -173,7 +173,7 @@ window.actressData = {
         "天使萌",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-724"
     },
     {
       "id": 17415,
@@ -190,7 +190,7 @@ window.actressData = {
         "天使萌",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-710"
     },
     {
       "id": 18437,
@@ -207,7 +207,7 @@ window.actressData = {
         "天使萌",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-681"
     },
     {
       "id": 18798,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-647"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-647"
     },
     {
       "id": 18974,
@@ -240,7 +240,7 @@ window.actressData = {
         "天使萌",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-635"
     },
     {
       "id": 16568,
@@ -256,7 +256,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-623"
     },
     {
       "id": 72889,
@@ -272,7 +272,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-572"
     },
     {
       "id": 66889,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-547"
     },
     {
       "id": 84534,
@@ -304,7 +304,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-496"
     },
     {
       "id": 67760,
@@ -320,7 +320,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-482"
     },
     {
       "id": 68043,
@@ -337,7 +337,7 @@ window.actressData = {
         "天使萌",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-467"
     },
     {
       "id": 83915,
@@ -353,7 +353,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-451"
     },
     {
       "id": 69508,
@@ -369,7 +369,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-434"
     },
     {
       "id": 83939,
@@ -385,7 +385,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-418"
     },
     {
       "id": 83958,
@@ -401,7 +401,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-405"
     },
     {
       "id": 80788,
@@ -417,7 +417,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-361"
     },
     {
       "id": 83971,
@@ -433,7 +433,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-346"
     },
     {
       "id": 80141,
@@ -450,7 +450,7 @@ window.actressData = {
         "天使萌",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-330"
     },
     {
       "id": 79833,
@@ -466,7 +466,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-283"
     },
     {
       "id": 104497,
@@ -482,7 +482,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-146"
     },
     {
       "id": 106041,
@@ -498,7 +498,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-108"
     },
     {
       "id": 104498,
@@ -514,7 +514,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-059"
     },
     {
       "id": 82645,
@@ -532,7 +532,7 @@ window.actressData = {
         "イセドン内村",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-033"
     },
     {
       "id": 98922,
@@ -548,7 +548,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-716"
     },
     {
       "id": 82063,
@@ -564,7 +564,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-689"
     },
     {
       "id": 75647,
@@ -581,7 +581,7 @@ window.actressData = {
         "天使萌",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-659"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-659"
     },
     {
       "id": 75178,
@@ -597,7 +597,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-605"
     },
     {
       "id": 106514,
@@ -615,7 +615,7 @@ window.actressData = {
         "Miru",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-603"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-603"
     },
     {
       "id": 8157,
@@ -631,7 +631,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-578"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-578"
     },
     {
       "id": 9127,
@@ -647,7 +647,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-555"
     },
     {
       "id": 9512,
@@ -663,7 +663,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-529"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-529"
     },
     {
       "id": 9793,
@@ -679,7 +679,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-505"
     },
     {
       "id": 10198,
@@ -695,7 +695,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-482"
     },
     {
       "id": 11237,
@@ -711,7 +711,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-421"
     },
     {
       "id": 12068,
@@ -733,7 +733,7 @@ window.actressData = {
         "羽笑美晴",
         "彩美旬果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-378"
     },
     {
       "id": 12699,
@@ -749,7 +749,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-358"
     },
     {
       "id": 13127,
@@ -765,7 +765,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-335"
     },
     {
       "id": 13425,
@@ -781,7 +781,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-312"
     },
     {
       "id": 16557,
@@ -800,7 +800,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-116"
     },
     {
       "id": 17259,
@@ -817,7 +817,7 @@ window.actressData = {
         "天使萌",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-021"
     },
     {
       "id": 106689,
@@ -833,7 +833,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-668"
     },
     {
       "id": 70278,
@@ -849,7 +849,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-653"
     },
     {
       "id": 106856,
@@ -865,7 +865,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-487"
     },
     {
       "id": 87995,
@@ -887,7 +887,7 @@ window.actressData = {
         "星野娜美",
         "美里有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-127"
     },
     {
       "id": 97664,
@@ -903,7 +903,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-463"
     },
     {
       "id": 107365,
@@ -920,7 +920,7 @@ window.actressData = {
         "天使萌",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-397"
     },
     {
       "id": 19582,
@@ -936,7 +936,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-352"
     },
     {
       "id": 68592,
@@ -952,7 +952,7 @@ window.actressData = {
       "actress": [
         "天使萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-270"
     }
   ]
 };

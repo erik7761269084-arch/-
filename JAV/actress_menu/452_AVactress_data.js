@@ -48,7 +48,7 @@ window.actressData = {
         "西村ニーナ",
         "新田雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-082"
     },
     {
       "id": 13162,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "新田雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-832"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-832"
     },
     {
       "id": 93791,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "新田雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-238"
     },
     {
       "id": 16211,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "新田雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-056"
     },
     {
       "id": 16766,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "新田雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-045"
     },
     {
       "id": 17740,
@@ -129,7 +129,7 @@ window.actressData = {
         "新田雪",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-025"
     },
     {
       "id": 106697,
@@ -146,7 +146,7 @@ window.actressData = {
         "新田雪",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-021"
     },
     {
       "id": 107284,
@@ -163,7 +163,7 @@ window.actressData = {
         "新田雪",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-009"
     },
     {
       "id": 107206,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "新田雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-999"
     }
   ]
 };

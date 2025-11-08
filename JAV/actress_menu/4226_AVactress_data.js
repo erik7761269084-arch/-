@@ -39,7 +39,7 @@ window.actressData = {
         "浅海さえ",
         "大崎美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-057"
     },
     {
       "id": 75602,
@@ -57,7 +57,7 @@ window.actressData = {
         "今井まい",
         "ふわり结爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-049"
     },
     {
       "id": 77912,
@@ -75,7 +75,7 @@ window.actressData = {
         "内海みう",
         "ふわり结爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-045"
     },
     {
       "id": 72140,
@@ -94,7 +94,7 @@ window.actressData = {
         "结まきな",
         "ふわり结爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-128"
     }
   ]
 };

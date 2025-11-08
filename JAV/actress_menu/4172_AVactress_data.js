@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "柚木めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-479"
     },
     {
       "id": 73977,
@@ -49,7 +49,7 @@ window.actressData = {
         "森林原人",
         "柚木めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1049"
     },
     {
       "id": 71623,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "柚木めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-012"
     }
   ]
 };

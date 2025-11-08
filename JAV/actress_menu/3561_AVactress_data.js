@@ -33,7 +33,7 @@ window.actressData = {
         "前田美波",
         "武内有紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-167"
     }
   ]
 };

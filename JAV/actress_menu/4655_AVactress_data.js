@@ -33,7 +33,7 @@ window.actressData = {
         "若槻みづな",
         "绫部のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-984"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-984"
     }
   ]
 };

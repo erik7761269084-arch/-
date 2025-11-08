@@ -35,7 +35,7 @@ window.actressData = {
         "桥本丽华",
         "小峰みこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-193"
     }
   ]
 };

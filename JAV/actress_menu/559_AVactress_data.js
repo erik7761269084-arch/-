@@ -57,7 +57,7 @@ window.actressData = {
         "夏希ゆめ",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-611"
     },
     {
       "id": 3491,
@@ -141,7 +141,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 17181,
@@ -158,7 +158,7 @@ window.actressData = {
         "華澄結愛",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-738"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "青沼",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-681"
     },
     {
       "id": 6487,
@@ -54,7 +54,7 @@ window.actressData = {
         "しめじ",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-170"
     },
     {
       "id": 6486,
@@ -71,7 +71,7 @@ window.actressData = {
         "月丘紅羽",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-832"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-832"
     },
     {
       "id": 6922,
@@ -88,7 +88,7 @@ window.actressData = {
         "宮本留衣",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-209"
     },
     {
       "id": 6894,
@@ -106,7 +106,7 @@ window.actressData = {
         "日森一",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-997"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-997"
     }
   ]
 };

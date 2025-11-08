@@ -100,7 +100,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 91503,
@@ -117,7 +117,7 @@ window.actressData = {
         "星宮虹乃",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-946"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-946"
     },
     {
       "id": 77144,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "星宮虹乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-722"
     },
     {
       "id": 91267,
@@ -150,7 +150,7 @@ window.actressData = {
         "星宮虹乃",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-669"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-669"
     }
   ]
 };

@@ -42,7 +42,7 @@ window.actressData = {
         "逢沢るる",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-257"
     },
     {
       "id": 90422,
@@ -66,7 +66,7 @@ window.actressData = {
         "黑川纱里奈",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-241"
     },
     {
       "id": 82869,
@@ -88,7 +88,7 @@ window.actressData = {
         "石原理央",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPSD-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPSD-054"
     },
     {
       "id": 82804,
@@ -114,7 +114,7 @@ window.actressData = {
         "春风光",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HGOT-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-027"
     },
     {
       "id": 77878,
@@ -133,7 +133,7 @@ window.actressData = {
         "新井爱丽",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-085"
     },
     {
       "id": 75383,
@@ -152,7 +152,7 @@ window.actressData = {
         "真田さな",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-078"
     },
     {
       "id": 73859,
@@ -170,7 +170,7 @@ window.actressData = {
         "イセドン内村",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHR-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-077"
     },
     {
       "id": 74354,
@@ -182,12 +182,12 @@ window.actressData = {
       "type": "有码",
       "company": "素人Only",
       "publish_date": "2019-07-25",
-      "cover_url": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250106-1/e8100ebb5cc6cb3211944c7484fd4db7.jpg",
       "actress": [
         "鲛岛",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHR-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-074"
     },
     {
       "id": 74362,
@@ -204,7 +204,7 @@ window.actressData = {
         "しみけん",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHR-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-066"
     }
   ]
 };

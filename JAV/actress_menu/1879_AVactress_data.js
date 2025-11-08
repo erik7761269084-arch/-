@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "上原瑞穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-454"
     },
     {
       "id": 1641,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "上原瑞穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=abp-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-408"
     },
     {
       "id": 106572,
@@ -74,7 +74,7 @@ window.actressData = {
         "森林原人",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-376"
     },
     {
       "id": 87978,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "上原瑞穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-361"
     },
     {
       "id": 106567,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "上原瑞穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BGN-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-018"
     }
   ]
 };

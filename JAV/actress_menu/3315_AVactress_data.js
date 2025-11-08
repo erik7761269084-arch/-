@@ -53,7 +53,7 @@ window.actressData = {
         "安倍亜沙美",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-187"
     },
     {
       "id": 4268,
@@ -82,7 +82,7 @@ window.actressData = {
         "安倍亜沙美",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-184"
     },
     {
       "id": 5870,
@@ -111,7 +111,7 @@ window.actressData = {
         "弥生美月",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-180"
     },
     {
       "id": 6671,
@@ -137,7 +137,7 @@ window.actressData = {
         "安倍亜沙美",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-178"
     },
     {
       "id": 91348,
@@ -163,7 +163,7 @@ window.actressData = {
         "篠田优",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-134"
     },
     {
       "id": 68531,
@@ -181,7 +181,7 @@ window.actressData = {
         "小泉真理",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-034"
     },
     {
       "id": 87485,
@@ -199,7 +199,7 @@ window.actressData = {
         "天然美月",
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-226"
     },
     {
       "id": 80660,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4770"
     },
     {
       "id": 86866,
@@ -231,7 +231,7 @@ window.actressData = {
       "actress": [
         "南乃そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-296"
     }
   ]
 };

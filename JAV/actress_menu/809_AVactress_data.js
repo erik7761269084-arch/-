@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "天神羽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-427"
     },
     {
       "id": 4402,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "天神羽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-378"
     },
     {
       "id": 5248,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "天神羽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-358"
     },
     {
       "id": 5990,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "天神羽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-343"
     },
     {
       "id": 6835,
@@ -113,13 +113,13 @@ window.actressData = {
       "type": "有码",
       "company": "SOD",
       "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250415/2d111a08-79d7-474c-8bf0-3bafc7a33607_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250415/2d111a08-79d7-474c-8bf0-3bafc7a33607_s.webp",
       "actress": [
         "天神羽衣",
         "田渊正浩",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-323"
     }
   ]
 };

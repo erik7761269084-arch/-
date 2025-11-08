@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "神樂坂愛琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-206"
     },
     {
       "id": 4768,
@@ -73,7 +73,7 @@ window.actressData = {
         "神樂坂愛琉",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPSE-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-013"
     }
   ]
 };

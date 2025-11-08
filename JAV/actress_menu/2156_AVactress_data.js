@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "相崎琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-005"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "天美しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-010"
     },
     {
       "id": 107239,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "天美しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-460"
     },
     {
       "id": 107494,
@@ -65,7 +65,7 @@ window.actressData = {
         "ハメ鳥の人",
         "天美しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-245"
     }
   ]
 };

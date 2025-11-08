@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "小岩伊都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-018"
     },
     {
       "id": 2016,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "小岩伊都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-005"
     },
     {
       "id": 1836,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "小岩伊都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-003"
     }
   ]
 };

@@ -56,7 +56,7 @@ window.actressData = {
         "月宫ねね",
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-180"
     },
     {
       "id": 88707,
@@ -82,7 +82,7 @@ window.actressData = {
         "雨宫いぶき",
         "高岛理恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRLE-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-053"
     },
     {
       "id": 1278,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "美雲愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2513"
     },
     {
       "id": 83394,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "美雲愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHRV-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-100"
     },
     {
       "id": 83756,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "美雲愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-483"
     },
     {
       "id": 74421,
@@ -147,7 +147,7 @@ window.actressData = {
         "美雲愛梨",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-141"
     }
   ]
 };

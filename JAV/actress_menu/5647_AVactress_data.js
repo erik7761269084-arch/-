@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "向井弘也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBTD-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBTD-032"
     }
   ]
 };

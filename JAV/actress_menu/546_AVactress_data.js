@@ -53,7 +53,7 @@ window.actressData = {
         "東雲梓",
         "天野花乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-414"
     },
     {
       "id": 3517,
@@ -86,7 +86,7 @@ window.actressData = {
         "橘ひなの",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-336"
     },
     {
       "id": 3920,
@@ -106,7 +106,7 @@ window.actressData = {
         "有馬美月",
         "星乃蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-270"
     },
     {
       "id": 4454,
@@ -123,7 +123,7 @@ window.actressData = {
         "松井日奈子",
         "東雲梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-545"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-545"
     },
     {
       "id": 4362,
@@ -141,7 +141,7 @@ window.actressData = {
         "美雲そら",
         "生田りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-269"
     },
     {
       "id": 17586,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "東雲梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-308"
     }
   ]
 };

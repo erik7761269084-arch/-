@@ -34,7 +34,7 @@ window.actressData = {
         "浅田结梨",
         "喜多方凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-080"
     },
     {
       "id": 82115,
@@ -56,7 +56,7 @@ window.actressData = {
         "小野さち子",
         "雨宫いぶき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSAD-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-035"
     },
     {
       "id": 83062,
@@ -79,7 +79,7 @@ window.actressData = {
         "梦乃美咲",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-834"
     },
     {
       "id": 82002,
@@ -100,7 +100,7 @@ window.actressData = {
         "森山なつか",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-280"
     },
     {
       "id": 69612,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "喜多方凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-175"
     }
   ]
 };

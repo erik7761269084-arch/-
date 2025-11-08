@@ -33,7 +33,7 @@ window.actressData = {
         "冬爱琴音",
         "五十岚かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-495"
     },
     {
       "id": 81752,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "五十岚かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MICA-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MICA-026"
     },
     {
       "id": 83687,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "五十岚かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MICA-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MICA-025"
     },
     {
       "id": 81652,
@@ -89,7 +89,7 @@ window.actressData = {
         "森本つぐみ",
         "五十岚かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-046"
     },
     {
       "id": 81930,
@@ -108,7 +108,7 @@ window.actressData = {
         "木叶ちひろ",
         "五十岚かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-293"
     },
     {
       "id": 83636,
@@ -131,7 +131,7 @@ window.actressData = {
         "ERIKA（モカ、MOKA）",
         "ARIA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-250"
     },
     {
       "id": 78181,
@@ -156,7 +156,7 @@ window.actressData = {
         "五十岚かな",
         "桜庭このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-232"
     }
   ]
 };

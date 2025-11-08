@@ -36,7 +36,7 @@ window.actressData = {
         "优梨まいな",
         "佐原由纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-836"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-836"
     }
   ]
 };

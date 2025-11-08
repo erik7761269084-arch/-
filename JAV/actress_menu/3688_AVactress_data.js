@@ -34,7 +34,7 @@ window.actressData = {
         "タツ",
         "服部义"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-312"
     },
     {
       "id": 82180,
@@ -56,7 +56,7 @@ window.actressData = {
         "志戸哲也",
         "堀沢ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-292"
     },
     {
       "id": 82005,
@@ -76,7 +76,7 @@ window.actressData = {
         "稻场流花",
         "服部义"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-287"
     },
     {
       "id": 82843,
@@ -97,7 +97,7 @@ window.actressData = {
         "琴音芽衣",
         "森山なつか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-285"
     },
     {
       "id": 78424,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "服部义"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMI-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMI-159"
     },
     {
       "id": 69952,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "服部义"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUPA-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-449"
     },
     {
       "id": 87969,
@@ -150,7 +150,7 @@ window.actressData = {
         "秋吉花音",
         "岬まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KFNE-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KFNE-001"
     },
     {
       "id": 67045,
@@ -167,7 +167,7 @@ window.actressData = {
         "鈴村愛里",
         "服部义"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-405"
     }
   ]
 };

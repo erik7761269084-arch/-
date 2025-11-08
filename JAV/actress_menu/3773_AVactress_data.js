@@ -45,7 +45,7 @@ window.actressData = {
         "生驹はるな",
         "心花ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUPA-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-196"
     },
     {
       "id": 70275,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "心花ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-581"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-581"
     }
   ]
 };

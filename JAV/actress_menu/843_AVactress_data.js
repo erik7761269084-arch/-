@@ -55,7 +55,7 @@ window.actressData = {
         "加藤桃香",
         "彩葉ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-403"
     },
     {
       "id": 4594,
@@ -75,7 +75,7 @@ window.actressData = {
         "沙優七羽",
         "彩葉ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-376"
     },
     {
       "id": 4803,
@@ -96,7 +96,7 @@ window.actressData = {
         "彩葉ゆな",
         "雨村梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-378"
     },
     {
       "id": 10585,
@@ -113,7 +113,7 @@ window.actressData = {
         "彩葉ゆな",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-546"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-546"
     }
   ]
 };

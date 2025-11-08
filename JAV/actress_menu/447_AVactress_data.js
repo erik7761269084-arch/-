@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-031"
     },
     {
       "id": 7171,
@@ -78,7 +78,7 @@ window.actressData = {
         "時田亜美",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-990"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-990"
     },
     {
       "id": 8036,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-987"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-987"
     },
     {
       "id": 9006,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-976"
     },
     {
       "id": 9864,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-939"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-939"
     },
     {
       "id": 17328,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-684"
     },
     {
       "id": 18252,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-679"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-679"
     },
     {
       "id": 18769,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-666"
     }
   ]
 };

@@ -52,7 +52,7 @@ window.actressData = {
         "滝川ソフィア",
         "北田千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-91"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-91"
     },
     {
       "id": 1947,
@@ -70,7 +70,7 @@ window.actressData = {
         "HIKARI",
         "浅之美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-09"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-09"
     },
     {
       "id": 2024,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "浅之美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S56"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S56"
     }
   ]
 };

@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "雪月花羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEAD-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEAD-008"
     },
     {
       "id": 9021,
@@ -75,7 +75,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEAD-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEAD-007"
     }
   ]
 };

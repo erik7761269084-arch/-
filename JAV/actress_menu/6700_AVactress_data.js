@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "久我里依紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-027"
     },
     {
       "id": 105932,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "久我里依紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-024"
     },
     {
       "id": 103617,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "久我里依紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEO-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-078"
     }
   ]
 };

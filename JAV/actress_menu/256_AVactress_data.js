@@ -60,7 +60,7 @@ window.actressData = {
         "浜崎真绪",
         "浅田结梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
     },
     {
       "id": 2696,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "流川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-397"
     },
     {
       "id": 5094,
@@ -94,7 +94,7 @@ window.actressData = {
         "流川莉央",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKID-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKID-119"
     },
     {
       "id": 5474,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "流川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-642"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-642"
     },
     {
       "id": 8596,
@@ -138,7 +138,7 @@ window.actressData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-799"
     },
     {
       "id": 9740,
@@ -163,7 +163,7 @@ window.actressData = {
         "弥生美月",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-570"
     },
     {
       "id": 12734,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "流川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQSG-010"
     }
   ]
 };

@@ -41,7 +41,7 @@ window.actressData = {
         "井上みづき",
         "渡辺もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-524"
     },
     {
       "id": 88934,
@@ -61,7 +61,7 @@ window.actressData = {
         "内海みう",
         "青井いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-520"
     },
     {
       "id": 88941,
@@ -86,7 +86,7 @@ window.actressData = {
         "青井いちご",
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-508"
     },
     {
       "id": 88929,
@@ -111,7 +111,7 @@ window.actressData = {
         "青井いちご",
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-511"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-511"
     },
     {
       "id": 87060,
@@ -137,7 +137,7 @@ window.actressData = {
         "优木なお",
         "青井いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKAX-909"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-909"
     },
     {
       "id": 75686,
@@ -157,7 +157,7 @@ window.actressData = {
         "皆野あい",
         "青井いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=INCT-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=INCT-042"
     },
     {
       "id": 71502,
@@ -176,7 +176,7 @@ window.actressData = {
         "爱里るい",
         "青井いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-966"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-966"
     }
   ]
 };

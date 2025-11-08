@@ -34,7 +34,7 @@ window.actressData = {
         "二叶エマ",
         "栗山絵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-576"
     },
     {
       "id": 81715,
@@ -53,7 +53,7 @@ window.actressData = {
         "栗山絵麻",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HGOT-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-035"
     },
     {
       "id": 66805,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "栗山絵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2231"
     },
     {
       "id": 82957,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "栗山絵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1240"
     },
     {
       "id": 78535,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "栗山絵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-603"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-603"
     }
   ]
 };

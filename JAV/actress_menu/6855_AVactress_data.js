@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "伊吹玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-393"
     },
     {
       "id": 107513,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "伊吹玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-387"
     }
   ]
 };

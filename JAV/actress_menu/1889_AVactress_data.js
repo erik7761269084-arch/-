@@ -63,7 +63,7 @@ window.actressData = {
         "樱井夕树",
         "真锅あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-506"
     },
     {
       "id": 82149,
@@ -84,7 +84,7 @@ window.actressData = {
         "后藤里香",
         "佐々木恋海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-298"
     },
     {
       "id": 88482,
@@ -103,7 +103,7 @@ window.actressData = {
         "后藤里香",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-163"
     }
   ]
 };

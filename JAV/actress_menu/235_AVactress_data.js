@@ -44,7 +44,7 @@ window.actressData = {
         "三田真鈴",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-887"
     },
     {
       "id": 3743,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-836"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-836"
     },
     {
       "id": 4787,
@@ -80,7 +80,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-802"
     },
     {
       "id": 5195,
@@ -106,7 +106,7 @@ window.actressData = {
         "金松季歩",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
     },
     {
       "id": 5550,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-747"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-747"
     },
     {
       "id": 6323,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-709"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-709"
     },
     {
       "id": 7668,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-626"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-626"
     },
     {
       "id": 8463,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-580"
     },
     {
       "id": 8873,
@@ -202,7 +202,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 10139,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-485"
     },
     {
       "id": 10777,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-443"
     },
     {
       "id": 13594,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-256"
     },
     {
       "id": 14174,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-182"
     },
     {
       "id": 16394,
@@ -283,7 +283,7 @@ window.actressData = {
         "三田真鈴",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-065"
     },
     {
       "id": 16915,
@@ -300,7 +300,7 @@ window.actressData = {
         "三田真鈴",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-023"
     },
     {
       "id": 17376,
@@ -317,7 +317,7 @@ window.actressData = {
         "三田真鈴",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-001"
     },
     {
       "id": 17915,
@@ -333,7 +333,7 @@ window.actressData = {
       "actress": [
         "三田真鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-999"
     }
   ]
 };

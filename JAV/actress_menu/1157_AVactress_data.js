@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "真希泉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-393"
     },
     {
       "id": 2727,
@@ -66,7 +66,7 @@ window.actressData = {
         "真希泉",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-654"
     },
     {
       "id": 3817,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "真希泉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-714"
     }
   ]
 };

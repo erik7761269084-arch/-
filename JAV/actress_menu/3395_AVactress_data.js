@@ -45,7 +45,7 @@ window.actressData = {
         "白川千织",
         "高槻れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-386"
     }
   ]
 };

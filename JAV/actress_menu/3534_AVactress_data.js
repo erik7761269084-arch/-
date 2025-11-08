@@ -43,7 +43,7 @@ window.actressData = {
         "梅川ことね",
         "戸崎めく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-386"
     },
     {
       "id": 6638,
@@ -61,7 +61,7 @@ window.actressData = {
         "梅川ことね",
         "戸崎めく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-383"
     },
     {
       "id": 90388,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "戸崎めく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKYS-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKYS-007"
     }
   ]
 };

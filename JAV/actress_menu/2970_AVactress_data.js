@@ -39,7 +39,7 @@ window.actressData = {
         "夏目りょうこ",
         "詩音乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-140"
     }
   ]
 };

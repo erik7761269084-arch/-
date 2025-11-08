@@ -43,7 +43,7 @@ window.actressData = {
         "桜乃ゆいな",
         "水泽りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-195"
     },
     {
       "id": 78037,
@@ -63,7 +63,7 @@ window.actressData = {
         "優月真裡奈",
         "桜乃ゆいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-467"
     },
     {
       "id": 77875,
@@ -83,7 +83,7 @@ window.actressData = {
         "ちなみん",
         "桜乃ゆいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-416"
     },
     {
       "id": 71850,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "桜乃ゆいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GES-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GES-010"
     }
   ]
 };

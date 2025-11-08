@@ -40,7 +40,7 @@ window.actressData = {
         "篠宫千明",
         "眞ゆみ恵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-431"
     },
     {
       "id": 78486,
@@ -60,7 +60,7 @@ window.actressData = {
         "狩野あき",
         "村井顺子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RUKO-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RUKO-045"
     }
   ]
 };

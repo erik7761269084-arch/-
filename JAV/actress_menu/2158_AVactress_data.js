@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "白石優杞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-194"
     }
   ]
 };

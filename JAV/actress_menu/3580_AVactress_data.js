@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "渋沢紅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BKD-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-355"
     }
   ]
 };

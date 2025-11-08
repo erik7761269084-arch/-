@@ -60,7 +60,7 @@ window.actressData = {
         "長谷川夕奈",
         "香椎花乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PBD-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-493"
     },
     {
       "id": 92136,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCW-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCW-019"
     },
     {
       "id": 18014,
@@ -93,7 +93,7 @@ window.actressData = {
         "長谷川夕奈",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-505"
     },
     {
       "id": 89839,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-079"
     },
     {
       "id": 89836,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-076"
     },
     {
       "id": 89140,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-284"
     },
     {
       "id": 104510,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-480"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-480"
     },
     {
       "id": 106761,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-473"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-473"
     },
     {
       "id": 69241,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-454"
     },
     {
       "id": 68906,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-440"
     },
     {
       "id": 67803,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-432"
     },
     {
       "id": 87023,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "長谷川夕奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-418"
     },
     {
       "id": 69393,
@@ -255,7 +255,7 @@ window.actressData = {
         "小田切ジュン",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-446"
     }
   ]
 };

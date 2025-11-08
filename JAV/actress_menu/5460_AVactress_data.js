@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "久保凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-858"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-858"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "美咲みなみ",
         "兼子美笛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-210"
     },
     {
       "id": 81600,
@@ -58,7 +58,7 @@ window.actressData = {
         "须崎まどか",
         "美咲みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-069"
     },
     {
       "id": 75682,
@@ -77,7 +77,7 @@ window.actressData = {
         "今井まい",
         "美咲みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-062"
     },
     {
       "id": 99085,
@@ -96,7 +96,7 @@ window.actressData = {
         "初美りん",
         "美咲みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-686"
     }
   ]
 };

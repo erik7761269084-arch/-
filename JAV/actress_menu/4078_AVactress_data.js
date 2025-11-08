@@ -33,7 +33,7 @@ window.actressData = {
         "原田千晶",
         "朝仓凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFFS-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-015"
     },
     {
       "id": 83489,
@@ -50,7 +50,7 @@ window.actressData = {
         "原田千晶",
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-509"
     },
     {
       "id": 83814,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "原田千晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POKQ-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POKQ-007"
     },
     {
       "id": 76466,
@@ -83,7 +83,7 @@ window.actressData = {
         "原田千晶",
         "森本つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-146"
     },
     {
       "id": 70824,
@@ -100,7 +100,7 @@ window.actressData = {
         "鲛岛",
         "原田千晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-203"
     }
   ]
 };

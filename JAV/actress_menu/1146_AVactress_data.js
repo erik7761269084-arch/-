@@ -62,7 +62,7 @@ window.actressData = {
         "柏原友美恵",
         "高岛恭子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5222"
     },
     {
       "id": 1933,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "水澤真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S26"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S26"
     },
     {
       "id": 2006,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "水澤真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-66"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-66"
     },
     {
       "id": 59676,
@@ -111,7 +111,7 @@ window.actressData = {
         "椎名由奈",
         "水澤真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BEB-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEB-081"
     }
   ]
 };

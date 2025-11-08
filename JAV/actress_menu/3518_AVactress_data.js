@@ -38,7 +38,7 @@ window.actressData = {
         "宮内ひな",
         "江戸川もなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-227"
     },
     {
       "id": 8661,
@@ -64,7 +64,7 @@ window.actressData = {
         "冬爱琴音",
         "江戸川もなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-173"
     }
   ]
 };

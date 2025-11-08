@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "雨宮ののか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0627"
     }
   ]
 };

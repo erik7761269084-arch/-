@@ -46,7 +46,7 @@ window.actressData = {
         "蒼山愛奈",
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-039"
     },
     {
       "id": 7254,
@@ -64,7 +64,7 @@ window.actressData = {
         "七原紗由",
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOHM-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-001"
     },
     {
       "id": 71461,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTC-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTC-036"
     },
     {
       "id": 17644,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-623"
     },
     {
       "id": 106227,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-292"
     },
     {
       "id": 89025,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-235"
     },
     {
       "id": 89034,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-606"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-606"
     },
     {
       "id": 69453,
@@ -170,7 +170,7 @@ window.actressData = {
         "由爱可奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-674"
     }
   ]
 };

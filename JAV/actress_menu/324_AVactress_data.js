@@ -57,7 +57,7 @@ window.actressData = {
         "桃園怜奈",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-493"
     },
     {
       "id": 3352,
@@ -75,7 +75,7 @@ window.actressData = {
         "左慈半造",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-049"
     },
     {
       "id": 3580,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-194"
     },
     {
       "id": 4291,
@@ -109,7 +109,7 @@ window.actressData = {
         "桃園怜奈",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-406"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-406"
     },
     {
       "id": 4518,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-185"
     },
     {
       "id": 5203,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-381"
     },
     {
       "id": 5302,
@@ -160,7 +160,7 @@ window.actressData = {
         "じゅうもんじ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-180"
     },
     {
       "id": 6885,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-144"
     },
     {
       "id": 7527,
@@ -193,7 +193,7 @@ window.actressData = {
         "桃園怜奈",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-137"
     },
     {
       "id": 8186,
@@ -209,7 +209,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-126"
     },
     {
       "id": 93329,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAAC-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAAC-004"
     },
     {
       "id": 16778,
@@ -241,7 +241,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-005"
     },
     {
       "id": 106304,
@@ -258,7 +258,7 @@ window.actressData = {
         "桃園怜奈",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-525"
     },
     {
       "id": 17732,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-523"
     },
     {
       "id": 18291,
@@ -290,7 +290,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-502"
     },
     {
       "id": 106962,
@@ -306,7 +306,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-510"
     },
     {
       "id": 107072,
@@ -322,7 +322,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-492"
     },
     {
       "id": 107636,
@@ -342,7 +342,7 @@ window.actressData = {
         "じゅうもんじ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-478"
     },
     {
       "id": 67436,
@@ -358,7 +358,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-435"
     },
     {
       "id": 85001,
@@ -374,7 +374,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-430"
     },
     {
       "id": 85039,
@@ -391,7 +391,7 @@ window.actressData = {
         "桃園怜奈",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-423"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-423"
     },
     {
       "id": 85022,
@@ -407,7 +407,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-404"
     },
     {
       "id": 92983,
@@ -423,7 +423,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-011"
     },
     {
       "id": 85009,
@@ -439,7 +439,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-390"
     },
     {
       "id": 84983,
@@ -456,7 +456,7 @@ window.actressData = {
         "本真友里",
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-383"
     },
     {
       "id": 81155,
@@ -472,7 +472,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-377"
     },
     {
       "id": 80790,
@@ -488,7 +488,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-368"
     },
     {
       "id": 84890,
@@ -504,7 +504,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-360"
     },
     {
       "id": 84887,
@@ -520,7 +520,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-352"
     },
     {
       "id": 80163,
@@ -536,7 +536,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-345"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-345"
     },
     {
       "id": 79887,
@@ -552,7 +552,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-707"
     },
     {
       "id": 79286,
@@ -568,7 +568,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-327"
     },
     {
       "id": 93057,
@@ -584,7 +584,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-265"
     },
     {
       "id": 93056,
@@ -600,7 +600,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-232"
     },
     {
       "id": 79086,
@@ -616,7 +616,7 @@ window.actressData = {
       "actress": [
         "桃園怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-287"
     }
   ]
 };

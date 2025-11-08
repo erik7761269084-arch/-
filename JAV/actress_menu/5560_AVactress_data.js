@@ -36,7 +36,7 @@ window.actressData = {
         "高槻れい",
         "皇メイサ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-878"
     }
   ]
 };

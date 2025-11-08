@@ -71,7 +71,7 @@ window.actressData = {
         "新垣智江",
         "天月叶菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-969"
     },
     {
       "id": 4582,
@@ -101,7 +101,7 @@ window.actressData = {
         "池田マリナ",
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-248"
     },
     {
       "id": 5383,
@@ -119,7 +119,7 @@ window.actressData = {
         "依本詩織",
         "水谷心音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-390"
     },
     {
       "id": 91086,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "水谷心音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JSOP-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JSOP-033"
     },
     {
       "id": 87052,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "水谷心音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-551"
     },
     {
       "id": 88592,
@@ -168,7 +168,7 @@ window.actressData = {
         "水谷心音",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-142"
     },
     {
       "id": 68703,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "水谷心音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NATR-683"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-683"
     },
     {
       "id": 81107,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "水谷心音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-213"
     },
     {
       "id": 85988,
@@ -217,7 +217,7 @@ window.actressData = {
         "水谷心音",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-041"
     },
     {
       "id": 80611,
@@ -234,7 +234,7 @@ window.actressData = {
         "水谷心音",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-377"
     },
     {
       "id": 84467,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "水谷心音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-336"
     },
     {
       "id": 71746,
@@ -269,7 +269,7 @@ window.actressData = {
         "若槻みづな",
         "桐岛莉乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-542"
     },
     {
       "id": 77667,
@@ -289,7 +289,7 @@ window.actressData = {
         "内川桂帆",
         "长瀬望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-019"
     },
     {
       "id": 71671,
@@ -306,7 +306,7 @@ window.actressData = {
         "水谷心音",
         "若菜奈央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-389"
     }
   ]
 };

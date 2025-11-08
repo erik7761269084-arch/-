@@ -33,7 +33,7 @@ window.actressData = {
         "明乃夕奈",
         "响乃えみる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-039"
     }
   ]
 };

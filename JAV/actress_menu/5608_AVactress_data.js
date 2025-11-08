@@ -33,7 +33,7 @@ window.actressData = {
         "上白美央",
         "冴島翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-268"
     },
     {
       "id": 90190,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "冴島翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-547"
     },
     {
       "id": 89902,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "冴島翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-176"
     }
   ]
 };

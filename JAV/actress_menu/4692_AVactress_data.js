@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "希美まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-179"
     },
     {
       "id": 104705,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "希美まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-791"
     },
     {
       "id": 104652,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "希美まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-700"
     },
     {
       "id": 96250,
@@ -87,7 +87,7 @@ window.actressData = {
         "天海翼",
         "希美まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-627"
     },
     {
       "id": 96689,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "希美まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-622"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-622"
     },
     {
       "id": 96834,
@@ -120,7 +120,7 @@ window.actressData = {
         "南佳也",
         "希美まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-237"
     },
     {
       "id": 104239,
@@ -140,7 +140,7 @@ window.actressData = {
         "玉木玲",
         "希美まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-170"
     },
     {
       "id": 104285,
@@ -157,7 +157,7 @@ window.actressData = {
         "小田切ジュン",
         "希美まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-669"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-669"
     }
   ]
 };

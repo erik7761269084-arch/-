@@ -37,7 +37,7 @@ window.actressData = {
         "おりょう",
         "NH×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TANP-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-039"
     },
     {
       "id": 62733,
@@ -54,7 +54,7 @@ window.actressData = {
         "ななこ",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HERY-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-159"
     },
     {
       "id": 87056,
@@ -71,7 +71,7 @@ window.actressData = {
         "ななこ",
         "ゆうゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-002"
     }
   ]
 };

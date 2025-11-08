@@ -34,7 +34,7 @@ window.actressData = {
         "平野蒼",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-236"
     },
     {
       "id": 82149,
@@ -55,7 +55,7 @@ window.actressData = {
         "后藤里香",
         "佐々木恋海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-298"
     },
     {
       "id": 83666,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-169"
     },
     {
       "id": 83234,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-174"
     },
     {
       "id": 76456,
@@ -108,7 +108,7 @@ window.actressData = {
         "森萤",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-707"
     },
     {
       "id": 94954,
@@ -127,7 +127,7 @@ window.actressData = {
         "河北麻衣",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-193"
     },
     {
       "id": 75678,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-394"
     },
     {
       "id": 76461,
@@ -165,7 +165,7 @@ window.actressData = {
         "凉川えいみ",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-688"
     },
     {
       "id": 78284,
@@ -184,7 +184,7 @@ window.actressData = {
         "吉泽ひかり",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-093"
     },
     {
       "id": 78143,
@@ -203,7 +203,7 @@ window.actressData = {
         "稻场流花",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-091"
     },
     {
       "id": 86976,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-106"
     },
     {
       "id": 73783,
@@ -235,7 +235,7 @@ window.actressData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-860"
     },
     {
       "id": 78386,
@@ -251,7 +251,7 @@ window.actressData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-814"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-814"
     },
     {
       "id": 71707,
@@ -268,7 +268,7 @@ window.actressData = {
         "蓝井优太",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-608"
     },
     {
       "id": 82604,
@@ -284,7 +284,7 @@ window.actressData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-595"
     },
     {
       "id": 68563,
@@ -300,7 +300,7 @@ window.actressData = {
       "actress": [
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-437"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "戸川夏也",
         "笹木良一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-910"
     },
     {
       "id": 67909,
@@ -52,7 +52,7 @@ window.actressData = {
         "森林原人",
         "笹木良一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-898"
     },
     {
       "id": 106633,
@@ -69,7 +69,7 @@ window.actressData = {
         "高坂ますみ",
         "笹木良一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-008"
     },
     {
       "id": 82546,
@@ -86,7 +86,7 @@ window.actressData = {
         "笹木良一",
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-823"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-823"
     }
   ]
 };

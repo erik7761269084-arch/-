@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小岛优花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SE-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SE-117"
     }
   ]
 };

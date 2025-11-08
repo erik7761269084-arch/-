@@ -56,7 +56,7 @@ window.actressData = {
         "稻场流花",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-591"
     },
     {
       "id": 2041,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "真野優莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-138"
     },
     {
       "id": 1763,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "真野優莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-54"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-54"
     }
   ]
 };

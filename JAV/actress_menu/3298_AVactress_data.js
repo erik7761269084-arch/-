@@ -35,7 +35,7 @@ window.actressData = {
         "青沼",
         "マース"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-862"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-862"
     },
     {
       "id": 6985,
@@ -53,7 +53,7 @@ window.actressData = {
         "ロダン富士",
         "マース"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-446"
     }
   ]
 };

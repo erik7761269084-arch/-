@@ -36,7 +36,7 @@ window.actressData = {
         "吉原日出子",
         "间宫志乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-350"
     }
   ]
 };

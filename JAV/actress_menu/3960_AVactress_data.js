@@ -40,7 +40,7 @@ window.actressData = {
         "真城杏",
         "守永葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-432"
     },
     {
       "id": 82189,
@@ -61,7 +61,7 @@ window.actressData = {
         "宫川ありさ",
         "月宫ねね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-853"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-853"
     },
     {
       "id": 81637,
@@ -83,7 +83,7 @@ window.actressData = {
         "富永舞",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-024"
     },
     {
       "id": 83876,
@@ -104,7 +104,7 @@ window.actressData = {
         "花宫レイ",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-835"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-835"
     },
     {
       "id": 83468,
@@ -125,7 +125,7 @@ window.actressData = {
         "音海里奈",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-845"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-845"
     },
     {
       "id": 83622,
@@ -148,7 +148,7 @@ window.actressData = {
         "岛津かおる",
         "城月あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-069"
     },
     {
       "id": 83651,
@@ -167,7 +167,7 @@ window.actressData = {
         "青泽えみり",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-081"
     },
     {
       "id": 83702,
@@ -190,7 +190,7 @@ window.actressData = {
         "青木りん",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-044"
     },
     {
       "id": 83619,
@@ -213,7 +213,7 @@ window.actressData = {
         "三岛奈津子",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-077"
     },
     {
       "id": 75798,
@@ -232,7 +232,7 @@ window.actressData = {
         "凉城りおな",
         "三高由莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-056"
     },
     {
       "id": 81390,
@@ -249,7 +249,7 @@ window.actressData = {
         "凛音とうか",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-450"
     },
     {
       "id": 70077,
@@ -267,7 +267,7 @@ window.actressData = {
         "真城杏",
         "瀬戸すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-727"
     },
     {
       "id": 74731,
@@ -286,7 +286,7 @@ window.actressData = {
         "和泉つかさ",
         "一ノ瀬菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-568"
     },
     {
       "id": 74512,
@@ -312,7 +312,7 @@ window.actressData = {
         "南凉",
         "茜麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     },
     {
       "id": 76863,
@@ -331,7 +331,7 @@ window.actressData = {
         "君岛美绪",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-365"
     },
     {
       "id": 74419,
@@ -351,7 +351,7 @@ window.actressData = {
         "花笑一杏",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-066"
     },
     {
       "id": 75378,
@@ -367,7 +367,7 @@ window.actressData = {
       "actress": [
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-389"
     },
     {
       "id": 77716,
@@ -383,7 +383,7 @@ window.actressData = {
       "actress": [
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-198"
     },
     {
       "id": 70141,
@@ -401,7 +401,7 @@ window.actressData = {
         "真城杏",
         "森川杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WA-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-390"
     },
     {
       "id": 88224,
@@ -422,7 +422,7 @@ window.actressData = {
         "真城杏",
         "三浦あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDEN-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDEN-038"
     },
     {
       "id": 76453,
@@ -439,7 +439,7 @@ window.actressData = {
         "松岡仁美",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-748"
     }
   ]
 };

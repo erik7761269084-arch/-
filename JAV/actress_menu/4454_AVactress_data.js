@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "成宫つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-029"
     },
     {
       "id": 74815,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "成宫つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-027"
     },
     {
       "id": 74612,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "成宫つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1120"
     }
   ]
 };

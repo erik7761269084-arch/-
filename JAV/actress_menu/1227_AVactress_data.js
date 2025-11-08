@@ -57,7 +57,7 @@ window.actressData = {
         "じゅうもんじ",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-655"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-655"
     },
     {
       "id": 5321,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "椎名七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-022"
     },
     {
       "id": 6891,
@@ -90,7 +90,7 @@ window.actressData = {
         "椎名七海",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-019"
     }
   ]
 };

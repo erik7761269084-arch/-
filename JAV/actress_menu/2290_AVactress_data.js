@@ -78,7 +78,7 @@ window.actressData = {
         "松岡仁美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-328"
     },
     {
       "id": 9495,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "松岡仁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-306"
     },
     {
       "id": 81411,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "松岡仁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLO-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-034"
     },
     {
       "id": 102727,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "松岡仁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-489"
     },
     {
       "id": 67930,
@@ -146,7 +146,7 @@ window.actressData = {
         "田渊正浩",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-122"
     },
     {
       "id": 76453,
@@ -163,7 +163,7 @@ window.actressData = {
         "松岡仁美",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-748"
     },
     {
       "id": 67434,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "松岡仁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-238"
     }
   ]
 };

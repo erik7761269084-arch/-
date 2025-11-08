@@ -35,7 +35,7 @@ window.actressData = {
         "柳美和子",
         "早野いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-196"
     }
   ]
 };

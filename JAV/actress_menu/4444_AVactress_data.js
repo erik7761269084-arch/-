@@ -34,7 +34,7 @@ window.actressData = {
         "しみけん",
         "水美れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-877"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-877"
     }
   ]
 };

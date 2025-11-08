@@ -33,7 +33,7 @@ window.actressData = {
         "天宮花南",
         "ぽぴと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-071"
     },
     {
       "id": 88613,
@@ -50,7 +50,7 @@ window.actressData = {
         "椎叶みくる",
         "ぽぴと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-609"
     },
     {
       "id": 77625,
@@ -67,7 +67,7 @@ window.actressData = {
         "橘瑪麗",
         "ぽぴと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJDA-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-016"
     }
   ]
 };

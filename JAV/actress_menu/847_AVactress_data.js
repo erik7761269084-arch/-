@@ -71,7 +71,7 @@ window.actressData = {
         "真白希実",
         "永作亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-127"
     },
     {
       "id": 2013,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "爱杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-102"
     },
     {
       "id": 1973,
@@ -105,7 +105,7 @@ window.actressData = {
         "椎名美優",
         "武井麻希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-116"
     },
     {
       "id": 2044,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "爱杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-096"
     }
   ]
 };

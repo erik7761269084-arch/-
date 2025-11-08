@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "神樂桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FWAY-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-070"
     },
     {
       "id": 4318,
@@ -77,7 +77,7 @@ window.actressData = {
         "乃坂日和",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
     },
     {
       "id": 5190,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "神樂桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-729"
     },
     {
       "id": 6791,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "神樂桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-505"
     },
     {
       "id": 7311,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "神樂桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-462"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-462"
     },
     {
       "id": 8092,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "神樂桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-647"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-647"
     },
     {
       "id": 8889,
@@ -158,7 +158,7 @@ window.actressData = {
         "神樂桃果",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-548"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-548"
     },
     {
       "id": 8873,
@@ -190,7 +190,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 93612,
@@ -213,7 +213,7 @@ window.actressData = {
         "安倍亜沙美",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-605"
     },
     {
       "id": 13812,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "神樂桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-243"
     },
     {
       "id": 14478,
@@ -246,7 +246,7 @@ window.actressData = {
         "神樂桃果",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-242"
     },
     {
       "id": 106238,
@@ -263,7 +263,7 @@ window.actressData = {
         "神樂桃果",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-003"
     },
     {
       "id": 17667,
@@ -279,7 +279,7 @@ window.actressData = {
       "actress": [
         "神樂桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-002"
     }
   ]
 };

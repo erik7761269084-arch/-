@@ -42,7 +42,7 @@ window.actressData = {
         "市川つばさ",
         "佐々木えな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-732"
     },
     {
       "id": 83487,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMF-052"
     },
     {
       "id": 81862,
@@ -81,7 +81,7 @@ window.actressData = {
         "叶山りん",
         "水上由纪恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-226"
     },
     {
       "id": 76166,
@@ -107,7 +107,7 @@ window.actressData = {
         "小园梨央",
         "中西南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-184"
     },
     {
       "id": 76785,
@@ -124,7 +124,7 @@ window.actressData = {
         "南真悠",
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-301"
     },
     {
       "id": 78040,
@@ -142,7 +142,7 @@ window.actressData = {
         "望月理沙",
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-158"
     },
     {
       "id": 77019,
@@ -160,7 +160,7 @@ window.actressData = {
         "叶山りん",
         "峰ゆり香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-225"
     },
     {
       "id": 72679,
@@ -178,7 +178,7 @@ window.actressData = {
         "小泉沙彩",
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TURA-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TURA-352"
     },
     {
       "id": 77336,
@@ -197,7 +197,7 @@ window.actressData = {
         "松下美织",
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-202"
     }
   ]
 };

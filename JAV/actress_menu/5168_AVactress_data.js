@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "坂本すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-058"
     },
     {
       "id": 82438,
@@ -51,7 +51,7 @@ window.actressData = {
         "坂本すみれ",
         "星乃ゆづき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAR-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-050"
     }
   ]
 };

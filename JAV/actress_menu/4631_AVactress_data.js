@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "水沢美心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4646"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4646"
     },
     {
       "id": 88134,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "水沢美心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-015"
     },
     {
       "id": 81848,
@@ -65,7 +65,7 @@ window.actressData = {
         "鲛岛",
         "水沢美心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-011"
     },
     {
       "id": 81956,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "水沢美心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-456"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-456"
     },
     {
       "id": 83727,
@@ -99,7 +99,7 @@ window.actressData = {
         "玉木玲",
         "水沢美心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-002"
     },
     {
       "id": 76388,
@@ -116,7 +116,7 @@ window.actressData = {
         "鲛岛",
         "水沢美心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-001"
     },
     {
       "id": 79194,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "水沢美心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-232"
     }
   ]
 };

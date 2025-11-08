@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "星海マリン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FAYS-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAYS-001"
     }
   ]
 };

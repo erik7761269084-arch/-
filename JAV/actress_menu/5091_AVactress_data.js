@@ -36,7 +36,7 @@ window.actressData = {
         "美里诗织",
         "铃宫あき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-032"
     },
     {
       "id": 81835,
@@ -58,7 +58,7 @@ window.actressData = {
         "美里诗织",
         "深田さき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-484"
     }
   ]
 };

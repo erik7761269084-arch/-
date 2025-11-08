@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "月城莉莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-658"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-658"
     },
     {
       "id": 3801,
@@ -69,7 +69,7 @@ window.actressData = {
         "月城莉莉香",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-668"
     },
     {
       "id": 4716,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "月城莉莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-647"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-647"
     }
   ]
 };

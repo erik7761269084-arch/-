@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-041"
     },
     {
       "id": 82277,
@@ -69,7 +69,7 @@ window.actressData = {
         "小川阿佐美",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBI-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBI-170"
     },
     {
       "id": 72978,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-660"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-660"
     },
     {
       "id": 19512,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=pgd-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=pgd-649"
     },
     {
       "id": 19587,
@@ -119,7 +119,7 @@ window.actressData = {
         "田渊正浩",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-606"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-606"
     },
     {
       "id": 19509,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-585A"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-585A"
     },
     {
       "id": 19503,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-585"
     },
     {
       "id": 77053,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-554"
     },
     {
       "id": 88195,
@@ -185,7 +185,7 @@ window.actressData = {
         "田渊正浩",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-544"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-544"
     },
     {
       "id": 97547,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-526"
     },
     {
       "id": 77392,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-176"
     },
     {
       "id": 88270,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-247"
     },
     {
       "id": 104953,
@@ -249,7 +249,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-237"
     },
     {
       "id": 104900,
@@ -265,7 +265,7 @@ window.actressData = {
       "actress": [
         "小川阿佐美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-558"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-558"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "田村栞里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-155"
     },
     {
       "id": 106635,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "田村栞里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEO-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-065"
     }
   ]
 };

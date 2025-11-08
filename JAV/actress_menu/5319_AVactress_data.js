@@ -34,7 +34,7 @@ window.actressData = {
         "美咲みなみ",
         "兼子美笛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-210"
     }
   ]
 };

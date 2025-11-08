@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桜川かなこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-355"
     },
     {
       "id": 70392,
@@ -52,7 +52,7 @@ window.actressData = {
         "桜川かなこ",
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-582"
     },
     {
       "id": 78447,
@@ -71,7 +71,7 @@ window.actressData = {
         "ほのかりこ",
         "中原爱子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-071"
     }
   ]
 };

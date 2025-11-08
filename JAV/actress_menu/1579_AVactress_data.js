@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "春日由衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S50"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S50"
     },
     {
       "id": 2038,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "春日由衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-78"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-78"
     }
   ]
 };

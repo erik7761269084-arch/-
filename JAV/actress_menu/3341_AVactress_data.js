@@ -36,7 +36,7 @@ window.actressData = {
         "夏海いく",
         "乙叶ななせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-016"
     },
     {
       "id": 68110,
@@ -54,7 +54,7 @@ window.actressData = {
         "月岛杏奈",
         "咲本はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGRS-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-022"
     },
     {
       "id": 69339,
@@ -72,7 +72,7 @@ window.actressData = {
         "手冢みや",
         "橘咲良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGRS-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-021"
     }
   ]
 };

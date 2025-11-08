@@ -41,7 +41,7 @@ window.actressData = {
         "新村晶",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-935"
     },
     {
       "id": 5933,
@@ -59,7 +59,7 @@ window.actressData = {
         "南佳也",
         "ハリー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-706"
     },
     {
       "id": 66220,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "ハリー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTB-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTB-095"
     },
     {
       "id": 70024,
@@ -92,7 +92,7 @@ window.actressData = {
         "ハリー",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-050"
     },
     {
       "id": 72575,
@@ -110,7 +110,7 @@ window.actressData = {
         "ハリー",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-044"
     },
     {
       "id": 10609,
@@ -128,7 +128,7 @@ window.actressData = {
         "沙月芽衣",
         "ハリー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-165"
     },
     {
       "id": 13225,
@@ -146,7 +146,7 @@ window.actressData = {
         "ダンカ",
         "ハリー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-245"
     },
     {
       "id": 13847,
@@ -163,7 +163,7 @@ window.actressData = {
         "楓富愛",
         "ハリー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-114"
     }
   ]
 };

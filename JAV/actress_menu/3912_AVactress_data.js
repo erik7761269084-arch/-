@@ -36,7 +36,7 @@ window.actressData = {
         "篠崎环奈",
         "大沢カスミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-305"
     },
     {
       "id": 87379,
@@ -59,7 +59,7 @@ window.actressData = {
         "大沢カスミ",
         "きみと歩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DBER-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBER-160"
     },
     {
       "id": 83290,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "大沢カスミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-244"
     },
     {
       "id": 69536,
@@ -94,7 +94,7 @@ window.actressData = {
         "大沢カスミ",
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-479"
     },
     {
       "id": 77348,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "大沢カスミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-742"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-742"
     },
     {
       "id": 73978,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "大沢カスミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1058"
     }
   ]
 };

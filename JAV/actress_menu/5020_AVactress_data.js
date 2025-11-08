@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "星越かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-003"
     },
     {
       "id": 87168,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "星越かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KEPA-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEPA-019"
     },
     {
       "id": 81503,
@@ -66,7 +66,7 @@ window.actressData = {
         "増田ゆめ",
         "星越かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-177"
     }
   ]
 };

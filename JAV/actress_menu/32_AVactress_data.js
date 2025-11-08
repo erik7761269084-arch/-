@@ -83,7 +83,7 @@ window.actressData = {
         "浜崎真绪",
         "浅田结梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
     },
     {
       "id": 3077,
@@ -117,7 +117,7 @@ window.actressData = {
         "长瀬麻美",
         "儿玉玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-092"
     },
     {
       "id": 3076,
@@ -144,7 +144,7 @@ window.actressData = {
         "浜崎真绪",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-089"
     },
     {
       "id": 3074,
@@ -176,7 +176,7 @@ window.actressData = {
         "ひなた唯",
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-394"
     },
     {
       "id": 3835,
@@ -195,7 +195,7 @@ window.actressData = {
         "笠木いちか",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-831"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-831"
     },
     {
       "id": 4406,
@@ -212,7 +212,7 @@ window.actressData = {
         "浜崎真緒",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADHN-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADHN-002"
     },
     {
       "id": 5080,
@@ -229,7 +229,7 @@ window.actressData = {
         "浜崎真緒",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-118"
     },
     {
       "id": 5845,
@@ -255,7 +255,7 @@ window.actressData = {
         "神宫寺奈绪",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-599"
     },
     {
       "id": 6962,
@@ -272,7 +272,7 @@ window.actressData = {
         "浜崎真緒",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-370"
     },
     {
       "id": 7196,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "浜崎真緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-159"
     },
     {
       "id": 7861,
@@ -307,7 +307,7 @@ window.actressData = {
         "一条美緒",
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-867"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-867"
     },
     {
       "id": 8221,
@@ -335,7 +335,7 @@ window.actressData = {
         "楽園ミナ",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-135"
     },
     {
       "id": 8235,
@@ -352,7 +352,7 @@ window.actressData = {
         "浜崎真緒",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1370"
     },
     {
       "id": 8596,
@@ -380,7 +380,7 @@ window.actressData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-799"
     },
     {
       "id": 9292,
@@ -398,7 +398,7 @@ window.actressData = {
         "浜崎真緒",
         "皇柚子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-956"
     },
     {
       "id": 9350,
@@ -415,7 +415,7 @@ window.actressData = {
         "浜崎真緒",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-794"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-794"
     },
     {
       "id": 9535,
@@ -440,7 +440,7 @@ window.actressData = {
         "篠田优",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-667"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-667"
     },
     {
       "id": 10243,
@@ -457,7 +457,7 @@ window.actressData = {
         "浜崎真緒",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-633"
     },
     {
       "id": 10410,
@@ -478,7 +478,7 @@ window.actressData = {
         "タイ",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-628"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-628"
     },
     {
       "id": 13193,
@@ -497,7 +497,7 @@ window.actressData = {
         "浜崎真绪",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-185"
     },
     {
       "id": 16817,
@@ -515,7 +515,7 @@ window.actressData = {
         "通野未帆",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GENU-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GENU-007"
     },
     {
       "id": 17320,
@@ -533,7 +533,7 @@ window.actressData = {
         "三田櫻",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPIN-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-067"
     },
     {
       "id": 17445,
@@ -550,7 +550,7 @@ window.actressData = {
         "浜崎真緒",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-352"
     },
     {
       "id": 17640,
@@ -572,7 +572,7 @@ window.actressData = {
         "浜崎真绪",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-403"
     },
     {
       "id": 18802,
@@ -590,7 +590,7 @@ window.actressData = {
         "山岸逢花",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-505"
     },
     {
       "id": 19581,
@@ -607,7 +607,7 @@ window.actressData = {
         "浜崎真緒",
         "本田岬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URE-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-015"
     }
   ]
 };

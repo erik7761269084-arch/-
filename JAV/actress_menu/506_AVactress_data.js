@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "瀬緒凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-248"
     },
     {
       "id": 6945,
@@ -78,7 +78,7 @@ window.actressData = {
         "瀬緒凛",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-220"
     },
     {
       "id": 8510,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "瀬緒凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-198"
     },
     {
       "id": 10344,
@@ -111,7 +111,7 @@ window.actressData = {
         "瀬緒凛",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-176"
     }
   ]
 };

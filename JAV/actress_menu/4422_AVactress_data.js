@@ -34,7 +34,7 @@ window.actressData = {
         "森下美绪",
         "滝川穗乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJAA-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJAA-023"
     },
     {
       "id": 74889,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "滝川穗乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDOB-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-055"
     },
     {
       "id": 74042,
@@ -72,7 +72,7 @@ window.actressData = {
         "七瀬もな",
         "滝川穗乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-025"
     }
   ]
 };

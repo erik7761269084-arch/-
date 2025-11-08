@@ -45,7 +45,7 @@ window.actressData = {
         "立花瑠莉",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ID-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ID-036"
     },
     {
       "id": 71163,
@@ -66,7 +66,7 @@ window.actressData = {
         "白金れい奈",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-044"
     },
     {
       "id": 77955,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "立花瑠莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-743"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-743"
     },
     {
       "id": 77381,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "立花瑠莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-188"
     },
     {
       "id": 77706,
@@ -116,7 +116,7 @@ window.actressData = {
         "望月理沙",
         "梦咲ひなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPS-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-369"
     },
     {
       "id": 77276,
@@ -135,7 +135,7 @@ window.actressData = {
         "立花瑠莉",
         "赤渕莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-956"
     },
     {
       "id": 73028,
@@ -153,7 +153,7 @@ window.actressData = {
         "立花瑠莉",
         "花笑一杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-554"
     },
     {
       "id": 88260,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "立花瑠莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-077"
     }
   ]
 };

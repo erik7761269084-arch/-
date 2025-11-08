@@ -37,7 +37,7 @@ window.actressData = {
         "夏花",
         "姫宮すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONIN-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONIN-088"
     },
     {
       "id": 91337,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "姫宮すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CIEL-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CIEL-007"
     }
   ]
 };

@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "月乃あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-285"
     },
     {
       "id": 3639,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "月乃あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSBK-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-013"
     },
     {
       "id": 4109,
@@ -88,7 +88,7 @@ window.actressData = {
         "響かれん",
         "月乃あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-105"
     },
     {
       "id": 5266,
@@ -107,7 +107,7 @@ window.actressData = {
         "月乃あや",
         "姫川かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-202"
     },
     {
       "id": 7276,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "月乃あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-138"
     }
   ]
 };

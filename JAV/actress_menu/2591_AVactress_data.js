@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "四ッ葉かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-330"
     }
   ]
 };

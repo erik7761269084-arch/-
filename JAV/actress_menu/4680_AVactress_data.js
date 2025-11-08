@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "篠野まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-285"
     }
   ]
 };

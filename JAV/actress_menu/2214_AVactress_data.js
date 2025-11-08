@@ -80,7 +80,7 @@ window.actressData = {
         "谷原希美",
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-150"
     },
     {
       "id": 88931,
@@ -101,7 +101,7 @@ window.actressData = {
         "黑川纱里奈",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-894"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-894"
     },
     {
       "id": 75588,
@@ -124,7 +124,7 @@ window.actressData = {
         "宫本纱央里",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-109"
     },
     {
       "id": 107261,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "谷原希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-701"
     },
     {
       "id": 88798,
@@ -160,7 +160,7 @@ window.actressData = {
         "桜井彩",
         "なつめ爱梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSP-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-133"
     },
     {
       "id": 71137,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "谷原希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-072"
     },
     {
       "id": 77648,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "谷原希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAE-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAE-032"
     },
     {
       "id": 78095,
@@ -209,7 +209,7 @@ window.actressData = {
         "谷原希美",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-229"
     },
     {
       "id": 82350,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "谷原希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-062"
     }
   ]
 };

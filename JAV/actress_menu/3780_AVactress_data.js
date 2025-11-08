@@ -34,7 +34,7 @@ window.actressData = {
         "山田富美",
         "高梨日和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3274"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3274"
     },
     {
       "id": 68110,
@@ -52,7 +52,7 @@ window.actressData = {
         "月岛杏奈",
         "咲本はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGRS-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-022"
     }
   ]
 };

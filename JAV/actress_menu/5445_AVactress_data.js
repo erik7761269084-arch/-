@@ -34,7 +34,7 @@ window.actressData = {
         "しみけん",
         "橘乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIC-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-054"
     }
   ]
 };

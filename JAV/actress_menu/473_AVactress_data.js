@@ -50,7 +50,7 @@ window.actressData = {
         "鈴木真夕",
         "辻いまる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDTA-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDTA-002"
     },
     {
       "id": 5039,
@@ -68,7 +68,7 @@ window.actressData = {
         "辻井穗乃果",
         "辻いまる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-532"
     },
     {
       "id": 9397,
@@ -87,7 +87,7 @@ window.actressData = {
         "如月りいさ",
         "辻いまる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-860"
     },
     {
       "id": 9893,
@@ -107,7 +107,7 @@ window.actressData = {
         "辻いまる",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-669"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-669"
     },
     {
       "id": 9858,
@@ -124,7 +124,7 @@ window.actressData = {
         "辻いまる",
         "平井シンジ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANKB-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANKB-033"
     },
     {
       "id": 10034,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "辻いまる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDRD-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-038"
     }
   ]
 };

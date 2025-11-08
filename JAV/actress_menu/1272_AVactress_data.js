@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "西川结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-24"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-24"
     },
     {
       "id": 2025,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "西川结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S132"
     },
     {
       "id": 1891,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "西川结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-148"
     },
     {
       "id": 106468,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "西川结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-091"
     }
   ]
 };

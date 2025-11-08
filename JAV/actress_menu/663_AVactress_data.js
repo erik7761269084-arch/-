@@ -54,7 +54,7 @@ window.actressData = {
         "甘井くるみ",
         "江澄ゆゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNTR-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNTR-007"
     },
     {
       "id": 5893,
@@ -71,7 +71,7 @@ window.actressData = {
         "吉井美希",
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-145"
     },
     {
       "id": 7961,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-320"
     },
     {
       "id": 72786,
@@ -107,7 +107,7 @@ window.actressData = {
         "鳥楽ひな",
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-314"
     },
     {
       "id": 12595,
@@ -124,7 +124,7 @@ window.actressData = {
         "甘井くるみ",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-612"
     },
     {
       "id": 13879,
@@ -142,7 +142,7 @@ window.actressData = {
         "望実かなえ",
         "空野きら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SETM-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-029"
     },
     {
       "id": 16846,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-291"
     },
     {
       "id": 89673,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-285"
     },
     {
       "id": 10008,
@@ -192,7 +192,7 @@ window.actressData = {
         "鳥楽ひな",
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-307"
     }
   ]
 };

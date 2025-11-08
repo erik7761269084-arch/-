@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "織笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-041"
     },
     {
       "id": 19411,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "織笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-025"
     }
   ]
 };

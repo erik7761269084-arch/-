@@ -33,7 +33,7 @@ window.actressData = {
         "佐伯由美香",
         "徳田重男"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUN-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUN-009"
     },
     {
       "id": 82437,
@@ -50,7 +50,7 @@ window.actressData = {
         "香澄果穗",
         "徳田重男"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-208"
     },
     {
       "id": 82636,
@@ -67,7 +67,7 @@ window.actressData = {
         "水菜丽",
         "徳田重男"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-179"
     },
     {
       "id": 76333,
@@ -84,7 +84,7 @@ window.actressData = {
         "奥田咲",
         "徳田重男"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-058"
     }
   ]
 };

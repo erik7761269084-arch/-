@@ -38,7 +38,7 @@ window.actressData = {
         "大石香织",
         "伊东真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-370"
     },
     {
       "id": 87233,
@@ -62,7 +62,7 @@ window.actressData = {
         "池内凉子",
         "二宫莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-106"
     },
     {
       "id": 74451,
@@ -85,7 +85,7 @@ window.actressData = {
         "朝川奈穂",
         "伊藤夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKAX-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-582"
     },
     {
       "id": 71673,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "伊东真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLOT-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLOT-004"
     },
     {
       "id": 72064,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "伊东真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-171"
     },
     {
       "id": 87983,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "伊东真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-1120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-1120"
     }
   ]
 };

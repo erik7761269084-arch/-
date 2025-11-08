@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "金丸ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZKWD-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZKWD-023"
     }
   ]
 };

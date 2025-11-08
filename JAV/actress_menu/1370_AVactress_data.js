@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "宮野佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OTIN-006"
     },
     {
       "id": 14955,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "宮野佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-016"
     }
   ]
 };

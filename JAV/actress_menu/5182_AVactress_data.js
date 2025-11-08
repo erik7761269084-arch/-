@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "松岛枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-611"
     },
     {
       "id": 82584,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "松岛枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-567"
     },
     {
       "id": 101573,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "松岛枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-242"
     }
   ]
 };

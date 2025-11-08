@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "友咲まりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-202"
     },
     {
       "id": 88400,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "友咲まりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-209"
     }
   ]
 };

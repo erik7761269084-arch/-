@@ -49,7 +49,7 @@ window.actressData = {
         "片寄しゅうか",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-153"
     },
     {
       "id": 5771,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "片寄しゅうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNMB-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMB-100"
     },
     {
       "id": 7442,
@@ -85,7 +85,7 @@ window.actressData = {
         "花宮京子",
         "長谷川れいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVMGM-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMGM-035"
     },
     {
       "id": 6888,
@@ -102,7 +102,7 @@ window.actressData = {
         "片寄しゅうか",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-320"
     },
     {
       "id": 70057,
@@ -119,7 +119,7 @@ window.actressData = {
         "松丸香澄",
         "片寄しゅうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-142"
     },
     {
       "id": 70032,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "片寄しゅうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNEW-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEW-008"
     }
   ]
 };

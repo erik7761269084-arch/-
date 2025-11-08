@@ -41,7 +41,7 @@ window.actressData = {
         "柏木舞子",
         "黒川珠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-344"
     },
     {
       "id": 91643,
@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "黒川珠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-176"
     }
   ]
 };

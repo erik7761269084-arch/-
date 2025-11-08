@@ -34,7 +34,7 @@ window.actressData = {
         "日森一",
         "夏色みか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-295"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-295"
     }
   ]
 };

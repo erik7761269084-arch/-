@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-100"
     },
     {
       "id": 107669,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-060"
     },
     {
       "id": 17524,
@@ -98,7 +98,7 @@ window.actressData = {
         "加美杏奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-979"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-979"
     },
     {
       "id": 17512,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-987"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-987"
     },
     {
       "id": 17685,
@@ -131,7 +131,7 @@ window.actressData = {
         "加美杏奈",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-949"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-949"
     },
     {
       "id": 17704,
@@ -148,7 +148,7 @@ window.actressData = {
         "加美杏奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-932"
     },
     {
       "id": 17804,
@@ -165,7 +165,7 @@ window.actressData = {
         "加美杏奈",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-915"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-915"
     },
     {
       "id": 17829,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-899"
     },
     {
       "id": 17842,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-883"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-883"
     },
     {
       "id": 18061,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-866"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-866"
     },
     {
       "id": 18091,
@@ -231,7 +231,7 @@ window.actressData = {
         "川菜美铃",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-849"
     },
     {
       "id": 18116,
@@ -247,7 +247,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-830"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-830"
     },
     {
       "id": 18166,
@@ -263,7 +263,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-810"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-810"
     },
     {
       "id": 18259,
@@ -279,7 +279,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-793"
     },
     {
       "id": 18365,
@@ -295,7 +295,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-775"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-775"
     },
     {
       "id": 18529,
@@ -311,7 +311,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-723"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-723"
     },
     {
       "id": 18918,
@@ -327,7 +327,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-513"
     },
     {
       "id": 19004,
@@ -343,7 +343,7 @@ window.actressData = {
       "actress": [
         "加美杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-449"
     },
     {
       "id": 19024,
@@ -360,7 +360,7 @@ window.actressData = {
         "加美杏奈",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-422"
     }
   ]
 };

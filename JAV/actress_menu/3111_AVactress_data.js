@@ -33,7 +33,7 @@ window.actressData = {
         "松井日奈子",
         "姫岡しあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-532"
     },
     {
       "id": 63838,
@@ -51,7 +51,7 @@ window.actressData = {
         "おりん",
         "椿ハルナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCD-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-304"
     },
     {
       "id": 68366,
@@ -69,7 +69,7 @@ window.actressData = {
         "おりん",
         "椿ハルナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCD-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-303"
     },
     {
       "id": 59875,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "姫岡しあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCD-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-311"
     }
   ]
 };

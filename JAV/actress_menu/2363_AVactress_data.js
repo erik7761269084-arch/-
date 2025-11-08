@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "皆月真香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-134"
     }
   ]
 };

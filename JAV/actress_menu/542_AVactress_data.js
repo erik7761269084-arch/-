@@ -62,7 +62,7 @@ window.actressData = {
         "宮下華奈",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-464"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-464"
     },
     {
       "id": 3744,
@@ -79,7 +79,7 @@ window.actressData = {
         "宮下華奈",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-471"
     },
     {
       "id": 4742,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-415"
     },
     {
       "id": 7062,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-310"
     },
     {
       "id": 7719,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-263"
     },
     {
       "id": 8442,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-022"
     },
     {
       "id": 88211,
@@ -162,7 +162,7 @@ window.actressData = {
         "香苗レノン",
         "佐仓宁宁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-537"
     },
     {
       "id": 71420,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-138"
     },
     {
       "id": 73415,
@@ -197,7 +197,7 @@ window.actressData = {
         "桃瀬ゆり",
         "星野はるあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-440"
     },
     {
       "id": 82381,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-348"
     },
     {
       "id": 2004,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S112"
     },
     {
       "id": 1879,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "宮下華奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-55"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-55"
     }
   ]
 };

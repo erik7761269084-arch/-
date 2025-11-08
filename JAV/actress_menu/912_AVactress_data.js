@@ -57,7 +57,7 @@ window.actressData = {
         "笹倉彩",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-813"
     },
     {
       "id": 5173,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "笹倉彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-779"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-779"
     },
     {
       "id": 5928,
@@ -91,7 +91,7 @@ window.actressData = {
         "田渊正浩",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-777"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-777"
     },
     {
       "id": 6767,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "笹倉彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-740"
     }
   ]
 };

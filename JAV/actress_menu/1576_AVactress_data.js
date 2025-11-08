@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "熊倉祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-606"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-606"
     },
     {
       "id": 86952,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "熊倉祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-597"
     },
     {
       "id": 1666,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "熊倉祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-588"
     },
     {
       "id": 87252,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "熊倉祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-568"
     },
     {
       "id": 87315,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "熊倉祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-119"
     }
   ]
 };

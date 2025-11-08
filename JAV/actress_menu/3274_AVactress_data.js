@@ -34,7 +34,7 @@ window.actressData = {
         "新川优里",
         "広瀬うみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-005"
     },
     {
       "id": 91219,
@@ -59,7 +59,7 @@ window.actressData = {
         "夏日风",
         "小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EVIS-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EVIS-489"
     },
     {
       "id": 81578,
@@ -78,7 +78,7 @@ window.actressData = {
         "纱仓ひなの",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-195"
     },
     {
       "id": 83448,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "三吉菜々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANZD-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANZD-003"
     },
     {
       "id": 76220,
@@ -113,7 +113,7 @@ window.actressData = {
         "内海みう",
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-498"
     },
     {
       "id": 91291,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "三吉菜々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-690"
     }
   ]
 };

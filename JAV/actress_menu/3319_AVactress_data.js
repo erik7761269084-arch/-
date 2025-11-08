@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "永野枫果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMNM-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMNM-037"
     },
     {
       "id": 89613,
@@ -52,7 +52,7 @@ window.actressData = {
         "爱须みのん",
         "永野枫果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-193"
     },
     {
       "id": 86123,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "永野枫果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-032"
     },
     {
       "id": 81370,
@@ -92,7 +92,7 @@ window.actressData = {
         "辻芽爱里",
         "椎木くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EVIS-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EVIS-362"
     },
     {
       "id": 83503,
@@ -109,7 +109,7 @@ window.actressData = {
         "永野枫果",
         "牧村柚希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-883"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-883"
     },
     {
       "id": 75743,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "永野枫果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JMTY-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMTY-022"
     }
   ]
 };

@@ -66,7 +66,7 @@ window.actressData = {
         "长瀬麻美",
         "儿玉玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-092"
     },
     {
       "id": 6345,
@@ -85,7 +85,7 @@ window.actressData = {
         "春日惠奈",
         "儿玉玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-245"
     },
     {
       "id": 6719,
@@ -106,7 +106,7 @@ window.actressData = {
         "天海一華",
         "児玉れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
     },
     {
       "id": 18149,
@@ -123,7 +123,7 @@ window.actressData = {
         "児玉れな",
         "儿玉玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-188"
     }
   ]
 };

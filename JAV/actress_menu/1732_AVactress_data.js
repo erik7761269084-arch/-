@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "愛望莉里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-574"
     },
     {
       "id": 75246,
@@ -62,7 +62,7 @@ window.actressData = {
         "愛望莉里",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-564"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-564"
     }
   ]
 };

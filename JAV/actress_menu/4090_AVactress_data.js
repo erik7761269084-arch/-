@@ -39,7 +39,7 @@ window.actressData = {
         "菊川みつ叶",
         "富永舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-052"
     },
     {
       "id": 70900,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "柏木まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FAA-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAA-324"
     },
     {
       "id": 82748,
@@ -73,7 +73,7 @@ window.actressData = {
         "星奈爱",
         "柏木まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-799"
     },
     {
       "id": 74644,
@@ -90,7 +90,7 @@ window.actressData = {
         "星奈爱",
         "柏木まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-235"
     },
     {
       "id": 72145,
@@ -109,7 +109,7 @@ window.actressData = {
         "逢月はるな",
         "やしきれな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-149"
     },
     {
       "id": 72142,
@@ -127,7 +127,7 @@ window.actressData = {
         "柏木まい",
         "绀野さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-146"
     }
   ]
 };

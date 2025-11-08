@@ -84,7 +84,7 @@ window.actressData = {
         "源あい",
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-150"
     },
     {
       "id": 90927,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "希志亞美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-038"
     },
     {
       "id": 68195,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "希志亞美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRSS-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-138"
     },
     {
       "id": 87396,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "希志亞美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDHZ-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHZ-016"
     },
     {
       "id": 86003,
@@ -150,7 +150,7 @@ window.actressData = {
         "希志亞美",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-039"
     },
     {
       "id": 80635,
@@ -167,7 +167,7 @@ window.actressData = {
         "希志亞美",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-376"
     },
     {
       "id": 86205,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "希志亞美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-984"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-984"
     },
     {
       "id": 86251,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "希志亞美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-981"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-981"
     },
     {
       "id": 78686,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "希志亞美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-060"
     }
   ]
 };

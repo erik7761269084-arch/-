@@ -33,7 +33,7 @@ window.actressData = {
         "結城恋",
         "川崎纪里恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-276"
     },
     {
       "id": 82080,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "川崎纪里恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-226"
     },
     {
       "id": 102934,
@@ -67,7 +67,7 @@ window.actressData = {
         "川崎纪里恵",
         "佐和彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-455-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-455-"
     }
   ]
 };

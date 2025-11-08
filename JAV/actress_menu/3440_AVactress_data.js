@@ -33,7 +33,7 @@ window.actressData = {
         "コグレハルト",
         "柚木れんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-701"
     },
     {
       "id": 63878,
@@ -50,7 +50,7 @@ window.actressData = {
         "鲛岛",
         "柚木れんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-658"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-658"
     },
     {
       "id": 70182,
@@ -68,7 +68,7 @@ window.actressData = {
         "じゅうもんじ",
         "柚木れんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-641"
     },
     {
       "id": 70447,
@@ -85,7 +85,7 @@ window.actressData = {
         "ラヴズ",
         "柚木れんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-622"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-622"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "姫川礼子",
         "古田優子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-435"
     }
   ]
 };

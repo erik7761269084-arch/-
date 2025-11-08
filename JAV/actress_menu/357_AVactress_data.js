@@ -69,7 +69,7 @@ window.actressData = {
         "三田櫻",
         "ちなみん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-610"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-610"
     },
     {
       "id": 3835,
@@ -88,7 +88,7 @@ window.actressData = {
         "笠木いちか",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-831"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-831"
     },
     {
       "id": 5475,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "三田櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BASJ-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASJ-025"
     },
     {
       "id": 6343,
@@ -122,7 +122,7 @@ window.actressData = {
         "東雲怜弥",
         "大空太陽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-182"
     },
     {
       "id": 7957,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "三田櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-324"
     },
     {
       "id": 8514,
@@ -156,7 +156,7 @@ window.actressData = {
         "三田櫻",
         "兼咲美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-988"
     },
     {
       "id": 8612,
@@ -181,7 +181,7 @@ window.actressData = {
         "椎名ゆきの",
         "春瀬ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-798"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-798"
     },
     {
       "id": 8596,
@@ -209,7 +209,7 @@ window.actressData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-799"
     },
     {
       "id": 17320,
@@ -227,7 +227,7 @@ window.actressData = {
         "三田櫻",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPIN-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-067"
     },
     {
       "id": 17443,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "三田櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-354"
     }
   ]
 };

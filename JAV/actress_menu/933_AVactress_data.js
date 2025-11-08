@@ -52,7 +52,7 @@ window.actressData = {
         "水城りん",
         "川崎あいり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-232"
     },
     {
       "id": 63659,
@@ -74,7 +74,7 @@ window.actressData = {
         "若宫はずき",
         "黒石純礼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-228"
     },
     {
       "id": 3829,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "水城りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-153"
     },
     {
       "id": 8596,
@@ -118,7 +118,7 @@ window.actressData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-799"
     },
     {
       "id": 9173,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "水城りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-295"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-295"
     }
   ]
 };

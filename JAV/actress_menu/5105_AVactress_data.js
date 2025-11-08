@@ -34,7 +34,7 @@ window.actressData = {
         "矢田纪子",
         "乌丸まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-484"
     },
     {
       "id": 81923,
@@ -51,7 +51,7 @@ window.actressData = {
         "中西江梨子",
         "乌丸まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RSE-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RSE-032"
     },
     {
       "id": 83375,
@@ -69,7 +69,7 @@ window.actressData = {
         "樱井菜々子",
         "乌丸まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-010"
     }
   ]
 };

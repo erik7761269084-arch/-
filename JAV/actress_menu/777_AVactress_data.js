@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "木村都那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-098"
     },
     {
       "id": 1790,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "木村都那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-091"
     },
     {
       "id": 73570,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "木村都那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUM-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUM-019"
     }
   ]
 };

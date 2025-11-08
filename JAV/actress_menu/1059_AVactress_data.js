@@ -65,7 +65,7 @@ window.actressData = {
         "永濑唯",
         "樱井まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PBD-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-426"
     },
     {
       "id": 75845,
@@ -86,7 +86,7 @@ window.actressData = {
         "生田みく",
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMBS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBS-057"
     },
     {
       "id": 70956,
@@ -105,7 +105,7 @@ window.actressData = {
         "天音りおん",
         "ゆうひ菜那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-183"
     },
     {
       "id": 74071,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "阿由葉あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1078"
     },
     {
       "id": 76519,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "阿由葉あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-175"
     },
     {
       "id": 77747,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "阿由葉あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-472"
     },
     {
       "id": 71090,
@@ -170,7 +170,7 @@ window.actressData = {
         "阿由葉あみ",
         "花咲ひらり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-531"
     }
   ]
 };

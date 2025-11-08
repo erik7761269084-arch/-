@@ -48,7 +48,7 @@ window.actressData = {
         "羽田貴史",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-328"
     }
   ]
 };

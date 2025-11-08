@@ -58,7 +58,7 @@ window.actressData = {
         "春日惠奈",
         "上白美央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-534"
     },
     {
       "id": 6345,
@@ -77,7 +77,7 @@ window.actressData = {
         "春日惠奈",
         "儿玉玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-245"
     },
     {
       "id": 8521,
@@ -95,7 +95,7 @@ window.actressData = {
         "黒木奈美",
         "春日惠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-372"
     }
   ]
 };

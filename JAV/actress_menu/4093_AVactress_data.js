@@ -34,7 +34,7 @@ window.actressData = {
         "樱美雪",
         "冴木エリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-366"
     },
     {
       "id": 70959,
@@ -53,7 +53,7 @@ window.actressData = {
         "凉美ほのか",
         "冴木エリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-146"
     },
     {
       "id": 77078,
@@ -70,7 +70,7 @@ window.actressData = {
         "鲛岛",
         "冴木エリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAE-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAE-224"
     }
   ]
 };

@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "一條莉音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCDV-48"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCDV-48"
     },
     {
       "id": 1771,
@@ -71,7 +71,7 @@ window.actressData = {
         "一條莉音",
         "乃木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-76"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-76"
     },
     {
       "id": 2011,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "一條莉音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-13"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-13"
     }
   ]
 };

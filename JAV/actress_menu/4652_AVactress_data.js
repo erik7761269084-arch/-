@@ -35,7 +35,7 @@ window.actressData = {
         "森本つぐみ",
         "空海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-502"
     }
   ]
 };

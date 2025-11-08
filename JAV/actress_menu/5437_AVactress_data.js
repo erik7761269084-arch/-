@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "七月りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-178"
     },
     {
       "id": 89734,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "七月りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-169"
     },
     {
       "id": 89735,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "七月りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-164"
     },
     {
       "id": 89722,
@@ -81,7 +81,7 @@ window.actressData = {
         "左慈半造",
         "七月りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-154"
     },
     {
       "id": 87889,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "七月りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-144"
     }
   ]
 };

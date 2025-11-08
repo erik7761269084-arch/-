@@ -62,7 +62,7 @@ window.actressData = {
         "安倍亜沙美",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-641"
     },
     {
       "id": 987,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "九条紗季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1372"
     }
   ]
 };

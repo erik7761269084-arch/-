@@ -74,7 +74,7 @@ window.actressData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
       "id": 8395,
@@ -91,7 +91,7 @@ window.actressData = {
         "七瀨華蓮",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDRD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-042"
     },
     {
       "id": 12921,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "七瀨華蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-317"
     },
     {
       "id": 84777,
@@ -125,7 +125,7 @@ window.actressData = {
         "七瀨華蓮",
         "神野雛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-157"
     },
     {
       "id": 81619,
@@ -145,7 +145,7 @@ window.actressData = {
         "海空花",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-754"
     },
     {
       "id": 82009,
@@ -164,7 +164,7 @@ window.actressData = {
         "胡桃圓",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-289"
     }
   ]
 };

@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "小椋光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-258"
     },
     {
       "id": 5373,
@@ -67,7 +67,7 @@ window.actressData = {
         "鲛岛",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-244"
     },
     {
       "id": 6923,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "小椋光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-222"
     }
   ]
 };

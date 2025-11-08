@@ -33,7 +33,7 @@ window.actressData = {
         "若槻めぐみ",
         "眞ゆみ恵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-227"
     },
     {
       "id": 87090,
@@ -57,7 +57,7 @@ window.actressData = {
         "篠宫千明",
         "眞ゆみ恵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-431"
     },
     {
       "id": 106735,
@@ -76,7 +76,7 @@ window.actressData = {
         "月岛さくら",
         "眞ゆみ恵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-444"
     }
   ]
 };

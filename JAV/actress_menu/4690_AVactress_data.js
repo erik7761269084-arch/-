@@ -33,7 +33,7 @@ window.actressData = {
         "玉木玲",
         "小日向かずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-116"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "横山みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-369"
     },
     {
       "id": 83857,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "横山みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMAR-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-008"
     },
     {
       "id": 77720,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "横山みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-222"
     },
     {
       "id": 78242,
@@ -99,7 +99,7 @@ window.actressData = {
         "横山みれい",
         "京田纱香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEKO-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKO-108"
     },
     {
       "id": 1531,
@@ -122,7 +122,7 @@ window.actressData = {
         "菅原奈緒美",
         "若林美保"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-108"
     },
     {
       "id": 1521,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "横山みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-080"
     }
   ]
 };

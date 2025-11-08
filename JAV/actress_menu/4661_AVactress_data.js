@@ -36,7 +36,7 @@ window.actressData = {
         "向理来",
         "西岛伊吹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-122"
     }
   ]
 };

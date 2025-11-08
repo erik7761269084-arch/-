@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "神木サラ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-266"
     },
     {
       "id": 79061,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "神木サラ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-220"
     }
   ]
 };

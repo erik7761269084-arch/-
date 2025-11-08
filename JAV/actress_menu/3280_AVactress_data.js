@@ -36,7 +36,7 @@ window.actressData = {
         "天道一然",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-187"
     },
     {
       "id": 4434,
@@ -53,7 +53,7 @@ window.actressData = {
         "松井日奈子",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-620"
     },
     {
       "id": 4477,
@@ -71,7 +71,7 @@ window.actressData = {
         "雙葉麗奈",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-541"
     },
     {
       "id": 5024,
@@ -90,7 +90,7 @@ window.actressData = {
         "向理来",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-041"
     },
     {
       "id": 5394,
@@ -109,7 +109,7 @@ window.actressData = {
         "千歳小梅",
         "さのさとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-184"
     },
     {
       "id": 6287,
@@ -126,7 +126,7 @@ window.actressData = {
         "藤原真帆",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-711"
     },
     {
       "id": 6343,
@@ -144,7 +144,7 @@ window.actressData = {
         "東雲怜弥",
         "大空太陽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-182"
     },
     {
       "id": 6427,
@@ -161,7 +161,7 @@ window.actressData = {
         "新井里真",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-608"
     },
     {
       "id": 6742,
@@ -179,7 +179,7 @@ window.actressData = {
         "大岛丈",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-040"
     },
     {
       "id": 6897,
@@ -196,7 +196,7 @@ window.actressData = {
         "永野鈴",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-092"
     },
     {
       "id": 7147,
@@ -213,7 +213,7 @@ window.actressData = {
         "胎尼",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSA-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSA-001"
     },
     {
       "id": 72522,
@@ -230,7 +230,7 @@ window.actressData = {
         "天馬唯",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-595"
     },
     {
       "id": 8231,
@@ -247,7 +247,7 @@ window.actressData = {
         "宮城理惠",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-594"
     },
     {
       "id": 8513,
@@ -268,7 +268,7 @@ window.actressData = {
         "千歳小梅",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-175"
     },
     {
       "id": 76705,
@@ -287,7 +287,7 @@ window.actressData = {
         "東雲怜弥",
         "千歳小梅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-171"
     },
     {
       "id": 10811,
@@ -308,7 +308,7 @@ window.actressData = {
         "東雲怜弥",
         "成宮仁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-170"
     },
     {
       "id": 13309,
@@ -325,7 +325,7 @@ window.actressData = {
         "美波汐里",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-553"
     },
     {
       "id": 107463,
@@ -345,7 +345,7 @@ window.actressData = {
         "東雲怜弥",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-138"
     }
   ]
 };

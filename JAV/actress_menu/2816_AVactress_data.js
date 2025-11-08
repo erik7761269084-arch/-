@@ -51,7 +51,7 @@ window.actressData = {
         "牧村彩香",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-225"
     },
     {
       "id": 91188,
@@ -68,7 +68,7 @@ window.actressData = {
         "牧村彩香",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-574"
     },
     {
       "id": 74998,
@@ -85,7 +85,7 @@ window.actressData = {
         "牧村彩香",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-020"
     },
     {
       "id": 78406,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-067"
     },
     {
       "id": 75385,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDOB-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-061"
     },
     {
       "id": 76753,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-015"
     },
     {
       "id": 77895,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-969"
     },
     {
       "id": 74800,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-901"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-901"
     },
     {
       "id": 74742,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-871"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-871"
     },
     {
       "id": 70198,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-870"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-870"
     },
     {
       "id": 88492,
@@ -214,7 +214,7 @@ window.actressData = {
         "牧村彩香",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-842"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-842"
     },
     {
       "id": 70084,
@@ -230,7 +230,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-205"
     },
     {
       "id": 87718,
@@ -246,7 +246,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OBA-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OBA-384"
     },
     {
       "id": 77150,
@@ -262,7 +262,7 @@ window.actressData = {
       "actress": [
         "牧村彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OBA-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OBA-383"
     },
     {
       "id": 69381,
@@ -286,7 +286,7 @@ window.actressData = {
         "叶月奈穂",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-151"
     }
   ]
 };

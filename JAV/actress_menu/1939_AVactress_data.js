@@ -47,7 +47,7 @@ window.actressData = {
         "七瀬蘭",
         "沢尻ウタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-102"
     },
     {
       "id": 10614,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "沢尻ウタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-547"
     }
   ]
 };

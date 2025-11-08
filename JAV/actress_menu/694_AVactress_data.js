@@ -63,7 +63,7 @@ window.actressData = {
         "新妻優香",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-390"
     },
     {
       "id": 3842,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "新妻優香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDON-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-079"
     },
     {
       "id": 4715,
@@ -97,7 +97,7 @@ window.actressData = {
         "新妻優香",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-370"
     },
     {
       "id": 5565,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "新妻優香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-371"
     },
     {
       "id": 6281,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "新妻優香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-319"
     },
     {
       "id": 7742,
@@ -146,7 +146,7 @@ window.actressData = {
         "新妻優香",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-024"
     }
   ]
 };

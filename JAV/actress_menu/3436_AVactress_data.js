@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "かり丸"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1085"
     }
   ]
 };

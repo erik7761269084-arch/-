@@ -60,7 +60,7 @@ window.actressData = {
         "二宮和香",
         "旭メイサ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-272"
     }
   ]
 };

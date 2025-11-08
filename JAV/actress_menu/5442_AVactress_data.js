@@ -33,7 +33,7 @@ window.actressData = {
         "新山沙弥",
         "梦実あくび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-330"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "内原美智子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-907"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-907"
     },
     {
       "id": 75177,
@@ -51,7 +51,7 @@ window.actressData = {
         "内原美智子",
         "大宫凉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-242"
     },
     {
       "id": 75075,
@@ -72,7 +72,7 @@ window.actressData = {
         "高宫佐和子",
         "桜木ゆか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-217"
     },
     {
       "id": 75053,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "内原美智子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1220"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "明日见なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMND-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMND-175"
     }
   ]
 };

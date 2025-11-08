@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "宮本小雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-128"
     }
   ]
 };

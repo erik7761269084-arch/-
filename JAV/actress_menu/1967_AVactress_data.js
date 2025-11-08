@@ -61,7 +61,7 @@ window.actressData = {
         "安倍亜沙美",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IMO-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-033"
     },
     {
       "id": 7456,
@@ -81,7 +81,7 @@ window.actressData = {
         "梦乃美笑",
         "日野りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-271"
     },
     {
       "id": 94681,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "日野りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-215"
     },
     {
       "id": 89470,
@@ -115,7 +115,7 @@ window.actressData = {
         "仲川空",
         "日野りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVCAO-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-004"
     },
     {
       "id": 88807,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "日野りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKOU-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKOU-006"
     }
   ]
 };

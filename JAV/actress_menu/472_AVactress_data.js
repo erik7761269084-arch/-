@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-331"
     },
     {
       "id": 3443,
@@ -89,7 +89,7 @@ window.actressData = {
         "白石渚",
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKN-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKN-004"
     },
     {
       "id": 4130,
@@ -106,7 +106,7 @@ window.actressData = {
         "白橋里帆",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-007"
     },
     {
       "id": 5305,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-100"
     },
     {
       "id": 5788,
@@ -140,7 +140,7 @@ window.actressData = {
         "小島美子",
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMCD-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMCD-029"
     },
     {
       "id": 74254,
@@ -156,7 +156,7 @@ window.actressData = {
       "actress": [
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-302"
     },
     {
       "id": 10560,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-513"
     },
     {
       "id": 90434,
@@ -188,7 +188,7 @@ window.actressData = {
       "actress": [
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-269"
     }
   ]
 };

@@ -57,7 +57,7 @@ window.actressData = {
         "結城恋",
         "川崎纪里恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-276"
     },
     {
       "id": 4382,
@@ -75,7 +75,7 @@ window.actressData = {
         "ひょこり",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-150"
     }
   ]
 };

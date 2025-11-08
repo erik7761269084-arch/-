@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WDI-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WDI-039"
     },
     {
       "id": 35359,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-733"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-733"
     },
     {
       "id": 35358,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-030"
     },
     {
       "id": 35367,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-881"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-881"
     },
     {
       "id": 35382,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-273"
     },
     {
       "id": 35383,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATFB-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATFB-189"
     },
     {
       "id": 35419,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-724"
     },
     {
       "id": 35418,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDB-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDB-234"
     },
     {
       "id": 35442,
@@ -161,7 +161,7 @@ window.actressData = {
         "蓝井优太",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-711"
     },
     {
       "id": 35441,
@@ -178,7 +178,7 @@ window.actressData = {
         "小田切ジュン",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-042"
     },
     {
       "id": 35440,
@@ -196,7 +196,7 @@ window.actressData = {
         "神波多一花",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-682"
     },
     {
       "id": 35439,
@@ -214,7 +214,7 @@ window.actressData = {
         "沢井亮",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-697"
     },
     {
       "id": 35438,
@@ -231,7 +231,7 @@ window.actressData = {
         "神波多一花",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-680"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-680"
     },
     {
       "id": 35449,
@@ -247,7 +247,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-677"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-677"
     },
     {
       "id": 35448,
@@ -263,7 +263,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-693"
     },
     {
       "id": 35447,
@@ -280,7 +280,7 @@ window.actressData = {
         "樱井步",
         "板垣あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-712"
     },
     {
       "id": 35445,
@@ -296,7 +296,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-746"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-746"
     },
     {
       "id": 35455,
@@ -312,7 +312,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-235"
     },
     {
       "id": 35454,
@@ -328,7 +328,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-398"
     },
     {
       "id": 35461,
@@ -344,7 +344,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-854"
     },
     {
       "id": 35476,
@@ -360,7 +360,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-554"
     },
     {
       "id": 35472,
@@ -376,7 +376,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-151"
     },
     {
       "id": 35477,
@@ -393,7 +393,7 @@ window.actressData = {
         "樱井步",
         "水树りさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-123"
     },
     {
       "id": 76891,
@@ -418,7 +418,7 @@ window.actressData = {
         "枢木美栞",
         "浅仓あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-112"
     },
     {
       "id": 67295,
@@ -435,7 +435,7 @@ window.actressData = {
         "佳苗瑠華",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-544"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-544"
     },
     {
       "id": 61333,
@@ -451,7 +451,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-763"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-763"
     },
     {
       "id": 61285,
@@ -467,7 +467,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-742"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-742"
     },
     {
       "id": 19539,
@@ -485,7 +485,7 @@ window.actressData = {
         "桜井步",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-462"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-462"
     },
     {
       "id": 69413,
@@ -505,7 +505,7 @@ window.actressData = {
         "しずく",
         "芹沢つむぎ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZIZG-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-007"
     },
     {
       "id": 59662,
@@ -521,7 +521,7 @@ window.actressData = {
       "actress": [
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-374"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-374"
     }
   ]
 };

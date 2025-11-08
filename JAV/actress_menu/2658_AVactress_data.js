@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "有安真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-045"
     }
   ]
 };

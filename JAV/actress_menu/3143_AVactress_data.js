@@ -61,7 +61,7 @@ window.actressData = {
         "永濑唯",
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-189"
     },
     {
       "id": 93103,
@@ -85,7 +85,7 @@ window.actressData = {
         "初爱ねんね",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-039"
     },
     {
       "id": 80739,
@@ -105,7 +105,7 @@ window.actressData = {
         "浅田结梨",
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-235"
     },
     {
       "id": 80926,
@@ -122,7 +122,7 @@ window.actressData = {
         "初爱ねんね",
         "今井まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-214"
     },
     {
       "id": 79669,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-096"
     },
     {
       "id": 79866,
@@ -155,7 +155,7 @@ window.actressData = {
         "小梅惠奈",
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-778"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-778"
     },
     {
       "id": 79285,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-054"
     },
     {
       "id": 104504,
@@ -188,7 +188,7 @@ window.actressData = {
         "羽生ありさ",
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-073"
     },
     {
       "id": 88296,
@@ -207,7 +207,7 @@ window.actressData = {
         "香乃萌音",
         "松井さあや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-280"
     },
     {
       "id": 91476,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-791"
     }
   ]
 };

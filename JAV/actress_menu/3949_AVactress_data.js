@@ -35,7 +35,7 @@ window.actressData = {
         "一二三铃",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-061"
     },
     {
       "id": 83562,
@@ -58,7 +58,7 @@ window.actressData = {
         "一二三铃",
         "泡沫ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-059"
     },
     {
       "id": 83329,
@@ -82,7 +82,7 @@ window.actressData = {
         "一二三铃",
         "柏木恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-283"
     },
     {
       "id": 82707,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "一二三铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-362"
     },
     {
       "id": 69867,
@@ -117,7 +117,7 @@ window.actressData = {
         "一二三铃",
         "柳川まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUPA-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-401"
     },
     {
       "id": 71422,
@@ -136,7 +136,7 @@ window.actressData = {
         "宫川ありさ",
         "花咲ひらり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-519"
     }
   ]
 };

@@ -55,7 +55,7 @@ window.actressData = {
         "三原穗香",
         "宮村菜菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-617"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-617"
     }
   ]
 };

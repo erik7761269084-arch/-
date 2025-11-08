@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "霧島さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-270"
     },
     {
       "id": 89669,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "霧島さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-265"
     },
     {
       "id": 89664,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "霧島さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-261"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
         "白雲雨",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-514"
     },
     {
       "id": 8431,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "白雲雨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-491"
     }
   ]
 };

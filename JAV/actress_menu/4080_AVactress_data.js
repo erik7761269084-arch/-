@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桜木らら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGA-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-146"
     }
   ]
 };

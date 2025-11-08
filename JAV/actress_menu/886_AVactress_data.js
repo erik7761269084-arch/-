@@ -57,7 +57,7 @@ window.actressData = {
         "佐藤しお",
         "森下ことの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WTEX-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WTEX-009"
     },
     {
       "id": 3491,
@@ -141,7 +141,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 5289,
@@ -172,7 +172,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 5226,
@@ -192,7 +192,7 @@ window.actressData = {
         "天川空",
         "森下ことの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-240"
     },
     {
       "id": 14378,
@@ -208,7 +208,7 @@ window.actressData = {
       "actress": [
         "森下ことの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-244"
     }
   ]
 };

@@ -58,7 +58,7 @@ window.actressData = {
         "叶月奈穂",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-151"
     }
   ]
 };

@@ -39,7 +39,7 @@ window.actressData = {
         "结希玲衣（美咲礼、美咲レイ）",
         "小西沙织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-233"
     }
   ]
 };

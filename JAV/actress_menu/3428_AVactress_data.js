@@ -46,7 +46,7 @@ window.actressData = {
         "河合阳菜",
         "七世いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-124"
     }
   ]
 };

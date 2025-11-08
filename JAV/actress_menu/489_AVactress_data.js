@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "花愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-890"
     },
     {
       "id": 3764,
@@ -84,7 +84,7 @@ window.actressData = {
         "花愛麗絲",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-839"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-839"
     },
     {
       "id": 4788,
@@ -101,7 +101,7 @@ window.actressData = {
         "花愛麗絲",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-805"
     },
     {
       "id": 5561,
@@ -118,7 +118,7 @@ window.actressData = {
         "花愛麗絲",
         "ティカル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-750"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-750"
     },
     {
       "id": 6324,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "花愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-712"
     },
     {
       "id": 7711,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "花愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-629"
     },
     {
       "id": 8445,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "花愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-583"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-583"
     },
     {
       "id": 9273,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "花愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-534"
     },
     {
       "id": 10131,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "花愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-488"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-488"
     },
     {
       "id": 13553,
@@ -216,7 +216,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-284"
     }
   ]
 };

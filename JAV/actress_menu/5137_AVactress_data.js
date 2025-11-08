@@ -40,7 +40,7 @@ window.actressData = {
         "优希エリナ",
         "绚森いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-805"
     }
   ]
 };

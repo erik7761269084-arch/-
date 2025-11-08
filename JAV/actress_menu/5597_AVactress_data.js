@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "内田まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SBMO-1250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-1250"
     }
   ]
 };

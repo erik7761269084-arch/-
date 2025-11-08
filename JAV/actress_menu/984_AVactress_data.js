@@ -59,7 +59,7 @@ window.actressData = {
         "日森一",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-997"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-997"
     },
     {
       "id": 8297,
@@ -78,7 +78,7 @@ window.actressData = {
         "タイ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-969"
     },
     {
       "id": 9020,
@@ -96,7 +96,7 @@ window.actressData = {
         "鲛岛",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-961"
     }
   ]
 };

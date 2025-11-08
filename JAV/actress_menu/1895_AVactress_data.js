@@ -48,7 +48,7 @@ window.actressData = {
         "鈴河めぐみ",
         "江澄ゆゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-014"
     },
     {
       "id": 4070,
@@ -68,7 +68,7 @@ window.actressData = {
         "甘井くるみ",
         "江澄ゆゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNTR-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNTR-007"
     },
     {
       "id": 70452,
@@ -89,7 +89,7 @@ window.actressData = {
         "江澄ゆゆ",
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-218"
     },
     {
       "id": 72790,
@@ -108,7 +108,7 @@ window.actressData = {
         "江澄ゆゆ",
         "佐佐波绫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-315"
     }
   ]
 };

@@ -75,7 +75,7 @@ window.actressData = {
         "水沢真树",
         "椎名绫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-419"
     },
     {
       "id": 87086,
@@ -95,7 +95,7 @@ window.actressData = {
         "秋吉小百合",
         "富岡じゅん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-427"
     },
     {
       "id": 87150,
@@ -114,7 +114,7 @@ window.actressData = {
         "円城ひとみ",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-902"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-902"
     },
     {
       "id": 82163,
@@ -137,7 +137,7 @@ window.actressData = {
         "宫野ゆかな",
         "八ッ桥さい子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-382"
     }
   ]
 };

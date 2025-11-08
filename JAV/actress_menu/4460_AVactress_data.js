@@ -34,7 +34,7 @@ window.actressData = {
         "海空花",
         "茜えりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAB-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-020"
     },
     {
       "id": 81688,
@@ -53,7 +53,7 @@ window.actressData = {
         "茜えりな",
         "中条ミユ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAB-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-018"
     },
     {
       "id": 81625,
@@ -72,7 +72,7 @@ window.actressData = {
         "茜えりな",
         "中条ミユ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAB-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-016"
     },
     {
       "id": 74602,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "茜えりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1116"
     },
     {
       "id": 75032,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "茜えりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-025"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "市川润",
         "叶月ねね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ESK-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ESK-310"
     }
   ]
 };

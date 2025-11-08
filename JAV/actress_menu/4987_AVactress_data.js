@@ -35,7 +35,7 @@ window.actressData = {
         "小川知香",
         "観月ゆうな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PH-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PH-067"
     }
   ]
 };

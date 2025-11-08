@@ -49,7 +49,7 @@ window.actressData = {
         "夢乃陽菜",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-131"
     },
     {
       "id": 13351,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "夢乃陽菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-510"
     }
   ]
 };

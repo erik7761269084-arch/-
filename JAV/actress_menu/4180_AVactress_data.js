@@ -38,7 +38,7 @@ window.actressData = {
         "五月女千夏",
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-015"
     },
     {
       "id": 71678,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "松下ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNEO-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-019"
     },
     {
       "id": 88446,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "松下ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-309"
     }
   ]
 };

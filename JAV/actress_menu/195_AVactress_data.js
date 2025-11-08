@@ -74,7 +74,7 @@ window.actressData = {
         "田渊正浩",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-253"
     },
     {
       "id": 3491,
@@ -158,7 +158,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 4142,
@@ -175,7 +175,7 @@ window.actressData = {
         "莉莉遙香",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-014"
     },
     {
       "id": 4177,
@@ -206,7 +206,7 @@ window.actressData = {
         "浜崎真绪",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-657"
     },
     {
       "id": 5027,
@@ -224,7 +224,7 @@ window.actressData = {
         "天晴乃愛",
         "莉莉遙香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-122"
     },
     {
       "id": 5126,
@@ -251,7 +251,7 @@ window.actressData = {
         "凪沙雪乃",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-182"
     },
     {
       "id": 5348,
@@ -268,7 +268,7 @@ window.actressData = {
         "莉莉遙香",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-236"
     },
     {
       "id": 6895,
@@ -286,7 +286,7 @@ window.actressData = {
         "稻场流花",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-212"
     },
     {
       "id": 7231,
@@ -304,7 +304,7 @@ window.actressData = {
         "トイボーイ相沢",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-204"
     },
     {
       "id": 7582,
@@ -321,7 +321,7 @@ window.actressData = {
         "莉莉遙香",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-208"
     },
     {
       "id": 8249,
@@ -339,7 +339,7 @@ window.actressData = {
         "莉莉遙香",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-179"
     },
     {
       "id": 9078,
@@ -356,7 +356,7 @@ window.actressData = {
         "莉莉遙香",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-191"
     },
     {
       "id": 9015,
@@ -414,7 +414,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 9929,
@@ -431,7 +431,7 @@ window.actressData = {
         "莉莉遙香",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-184"
     }
   ]
 };

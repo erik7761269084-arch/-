@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "遠野夏生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-433"
     },
     {
       "id": 18410,
@@ -62,7 +62,7 @@ window.actressData = {
         "遠野夏生",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-429"
     },
     {
       "id": 91738,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "遠野夏生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-419"
     }
   ]
 };

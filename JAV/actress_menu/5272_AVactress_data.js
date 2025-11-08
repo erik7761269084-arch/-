@@ -34,7 +34,7 @@ window.actressData = {
         "玉木玲",
         "绫瀬みな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-775"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-775"
     }
   ]
 };

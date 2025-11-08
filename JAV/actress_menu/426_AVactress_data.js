@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-657"
     },
     {
       "id": 3760,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-635"
     },
     {
       "id": 4127,
@@ -96,7 +96,7 @@ window.actressData = {
         "長濱蜜璃",
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-025"
     },
     {
       "id": 4780,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-605"
     },
     {
       "id": 5542,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-582"
     },
     {
       "id": 6335,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-556"
     },
     {
       "id": 7057,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-534"
     },
     {
       "id": 7726,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-512"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-512"
     },
     {
       "id": 8423,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-489"
     },
     {
       "id": 9268,
@@ -208,7 +208,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-460"
     },
     {
       "id": 61822,
@@ -224,7 +224,7 @@ window.actressData = {
       "actress": [
         "役野満里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBRBN-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBRBN-056"
     },
     {
       "id": 10758,
@@ -241,7 +241,7 @@ window.actressData = {
         "役野満里奈",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-420"
     }
   ]
 };

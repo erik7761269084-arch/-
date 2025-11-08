@@ -66,7 +66,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-333"
     },
     {
       "id": 6442,
@@ -110,7 +110,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 87025,
@@ -127,7 +127,7 @@ window.actressData = {
         "希咲那奈",
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJB-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJB-098"
     },
     {
       "id": 85197,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-788"
     },
     {
       "id": 84248,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DFE-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-064"
     },
     {
       "id": 85812,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-036"
     },
     {
       "id": 80261,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1564"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1564"
     },
     {
       "id": 80234,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-541"
     },
     {
       "id": 77622,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-301"
     },
     {
       "id": 84055,
@@ -239,7 +239,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-288"
     },
     {
       "id": 86834,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-246"
     },
     {
       "id": 69268,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "琴石ゆめる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-799"
     }
   ]
 };

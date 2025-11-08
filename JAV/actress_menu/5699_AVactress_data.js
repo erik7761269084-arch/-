@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "清水ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KING-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KING-215"
     },
     {
       "id": 100475,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "清水ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-118"
     }
   ]
 };

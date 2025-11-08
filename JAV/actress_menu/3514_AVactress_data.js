@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "灰原瑠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BGNY-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGNY-001"
     }
   ]
 };

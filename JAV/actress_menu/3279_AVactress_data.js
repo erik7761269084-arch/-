@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "御子柴美花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBZ-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-329"
     },
     {
       "id": 62602,
@@ -52,7 +52,7 @@ window.actressData = {
         "我妻淳子",
         "御子柴美花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBM-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBM-042"
     },
     {
       "id": 66132,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "御子柴美花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AED-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AED-241"
     },
     {
       "id": 6778,
@@ -86,7 +86,7 @@ window.actressData = {
         "宮ノ木しゅんか",
         "御子柴美花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-293"
     },
     {
       "id": 6984,
@@ -103,7 +103,7 @@ window.actressData = {
         "タクト",
         "御子柴美花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-451"
     },
     {
       "id": 71779,
@@ -121,7 +121,7 @@ window.actressData = {
         "永瀬爱菜",
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-030"
     }
   ]
 };

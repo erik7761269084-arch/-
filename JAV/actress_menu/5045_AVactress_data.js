@@ -35,7 +35,7 @@ window.actressData = {
         "茜えりな",
         "中条ミユ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAB-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-018"
     },
     {
       "id": 81625,
@@ -54,7 +54,7 @@ window.actressData = {
         "茜えりな",
         "中条ミユ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAB-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-016"
     },
     {
       "id": 88040,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "中条ミユ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JAC-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-013"
     }
   ]
 };

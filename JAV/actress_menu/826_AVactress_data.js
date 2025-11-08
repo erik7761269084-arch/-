@@ -59,7 +59,7 @@ window.actressData = {
         "北乃由奈",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-353"
     },
     {
       "id": 16826,
@@ -76,7 +76,7 @@ window.actressData = {
         "北乃由奈",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-674"
     }
   ]
 };

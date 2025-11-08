@@ -62,7 +62,7 @@ window.actressData = {
         "真白希実",
         "永作亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-127"
     }
   ]
 };

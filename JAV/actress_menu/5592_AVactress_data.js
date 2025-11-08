@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "エイミー・デュークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STC-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STC-069"
     }
   ]
 };

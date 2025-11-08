@@ -39,7 +39,7 @@ window.actressData = {
         "松冈香纯",
         "西内るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSAD-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-036"
     }
   ]
 };

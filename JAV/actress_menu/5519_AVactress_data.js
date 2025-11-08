@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "筒井まほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-047"
     }
   ]
 };

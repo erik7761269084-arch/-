@@ -57,7 +57,7 @@ window.actressData = {
         "東實果",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-899"
     },
     {
       "id": 3415,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "東實果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-878"
     }
   ]
 };

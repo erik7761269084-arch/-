@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "しいなのあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-793"
     },
     {
       "id": 79477,
@@ -62,7 +62,7 @@ window.actressData = {
         "永瀬爱菜",
         "弘崎ゆみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-079"
     },
     {
       "id": 18781,
@@ -80,7 +80,7 @@ window.actressData = {
         "しいなのあ",
         "明里䌷"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-602"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-602"
     },
     {
       "id": 73013,
@@ -98,7 +98,7 @@ window.actressData = {
         "タツ",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-314"
     },
     {
       "id": 107276,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "しいなのあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-155"
     },
     {
       "id": 94973,
@@ -131,7 +131,7 @@ window.actressData = {
         "しいなのあ",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-115"
     }
   ]
 };

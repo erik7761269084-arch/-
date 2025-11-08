@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACT-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-018"
     },
     {
       "id": 2596,
@@ -72,7 +72,7 @@ window.actressData = {
         "柳可憐",
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-786"
     },
     {
       "id": 61943,
@@ -94,7 +94,7 @@ window.actressData = {
         "有馬美月",
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NFG-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NFG-001"
     },
     {
       "id": 3910,
@@ -112,7 +112,7 @@ window.actressData = {
         "牧野怜奈",
         "小森舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVCAO-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-017"
     },
     {
       "id": 66192,
@@ -129,7 +129,7 @@ window.actressData = {
         "宮城理惠",
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIS-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-136"
     },
     {
       "id": 6206,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-070"
     },
     {
       "id": 8686,
@@ -164,7 +164,7 @@ window.actressData = {
         "川上しずく",
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-804"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-804"
     },
     {
       "id": 75241,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-790"
     }
   ]
 };

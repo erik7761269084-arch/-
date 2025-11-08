@@ -55,7 +55,7 @@ window.actressData = {
         "宮澤惠",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-786"
     },
     {
       "id": 5365,
@@ -72,7 +72,7 @@ window.actressData = {
         "宮澤惠",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-766"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-766"
     }
   ]
 };

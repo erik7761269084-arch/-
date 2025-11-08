@@ -78,7 +78,7 @@ window.actressData = {
         "貓宮美結",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-753"
     },
     {
       "id": 76195,
@@ -97,7 +97,7 @@ window.actressData = {
         "前田いろは",
         "东山想叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-185"
     },
     {
       "id": 81981,
@@ -114,7 +114,7 @@ window.actressData = {
         "貓宮美結",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-052"
     },
     {
       "id": 83154,
@@ -134,7 +134,7 @@ window.actressData = {
         "须崎まどか",
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-050"
     }
   ]
 };

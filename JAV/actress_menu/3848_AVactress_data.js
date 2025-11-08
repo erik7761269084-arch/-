@@ -34,7 +34,7 @@ window.actressData = {
         "泉麻那",
         "佐仓カオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-027"
     }
   ]
 };

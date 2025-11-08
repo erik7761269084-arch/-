@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "天音環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-411"
     },
     {
       "id": 3646,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "天音環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-381"
     },
     {
       "id": 4601,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "天音環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-365"
     },
     {
       "id": 5781,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "天音環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-336"
     },
     {
       "id": 6972,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "天音環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-308"
     },
     {
       "id": 71030,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "天音環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-291"
     }
   ]
 };

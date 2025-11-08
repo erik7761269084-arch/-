@@ -33,7 +33,7 @@ window.actressData = {
         "佐佐木明希",
         "西口あられ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URE-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-040"
     }
   ]
 };

@@ -37,7 +37,7 @@ window.actressData = {
         "大志",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-619"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-619"
     },
     {
       "id": 8263,
@@ -54,7 +54,7 @@ window.actressData = {
         "倉本菫",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-299"
     },
     {
       "id": 8867,
@@ -72,7 +72,7 @@ window.actressData = {
         "アリト",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-056"
     },
     {
       "id": 9028,
@@ -93,7 +93,7 @@ window.actressData = {
         "マリモン",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-195"
     },
     {
       "id": 9368,
@@ -110,7 +110,7 @@ window.actressData = {
         "椎名心春",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-712"
     },
     {
       "id": 10077,
@@ -127,7 +127,7 @@ window.actressData = {
         "星明日菜",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-238"
     },
     {
       "id": 10296,
@@ -144,7 +144,7 @@ window.actressData = {
         "十束流羽",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-102"
     },
     {
       "id": 95212,
@@ -161,7 +161,7 @@ window.actressData = {
         "平冈里枝子",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-701"
     },
     {
       "id": 10767,
@@ -179,7 +179,7 @@ window.actressData = {
         "大村",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-407"
     }
   ]
 };

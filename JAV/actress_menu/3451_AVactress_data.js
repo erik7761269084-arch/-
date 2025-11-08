@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "凉川えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKGD-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKGD-023"
     },
     {
       "id": 86906,
@@ -52,7 +52,7 @@ window.actressData = {
         "纱々原ゆり",
         "凉川えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATOM-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-394"
     },
     {
       "id": 76461,
@@ -74,7 +74,7 @@ window.actressData = {
         "凉川えいみ",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-688"
     },
     {
       "id": 62821,
@@ -96,7 +96,7 @@ window.actressData = {
         "凉川えいみ",
         "伊月优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-477"
     },
     {
       "id": 71790,
@@ -114,7 +114,7 @@ window.actressData = {
         "凉川えいみ",
         "芦屋静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-048"
     },
     {
       "id": 72151,
@@ -132,7 +132,7 @@ window.actressData = {
         "藤白桃羽",
         "凉川えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-161"
     }
   ]
 };

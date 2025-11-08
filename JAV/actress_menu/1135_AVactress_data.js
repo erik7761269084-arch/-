@@ -57,7 +57,7 @@ window.actressData = {
         "新尾きり子",
         "神波多一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-366"
     },
     {
       "id": 7999,
@@ -81,7 +81,7 @@ window.actressData = {
         "成宫いろは",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-363"
     },
     {
       "id": 72451,
@@ -98,7 +98,7 @@ window.actressData = {
         "水原さな",
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LZDQ-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDQ-002"
     },
     {
       "id": 72871,
@@ -116,7 +116,7 @@ window.actressData = {
         "水原さな",
         "叶山美空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-407"
     },
     {
       "id": 88321,
@@ -135,7 +135,7 @@ window.actressData = {
         "川村真矢",
         "凉宫琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-878"
     }
   ]
 };

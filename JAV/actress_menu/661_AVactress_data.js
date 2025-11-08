@@ -67,7 +67,7 @@ window.actressData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
       "id": 9292,
@@ -85,7 +85,7 @@ window.actressData = {
         "浜崎真緒",
         "皇柚子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-956"
     }
   ]
 };

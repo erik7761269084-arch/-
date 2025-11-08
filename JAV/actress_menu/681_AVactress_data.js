@@ -55,7 +55,7 @@ window.actressData = {
         "葵美玲",
         "川栄結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-219"
     },
     {
       "id": 94314,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "葵美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SLN-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SLN-012"
     },
     {
       "id": 93541,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "葵美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-105"
     },
     {
       "id": 15237,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "葵美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-339"
     },
     {
       "id": 67108,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "葵美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-3002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-3002"
     },
     {
       "id": 16849,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "葵美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-005"
     }
   ]
 };

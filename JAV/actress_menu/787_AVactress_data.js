@@ -58,7 +58,7 @@ window.actressData = {
         "宮崎玲",
         "綾瀬もか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-277"
     },
     {
       "id": 8364,
@@ -80,7 +80,7 @@ window.actressData = {
         "NATSUKA",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUBLK-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-044"
     },
     {
       "id": 8771,
@@ -102,7 +102,7 @@ window.actressData = {
         "川栄結愛",
         "宮崎玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-311"
     },
     {
       "id": 1677,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "宮崎玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-066"
     }
   ]
 };

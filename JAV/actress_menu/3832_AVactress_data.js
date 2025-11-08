@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "橘寿恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-235"
     }
   ]
 };

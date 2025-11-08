@@ -57,7 +57,7 @@ window.actressData = {
         "夕美紫苑",
         "愛川鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-089"
     },
     {
       "id": 3965,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-442"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-442"
     },
     {
       "id": 62503,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-441"
     },
     {
       "id": 4829,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-092"
     },
     {
       "id": 5282,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-383"
     },
     {
       "id": 5665,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-437"
     },
     {
       "id": 5996,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-956"
     },
     {
       "id": 6465,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-303"
     }
   ]
 };

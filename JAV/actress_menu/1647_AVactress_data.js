@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "小川葉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-298"
     },
     {
       "id": 88612,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "小川葉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-116"
     }
   ]
 };

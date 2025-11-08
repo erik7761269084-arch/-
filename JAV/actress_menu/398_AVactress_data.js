@@ -71,7 +71,7 @@ window.actressData = {
         "夢實香苗",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-038"
     },
     {
       "id": 3561,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "夢實香苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-031"
     },
     {
       "id": 4538,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "夢實香苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-030"
     },
     {
       "id": 5371,
@@ -123,7 +123,7 @@ window.actressData = {
         "タイ",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-021"
     },
     {
       "id": 6133,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "夢實香苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-001"
     },
     {
       "id": 7529,
@@ -157,7 +157,7 @@ window.actressData = {
         "左慈半造",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-987"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-987"
     },
     {
       "id": 8261,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "夢實香苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-198"
     },
     {
       "id": 9915,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "夢實香苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-951"
     },
     {
       "id": 16217,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "夢實香苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-885"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-885"
     }
   ]
 };

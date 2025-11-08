@@ -36,7 +36,7 @@ window.actressData = {
         "蓝井优太",
         "山冈りりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-327"
     }
   ]
 };

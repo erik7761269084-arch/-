@@ -63,7 +63,7 @@ window.actressData = {
         "南澤海香",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-782"
     },
     {
       "id": 61783,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "南澤海香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-781"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-781"
     },
     {
       "id": 4731,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "南澤海香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-780"
     },
     {
       "id": 5552,
@@ -112,7 +112,7 @@ window.actressData = {
         "南澤海香",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-739"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-739"
     },
     {
       "id": 6332,
@@ -130,7 +130,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-703"
     },
     {
       "id": 7074,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "南澤海香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-590"
     },
     {
       "id": 7737,
@@ -163,7 +163,7 @@ window.actressData = {
         "南澤海香",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-569"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-569"
     },
     {
       "id": 8471,
@@ -180,7 +180,7 @@ window.actressData = {
         "南澤海香",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-567"
     }
   ]
 };

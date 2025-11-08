@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "石田佳蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-895"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-895"
     },
     {
       "id": 4784,
@@ -73,7 +73,7 @@ window.actressData = {
         "小田切ジュン",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-808"
     },
     {
       "id": 5535,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "石田佳蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-755"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-755"
     },
     {
       "id": 6283,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "石田佳蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-717"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-717"
     },
     {
       "id": 7730,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "石田佳蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-635"
     },
     {
       "id": 8425,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "石田佳蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-613"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-613"
     },
     {
       "id": 9238,
@@ -154,7 +154,7 @@ window.actressData = {
         "石田佳蓮",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-612"
     },
     {
       "id": 10167,
@@ -171,7 +171,7 @@ window.actressData = {
         "石田佳蓮",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-495"
     }
   ]
 };

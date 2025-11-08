@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "八神乃惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-046"
     },
     {
       "id": 4904,
@@ -75,7 +75,7 @@ window.actressData = {
         "八神乃惠美",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FKOU-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-003"
     },
     {
       "id": 5102,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "八神乃惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ENKI-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ENKI-084"
     },
     {
       "id": 63598,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "八神乃惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FKOU-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-001"
     },
     {
       "id": 7627,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "八神乃惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-960"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-960"
     },
     {
       "id": 8689,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "八神乃惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-443"
     }
   ]
 };

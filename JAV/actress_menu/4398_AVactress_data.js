@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "佐々木ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-173"
     },
     {
       "id": 73730,
@@ -50,7 +50,7 @@ window.actressData = {
         "南佳也",
         "佐々木ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-161"
     }
   ]
 };

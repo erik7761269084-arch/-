@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "西高真澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RENU-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RENU-002"
     },
     {
       "id": 106560,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "西高真澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RENU-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RENU-001"
     }
   ]
 };

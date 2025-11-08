@@ -35,7 +35,7 @@ window.actressData = {
         "爱原れの",
         "芹沢ゆうり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-971"
     },
     {
       "id": 88483,
@@ -54,7 +54,7 @@ window.actressData = {
         "芹沢ゆうり",
         "瀬乃ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-157"
     }
   ]
 };

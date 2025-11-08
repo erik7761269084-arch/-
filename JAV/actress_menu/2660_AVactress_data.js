@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "高野夕美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-009"
     }
   ]
 };

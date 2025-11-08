@@ -34,7 +34,7 @@ window.actressData = {
         "庄司ゆり奈",
         "新川千寻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-481"
     }
   ]
 };

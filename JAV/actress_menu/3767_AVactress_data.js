@@ -35,7 +35,7 @@ window.actressData = {
         "爱乃零",
         "美園マリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-191"
     },
     {
       "id": 89550,
@@ -53,7 +53,7 @@ window.actressData = {
         "加贺美さら",
         "美園マリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-173"
     },
     {
       "id": 100533,
@@ -71,7 +71,7 @@ window.actressData = {
         "美園マリカ",
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-172"
     },
     {
       "id": 67897,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "美園マリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-652"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-652"
     }
   ]
 };

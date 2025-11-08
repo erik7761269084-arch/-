@@ -40,7 +40,7 @@ window.actressData = {
         "小田切ジュン",
         "本城小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-052"
     },
     {
       "id": 75484,
@@ -58,7 +58,7 @@ window.actressData = {
         "平井シンジ",
         "本城小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-042"
     },
     {
       "id": 75357,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "本城小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-037"
     },
     {
       "id": 75498,
@@ -93,7 +93,7 @@ window.actressData = {
         "玉木玲",
         "本城小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-309"
     }
   ]
 };

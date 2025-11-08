@@ -39,7 +39,7 @@ window.actressData = {
         "寺泽しのぶ",
         "柳田やよい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-359"
     },
     {
       "id": 85403,
@@ -60,7 +60,7 @@ window.actressData = {
         "大冢千秋",
         "伊东玲美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-022"
     },
     {
       "id": 85447,
@@ -81,7 +81,7 @@ window.actressData = {
         "亜佐仓みんと",
         "长谷川葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-020"
     },
     {
       "id": 80258,
@@ -101,7 +101,7 @@ window.actressData = {
         "冈部真理子",
         "日吉ルミコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-014"
     }
   ]
 };

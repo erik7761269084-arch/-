@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "美空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRSS-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-146"
     },
     {
       "id": 89857,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "美空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-062"
     },
     {
       "id": 89974,
@@ -65,7 +65,7 @@ window.actressData = {
         "美空",
         "美空みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-144"
     },
     {
       "id": 89116,
@@ -82,7 +82,7 @@ window.actressData = {
         "美空",
         "美空みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-275"
     }
   ]
 };

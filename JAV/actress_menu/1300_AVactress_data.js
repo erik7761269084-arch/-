@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "前田香織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S89"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S89"
     },
     {
       "id": 2049,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "前田香織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-115"
     },
     {
       "id": 87942,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "前田香織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IDBD-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IDBD-508"
     },
     {
       "id": 19558,
@@ -96,7 +96,7 @@ window.actressData = {
         "広瀬藍子",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-266"
     }
   ]
 };

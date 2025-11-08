@@ -49,7 +49,7 @@ window.actressData = {
         "小野寺梨纱",
         "澁谷果歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-398"
     },
     {
       "id": 68255,
@@ -69,7 +69,7 @@ window.actressData = {
         "小野寺梨纱",
         "小谷みのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-524"
     },
     {
       "id": 88119,
@@ -86,7 +86,7 @@ window.actressData = {
         "三原穗香",
         "小野寺梨纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIGD-765"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-765"
     }
   ]
 };

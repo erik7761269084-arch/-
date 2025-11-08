@@ -39,7 +39,7 @@ window.actressData = {
         "乃南静香",
         "天音うさぎ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-278"
     }
   ]
 };

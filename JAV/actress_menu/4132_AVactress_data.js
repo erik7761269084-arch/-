@@ -33,7 +33,7 @@ window.actressData = {
         "阿部乃美久",
         "东条有希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-996"
     },
     {
       "id": 83101,
@@ -52,7 +52,7 @@ window.actressData = {
         "东条有希",
         "西村春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-618"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-618"
     },
     {
       "id": 78140,
@@ -72,7 +72,7 @@ window.actressData = {
         "ゆうき",
         "东条有希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-099"
     },
     {
       "id": 78205,
@@ -92,7 +92,7 @@ window.actressData = {
         "菊川みつ叶",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-095"
     },
     {
       "id": 75036,
@@ -112,7 +112,7 @@ window.actressData = {
         "东条有希",
         "小园梨央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-049"
     },
     {
       "id": 78499,
@@ -132,7 +132,7 @@ window.actressData = {
         "东条有希",
         "菊川みつ叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-092"
     },
     {
       "id": 94898,
@@ -154,7 +154,7 @@ window.actressData = {
         "东条有希",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMA-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-052"
     },
     {
       "id": 74524,
@@ -171,7 +171,7 @@ window.actressData = {
         "富田优衣",
         "东条有希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2137"
     }
   ]
 };

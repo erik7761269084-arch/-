@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "北川久美子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YOCH-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YOCH-006"
     }
   ]
 };

@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "丘咲愛蜜莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-172"
     },
     {
       "id": 1743,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "丘咲愛蜜莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-152"
     },
     {
       "id": 61287,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "丘咲愛蜜莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-076"
     },
     {
       "id": 82594,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "丘咲愛蜜莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-881"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-881"
     }
   ]
 };

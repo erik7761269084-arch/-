@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-173"
     },
     {
       "id": 63283,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BKD-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-356"
     },
     {
       "id": 90079,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-531"
     },
     {
       "id": 87057,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-194"
     },
     {
       "id": 104465,
@@ -119,7 +119,7 @@ window.actressData = {
         "岩沢香代",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-692"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-692"
     },
     {
       "id": 86051,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-150"
     },
     {
       "id": 68099,
@@ -152,7 +152,7 @@ window.actressData = {
         "岩沢香代",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-634"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-634"
     },
     {
       "id": 68178,
@@ -169,7 +169,7 @@ window.actressData = {
         "山口珠理",
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-768"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-768"
     },
     {
       "id": 80929,
@@ -188,7 +188,7 @@ window.actressData = {
         "纱々原ゆり",
         "叶月もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-212"
     },
     {
       "id": 84316,
@@ -205,7 +205,7 @@ window.actressData = {
         "望月綾香",
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DGCEMD-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-119"
     },
     {
       "id": 78670,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJDA-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-017"
     },
     {
       "id": 76678,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "岩沢香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-403"
     }
   ]
 };

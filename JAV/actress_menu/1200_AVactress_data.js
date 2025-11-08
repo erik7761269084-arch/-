@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "有賀遊空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAVK-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-043"
     },
     {
       "id": 78445,
@@ -72,7 +72,7 @@ window.actressData = {
         "爱乃零",
         "佐々木れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-015"
     },
     {
       "id": 86915,
@@ -92,7 +92,7 @@ window.actressData = {
         "水城りの",
         "爱原さえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-161"
     },
     {
       "id": 104396,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "有賀遊空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-496"
     },
     {
       "id": 1820,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "有賀遊空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S119"
     }
   ]
 };

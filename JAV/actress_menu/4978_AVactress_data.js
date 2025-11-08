@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "中谷カイト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAD-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAD-018"
     }
   ]
 };

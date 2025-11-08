@@ -33,7 +33,7 @@ window.actressData = {
         "塚田詩織",
         "高咲まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-152"
     }
   ]
 };

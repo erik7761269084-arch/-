@@ -44,7 +44,7 @@ window.actressData = {
         "小野寺舞",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADHN-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADHN-006"
     },
     {
       "id": 7227,
@@ -61,7 +61,7 @@ window.actressData = {
         "石川澪",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-101"
     },
     {
       "id": 8340,
@@ -93,7 +93,7 @@ window.actressData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
       "id": 95439,
@@ -110,7 +110,7 @@ window.actressData = {
         "東城ゆい",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-074"
     },
     {
       "id": 64048,
@@ -128,7 +128,7 @@ window.actressData = {
         "有棲奏羽",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-953"
     },
     {
       "id": 93114,
@@ -149,7 +149,7 @@ window.actressData = {
         "月宫ねね",
         "NAOO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-047"
     },
     {
       "id": 14585,
@@ -166,7 +166,7 @@ window.actressData = {
         "市川りく",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NOSKN-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-094"
     },
     {
       "id": 15239,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAA-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-440"
     },
     {
       "id": 91529,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-338"
     },
     {
       "id": 91520,
@@ -214,7 +214,7 @@ window.actressData = {
       "actress": [
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAA-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-435"
     },
     {
       "id": 94708,
@@ -233,7 +233,7 @@ window.actressData = {
         "虹色久美",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-115"
     },
     {
       "id": 94677,
@@ -251,7 +251,7 @@ window.actressData = {
         "宫泽千春",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-113"
     },
     {
       "id": 91065,
@@ -267,7 +267,7 @@ window.actressData = {
       "actress": [
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-535"
     }
   ]
 };

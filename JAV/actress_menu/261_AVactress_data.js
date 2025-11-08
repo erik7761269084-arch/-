@@ -88,7 +88,7 @@ window.actressData = {
         "金松季歩",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
     },
     {
       "id": 8873,
@@ -120,7 +120,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 8862,
@@ -137,7 +137,7 @@ window.actressData = {
         "本郷愛",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-598"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-598"
     },
     {
       "id": 13222,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "本郷愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-273"
     },
     {
       "id": 13811,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "本郷愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-236"
     },
     {
       "id": 14501,
@@ -185,7 +185,7 @@ window.actressData = {
       "actress": [
         "本郷愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-210"
     },
     {
       "id": 17671,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "本郷愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-963"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-963"
     },
     {
       "id": 17387,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "本郷愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-924"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-924"
     },
     {
       "id": 16570,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "本郷愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-564"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-564"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "上野真奈美",
         "渚ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-611"
     }
   ]
 };

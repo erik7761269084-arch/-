@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-711"
     },
     {
       "id": 3574,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-292"
     },
     {
       "id": 4485,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-248"
     },
     {
       "id": 5368,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-208"
     },
     {
       "id": 6150,
@@ -132,7 +132,7 @@ window.actressData = {
         "仲村美羽",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-173"
     },
     {
       "id": 6938,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-134"
     },
     {
       "id": 7539,
@@ -165,7 +165,7 @@ window.actressData = {
         "仲村美羽",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-113"
     },
     {
       "id": 8437,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-542"
     },
     {
       "id": 9277,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-463"
     },
     {
       "id": 10802,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-444"
     },
     {
       "id": 107708,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-078"
     },
     {
       "id": 107068,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-016"
     },
     {
       "id": 67142,
@@ -262,7 +262,7 @@ window.actressData = {
         "仲村美羽",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-219"
     },
     {
       "id": 68918,
@@ -278,7 +278,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-179"
     },
     {
       "id": 18123,
@@ -295,7 +295,7 @@ window.actressData = {
         "仲村美羽",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-822"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-822"
     },
     {
       "id": 85535,
@@ -312,7 +312,7 @@ window.actressData = {
         "仲村美羽",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-100"
     },
     {
       "id": 106986,
@@ -328,7 +328,7 @@ window.actressData = {
       "actress": [
         "仲村美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-936"
     },
     {
       "id": 105750,
@@ -346,7 +346,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-783"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-783"
     },
     {
       "id": 76047,
@@ -365,7 +365,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-701"
     },
     {
       "id": 74184,
@@ -382,7 +382,7 @@ window.actressData = {
         "仲村美羽",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-661"
     }
   ]
 };

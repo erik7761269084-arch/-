@@ -64,7 +64,7 @@ window.actressData = {
         "迦纳瞳",
         "夏目レイコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-411"
     },
     {
       "id": 74593,
@@ -84,7 +84,7 @@ window.actressData = {
         "吉原日出子",
         "间宫志乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-350"
     },
     {
       "id": 70401,
@@ -104,7 +104,7 @@ window.actressData = {
         "仁科百华",
         "亜希菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSP-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-152"
     }
   ]
 };

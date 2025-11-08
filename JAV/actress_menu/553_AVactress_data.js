@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "小谷舞花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-280"
     },
     {
       "id": 4448,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "小谷舞花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-329"
     },
     {
       "id": 8424,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "小谷舞花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-210"
     },
     {
       "id": 9213,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "小谷舞花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-138"
     },
     {
       "id": 10122,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "小谷舞花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-113"
     },
     {
       "id": 13051,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "小谷舞花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-478"
     },
     {
       "id": 13752,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "小谷舞花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-469"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-469"
     },
     {
       "id": 14216,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "小谷舞花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-455"
     }
   ]
 };

@@ -56,7 +56,7 @@ window.actressData = {
         "佐山由依",
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTKD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTKD-002"
     },
     {
       "id": 3700,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-704"
     },
     {
       "id": 3770,
@@ -89,7 +89,7 @@ window.actressData = {
         "佐山由依",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-720"
     },
     {
       "id": 4664,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-983"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-983"
     },
     {
       "id": 63115,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-383"
     },
     {
       "id": 5278,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-753"
     },
     {
       "id": 5329,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-348"
     },
     {
       "id": 5654,
@@ -170,7 +170,7 @@ window.actressData = {
         "佐山由依",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-055"
     },
     {
       "id": 5652,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-181"
     },
     {
       "id": 5634,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-252"
     },
     {
       "id": 63745,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAB-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAB-157"
     },
     {
       "id": 6404,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "佐山由依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPR-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPR-038"
     },
     {
       "id": 6515,
@@ -251,7 +251,7 @@ window.actressData = {
         "佐山由依",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-479"
     },
     {
       "id": 10601,
@@ -268,7 +268,7 @@ window.actressData = {
         "佐山由依",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-169"
     }
   ]
 };

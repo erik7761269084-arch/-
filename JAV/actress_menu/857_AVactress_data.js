@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "前田阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-081"
     },
     {
       "id": 2007,
@@ -76,7 +76,7 @@ window.actressData = {
         "菜菜瀬結衣",
         "京野七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-71"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-71"
     },
     {
       "id": 1956,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "前田阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-67"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-67"
     },
     {
       "id": 1747,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "前田阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S23"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S23"
     },
     {
       "id": 2023,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "前田阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-57"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-57"
     },
     {
       "id": 81385,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "前田阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SE-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SE-116"
     },
     {
       "id": 68770,
@@ -158,7 +158,7 @@ window.actressData = {
         "泉麻那",
         "佐仓カオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-027"
     }
   ]
 };

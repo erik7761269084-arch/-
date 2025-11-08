@@ -33,7 +33,7 @@ window.actressData = {
         "川上麗亞",
         "渡辺杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-536"
     },
     {
       "id": 72242,
@@ -51,7 +51,7 @@ window.actressData = {
         "みさきさん",
         "渡辺杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-065"
     }
   ]
 };

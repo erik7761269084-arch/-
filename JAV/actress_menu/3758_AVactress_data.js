@@ -33,7 +33,7 @@ window.actressData = {
         "イセドン内村",
         "松川令奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-175"
     },
     {
       "id": 67764,
@@ -50,7 +50,7 @@ window.actressData = {
         "ゆーと",
         "松川令奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-170"
     },
     {
       "id": 86129,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "松川令奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-163"
     },
     {
       "id": 86181,
@@ -83,7 +83,7 @@ window.actressData = {
         "小田切ジュン",
         "松川令奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-157"
     },
     {
       "id": 90261,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "松川令奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-156"
     }
   ]
 };

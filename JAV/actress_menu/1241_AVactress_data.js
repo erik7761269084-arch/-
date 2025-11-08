@@ -55,7 +55,7 @@ window.actressData = {
         "石川陽波",
         "山口由愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-752"
     }
   ]
 };

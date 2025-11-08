@@ -34,7 +34,7 @@ window.actressData = {
         "ひょこり",
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-486"
     },
     {
       "id": 72863,
@@ -52,7 +52,7 @@ window.actressData = {
         "西野絵美",
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-649"
     },
     {
       "id": 95586,
@@ -69,7 +69,7 @@ window.actressData = {
         "イセドン内村",
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-333"
     },
     {
       "id": 93965,
@@ -88,7 +88,7 @@ window.actressData = {
         "池谷佳纯",
         "樱井まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-605"
     },
     {
       "id": 91591,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-240"
     },
     {
       "id": 88954,
@@ -126,7 +126,7 @@ window.actressData = {
         "夏树カオル",
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-521"
     },
     {
       "id": 88942,
@@ -150,7 +150,7 @@ window.actressData = {
         "岛津かおる",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-514"
     },
     {
       "id": 91653,
@@ -167,7 +167,7 @@ window.actressData = {
         "左慈半造",
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-183"
     },
     {
       "id": 90742,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-157"
     }
   ]
 };

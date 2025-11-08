@@ -33,7 +33,7 @@ window.actressData = {
         "藤森里穂",
         "朝仓桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GCF-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GCF-013"
     },
     {
       "id": 74716,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "朝仓桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1144"
     },
     {
       "id": 91290,
@@ -67,7 +67,7 @@ window.actressData = {
         "戸川夏也",
         "朝仓桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-687"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-687"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "小栗操",
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-171"
     },
     {
       "id": 84794,
@@ -50,7 +50,7 @@ window.actressData = {
         "天馬唯",
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-175"
     },
     {
       "id": 81467,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APGH-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-003"
     },
     {
       "id": 81438,
@@ -87,7 +87,7 @@ window.actressData = {
         "水谷あおい",
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-857"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-857"
     },
     {
       "id": 81562,
@@ -105,7 +105,7 @@ window.actressData = {
         "大沢萌音",
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GZAP-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GZAP-023"
     },
     {
       "id": 81900,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKS-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-085"
     },
     {
       "id": 81983,
@@ -138,7 +138,7 @@ window.actressData = {
         "山本莲加",
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-087"
     },
     {
       "id": 82122,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YAKO-005"
     }
   ]
 };

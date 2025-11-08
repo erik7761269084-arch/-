@@ -45,7 +45,7 @@ window.actressData = {
         "望月瞳",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REXD-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-543"
     },
     {
       "id": 17299,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "望月瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-625"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-625"
     },
     {
       "id": 91589,
@@ -78,7 +78,7 @@ window.actressData = {
         "望月瞳",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-244"
     },
     {
       "id": 106367,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "望月瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-732"
     },
     {
       "id": 107188,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "望月瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-206"
     },
     {
       "id": 107514,
@@ -127,7 +127,7 @@ window.actressData = {
         "白河花清",
         "望月瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-386"
     },
     {
       "id": 86228,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "望月瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-365"
     },
     {
       "id": 86212,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "望月瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-360"
     },
     {
       "id": 106723,
@@ -176,7 +176,7 @@ window.actressData = {
         "望月瞳",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-358"
     }
   ]
 };

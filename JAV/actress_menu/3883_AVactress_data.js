@@ -40,7 +40,7 @@ window.actressData = {
         "爱华みれい",
         "桜井萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-586"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-586"
     },
     {
       "id": 74731,
@@ -59,7 +59,7 @@ window.actressData = {
         "和泉つかさ",
         "一ノ瀬菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-568"
     },
     {
       "id": 74512,
@@ -85,7 +85,7 @@ window.actressData = {
         "南凉",
         "茜麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     },
     {
       "id": 69167,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "爱华みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-685"
     },
     {
       "id": 88298,
@@ -119,7 +119,7 @@ window.actressData = {
         "爱华みれい",
         "渡良瀬りほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-302"
     }
   ]
 };

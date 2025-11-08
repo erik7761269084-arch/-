@@ -34,7 +34,7 @@ window.actressData = {
         "前田あこ",
         "桐原みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANX-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANX-117"
     }
   ]
 };

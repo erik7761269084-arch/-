@@ -93,7 +93,7 @@ window.actressData = {
         "安倍亜沙美",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-933"
     },
     {
       "id": 5065,
@@ -160,7 +160,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 95268,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "七碧乃蒼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPH-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPH-127"
     },
     {
       "id": 94850,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "七碧乃蒼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-959"
     },
     {
       "id": 88885,
@@ -210,7 +210,7 @@ window.actressData = {
         "七碧乃蒼",
         "夏目未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TUE-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-141"
     },
     {
       "id": 88717,
@@ -231,7 +231,7 @@ window.actressData = {
         "叶月もえ",
         "茜ことり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRLE-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-051"
     },
     {
       "id": 87129,
@@ -248,7 +248,7 @@ window.actressData = {
         "七碧乃蒼",
         "夏目未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-785"
     },
     {
       "id": 87877,
@@ -264,7 +264,7 @@ window.actressData = {
       "actress": [
         "七碧乃蒼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-754"
     }
   ]
 };

@@ -62,7 +62,7 @@ window.actressData = {
         "木村玲衣",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-486"
     },
     {
       "id": 4120,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-005"
     },
     {
       "id": 5182,
@@ -99,7 +99,7 @@ window.actressData = {
         "向理来",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-366"
     },
     {
       "id": 5922,
@@ -116,7 +116,7 @@ window.actressData = {
         "木村玲衣",
         "さんたま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-335"
     },
     {
       "id": 6728,
@@ -134,7 +134,7 @@ window.actressData = {
         "トイボーイ相沢",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-061"
     },
     {
       "id": 7378,
@@ -151,7 +151,7 @@ window.actressData = {
         "木村玲衣",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-247"
     },
     {
       "id": 8118,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-021"
     },
     {
       "id": 8856,
@@ -184,7 +184,7 @@ window.actressData = {
         "木村玲衣",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-162"
     },
     {
       "id": 9714,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-127"
     },
     {
       "id": 10413,
@@ -216,7 +216,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-961"
     },
     {
       "id": 15292,
@@ -237,7 +237,7 @@ window.actressData = {
         "ナイアガラ翔",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-038"
     },
     {
       "id": 15919,
@@ -253,7 +253,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-620"
     },
     {
       "id": 91772,
@@ -269,7 +269,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-503"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-503"
     },
     {
       "id": 17096,
@@ -285,7 +285,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-496"
     },
     {
       "id": 17613,
@@ -302,7 +302,7 @@ window.actressData = {
         "木村玲衣",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-451"
     },
     {
       "id": 18230,
@@ -318,7 +318,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-416"
     },
     {
       "id": 91702,
@@ -334,7 +334,7 @@ window.actressData = {
       "actress": [
         "木村玲衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-395"
     }
   ]
 };

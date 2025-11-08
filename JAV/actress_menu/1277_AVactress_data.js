@@ -50,7 +50,7 @@ window.actressData = {
         "星冬香",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-487"
     },
     {
       "id": 61708,
@@ -67,7 +67,7 @@ window.actressData = {
         "星冬香",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-382"
     },
     {
       "id": 4752,
@@ -84,7 +84,7 @@ window.actressData = {
         "星冬香",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-376"
     },
     {
       "id": 6274,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "星冬香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-355"
     }
   ]
 };

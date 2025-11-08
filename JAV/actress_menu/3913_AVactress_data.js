@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-034"
     },
     {
       "id": 83818,
@@ -50,7 +50,7 @@ window.actressData = {
         "黒宫えいみ",
         "吉良薫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RIX-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-075"
     },
     {
       "id": 75565,
@@ -69,7 +69,7 @@ window.actressData = {
         "成宫いろは",
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-128"
     },
     {
       "id": 82117,
@@ -92,7 +92,7 @@ window.actressData = {
         "松冈香纯",
         "西内るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSAD-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-036"
     },
     {
       "id": 87637,
@@ -109,7 +109,7 @@ window.actressData = {
         "ゆうき",
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMI-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMI-157"
     },
     {
       "id": 70394,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XMOM-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-009"
     },
     {
       "id": 75034,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDHZ-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHZ-004"
     },
     {
       "id": 74042,
@@ -163,7 +163,7 @@ window.actressData = {
         "七瀬もな",
         "滝川穗乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-025"
     },
     {
       "id": 77732,
@@ -182,7 +182,7 @@ window.actressData = {
         "三岛奈津子",
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-033"
     },
     {
       "id": 69536,
@@ -201,7 +201,7 @@ window.actressData = {
         "大沢カスミ",
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-479"
     },
     {
       "id": 78235,
@@ -218,7 +218,7 @@ window.actressData = {
         "田渊正浩",
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-834"
     },
     {
       "id": 74239,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1073"
     },
     {
       "id": 74440,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1061"
     },
     {
       "id": 73979,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1060"
     },
     {
       "id": 77012,
@@ -282,7 +282,7 @@ window.actressData = {
       "actress": [
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1076"
     }
   ]
 };

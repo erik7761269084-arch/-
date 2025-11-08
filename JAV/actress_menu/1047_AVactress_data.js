@@ -49,7 +49,7 @@ window.actressData = {
         "藤下梨花",
         "青空小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-196"
     },
     {
       "id": 89897,
@@ -69,7 +69,7 @@ window.actressData = {
         "しずく",
         "宇佐美なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-186"
     },
     {
       "id": 89936,
@@ -86,7 +86,7 @@ window.actressData = {
         "松本痲里奈",
         "松嶋友里恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-137"
     },
     {
       "id": 1532,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "松本痲里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-106"
     }
   ]
 };

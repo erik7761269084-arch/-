@@ -43,7 +43,7 @@ window.actressData = {
       "actress": [
         "松すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0528"
     },
     {
       "id": 1519,
@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "松すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-070"
     }
   ]
 };

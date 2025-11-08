@@ -64,7 +64,7 @@ window.actressData = {
         "真白みのり",
         "紫月由香里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-161"
     },
     {
       "id": 3874,
@@ -82,7 +82,7 @@ window.actressData = {
         "真白みのり",
         "上田紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-187"
     },
     {
       "id": 4805,
@@ -103,7 +103,7 @@ window.actressData = {
         "真白みのり",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-233"
     },
     {
       "id": 6613,
@@ -121,7 +121,7 @@ window.actressData = {
         "真白みのり",
         "白石環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-097"
     },
     {
       "id": 7159,
@@ -139,7 +139,7 @@ window.actressData = {
         "久和原聖羅",
         "真白みのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-153"
     },
     {
       "id": 7908,
@@ -160,7 +160,7 @@ window.actressData = {
         "夢川りあ",
         "斉藤月乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-252"
     },
     {
       "id": 8340,
@@ -192,7 +192,7 @@ window.actressData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
       "id": 8364,
@@ -214,7 +214,7 @@ window.actressData = {
         "NATSUKA",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUBLK-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-044"
     }
   ]
 };

@@ -61,7 +61,7 @@ window.actressData = {
         "野宮杏",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-296"
     },
     {
       "id": 5681,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "野宮杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-183"
     },
     {
       "id": 7224,
@@ -94,7 +94,7 @@ window.actressData = {
         "野宮杏",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-109"
     },
     {
       "id": 8698,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "野宮杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-033"
     },
     {
       "id": 9431,
@@ -128,7 +128,7 @@ window.actressData = {
         "鲛岛",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-981"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-981"
     },
     {
       "id": 10297,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "野宮杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-939"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-939"
     }
   ]
 };

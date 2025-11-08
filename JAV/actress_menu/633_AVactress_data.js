@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "小泉真希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-126"
     },
     {
       "id": 1625,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "小泉真希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILD-812"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILD-812"
     }
   ]
 };

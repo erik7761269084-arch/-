@@ -67,7 +67,7 @@ window.actressData = {
         "櫻若菜",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-653"
     },
     {
       "id": 3797,
@@ -85,7 +85,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-633"
     },
     {
       "id": 3756,
@@ -105,7 +105,7 @@ window.actressData = {
         "櫻若菜",
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-623"
     },
     {
       "id": 4763,
@@ -124,7 +124,7 @@ window.actressData = {
         "大村",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-600"
     },
     {
       "id": 7037,
@@ -141,7 +141,7 @@ window.actressData = {
         "櫻若菜",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-527"
     },
     {
       "id": 7740,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "櫻若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-505"
     },
     {
       "id": 8438,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "櫻若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-481"
     },
     {
       "id": 9246,
@@ -192,7 +192,7 @@ window.actressData = {
         "まーち",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-453"
     },
     {
       "id": 78297,
@@ -209,7 +209,7 @@ window.actressData = {
         "櫻若菜",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-410"
     },
     {
       "id": 16896,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "櫻若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-184"
     },
     {
       "id": 17913,
@@ -243,7 +243,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-139"
     },
     {
       "id": 18421,
@@ -259,7 +259,7 @@ window.actressData = {
       "actress": [
         "櫻若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-125"
     },
     {
       "id": 90229,
@@ -275,7 +275,7 @@ window.actressData = {
       "actress": [
         "櫻若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-780"
     },
     {
       "id": 107015,
@@ -291,7 +291,7 @@ window.actressData = {
       "actress": [
         "櫻若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-110"
     },
     {
       "id": 107389,
@@ -308,7 +308,7 @@ window.actressData = {
         "櫻若菜",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-096"
     },
     {
       "id": 107666,
@@ -324,7 +324,7 @@ window.actressData = {
       "actress": [
         "櫻若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-076"
     }
   ]
 };

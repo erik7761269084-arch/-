@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "白石美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-715"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-715"
     }
   ]
 };

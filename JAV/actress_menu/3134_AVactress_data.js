@@ -33,7 +33,7 @@ window.actressData = {
         "尾崎實里",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACT-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-017"
     },
     {
       "id": 59968,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-204"
     },
     {
       "id": 60940,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-502"
     },
     {
       "id": 3662,
@@ -82,7 +82,7 @@ window.actressData = {
         "塚田詩織",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-493"
     },
     {
       "id": 4264,
@@ -99,7 +99,7 @@ window.actressData = {
         "白木優子",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-484"
     },
     {
       "id": 4258,
@@ -117,7 +117,7 @@ window.actressData = {
         "ロダン富士",
         "なっつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-485"
     },
     {
       "id": 4094,
@@ -134,7 +134,7 @@ window.actressData = {
         "川上優",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-488"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-488"
     },
     {
       "id": 4702,
@@ -152,7 +152,7 @@ window.actressData = {
         "ロダン富士",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-482"
     },
     {
       "id": 62530,
@@ -169,7 +169,7 @@ window.actressData = {
         "ロダン富士",
         "真田まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-200"
     },
     {
       "id": 63657,
@@ -187,7 +187,7 @@ window.actressData = {
         "ロダン富士",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-475"
     },
     {
       "id": 5041,
@@ -205,7 +205,7 @@ window.actressData = {
         "ロダン富士",
         "なっつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTRD-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTRD-125"
     },
     {
       "id": 5139,
@@ -222,7 +222,7 @@ window.actressData = {
         "十束流羽",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-973"
     },
     {
       "id": 63020,
@@ -239,7 +239,7 @@ window.actressData = {
         "玉城夏帆",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-705"
     },
     {
       "id": 62972,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-146"
     },
     {
       "id": 62971,
@@ -272,7 +272,7 @@ window.actressData = {
         "東ふうか",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-707"
     },
     {
       "id": 63385,
@@ -289,7 +289,7 @@ window.actressData = {
         "ロダン富士",
         "志田小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONE-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONE-292"
     },
     {
       "id": 5570,
@@ -306,7 +306,7 @@ window.actressData = {
         "結月莉亞",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-965"
     },
     {
       "id": 5952,
@@ -323,7 +323,7 @@ window.actressData = {
         "綾香あかね",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HHED-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HHED-064"
     },
     {
       "id": 66325,
@@ -340,7 +340,7 @@ window.actressData = {
         "寺島志保",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-292"
     },
     {
       "id": 6439,
@@ -357,7 +357,7 @@ window.actressData = {
         "若菜れいか",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-318"
     },
     {
       "id": 67359,
@@ -374,7 +374,7 @@ window.actressData = {
         "本真友里",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-456"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-456"
     },
     {
       "id": 67724,
@@ -391,7 +391,7 @@ window.actressData = {
         "佐久間楓",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-290"
     },
     {
       "id": 6994,
@@ -409,7 +409,7 @@ window.actressData = {
         "ロダン富士",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-450"
     },
     {
       "id": 6985,
@@ -427,7 +427,7 @@ window.actressData = {
         "ロダン富士",
         "マース"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-446"
     },
     {
       "id": 7331,
@@ -444,7 +444,7 @@ window.actressData = {
         "足立友梨",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-316"
     },
     {
       "id": 7327,
@@ -461,7 +461,7 @@ window.actressData = {
         "花柳里葎子",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-692"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-692"
     },
     {
       "id": 7293,
@@ -478,7 +478,7 @@ window.actressData = {
         "白木優子",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-439"
     },
     {
       "id": 7290,
@@ -495,7 +495,7 @@ window.actressData = {
         "川上優",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-440"
     },
     {
       "id": 70545,
@@ -512,7 +512,7 @@ window.actressData = {
         "ロダン富士",
         "黒木瑠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-234"
     },
     {
       "id": 71024,
@@ -529,7 +529,7 @@ window.actressData = {
         "田所百合",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-429"
     },
     {
       "id": 70804,
@@ -546,7 +546,7 @@ window.actressData = {
         "平冈里枝子",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-432"
     },
     {
       "id": 8066,
@@ -563,7 +563,7 @@ window.actressData = {
         "足立友梨",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-034"
     },
     {
       "id": 8004,
@@ -580,7 +580,7 @@ window.actressData = {
         "白木優子",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-427"
     }
   ]
 };

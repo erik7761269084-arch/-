@@ -34,7 +34,7 @@ window.actressData = {
         "桐岛秋子",
         "庵叶和子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-260"
     }
   ]
 };

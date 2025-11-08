@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "みずき丽花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-385"
     },
     {
       "id": 89561,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "みずき丽花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-327"
     }
   ]
 };

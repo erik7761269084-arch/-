@@ -35,7 +35,7 @@ window.actressData = {
         "松永雪子",
         "秋园このえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3338"
     },
     {
       "id": 83004,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "秋园このえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-143"
     }
   ]
 };

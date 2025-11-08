@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "桜木凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-724"
     },
     {
       "id": 88445,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "桜木凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-802"
     },
     {
       "id": 59988,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "桜木凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-795"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-795"
     },
     {
       "id": 107291,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "桜木凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-763"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-763"
     },
     {
       "id": 71396,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "桜木凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBI-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBI-190"
     },
     {
       "id": 82240,
@@ -148,7 +148,7 @@ window.actressData = {
         "大岛丈",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBI-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBI-168"
     },
     {
       "id": 72920,
@@ -164,7 +164,7 @@ window.actressData = {
       "actress": [
         "桜木凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-373"
     }
   ]
 };

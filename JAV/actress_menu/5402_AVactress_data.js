@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小池由衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-119"
     }
   ]
 };

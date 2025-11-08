@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "春澤りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOC-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOC-007"
     },
     {
       "id": 74666,
@@ -50,7 +50,7 @@ window.actressData = {
         "輝大",
         "春澤りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-563"
     }
   ]
 };

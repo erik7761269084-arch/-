@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "雙葉胡桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OMHD-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OMHD-030"
     }
   ]
 };

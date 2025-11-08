@@ -37,7 +37,7 @@ window.actressData = {
         "一条美绪",
         "兼咲みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DHLD-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-012"
     }
   ]
 };

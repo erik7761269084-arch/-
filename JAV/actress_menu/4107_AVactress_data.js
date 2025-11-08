@@ -42,7 +42,7 @@ window.actressData = {
         "结まきな",
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-054"
     },
     {
       "id": 77090,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "结まきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-183"
     },
     {
       "id": 72140,
@@ -77,7 +77,7 @@ window.actressData = {
         "结まきな",
         "ふわり结爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-128"
     },
     {
       "id": 86713,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "结まきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-750"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-750"
     },
     {
       "id": 87538,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "结まきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-735"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-735"
     },
     {
       "id": 71050,
@@ -127,7 +127,7 @@ window.actressData = {
         "大岛丈",
         "结まきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-693"
     }
   ]
 };

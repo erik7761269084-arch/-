@@ -49,7 +49,7 @@ window.actressData = {
         "胡桃多惠",
         "星川りく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-349"
     },
     {
       "id": 67126,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "星川りく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-566"
     }
   ]
 };

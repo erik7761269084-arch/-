@@ -33,7 +33,7 @@ window.actressData = {
         "セルバ・ラ・ピエドラ",
         "ブラック・エンジェル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAP-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAP-262"
     },
     {
       "id": 75611,
@@ -50,7 +50,7 @@ window.actressData = {
         "セルバ・ラ・ピエドラ",
         "タリア・レイン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUSR-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUSR-287"
     }
   ]
 };

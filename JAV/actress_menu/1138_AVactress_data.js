@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "堀沢茉由"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-315"
     },
     {
       "id": 6452,
@@ -99,7 +99,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-333"
     },
     {
       "id": 10513,
@@ -121,7 +121,7 @@ window.actressData = {
         "津久井和紗",
         "松田捺羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-218"
     },
     {
       "id": 94486,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "堀沢茉由"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SROB-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SROB-026"
     }
   ]
 };

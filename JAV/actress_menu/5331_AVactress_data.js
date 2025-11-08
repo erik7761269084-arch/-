@@ -37,7 +37,7 @@ window.actressData = {
         "水泽アイサ",
         "长瀬あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-021"
     }
   ]
 };

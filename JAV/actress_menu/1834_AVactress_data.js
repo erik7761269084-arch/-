@@ -45,7 +45,7 @@ window.actressData = {
         "蓬莱かすみ",
         "星乃結子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYB-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYB-016"
     },
     {
       "id": 14219,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "蓬莱かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYB-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYB-013"
     },
     {
       "id": 91397,
@@ -78,7 +78,7 @@ window.actressData = {
         "乃南ゆい",
         "蓬莱かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-299"
     },
     {
       "id": 87354,
@@ -95,7 +95,7 @@ window.actressData = {
         "蓬莱かすみ",
         "盛岡みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-281"
     }
   ]
 };

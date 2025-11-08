@@ -54,7 +54,7 @@ window.actressData = {
         "沙優七羽",
         "音月みり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCT-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCT-022"
     },
     {
       "id": 4594,
@@ -74,7 +74,7 @@ window.actressData = {
         "沙優七羽",
         "彩葉ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-376"
     },
     {
       "id": 4580,
@@ -95,7 +95,7 @@ window.actressData = {
         "沙優七羽",
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSODA-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-072"
     },
     {
       "id": 63463,
@@ -114,7 +114,7 @@ window.actressData = {
         "沙優七羽",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-052"
     },
     {
       "id": 8059,
@@ -134,7 +134,7 @@ window.actressData = {
         "天宮かすみ",
         "沙優七羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-307"
     },
     {
       "id": 95258,
@@ -151,7 +151,7 @@ window.actressData = {
         "沙優七羽",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-630"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-630"
     },
     {
       "id": 15833,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "沙優七羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TGYM-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TGYM-005"
     },
     {
       "id": 88973,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "沙優七羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-091"
     },
     {
       "id": 77525,
@@ -200,7 +200,7 @@ window.actressData = {
         "沙優七羽",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-569"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-569"
     }
   ]
 };

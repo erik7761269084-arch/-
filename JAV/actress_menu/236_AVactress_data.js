@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAGR-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-061"
     },
     {
       "id": 64013,
@@ -85,7 +85,7 @@ window.actressData = {
         "冬爱琴音",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LVSC-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-009"
     },
     {
       "id": 6682,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-946"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-946"
     },
     {
       "id": 7129,
@@ -118,7 +118,7 @@ window.actressData = {
         "桜木美音",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FKRU-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-004"
     },
     {
       "id": 7321,
@@ -136,7 +136,7 @@ window.actressData = {
         "平井シンジ",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REXD-557"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-557"
     },
     {
       "id": 7960,
@@ -154,7 +154,7 @@ window.actressData = {
         "前田美波",
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-744"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-744"
     },
     {
       "id": 76980,
@@ -173,7 +173,7 @@ window.actressData = {
         "桜木美音",
         "星仲ここみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-633"
     },
     {
       "id": 78163,
@@ -190,7 +190,7 @@ window.actressData = {
         "星乃夏月",
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-131"
     },
     {
       "id": 94226,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SETM-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-039"
     },
     {
       "id": 93970,
@@ -224,7 +224,7 @@ window.actressData = {
         "桜木美音",
         "赤城穂波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-609"
     },
     {
       "id": 13158,
@@ -241,7 +241,7 @@ window.actressData = {
         "桜木美音",
         "平井シンジ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REXD-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-526"
     },
     {
       "id": 94232,
@@ -257,7 +257,7 @@ window.actressData = {
       "actress": [
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKMJ-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-521"
     },
     {
       "id": 13901,
@@ -273,7 +273,7 @@ window.actressData = {
       "actress": [
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRSS-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-155"
     },
     {
       "id": 91870,
@@ -290,7 +290,7 @@ window.actressData = {
         "桜木美音",
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOTTE-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-173"
     },
     {
       "id": 16034,
@@ -306,7 +306,7 @@ window.actressData = {
       "actress": [
         "桜木美音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAA-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-434"
     }
   ]
 };

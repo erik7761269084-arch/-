@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "みのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4903"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4903"
     },
     {
       "id": 89364,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "みのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2266"
     }
   ]
 };

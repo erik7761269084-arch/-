@@ -34,7 +34,7 @@ window.actressData = {
         "冲田里绪",
         "黒江リィナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-690"
     }
   ]
 };

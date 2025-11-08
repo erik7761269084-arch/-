@@ -64,7 +64,7 @@ window.actressData = {
         "葉月まゆ",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-885"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-885"
     },
     {
       "id": 2707,
@@ -83,7 +83,7 @@ window.actressData = {
         "葉月まゆ",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-780"
     },
     {
       "id": 2744,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "葉月まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-242"
     },
     {
       "id": 61427,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "葉月まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMH-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-040"
     },
     {
       "id": 3379,
@@ -132,7 +132,7 @@ window.actressData = {
         "葉月まゆ",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-784"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-784"
     },
     {
       "id": 6580,
@@ -149,7 +149,7 @@ window.actressData = {
         "小野坂唯香",
         "葉月まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25193"
     },
     {
       "id": 7286,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "葉月まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-151"
     },
     {
       "id": 9404,
@@ -182,7 +182,7 @@ window.actressData = {
         "葉月まゆ",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-125"
     }
   ]
 };

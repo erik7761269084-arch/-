@@ -50,7 +50,7 @@ window.actressData = {
         "倉多紗南",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-864"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-864"
     }
   ]
 };

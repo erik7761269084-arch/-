@@ -35,7 +35,7 @@ window.actressData = {
         "南なつき",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
     },
     {
       "id": 70953,
@@ -52,7 +52,7 @@ window.actressData = {
         "皆月光",
         "南なつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21385"
     }
   ]
 };

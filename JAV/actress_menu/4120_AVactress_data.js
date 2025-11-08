@@ -37,7 +37,7 @@ window.actressData = {
         "新垣ことり",
         "今井まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-652"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-652"
     },
     {
       "id": 88461,
@@ -54,7 +54,7 @@ window.actressData = {
         "真白湖子",
         "新垣ことり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-105"
     }
   ]
 };

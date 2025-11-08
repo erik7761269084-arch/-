@@ -33,7 +33,7 @@ window.actressData = {
         "胡桃櫻花",
         "イッセイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-268"
     },
     {
       "id": 91549,
@@ -50,7 +50,7 @@ window.actressData = {
         "林愛華",
         "イッセイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-282"
     },
     {
       "id": 91596,
@@ -67,7 +67,7 @@ window.actressData = {
         "夏树カオル",
         "イッセイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-249"
     },
     {
       "id": 91171,
@@ -84,7 +84,7 @@ window.actressData = {
         "夏八木彩月",
         "イッセイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-604"
     },
     {
       "id": 106675,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "イッセイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-218"
     },
     {
       "id": 90761,
@@ -117,7 +117,7 @@ window.actressData = {
         "大空七海",
         "イッセイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-692"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-692"
     }
   ]
 };

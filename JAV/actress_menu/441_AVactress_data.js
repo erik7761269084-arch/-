@@ -47,7 +47,7 @@ window.actressData = {
         "吉沢梨亜",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-085"
     },
     {
       "id": 4606,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "吉沢梨亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-068"
     },
     {
       "id": 7830,
@@ -80,7 +80,7 @@ window.actressData = {
         "吉沢梨亜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-991"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-991"
     },
     {
       "id": 9098,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "吉沢梨亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-973"
     },
     {
       "id": 9992,
@@ -113,7 +113,7 @@ window.actressData = {
         "吉沢梨亜",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-943"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-943"
     },
     {
       "id": 10740,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "吉沢梨亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-926"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-926"
     }
   ]
 };

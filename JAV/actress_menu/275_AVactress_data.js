@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "翼舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-096"
     },
     {
       "id": 6179,
@@ -82,7 +82,7 @@ window.actressData = {
         "翼舞",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-036"
     },
     {
       "id": 8581,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "翼舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-985"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-985"
     },
     {
       "id": 7788,
@@ -117,7 +117,7 @@ window.actressData = {
         "日森一",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-994"
     },
     {
       "id": 10253,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "翼舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-953"
     },
     {
       "id": 10994,
@@ -151,7 +151,7 @@ window.actressData = {
         "じゅうもんじ",
         "もんご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-951"
     },
     {
       "id": 11347,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "翼舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-949"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-949"
     },
     {
       "id": 13595,
@@ -184,7 +184,7 @@ window.actressData = {
         "翼舞",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-249"
     },
     {
       "id": 14157,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "翼舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-099"
     },
     {
       "id": 16388,
@@ -216,7 +216,7 @@ window.actressData = {
       "actress": [
         "翼舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-055"
     },
     {
       "id": 16906,
@@ -232,7 +232,7 @@ window.actressData = {
       "actress": [
         "翼舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-013"
     },
     {
       "id": 17921,
@@ -250,7 +250,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也×"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-934"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-934"
     },
     {
       "id": 18436,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "翼舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-897"
     }
   ]
 };

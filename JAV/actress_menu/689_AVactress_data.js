@@ -60,7 +60,7 @@ window.actressData = {
         "三木環奈",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-330"
     },
     {
       "id": 3604,
@@ -77,7 +77,7 @@ window.actressData = {
         "三木環奈",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-288"
     },
     {
       "id": 4533,
@@ -94,7 +94,7 @@ window.actressData = {
         "三木環奈",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-244"
     },
     {
       "id": 5364,
@@ -112,7 +112,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-204"
     },
     {
       "id": 6154,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "三木環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-165"
     },
     {
       "id": 7538,
@@ -145,7 +145,7 @@ window.actressData = {
         "三木環奈",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-092"
     },
     {
       "id": 9956,
@@ -162,7 +162,7 @@ window.actressData = {
         "三木環奈",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-983"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-983"
     }
   ]
 };

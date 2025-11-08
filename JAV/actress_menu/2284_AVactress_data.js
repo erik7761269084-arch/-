@@ -72,7 +72,7 @@ window.actressData = {
         "保坂えり",
         "篠宫ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-370"
     },
     {
       "id": 81622,
@@ -95,7 +95,7 @@ window.actressData = {
         "保坂えり",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-358"
     },
     {
       "id": 87970,
@@ -114,7 +114,7 @@ window.actressData = {
         "早坂リア",
         "星崎キララ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KISD-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KISD-085"
     },
     {
       "id": 106904,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "保坂えり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-699"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-699"
     }
   ]
 };

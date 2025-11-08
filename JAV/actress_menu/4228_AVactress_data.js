@@ -35,7 +35,7 @@ window.actressData = {
         "タツ",
         "河北恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-738"
     },
     {
       "id": 81634,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "河北恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DPMI-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-046"
     },
     {
       "id": 78205,
@@ -71,7 +71,7 @@ window.actressData = {
         "菊川みつ叶",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-095"
     },
     {
       "id": 72143,
@@ -89,7 +89,7 @@ window.actressData = {
         "胡桃圓",
         "河北恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-167"
     }
   ]
 };

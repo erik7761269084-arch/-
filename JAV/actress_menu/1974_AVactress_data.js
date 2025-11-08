@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "三原雅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1590"
     }
   ]
 };

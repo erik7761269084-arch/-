@@ -41,7 +41,7 @@ window.actressData = {
         "安倍亜沙美",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-849"
     },
     {
       "id": 98455,
@@ -61,7 +61,7 @@ window.actressData = {
         "绫瀬さくら",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-696"
     },
     {
       "id": 73709,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-195"
     },
     {
       "id": 71168,
@@ -97,7 +97,7 @@ window.actressData = {
         "后藤里香",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-574"
     },
     {
       "id": 100134,
@@ -114,7 +114,7 @@ window.actressData = {
         "滝本エレナ",
         "三ツ星りぼん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-729"
     }
   ]
 };

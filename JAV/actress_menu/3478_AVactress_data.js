@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "乃咲みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVT-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVT-036"
     },
     {
       "id": 6405,
@@ -57,7 +57,7 @@ window.actressData = {
         "仓木诗织",
         "乃咲みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-813"
     }
   ]
 };

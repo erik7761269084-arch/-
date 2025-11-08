@@ -33,7 +33,7 @@ window.actressData = {
         "橋本りこ",
         "ふぁっち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-828"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-828"
     }
   ]
 };

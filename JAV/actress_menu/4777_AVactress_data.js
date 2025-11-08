@@ -34,7 +34,7 @@ window.actressData = {
         "矢田纪子",
         "乌丸まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-484"
     },
     {
       "id": 77979,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "矢田纪子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1221"
     }
   ]
 };

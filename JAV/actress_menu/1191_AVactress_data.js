@@ -52,7 +52,7 @@ window.actressData = {
         "松莉乃",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-519"
     },
     {
       "id": 17339,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "松莉乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-495"
     }
   ]
 };

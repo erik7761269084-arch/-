@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "藤井知花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-161"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
         "响りん",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-050"
     },
     {
       "id": 81832,
@@ -64,7 +64,7 @@ window.actressData = {
         "结白まさき",
         "高司奏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
     },
     {
       "id": 83499,
@@ -84,7 +84,7 @@ window.actressData = {
         "叶月美音",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDT-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDT-629"
     },
     {
       "id": 83702,
@@ -107,7 +107,7 @@ window.actressData = {
         "青木りん",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-044"
     },
     {
       "id": 77740,
@@ -130,7 +130,7 @@ window.actressData = {
         "佐々木恋海",
         "ゆうきさやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-343"
     },
     {
       "id": 83038,
@@ -155,7 +155,7 @@ window.actressData = {
         "美月しのぶ",
         "七瀬ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MC-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MC-002"
     },
     {
       "id": 69381,
@@ -179,7 +179,7 @@ window.actressData = {
         "叶月奈穂",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-151"
     }
   ]
 };

@@ -56,7 +56,7 @@ window.actressData = {
         "成宫いろは",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-363"
     },
     {
       "id": 83614,
@@ -74,7 +74,7 @@ window.actressData = {
         "一彻（铃木一彻）",
         "相川司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2382"
     },
     {
       "id": 83609,
@@ -92,7 +92,7 @@ window.actressData = {
         "一彻（铃木一彻）",
         "相川司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2372"
     },
     {
       "id": 70999,
@@ -111,7 +111,7 @@ window.actressData = {
         "神ユキ",
         "凉美ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-541"
     },
     {
       "id": 73252,
@@ -132,7 +132,7 @@ window.actressData = {
         "なつめ爱梨",
         "NIMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-506"
     },
     {
       "id": 1067,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "葵千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1500"
     },
     {
       "id": 1033,
@@ -164,7 +164,7 @@ window.actressData = {
       "actress": [
         "葵千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1444"
     },
     {
       "id": 1856,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "葵千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S130"
     },
     {
       "id": 2008,
@@ -196,7 +196,7 @@ window.actressData = {
       "actress": [
         "葵千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-77"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-77"
     },
     {
       "id": 88222,
@@ -214,7 +214,7 @@ window.actressData = {
         "森林原人",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGA-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-025"
     }
   ]
 };

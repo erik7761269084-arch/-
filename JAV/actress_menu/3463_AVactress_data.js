@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "藍野ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-056"
     },
     {
       "id": 66043,
@@ -49,7 +49,7 @@ window.actressData = {
         "タクト",
         "藍野ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-053"
     }
   ]
 };

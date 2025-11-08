@@ -65,7 +65,7 @@ window.actressData = {
         "舞原圣",
         "新井爱丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-323"
     },
     {
       "id": 62477,
@@ -90,7 +90,7 @@ window.actressData = {
         "宫沢优里",
         "沙原さゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-270"
     },
     {
       "id": 83793,
@@ -113,7 +113,7 @@ window.actressData = {
         "小谷みのり",
         "真岛かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-123"
     },
     {
       "id": 73749,
@@ -130,7 +130,7 @@ window.actressData = {
         "羽田つばさ",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-816"
     },
     {
       "id": 69090,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "羽田つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MADM-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADM-107"
     }
   ]
 };

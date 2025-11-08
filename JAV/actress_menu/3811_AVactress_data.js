@@ -42,7 +42,7 @@ window.actressData = {
         "加贺美さら",
         "雨宫もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-300"
     },
     {
       "id": 107371,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "雨宫もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-623"
     },
     {
       "id": 69016,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "雨宫もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-109"
     },
     {
       "id": 68404,
@@ -92,7 +92,7 @@ window.actressData = {
         "イセドン内村",
         "雨宫もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-051"
     },
     {
       "id": 84291,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "雨宫もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-079"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=mkbd-s118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=mkbd-s118"
     },
     {
       "id": 105465,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-733"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-733"
     },
     {
       "id": 2035,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-145"
     },
     {
       "id": 67037,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-072"
     },
     {
       "id": 79809,
@@ -115,7 +115,7 @@ window.actressData = {
         "立花美涼",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-708"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-708"
     },
     {
       "id": 1782,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-126"
     },
     {
       "id": 61504,
@@ -148,7 +148,7 @@ window.actressData = {
         "立花美涼",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-065"
     },
     {
       "id": 101286,
@@ -165,7 +165,7 @@ window.actressData = {
         "立花美涼",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-568"
     },
     {
       "id": 95788,
@@ -182,7 +182,7 @@ window.actressData = {
         "立花美涼",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-050"
     },
     {
       "id": 95782,
@@ -199,7 +199,7 @@ window.actressData = {
         "立花美涼",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-653"
     },
     {
       "id": 79771,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-583"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-583"
     },
     {
       "id": 19539,
@@ -233,7 +233,7 @@ window.actressData = {
         "桜井步",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-462"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-462"
     },
     {
       "id": 106729,
@@ -249,7 +249,7 @@ window.actressData = {
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-439"
     }
   ]
 };

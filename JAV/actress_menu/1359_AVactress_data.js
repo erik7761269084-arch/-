@@ -116,7 +116,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 89980,
@@ -133,7 +133,7 @@ window.actressData = {
         "香澄せな",
         "矢野沙衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-508"
     },
     {
       "id": 90167,
@@ -151,7 +151,7 @@ window.actressData = {
         "花芽有朱",
         "矢野沙衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-540"
     },
     {
       "id": 90438,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "矢野沙衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-067"
     },
     {
       "id": 84414,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "矢野沙衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-940"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-940"
     },
     {
       "id": 87459,
@@ -200,7 +200,7 @@ window.actressData = {
         "矢野沙衣",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-930"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-930"
     }
   ]
 };

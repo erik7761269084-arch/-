@@ -51,7 +51,7 @@ window.actressData = {
         "七藤優亜",
         "白戸はつみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-401"
     },
     {
       "id": 6065,
@@ -71,7 +71,7 @@ window.actressData = {
         "青田悠華",
         "七藤優亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-141"
     },
     {
       "id": 6523,
@@ -91,7 +91,7 @@ window.actressData = {
         "青田悠華",
         "七藤優亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DHLD-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-017"
     },
     {
       "id": 6520,
@@ -111,7 +111,7 @@ window.actressData = {
         "青田悠華",
         "七藤優亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DSJH-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSJH-014"
     },
     {
       "id": 68606,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "七藤優亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKB-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-173"
     },
     {
       "id": 70187,
@@ -147,7 +147,7 @@ window.actressData = {
         "木之内奈々葉",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-220"
     }
   ]
 };

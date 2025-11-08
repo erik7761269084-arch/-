@@ -41,7 +41,7 @@ window.actressData = {
         "枢木美栞",
         "浅仓あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-112"
     }
   ]
 };

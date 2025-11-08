@@ -48,7 +48,7 @@ window.actressData = {
         "今井真由美",
         "越川アメリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-058"
     }
   ]
 };

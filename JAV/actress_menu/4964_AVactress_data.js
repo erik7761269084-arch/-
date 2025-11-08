@@ -36,7 +36,7 @@ window.actressData = {
         "音无かおり",
         "北谷静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-062"
     },
     {
       "id": 81230,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "中森玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAD-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAD-024"
     }
   ]
 };

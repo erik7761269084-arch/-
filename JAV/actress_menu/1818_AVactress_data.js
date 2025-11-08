@@ -49,7 +49,7 @@ window.actressData = {
         "兎美かれん",
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-118"
     },
     {
       "id": 60610,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "兎美かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMF-089"
     },
     {
       "id": 6105,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "兎美かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-018"
     }
   ]
 };

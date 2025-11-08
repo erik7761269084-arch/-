@@ -58,7 +58,7 @@ window.actressData = {
         "美好柚伽",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BUR-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-635"
     },
     {
       "id": 6127,
@@ -76,7 +76,7 @@ window.actressData = {
         "葉月ひな",
         "水本葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-256"
     },
     {
       "id": 93577,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "水本葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-048"
     }
   ]
 };

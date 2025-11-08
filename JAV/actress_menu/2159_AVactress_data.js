@@ -50,7 +50,7 @@ window.actressData = {
         "片瀬仁美",
         "浅井舞香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-361"
     },
     {
       "id": 95096,
@@ -70,7 +70,7 @@ window.actressData = {
         "円城ひとみ",
         "柏木舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-145"
     },
     {
       "id": 13751,
@@ -95,7 +95,7 @@ window.actressData = {
         "宮園さゆり",
         "伊東かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-174"
     },
     {
       "id": 83793,
@@ -118,7 +118,7 @@ window.actressData = {
         "小谷みのり",
         "真岛かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-123"
     },
     {
       "id": 75740,
@@ -135,7 +135,7 @@ window.actressData = {
         "久保今日子",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-426"
     },
     {
       "id": 83136,
@@ -159,7 +159,7 @@ window.actressData = {
         "瀬戸すみれ",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-605"
     },
     {
       "id": 78485,
@@ -176,7 +176,7 @@ window.actressData = {
         "久保今日子",
         "横山纱江子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RD-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-967"
     },
     {
       "id": 71005,
@@ -194,7 +194,7 @@ window.actressData = {
         "铃木里美",
         "久保今日子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-214"
     },
     {
       "id": 66343,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "久保今日子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-316"
     }
   ]
 };

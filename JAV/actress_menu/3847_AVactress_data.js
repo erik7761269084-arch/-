@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "中西江梨子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-046"
     },
     {
       "id": 81923,
@@ -49,7 +49,7 @@ window.actressData = {
         "中西江梨子",
         "乌丸まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RSE-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RSE-032"
     },
     {
       "id": 78260,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "中西江梨子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1212"
     },
     {
       "id": 71788,
@@ -84,7 +84,7 @@ window.actressData = {
         "中西江梨子",
         "芦屋静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-047"
     },
     {
       "id": 68759,
@@ -103,7 +103,7 @@ window.actressData = {
         "荒木ありさ",
         "中西江梨子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-125"
     }
   ]
 };

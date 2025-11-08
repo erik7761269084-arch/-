@@ -64,7 +64,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-355"
     },
     {
       "id": 19128,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "益坂美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-324"
     },
     {
       "id": 19152,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "益坂美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-295"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-295"
     },
     {
       "id": 19166,
@@ -113,7 +113,7 @@ window.actressData = {
         "益坂美亜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-281"
     },
     {
       "id": 19182,
@@ -131,7 +131,7 @@ window.actressData = {
         "鲛岛",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-269"
     },
     {
       "id": 19221,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "益坂美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-223"
     },
     {
       "id": 19259,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "益坂美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-189"
     },
     {
       "id": 19271,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "益坂美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-171"
     }
   ]
 };

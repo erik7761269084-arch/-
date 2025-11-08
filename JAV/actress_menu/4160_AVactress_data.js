@@ -36,7 +36,7 @@ window.actressData = {
         "千种ちな",
         "爱原れの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-013"
     },
     {
       "id": 71500,
@@ -55,7 +55,7 @@ window.actressData = {
         "爱原れの",
         "芹沢ゆうり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-971"
     }
   ]
 };

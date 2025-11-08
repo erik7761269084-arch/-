@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "碓井沙英子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SY-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-209"
     },
     {
       "id": 67107,
@@ -72,7 +72,7 @@ window.actressData = {
         "碓井沙英子",
         "さえこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2993"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2993"
     }
   ]
 };

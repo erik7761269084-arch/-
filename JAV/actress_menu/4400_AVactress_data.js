@@ -35,7 +35,7 @@ window.actressData = {
         "山井すず",
         "清野雫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-464"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-464"
     },
     {
       "id": 73738,
@@ -58,7 +58,7 @@ window.actressData = {
         "海空花",
         "清野雫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-187"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "松岡三奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-040"
     },
     {
       "id": 91145,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "松岡三奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-209"
     }
   ]
 };

@@ -72,7 +72,7 @@ window.actressData = {
         "仓木诗织",
         "小鸟游りか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-104"
     },
     {
       "id": 8064,
@@ -93,7 +93,7 @@ window.actressData = {
         "高橋ほなみ",
         "椎菜える"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-303"
     },
     {
       "id": 9447,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "高橋ほなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-459"
     },
     {
       "id": 10466,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "高橋ほなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-224"
     },
     {
       "id": 10459,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "高橋ほなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-517"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-517"
     },
     {
       "id": 10739,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "高橋ほなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-236"
     }
   ]
 };

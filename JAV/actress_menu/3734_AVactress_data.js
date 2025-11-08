@@ -34,7 +34,7 @@ window.actressData = {
         "豊中爱丽丝",
         "真田由紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBRAQ-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBRAQ-069"
     }
   ]
 };

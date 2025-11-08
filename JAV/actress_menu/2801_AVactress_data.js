@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "辻井美穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S30"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S30"
     }
   ]
 };

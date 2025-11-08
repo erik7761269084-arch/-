@@ -33,7 +33,7 @@ window.actressData = {
         "月見るい",
         "新沢渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MARAA-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-202"
     }
   ]
 };

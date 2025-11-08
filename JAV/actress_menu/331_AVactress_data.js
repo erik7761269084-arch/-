@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-891"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-891"
     },
     {
       "id": 3752,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-840"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-840"
     },
     {
       "id": 4318,
@@ -108,7 +108,7 @@ window.actressData = {
         "乃坂日和",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
     },
     {
       "id": 4757,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-786"
     },
     {
       "id": 6333,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-713"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-713"
     },
     {
       "id": 6602,
@@ -170,7 +170,7 @@ window.actressData = {
         "乙白さやか",
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
     },
     {
       "id": 7718,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-631"
     },
     {
       "id": 8432,
@@ -203,7 +203,7 @@ window.actressData = {
         "田野憂",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-585"
     },
     {
       "id": 8873,
@@ -235,7 +235,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 9225,
@@ -251,7 +251,7 @@ window.actressData = {
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-536"
     },
     {
       "id": 10140,
@@ -268,7 +268,7 @@ window.actressData = {
         "田野憂",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-470"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-470"
     },
     {
       "id": 12839,
@@ -285,7 +285,7 @@ window.actressData = {
         "田野憂",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-324"
     },
     {
       "id": 14169,
@@ -302,7 +302,7 @@ window.actressData = {
         "田野憂",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-221"
     }
   ]
 };

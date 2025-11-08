@@ -34,7 +34,7 @@ window.actressData = {
         "鲛岛",
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-030"
     },
     {
       "id": 6800,
@@ -51,7 +51,7 @@ window.actressData = {
         "松岡鈴",
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-022"
     },
     {
       "id": 12848,
@@ -70,7 +70,7 @@ window.actressData = {
         "松冈すず",
         "时多しほり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-018"
     },
     {
       "id": 88916,
@@ -96,7 +96,7 @@ window.actressData = {
         "凉森玲梦",
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
       "id": 68399,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-095"
     },
     {
       "id": 85182,
@@ -129,7 +129,7 @@ window.actressData = {
         "田渊正浩",
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-089"
     },
     {
       "id": 67996,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-086"
     },
     {
       "id": 102322,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-083"
     },
     {
       "id": 90530,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPT-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPT-127"
     },
     {
       "id": 67057,
@@ -194,7 +194,7 @@ window.actressData = {
         "松冈すず",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-257"
     },
     {
       "id": 86988,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-247"
     },
     {
       "id": 80806,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-202"
     },
     {
       "id": 80315,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-177"
     },
     {
       "id": 86706,
@@ -258,7 +258,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-102"
     },
     {
       "id": 86667,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-037"
     },
     {
       "id": 73593,
@@ -291,7 +291,7 @@ window.actressData = {
         "小田切ジュン",
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-996"
     },
     {
       "id": 88293,
@@ -309,7 +309,7 @@ window.actressData = {
         "松冈すず",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BGN-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-058"
     }
   ]
 };

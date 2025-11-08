@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "大塚仁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-126"
     }
   ]
 };

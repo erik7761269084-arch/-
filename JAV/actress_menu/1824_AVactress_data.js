@@ -43,7 +43,7 @@ window.actressData = {
       "actress": [
         "原小雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-044"
     },
     {
       "id": 1931,
@@ -60,7 +60,7 @@ window.actressData = {
         "小澤瑪麗亞",
         "原小雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-020"
     }
   ]
 };

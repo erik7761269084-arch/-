@@ -40,7 +40,7 @@ window.actressData = {
         "花笑一杏",
         "池端真実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-442"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-442"
     }
   ]
 };

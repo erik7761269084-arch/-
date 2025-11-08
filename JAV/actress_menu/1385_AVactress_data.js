@@ -104,7 +104,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 71272,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "早川瀬里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-452"
     },
     {
       "id": 1866,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "早川瀬里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-002"
     },
     {
       "id": 1843,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "早川瀬里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-032"
     },
     {
       "id": 72924,
@@ -171,7 +171,7 @@ window.actressData = {
         "新井爱丽",
         "鸟越乃亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-053"
     }
   ]
 };

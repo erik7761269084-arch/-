@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "水沢みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-174"
     }
   ]
 };

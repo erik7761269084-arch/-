@@ -39,7 +39,7 @@ window.actressData = {
         "泡沫ゆうき",
         "真树凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-116"
     },
     {
       "id": 74363,
@@ -56,7 +56,7 @@ window.actressData = {
         "鲛岛",
         "真树凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-924"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-924"
     },
     {
       "id": 78990,
@@ -74,7 +74,7 @@ window.actressData = {
         "野々宫兰",
         "真树凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-190"
     }
   ]
 };

@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "愛内梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=smbd-30"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=smbd-30"
     }
   ]
 };

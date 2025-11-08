@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "逢月はるな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-111"
     },
     {
       "id": 72145,
@@ -57,7 +57,7 @@ window.actressData = {
         "逢月はるな",
         "やしきれな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-149"
     }
   ]
 };

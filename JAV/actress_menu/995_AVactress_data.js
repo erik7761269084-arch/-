@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "涼風憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-772"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-772"
     },
     {
       "id": 2947,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "涼風憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-413"
     },
     {
       "id": 4511,
@@ -89,7 +89,7 @@ window.actressData = {
         "天羽梨梨花",
         "涼風憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-250"
     },
     {
       "id": 7540,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "涼風憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-206"
     },
     {
       "id": 8247,
@@ -122,7 +122,7 @@ window.actressData = {
         "涼風憂",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-198"
     }
   ]
 };

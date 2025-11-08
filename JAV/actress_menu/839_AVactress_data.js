@@ -63,7 +63,7 @@ window.actressData = {
         "白石環奈",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-314"
     },
     {
       "id": 3181,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "福原美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-594"
     },
     {
       "id": 3704,
@@ -98,7 +98,7 @@ window.actressData = {
         "川上しずく",
         "福原美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-024"
     },
     {
       "id": 6924,
@@ -115,7 +115,7 @@ window.actressData = {
         "福原美奈",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-224"
     },
     {
       "id": 7528,
@@ -132,7 +132,7 @@ window.actressData = {
         "福原美奈",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-211"
     }
   ]
 };

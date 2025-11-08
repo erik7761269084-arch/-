@@ -33,7 +33,7 @@ window.actressData = {
         "玉木玲",
         "汐乃木あやみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-005"
     },
     {
       "id": 74216,
@@ -50,7 +50,7 @@ window.actressData = {
         "小田切ジュン",
         "汐乃木あやみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-996"
     }
   ]
 };

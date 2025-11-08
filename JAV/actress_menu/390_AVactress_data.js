@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOR-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-044"
     },
     {
       "id": 62577,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-388"
     },
     {
       "id": 61941,
@@ -81,7 +81,7 @@ window.actressData = {
         "三池小春",
         "由爱可奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-027"
     },
     {
       "id": 4435,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-084"
     },
     {
       "id": 62438,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-386"
     },
     {
       "id": 4916,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DFE-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-101"
     },
     {
       "id": 4878,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPL-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPL-055"
     },
     {
       "id": 5145,
@@ -162,7 +162,7 @@ window.actressData = {
         "三池小春",
         "ししお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-972"
     },
     {
       "id": 62942,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-649"
     },
     {
       "id": 5312,
@@ -195,7 +195,7 @@ window.actressData = {
         "三池小春",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-015"
     },
     {
       "id": 6122,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-486"
     },
     {
       "id": 8348,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-500"
     },
     {
       "id": 9818,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "三池小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-493"
     }
   ]
 };

@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "今井美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-328"
     },
     {
       "id": 3608,
@@ -74,7 +74,7 @@ window.actressData = {
         "今井美優",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-291"
     },
     {
       "id": 4509,
@@ -91,7 +91,7 @@ window.actressData = {
         "今井美優",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-207"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-207"
     },
     {
       "id": 5358,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "今井美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-172"
     },
     {
       "id": 6921,
@@ -124,7 +124,7 @@ window.actressData = {
         "今井美優",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-077"
     }
   ]
 };

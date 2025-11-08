@@ -93,7 +93,7 @@ window.actressData = {
         "安倍亜沙美",
         "响りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
       "id": 93747,
@@ -112,7 +112,7 @@ window.actressData = {
         "岡江みどり",
         "后藤さなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-018"
     },
     {
       "id": 91181,
@@ -129,7 +129,7 @@ window.actressData = {
         "西山あさひ",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-560"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-560"
     },
     {
       "id": 81832,
@@ -153,7 +153,7 @@ window.actressData = {
         "结白まさき",
         "高司奏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
     },
     {
       "id": 83692,
@@ -172,7 +172,7 @@ window.actressData = {
         "森下美绪",
         "とみの伊织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-247"
     },
     {
       "id": 69448,
@@ -188,7 +188,7 @@ window.actressData = {
       "actress": [
         "西山あさひ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SY-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-213"
     }
   ]
 };

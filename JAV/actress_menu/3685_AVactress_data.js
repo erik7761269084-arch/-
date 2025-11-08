@@ -34,7 +34,7 @@ window.actressData = {
         "有馬美玖",
         "瀬奈ルミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-387"
     }
   ]
 };

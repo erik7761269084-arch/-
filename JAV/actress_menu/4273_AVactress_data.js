@@ -34,7 +34,7 @@ window.actressData = {
         "大志",
         "木本美織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-044"
     }
   ]
 };

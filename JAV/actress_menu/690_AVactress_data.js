@@ -58,7 +58,7 @@ window.actressData = {
         "成宮彩葉",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMSK-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMSK-027"
     },
     {
       "id": 7999,
@@ -82,7 +82,7 @@ window.actressData = {
         "成宫いろは",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-363"
     },
     {
       "id": 9178,
@@ -100,7 +100,7 @@ window.actressData = {
         "成宫いろは",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-409"
     },
     {
       "id": 13084,
@@ -120,7 +120,7 @@ window.actressData = {
         "花芽有朱",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-051"
     }
   ]
 };

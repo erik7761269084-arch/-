@@ -35,7 +35,7 @@ window.actressData = {
         "叶月もえ",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-147"
     },
     {
       "id": 82190,
@@ -58,7 +58,7 @@ window.actressData = {
         "西仓まより",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-616"
     },
     {
       "id": 77768,
@@ -77,7 +77,7 @@ window.actressData = {
         "山本莲加",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-522"
     },
     {
       "id": 79117,
@@ -96,7 +96,7 @@ window.actressData = {
         "神无月れな",
         "初音ろな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-093"
     },
     {
       "id": 79105,
@@ -115,7 +115,7 @@ window.actressData = {
         "もなみ铃",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-094"
     }
   ]
 };

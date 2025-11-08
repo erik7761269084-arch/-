@@ -34,7 +34,7 @@ window.actressData = {
         "七瀬もな",
         "咲乃にいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-065"
     },
     {
       "id": 101596,
@@ -51,7 +51,7 @@ window.actressData = {
         "大岛丈",
         "咲乃にいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1353"
     }
   ]
 };

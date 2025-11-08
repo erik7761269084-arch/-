@@ -35,7 +35,7 @@ window.actressData = {
         "イセドン内村",
         "山本铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WA-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-393"
     },
     {
       "id": 88434,
@@ -55,7 +55,7 @@ window.actressData = {
         "三岛奈津子",
         "山本铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-052"
     },
     {
       "id": 72430,
@@ -73,7 +73,7 @@ window.actressData = {
         "山本铃",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AFS-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-034"
     }
   ]
 };

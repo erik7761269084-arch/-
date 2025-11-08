@@ -33,7 +33,7 @@ window.actressData = {
         "椎名七海",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-019"
     },
     {
       "id": 7743,
@@ -50,7 +50,7 @@ window.actressData = {
         "金松季歩",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-632"
     },
     {
       "id": 7739,
@@ -68,7 +68,7 @@ window.actressData = {
         "星宫一花",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-030"
     },
     {
       "id": 8866,
@@ -85,7 +85,7 @@ window.actressData = {
         "篠原伊代",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-016"
     },
     {
       "id": 9436,
@@ -102,7 +102,7 @@ window.actressData = {
         "輝星綺羅",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-960"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-960"
     },
     {
       "id": 9760,
@@ -119,7 +119,7 @@ window.actressData = {
         "小島南",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-001"
     },
     {
       "id": 9910,
@@ -136,7 +136,7 @@ window.actressData = {
         "佐久間れみ",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-959"
     },
     {
       "id": 11210,
@@ -153,7 +153,7 @@ window.actressData = {
         "香水純",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-625"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-625"
     },
     {
       "id": 13916,
@@ -171,7 +171,7 @@ window.actressData = {
         "小田切ジュン",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-012"
     },
     {
       "id": 15572,
@@ -189,7 +189,7 @@ window.actressData = {
         "まーち",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-636"
     },
     {
       "id": 91802,
@@ -206,7 +206,7 @@ window.actressData = {
         "竹田夢",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-567"
     },
     {
       "id": 16105,
@@ -223,7 +223,7 @@ window.actressData = {
         "浜辺栞帆",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-557"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-557"
     },
     {
       "id": 16485,
@@ -240,7 +240,7 @@ window.actressData = {
         "一色さら",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-601"
     },
     {
       "id": 17023,
@@ -257,7 +257,7 @@ window.actressData = {
         "黑奈露西亞",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-463"
     },
     {
       "id": 103458,
@@ -274,7 +274,7 @@ window.actressData = {
         "天川空",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-515"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-515"
     },
     {
       "id": 104299,
@@ -291,7 +291,7 @@ window.actressData = {
         "知花しおん",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-572"
     },
     {
       "id": 107330,
@@ -308,7 +308,7 @@ window.actressData = {
         "ハメ鳥の人",
         "皆瀬あみか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-437"
     },
     {
       "id": 107494,
@@ -325,7 +325,7 @@ window.actressData = {
         "ハメ鳥の人",
         "天美しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-245"
     },
     {
       "id": 92302,
@@ -343,7 +343,7 @@ window.actressData = {
         "小田切ジュン",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-396"
     },
     {
       "id": 104444,
@@ -360,7 +360,7 @@ window.actressData = {
         "輝大",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-837"
     },
     {
       "id": 77605,
@@ -378,7 +378,7 @@ window.actressData = {
         "弥生美月",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-365"
     },
     {
       "id": 106996,
@@ -396,7 +396,7 @@ window.actressData = {
         "イセドン内村",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-442"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-442"
     },
     {
       "id": 97302,
@@ -413,7 +413,7 @@ window.actressData = {
         "神木蘭",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-510"
     },
     {
       "id": 87017,
@@ -430,7 +430,7 @@ window.actressData = {
         "北山憂",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-216"
     },
     {
       "id": 17836,
@@ -447,7 +447,7 @@ window.actressData = {
         "古川穗花",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-892"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-892"
     }
   ]
 };

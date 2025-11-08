@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "天宮鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-251"
     },
     {
       "id": 4500,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "天宮鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-249"
     },
     {
       "id": 5337,
@@ -89,7 +89,7 @@ window.actressData = {
         "天宮鈴",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-240"
     }
   ]
 };

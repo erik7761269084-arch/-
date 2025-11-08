@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "千乃杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BTH-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTH-020"
     },
     {
       "id": 76891,
@@ -65,7 +65,7 @@ window.actressData = {
         "枢木美栞",
         "浅仓あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-112"
     },
     {
       "id": 107459,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "千乃杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-841"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-841"
     },
     {
       "id": 67682,
@@ -98,7 +98,7 @@ window.actressData = {
         "蓝井优太",
         "千乃杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTYD-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTYD-001"
     }
   ]
 };

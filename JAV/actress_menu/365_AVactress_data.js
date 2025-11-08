@@ -65,7 +65,7 @@ window.actressData = {
         "白上咲花",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-860"
     },
     {
       "id": 3418,
@@ -82,7 +82,7 @@ window.actressData = {
         "白上咲花",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-822"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-822"
     },
     {
       "id": 4318,
@@ -109,7 +109,7 @@ window.actressData = {
         "乃坂日和",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
     },
     {
       "id": 4292,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "白上咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-770"
     },
     {
       "id": 5204,
@@ -142,7 +142,7 @@ window.actressData = {
         "渚愛梨",
         "白上咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-768"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-768"
     },
     {
       "id": 5931,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "白上咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-732"
     },
     {
       "id": 6796,
@@ -175,7 +175,7 @@ window.actressData = {
         "白上咲花",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-695"
     },
     {
       "id": 7362,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "白上咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-652"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-652"
     },
     {
       "id": 7751,
@@ -219,7 +219,7 @@ window.actressData = {
         "ラヴズ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
     },
     {
       "id": 8100,
@@ -235,7 +235,7 @@ window.actressData = {
       "actress": [
         "白上咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-604"
     },
     {
       "id": 8887,
@@ -252,7 +252,7 @@ window.actressData = {
         "白上咲花",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-553"
     },
     {
       "id": 9741,
@@ -269,7 +269,7 @@ window.actressData = {
         "白上咲花",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-511"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-511"
     },
     {
       "id": 10481,
@@ -286,7 +286,7 @@ window.actressData = {
         "白上咲花",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-467"
     },
     {
       "id": 13243,
@@ -302,7 +302,7 @@ window.actressData = {
       "actress": [
         "白上咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-280"
     },
     {
       "id": 13808,
@@ -319,7 +319,7 @@ window.actressData = {
         "白上咲花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-240"
     },
     {
       "id": 14503,
@@ -336,7 +336,7 @@ window.actressData = {
         "白上咲花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-219"
     }
   ]
 };

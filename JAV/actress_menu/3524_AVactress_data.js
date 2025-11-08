@@ -41,7 +41,7 @@ window.actressData = {
         "田中奈奈實",
         "永泽ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-597"
     },
     {
       "id": 80859,
@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "永泽ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCP-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCP-078"
     },
     {
       "id": 87471,
@@ -75,7 +75,7 @@ window.actressData = {
         "如月夏希",
         "永泽ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-755"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-755"
     },
     {
       "id": 69620,
@@ -92,7 +92,7 @@ window.actressData = {
         "岩下たろう",
         "永泽ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-444"
     },
     {
       "id": 86795,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "永泽ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-155"
     }
   ]
 };

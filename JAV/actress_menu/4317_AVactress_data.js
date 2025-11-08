@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "ハドイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-648"
     },
     {
       "id": 78586,
@@ -50,7 +50,7 @@ window.actressData = {
         "柊かな",
         "ハドイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-547"
     },
     {
       "id": 10775,
@@ -69,7 +69,7 @@ window.actressData = {
         "ハドイ",
         "ハイド"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-489"
     }
   ]
 };

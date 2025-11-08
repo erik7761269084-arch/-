@@ -33,7 +33,7 @@ window.actressData = {
         "森川凉花",
         "谷花纱耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-021"
     },
     {
       "id": 81398,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "谷花纱耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-432"
     },
     {
       "id": 78958,
@@ -66,7 +66,7 @@ window.actressData = {
         "しみけん",
         "谷花纱耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-073"
     }
   ]
 };

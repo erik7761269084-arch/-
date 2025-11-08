@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "仁藤沙耶香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-431"
     },
     {
       "id": 4256,
@@ -79,7 +79,7 @@ window.actressData = {
         "仁藤沙耶香",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-417"
     },
     {
       "id": 5123,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "仁藤沙耶香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-410"
     },
     {
       "id": 6976,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "仁藤沙耶香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-397"
     },
     {
       "id": 6419,
@@ -128,7 +128,7 @@ window.actressData = {
         "仁藤沙耶香",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-404"
     },
     {
       "id": 8436,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "仁藤沙耶香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-579"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-579"
     },
     {
       "id": 9264,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "仁藤沙耶香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-530"
     },
     {
       "id": 10089,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "仁藤沙耶香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-484"
     },
     {
       "id": 13575,
@@ -193,7 +193,7 @@ window.actressData = {
         "仁藤沙耶香",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-297"
     },
     {
       "id": 16919,
@@ -210,7 +210,7 @@ window.actressData = {
         "仁藤沙耶香",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-022"
     },
     {
       "id": 17374,
@@ -227,7 +227,7 @@ window.actressData = {
         "仁藤沙耶香",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-979"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-979"
     },
     {
       "id": 17916,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "仁藤沙耶香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-966"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-966"
     },
     {
       "id": 18438,
@@ -260,7 +260,7 @@ window.actressData = {
         "仁藤沙耶香",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-965"
     }
   ]
 };

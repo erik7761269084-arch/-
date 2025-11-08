@@ -51,7 +51,7 @@ window.actressData = {
         "凉川绚音",
         "なつめ爱梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-155"
     },
     {
       "id": 1792,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "酒井桃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-140"
     },
     {
       "id": 1971,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "酒井桃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-131"
     }
   ]
 };

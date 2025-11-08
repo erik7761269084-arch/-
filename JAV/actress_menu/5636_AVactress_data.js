@@ -38,7 +38,7 @@ window.actressData = {
         "星名千聖",
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDC-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDC-034"
     },
     {
       "id": 90113,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-174"
     },
     {
       "id": 90099,
@@ -71,7 +71,7 @@ window.actressData = {
         "辰神丽子",
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-170"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "滝本エレナ",
         "三ツ星りぼん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-729"
     }
   ]
 };

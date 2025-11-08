@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "香水純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-733"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-733"
     },
     {
       "id": 3577,
@@ -85,7 +85,7 @@ window.actressData = {
         "香水純",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-723"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-723"
     },
     {
       "id": 4515,
@@ -112,7 +112,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-182"
     },
     {
       "id": 4498,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "香水純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-720"
     },
     {
       "id": 5300,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "香水純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-711"
     },
     {
       "id": 7392,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "香水純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-690"
     },
     {
       "id": 8048,
@@ -178,7 +178,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-663"
     },
     {
       "id": 8871,
@@ -195,7 +195,7 @@ window.actressData = {
         "松本一香",
         "香水純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-080"
     },
     {
       "id": 10404,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "香水純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-637"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-637"
     },
     {
       "id": 11210,
@@ -228,7 +228,7 @@ window.actressData = {
         "香水純",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-625"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-625"
     },
     {
       "id": 16675,
@@ -245,7 +245,7 @@ window.actressData = {
         "香水純",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-029"
     },
     {
       "id": 17668,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "香水純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-953"
     }
   ]
 };

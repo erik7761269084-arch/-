@@ -47,7 +47,7 @@ window.actressData = {
         "中野七緒",
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-596"
     }
   ]
 };

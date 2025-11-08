@@ -56,7 +56,7 @@ window.actressData = {
         "及川莉央",
         "藤田さち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
     },
     {
       "id": 3855,
@@ -85,7 +85,7 @@ window.actressData = {
         "安倍亜沙美",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IMO-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-033"
     },
     {
       "id": 12567,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "木村好乃美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-246"
     },
     {
       "id": 94298,
@@ -120,7 +120,7 @@ window.actressData = {
         "木村好乃美",
         "森本あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKMJ-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-535"
     },
     {
       "id": 16800,
@@ -137,7 +137,7 @@ window.actressData = {
         "木村好乃美",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-600"
     },
     {
       "id": 18328,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "木村好乃美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-510"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
         "松丸香澄",
         "御影れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GEBB-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-023"
     },
     {
       "id": 4590,
@@ -73,7 +73,7 @@ window.actressData = {
         "櫻木繪里香",
         "涼宮るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-369"
     },
     {
       "id": 5611,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-600"
     },
     {
       "id": 63978,
@@ -109,7 +109,7 @@ window.actressData = {
         "川越ゆい",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-148"
     },
     {
       "id": 6597,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-203"
     },
     {
       "id": 6955,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-370"
     },
     {
       "id": 70057,
@@ -158,7 +158,7 @@ window.actressData = {
         "松丸香澄",
         "片寄しゅうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-142"
     },
     {
       "id": 70965,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKL-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKL-007"
     },
     {
       "id": 70791,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-138"
     },
     {
       "id": 71966,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-134"
     },
     {
       "id": 9693,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLOR-258"
     },
     {
       "id": 12714,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-277"
     },
     {
       "id": 13035,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "松丸香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-270"
     }
   ]
 };

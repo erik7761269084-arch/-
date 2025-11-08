@@ -68,7 +68,7 @@ window.actressData = {
         "雪奈真冬",
         "木之内奈々葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
     },
     {
       "id": 68232,
@@ -85,7 +85,7 @@ window.actressData = {
         "美泉咲",
         "雪奈真冬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-032"
     },
     {
       "id": 87429,
@@ -104,7 +104,7 @@ window.actressData = {
         "佐々木咲和",
         "雪奈真冬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-567"
     },
     {
       "id": 80404,
@@ -123,7 +123,7 @@ window.actressData = {
         "若宫はずき",
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-156"
     },
     {
       "id": 73612,
@@ -147,7 +147,7 @@ window.actressData = {
         "椎叶みくる",
         "咲良ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-188"
     }
   ]
 };

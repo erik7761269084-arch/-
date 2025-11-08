@@ -46,7 +46,7 @@ window.actressData = {
         "高坂あいり",
         "叶野ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-108"
     },
     {
       "id": 83801,
@@ -64,7 +64,7 @@ window.actressData = {
         "稻场流花",
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-066"
     },
     {
       "id": 83496,
@@ -83,7 +83,7 @@ window.actressData = {
         "原花音",
         "柚奈れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-209"
     },
     {
       "id": 76853,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "世良あさか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-194"
     },
     {
       "id": 76855,
@@ -116,7 +116,7 @@ window.actressData = {
         "世良あさか",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-186"
     }
   ]
 };

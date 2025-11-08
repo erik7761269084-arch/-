@@ -40,7 +40,7 @@ window.actressData = {
         "饭山香织",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-418"
     },
     {
       "id": 95288,
@@ -61,7 +61,7 @@ window.actressData = {
         "吉瀬菜々子",
         "黒泽雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-331"
     },
     {
       "id": 93127,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "饭山香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-355"
     },
     {
       "id": 81455,
@@ -96,7 +96,7 @@ window.actressData = {
         "饭山香织",
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-216"
     },
     {
       "id": 70101,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "饭山香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-030"
     },
     {
       "id": 74077,
@@ -129,7 +129,7 @@ window.actressData = {
         "玉木玲",
         "饭山香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-923"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-923"
     },
     {
       "id": 73734,
@@ -146,7 +146,7 @@ window.actressData = {
         "しみけん",
         "饭山香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-891"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-891"
     }
   ]
 };

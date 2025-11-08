@@ -58,7 +58,7 @@ window.actressData = {
         "MIRANO",
         "双叶ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-632"
     },
     {
       "id": 71395,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "長谷川夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-402"
     },
     {
       "id": 1949,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "長谷川夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-155"
     }
   ]
 };

@@ -46,7 +46,7 @@ window.actressData = {
         "森澤理紗",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-335"
     },
     {
       "id": 19135,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "森澤理紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-319"
     }
   ]
 };

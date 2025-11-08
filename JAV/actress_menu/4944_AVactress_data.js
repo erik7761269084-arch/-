@@ -35,7 +35,7 @@ window.actressData = {
         "早乙女みなき",
         "芹沢レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-010"
     }
   ]
 };

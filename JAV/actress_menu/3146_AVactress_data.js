@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-560"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-560"
     },
     {
       "id": 17487,
@@ -50,7 +50,7 @@ window.actressData = {
         "二宮光",
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-510"
     },
     {
       "id": 106881,
@@ -67,7 +67,7 @@ window.actressData = {
         "田渊正浩",
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-473"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-473"
     },
     {
       "id": 89869,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-058"
     },
     {
       "id": 73108,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-002"
     },
     {
       "id": 67120,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-437"
     },
     {
       "id": 68131,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-536"
     },
     {
       "id": 67958,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-422"
     },
     {
       "id": 67255,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-526"
     },
     {
       "id": 66854,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-519"
     },
     {
       "id": 106582,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-394"
     },
     {
       "id": 86010,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-043"
     },
     {
       "id": 59967,
@@ -228,7 +228,7 @@ window.actressData = {
         "イセドン内村",
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-382"
     },
     {
       "id": 80622,
@@ -244,7 +244,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-986"
     },
     {
       "id": 85210,
@@ -260,7 +260,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-722"
     },
     {
       "id": 80237,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-977"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-977"
     },
     {
       "id": 106804,
@@ -293,7 +293,7 @@ window.actressData = {
         "二宫ひかり",
         "川上奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-166"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-166"
     },
     {
       "id": 106896,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-019"
     },
     {
       "id": 106042,
@@ -326,7 +326,7 @@ window.actressData = {
         "南佳也",
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-272"
     },
     {
       "id": 87540,
@@ -342,7 +342,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-252"
     },
     {
       "id": 82000,
@@ -358,7 +358,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-898"
     },
     {
       "id": 94891,
@@ -374,7 +374,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-403"
     },
     {
       "id": 97979,
@@ -391,7 +391,7 @@ window.actressData = {
         "田渊正浩",
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-400"
     },
     {
       "id": 77239,
@@ -407,7 +407,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-886"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-886"
     },
     {
       "id": 102810,
@@ -423,7 +423,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-388"
     },
     {
       "id": 106348,
@@ -439,7 +439,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-874"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-874"
     },
     {
       "id": 74888,
@@ -455,7 +455,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-357"
     },
     {
       "id": 74061,
@@ -472,7 +472,7 @@ window.actressData = {
         "田渊正浩",
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-933"
     },
     {
       "id": 74053,
@@ -488,7 +488,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-858"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-858"
     },
     {
       "id": 88409,
@@ -504,7 +504,7 @@ window.actressData = {
       "actress": [
         "二宫ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-590"
     }
   ]
 };

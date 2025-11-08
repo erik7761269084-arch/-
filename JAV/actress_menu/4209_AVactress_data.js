@@ -40,7 +40,7 @@ window.actressData = {
         "篠宫千明",
         "眞ゆみ恵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-431"
     },
     {
       "id": 83684,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "天海しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JMDS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMDS-002"
     },
     {
       "id": 75440,
@@ -75,7 +75,7 @@ window.actressData = {
         "服部尚美",
         "莲田いく美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYAJ-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYAJ-198"
     },
     {
       "id": 95043,
@@ -92,7 +92,7 @@ window.actressData = {
         "天海しおり",
         "今泉花菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-010"
     },
     {
       "id": 71862,
@@ -109,7 +109,7 @@ window.actressData = {
         "世罗百合花",
         "天海しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-444"
     }
   ]
 };

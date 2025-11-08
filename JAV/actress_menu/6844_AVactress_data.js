@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "青山このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-139"
     }
   ]
 };

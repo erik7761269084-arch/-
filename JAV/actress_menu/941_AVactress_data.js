@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "廣瀨雛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-926"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-926"
     },
     {
       "id": 17813,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "廣瀨雛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-909"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-909"
     },
     {
       "id": 17956,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "廣瀨雛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-877"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-877"
     }
   ]
 };

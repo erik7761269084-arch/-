@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-426"
     },
     {
       "id": 3363,
@@ -75,7 +75,7 @@ window.actressData = {
         "水户香奈",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-398"
     },
     {
       "id": 4316,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-357"
     },
     {
       "id": 5174,
@@ -109,7 +109,7 @@ window.actressData = {
         "左慈半造",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-316"
     },
     {
       "id": 6781,
@@ -126,7 +126,7 @@ window.actressData = {
         "水户香奈",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-239"
     },
     {
       "id": 7397,
@@ -144,7 +144,7 @@ window.actressData = {
         "水户香奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-208"
     },
     {
       "id": 8104,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-151"
     },
     {
       "id": 8867,
@@ -178,7 +178,7 @@ window.actressData = {
         "アリト",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-056"
     },
     {
       "id": 9745,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-979"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-979"
     },
     {
       "id": 10402,
@@ -211,7 +211,7 @@ window.actressData = {
         "水户香奈",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-913"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-913"
     },
     {
       "id": 91791,
@@ -228,7 +228,7 @@ window.actressData = {
         "水户香奈",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-549"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-549"
     },
     {
       "id": 17100,
@@ -245,7 +245,7 @@ window.actressData = {
         "水户香奈",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-453"
     },
     {
       "id": 92062,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDON-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-042"
     },
     {
       "id": 17621,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-417"
     },
     {
       "id": 18224,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-388"
     },
     {
       "id": 90367,
@@ -317,7 +317,7 @@ window.actressData = {
         "新井爱丽",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PBD-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-451"
     },
     {
       "id": 90996,
@@ -334,7 +334,7 @@ window.actressData = {
         "水户香奈",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-392"
     },
     {
       "id": 107557,
@@ -350,7 +350,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-290"
     },
     {
       "id": 90945,
@@ -366,7 +366,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-256"
     },
     {
       "id": 77596,
@@ -382,7 +382,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-214"
     },
     {
       "id": 100502,
@@ -398,7 +398,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-210"
     },
     {
       "id": 100499,
@@ -414,7 +414,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-192"
     },
     {
       "id": 85070,
@@ -430,7 +430,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-985"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-985"
     },
     {
       "id": 85056,
@@ -446,7 +446,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-051"
     },
     {
       "id": 73942,
@@ -462,7 +462,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-019"
     },
     {
       "id": 84941,
@@ -478,7 +478,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-955"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-955"
     },
     {
       "id": 84949,
@@ -494,7 +494,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-918"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-918"
     },
     {
       "id": 80440,
@@ -510,7 +510,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-902"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-902"
     },
     {
       "id": 80706,
@@ -526,7 +526,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-860"
     },
     {
       "id": 100410,
@@ -542,7 +542,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-825"
     },
     {
       "id": 80484,
@@ -559,7 +559,7 @@ window.actressData = {
         "水户香奈",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-795"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-795"
     },
     {
       "id": 79870,
@@ -575,7 +575,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-731"
     },
     {
       "id": 100593,
@@ -591,7 +591,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-633"
     },
     {
       "id": 100486,
@@ -607,7 +607,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-428"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-428"
     },
     {
       "id": 70833,
@@ -623,7 +623,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-393"
     },
     {
       "id": 103442,
@@ -639,7 +639,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-331"
     },
     {
       "id": 107246,
@@ -656,7 +656,7 @@ window.actressData = {
         "水户香奈",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-275"
     },
     {
       "id": 88388,
@@ -673,7 +673,7 @@ window.actressData = {
         "水户香奈",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-244"
     },
     {
       "id": 100485,
@@ -689,7 +689,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-212"
     },
     {
       "id": 88395,
@@ -706,7 +706,7 @@ window.actressData = {
         "山岸逢花",
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-179"
     },
     {
       "id": 81959,
@@ -723,7 +723,7 @@ window.actressData = {
         "山岸逢花",
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-226"
     },
     {
       "id": 75170,
@@ -739,7 +739,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-158"
     },
     {
       "id": 95007,
@@ -755,7 +755,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-094"
     },
     {
       "id": 75729,
@@ -771,7 +771,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-025"
     },
     {
       "id": 107645,
@@ -787,7 +787,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-223"
     },
     {
       "id": 82780,
@@ -803,7 +803,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-947"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-947"
     },
     {
       "id": 74232,
@@ -819,7 +819,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-914"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-914"
     },
     {
       "id": 74530,
@@ -835,7 +835,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-881"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-881"
     },
     {
       "id": 88524,
@@ -852,7 +852,7 @@ window.actressData = {
         "水户香奈",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-856"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-856"
     },
     {
       "id": 100529,
@@ -868,7 +868,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-823"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-823"
     },
     {
       "id": 77953,
@@ -885,7 +885,7 @@ window.actressData = {
         "水户香奈",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-732"
     },
     {
       "id": 106034,
@@ -910,7 +910,7 @@ window.actressData = {
         "三浦恵理子",
         "吉瀬菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-703"
     },
     {
       "id": 100586,
@@ -927,7 +927,7 @@ window.actressData = {
         "水户香奈",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-466"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-466"
     },
     {
       "id": 97933,
@@ -943,7 +943,7 @@ window.actressData = {
       "actress": [
         "水户香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-410"
     }
   ]
 };

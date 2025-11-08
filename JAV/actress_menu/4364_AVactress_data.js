@@ -49,7 +49,7 @@ window.actressData = {
         "咲坂花恋",
         "茉莉ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-601"
     },
     {
       "id": 88156,
@@ -69,7 +69,7 @@ window.actressData = {
         "佐佐波绫",
         "波木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-165"
     },
     {
       "id": 73311,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "波木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-426"
     },
     {
       "id": 77888,
@@ -102,7 +102,7 @@ window.actressData = {
         "玉木玲",
         "波木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-309"
     }
   ]
 };

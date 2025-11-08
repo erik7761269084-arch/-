@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "鞠るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HERY-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-161"
     },
     {
       "id": 61757,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "鞠るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOTK-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTK-011"
     },
     {
       "id": 62910,
@@ -66,7 +66,7 @@ window.actressData = {
         "青山ネル",
         "优希まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ASIA-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASIA-119"
     },
     {
       "id": 72227,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "鞠るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FEM-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-002"
     },
     {
       "id": 93719,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "鞠るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-169"
     }
   ]
 };

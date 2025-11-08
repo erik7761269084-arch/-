@@ -33,7 +33,7 @@ window.actressData = {
         "凉南佳奈",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-523"
     },
     {
       "id": 79655,
@@ -53,7 +53,7 @@ window.actressData = {
         "佐伯由美香",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNBL-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-062"
     },
     {
       "id": 88342,
@@ -75,7 +75,7 @@ window.actressData = {
         "桃香りり",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNBL-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-038"
     },
     {
       "id": 72433,
@@ -95,7 +95,7 @@ window.actressData = {
         "凉南佳奈",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TYD-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-003"
     },
     {
       "id": 88133,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-986"
     },
     {
       "id": 88363,
@@ -130,7 +130,7 @@ window.actressData = {
         "相泽ゆりな",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNBL-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-016"
     }
   ]
 };

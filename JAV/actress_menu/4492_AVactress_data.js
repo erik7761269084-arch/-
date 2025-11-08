@@ -34,7 +34,7 @@ window.actressData = {
         "浜辺香奈子",
         "水瀬彩加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-027"
     }
   ]
 };

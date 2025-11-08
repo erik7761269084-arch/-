@@ -51,7 +51,7 @@ window.actressData = {
         "広瀬みつき",
         "月乃櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-321"
     },
     {
       "id": 84456,
@@ -77,7 +77,7 @@ window.actressData = {
         "有坂真宵",
         "生田みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCDSS-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCDSS-024"
     },
     {
       "id": 81342,
@@ -103,7 +103,7 @@ window.actressData = {
         "结まきな",
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-054"
     },
     {
       "id": 79602,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "月乃櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-195"
     },
     {
       "id": 73383,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "月乃櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-020"
     },
     {
       "id": 88034,
@@ -152,7 +152,7 @@ window.actressData = {
         "月乃櫻",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-928"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-928"
     }
   ]
 };

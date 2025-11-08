@@ -58,7 +58,7 @@ window.actressData = {
         "羽咲美亜",
         "樱美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-367"
     },
     {
       "id": 13751,
@@ -83,7 +83,7 @@ window.actressData = {
         "宮園さゆり",
         "伊東かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-174"
     }
   ]
 };

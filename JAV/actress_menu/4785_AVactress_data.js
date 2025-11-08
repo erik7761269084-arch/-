@@ -36,7 +36,7 @@ window.actressData = {
         "一ノ瀬あやめ",
         "南原香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCP-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCP-002"
     }
   ]
 };

@@ -54,7 +54,7 @@ window.actressData = {
         "相河沙季",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-397"
     },
     {
       "id": 61706,
@@ -71,7 +71,7 @@ window.actressData = {
         "相河沙季",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-391"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-391"
     },
     {
       "id": 4721,
@@ -90,7 +90,7 @@ window.actressData = {
         "羽田貴史",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-386"
     },
     {
       "id": 62407,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-198"
     },
     {
       "id": 70109,
@@ -123,7 +123,7 @@ window.actressData = {
         "吹石玲奈",
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-194"
     },
     {
       "id": 67084,
@@ -141,7 +141,7 @@ window.actressData = {
         "相河沙季",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-061"
     },
     {
       "id": 8900,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-130"
     },
     {
       "id": 75011,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-058"
     },
     {
       "id": 72609,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KEED-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-085"
     },
     {
       "id": 105843,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHERD-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-092"
     },
     {
       "id": 91146,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-213"
     },
     {
       "id": 90866,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-118"
     },
     {
       "id": 106800,
@@ -253,7 +253,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IQQQ-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IQQQ-042"
     },
     {
       "id": 107306,
@@ -269,7 +269,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-072"
     },
     {
       "id": 107634,
@@ -285,7 +285,7 @@ window.actressData = {
       "actress": [
         "相河沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-068"
     }
   ]
 };

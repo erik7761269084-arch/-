@@ -71,7 +71,7 @@ window.actressData = {
         "月野優里亞",
         "纱东みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAPL-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAPL-026"
     },
     {
       "id": 70585,
@@ -90,7 +90,7 @@ window.actressData = {
         "月野優里亞",
         "花笑一杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-539"
     }
   ]
 };

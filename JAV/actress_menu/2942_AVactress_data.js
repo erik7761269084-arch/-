@@ -38,7 +38,7 @@ window.actressData = {
         "仓木诗织",
         "优木なお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-276"
     }
   ]
 };

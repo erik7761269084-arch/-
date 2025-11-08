@@ -50,7 +50,7 @@ window.actressData = {
         "美织舞",
         "はないしずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMER-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-030"
     },
     {
       "id": 72516,
@@ -69,7 +69,7 @@ window.actressData = {
         "水菜丽",
         "桐岛绫子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCT-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-684"
     },
     {
       "id": 1983,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "美织舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-04"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-04"
     }
   ]
 };

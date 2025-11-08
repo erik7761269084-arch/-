@@ -35,7 +35,7 @@ window.actressData = {
         "中岛あいり",
         "川村典子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-089"
     }
   ]
 };

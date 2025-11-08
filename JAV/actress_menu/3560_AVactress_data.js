@@ -33,7 +33,7 @@ window.actressData = {
         "凪光",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-702"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-702"
     },
     {
       "id": 6602,
@@ -63,7 +63,7 @@ window.actressData = {
         "乙白さやか",
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
     },
     {
       "id": 7053,
@@ -81,7 +81,7 @@ window.actressData = {
         "ダンディ",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-666"
     },
     {
       "id": 7733,
@@ -98,7 +98,7 @@ window.actressData = {
         "凪光",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-620"
     },
     {
       "id": 8464,
@@ -116,7 +116,7 @@ window.actressData = {
         "ハカー",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-574"
     },
     {
       "id": 9245,
@@ -133,7 +133,7 @@ window.actressData = {
         "凪光",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-525"
     },
     {
       "id": 10160,
@@ -150,7 +150,7 @@ window.actressData = {
         "凪光",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-479"
     },
     {
       "id": 10752,
@@ -168,7 +168,7 @@ window.actressData = {
         "鲛岛",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-436"
     },
     {
       "id": 14139,
@@ -185,7 +185,7 @@ window.actressData = {
         "凪光",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-081"
     },
     {
       "id": 17352,
@@ -204,7 +204,7 @@ window.actressData = {
         "イセドン内村",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-927"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-927"
     },
     {
       "id": 17663,
@@ -223,7 +223,7 @@ window.actressData = {
         "笕纯",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-950"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-950"
     },
     {
       "id": 18430,
@@ -240,7 +240,7 @@ window.actressData = {
         "凪光",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-870"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-870"
     },
     {
       "id": 18766,
@@ -258,7 +258,7 @@ window.actressData = {
         "まーち",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-858"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-858"
     },
     {
       "id": 107480,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-817"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-817"
     },
     {
       "id": 73395,
@@ -290,7 +290,7 @@ window.actressData = {
       "actress": [
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-668"
     },
     {
       "id": 106606,
@@ -308,7 +308,7 @@ window.actressData = {
         "イセドン内村",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-641"
     },
     {
       "id": 86365,
@@ -325,7 +325,7 @@ window.actressData = {
         "有栖花绯",
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-547"
     },
     {
       "id": 86350,
@@ -342,7 +342,7 @@ window.actressData = {
         "タイ",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-484"
     },
     {
       "id": 68742,
@@ -358,7 +358,7 @@ window.actressData = {
       "actress": [
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-455"
     },
     {
       "id": 86289,
@@ -374,7 +374,7 @@ window.actressData = {
       "actress": [
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-398"
     },
     {
       "id": 86318,
@@ -390,7 +390,7 @@ window.actressData = {
       "actress": [
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-372"
     },
     {
       "id": 80701,
@@ -407,7 +407,7 @@ window.actressData = {
         "蓝井优太",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-319"
     },
     {
       "id": 86306,
@@ -423,7 +423,7 @@ window.actressData = {
       "actress": [
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-294"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-294"
     },
     {
       "id": 80533,
@@ -439,7 +439,7 @@ window.actressData = {
       "actress": [
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-264"
     },
     {
       "id": 79221,
@@ -457,7 +457,7 @@ window.actressData = {
         "南佳也",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-111"
     },
     {
       "id": 88162,
@@ -480,7 +480,7 @@ window.actressData = {
         "有栖花绯",
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-304"
     },
     {
       "id": 73452,
@@ -498,7 +498,7 @@ window.actressData = {
         "イセドン内村",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-961"
     },
     {
       "id": 70128,
@@ -515,7 +515,7 @@ window.actressData = {
         "鲛岛",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-937"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-937"
     },
     {
       "id": 79019,
@@ -531,7 +531,7 @@ window.actressData = {
       "actress": [
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-175"
     }
   ]
 };

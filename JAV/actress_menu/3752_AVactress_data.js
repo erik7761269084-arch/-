@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "井上爱唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-241"
     },
     {
       "id": 67748,
@@ -50,7 +50,7 @@ window.actressData = {
         "玉木玲",
         "井上爱唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-679"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-679"
     }
   ]
 };

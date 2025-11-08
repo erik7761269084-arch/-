@@ -48,7 +48,7 @@ window.actressData = {
         "Himari",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-259"
     },
     {
       "id": 5003,
@@ -66,7 +66,7 @@ window.actressData = {
         "東雲はる",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-231"
     },
     {
       "id": 5381,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "Himari"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-194"
     },
     {
       "id": 5724,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "Himari"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-211"
     },
     {
       "id": 6920,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "Himari"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-119"
     },
     {
       "id": 7230,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "Himari"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-207"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-207"
     },
     {
       "id": 7554,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "Himari"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-082"
     },
     {
       "id": 8246,
@@ -164,7 +164,7 @@ window.actressData = {
         "ラリアット黒川",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-043"
     },
     {
       "id": 9069,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "Himari"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-964"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-964"
     },
     {
       "id": 10618,
@@ -197,7 +197,7 @@ window.actressData = {
         "Himari",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-889"
     },
     {
       "id": 93877,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "Himari"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-190"
     }
   ]
 };

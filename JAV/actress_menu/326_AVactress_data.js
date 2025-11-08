@@ -55,7 +55,7 @@ window.actressData = {
         "吉泽友贵",
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNTD-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTD-001"
     },
     {
       "id": 4470,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-098"
     },
     {
       "id": 5227,
@@ -89,7 +89,7 @@ window.actressData = {
         "斉藤帆夏",
         "夢川ほの香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-013"
     },
     {
       "id": 5648,
@@ -111,7 +111,7 @@ window.actressData = {
         "雙葉麗奈",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
     },
     {
       "id": 9146,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-247"
     },
     {
       "id": 10028,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-238"
     },
     {
       "id": 10676,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-222"
     },
     {
       "id": 12890,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-049"
     },
     {
       "id": 13619,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-131"
     },
     {
       "id": 14215,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-113"
     },
     {
       "id": 14946,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-083"
     },
     {
       "id": 15678,
@@ -239,7 +239,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-069"
     },
     {
       "id": 16189,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-018"
     },
     {
       "id": 16614,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-003"
     },
     {
       "id": 17414,
@@ -287,7 +287,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-982"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-982"
     },
     {
       "id": 17825,
@@ -303,7 +303,7 @@ window.actressData = {
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-961"
     },
     {
       "id": 18359,
@@ -320,7 +320,7 @@ window.actressData = {
         "斉藤帆夏",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-945"
     }
   ]
 };

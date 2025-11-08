@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-209"
     },
     {
       "id": 66773,
@@ -49,7 +49,7 @@ window.actressData = {
         "森林原人",
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-644"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-644"
     },
     {
       "id": 87963,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCP-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCP-126"
     },
     {
       "id": 90091,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-058"
     },
     {
       "id": 67869,
@@ -98,7 +98,7 @@ window.actressData = {
         "大岛丈",
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-782"
     },
     {
       "id": 89544,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-540"
     },
     {
       "id": 86060,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-004"
     },
     {
       "id": 106616,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-818"
     },
     {
       "id": 85820,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-037"
     },
     {
       "id": 85295,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-753"
     },
     {
       "id": 84052,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-573"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-573"
     },
     {
       "id": 84522,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-375"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-375"
     },
     {
       "id": 80900,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-124"
     },
     {
       "id": 85778,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-499"
     },
     {
       "id": 80349,
@@ -258,7 +258,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-331"
     },
     {
       "id": 79843,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-285"
     },
     {
       "id": 79329,
@@ -290,7 +290,7 @@ window.actressData = {
       "actress": [
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-255"
     },
     {
       "id": 83895,
@@ -308,7 +308,7 @@ window.actressData = {
         "鲛岛",
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-686"
     },
     {
       "id": 69541,
@@ -325,7 +325,7 @@ window.actressData = {
         "小田切ジュン",
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-629"
     },
     {
       "id": 72738,
@@ -342,7 +342,7 @@ window.actressData = {
         "玉木玲",
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-604"
     },
     {
       "id": 79008,
@@ -359,7 +359,7 @@ window.actressData = {
         "鲛岛",
         "吉冈ひより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-656"
     }
   ]
 };

@@ -47,7 +47,7 @@ window.actressData = {
         "あいだ飞鸟",
         "真山由夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKB-093-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-093-"
     },
     {
       "id": 71222,
@@ -67,7 +67,7 @@ window.actressData = {
         "松うらら",
         "保志美あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-026"
     }
   ]
 };

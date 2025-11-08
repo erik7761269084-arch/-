@@ -41,7 +41,7 @@ window.actressData = {
         "白咲柚子",
         "なつめ爱梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-802"
     },
     {
       "id": 73786,
@@ -60,7 +60,7 @@ window.actressData = {
         "白咲柚子",
         "梦咲ひなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-553"
     },
     {
       "id": 73572,
@@ -82,7 +82,7 @@ window.actressData = {
         "五月女千夏",
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-015"
     },
     {
       "id": 69864,
@@ -100,7 +100,7 @@ window.actressData = {
         "白咲柚子",
         "梦咲ひなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUPA-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-446"
     }
   ]
 };

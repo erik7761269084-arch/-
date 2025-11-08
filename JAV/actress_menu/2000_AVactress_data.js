@@ -43,7 +43,7 @@ window.actressData = {
       "actress": [
         "絵色千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SERO-0047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-0047"
     },
     {
       "id": 1545,
@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "絵色千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SERO-0037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-0037"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "凉城りおな",
         "三高由莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-056"
     }
   ]
 };

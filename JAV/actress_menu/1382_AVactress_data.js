@@ -50,7 +50,7 @@ window.actressData = {
         "櫻木繪里香",
         "涼宮るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-369"
     },
     {
       "id": 5098,
@@ -67,7 +67,7 @@ window.actressData = {
         "菜月光",
         "涼宮るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTLS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTLS-002"
     },
     {
       "id": 5096,
@@ -84,7 +84,7 @@ window.actressData = {
         "涼宮るな",
         "伊吹ちな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDZS-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDZS-005"
     },
     {
       "id": 6196,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "涼宮るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSPK-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSPK-023"
     },
     {
       "id": 70055,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "涼宮るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21953"
     }
   ]
 };

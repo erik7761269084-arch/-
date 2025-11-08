@@ -34,7 +34,7 @@ window.actressData = {
         "しみけん",
         "桃田香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-784"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-784"
     },
     {
       "id": 74648,
@@ -53,7 +53,7 @@ window.actressData = {
         "しみけん",
         "桃田香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BGN-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-055"
     }
   ]
 };

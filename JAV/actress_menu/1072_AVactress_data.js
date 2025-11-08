@@ -52,7 +52,7 @@ window.actressData = {
         "永野鈴",
         "美好柚伽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-363"
     },
     {
       "id": 66194,
@@ -76,7 +76,7 @@ window.actressData = {
         "美好柚伽",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BUR-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-635"
     },
     {
       "id": 75829,
@@ -101,7 +101,7 @@ window.actressData = {
         "美好柚伽",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-370"
     },
     {
       "id": 94755,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "美好柚伽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-245"
     },
     {
       "id": 12907,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "美好柚伽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-548"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-548"
     },
     {
       "id": 94296,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "美好柚伽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKMJ-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-533"
     },
     {
       "id": 89657,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "美好柚伽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-273"
     },
     {
       "id": 89676,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "美好柚伽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-268"
     }
   ]
 };

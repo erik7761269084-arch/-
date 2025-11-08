@@ -52,7 +52,7 @@ window.actressData = {
         "尾崎實里",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACT-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-017"
     },
     {
       "id": 60343,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "尾崎實里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-445"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-445"
     },
     {
       "id": 3277,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "尾崎實里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-095"
     },
     {
       "id": 5721,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "尾崎實里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-598"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-598"
     }
   ]
 };

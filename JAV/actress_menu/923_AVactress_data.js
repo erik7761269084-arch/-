@@ -63,7 +63,7 @@ window.actressData = {
         "乙葉らぶ",
         "小日向める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-387"
     },
     {
       "id": 5004,
@@ -90,7 +90,7 @@ window.actressData = {
         "吉野愛衣",
         "小野寺ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
     },
     {
       "id": 8363,
@@ -115,7 +115,7 @@ window.actressData = {
         "川栄結愛",
         "乙葉らぶ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-315"
     },
     {
       "id": 8756,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "乙葉らぶ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEOS-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOS-013"
     }
   ]
 };

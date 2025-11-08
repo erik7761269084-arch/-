@@ -70,7 +70,7 @@ window.actressData = {
         "楽園ミナ",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-135"
     },
     {
       "id": 8340,
@@ -102,7 +102,7 @@ window.actressData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
       "id": 106902,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "楽園ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPIT-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-042"
     }
   ]
 };

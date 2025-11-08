@@ -63,7 +63,7 @@ window.actressData = {
         "大原理央",
         "御影れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HALT-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-069"
     },
     {
       "id": 3838,
@@ -82,7 +82,7 @@ window.actressData = {
         "松丸香澄",
         "御影れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GEBB-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-023"
     },
     {
       "id": 4433,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "御影れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HALE-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALE-065"
     },
     {
       "id": 4920,
@@ -115,7 +115,7 @@ window.actressData = {
         "御影れみ",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-082"
     },
     {
       "id": 63660,
@@ -137,7 +137,7 @@ window.actressData = {
         "宮内ひな",
         "江戸川もなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-227"
     }
   ]
 };

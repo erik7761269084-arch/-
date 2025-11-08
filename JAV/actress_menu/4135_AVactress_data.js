@@ -34,7 +34,7 @@ window.actressData = {
         "冲田里绪",
         "斉藤ゆいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-262"
     }
   ]
 };

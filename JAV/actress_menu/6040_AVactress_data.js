@@ -38,7 +38,7 @@ window.actressData = {
         "舞咲璃",
         "佐々波エリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-041"
     }
   ]
 };

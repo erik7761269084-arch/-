@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-343"
     },
     {
       "id": 2887,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-729"
     },
     {
       "id": 3988,
@@ -96,7 +96,7 @@ window.actressData = {
         "北村海智",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-526"
     },
     {
       "id": 5597,
@@ -113,7 +113,7 @@ window.actressData = {
         "北村海智",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-749"
     },
     {
       "id": 6376,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-075"
     },
     {
       "id": 70482,
@@ -155,7 +155,7 @@ window.actressData = {
         "佐野星彩",
         "森永千波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-289"
     },
     {
       "id": 72450,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-347"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-347"
     },
     {
       "id": 8580,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-060"
     },
     {
       "id": 8725,
@@ -210,7 +210,7 @@ window.actressData = {
         "渡会菜未",
         "飯塚寿維"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-292"
     },
     {
       "id": 74773,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-701"
     },
     {
       "id": 10513,
@@ -248,7 +248,7 @@ window.actressData = {
         "津久井和紗",
         "松田捺羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-218"
     },
     {
       "id": 94195,
@@ -264,7 +264,7 @@ window.actressData = {
       "actress": [
         "北村海智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-278"
     }
   ]
 };

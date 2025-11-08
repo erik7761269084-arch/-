@@ -42,7 +42,7 @@ window.actressData = {
         "大岛丈",
         "桜ここみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-681"
     },
     {
       "id": 77103,
@@ -59,7 +59,7 @@ window.actressData = {
         "桜ここみ",
         "とこな由羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-451"
     }
   ]
 };

@@ -72,7 +72,7 @@ window.actressData = {
         "川越仁子",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-889"
     },
     {
       "id": 3784,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-838"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-838"
     },
     {
       "id": 4783,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-804"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-804"
     },
     {
       "id": 5560,
@@ -122,7 +122,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-749"
     },
     {
       "id": 6286,
@@ -139,7 +139,7 @@ window.actressData = {
         "淺野心",
         "川越仁子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-711"
     },
     {
       "id": 7751,
@@ -167,7 +167,7 @@ window.actressData = {
         "ラヴズ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
     },
     {
       "id": 7746,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-628"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-628"
     },
     {
       "id": 8465,
@@ -200,7 +200,7 @@ window.actressData = {
         "川越仁子",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-582"
     },
     {
       "id": 9266,
@@ -221,7 +221,7 @@ window.actressData = {
         "しょーと",
         "すぱいく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-533"
     },
     {
       "id": 10154,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-487"
     },
     {
       "id": 10726,
@@ -254,7 +254,7 @@ window.actressData = {
         "川越仁子",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-446"
     },
     {
       "id": 13592,
@@ -270,7 +270,7 @@ window.actressData = {
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-258"
     }
   ]
 };

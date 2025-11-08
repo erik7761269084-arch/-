@@ -34,7 +34,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-519"
     },
     {
       "id": 84469,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-503"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-503"
     },
     {
       "id": 84474,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-491"
     },
     {
       "id": 83921,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-475"
     },
     {
       "id": 66662,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-460"
     },
     {
       "id": 83924,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-443"
     },
     {
       "id": 83965,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-413"
     },
     {
       "id": 83948,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-397"
     },
     {
       "id": 81144,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-380"
     },
     {
       "id": 80794,
@@ -179,7 +179,7 @@ window.actressData = {
         "桃尻かなめ",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-369"
     },
     {
       "id": 83972,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-355"
     },
     {
       "id": 80334,
@@ -212,7 +212,7 @@ window.actressData = {
         "桃尻かなめ",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-341"
     },
     {
       "id": 79824,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-296"
     },
     {
       "id": 79283,
@@ -244,7 +244,7 @@ window.actressData = {
       "actress": [
         "桃尻かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-265"
     }
   ]
 };

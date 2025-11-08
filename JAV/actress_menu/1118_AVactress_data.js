@@ -50,7 +50,7 @@ window.actressData = {
         "桃咲乃亞",
         "綾波蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-114"
     },
     {
       "id": 2680,
@@ -69,7 +69,7 @@ window.actressData = {
         "綾波蓮",
         "及川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
     },
     {
       "id": 8713,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "綾波蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-575"
     },
     {
       "id": 69313,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "綾波蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAD-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAD-032"
     }
   ]
 };

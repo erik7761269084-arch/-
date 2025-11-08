@@ -34,7 +34,7 @@ window.actressData = {
         "永濑唯",
         "柳ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-049"
     }
   ]
 };

@@ -39,7 +39,7 @@ window.actressData = {
         "时任明菜",
         "东城佳苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGDN-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGDN-120"
     }
   ]
 };

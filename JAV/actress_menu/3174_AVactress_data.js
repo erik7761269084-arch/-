@@ -36,7 +36,7 @@ window.actressData = {
         "冬爱琴音",
         "永山遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-240"
     },
     {
       "id": 7120,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "永山遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-333"
     }
   ]
 };

@@ -55,7 +55,7 @@ window.actressData = {
         "白崎水麗",
         "石川陽波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-690"
     },
     {
       "id": 5585,
@@ -74,7 +74,7 @@ window.actressData = {
         "倉木詩織",
         "白崎水麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GEBB-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-020"
     },
     {
       "id": 5986,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "白崎水麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIR-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-071"
     },
     {
       "id": 6421,
@@ -107,7 +107,7 @@ window.actressData = {
         "浜辺栞帆",
         "白崎水麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-444"
     },
     {
       "id": 69780,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "白崎水麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-069"
     }
   ]
 };

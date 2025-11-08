@@ -35,7 +35,7 @@ window.actressData = {
         "トミフミ",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-432"
     },
     {
       "id": 2766,
@@ -53,7 +53,7 @@ window.actressData = {
         "トミフミ",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-721"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-721"
     },
     {
       "id": 3018,
@@ -70,7 +70,7 @@ window.actressData = {
         "佐佐木紗希",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-661"
     },
     {
       "id": 2941,
@@ -87,7 +87,7 @@ window.actressData = {
         "森澤佳奈",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-287"
     },
     {
       "id": 3409,
@@ -99,7 +99,7 @@ window.actressData = {
       "type": "有码",
       "company": "S1",
       "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023625210210_17874_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023625210210_17874_s.webp",
       "actress": [
         "湊羽琉",
         "トミフミ",
@@ -107,7 +107,7 @@ window.actressData = {
         "ナイアガラ翔",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-865"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-865"
     },
     {
       "id": 3351,
@@ -125,7 +125,7 @@ window.actressData = {
         "ラリアット黒川",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-388"
     },
     {
       "id": 3545,
@@ -142,7 +142,7 @@ window.actressData = {
         "姫咲華",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-332"
     },
     {
       "id": 3749,
@@ -160,7 +160,7 @@ window.actressData = {
         "トミフミ",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-450"
     },
     {
       "id": 4293,
@@ -178,7 +178,7 @@ window.actressData = {
         "トミフミ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-696"
     },
     {
       "id": 4269,
@@ -197,7 +197,7 @@ window.actressData = {
         "タイ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-066"
     },
     {
       "id": 4437,
@@ -214,7 +214,7 @@ window.actressData = {
         "胡桃多惠",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKD-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-059"
     },
     {
       "id": 4539,
@@ -232,7 +232,7 @@ window.actressData = {
         "トミフミ",
         "明里䌷"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-785"
     },
     {
       "id": 4499,
@@ -249,7 +249,7 @@ window.actressData = {
         "潤うるる",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-024"
     },
     {
       "id": 4634,
@@ -266,7 +266,7 @@ window.actressData = {
         "皆瀨明里",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-115"
     },
     {
       "id": 5118,
@@ -283,7 +283,7 @@ window.actressData = {
         "篠原伊代",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-356"
     },
     {
       "id": 5690,
@@ -300,7 +300,7 @@ window.actressData = {
         "一之瀨葵",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-179"
     },
     {
       "id": 5646,
@@ -320,7 +320,7 @@ window.actressData = {
         "トミフミ",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-250"
     },
     {
       "id": 66207,
@@ -336,7 +336,7 @@ window.actressData = {
       "actress": [
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-237"
     },
     {
       "id": 6430,
@@ -354,7 +354,7 @@ window.actressData = {
         "トミフミ",
         "平冈里枝子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJDA-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-060"
     },
     {
       "id": 6710,
@@ -371,7 +371,7 @@ window.actressData = {
         "戶川奈美",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-629"
     },
     {
       "id": 6730,
@@ -388,7 +388,7 @@ window.actressData = {
         "廣瀨百合",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-228"
     },
     {
       "id": 6898,
@@ -407,7 +407,7 @@ window.actressData = {
         "トミフミ",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-143"
     },
     {
       "id": 6896,
@@ -425,7 +425,7 @@ window.actressData = {
         "トミフミ",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-999"
     },
     {
       "id": 6881,
@@ -445,7 +445,7 @@ window.actressData = {
         "タツ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-216"
     },
     {
       "id": 7039,
@@ -462,7 +462,7 @@ window.actressData = {
         "佐佐木紗希",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-541"
     },
     {
       "id": 7181,
@@ -480,7 +480,7 @@ window.actressData = {
         "トミフミ",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-112"
     },
     {
       "id": 7312,
@@ -499,7 +499,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-594"
     },
     {
       "id": 7710,
@@ -516,7 +516,7 @@ window.actressData = {
         "紗弥佳",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-029"
     },
     {
       "id": 8126,
@@ -533,7 +533,7 @@ window.actressData = {
         "東條夏",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-664"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-664"
     },
     {
       "id": 8250,
@@ -550,7 +550,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-188"
     },
     {
       "id": 8225,
@@ -567,7 +567,7 @@ window.actressData = {
         "山瀬美紀",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-363"
     }
   ]
 };

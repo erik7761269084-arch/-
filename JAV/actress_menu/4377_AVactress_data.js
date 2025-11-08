@@ -34,7 +34,7 @@ window.actressData = {
         "西野心音",
         "向井保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-297"
     }
   ]
 };

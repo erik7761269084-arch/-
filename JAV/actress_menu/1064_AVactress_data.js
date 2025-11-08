@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "杏樹紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-086"
     },
     {
       "id": 2046,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "杏樹紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-077"
     },
     {
       "id": 1858,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "杏樹紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-51"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-51"
     },
     {
       "id": 1863,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "杏樹紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-59"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-59"
     }
   ]
 };

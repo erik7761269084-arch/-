@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "水瀨裡奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-710"
     },
     {
       "id": 6817,
@@ -78,7 +78,7 @@ window.actressData = {
         "安倍亜沙美",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-275"
     },
     {
       "id": 9669,
@@ -97,7 +97,7 @@ window.actressData = {
         "水瀨裡奈",
         "长瀬麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-859"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-859"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "宫泽千春",
         "新垣うみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-100"
     }
   ]
 };

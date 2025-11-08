@@ -58,7 +58,7 @@ window.actressData = {
         "青山未来",
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-006"
     },
     {
       "id": 94869,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-102"
     },
     {
       "id": 90617,
@@ -96,7 +96,7 @@ window.actressData = {
         "安倍亜沙美",
         "田中瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-268"
     },
     {
       "id": 89165,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SY-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-203"
     },
     {
       "id": 88646,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YAKO-042"
     },
     {
       "id": 90817,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-250"
     },
     {
       "id": 68095,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-529"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-529"
     },
     {
       "id": 92989,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-534"
     },
     {
       "id": 67773,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-083"
     }
   ]
 };

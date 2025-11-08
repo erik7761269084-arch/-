@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "长峯河南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-734"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-734"
     },
     {
       "id": 67043,
@@ -49,7 +49,7 @@ window.actressData = {
         "戸川夏也",
         "长峯河南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-132"
     }
   ]
 };

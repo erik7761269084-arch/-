@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "北川舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-923"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-923"
     },
     {
       "id": 77258,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "北川舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-120"
     }
   ]
 };

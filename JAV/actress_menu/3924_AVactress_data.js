@@ -41,7 +41,7 @@ window.actressData = {
         "枢木美栞",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-526"
     },
     {
       "id": 82116,
@@ -65,7 +65,7 @@ window.actressData = {
         "优希エリナ",
         "绚森いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-805"
     },
     {
       "id": 82698,
@@ -82,7 +82,7 @@ window.actressData = {
         "爱乃零",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-148"
     },
     {
       "id": 77400,
@@ -101,7 +101,7 @@ window.actressData = {
         "持田栞里",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-264"
     },
     {
       "id": 74725,
@@ -118,7 +118,7 @@ window.actressData = {
         "小田切ジュン",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1142"
     },
     {
       "id": 70305,
@@ -137,7 +137,7 @@ window.actressData = {
         "MIRANO",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-002"
     },
     {
       "id": 71498,
@@ -155,7 +155,7 @@ window.actressData = {
         "后藤由乃",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-980"
     },
     {
       "id": 73350,
@@ -176,7 +176,7 @@ window.actressData = {
         "篠田优",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-889"
     },
     {
       "id": 70258,
@@ -201,7 +201,7 @@ window.actressData = {
         "海空花",
         "まゆのゆま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-888"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-888"
     },
     {
       "id": 98577,
@@ -220,7 +220,7 @@ window.actressData = {
         "斎藤ミオリ",
         "花崎りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-147"
     },
     {
       "id": 69615,
@@ -238,7 +238,7 @@ window.actressData = {
         "爱乃零",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-569"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-569"
     },
     {
       "id": 71621,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-264"
     },
     {
       "id": 78455,
@@ -273,7 +273,7 @@ window.actressData = {
         "さくらはる",
         "西野悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-043"
     }
   ]
 };

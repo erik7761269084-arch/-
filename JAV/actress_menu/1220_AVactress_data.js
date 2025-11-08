@@ -61,7 +61,7 @@ window.actressData = {
         "斉藤月乃",
         "まなみ静奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-682"
     },
     {
       "id": 93853,
@@ -78,7 +78,7 @@ window.actressData = {
         "森咲はるの",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PS-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-114"
     },
     {
       "id": 89914,
@@ -96,7 +96,7 @@ window.actressData = {
         "藤原瞳",
         "カレンさん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-705"
     },
     {
       "id": 89915,
@@ -115,7 +115,7 @@ window.actressData = {
         "森咲はるの",
         "白濱南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-707"
     },
     {
       "id": 90267,
@@ -140,7 +140,7 @@ window.actressData = {
         "東村梨歩",
         "小野木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-201"
     }
   ]
 };

@@ -37,7 +37,7 @@ window.actressData = {
         "桐谷茉莉",
         "あいだ飞鸟"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-177"
     },
     {
       "id": 82263,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "あいだ飞鸟"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-570"
     },
     {
       "id": 98234,
@@ -78,7 +78,7 @@ window.actressData = {
         "あいだ飞鸟",
         "真山由夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKB-093-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-093-"
     }
   ]
 };

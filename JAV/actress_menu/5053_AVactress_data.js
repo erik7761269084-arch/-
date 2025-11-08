@@ -41,7 +41,7 @@ window.actressData = {
         "稻场流花",
         "永爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-568"
     },
     {
       "id": 81648,
@@ -59,7 +59,7 @@ window.actressData = {
         "しみけん",
         "永爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIC-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-068"
     }
   ]
 };

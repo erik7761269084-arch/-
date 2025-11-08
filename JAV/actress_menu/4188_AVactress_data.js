@@ -34,7 +34,7 @@ window.actressData = {
         "永瀬爱菜",
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-030"
     },
     {
       "id": 75719,
@@ -52,7 +52,7 @@ window.actressData = {
         "夏八木彩月",
         "稲葉果織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-003"
     },
     {
       "id": 91171,
@@ -69,7 +69,7 @@ window.actressData = {
         "夏八木彩月",
         "イッセイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-604"
     },
     {
       "id": 91241,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-183"
     },
     {
       "id": 89009,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-212"
     },
     {
       "id": 106335,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHERD-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-089"
     },
     {
       "id": 89054,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-613"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-613"
     },
     {
       "id": 89053,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-591"
     },
     {
       "id": 90858,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-110"
     },
     {
       "id": 107745,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "夏八木彩月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-208"
     }
   ]
 };

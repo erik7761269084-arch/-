@@ -34,7 +34,7 @@ window.actressData = {
         "岡田真弓",
         "五十嵐千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-238"
     }
   ]
 };

@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "西野芹那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMF-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-048"
     },
     {
       "id": 14551,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "西野芹那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPLY-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-016"
     },
     {
       "id": 15182,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "西野芹那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-013"
     },
     {
       "id": 106369,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "西野芹那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-398"
     }
   ]
 };

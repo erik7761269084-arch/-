@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "浜辺香奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDAN-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDAN-003"
     },
     {
       "id": 72169,
@@ -49,7 +49,7 @@ window.actressData = {
         "桐生珠帆",
         "浜辺香奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-028"
     },
     {
       "id": 75708,
@@ -68,7 +68,7 @@ window.actressData = {
         "有贺みなほ",
         "浜辺香奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-004"
     },
     {
       "id": 75001,
@@ -86,7 +86,7 @@ window.actressData = {
         "浜辺香奈子",
         "水瀬彩加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-027"
     },
     {
       "id": 72602,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "浜辺香奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-220"
     }
   ]
 };

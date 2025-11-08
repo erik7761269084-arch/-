@@ -79,7 +79,7 @@ window.actressData = {
         "白川千织",
         "高槻れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-386"
     },
     {
       "id": 88930,
@@ -104,7 +104,7 @@ window.actressData = {
         "中村知恵",
         "柊莉々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-507"
     },
     {
       "id": 89538,
@@ -130,7 +130,7 @@ window.actressData = {
         "新井爱丽",
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-465"
     },
     {
       "id": 85183,
@@ -148,7 +148,7 @@ window.actressData = {
         "朝桐光",
         "中村知恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIR-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-050"
     },
     {
       "id": 81955,
@@ -164,7 +164,7 @@ window.actressData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-177"
     },
     {
       "id": 75799,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-193"
     },
     {
       "id": 77109,
@@ -196,7 +196,7 @@ window.actressData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-279"
     },
     {
       "id": 72880,
@@ -212,7 +212,7 @@ window.actressData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-383"
     },
     {
       "id": 1049,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1465"
     },
     {
       "id": 88020,
@@ -246,7 +246,7 @@ window.actressData = {
         "春永いずみ",
         "浅仓领花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ERM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ERM-003"
     },
     {
       "id": 509,
@@ -262,7 +262,7 @@ window.actressData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0608"
     },
     {
       "id": 2017,
@@ -278,7 +278,7 @@ window.actressData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-078"
     },
     {
       "id": 1872,
@@ -294,7 +294,7 @@ window.actressData = {
       "actress": [
         "朝桐光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-071"
     }
   ]
 };

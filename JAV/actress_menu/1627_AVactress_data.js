@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "知良美佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-027"
     },
     {
       "id": 4525,
@@ -65,11 +65,11 @@ window.actressData = {
       "type": "有码",
       "company": "MOODYZ",
       "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100313337979_25799_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100313337979_25799_s.webp",
       "actress": [
         "知良美佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-026"
     }
   ]
 };

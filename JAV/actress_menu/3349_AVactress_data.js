@@ -33,7 +33,7 @@ window.actressData = {
         "时田こずえ",
         "松本ゆり子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAP-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAP-260"
     }
   ]
 };

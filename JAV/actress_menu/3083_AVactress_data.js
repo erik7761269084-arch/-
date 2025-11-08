@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "片桐梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKD-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKD-254"
     },
     {
       "id": 59727,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "片桐梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1311"
     }
   ]
 };

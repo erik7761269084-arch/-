@@ -33,7 +33,7 @@ window.actressData = {
         "松本一香",
         "宫城りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-355"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "渡辺みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-066"
     },
     {
       "id": 81700,
@@ -51,7 +51,7 @@ window.actressData = {
         "戸川夏也",
         "渡辺みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-807"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-807"
     }
   ]
 };

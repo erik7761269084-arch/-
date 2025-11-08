@@ -33,7 +33,7 @@ window.actressData = {
         "青沼",
         "塩見剣人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTHTD-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-113"
     }
   ]
 };

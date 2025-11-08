@@ -40,7 +40,7 @@ window.actressData = {
         "美咲まや",
         "内川桂帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-369"
     },
     {
       "id": 87594,
@@ -59,7 +59,7 @@ window.actressData = {
         "美咲まや",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-134"
     },
     {
       "id": 70848,
@@ -78,7 +78,7 @@ window.actressData = {
         "美咲まや",
         "近藤ユキ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-109"
     }
   ]
 };

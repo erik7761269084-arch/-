@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "沢村花恋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KEED-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-084"
     },
     {
       "id": 105853,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "沢村花恋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-177"
     }
   ]
 };

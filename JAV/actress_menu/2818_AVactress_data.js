@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "春日野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-32"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-32"
     },
     {
       "id": 88346,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "春日野结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-328"
     }
   ]
 };

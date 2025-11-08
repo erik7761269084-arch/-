@@ -37,7 +37,7 @@ window.actressData = {
         "水川爱莉",
         "本多由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-060"
     },
     {
       "id": 81483,
@@ -61,7 +61,7 @@ window.actressData = {
         "杏璃さや",
         "爱瀬美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-030"
     },
     {
       "id": 87969,
@@ -82,7 +82,7 @@ window.actressData = {
         "秋吉花音",
         "岬まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KFNE-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KFNE-001"
     },
     {
       "id": 77079,
@@ -100,7 +100,7 @@ window.actressData = {
         "枢木美栞",
         "杏璃さや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAE-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAE-270"
     },
     {
       "id": 71100,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "杏璃さや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21296"
     },
     {
       "id": 70270,
@@ -134,7 +134,7 @@ window.actressData = {
         "河北春菜",
         "杏璃さや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-474"
     }
   ]
 };

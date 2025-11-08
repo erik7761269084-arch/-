@@ -35,7 +35,7 @@ window.actressData = {
         "大原友美",
         "朝比奈みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-215"
     }
   ]
 };

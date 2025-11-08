@@ -33,7 +33,7 @@ window.actressData = {
         "岬櫻",
         "雪乃凛央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-645"
     },
     {
       "id": 63324,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "雪乃凛央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-340"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-340"
     },
     {
       "id": 82151,
@@ -68,7 +68,7 @@ window.actressData = {
         "七瀬もな",
         "纱东みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-132"
     },
     {
       "id": 81565,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "雪乃凛央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-055"
     },
     {
       "id": 100655,
@@ -105,7 +105,7 @@ window.actressData = {
         "雪乃凛央",
         "山井すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-130"
     },
     {
       "id": 82392,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "雪乃凛央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-590"
     },
     {
       "id": 71747,
@@ -140,7 +140,7 @@ window.actressData = {
         "杉咲しずか",
         "雪乃凛央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-561"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-561"
     }
   ]
 };

@@ -58,7 +58,7 @@ window.actressData = {
         "梅川ことね",
         "戸崎めく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-386"
     },
     {
       "id": 64080,
@@ -76,7 +76,7 @@ window.actressData = {
         "相坂すみれ",
         "白城梨紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-381"
     },
     {
       "id": 86812,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "白城梨紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-162"
     },
     {
       "id": 1663,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "白城梨紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-129"
     },
     {
       "id": 81976,
@@ -125,7 +125,7 @@ window.actressData = {
         "白城梨紗",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-125"
     },
     {
       "id": 83162,
@@ -142,7 +142,7 @@ window.actressData = {
         "白城梨紗",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-122"
     }
   ]
 };

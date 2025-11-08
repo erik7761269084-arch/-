@@ -73,7 +73,7 @@ window.actressData = {
         "朝妃莉緒",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-024"
     },
     {
       "id": 6479,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-017"
     },
     {
       "id": 7043,
@@ -106,7 +106,7 @@ window.actressData = {
         "朝妃莉緒",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-308"
     },
     {
       "id": 7705,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-262"
     },
     {
       "id": 8483,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-199"
     },
     {
       "id": 9196,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URE-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-117"
     },
     {
       "id": 17356,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-158"
     },
     {
       "id": 17912,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-138"
     },
     {
       "id": 18420,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-124"
     },
     {
       "id": 91112,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-109"
     },
     {
       "id": 60767,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-075"
     },
     {
       "id": 107667,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-073"
     },
     {
       "id": 87872,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "朝妃莉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-759"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-759"
     },
     {
       "id": 77575,
@@ -283,7 +283,7 @@ window.actressData = {
         "朝妃莉緒",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-020"
     }
   ]
 };

@@ -47,7 +47,7 @@ window.actressData = {
         "水城りん",
         "川崎あいり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-232"
     },
     {
       "id": 4236,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-309"
     },
     {
       "id": 5901,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-250"
     },
     {
       "id": 7574,
@@ -99,7 +99,7 @@ window.actressData = {
         "日森一",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-080"
     },
     {
       "id": 8211,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-022"
     },
     {
       "id": 9077,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-982"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-982"
     },
     {
       "id": 9923,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-956"
     }
   ]
 };

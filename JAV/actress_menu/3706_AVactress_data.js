@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桃香りり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-450"
     },
     {
       "id": 88342,
@@ -54,7 +54,7 @@ window.actressData = {
         "桃香りり",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNBL-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-038"
     }
   ]
 };

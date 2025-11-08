@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "最上一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDK-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-212"
     },
     {
       "id": 87427,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "最上一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-366"
     },
     {
       "id": 86624,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "最上一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-629"
     },
     {
       "id": 69871,
@@ -114,7 +114,7 @@ window.actressData = {
         "最上一花",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-593"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-593"
     }
   ]
 };

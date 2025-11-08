@@ -34,7 +34,7 @@ window.actressData = {
         "鲛岛",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-249"
     },
     {
       "id": 96986,
@@ -51,7 +51,7 @@ window.actressData = {
         "百仁花",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-741"
     },
     {
       "id": 86174,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-173"
     },
     {
       "id": 88460,
@@ -85,7 +85,7 @@ window.actressData = {
         "鲛岛",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PXH-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PXH-023"
     },
     {
       "id": 93132,
@@ -102,7 +102,7 @@ window.actressData = {
         "鲛岛",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-908"
     },
     {
       "id": 91452,
@@ -121,7 +121,7 @@ window.actressData = {
         "梁井一",
         "真木夏芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-771"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-771"
     },
     {
       "id": 86987,
@@ -138,7 +138,7 @@ window.actressData = {
         "高槻れい",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VGD-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VGD-205"
     },
     {
       "id": 77179,
@@ -155,7 +155,7 @@ window.actressData = {
         "七海雛",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VGD-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VGD-204"
     },
     {
       "id": 78122,
@@ -172,7 +172,7 @@ window.actressData = {
         "梁井一",
         "ヴァレンタリッチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-597"
     },
     {
       "id": 78083,
@@ -189,7 +189,7 @@ window.actressData = {
         "梁井一",
         "爱沢さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-590"
     },
     {
       "id": 78081,
@@ -206,7 +206,7 @@ window.actressData = {
         "七瀬るい",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-580"
     },
     {
       "id": 87956,
@@ -225,7 +225,7 @@ window.actressData = {
         "梁井一",
         "有村梨沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIC-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-055"
     },
     {
       "id": 73809,
@@ -243,7 +243,7 @@ window.actressData = {
         "梁井一",
         "きみかわ结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-784"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-784"
     },
     {
       "id": 70960,
@@ -261,7 +261,7 @@ window.actressData = {
         "森林原人",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-689"
     }
   ]
 };

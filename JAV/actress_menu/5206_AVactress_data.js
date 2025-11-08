@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "冈部真代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1207"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1207"
     }
   ]
 };

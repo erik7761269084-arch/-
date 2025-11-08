@@ -33,7 +33,7 @@ window.actressData = {
         "花愛麗絲",
         "ティカル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-750"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-750"
     },
     {
       "id": 5491,
@@ -51,7 +51,7 @@ window.actressData = {
         "鲛岛",
         "ティカル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-654"
     },
     {
       "id": 60163,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "ティカル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-375"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-375"
     },
     {
       "id": 68446,
@@ -84,7 +84,7 @@ window.actressData = {
         "ティカル",
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-628"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-628"
     },
     {
       "id": 6765,
@@ -101,7 +101,7 @@ window.actressData = {
         "希島愛理",
         "ティカル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-612"
     },
     {
       "id": 70002,
@@ -118,7 +118,7 @@ window.actressData = {
         "天月梓",
         "ティカル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-367"
     },
     {
       "id": 71978,
@@ -135,7 +135,7 @@ window.actressData = {
         "ティカル",
         "雨宫凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-366"
     }
   ]
 };

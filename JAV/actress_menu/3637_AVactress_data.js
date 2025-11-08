@@ -33,7 +33,7 @@ window.actressData = {
         "雅子裡菜",
         "篠宮花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVVRT-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-020"
     },
     {
       "id": 89458,
@@ -50,7 +50,7 @@ window.actressData = {
         "八乃翼",
         "篠宮花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVSHA-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-008"
     },
     {
       "id": 66788,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "篠宮花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-097"
     },
     {
       "id": 85595,
@@ -83,7 +83,7 @@ window.actressData = {
         "鲛岛",
         "篠宮花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-251"
     }
   ]
 };

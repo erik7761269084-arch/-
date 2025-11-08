@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "伊月小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1276"
     }
   ]
 };

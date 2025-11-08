@@ -36,7 +36,7 @@ window.actressData = {
         "篠崎环奈",
         "おの真由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-340"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-340"
     },
     {
       "id": 71841,
@@ -53,7 +53,7 @@ window.actressData = {
         "おの真由美",
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEZ-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-056"
     }
   ]
 };

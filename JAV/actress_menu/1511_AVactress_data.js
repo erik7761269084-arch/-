@@ -50,7 +50,7 @@ window.actressData = {
         "上原亞衣",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-238"
     },
     {
       "id": 2005,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "上原亞衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-047"
     },
     {
       "id": 82424,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "上原亞衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GENT-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GENT-080"
     },
     {
       "id": 2029,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "上原亞衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-046"
     },
     {
       "id": 107319,
@@ -115,7 +115,7 @@ window.actressData = {
         "上原亞衣",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-025"
     },
     {
       "id": 106908,
@@ -132,7 +132,7 @@ window.actressData = {
         "上原亞衣",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-624"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-624"
     },
     {
       "id": 63331,
@@ -149,7 +149,7 @@ window.actressData = {
         "上原亞衣",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-140"
     },
     {
       "id": 107199,
@@ -166,7 +166,7 @@ window.actressData = {
         "上原亞衣",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKDV-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-384"
     },
     {
       "id": 82485,
@@ -185,7 +185,7 @@ window.actressData = {
         "星野明",
         "饭田せいこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-664"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-664"
     }
   ]
 };

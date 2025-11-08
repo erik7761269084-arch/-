@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "梦野まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-050"
     },
     {
       "id": 70600,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "梦野まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAWA-034"
     },
     {
       "id": 75772,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "梦野まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAWA-030"
     },
     {
       "id": 88796,
@@ -81,7 +81,7 @@ window.actressData = {
         "大村",
         "梦野まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAWA-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAWA-016"
     }
   ]
 };

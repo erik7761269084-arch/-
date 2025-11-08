@@ -46,7 +46,7 @@ window.actressData = {
         "乙白さやか",
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
     },
     {
       "id": 80714,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-359"
     },
     {
       "id": 86305,
@@ -79,7 +79,7 @@ window.actressData = {
         "Qべぇ",
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-332"
     },
     {
       "id": 86316,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-307"
     },
     {
       "id": 80031,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-250"
     },
     {
       "id": 79414,
@@ -128,7 +128,7 @@ window.actressData = {
         "鲛岛",
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-154"
     },
     {
       "id": 73012,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-021"
     }
   ]
 };

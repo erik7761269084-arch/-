@@ -35,7 +35,7 @@ window.actressData = {
         "织田真琴",
         "市桥惠理奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUBI-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUBI-027"
     },
     {
       "id": 71041,
@@ -52,7 +52,7 @@ window.actressData = {
         "森林原人",
         "织田真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-459"
     },
     {
       "id": 72426,
@@ -70,7 +70,7 @@ window.actressData = {
         "织田真琴",
         "音无レナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AFS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-031"
     }
   ]
 };

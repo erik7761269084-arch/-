@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "夕木小彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-386"
     },
     {
       "id": 2968,
@@ -82,7 +82,7 @@ window.actressData = {
         "夕木小彩",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-719"
     },
     {
       "id": 3614,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "夕木小彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-363"
     },
     {
       "id": 3564,
@@ -115,7 +115,7 @@ window.actressData = {
         "夕木小彩",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-035"
     },
     {
       "id": 3535,
@@ -132,7 +132,7 @@ window.actressData = {
         "夕木小彩",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-730"
     },
     {
       "id": 4540,
@@ -149,7 +149,7 @@ window.actressData = {
         "夕木小彩",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-243"
     },
     {
       "id": 5380,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "夕木小彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-203"
     },
     {
       "id": 6132,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "夕木小彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-169"
     },
     {
       "id": 6877,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "夕木小彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-132"
     }
   ]
 };

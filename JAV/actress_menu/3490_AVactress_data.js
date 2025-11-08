@@ -34,7 +34,7 @@ window.actressData = {
         "秋田富由美",
         "蓝原かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-264"
     },
     {
       "id": 93694,
@@ -52,7 +52,7 @@ window.actressData = {
         "秋田富由美",
         "蓝原かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OLM-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-060"
     }
   ]
 };

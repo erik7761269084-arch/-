@@ -48,7 +48,7 @@ window.actressData = {
         "白石渚",
         "神田ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-392"
     },
     {
       "id": 8274,
@@ -69,7 +69,7 @@ window.actressData = {
         "神崎ゆま",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-203"
     }
   ]
 };

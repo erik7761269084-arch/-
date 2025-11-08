@@ -57,7 +57,7 @@ window.actressData = {
         "梅川ことね",
         "仲条さき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-531"
     },
     {
       "id": 63660,
@@ -79,7 +79,7 @@ window.actressData = {
         "宮内ひな",
         "江戸川もなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-227"
     }
   ]
 };

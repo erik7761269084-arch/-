@@ -48,7 +48,7 @@ window.actressData = {
         "日乃原杏",
         "天河れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-224"
     }
   ]
 };

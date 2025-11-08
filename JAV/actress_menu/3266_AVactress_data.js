@@ -40,7 +40,7 @@ window.actressData = {
         "新井爱丽",
         "瞳リョウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-122"
     },
     {
       "id": 100506,
@@ -57,7 +57,7 @@ window.actressData = {
         "瞳リョウ",
         "ゆーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-231"
     },
     {
       "id": 70284,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "瞳リョウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-371"
     },
     {
       "id": 75588,
@@ -96,7 +96,7 @@ window.actressData = {
         "宫本纱央里",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-109"
     },
     {
       "id": 76378,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "瞳リョウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-099"
     },
     {
       "id": 70714,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "瞳リョウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-040"
     },
     {
       "id": 61083,
@@ -145,7 +145,7 @@ window.actressData = {
         "沢井亮",
         "瞳リョウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-025"
     },
     {
       "id": 88259,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "瞳リョウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-316"
     }
   ]
 };

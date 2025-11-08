@@ -35,7 +35,7 @@ window.actressData = {
         "铃屋いちご",
         "杏羽かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-971"
     },
     {
       "id": 88349,
@@ -55,7 +55,7 @@ window.actressData = {
         "铃屋いちご",
         "黒崎さく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-972"
     },
     {
       "id": 70730,
@@ -72,7 +72,7 @@ window.actressData = {
         "河音くるみ",
         "铃屋いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FAA-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAA-151"
     }
   ]
 };

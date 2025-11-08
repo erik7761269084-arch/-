@@ -50,7 +50,7 @@ window.actressData = {
         "紺野美衣奈",
         "百瀨莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCHB-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-050"
     }
   ]
 };

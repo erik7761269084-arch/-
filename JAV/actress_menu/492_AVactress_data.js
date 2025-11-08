@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "小沢菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-424"
     },
     {
       "id": 4084,
@@ -76,7 +76,7 @@ window.actressData = {
         "小沢菜穂",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-421"
     },
     {
       "id": 5458,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "小沢菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-414"
     },
     {
       "id": 6228,
@@ -109,7 +109,7 @@ window.actressData = {
         "小沢菜穂",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-408"
     },
     {
       "id": 8598,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "小沢菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-387"
     },
     {
       "id": 10116,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "小沢菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-379"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-379"
     },
     {
       "id": 10946,
@@ -158,7 +158,7 @@ window.actressData = {
         "小沢菜穂",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-371"
     }
   ]
 };

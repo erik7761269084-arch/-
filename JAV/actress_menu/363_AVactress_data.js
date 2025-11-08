@@ -55,7 +55,7 @@ window.actressData = {
         "大原理央",
         "御影れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HALT-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-069"
     },
     {
       "id": 4073,
@@ -72,7 +72,7 @@ window.actressData = {
         "足立友梨",
         "花里明理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25196"
     },
     {
       "id": 63187,
@@ -89,7 +89,7 @@ window.actressData = {
         "蘆名穗花",
         "花里明理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-541"
     },
     {
       "id": 63659,
@@ -111,7 +111,7 @@ window.actressData = {
         "若宫はずき",
         "黒石純礼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-228"
     },
     {
       "id": 5789,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "花里明理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMJD-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMJD-007"
     },
     {
       "id": 6295,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "花里明理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-659"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-659"
     },
     {
       "id": 67204,
@@ -165,7 +165,7 @@ window.actressData = {
         "花里明理",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-219"
     },
     {
       "id": 6680,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "花里明理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-945"
     },
     {
       "id": 63749,
@@ -203,7 +203,7 @@ window.actressData = {
         "七瀬蘭",
         "沢尻ウタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-102"
     },
     {
       "id": 6762,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "花里明理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-053"
     },
     {
       "id": 7313,
@@ -238,7 +238,7 @@ window.actressData = {
         "花里明理",
         "有馬美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-051"
     },
     {
       "id": 70311,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "花里明理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-690"
     },
     {
       "id": 12825,
@@ -271,7 +271,7 @@ window.actressData = {
         "花里明理",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPSE-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-001"
     }
   ]
 };

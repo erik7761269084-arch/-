@@ -34,7 +34,7 @@ window.actressData = {
         "田所真纪",
         "城美香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-266"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "凉城りおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-142"
     },
     {
       "id": 73027,
@@ -55,7 +55,7 @@ window.actressData = {
         "浅仓真凛",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-036"
     },
     {
       "id": 82170,
@@ -73,7 +73,7 @@ window.actressData = {
         "凉城りおな",
         "石川ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PARATHD-2871"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PARATHD-2871"
     },
     {
       "id": 75752,
@@ -94,7 +94,7 @@ window.actressData = {
         "凉城りおな",
         "吉冈麻结"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-061"
     },
     {
       "id": 83066,
@@ -112,7 +112,7 @@ window.actressData = {
         "前田あこ",
         "桐原みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANX-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANX-117"
     },
     {
       "id": 83164,
@@ -131,7 +131,7 @@ window.actressData = {
         "凉城りおな",
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-292"
     },
     {
       "id": 75744,
@@ -148,7 +148,7 @@ window.actressData = {
         "铃木里美",
         "凉城りおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-991"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-991"
     },
     {
       "id": 75798,
@@ -167,7 +167,7 @@ window.actressData = {
         "凉城りおな",
         "三高由莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-056"
     }
   ]
 };

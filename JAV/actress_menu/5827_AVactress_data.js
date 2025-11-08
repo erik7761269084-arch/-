@@ -37,7 +37,7 @@ window.actressData = {
         "松冈瑠実",
         "大森凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-092"
     }
   ]
 };

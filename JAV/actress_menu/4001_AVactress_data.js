@@ -41,7 +41,7 @@ window.actressData = {
         "青井いちご",
         "星咲せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-508"
     },
     {
       "id": 81102,
@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-073"
     },
     {
       "id": 79854,
@@ -75,7 +75,7 @@ window.actressData = {
         "三浦瑠衣",
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-087"
     },
     {
       "id": 88162,
@@ -98,7 +98,7 @@ window.actressData = {
         "有栖花绯",
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-304"
     },
     {
       "id": 70893,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-263"
     },
     {
       "id": 70288,
@@ -132,7 +132,7 @@ window.actressData = {
         "玉木玲",
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-696"
     },
     {
       "id": 82293,
@@ -149,7 +149,7 @@ window.actressData = {
         "玉木玲",
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-667"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-667"
     },
     {
       "id": 83844,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-417"
     },
     {
       "id": 74994,
@@ -183,7 +183,7 @@ window.actressData = {
         "鲛岛",
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-613"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-613"
     },
     {
       "id": 9486,
@@ -202,7 +202,7 @@ window.actressData = {
         "玉木玲",
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-540"
     }
   ]
 };

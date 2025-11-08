@@ -37,7 +37,7 @@ window.actressData = {
         "麻仓忧",
         "樱井まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PBD-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-455"
     },
     {
       "id": 87298,
@@ -63,7 +63,7 @@ window.actressData = {
         "麻仓忧",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-265"
     },
     {
       "id": 76815,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "麻仓忧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-091"
     },
     {
       "id": 62962,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "麻仓忧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-332"
     },
     {
       "id": 107637,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "麻仓忧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-281"
     }
   ]
 };

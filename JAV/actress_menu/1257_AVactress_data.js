@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "佐野りか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-077"
     },
     {
       "id": 8272,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "佐野りか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-662"
     },
     {
       "id": 8995,
@@ -78,7 +78,7 @@ window.actressData = {
         "鲛岛",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-659"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-659"
     }
   ]
 };

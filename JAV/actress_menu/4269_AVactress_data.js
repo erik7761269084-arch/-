@@ -45,7 +45,7 @@ window.actressData = {
         "宫本纱央里",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-109"
     },
     {
       "id": 94898,
@@ -67,7 +67,7 @@ window.actressData = {
         "东条有希",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMA-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-052"
     },
     {
       "id": 72430,
@@ -85,7 +85,7 @@ window.actressData = {
         "山本铃",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AFS-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-034"
     }
   ]
 };

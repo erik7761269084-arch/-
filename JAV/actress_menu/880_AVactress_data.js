@@ -54,7 +54,7 @@ window.actressData = {
         "宮崎由麻",
         "三沢明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-05"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-05"
     },
     {
       "id": 1821,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "椎名光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-118"
     },
     {
       "id": 1819,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "椎名光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S37"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S37"
     },
     {
       "id": 1917,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "椎名光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-68"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-68"
     }
   ]
 };

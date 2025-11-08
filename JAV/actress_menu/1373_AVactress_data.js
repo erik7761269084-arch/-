@@ -67,7 +67,7 @@ window.actressData = {
         "浜崎真绪",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-141"
     },
     {
       "id": 79984,
@@ -85,7 +85,7 @@ window.actressData = {
         "工藤拉拉",
         "永野一夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-320"
     },
     {
       "id": 73456,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-315"
     },
     {
       "id": 69972,
@@ -118,7 +118,7 @@ window.actressData = {
         "永野一夏",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-287"
     },
     {
       "id": 1609,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-232"
     },
     {
       "id": 82048,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-220"
     },
     {
       "id": 100076,
@@ -168,7 +168,7 @@ window.actressData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-205"
     },
     {
       "id": 76669,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-190"
     },
     {
       "id": 1681,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-145"
     },
     {
       "id": 99605,
@@ -216,7 +216,7 @@ window.actressData = {
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-127"
     },
     {
       "id": 74413,
@@ -233,7 +233,7 @@ window.actressData = {
         "永野一夏",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-087"
     },
     {
       "id": 79005,
@@ -249,7 +249,7 @@ window.actressData = {
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-174"
     }
   ]
 };

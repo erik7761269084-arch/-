@@ -40,7 +40,7 @@ window.actressData = {
         "田渊正浩",
         "松冈千菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-616"
     },
     {
       "id": 73459,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "松冈千菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-622"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-622"
     },
     {
       "id": 107099,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "松冈千菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-587"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-587"
     }
   ]
 };

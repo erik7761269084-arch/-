@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "小泉渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-223"
     },
     {
       "id": 5740,
@@ -70,7 +70,7 @@ window.actressData = {
         "小泉渚",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-187"
     },
     {
       "id": 6445,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "小泉渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-149"
     },
     {
       "id": 7232,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "小泉渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-114"
     },
     {
       "id": 7854,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "小泉渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-096"
     }
   ]
 };

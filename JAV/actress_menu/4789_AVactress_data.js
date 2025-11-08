@@ -35,7 +35,7 @@ window.actressData = {
         "玉木玲",
         "枫真衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-205"
     },
     {
       "id": 82238,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "枫真衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-386"
     }
   ]
 };

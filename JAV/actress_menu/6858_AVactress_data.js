@@ -33,7 +33,7 @@ window.actressData = {
         "ハメ鳥の人",
         "皆瀬あみか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-437"
     }
   ]
 };

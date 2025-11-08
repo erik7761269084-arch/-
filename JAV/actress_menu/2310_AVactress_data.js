@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "君野奈津"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-847"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-847"
     }
   ]
 };

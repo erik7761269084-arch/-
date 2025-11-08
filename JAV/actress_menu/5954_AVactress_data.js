@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "仲里纱羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-013"
     },
     {
       "id": 104216,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "仲里纱羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-037"
     }
   ]
 };

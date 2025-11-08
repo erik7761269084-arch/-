@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "宮下昌代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-092"
     },
     {
       "id": 91099,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "宮下昌代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-150"
     }
   ]
 };

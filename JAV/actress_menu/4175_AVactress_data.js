@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-506"
     },
     {
       "id": 81828,
@@ -53,7 +53,7 @@ window.actressData = {
         "逢泽真里亚",
         "古川祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-234"
     },
     {
       "id": 71842,
@@ -71,7 +71,7 @@ window.actressData = {
         "今井夏帆",
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-424"
     },
     {
       "id": 77122,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTNOZ-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTNOZ-007"
     },
     {
       "id": 94921,
@@ -105,7 +105,7 @@ window.actressData = {
         "逢泽真里亚",
         "城山若菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-471"
     },
     {
       "id": 72073,
@@ -124,7 +124,7 @@ window.actressData = {
         "逢泽真里亚",
         "桃瀬ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GETS-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-117"
     },
     {
       "id": 71631,
@@ -143,7 +143,7 @@ window.actressData = {
         "音海里奈",
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-662"
     },
     {
       "id": 84521,
@@ -161,7 +161,7 @@ window.actressData = {
         "桥本丽华",
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GIRO-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIRO-041"
     },
     {
       "id": 84461,
@@ -179,7 +179,7 @@ window.actressData = {
         "桥本丽华",
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GIRO-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIRO-040"
     },
     {
       "id": 72252,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-409"
     },
     {
       "id": 77734,
@@ -214,7 +214,7 @@ window.actressData = {
         "寶生莉莉",
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-958"
     },
     {
       "id": 100530,
@@ -230,7 +230,7 @@ window.actressData = {
       "actress": [
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-727"
     },
     {
       "id": 80155,
@@ -249,7 +249,7 @@ window.actressData = {
         "逢泽真里亚",
         "宫泽アオ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-061"
     },
     {
       "id": 73811,
@@ -265,7 +265,7 @@ window.actressData = {
       "actress": [
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-284"
     }
   ]
 };

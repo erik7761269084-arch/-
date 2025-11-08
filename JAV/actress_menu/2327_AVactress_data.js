@@ -53,7 +53,7 @@ window.actressData = {
         "志田雪奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
     },
     {
       "id": 76565,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "河合結衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-771"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-771"
     },
     {
       "id": 99823,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "河合結衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-758-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-758-"
     }
   ]
 };

@@ -65,7 +65,7 @@ window.actressData = {
         "有加里乃乃花",
         "有賀千里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-1010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1010"
     },
     {
       "id": 4165,
@@ -95,7 +95,7 @@ window.actressData = {
         "河合阳菜",
         "七世いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-124"
     },
     {
       "id": 6344,
@@ -113,7 +113,7 @@ window.actressData = {
         "有賀千里",
         "兼咲美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-1000"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1000"
     },
     {
       "id": 6433,
@@ -135,7 +135,7 @@ window.actressData = {
         "夏川海",
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGB-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGB-049"
     },
     {
       "id": 6950,
@@ -152,7 +152,7 @@ window.actressData = {
         "有賀千里",
         "有贺みなほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-145"
     },
     {
       "id": 7089,
@@ -174,7 +174,7 @@ window.actressData = {
         "有贺みなほ",
         "さくらい麻乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-284"
     },
     {
       "id": 8528,
@@ -196,7 +196,7 @@ window.actressData = {
         "相沢澪",
         "有贺みなほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-275"
     },
     {
       "id": 8893,
@@ -213,7 +213,7 @@ window.actressData = {
         "有賀千里",
         "有贺みなほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AEGE-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-043"
     }
   ]
 };

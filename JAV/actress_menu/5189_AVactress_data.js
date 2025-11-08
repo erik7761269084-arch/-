@@ -35,7 +35,7 @@ window.actressData = {
         "松冈すず",
         "时多しほり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-018"
     },
     {
       "id": 82661,
@@ -52,7 +52,7 @@ window.actressData = {
         "鲛岛",
         "时多しほり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-532"
     }
   ]
 };

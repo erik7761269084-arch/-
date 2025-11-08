@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "梨木セリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-043"
     },
     {
       "id": 7004,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "梨木セリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-050"
     }
   ]
 };

@@ -78,7 +78,7 @@ window.actressData = {
         "朝川奈穂",
         "伊藤夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKAX-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-582"
     },
     {
       "id": 92526,
@@ -100,7 +100,7 @@ window.actressData = {
         "浅冈沙季",
         "仁科さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CP-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CP-009"
     },
     {
       "id": 721,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "杏堂怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0870"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0870"
     }
   ]
 };

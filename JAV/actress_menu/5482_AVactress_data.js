@@ -37,7 +37,7 @@ window.actressData = {
       "actress": [
         "樱由罗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-815"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-815"
     },
     {
       "id": 106002,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "樱由罗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-695"
     },
     {
       "id": 88137,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "樱由罗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-653"
     },
     {
       "id": 96381,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "樱由罗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-530"
     },
     {
       "id": 96516,
@@ -102,7 +102,7 @@ window.actressData = {
         "しみけん",
         "樱由罗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-515"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-515"
     }
   ]
 };

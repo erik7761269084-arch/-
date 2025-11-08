@@ -51,7 +51,7 @@ window.actressData = {
         "大原理央",
         "仲野梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-373"
     },
     {
       "id": 7459,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "仲野梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-271"
     },
     {
       "id": 91193,
@@ -84,7 +84,7 @@ window.actressData = {
         "仲野梢",
         "ダガー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-547"
     }
   ]
 };

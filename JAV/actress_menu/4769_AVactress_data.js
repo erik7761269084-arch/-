@@ -38,7 +38,7 @@ window.actressData = {
         "野々宫兰",
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-052"
     },
     {
       "id": 80167,
@@ -55,7 +55,7 @@ window.actressData = {
         "織田真子",
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-046"
     },
     {
       "id": 83571,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-871"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-871"
     },
     {
       "id": 81991,
@@ -90,7 +90,7 @@ window.actressData = {
         "一色まりあ",
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKMJ-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-089"
     },
     {
       "id": 77920,
@@ -109,7 +109,7 @@ window.actressData = {
         "香坂みりな",
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-192"
     },
     {
       "id": 97441,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1191"
     },
     {
       "id": 88290,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-178"
     }
   ]
 };

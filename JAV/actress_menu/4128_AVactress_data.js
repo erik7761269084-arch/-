@@ -34,7 +34,7 @@ window.actressData = {
         "香苗レノン",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-430"
     },
     {
       "id": 86719,
@@ -59,7 +59,7 @@ window.actressData = {
         "豊田爱菜",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-061"
     },
     {
       "id": 76875,
@@ -78,7 +78,7 @@ window.actressData = {
         "豊田爱菜",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-394"
     },
     {
       "id": 87994,
@@ -99,7 +99,7 @@ window.actressData = {
         "成泽ひなみ",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-483"
     },
     {
       "id": 83869,
@@ -117,7 +117,7 @@ window.actressData = {
         "前田いろは",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-675"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-675"
     },
     {
       "id": 76674,
@@ -134,7 +134,7 @@ window.actressData = {
         "七海雛",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-695"
     },
     {
       "id": 83633,
@@ -154,7 +154,7 @@ window.actressData = {
         "新井爱丽",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-198"
     },
     {
       "id": 71163,
@@ -175,7 +175,7 @@ window.actressData = {
         "白金れい奈",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-044"
     },
     {
       "id": 87717,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-129"
     },
     {
       "id": 75035,
@@ -208,7 +208,7 @@ window.actressData = {
         "神ユキ",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-233"
     }
   ]
 };

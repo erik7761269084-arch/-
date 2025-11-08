@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "明日来ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPIT-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-032"
     }
   ]
 };

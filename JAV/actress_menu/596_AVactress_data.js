@@ -51,7 +51,7 @@ window.actressData = {
         "山下紗和",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-079"
     },
     {
       "id": 5024,
@@ -70,7 +70,7 @@ window.actressData = {
         "向理来",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-041"
     },
     {
       "id": 5759,
@@ -87,7 +87,7 @@ window.actressData = {
         "山下紗和",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-026"
     },
     {
       "id": 6965,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "山下紗和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-005"
     },
     {
       "id": 7732,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "山下紗和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-999"
     },
     {
       "id": 8525,
@@ -136,7 +136,7 @@ window.actressData = {
         "山下紗和",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-958"
     },
     {
       "id": 9144,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "山下紗和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-934"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-934"
     },
     {
       "id": 10209,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "山下紗和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-886"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-886"
     },
     {
       "id": 10916,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "山下紗和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-853"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-853"
     },
     {
       "id": 11555,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "山下紗和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-843"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-843"
     }
   ]
 };

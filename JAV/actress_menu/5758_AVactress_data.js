@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "北见えり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBDD-2031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2031"
     }
   ]
 };

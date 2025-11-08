@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "甘夏りいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-413"
     }
   ]
 };

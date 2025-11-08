@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "唯奈みつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALOG-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALOG-014"
     }
   ]
 };

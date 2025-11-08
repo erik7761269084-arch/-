@@ -39,7 +39,7 @@ window.actressData = {
         "安倍亜沙美",
         "斎藤まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-330"
     },
     {
       "id": 87523,
@@ -56,7 +56,7 @@ window.actressData = {
         "工藤拉拉",
         "斎藤まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IMO-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-015"
     },
     {
       "id": 89713,
@@ -74,7 +74,7 @@ window.actressData = {
         "斎藤まりな",
         "舞奈みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROOM-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-044"
     },
     {
       "id": 80727,
@@ -91,7 +91,7 @@ window.actressData = {
         "渚光希",
         "斎藤まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-237"
     },
     {
       "id": 81099,
@@ -108,7 +108,7 @@ window.actressData = {
         "斎藤まりな",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-225"
     },
     {
       "id": 79491,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "斎藤まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-328"
     },
     {
       "id": 70656,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "斎藤まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-156"
     }
   ]
 };

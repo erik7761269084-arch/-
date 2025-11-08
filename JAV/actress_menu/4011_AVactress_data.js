@@ -44,7 +44,7 @@ window.actressData = {
         "大石香织",
         "伊东真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-370"
     },
     {
       "id": 82438,
@@ -63,7 +63,7 @@ window.actressData = {
         "坂本すみれ",
         "星乃ゆづき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAR-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-050"
     }
   ]
 };

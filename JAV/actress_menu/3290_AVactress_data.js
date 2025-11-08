@@ -42,7 +42,7 @@ window.actressData = {
         "田村みゆき",
         "巖崎千鹤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMIX-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-048"
     },
     {
       "id": 87110,
@@ -61,7 +61,7 @@ window.actressData = {
         "梅田りょう",
         "新堂绫乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-898"
     },
     {
       "id": 106475,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "巖崎千鹤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-017"
     }
   ]
 };

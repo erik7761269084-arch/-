@@ -36,7 +36,7 @@ window.actressData = {
         "天野仁美",
         "平井雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-410"
     }
   ]
 };

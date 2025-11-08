@@ -38,7 +38,7 @@ window.actressData = {
         "北川美玖",
         "桜井ゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-270"
     },
     {
       "id": 86529,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "桜井ゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-242"
     },
     {
       "id": 79840,
@@ -72,7 +72,7 @@ window.actressData = {
         "小田切ジュン",
         "桜井ゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-738"
     },
     {
       "id": 106018,
@@ -89,7 +89,7 @@ window.actressData = {
         "市川润",
         "桜井ゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-024"
     }
   ]
 };

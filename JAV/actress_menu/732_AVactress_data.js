@@ -62,7 +62,7 @@ window.actressData = {
         "ラヴズ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-369"
     },
     {
       "id": 5182,
@@ -83,7 +83,7 @@ window.actressData = {
         "向理来",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-366"
     },
     {
       "id": 5307,
@@ -108,7 +108,7 @@ window.actressData = {
         "雪奈真冬",
         "木之内奈々葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
     },
     {
       "id": 5863,
@@ -127,7 +127,7 @@ window.actressData = {
         "須崎美羽",
         "宗像れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-314"
     },
     {
       "id": 6610,
@@ -152,7 +152,7 @@ window.actressData = {
         "香月えりさ",
         "木之内奈々葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-101"
     },
     {
       "id": 12984,
@@ -169,7 +169,7 @@ window.actressData = {
         "七海蒂娜",
         "須崎美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-175"
     },
     {
       "id": 100969,
@@ -186,7 +186,7 @@ window.actressData = {
         "須崎美羽",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RS-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RS-042"
     }
   ]
 };

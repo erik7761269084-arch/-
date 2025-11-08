@@ -34,7 +34,7 @@ window.actressData = {
         "玉城夏帆",
         "斉藤あみり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-903"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-903"
     },
     {
       "id": 88982,
@@ -51,7 +51,7 @@ window.actressData = {
         "春原未来",
         "斉藤あみり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-893"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-893"
     },
     {
       "id": 88957,
@@ -69,7 +69,7 @@ window.actressData = {
         "前田美波",
         "斉藤あみり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-889"
     }
   ]
 };

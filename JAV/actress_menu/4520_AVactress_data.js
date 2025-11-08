@@ -34,7 +34,7 @@ window.actressData = {
         "蓝井优太",
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-802"
     },
     {
       "id": 82200,
@@ -53,7 +53,7 @@ window.actressData = {
         "目黑惠",
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-615"
     },
     {
       "id": 82144,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-914"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-914"
     },
     {
       "id": 81436,
@@ -86,7 +86,7 @@ window.actressData = {
         "平井シンジ",
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-174"
     },
     {
       "id": 76735,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-681"
     },
     {
       "id": 75196,
@@ -123,7 +123,7 @@ window.actressData = {
         "星あんず",
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-422"
     },
     {
       "id": 83185,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-074"
     },
     {
       "id": 76459,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JOSI-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOSI-002"
     }
   ]
 };

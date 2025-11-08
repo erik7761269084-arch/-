@@ -54,7 +54,7 @@ window.actressData = {
         "五十嵐夏",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-656"
     },
     {
       "id": 18685,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "五十嵐夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-641"
     }
   ]
 };

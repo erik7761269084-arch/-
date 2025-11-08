@@ -35,7 +35,7 @@ window.actressData = {
         "服部尚美",
         "莲田いく美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYAJ-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYAJ-198"
     }
   ]
 };

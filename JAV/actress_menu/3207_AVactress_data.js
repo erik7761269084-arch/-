@@ -34,7 +34,7 @@ window.actressData = {
         "まーち",
         "もんご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-452"
     },
     {
       "id": 9254,
@@ -51,7 +51,7 @@ window.actressData = {
         "乃坂日和",
         "もんご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-491"
     },
     {
       "id": 9248,
@@ -69,7 +69,7 @@ window.actressData = {
         "まーち",
         "もんご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-137"
     },
     {
       "id": 10994,
@@ -87,7 +87,7 @@ window.actressData = {
         "じゅうもんじ",
         "もんご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-951"
     },
     {
       "id": 78585,
@@ -104,7 +104,7 @@ window.actressData = {
         "もんご",
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-525"
     },
     {
       "id": 10428,
@@ -121,7 +121,7 @@ window.actressData = {
         "澄河美花",
         "もんご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-989"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-989"
     }
   ]
 };

@@ -116,7 +116,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 89916,
@@ -135,7 +135,7 @@ window.actressData = {
         "奈津野こはく",
         "MOMONE"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-706"
     },
     {
       "id": 90585,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "鬼塚萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-071"
     },
     {
       "id": 92197,
@@ -168,7 +168,7 @@ window.actressData = {
         "田中寧寧",
         "鬼塚萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-955"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-955"
     },
     {
       "id": 88996,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "鬼塚萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UNDG-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UNDG-012"
     },
     {
       "id": 66839,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "鬼塚萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-947"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-947"
     },
     {
       "id": 106895,
@@ -217,7 +217,7 @@ window.actressData = {
         "鬼塚萌奈美",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-076"
     }
   ]
 };

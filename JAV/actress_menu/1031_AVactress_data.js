@@ -60,7 +60,7 @@ window.actressData = {
         "山手梨愛",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-971"
     },
     {
       "id": 16920,
@@ -77,7 +77,7 @@ window.actressData = {
         "山手梨愛",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-936"
     },
     {
       "id": 17927,
@@ -95,7 +95,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-899"
     },
     {
       "id": 18433,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "山手梨愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-861"
     },
     {
       "id": 18747,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "山手梨愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-841"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-841"
     }
   ]
 };

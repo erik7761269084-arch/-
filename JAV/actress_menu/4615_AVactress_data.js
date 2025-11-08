@@ -35,7 +35,7 @@ window.actressData = {
         "美月葵",
         "ユナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GUN-683"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GUN-683"
     }
   ]
 };

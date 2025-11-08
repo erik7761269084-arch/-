@@ -80,7 +80,7 @@ window.actressData = {
         "爱乃零",
         "音海里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSM-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSM-016"
     },
     {
       "id": 75842,
@@ -101,7 +101,7 @@ window.actressData = {
         "岬澪",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-822"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-822"
     },
     {
       "id": 75832,
@@ -122,7 +122,7 @@ window.actressData = {
         "绫瀬さくら",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-820"
     },
     {
       "id": 76509,
@@ -141,7 +141,7 @@ window.actressData = {
         "冬爱琴音",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-343"
     },
     {
       "id": 71629,
@@ -159,7 +159,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-837"
     },
     {
       "id": 73866,
@@ -176,7 +176,7 @@ window.actressData = {
         "ゆうき",
         "まなかかな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2060"
     }
   ]
 };

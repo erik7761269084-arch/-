@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "横峯めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTDH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDH-011"
     },
     {
       "id": 70429,
@@ -68,7 +68,7 @@ window.actressData = {
         "六華ノア",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-217"
     },
     {
       "id": 70363,
@@ -88,7 +88,7 @@ window.actressData = {
         "一場れいか",
         "横峯めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-216"
     },
     {
       "id": 72790,
@@ -107,7 +107,7 @@ window.actressData = {
         "江澄ゆゆ",
         "佐佐波绫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-315"
     }
   ]
 };

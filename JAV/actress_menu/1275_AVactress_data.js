@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "乃々瀬みつは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-009"
     }
   ]
 };

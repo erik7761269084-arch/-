@@ -41,7 +41,7 @@ window.actressData = {
         "逢坂优",
         "星美りか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILD-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILD-932"
     }
   ]
 };

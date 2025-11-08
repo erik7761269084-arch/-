@@ -62,7 +62,7 @@ window.actressData = {
         "松田美子",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1110"
     },
     {
       "id": 71711,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "松田美子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-605"
     },
     {
       "id": 106278,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "松田美子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-123"
     }
   ]
 };

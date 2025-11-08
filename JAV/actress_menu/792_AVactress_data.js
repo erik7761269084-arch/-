@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-322"
     },
     {
       "id": 3617,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-281"
     },
     {
       "id": 62584,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-955"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-955"
     },
     {
       "id": 4536,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-237"
     },
     {
       "id": 5366,
@@ -123,7 +123,7 @@ window.actressData = {
         "小鈴蜜柑",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-196"
     },
     {
       "id": 6141,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-170"
     },
     {
       "id": 6927,
@@ -156,7 +156,7 @@ window.actressData = {
         "小鈴蜜柑",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-098"
     },
     {
       "id": 8257,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-036"
     }
   ]
 };

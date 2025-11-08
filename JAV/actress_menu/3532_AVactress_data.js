@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "日泉舞華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GTJ-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-165"
     },
     {
       "id": 107174,
@@ -49,7 +49,7 @@ window.actressData = {
         "日泉舞香",
         "日泉舞華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-661"
     }
   ]
 };

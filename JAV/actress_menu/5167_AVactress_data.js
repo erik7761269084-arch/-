@@ -38,7 +38,7 @@ window.actressData = {
         "凉南佳奈",
         "神谷千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKC-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-012"
     },
     {
       "id": 82377,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "神谷千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-619"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-619"
     }
   ]
 };

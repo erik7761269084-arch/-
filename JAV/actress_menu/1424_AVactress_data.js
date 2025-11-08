@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "渋谷あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-007"
     },
     {
       "id": 17187,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "渋谷あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-004"
     }
   ]
 };

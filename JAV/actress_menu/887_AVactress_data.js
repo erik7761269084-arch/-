@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-136"
     },
     {
       "id": 3325,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-724"
     },
     {
       "id": 61143,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-201"
     },
     {
       "id": 62037,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-231"
     },
     {
       "id": 62971,
@@ -115,7 +115,7 @@ window.actressData = {
         "東ふうか",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-707"
     },
     {
       "id": 63560,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-066"
     },
     {
       "id": 5746,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-66"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-66"
     },
     {
       "id": 67005,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-145"
     },
     {
       "id": 70108,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-142"
     },
     {
       "id": 70546,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "東ふうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-233"
     }
   ]
 };

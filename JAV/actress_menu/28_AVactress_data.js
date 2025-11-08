@@ -67,11 +67,11 @@ window.actressData = {
       "type": "有码",
       "company": "IDEA POCKET",
       "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030632305305_10872_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030632305305_10872_s.webp",
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-597"
     },
     {
       "id": 4789,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-574"
     },
     {
       "id": 6336,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-545"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-545"
     },
     {
       "id": 7070,
@@ -120,7 +120,7 @@ window.actressData = {
         "桃乃木香奈",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-523"
     },
     {
       "id": 7747,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-501"
     },
     {
       "id": 8508,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-477"
     },
     {
       "id": 9270,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-474"
     },
     {
       "id": 16383,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-196"
     },
     {
       "id": 17349,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-151"
     },
     {
       "id": 17906,
@@ -216,7 +216,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-132"
     },
     {
       "id": 18411,
@@ -233,7 +233,7 @@ window.actressData = {
         "桃乃木香奈",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-117"
     },
     {
       "id": 77512,
@@ -249,7 +249,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-061"
     },
     {
       "id": 77535,
@@ -265,7 +265,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-048"
     },
     {
       "id": 69082,
@@ -282,7 +282,7 @@ window.actressData = {
         "桃乃木香奈",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-008"
     },
     {
       "id": 17518,
@@ -298,7 +298,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-981"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-981"
     },
     {
       "id": 17537,
@@ -314,7 +314,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-968"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-968"
     },
     {
       "id": 17557,
@@ -330,7 +330,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-951"
     },
     {
       "id": 17801,
@@ -346,7 +346,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-917"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-917"
     },
     {
       "id": 17827,
@@ -362,7 +362,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-901"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-901"
     },
     {
       "id": 17961,
@@ -379,7 +379,7 @@ window.actressData = {
         "桃乃木香奈",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-885"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-885"
     },
     {
       "id": 18080,
@@ -396,7 +396,7 @@ window.actressData = {
         "桃乃木香奈",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-852"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-852"
     },
     {
       "id": 18113,
@@ -412,7 +412,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-833"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-833"
     },
     {
       "id": 18161,
@@ -429,7 +429,7 @@ window.actressData = {
         "桃乃木香奈",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-813"
     },
     {
       "id": 18255,
@@ -445,7 +445,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-795"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-795"
     },
     {
       "id": 18361,
@@ -461,7 +461,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-778"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-778"
     },
     {
       "id": 18455,
@@ -477,7 +477,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-760"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-760"
     },
     {
       "id": 18472,
@@ -493,7 +493,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-744"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-744"
     },
     {
       "id": 18526,
@@ -509,7 +509,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-726"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-726"
     },
     {
       "id": 18575,
@@ -525,7 +525,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-691"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-691"
     },
     {
       "id": 18847,
@@ -541,7 +541,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-565"
     },
     {
       "id": 18864,
@@ -557,7 +557,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-551"
     },
     {
       "id": 18889,
@@ -575,7 +575,7 @@ window.actressData = {
         "イセドン内村",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-536"
     },
     {
       "id": 19036,
@@ -591,7 +591,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-416"
     },
     {
       "id": 19051,
@@ -608,7 +608,7 @@ window.actressData = {
         "桃乃木香奈",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-400"
     },
     {
       "id": 19065,
@@ -624,7 +624,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-385"
     },
     {
       "id": 19081,
@@ -640,7 +640,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-368"
     },
     {
       "id": 19095,
@@ -656,7 +656,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-354"
     },
     {
       "id": 19118,
@@ -672,7 +672,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-337"
     },
     {
       "id": 19123,
@@ -688,7 +688,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-322"
     },
     {
       "id": 19208,
@@ -706,7 +706,7 @@ window.actressData = {
         "君色花音",
         "凉美ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-243"
     },
     {
       "id": 19246,
@@ -722,7 +722,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-202"
     },
     {
       "id": 71492,
@@ -738,7 +738,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IDBD-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IDBD-786"
     },
     {
       "id": 19381,
@@ -754,7 +754,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-072"
     },
     {
       "id": 19389,
@@ -771,7 +771,7 @@ window.actressData = {
         "桃乃木香奈",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-052"
     },
     {
       "id": 19402,
@@ -787,7 +787,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-038"
     },
     {
       "id": 19417,
@@ -803,7 +803,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-022"
     },
     {
       "id": 19430,
@@ -819,7 +819,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-005"
     },
     {
       "id": 19577,
@@ -835,7 +835,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-921"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-921"
     },
     {
       "id": 106116,
@@ -852,7 +852,7 @@ window.actressData = {
         "桃乃木香奈",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-789"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-789"
     },
     {
       "id": 103457,
@@ -869,7 +869,7 @@ window.actressData = {
         "桃乃木香奈",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-754"
     },
     {
       "id": 107207,
@@ -885,7 +885,7 @@ window.actressData = {
       "actress": [
         "桃乃木香奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-718"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-718"
     }
   ]
 };

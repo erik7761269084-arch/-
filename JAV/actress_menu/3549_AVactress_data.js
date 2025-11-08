@@ -33,7 +33,7 @@ window.actressData = {
         "天馬唯",
         "咲雪华奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKS-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-152"
     },
     {
       "id": 81901,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "咲雪华奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMKN-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKN-003"
     },
     {
       "id": 71813,
@@ -66,7 +66,7 @@ window.actressData = {
         "江波りゅう（RYU)",
         "咲雪华奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-159"
     },
     {
       "id": 70391,
@@ -84,7 +84,7 @@ window.actressData = {
         "イセドン内村",
         "咲雪华奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-898"
     },
     {
       "id": 72248,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "咲雪华奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-152"
     },
     {
       "id": 82363,
@@ -118,7 +118,7 @@ window.actressData = {
         "咲雪华奈",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMV-120"
     }
   ]
 };

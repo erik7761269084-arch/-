@@ -69,7 +69,7 @@ window.actressData = {
         "藤下梨花",
         "青空小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-196"
     },
     {
       "id": 89929,
@@ -88,7 +88,7 @@ window.actressData = {
         "早瀬和香",
         "仲间丽奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-185"
     },
     {
       "id": 89897,
@@ -108,7 +108,7 @@ window.actressData = {
         "しずく",
         "宇佐美なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-186"
     },
     {
       "id": 77738,
@@ -131,7 +131,7 @@ window.actressData = {
         "黒木麻衣（花野真衣、SHIHO）",
         "立花みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-355"
     },
     {
       "id": 82813,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "青木美空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAGE-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAGE-001"
     }
   ]
 };

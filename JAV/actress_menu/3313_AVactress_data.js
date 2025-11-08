@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "有奈めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-238"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "福富りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RD-1192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-1192"
     },
     {
       "id": 88809,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "福富りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1192"
     },
     {
       "id": 81410,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "福富りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPZ-1132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPZ-1132"
     }
   ]
 };

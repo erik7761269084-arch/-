@@ -35,7 +35,7 @@ window.actressData = {
         "青泽えみり",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-081"
     },
     {
       "id": 72225,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "青泽えみり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-693"
     },
     {
       "id": 67747,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "青泽えみり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-681"
     }
   ]
 };

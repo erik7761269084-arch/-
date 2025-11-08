@@ -34,7 +34,7 @@ window.actressData = {
         "大石忍",
         "金山ほの花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-150"
     }
   ]
 };

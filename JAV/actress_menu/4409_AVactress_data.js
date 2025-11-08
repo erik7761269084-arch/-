@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "相楽ゆり子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-049"
     },
     {
       "id": 73945,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "相楽ゆり子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNT-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-003"
     },
     {
       "id": 73829,
@@ -66,7 +66,7 @@ window.actressData = {
         "イセドン内村",
         "相楽ゆり子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNT-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-001"
     }
   ]
 };

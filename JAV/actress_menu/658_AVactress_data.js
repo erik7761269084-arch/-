@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-578"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-578"
     },
     {
       "id": 86501,
@@ -76,7 +76,7 @@ window.actressData = {
         "古川伊織",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-731"
     },
     {
       "id": 86482,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-701"
     },
     {
       "id": 68533,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-116"
     },
     {
       "id": 86417,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-598"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-598"
     },
     {
       "id": 80880,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-554"
     },
     {
       "id": 80759,
@@ -156,7 +156,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-666"
     },
     {
       "id": 86418,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-508"
     },
     {
       "id": 86407,
@@ -188,7 +188,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-464"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-464"
     },
     {
       "id": 105936,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-317"
     },
     {
       "id": 19598,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMF-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-016"
     },
     {
       "id": 1621,
@@ -238,7 +238,7 @@ window.actressData = {
         "篠田優",
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-625"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-625"
     },
     {
       "id": 83309,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-212"
     },
     {
       "id": 69961,
@@ -270,7 +270,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-184"
     },
     {
       "id": 75081,
@@ -291,7 +291,7 @@ window.actressData = {
         "管野静香",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-173"
     },
     {
       "id": 68772,
@@ -307,7 +307,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-153"
     },
     {
       "id": 73605,
@@ -323,7 +323,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-115"
     },
     {
       "id": 1613,
@@ -339,7 +339,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-094"
     },
     {
       "id": 19459,
@@ -355,7 +355,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-060"
     },
     {
       "id": 19493,
@@ -371,7 +371,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-008"
     },
     {
       "id": 19476,
@@ -387,7 +387,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-019"
     },
     {
       "id": 71556,
@@ -405,7 +405,7 @@ window.actressData = {
         "古川伊織",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-995"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-995"
     },
     {
       "id": 83043,
@@ -421,7 +421,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-022"
     },
     {
       "id": 69768,
@@ -437,7 +437,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-824"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-824"
     },
     {
       "id": 73353,
@@ -456,7 +456,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-775"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-775"
     },
     {
       "id": 106536,
@@ -472,7 +472,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-684"
     },
     {
       "id": 19584,
@@ -488,7 +488,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-625"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-625"
     },
     {
       "id": 106537,
@@ -504,7 +504,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-605"
     },
     {
       "id": 79142,
@@ -520,7 +520,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-375"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-375"
     },
     {
       "id": 69316,
@@ -536,7 +536,7 @@ window.actressData = {
       "actress": [
         "古川伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-981"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-981"
     }
   ]
 };

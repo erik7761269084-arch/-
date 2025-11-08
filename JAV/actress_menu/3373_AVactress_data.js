@@ -33,7 +33,7 @@ window.actressData = {
         "西野絵美",
         "ばたけ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-325"
     },
     {
       "id": 5499,
@@ -50,7 +50,7 @@ window.actressData = {
         "朝倉由良",
         "ばたけ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-058"
     },
     {
       "id": 6047,
@@ -67,7 +67,7 @@ window.actressData = {
         "森澤佳奈",
         "ばたけ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-280"
     },
     {
       "id": 67343,
@@ -84,7 +84,7 @@ window.actressData = {
         "ひょこり",
         "ばたけ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-874"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-874"
     },
     {
       "id": 6692,
@@ -106,7 +106,7 @@ window.actressData = {
         "仓木诗织",
         "ばたけ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-140"
     },
     {
       "id": 66287,
@@ -123,7 +123,7 @@ window.actressData = {
         "ばたけ",
         "神代えりさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-238"
     },
     {
       "id": 67208,
@@ -140,7 +140,7 @@ window.actressData = {
         "ばたけ",
         "真田まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-227"
     }
   ]
 };

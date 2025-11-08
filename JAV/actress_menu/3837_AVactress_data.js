@@ -47,7 +47,7 @@ window.actressData = {
         "成泽ひなみ",
         "宫本纱央里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-371"
     },
     {
       "id": 71522,
@@ -70,7 +70,7 @@ window.actressData = {
         "羽咲美亜",
         "蓝川みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-149"
     },
     {
       "id": 77544,
@@ -90,7 +90,7 @@ window.actressData = {
         "东希美",
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-136"
     },
     {
       "id": 68568,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "东希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-656"
     },
     {
       "id": 86696,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "东希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANZD-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANZD-058"
     },
     {
       "id": 79159,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "东希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKSN-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-336"
     }
   ]
 };

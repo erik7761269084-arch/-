@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "朝海汐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-406"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-406"
     },
     {
       "id": 5830,
@@ -65,7 +65,7 @@ window.actressData = {
         "朝海汐",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-402"
     },
     {
       "id": 7300,
@@ -82,7 +82,7 @@ window.actressData = {
         "朝海汐",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-381"
     },
     {
       "id": 8383,
@@ -99,7 +99,7 @@ window.actressData = {
         "朝海汐",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-361"
     },
     {
       "id": 10053,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "朝海汐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-372"
     },
     {
       "id": 10805,
@@ -133,7 +133,7 @@ window.actressData = {
         "鲛岛",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-362"
     }
   ]
 };

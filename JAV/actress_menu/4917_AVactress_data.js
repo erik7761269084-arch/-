@@ -34,7 +34,7 @@ window.actressData = {
         "今井まい",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-166"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-166"
     },
     {
       "id": 79495,
@@ -54,7 +54,7 @@ window.actressData = {
         "爱须みのん",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-099"
     },
     {
       "id": 81990,
@@ -73,7 +73,7 @@ window.actressData = {
         "有花萌",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-061"
     },
     {
       "id": 83227,
@@ -92,7 +92,7 @@ window.actressData = {
         "有花萌",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-058"
     },
     {
       "id": 82081,
@@ -111,7 +111,7 @@ window.actressData = {
         "胡桃圓",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TUS-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUS-079"
     },
     {
       "id": 82761,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-708"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-708"
     }
   ]
 };

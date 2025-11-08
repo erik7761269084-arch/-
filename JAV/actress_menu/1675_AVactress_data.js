@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "辻早織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HALE-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALE-066"
     },
     {
       "id": 62708,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "辻早織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMH-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-032"
     },
     {
       "id": 7782,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "辻早織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-302"
     }
   ]
 };

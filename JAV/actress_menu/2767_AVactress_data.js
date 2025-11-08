@@ -70,7 +70,7 @@ window.actressData = {
         "内村里菜",
         "北川美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OLM-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-059"
     }
   ]
 };

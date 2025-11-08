@@ -61,7 +61,7 @@ window.actressData = {
         "水卜麻衣奈",
         "月美りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-941"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-941"
     },
     {
       "id": 17440,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "水卜麻衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGMQ-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGMQ-121"
     },
     {
       "id": 90937,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "水卜麻衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-006"
     },
     {
       "id": 88817,
@@ -114,7 +114,7 @@ window.actressData = {
         "水卜麻衣奈",
         "渋谷華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIKB-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-168"
     },
     {
       "id": 89553,
@@ -134,7 +134,7 @@ window.actressData = {
         "水卜麻衣奈",
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-169"
     },
     {
       "id": 66794,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "水卜麻衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-094"
     },
     {
       "id": 89555,
@@ -170,7 +170,7 @@ window.actressData = {
         "叶月もえ",
         "辻芽爱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-164"
     },
     {
       "id": 89535,
@@ -188,7 +188,7 @@ window.actressData = {
         "水卜麻衣奈",
         "茅野亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-137"
     },
     {
       "id": 89531,
@@ -207,7 +207,7 @@ window.actressData = {
         "春原未来",
         "南真悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-123"
     },
     {
       "id": 67174,
@@ -228,7 +228,7 @@ window.actressData = {
         "香澄莉绪",
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-116"
     },
     {
       "id": 87268,
@@ -247,7 +247,7 @@ window.actressData = {
         "奥井楓",
         "加贺美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-113"
     },
     {
       "id": 85796,
@@ -264,7 +264,7 @@ window.actressData = {
         "宇流木沙羅",
         "水卜麻衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-679"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-679"
     },
     {
       "id": 80738,
@@ -282,7 +282,7 @@ window.actressData = {
         "夏川海",
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-236"
     },
     {
       "id": 80728,
@@ -299,7 +299,7 @@ window.actressData = {
         "水卜麻衣奈",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-234"
     },
     {
       "id": 84427,
@@ -315,7 +315,7 @@ window.actressData = {
       "actress": [
         "水卜麻衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-058"
     },
     {
       "id": 77768,
@@ -334,7 +334,7 @@ window.actressData = {
         "山本莲加",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-522"
     },
     {
       "id": 82014,
@@ -350,7 +350,7 @@ window.actressData = {
       "actress": [
         "水卜麻衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-103"
     },
     {
       "id": 75594,
@@ -371,7 +371,7 @@ window.actressData = {
         "月宫ねね",
         "日向咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-706"
     },
     {
       "id": 71845,
@@ -390,7 +390,7 @@ window.actressData = {
         "凉美ほのか",
         "长谷川まや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-156"
     },
     {
       "id": 69385,
@@ -406,7 +406,7 @@ window.actressData = {
       "actress": [
         "水卜麻衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-288"
     }
   ]
 };

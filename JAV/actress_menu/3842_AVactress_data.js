@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "ゆうひ菜那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAVK-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-053"
     },
     {
       "id": 70956,
@@ -51,7 +51,7 @@ window.actressData = {
         "天音りおん",
         "ゆうひ菜那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-183"
     },
     {
       "id": 76805,
@@ -69,7 +69,7 @@ window.actressData = {
         "河合乃乃花",
         "ゆうひ菜那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-607"
     },
     {
       "id": 77309,
@@ -88,7 +88,7 @@ window.actressData = {
         "ゆうひ菜那",
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-481"
     },
     {
       "id": 68683,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "ゆうひ菜那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAE-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAE-320"
     },
     {
       "id": 73254,
@@ -121,7 +121,7 @@ window.actressData = {
         "ゆうひ菜那",
         "园田花凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTRS-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTRS-020"
     }
   ]
 };

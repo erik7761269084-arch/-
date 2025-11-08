@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "小坂惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRCBD-02"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRCBD-02"
     },
     {
       "id": 1961,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "小坂惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-074"
     },
     {
       "id": 72177,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "小坂惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-003"
     }
   ]
 };

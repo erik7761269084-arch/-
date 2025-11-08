@@ -36,7 +36,7 @@ window.actressData = {
         "タイ",
         "爱田るか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-401"
     },
     {
       "id": 3336,
@@ -54,7 +54,7 @@ window.actressData = {
         "なっつ",
         "爱田るか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-389"
     },
     {
       "id": 5110,
@@ -71,7 +71,7 @@ window.actressData = {
         "愛田流花",
         "爱田るか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-360"
     }
   ]
 };

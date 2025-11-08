@@ -57,7 +57,7 @@ window.actressData = {
         "タクト",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-907"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-907"
     },
     {
       "id": 4318,
@@ -84,7 +84,7 @@ window.actressData = {
         "乃坂日和",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
     },
     {
       "id": 4272,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "渚愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-820"
     },
     {
       "id": 5204,
@@ -117,7 +117,7 @@ window.actressData = {
         "渚愛梨",
         "白上咲花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-768"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-768"
     },
     {
       "id": 5864,
@@ -134,7 +134,7 @@ window.actressData = {
         "渚愛梨",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-730"
     },
     {
       "id": 6785,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "渚愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-693"
     },
     {
       "id": 7751,
@@ -178,7 +178,7 @@ window.actressData = {
         "ラヴズ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
     },
     {
       "id": 8099,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "渚愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-602"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-602"
     },
     {
       "id": 8868,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "渚愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-551"
     },
     {
       "id": 9758,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "渚愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-509"
     },
     {
       "id": 13249,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "渚愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-278"
     },
     {
       "id": 13835,
@@ -258,7 +258,7 @@ window.actressData = {
       "actress": [
         "渚愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-239"
     },
     {
       "id": 14498,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "渚愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-216"
     }
   ]
 };

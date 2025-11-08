@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "北野望"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-450"
     },
     {
       "id": 97292,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "北野望"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-059"
     },
     {
       "id": 78920,
@@ -71,7 +71,7 @@ window.actressData = {
         "しみけん",
         "北野望"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-369"
     }
   ]
 };

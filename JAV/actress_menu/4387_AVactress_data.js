@@ -35,7 +35,7 @@ window.actressData = {
         "内海みう",
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-498"
     },
     {
       "id": 75189,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRHK-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRHK-011"
     },
     {
       "id": 82747,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-135"
     },
     {
       "id": 73705,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-200"
     },
     {
       "id": 73798,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIKB-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-048"
     },
     {
       "id": 74868,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-132"
     },
     {
       "id": 74984,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-107"
     },
     {
       "id": 73572,
@@ -153,7 +153,7 @@ window.actressData = {
         "五月女千夏",
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-015"
     }
   ]
 };

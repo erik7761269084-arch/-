@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-298"
     },
     {
       "id": 3141,
@@ -64,7 +64,7 @@ window.actressData = {
         "工藤百合",
         "上田紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-202"
     },
     {
       "id": 3357,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-409"
     },
     {
       "id": 3702,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-382"
     },
     {
       "id": 3652,
@@ -113,7 +113,7 @@ window.actressData = {
         "工藤百合",
         "なっつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-492"
     },
     {
       "id": 3812,
@@ -131,7 +131,7 @@ window.actressData = {
         "工藤百合",
         "乃木絢愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-405"
     },
     {
       "id": 3922,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-312"
     },
     {
       "id": 3874,
@@ -165,7 +165,7 @@ window.actressData = {
         "真白みのり",
         "上田紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-187"
     },
     {
       "id": 4658,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGTW-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGTW-001"
     },
     {
       "id": 62494,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-711"
     },
     {
       "id": 5274,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1386"
     },
     {
       "id": 5584,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-381"
     },
     {
       "id": 2361,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-355"
     },
     {
       "id": 5833,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-384"
     },
     {
       "id": 63900,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21970"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21970"
     },
     {
       "id": 5892,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-057"
     },
     {
       "id": 6034,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-641"
     },
     {
       "id": 6395,
@@ -325,7 +325,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-949"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-949"
     },
     {
       "id": 7441,
@@ -341,7 +341,7 @@ window.actressData = {
       "actress": [
         "工藤百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-966"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-966"
     },
     {
       "id": 9453,
@@ -359,7 +359,7 @@ window.actressData = {
         "春菜华",
         "スケザネヘイタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-006"
     }
   ]
 };

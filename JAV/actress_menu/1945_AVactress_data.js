@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "高山響歌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-060"
     },
     {
       "id": 17742,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "高山響歌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-041"
     }
   ]
 };

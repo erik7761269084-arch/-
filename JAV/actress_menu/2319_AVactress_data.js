@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "浅井心晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-006"
     },
     {
       "id": 86147,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "浅井心晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-144"
     },
     {
       "id": 84895,
@@ -96,7 +96,7 @@ window.actressData = {
         "浅井心晴",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-281"
     },
     {
       "id": 84894,
@@ -113,7 +113,7 @@ window.actressData = {
         "浅井心晴",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-282"
     },
     {
       "id": 81162,
@@ -132,7 +132,7 @@ window.actressData = {
         "鳳美優",
         "浅井心晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-490"
     },
     {
       "id": 1616,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "浅井心晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-059"
     },
     {
       "id": 83194,
@@ -166,7 +166,7 @@ window.actressData = {
         "蓝井优太",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-051"
     }
   ]
 };

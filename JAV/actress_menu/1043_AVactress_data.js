@@ -57,7 +57,7 @@ window.actressData = {
         "加藤結衣",
         "ローレン花恋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-355"
     },
     {
       "id": 17070,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "ローレン花恋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-609"
     }
   ]
 };

@@ -42,7 +42,7 @@ window.actressData = {
         "管野静香",
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVS-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVS-086"
     },
     {
       "id": 78587,
@@ -67,7 +67,7 @@ window.actressData = {
         "篠田优",
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-167"
     },
     {
       "id": 88285,
@@ -90,7 +90,7 @@ window.actressData = {
         "佐藤爱琉",
         "久远れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-076"
     },
     {
       "id": 81361,
@@ -109,7 +109,7 @@ window.actressData = {
         "佐藤爱琉",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-204"
     },
     {
       "id": 70202,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-416"
     },
     {
       "id": 107470,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-451"
     },
     {
       "id": 82132,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-918"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-918"
     },
     {
       "id": 81786,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-245"
     },
     {
       "id": 81492,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-449"
     },
     {
       "id": 83670,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-148"
     },
     {
       "id": 82331,
@@ -222,7 +222,7 @@ window.actressData = {
         "Qべぇ",
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-230"
     },
     {
       "id": 82214,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-118"
     },
     {
       "id": 78508,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-127"
     },
     {
       "id": 71760,
@@ -270,7 +270,7 @@ window.actressData = {
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-217"
     }
   ]
 };

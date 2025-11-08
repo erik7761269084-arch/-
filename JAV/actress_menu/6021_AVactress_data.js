@@ -33,7 +33,7 @@ window.actressData = {
         "南佳也",
         "杉咲なぎさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-052"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "向理来",
         "春风まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-150"
     },
     {
       "id": 90588,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "春风まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-149"
     },
     {
       "id": 87079,
@@ -66,7 +66,7 @@ window.actressData = {
         "向理来",
         "春风まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-145"
     },
     {
       "id": 90579,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "春风まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-131"
     },
     {
       "id": 81649,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "春风まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-625"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-625"
     },
     {
       "id": 78863,
@@ -115,7 +115,7 @@ window.actressData = {
         "森林原人",
         "春风まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-615"
     }
   ]
 };

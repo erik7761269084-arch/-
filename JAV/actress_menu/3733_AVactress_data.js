@@ -34,7 +34,7 @@ window.actressData = {
         "豊中爱丽丝",
         "真田由紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBRAQ-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBRAQ-069"
     },
     {
       "id": 86808,
@@ -54,7 +54,7 @@ window.actressData = {
         "豊中爱丽丝",
         "浅仓もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-986"
     },
     {
       "id": 83721,
@@ -71,7 +71,7 @@ window.actressData = {
         "豊中爱丽丝",
         "赤渕莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPUD-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPUD-316"
     },
     {
       "id": 81866,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "豊中爱丽丝"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-494"
     },
     {
       "id": 83068,
@@ -108,7 +108,7 @@ window.actressData = {
         "爱须みのん",
         "豊中爱丽丝"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-741"
     },
     {
       "id": 74782,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "豊中爱丽丝"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCT-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCT-053"
     },
     {
       "id": 74512,
@@ -150,7 +150,7 @@ window.actressData = {
         "南凉",
         "茜麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     },
     {
       "id": 77896,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "豊中爱丽丝"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-510"
     }
   ]
 };

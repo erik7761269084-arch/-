@@ -39,7 +39,7 @@ window.actressData = {
         "梨々花",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-354"
     },
     {
       "id": 83891,
@@ -57,7 +57,7 @@ window.actressData = {
         "稻场流花",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-725"
     },
     {
       "id": 83323,
@@ -75,7 +75,7 @@ window.actressData = {
         "凛音とうか",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-717"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-717"
     },
     {
       "id": 83324,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-087"
     },
     {
       "id": 78079,
@@ -108,7 +108,7 @@ window.actressData = {
         "宫村ななこ",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-471"
     },
     {
       "id": 73940,
@@ -126,7 +126,7 @@ window.actressData = {
         "音海里奈",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-438"
     },
     {
       "id": 71412,
@@ -143,7 +143,7 @@ window.actressData = {
         "望月理沙",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-238"
     },
     {
       "id": 82886,
@@ -162,7 +162,7 @@ window.actressData = {
         "梨々花",
         "绀野さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-237"
     },
     {
       "id": 70998,
@@ -182,7 +182,7 @@ window.actressData = {
         "タツ",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-605"
     },
     {
       "id": 72141,
@@ -201,7 +201,7 @@ window.actressData = {
         "纱々原ゆり",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-123"
     },
     {
       "id": 74394,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1065"
     },
     {
       "id": 78046,
@@ -235,7 +235,7 @@ window.actressData = {
         "三原穗香",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-486"
     }
   ]
 };

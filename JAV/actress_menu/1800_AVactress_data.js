@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "真白さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAA-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-436"
     }
   ]
 };

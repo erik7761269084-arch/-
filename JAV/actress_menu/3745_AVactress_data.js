@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-194"
     },
     {
       "id": 107569,
@@ -49,7 +49,7 @@ window.actressData = {
         "中山琴叶",
         "森川玉緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-184"
     },
     {
       "id": 68613,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-177"
     },
     {
       "id": 67622,
@@ -82,7 +82,7 @@ window.actressData = {
         "白桃はな",
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-686"
     },
     {
       "id": 107054,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-174"
     },
     {
       "id": 90275,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-161"
     },
     {
       "id": 100455,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-143"
     },
     {
       "id": 80863,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-127"
     },
     {
       "id": 79575,
@@ -164,7 +164,7 @@ window.actressData = {
         "南佳也",
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-124"
     },
     {
       "id": 69548,
@@ -182,7 +182,7 @@ window.actressData = {
         "イセドン内村",
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-096"
     }
   ]
 };

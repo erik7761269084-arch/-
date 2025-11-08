@@ -34,7 +34,7 @@ window.actressData = {
         "皆川ゆうな",
         "吉冈明日海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-645"
     },
     {
       "id": 83153,
@@ -51,7 +51,7 @@ window.actressData = {
         "鲛岛",
         "吉冈明日海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-050"
     },
     {
       "id": 78261,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "吉冈明日海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-042"
     },
     {
       "id": 70778,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "吉冈明日海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-027"
     }
   ]
 };

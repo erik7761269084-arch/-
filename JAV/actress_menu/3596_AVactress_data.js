@@ -35,7 +35,7 @@ window.actressData = {
         "千歳小梅",
         "さのさとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-184"
     },
     {
       "id": 91425,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "さのさとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-300"
     }
   ]
 };

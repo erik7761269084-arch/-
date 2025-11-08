@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "山宮いち香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-095"
     },
     {
       "id": 91106,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "山宮いち香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-170"
     }
   ]
 };

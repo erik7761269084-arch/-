@@ -46,7 +46,7 @@ window.actressData = {
         "橘咲良",
         "黒木澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-354"
     }
   ]
 };

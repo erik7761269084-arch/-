@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "日向理名"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-557"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-557"
     },
     {
       "id": 88605,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "日向理名"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-611"
     }
   ]
 };

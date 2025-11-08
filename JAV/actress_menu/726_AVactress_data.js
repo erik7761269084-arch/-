@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "有原あゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-809"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-809"
     },
     {
       "id": 71600,
@@ -69,7 +69,7 @@ window.actressData = {
         "森林原人",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-799"
     },
     {
       "id": 73341,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "有原あゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-787"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-787"
     },
     {
       "id": 106339,
@@ -102,7 +102,7 @@ window.actressData = {
         "有原あゆみ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-776"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-776"
     },
     {
       "id": 19306,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "有原あゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-150"
     },
     {
       "id": 19394,
@@ -135,7 +135,7 @@ window.actressData = {
         "有原あゆみ",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-046"
     },
     {
       "id": 82586,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "有原あゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-030"
     }
   ]
 };

@@ -65,7 +65,7 @@ window.actressData = {
         "トイボーイ相沢",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-264"
     },
     {
       "id": 8789,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "綾瀬舞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-353"
     },
     {
       "id": 91882,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "綾瀬舞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-220"
     },
     {
       "id": 91885,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "綾瀬舞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-630"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-630"
     },
     {
       "id": 18627,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "綾瀬舞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-708"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-708"
     }
   ]
 };

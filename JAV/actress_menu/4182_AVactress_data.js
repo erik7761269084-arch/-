@@ -35,7 +35,7 @@ window.actressData = {
         "七瀬もな",
         "纱东みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-132"
     },
     {
       "id": 83476,
@@ -58,7 +58,7 @@ window.actressData = {
         "纱东みお",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-413"
     },
     {
       "id": 88007,
@@ -76,7 +76,7 @@ window.actressData = {
         "霧島さくら",
         "纱东みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-478"
     },
     {
       "id": 71723,
@@ -95,7 +95,7 @@ window.actressData = {
         "月野優里亞",
         "纱东みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAPL-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAPL-026"
     }
   ]
 };

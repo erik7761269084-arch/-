@@ -37,7 +37,7 @@ window.actressData = {
         "月宫ねね",
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-180"
     },
     {
       "id": 86798,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-472"
     },
     {
       "id": 81832,
@@ -77,7 +77,7 @@ window.actressData = {
         "结白まさき",
         "高司奏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
     },
     {
       "id": 82079,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIKF-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKF-043"
     },
     {
       "id": 83525,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-442"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-442"
     },
     {
       "id": 83759,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NINE-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NINE-028"
     },
     {
       "id": 75393,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTKC-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-072"
     }
   ]
 };

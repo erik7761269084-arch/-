@@ -33,7 +33,7 @@ window.actressData = {
         "美園和花",
         "心実るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKSN-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-302"
     },
     {
       "id": 86793,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "心実るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-148"
     }
   ]
 };

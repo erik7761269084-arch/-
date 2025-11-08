@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-458"
     },
     {
       "id": 9094,
@@ -65,7 +65,7 @@ window.actressData = {
         "佐佐木紗希",
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-187"
     },
     {
       "id": 10515,
@@ -93,7 +93,7 @@ window.actressData = {
         "れみ",
         "安藤ハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
     },
     {
       "id": 95193,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-076"
     },
     {
       "id": 95298,
@@ -130,7 +130,7 @@ window.actressData = {
         "春原未来",
         "相沢澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-260"
     },
     {
       "id": 93579,
@@ -148,7 +148,7 @@ window.actressData = {
         "春原未来",
         "宗像れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSM-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSM-057"
     },
     {
       "id": 88982,
@@ -165,7 +165,7 @@ window.actressData = {
         "春原未来",
         "斉藤あみり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-893"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-893"
     },
     {
       "id": 88992,
@@ -183,7 +183,7 @@ window.actressData = {
         "春原未来",
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-887"
     },
     {
       "id": 106678,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21791"
     },
     {
       "id": 89652,
@@ -216,7 +216,7 @@ window.actressData = {
         "宫泽千春",
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-699"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-699"
     },
     {
       "id": 87881,
@@ -237,7 +237,7 @@ window.actressData = {
         "君岛美绪",
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-200"
     },
     {
       "id": 87111,
@@ -256,7 +256,7 @@ window.actressData = {
         "川上優",
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-434"
     },
     {
       "id": 66700,
@@ -274,7 +274,7 @@ window.actressData = {
         "希望美",
         "久美木マリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-141"
     },
     {
       "id": 67030,
@@ -291,7 +291,7 @@ window.actressData = {
         "春原未来",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-136"
     },
     {
       "id": 66819,
@@ -309,7 +309,7 @@ window.actressData = {
         "白石環奈",
         "南真悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-131"
     },
     {
       "id": 89532,
@@ -328,7 +328,7 @@ window.actressData = {
         "瀬崎彩音",
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-127"
     },
     {
       "id": 89531,
@@ -347,7 +347,7 @@ window.actressData = {
         "春原未来",
         "南真悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-123"
     },
     {
       "id": 81352,
@@ -364,7 +364,7 @@ window.actressData = {
         "雫月心桜",
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-426"
     },
     {
       "id": 81444,
@@ -381,7 +381,7 @@ window.actressData = {
         "羽月希",
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-856"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-856"
     },
     {
       "id": 81450,
@@ -398,7 +398,7 @@ window.actressData = {
         "春原未来",
         "城川ティナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-179"
     },
     {
       "id": 2018,
@@ -415,7 +415,7 @@ window.actressData = {
         "春原未来",
         "春咲凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=abp-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-942"
     },
     {
       "id": 81487,
@@ -435,7 +435,7 @@ window.actressData = {
         "今井由亞",
         "松尾江里子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-478"
     },
     {
       "id": 69976,
@@ -452,7 +452,7 @@ window.actressData = {
         "春原未来",
         "南真悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-741"
     },
     {
       "id": 99130,
@@ -469,7 +469,7 @@ window.actressData = {
         "春原未来",
         "奏自由"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-240-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-240-"
     },
     {
       "id": 97540,
@@ -488,7 +488,7 @@ window.actressData = {
         "凛音とうか",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-697"
     },
     {
       "id": 77978,
@@ -505,7 +505,7 @@ window.actressData = {
         "春原未来",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-816"
     },
     {
       "id": 72212,
@@ -521,7 +521,7 @@ window.actressData = {
       "actress": [
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKW-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-044"
     },
     {
       "id": 72295,
@@ -541,7 +541,7 @@ window.actressData = {
         "星奈爱",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-432"
     },
     {
       "id": 91729,
@@ -558,7 +558,7 @@ window.actressData = {
         "春原未来",
         "小口田桂子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21058"
     },
     {
       "id": 73396,
@@ -577,7 +577,7 @@ window.actressData = {
         "春原未来",
         "舞咲美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-588"
     },
     {
       "id": 83023,
@@ -593,7 +593,7 @@ window.actressData = {
       "actress": [
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=I-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=I-001"
     },
     {
       "id": 79202,
@@ -609,7 +609,7 @@ window.actressData = {
       "actress": [
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-237"
     }
   ]
 };

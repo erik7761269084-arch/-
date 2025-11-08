@@ -35,7 +35,7 @@ window.actressData = {
         "爱乃零",
         "佐々木れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-015"
     },
     {
       "id": 88373,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "佐々木れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-712"
     }
   ]
 };

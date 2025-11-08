@@ -39,7 +39,7 @@ window.actressData = {
         "加贺美さら",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVS-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVS-081"
     },
     {
       "id": 91330,
@@ -65,7 +65,7 @@ window.actressData = {
         "浜崎真绪",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-141"
     },
     {
       "id": 106758,
@@ -83,7 +83,7 @@ window.actressData = {
         "若宫はずき",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-271"
     },
     {
       "id": 84221,
@@ -100,7 +100,7 @@ window.actressData = {
         "織田真子",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-680"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-680"
     },
     {
       "id": 86213,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-378"
     },
     {
       "id": 85241,
@@ -134,7 +134,7 @@ window.actressData = {
         "今井夏帆",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-233"
     },
     {
       "id": 80421,
@@ -152,7 +152,7 @@ window.actressData = {
         "小田切ジュン",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-339"
     },
     {
       "id": 80202,
@@ -171,7 +171,7 @@ window.actressData = {
         "今井夏帆",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-437"
     },
     {
       "id": 79754,
@@ -189,7 +189,7 @@ window.actressData = {
         "タツ",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-101"
     },
     {
       "id": 79466,
@@ -209,7 +209,7 @@ window.actressData = {
         "浜崎真绪",
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-312"
     },
     {
       "id": 93077,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "REMI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-064"
     }
   ]
 };

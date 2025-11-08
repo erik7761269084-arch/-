@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-541"
     },
     {
       "id": 81130,
@@ -50,7 +50,7 @@ window.actressData = {
         "凉南佳奈",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-909"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-909"
     },
     {
       "id": 80797,
@@ -67,7 +67,7 @@ window.actressData = {
         "生田みく",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-892"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-892"
     },
     {
       "id": 75839,
@@ -87,7 +87,7 @@ window.actressData = {
         "今井まい",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-737"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-737"
     },
     {
       "id": 75879,
@@ -111,7 +111,7 @@ window.actressData = {
         "山井すず",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-200"
     },
     {
       "id": 76164,
@@ -131,7 +131,7 @@ window.actressData = {
         "立花芽衣",
         "新田理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-181"
     },
     {
       "id": 83287,
@@ -150,7 +150,7 @@ window.actressData = {
         "诗音乃らん",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-278"
     },
     {
       "id": 77868,
@@ -167,7 +167,7 @@ window.actressData = {
         "玉木玲",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-945"
     }
   ]
 };

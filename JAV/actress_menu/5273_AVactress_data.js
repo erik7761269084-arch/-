@@ -34,7 +34,7 @@ window.actressData = {
         "琴音芽衣",
         "二井见玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAB-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-017"
     }
   ]
 };

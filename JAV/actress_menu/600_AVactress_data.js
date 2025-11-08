@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "臼井理佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-938"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-938"
     },
     {
       "id": 8330,
@@ -70,7 +70,7 @@ window.actressData = {
         "じゅうもんじ",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-912"
     },
     {
       "id": 8890,
@@ -87,7 +87,7 @@ window.actressData = {
         "臼井理佳",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-901"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-901"
     },
     {
       "id": 10031,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "臼井理佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-880"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-880"
     },
     {
       "id": 16477,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "臼井理佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-749"
     }
   ]
 };

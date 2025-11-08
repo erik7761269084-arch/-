@@ -39,7 +39,7 @@ window.actressData = {
         "初美りん",
         "仓科もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-064"
     },
     {
       "id": 77883,
@@ -60,7 +60,7 @@ window.actressData = {
         "瀬乃ひなた",
         "仓科もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRU-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-048"
     },
     {
       "id": 82941,
@@ -80,7 +80,7 @@ window.actressData = {
         "仓科もえ",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZUKO-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-140"
     }
   ]
 };

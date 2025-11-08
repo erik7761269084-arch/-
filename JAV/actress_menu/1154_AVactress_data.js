@@ -56,7 +56,7 @@ window.actressData = {
         "左慈半造",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-703"
     },
     {
       "id": 13333,
@@ -73,7 +73,7 @@ window.actressData = {
         "橋本葵",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-695"
     },
     {
       "id": 13984,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "橋本葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-689"
     }
   ]
 };

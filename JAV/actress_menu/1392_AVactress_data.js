@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "美織杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-648"
     },
     {
       "id": 3775,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "美織杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-667"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-667"
     },
     {
       "id": 4717,
@@ -80,13 +80,13 @@ window.actressData = {
       "type": "有码",
       "company": "IDEA POCKET",
       "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053607879879_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053607879879_s.webp",
       "actress": [
         "美織杏",
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-617"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-617"
     }
   ]
 };

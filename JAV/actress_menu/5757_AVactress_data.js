@@ -33,7 +33,7 @@ window.actressData = {
         "春原未来",
         "小口田桂子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21058"
     }
   ]
 };

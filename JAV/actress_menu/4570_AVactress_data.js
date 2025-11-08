@@ -35,7 +35,7 @@ window.actressData = {
         "奈良桥ちえ",
         "沢舞桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5196"
     }
   ]
 };

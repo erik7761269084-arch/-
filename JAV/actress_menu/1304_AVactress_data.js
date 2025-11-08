@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "内山真宙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-310"
     },
     {
       "id": 10326,
@@ -65,7 +65,7 @@ window.actressData = {
         "内山真宙",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-534"
     }
   ]
 };

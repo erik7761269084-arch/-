@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "滿島杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VTMN-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VTMN-020"
     },
     {
       "id": 2701,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "滿島杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-385"
     },
     {
       "id": 4420,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "滿島杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-075"
     },
     {
       "id": 6932,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "滿島杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-604"
     }
   ]
 };

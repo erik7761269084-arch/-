@@ -34,7 +34,7 @@ window.actressData = {
         "森林原人",
         "月野帯人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-050"
     },
     {
       "id": 106004,
@@ -52,7 +52,7 @@ window.actressData = {
         "麻美由真",
         "月野帯人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-673"
     }
   ]
 };

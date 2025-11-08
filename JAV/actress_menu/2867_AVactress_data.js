@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "稲月このは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-615"
     },
     {
       "id": 88976,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "稲月このは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=USAG-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-060"
     },
     {
       "id": 69453,
@@ -89,7 +89,7 @@ window.actressData = {
         "由爱可奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-674"
     }
   ]
 };

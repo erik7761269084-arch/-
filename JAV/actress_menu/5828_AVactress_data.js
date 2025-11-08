@@ -35,7 +35,7 @@ window.actressData = {
         "植木翔子",
         "宫岛优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-064"
     },
     {
       "id": 105885,
@@ -53,7 +53,7 @@ window.actressData = {
         "宫岛优",
         "明奈さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-004"
     },
     {
       "id": 106334,
@@ -71,7 +71,7 @@ window.actressData = {
         "秋元美織",
         "宫岛优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-163"
     },
     {
       "id": 98256,
@@ -91,7 +91,7 @@ window.actressData = {
         "天野仁美",
         "平井雅美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-410"
     }
   ]
 };

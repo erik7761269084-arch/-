@@ -66,7 +66,7 @@ window.actressData = {
         "滝ゆいな",
         "堤芹奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-250"
     },
     {
       "id": 8966,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "堤芹奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-902"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-902"
     },
     {
       "id": 9159,
@@ -108,7 +108,7 @@ window.actressData = {
         "工藤りおな",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-661"
     },
     {
       "id": 9838,
@@ -125,7 +125,7 @@ window.actressData = {
         "桂木春香",
         "堤芹奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIBB-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIBB-049"
     },
     {
       "id": 76620,
@@ -142,7 +142,7 @@ window.actressData = {
         "滝ゆいな",
         "堤芹奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-958"
     },
     {
       "id": 10054,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "堤芹奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-608"
     }
   ]
 };

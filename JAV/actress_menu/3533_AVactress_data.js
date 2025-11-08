@@ -33,7 +33,7 @@ window.actressData = {
         "平井シンジ",
         "杉山あゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BJD-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BJD-054"
     },
     {
       "id": 69605,
@@ -53,7 +53,7 @@ window.actressData = {
         "美里亜希",
         "藤崎美冬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-396"
     },
     {
       "id": 82020,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "杉山あゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1260"
     }
   ]
 };

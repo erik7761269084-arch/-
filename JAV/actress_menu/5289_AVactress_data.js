@@ -35,7 +35,7 @@ window.actressData = {
         "森下美绪",
         "とみの伊织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-247"
     }
   ]
 };

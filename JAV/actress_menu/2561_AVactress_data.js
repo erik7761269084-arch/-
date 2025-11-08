@@ -94,7 +94,7 @@ window.actressData = {
         "藤宮櫻花",
         "佐伯春菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-371"
     }
   ]
 };

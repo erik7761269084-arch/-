@@ -38,7 +38,7 @@ window.actressData = {
         "志戸哲也",
         "堀沢ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-292"
     },
     {
       "id": 82065,
@@ -55,7 +55,7 @@ window.actressData = {
         "香坂みりな",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-291"
     },
     {
       "id": 82002,
@@ -76,7 +76,7 @@ window.actressData = {
         "森山なつか",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-280"
     },
     {
       "id": 100965,
@@ -93,7 +93,7 @@ window.actressData = {
         "羽田あい",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-278"
     }
   ]
 };

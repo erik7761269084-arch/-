@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "双叶ゆず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-350"
     },
     {
       "id": 74576,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "双叶ゆず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-681"
     },
     {
       "id": 77326,
@@ -65,7 +65,7 @@ window.actressData = {
         "玉木玲",
         "双叶ゆず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-071"
     }
   ]
 };

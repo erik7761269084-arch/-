@@ -41,7 +41,7 @@ window.actressData = {
         "永濑唯",
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-369"
     },
     {
       "id": 87047,
@@ -58,7 +58,7 @@ window.actressData = {
         "朝比奈かれん",
         "纱雾ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-286"
     },
     {
       "id": 90887,
@@ -75,7 +75,7 @@ window.actressData = {
         "森日向子",
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-621"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-621"
     },
     {
       "id": 68406,
@@ -93,7 +93,7 @@ window.actressData = {
         "大空七海",
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-268"
     },
     {
       "id": 90245,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-681"
     },
     {
       "id": 68254,
@@ -127,7 +127,7 @@ window.actressData = {
         "浜崎真绪",
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-251"
     },
     {
       "id": 81158,
@@ -145,7 +145,7 @@ window.actressData = {
         "朝比奈かれん",
         "珠未みさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-108"
     },
     {
       "id": 84515,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-358"
     },
     {
       "id": 86034,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-436"
     },
     {
       "id": 80049,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-074"
     },
     {
       "id": 87631,
@@ -211,7 +211,7 @@ window.actressData = {
         "Qべぇ",
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-531"
     },
     {
       "id": 79860,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-538"
     },
     {
       "id": 79718,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-257"
     },
     {
       "id": 91489,
@@ -259,7 +259,7 @@ window.actressData = {
       "actress": [
         "朝比奈かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-811"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-811"
     },
     {
       "id": 83038,
@@ -284,7 +284,7 @@ window.actressData = {
         "美月しのぶ",
         "七瀬ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MC-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MC-002"
     }
   ]
 };

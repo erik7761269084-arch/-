@@ -33,7 +33,7 @@ window.actressData = {
         "まゆみ",
         "白河まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-3005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-3005"
     },
     {
       "id": 70762,
@@ -51,7 +51,7 @@ window.actressData = {
         "まいかさん",
         "前田可奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-067"
     }
   ]
 };

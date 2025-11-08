@@ -52,7 +52,7 @@ window.actressData = {
         "天晴乃愛",
         "中条りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-120"
     }
   ]
 };

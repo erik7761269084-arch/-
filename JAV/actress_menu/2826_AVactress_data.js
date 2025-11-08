@@ -78,7 +78,7 @@ window.actressData = {
         "莲美柚香",
         "爱実ありあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-298"
     },
     {
       "id": 72176,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "瞳りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STM-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-002"
     }
   ]
 };

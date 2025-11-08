@@ -46,7 +46,7 @@ window.actressData = {
         "小田切ジュン",
         "七尾神×"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPIT-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-045"
     },
     {
       "id": 107002,
@@ -63,7 +63,7 @@ window.actressData = {
         "彩乃聖羅",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPIT-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-040"
     },
     {
       "id": 107345,
@@ -80,7 +80,7 @@ window.actressData = {
         "彩乃聖羅",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPIT-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-038"
     }
   ]
 };

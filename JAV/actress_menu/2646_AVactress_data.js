@@ -83,7 +83,7 @@ window.actressData = {
         "凉森玲梦",
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
       "id": 88271,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "吉岡蓮美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-684"
     },
     {
       "id": 70958,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "吉岡蓮美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-674"
     },
     {
       "id": 103295,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "吉岡蓮美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-069"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "百合良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-214"
     }
   ]
 };

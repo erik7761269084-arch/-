@@ -40,7 +40,7 @@ window.actressData = {
         "峰岸洋子",
         "福浦那绪美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5224"
     },
     {
       "id": 88112,
@@ -62,7 +62,7 @@ window.actressData = {
         "叶山弓子",
         "甲斐ミハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMIX-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-012"
     }
   ]
 };

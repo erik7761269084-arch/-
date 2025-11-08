@@ -33,7 +33,7 @@ window.actressData = {
         "緒川春",
         "りんさん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-059"
     }
   ]
 };

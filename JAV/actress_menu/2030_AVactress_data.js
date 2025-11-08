@@ -49,7 +49,7 @@ window.actressData = {
         "日森一",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-850"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-850"
     },
     {
       "id": 5716,
@@ -66,7 +66,7 @@ window.actressData = {
         "涼音留衣",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-840"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-840"
     }
   ]
 };

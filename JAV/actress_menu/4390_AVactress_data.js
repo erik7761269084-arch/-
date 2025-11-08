@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "白石亚子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-189"
     },
     {
       "id": 73587,
@@ -51,7 +51,7 @@ window.actressData = {
         "沢井亮",
         "白石亚子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-992"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-992"
     },
     {
       "id": 86677,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "白石亚子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-969"
     },
     {
       "id": 86654,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "白石亚子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-961"
     },
     {
       "id": 98363,
@@ -102,7 +102,7 @@ window.actressData = {
         "南佳也",
         "白石亚子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-951"
     }
   ]
 };

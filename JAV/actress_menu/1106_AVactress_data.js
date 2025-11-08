@@ -52,7 +52,7 @@ window.actressData = {
         "花芽有朱",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-378"
     },
     {
       "id": 5004,
@@ -79,7 +79,7 @@ window.actressData = {
         "吉野愛衣",
         "小野寺ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
     },
     {
       "id": 66194,
@@ -103,7 +103,7 @@ window.actressData = {
         "美好柚伽",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BUR-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-635"
     },
     {
       "id": 66193,
@@ -120,7 +120,7 @@ window.actressData = {
         "天馬唯",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IMO-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-031"
     },
     {
       "id": 7423,
@@ -140,7 +140,7 @@ window.actressData = {
         "仲川空",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
     },
     {
       "id": 10515,
@@ -168,7 +168,7 @@ window.actressData = {
         "れみ",
         "安藤ハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
     },
     {
       "id": 13084,
@@ -188,7 +188,7 @@ window.actressData = {
         "花芽有朱",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-051"
     },
     {
       "id": 94818,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVVRT-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-021"
     },
     {
       "id": 106584,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-722"
     },
     {
       "id": 90449,
@@ -242,7 +242,7 @@ window.actressData = {
         "南見つばさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONI-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONI-042"
     },
     {
       "id": 90167,
@@ -260,7 +260,7 @@ window.actressData = {
         "花芽有朱",
         "矢野沙衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-540"
     },
     {
       "id": 89404,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-196"
     },
     {
       "id": 91166,
@@ -292,7 +292,7 @@ window.actressData = {
       "actress": [
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-284"
     },
     {
       "id": 87737,
@@ -313,7 +313,7 @@ window.actressData = {
         "有季奈绪",
         "清宫すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-485"
     },
     {
       "id": 89477,
@@ -330,7 +330,7 @@ window.actressData = {
         "黒木逢夢",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVVRT-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-019"
     },
     {
       "id": 84584,
@@ -346,7 +346,7 @@ window.actressData = {
       "actress": [
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-149"
     },
     {
       "id": 81140,
@@ -363,7 +363,7 @@ window.actressData = {
         "花芽有朱",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-134"
     },
     {
       "id": 80817,
@@ -379,7 +379,7 @@ window.actressData = {
       "actress": [
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-050"
     },
     {
       "id": 85419,
@@ -395,7 +395,7 @@ window.actressData = {
       "actress": [
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-033"
     },
     {
       "id": 80096,
@@ -413,7 +413,7 @@ window.actressData = {
         "花芽有朱",
         "夏目ミュウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-003"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "山口椿",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-158"
     },
     {
       "id": 87605,
@@ -56,7 +56,7 @@ window.actressData = {
         "山口椿",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-060"
     },
     {
       "id": 88146,
@@ -75,7 +75,7 @@ window.actressData = {
         "香原京香",
         "笛木さとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3355"
     },
     {
       "id": 70722,
@@ -92,7 +92,7 @@ window.actressData = {
         "山口椿",
         "植木翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ITSR-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ITSR-071"
     }
   ]
 };

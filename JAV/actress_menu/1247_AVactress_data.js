@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "高梨真緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-182"
     },
     {
       "id": 9192,
@@ -66,7 +66,7 @@ window.actressData = {
         "高梨真緒",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-129"
     },
     {
       "id": 10142,
@@ -83,7 +83,7 @@ window.actressData = {
         "高梨真緒",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-991"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-991"
     },
     {
       "id": 77828,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "高梨真緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-922"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-922"
     }
   ]
 };

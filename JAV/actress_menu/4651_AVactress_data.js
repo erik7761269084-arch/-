@@ -35,7 +35,7 @@ window.actressData = {
         "黒瀬萌衣",
         "结城ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-476"
     },
     {
       "id": 86938,
@@ -53,7 +53,7 @@ window.actressData = {
         "広瀬うみ",
         "黒瀬萌衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-937"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-937"
     },
     {
       "id": 76615,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "黒瀬萌衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-685"
     },
     {
       "id": 86947,
@@ -86,7 +86,7 @@ window.actressData = {
         "鲛岛",
         "黒瀬萌衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-041"
     }
   ]
 };

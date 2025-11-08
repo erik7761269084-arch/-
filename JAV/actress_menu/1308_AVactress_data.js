@@ -56,7 +56,7 @@ window.actressData = {
         "佐倉陽菜",
         "琴井汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-330"
     },
     {
       "id": 85752,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "琴井汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-055"
     },
     {
       "id": 80080,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "琴井汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-044"
     },
     {
       "id": 107359,
@@ -105,7 +105,7 @@ window.actressData = {
         "琴井汐里",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-159"
     },
     {
       "id": 69889,
@@ -123,7 +123,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-684"
     },
     {
       "id": 83840,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "琴井汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-438"
     },
     {
       "id": 75638,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "琴井汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-654"
     },
     {
       "id": 4048,
@@ -172,7 +172,7 @@ window.actressData = {
         "琴井汐里",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-601"
     },
     {
       "id": 9128,
@@ -189,7 +189,7 @@ window.actressData = {
         "琴井汐里",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-554"
     }
   ]
 };

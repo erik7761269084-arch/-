@@ -38,7 +38,7 @@ window.actressData = {
         "橘エレナ",
         "早坂麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-292"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "水嶋杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-837"
     },
     {
       "id": 67894,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "水嶋杏美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DPHN-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPHN-142"
     }
   ]
 };

@@ -37,7 +37,7 @@ window.actressData = {
         "七瀬るい",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-580"
     },
     {
       "id": 75122,
@@ -54,7 +54,7 @@ window.actressData = {
         "七瀬るい",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-556"
     },
     {
       "id": 77289,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "七瀬るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-535"
     },
     {
       "id": 77981,
@@ -88,7 +88,7 @@ window.actressData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-526"
     }
   ]
 };

@@ -51,7 +51,7 @@ window.actressData = {
         "大浦真奈美",
         "椎菜える"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSODA-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-074"
     },
     {
       "id": 2358,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "椎菜える"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-356"
     },
     {
       "id": 8064,
@@ -88,7 +88,7 @@ window.actressData = {
         "高橋ほなみ",
         "椎菜える"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-303"
     }
   ]
 };

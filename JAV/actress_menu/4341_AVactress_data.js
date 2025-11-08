@@ -33,7 +33,7 @@ window.actressData = {
         "新村晶",
         "落合丽香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACZD-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-131"
     },
     {
       "id": 73098,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "落合丽香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3353"
     }
   ]
 };

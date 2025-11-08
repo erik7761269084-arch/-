@@ -33,7 +33,7 @@ window.actressData = {
         "碓冰莲",
         "伊藤くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-148"
     },
     {
       "id": 81018,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-366"
     },
     {
       "id": 80308,
@@ -67,7 +67,7 @@ window.actressData = {
         "篠原りこ",
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-994"
     },
     {
       "id": 85012,
@@ -84,7 +84,7 @@ window.actressData = {
         "イセドン内村",
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-367"
     },
     {
       "id": 80226,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-487"
     },
     {
       "id": 86166,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-027"
     },
     {
       "id": 78620,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-163"
     },
     {
       "id": 79058,
@@ -150,7 +150,7 @@ window.actressData = {
         "稻场流花",
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-795"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-795"
     }
   ]
 };

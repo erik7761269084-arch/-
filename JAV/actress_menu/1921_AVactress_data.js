@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "大仓彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-089"
     }
   ]
 };

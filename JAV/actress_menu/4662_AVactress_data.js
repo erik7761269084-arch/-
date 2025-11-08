@@ -34,7 +34,7 @@ window.actressData = {
         "优梨まいな",
         "苍风とわ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-299"
     }
   ]
 };

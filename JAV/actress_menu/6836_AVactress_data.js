@@ -33,7 +33,7 @@ window.actressData = {
         "米津响",
         "中谷響"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-954"
     }
   ]
 };

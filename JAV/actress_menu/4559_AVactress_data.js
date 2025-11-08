@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "三条つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1215"
     },
     {
       "id": 76370,
@@ -51,7 +51,7 @@ window.actressData = {
         "美原すみれ",
         "三条つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-050"
     }
   ]
 };

@@ -48,7 +48,7 @@ window.actressData = {
         "美晴のん",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-811"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-811"
     },
     {
       "id": 107050,
@@ -65,7 +65,7 @@ window.actressData = {
         "美晴のん",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-771"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-771"
     },
     {
       "id": 107442,
@@ -83,7 +83,7 @@ window.actressData = {
         "小田切ジュン",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-730"
     },
     {
       "id": 87704,
@@ -100,7 +100,7 @@ window.actressData = {
         "美晴のん",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-694"
     }
   ]
 };

@@ -41,7 +41,7 @@ window.actressData = {
         "五十岚かな",
         "桜庭このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-232"
     },
     {
       "id": 73446,
@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "绪川りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-987"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-987"
     }
   ]
 };

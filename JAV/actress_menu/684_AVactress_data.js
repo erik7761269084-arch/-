@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "柚月ひまわり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-711"
     },
     {
       "id": 100602,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "柚月ひまわり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-912"
     },
     {
       "id": 100620,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "柚月ひまわり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-183"
     },
     {
       "id": 19282,
@@ -103,7 +103,7 @@ window.actressData = {
         "柚月ひまわり",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-161"
     },
     {
       "id": 19387,
@@ -120,7 +120,7 @@ window.actressData = {
         "柚月ひまわり",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-056"
     },
     {
       "id": 19401,
@@ -138,7 +138,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-039"
     },
     {
       "id": 19414,
@@ -155,7 +155,7 @@ window.actressData = {
         "柚月ひまわり",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-023"
     },
     {
       "id": 19425,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "柚月ひまわり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-009"
     },
     {
       "id": 100490,
@@ -190,7 +190,7 @@ window.actressData = {
         "鲛岛",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-972"
     },
     {
       "id": 77974,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "柚月ひまわり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-901"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-901"
     },
     {
       "id": 100524,
@@ -224,7 +224,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-851"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-851"
     }
   ]
 };

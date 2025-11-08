@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "大桃理沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S69"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S69"
     }
   ]
 };

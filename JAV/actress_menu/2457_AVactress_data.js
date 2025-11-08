@@ -105,7 +105,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-185"
     },
     {
       "id": 88197,
@@ -122,7 +122,7 @@ window.actressData = {
         "香椎梨亞",
         "せりなさん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-070"
     },
     {
       "id": 81483,
@@ -146,7 +146,7 @@ window.actressData = {
         "杏璃さや",
         "爱瀬美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-030"
     },
     {
       "id": 88164,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "香椎梨亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-590"
     },
     {
       "id": 99333,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "香椎梨亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-467"
     }
   ]
 };

@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "松野蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-717"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-717"
     },
     {
       "id": 6787,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "松野蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-297"
     },
     {
       "id": 7372,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "松野蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-273"
     },
     {
       "id": 8087,
@@ -113,7 +113,7 @@ window.actressData = {
         "松野蘭",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-195"
     },
     {
       "id": 8842,
@@ -130,7 +130,7 @@ window.actressData = {
         "松野蘭",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-168"
     },
     {
       "id": 9753,
@@ -147,7 +147,7 @@ window.actressData = {
         "松野蘭",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-148"
     },
     {
       "id": 10417,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "松野蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-975"
     }
   ]
 };

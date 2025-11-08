@@ -40,11 +40,11 @@ window.actressData = {
       "type": "有码",
       "company": "ATTACKERS",
       "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626033208418418_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626033208418418_s.webp",
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-667"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-667"
     },
     {
       "id": 7215,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-669"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-669"
     },
     {
       "id": 8658,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-151"
     },
     {
       "id": 107582,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-632"
     },
     {
       "id": 107367,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-595"
     },
     {
       "id": 100621,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-582"
     },
     {
       "id": 73372,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-569"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-569"
     },
     {
       "id": 67222,
@@ -157,7 +157,7 @@ window.actressData = {
         "神木蘭",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-556"
     },
     {
       "id": 66869,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-540"
     },
     {
       "id": 67431,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "神木蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-525"
     },
     {
       "id": 97302,
@@ -206,7 +206,7 @@ window.actressData = {
         "神木蘭",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-510"
     }
   ]
 };

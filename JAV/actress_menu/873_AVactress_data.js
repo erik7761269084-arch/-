@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "夏空梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-718"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-718"
     },
     {
       "id": 71056,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "夏空梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-636"
     },
     {
       "id": 8460,
@@ -87,7 +87,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-558"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-558"
     },
     {
       "id": 10129,
@@ -104,7 +104,7 @@ window.actressData = {
         "夏空梨花",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-515"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-515"
     }
   ]
 };

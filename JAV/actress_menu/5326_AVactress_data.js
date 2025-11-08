@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "叶梦そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-032"
     }
   ]
 };

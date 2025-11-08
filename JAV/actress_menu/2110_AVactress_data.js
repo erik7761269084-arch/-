@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "茜音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFT-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-027"
     }
   ]
 };

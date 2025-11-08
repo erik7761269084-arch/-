@@ -47,7 +47,7 @@ window.actressData = {
         "神谷秋妃",
         "柏木あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOMN-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOMN-078"
     }
   ]
 };

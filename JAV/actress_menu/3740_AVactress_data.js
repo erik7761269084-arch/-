@@ -36,7 +36,7 @@ window.actressData = {
         "内海みう",
         "青井いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-520"
     },
     {
       "id": 107150,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "柚木ひおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJDD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDD-005"
     },
     {
       "id": 87135,
@@ -71,7 +71,7 @@ window.actressData = {
         "ひなた唯",
         "柚木ひおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-905"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-905"
     },
     {
       "id": 69119,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "柚木ひおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-229"
     },
     {
       "id": 107042,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "柚木ひおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-603"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-603"
     },
     {
       "id": 67594,
@@ -120,7 +120,7 @@ window.actressData = {
         "鈴村みなみ",
         "柚木ひおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HIMA-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-098"
     }
   ]
 };

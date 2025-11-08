@@ -62,7 +62,7 @@ window.actressData = {
         "安倍亜沙美",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IMO-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-033"
     },
     {
       "id": 5970,
@@ -83,7 +83,7 @@ window.actressData = {
         "宮崎玲",
         "綾瀬もか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-277"
     },
     {
       "id": 71416,
@@ -101,7 +101,7 @@ window.actressData = {
         "月本海咲",
         "綾瀬もか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LOL-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-242"
     },
     {
       "id": 10006,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "綾瀬もか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TENN-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-031"
     },
     {
       "id": 14739,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "綾瀬もか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-019"
     },
     {
       "id": 69486,
@@ -150,7 +150,7 @@ window.actressData = {
         "綾瀬もか",
         "南日奈乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=T-38031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T-38031"
     }
   ]
 };

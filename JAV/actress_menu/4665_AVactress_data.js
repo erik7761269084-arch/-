@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "大城雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-102"
     },
     {
       "id": 76840,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "大城雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-063"
     },
     {
       "id": 77869,
@@ -65,7 +65,7 @@ window.actressData = {
         "イセドン内村",
         "大城雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-991"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-991"
     }
   ]
 };

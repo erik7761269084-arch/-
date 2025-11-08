@@ -57,7 +57,7 @@ window.actressData = {
         "西野翔",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-204"
     },
     {
       "id": 76685,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-189"
     },
     {
       "id": 75081,
@@ -94,7 +94,7 @@ window.actressData = {
         "管野静香",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-173"
     },
     {
       "id": 70088,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-159"
     },
     {
       "id": 69165,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-144"
     },
     {
       "id": 73957,
@@ -143,7 +143,7 @@ window.actressData = {
         "西野翔",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-113"
     },
     {
       "id": 107342,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-668"
     },
     {
       "id": 71322,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-810"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-810"
     },
     {
       "id": 82394,
@@ -192,7 +192,7 @@ window.actressData = {
         "西野翔",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-563"
     },
     {
       "id": 88032,
@@ -209,7 +209,7 @@ window.actressData = {
         "西野翔",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-541"
     },
     {
       "id": 82307,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-431"
     },
     {
       "id": 76901,
@@ -242,7 +242,7 @@ window.actressData = {
         "西野翔",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-183"
     },
     {
       "id": 104683,
@@ -258,7 +258,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-678"
     },
     {
       "id": 100948,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-001"
     },
     {
       "id": 78960,
@@ -290,7 +290,7 @@ window.actressData = {
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-734"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-734"
     }
   ]
 };

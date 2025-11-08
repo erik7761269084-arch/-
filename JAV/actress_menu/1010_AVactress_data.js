@@ -63,7 +63,7 @@ window.actressData = {
         "吉野愛衣",
         "小野寺ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
     },
     {
       "id": 91117,
@@ -86,7 +86,7 @@ window.actressData = {
         "安倍亜沙美",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-272"
     }
   ]
 };

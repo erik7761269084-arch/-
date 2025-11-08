@@ -47,7 +47,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 88017,
@@ -64,7 +64,7 @@ window.actressData = {
         "玉木玲",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-116"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "上野真奈美",
         "志恩まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-065"
     },
     {
       "id": 100686,
@@ -52,7 +52,7 @@ window.actressData = {
         "若宫はずき",
         "志恩まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-734"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-734"
     },
     {
       "id": 72677,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "志恩まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AQSH-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-066"
     },
     {
       "id": 101595,
@@ -85,7 +85,7 @@ window.actressData = {
         "イセドン内村",
         "志恩まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1345"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1345"
     }
   ]
 };

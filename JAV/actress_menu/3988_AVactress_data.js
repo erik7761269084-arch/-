@@ -34,7 +34,7 @@ window.actressData = {
         "枝川结衣",
         "まゆのゆま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-564"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-564"
     },
     {
       "id": 70258,
@@ -59,7 +59,7 @@ window.actressData = {
         "海空花",
         "まゆのゆま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-888"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-888"
     },
     {
       "id": 88449,
@@ -77,7 +77,7 @@ window.actressData = {
         "まゆのゆま",
         "松浦ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-826"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-826"
     }
   ]
 };

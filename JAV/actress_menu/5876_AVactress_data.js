@@ -33,7 +33,7 @@ window.actressData = {
         "蒲生司紗",
         "永井千歳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-192"
     }
   ]
 };

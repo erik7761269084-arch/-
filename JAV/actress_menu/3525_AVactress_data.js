@@ -34,7 +34,7 @@ window.actressData = {
         "おりん",
         "椿ハルナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCD-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-304"
     },
     {
       "id": 68366,
@@ -52,7 +52,7 @@ window.actressData = {
         "おりん",
         "椿ハルナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCD-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-303"
     },
     {
       "id": 73683,
@@ -69,7 +69,7 @@ window.actressData = {
         "おりん",
         "椿ハルナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCD-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-300"
     }
   ]
 };

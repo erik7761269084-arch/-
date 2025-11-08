@@ -68,7 +68,7 @@ window.actressData = {
         "森林原人",
         "爱瀬るか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-018"
     },
     {
       "id": 83476,
@@ -91,7 +91,7 @@ window.actressData = {
         "纱东みお",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-413"
     },
     {
       "id": 77738,
@@ -114,7 +114,7 @@ window.actressData = {
         "黒木麻衣（花野真衣、SHIHO）",
         "立花みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-355"
     },
     {
       "id": 1546,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "菅野松雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-206"
     },
     {
       "id": 68529,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "菅野松雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-855"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-855"
     }
   ]
 };

@@ -37,7 +37,7 @@ window.actressData = {
         "真城杏",
         "三浦あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDEN-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDEN-038"
     }
   ]
 };

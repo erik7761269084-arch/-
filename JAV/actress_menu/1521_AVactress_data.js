@@ -56,7 +56,7 @@ window.actressData = {
         "大空太陽",
         "叶月もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-181"
     },
     {
       "id": 13318,
@@ -79,7 +79,7 @@ window.actressData = {
         "叶月もえ",
         "及川大智"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-161"
     },
     {
       "id": 1634,
@@ -103,7 +103,7 @@ window.actressData = {
         "月下あいり",
         "望月理沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=sdjs-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdjs-033"
     }
   ]
 };

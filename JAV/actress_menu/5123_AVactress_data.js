@@ -37,7 +37,7 @@ window.actressData = {
         "琴音芽衣",
         "森山なつか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-285"
     },
     {
       "id": 82002,
@@ -58,7 +58,7 @@ window.actressData = {
         "森山なつか",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-280"
     }
   ]
 };

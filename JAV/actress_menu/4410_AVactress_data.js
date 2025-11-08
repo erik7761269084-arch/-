@@ -35,7 +35,7 @@ window.actressData = {
         "须崎まどか",
         "川口ともか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KATU-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KATU-063"
     },
     {
       "id": 77956,
@@ -54,7 +54,7 @@ window.actressData = {
         "森川杏奈",
         "川口ともか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-039"
     },
     {
       "id": 73856,
@@ -71,7 +71,7 @@ window.actressData = {
         "江波りゅう（RYU)",
         "川口ともか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKSK-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-005"
     }
   ]
 };

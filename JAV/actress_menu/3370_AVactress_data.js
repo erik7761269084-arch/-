@@ -33,7 +33,7 @@ window.actressData = {
         "河合陽菜",
         "河合阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-253"
     },
     {
       "id": 4165,
@@ -63,7 +63,7 @@ window.actressData = {
         "河合阳菜",
         "七世いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-124"
     },
     {
       "id": 5400,
@@ -80,7 +80,7 @@ window.actressData = {
         "河合陽菜",
         "河合阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-246"
     },
     {
       "id": 75411,
@@ -97,7 +97,7 @@ window.actressData = {
         "河合阳菜",
         "白宮れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-232"
     },
     {
       "id": 106308,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "河合阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-194"
     },
     {
       "id": 85529,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "河合阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-156"
     },
     {
       "id": 87255,
@@ -147,7 +147,7 @@ window.actressData = {
         "河合阳菜",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-110"
     },
     {
       "id": 87248,
@@ -164,7 +164,7 @@ window.actressData = {
         "河合阳菜",
         "叶月もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-103"
     },
     {
       "id": 86520,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "河合阳菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOTTE-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-047"
     },
     {
       "id": 81359,
@@ -198,7 +198,7 @@ window.actressData = {
         "河合阳菜",
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-338"
     }
   ]
 };

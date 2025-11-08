@@ -34,7 +34,7 @@ window.actressData = {
         "宫下ちはる",
         "来栖あさみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-046"
     }
   ]
 };

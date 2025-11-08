@@ -118,7 +118,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 81470,
@@ -135,7 +135,7 @@ window.actressData = {
         "辻井悠",
         "有本纱世"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DKSB-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DKSB-047"
     },
     {
       "id": 2030,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "辻井悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-124"
     },
     {
       "id": 88209,
@@ -172,7 +172,7 @@ window.actressData = {
         "早坂リア",
         "野々宫ここみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-354"
     }
   ]
 };

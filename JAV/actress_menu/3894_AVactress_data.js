@@ -37,7 +37,7 @@ window.actressData = {
         "辻芽爱里",
         "弘崎ゆみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNBL-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-069"
     },
     {
       "id": 79477,
@@ -59,7 +59,7 @@ window.actressData = {
         "永瀬爱菜",
         "弘崎ゆみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-079"
     },
     {
       "id": 101598,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "弘崎ゆみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1346"
     },
     {
       "id": 69317,
@@ -93,7 +93,7 @@ window.actressData = {
         "篠原りこ",
         "弘崎ゆみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-461"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-461"
     }
   ]
 };

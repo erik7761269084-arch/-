@@ -36,7 +36,7 @@ window.actressData = {
         "日々樹梨花",
         "壇涼果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMER-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-048"
     }
   ]
 };

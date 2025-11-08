@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "南ゆうな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-135"
     }
   ]
 };

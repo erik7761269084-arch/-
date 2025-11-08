@@ -45,7 +45,7 @@ window.actressData = {
         "澤乃明日香",
         "城咲京花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-528"
     },
     {
       "id": 70445,
@@ -62,7 +62,7 @@ window.actressData = {
         "瀬那瑠美奈",
         "城咲京花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-009"
     }
   ]
 };

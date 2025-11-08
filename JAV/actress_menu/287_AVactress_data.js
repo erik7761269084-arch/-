@@ -53,7 +53,7 @@ window.actressData = {
         "佐佐木紗希",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-661"
     },
     {
       "id": 3756,
@@ -73,7 +73,7 @@ window.actressData = {
         "櫻若菜",
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-623"
     },
     {
       "id": 6329,
@@ -90,7 +90,7 @@ window.actressData = {
         "佐佐木紗希",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-562"
     },
     {
       "id": 6631,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "佐佐木紗希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-103"
     },
     {
       "id": 7039,
@@ -123,7 +123,7 @@ window.actressData = {
         "佐佐木紗希",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-541"
     },
     {
       "id": 7692,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "佐佐木紗希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-519"
     },
     {
       "id": 9094,
@@ -156,7 +156,7 @@ window.actressData = {
         "佐佐木紗希",
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-187"
     },
     {
       "id": 9279,
@@ -173,7 +173,7 @@ window.actressData = {
         "佐佐木紗希",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-464"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-464"
     },
     {
       "id": 10138,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "佐佐木紗希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-433"
     },
     {
       "id": 78349,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "佐佐木紗希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-413"
     },
     {
       "id": 12223,
@@ -222,7 +222,7 @@ window.actressData = {
         "佐佐木紗希",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-393"
     },
     {
       "id": 12838,
@@ -239,7 +239,7 @@ window.actressData = {
         "佐佐木紗希",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-348"
     },
     {
       "id": 14891,
@@ -256,7 +256,7 @@ window.actressData = {
         "佐佐木紗希",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-276"
     },
     {
       "id": 16900,
@@ -272,7 +272,7 @@ window.actressData = {
       "actress": [
         "佐佐木紗希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-188"
     },
     {
       "id": 17362,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "佐佐木紗希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-174"
     },
     {
       "id": 17931,
@@ -304,7 +304,7 @@ window.actressData = {
       "actress": [
         "佐佐木紗希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-163"
     }
   ]
 };

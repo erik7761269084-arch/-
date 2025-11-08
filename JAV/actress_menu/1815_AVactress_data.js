@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "伊織知世"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-131"
     }
   ]
 };

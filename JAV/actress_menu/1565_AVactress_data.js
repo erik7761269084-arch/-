@@ -56,7 +56,7 @@ window.actressData = {
         "松本一香",
         "丘惠理奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-100"
     },
     {
       "id": 86825,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "丘惠理奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-078"
     },
     {
       "id": 100002,
@@ -91,7 +91,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-108"
     }
   ]
 };

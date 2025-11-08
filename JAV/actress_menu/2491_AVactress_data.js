@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "大澤美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-113"
     }
   ]
 };

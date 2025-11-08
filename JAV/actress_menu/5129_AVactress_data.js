@@ -33,7 +33,7 @@ window.actressData = {
         "栗原良",
         "理々香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-917"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-917"
     },
     {
       "id": 82074,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "理々香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-136"
     },
     {
       "id": 83636,
@@ -72,7 +72,7 @@ window.actressData = {
         "ERIKA（モカ、MOKA）",
         "ARIA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-250"
     }
   ]
 };

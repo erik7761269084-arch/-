@@ -58,7 +58,7 @@ window.actressData = {
         "じゅうもんじ",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-189"
     },
     {
       "id": 3491,
@@ -142,7 +142,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 4983,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-184"
     },
     {
       "id": 6176,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-010"
     },
     {
       "id": 8173,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-136"
     },
     {
       "id": 75090,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-133"
     },
     {
       "id": 10302,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-124"
     },
     {
       "id": 17471,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-007"
     },
     {
       "id": 90207,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-771"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-771"
     },
     {
       "id": 77594,
@@ -270,7 +270,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-968"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-968"
     },
     {
       "id": 77550,
@@ -286,7 +286,7 @@ window.actressData = {
       "actress": [
         "菊乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-102"
     }
   ]
 };

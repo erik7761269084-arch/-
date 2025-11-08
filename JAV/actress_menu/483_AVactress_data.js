@@ -61,7 +61,7 @@ window.actressData = {
         "白雪雛乃",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-018"
     },
     {
       "id": 9933,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "白雪雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-015"
     },
     {
       "id": 83771,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "白雪雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-493"
     },
     {
       "id": 83382,
@@ -110,7 +110,7 @@ window.actressData = {
         "白雪雛乃",
         "小此木雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTKC-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-076"
     },
     {
       "id": 12075,
@@ -127,7 +127,7 @@ window.actressData = {
         "白雪雛乃",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-371"
     }
   ]
 };

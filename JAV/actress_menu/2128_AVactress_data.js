@@ -48,7 +48,7 @@ window.actressData = {
         "中園めいな",
         "森萤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-155"
     },
     {
       "id": 67582,
@@ -67,7 +67,7 @@ window.actressData = {
         "希望美",
         "优木なお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-157"
     },
     {
       "id": 67177,
@@ -85,7 +85,7 @@ window.actressData = {
         "中園めいな",
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-150"
     },
     {
       "id": 66792,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "中園めいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-149"
     },
     {
       "id": 89598,
@@ -118,7 +118,7 @@ window.actressData = {
         "中園めいな",
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-458"
     }
   ]
 };

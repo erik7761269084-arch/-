@@ -36,7 +36,7 @@ window.actressData = {
         "篠崎环奈",
         "大沢カスミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-305"
     },
     {
       "id": 93091,
@@ -59,7 +59,7 @@ window.actressData = {
         "篠崎环奈",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-038"
     },
     {
       "id": 81600,
@@ -83,7 +83,7 @@ window.actressData = {
         "须崎まどか",
         "美咲みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-069"
     },
     {
       "id": 82115,
@@ -105,7 +105,7 @@ window.actressData = {
         "小野さち子",
         "雨宫いぶき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSAD-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-035"
     },
     {
       "id": 83829,
@@ -123,7 +123,7 @@ window.actressData = {
         "篠崎环奈",
         "森本つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POKQ-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POKQ-009"
     },
     {
       "id": 82794,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-482"
     },
     {
       "id": 83075,
@@ -158,7 +158,7 @@ window.actressData = {
         "篠原ちとせ",
         "歩川みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CRYNM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRYNM-003"
     },
     {
       "id": 76676,
@@ -177,7 +177,7 @@ window.actressData = {
         "森本つぐみ",
         "空海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-502"
     },
     {
       "id": 69771,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-474"
     },
     {
       "id": 75526,
@@ -209,7 +209,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-497"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-497"
     },
     {
       "id": 75442,
@@ -230,7 +230,7 @@ window.actressData = {
         "篠崎环奈",
         "満月ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-499"
     },
     {
       "id": 83492,
@@ -246,7 +246,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CADV-745"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CADV-745"
     },
     {
       "id": 81835,
@@ -268,7 +268,7 @@ window.actressData = {
         "美里诗织",
         "深田さき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-484"
     },
     {
       "id": 77029,
@@ -289,7 +289,7 @@ window.actressData = {
         "桜树玲奈",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-118"
     },
     {
       "id": 95015,
@@ -306,7 +306,7 @@ window.actressData = {
         "田渊正浩",
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-017"
     },
     {
       "id": 75150,
@@ -323,7 +323,7 @@ window.actressData = {
         "三岛奈津子",
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-470"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-470"
     },
     {
       "id": 69860,
@@ -339,7 +339,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-494"
     },
     {
       "id": 97932,
@@ -356,7 +356,7 @@ window.actressData = {
         "平井シンジ",
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-154"
     },
     {
       "id": 76542,
@@ -376,7 +376,7 @@ window.actressData = {
         "篠崎环奈",
         "おの真由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-340"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-340"
     },
     {
       "id": 75599,
@@ -392,7 +392,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1213"
     },
     {
       "id": 77107,
@@ -408,7 +408,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-276"
     },
     {
       "id": 70393,
@@ -424,7 +424,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XMOM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-011"
     },
     {
       "id": 69678,
@@ -440,7 +440,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-204"
     },
     {
       "id": 77161,
@@ -456,7 +456,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-137"
     },
     {
       "id": 77665,
@@ -472,7 +472,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-173"
     },
     {
       "id": 77735,
@@ -489,7 +489,7 @@ window.actressData = {
         "篠崎环奈",
         "大森しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-956"
     },
     {
       "id": 75030,
@@ -505,7 +505,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-570"
     },
     {
       "id": 71091,
@@ -521,7 +521,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-069"
     },
     {
       "id": 74442,
@@ -537,7 +537,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-086"
     },
     {
       "id": 71615,
@@ -553,7 +553,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-584"
     },
     {
       "id": 69684,
@@ -574,7 +574,7 @@ window.actressData = {
         "篠崎环奈",
         "小川ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-484"
     },
     {
       "id": 70140,
@@ -590,7 +590,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-481"
     },
     {
       "id": 70245,
@@ -606,7 +606,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-362"
     },
     {
       "id": 69536,
@@ -625,7 +625,7 @@ window.actressData = {
         "大沢カスミ",
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-479"
     },
     {
       "id": 70665,
@@ -643,7 +643,7 @@ window.actressData = {
         "大島愛里亞",
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-016"
     },
     {
       "id": 77329,
@@ -659,7 +659,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-386"
     },
     {
       "id": 71418,
@@ -678,7 +678,7 @@ window.actressData = {
         "咲々原リン",
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-404"
     },
     {
       "id": 78245,
@@ -694,7 +694,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-841"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-841"
     },
     {
       "id": 91293,
@@ -710,7 +710,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-691"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-691"
     },
     {
       "id": 74608,
@@ -726,7 +726,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1089"
     },
     {
       "id": 78990,
@@ -744,7 +744,7 @@ window.actressData = {
         "野々宫兰",
         "真树凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-190"
     },
     {
       "id": 69347,
@@ -760,7 +760,7 @@ window.actressData = {
       "actress": [
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-185"
     }
   ]
 };

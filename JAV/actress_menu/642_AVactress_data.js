@@ -79,7 +79,7 @@ window.actressData = {
         "ひなた唯",
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-394"
     },
     {
       "id": 4179,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "岡江凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NATR-756"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-756"
     },
     {
       "id": 6407,
@@ -155,7 +155,7 @@ window.actressData = {
         "安倍亜沙美",
         "响りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
       "id": 7052,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "岡江凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-344"
     },
     {
       "id": 7676,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "岡江凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-336"
     },
     {
       "id": 8472,
@@ -203,7 +203,7 @@ window.actressData = {
       "actress": [
         "岡江凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-320"
     },
     {
       "id": 9205,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "岡江凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-304"
     },
     {
       "id": 10080,
@@ -236,7 +236,7 @@ window.actressData = {
         "岡江凛",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-301"
     }
   ]
 };

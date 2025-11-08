@@ -53,7 +53,7 @@ window.actressData = {
         "白雪雛乃",
         "小此木雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTKC-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-076"
     }
   ]
 };

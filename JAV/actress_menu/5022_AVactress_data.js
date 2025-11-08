@@ -34,7 +34,7 @@ window.actressData = {
         "凉城りおな",
         "石川ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PARATHD-2871"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PARATHD-2871"
     },
     {
       "id": 81520,
@@ -57,7 +57,7 @@ window.actressData = {
         "花宫レイ",
         "石川ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-283"
     }
   ]
 };

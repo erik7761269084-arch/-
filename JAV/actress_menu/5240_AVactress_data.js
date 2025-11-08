@@ -36,7 +36,7 @@ window.actressData = {
         "星岛るり",
         "世罗いのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-313"
     }
   ]
 };

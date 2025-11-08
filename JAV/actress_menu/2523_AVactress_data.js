@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "夏目れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGAV-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-100"
     },
     {
       "id": 90346,
@@ -88,7 +88,7 @@ window.actressData = {
         "堀内美香",
         "夏目れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PESS-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-003"
     },
     {
       "id": 89625,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "夏目れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SBMO-1254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-1254"
     }
   ]
 };

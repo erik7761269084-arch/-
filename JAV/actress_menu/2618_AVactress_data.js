@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "藤咲梨紅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-739"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-739"
     },
     {
       "id": 90753,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "藤咲梨紅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-718"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-718"
     }
   ]
 };

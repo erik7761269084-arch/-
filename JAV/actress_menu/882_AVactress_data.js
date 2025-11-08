@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "高島愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-545"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-545"
     },
     {
       "id": 16246,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "高島愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-560"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-560"
     },
     {
       "id": 17252,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "高島愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-540"
     },
     {
       "id": 17749,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "高島愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-531"
     },
     {
       "id": 90013,
@@ -110,7 +110,7 @@ window.actressData = {
         "高島愛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-524"
     },
     {
       "id": 90044,
@@ -128,7 +128,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-519"
     },
     {
       "id": 90036,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "高島愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-511"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-511"
     }
   ]
 };

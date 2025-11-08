@@ -46,7 +46,7 @@ window.actressData = {
         "八束みこと",
         "星野ひびき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-591"
     },
     {
       "id": 87955,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "雪染ちな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKO-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-475"
     },
     {
       "id": 81832,
@@ -86,7 +86,7 @@ window.actressData = {
         "结白まさき",
         "高司奏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
     }
   ]
 };

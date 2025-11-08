@@ -33,7 +33,7 @@ window.actressData = {
         "レンジャー鏑木",
         "渚ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-063"
     },
     {
       "id": 93671,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "渚ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-028"
     }
   ]
 };

@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-553"
     },
     {
       "id": 72887,
@@ -88,7 +88,7 @@ window.actressData = {
         "明日花綺蘿",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-166"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-166"
     },
     {
       "id": 16710,
@@ -105,7 +105,7 @@ window.actressData = {
         "明日花綺蘿",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-089"
     },
     {
       "id": 72005,
@@ -122,7 +122,7 @@ window.actressData = {
         "明日花綺蘿",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-381"
     },
     {
       "id": 71997,
@@ -139,7 +139,7 @@ window.actressData = {
         "明日花綺蘿",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-360"
     },
     {
       "id": 19607,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-338"
     },
     {
       "id": 71373,
@@ -173,7 +173,7 @@ window.actressData = {
         "沢井亮",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-233"
     },
     {
       "id": 72034,
@@ -191,7 +191,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-212"
     },
     {
       "id": 71986,
@@ -208,7 +208,7 @@ window.actressData = {
         "明日花綺蘿",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-172"
     },
     {
       "id": 71389,
@@ -226,7 +226,7 @@ window.actressData = {
         "沢井亮",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-095"
     },
     {
       "id": 72483,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-075"
     },
     {
       "id": 104362,
@@ -260,7 +260,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-052"
     },
     {
       "id": 71387,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-030"
     },
     {
       "id": 104421,
@@ -294,7 +294,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-976"
     },
     {
       "id": 19445,
@@ -310,7 +310,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABS-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-003"
     },
     {
       "id": 19446,
@@ -326,7 +326,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-002"
     },
     {
       "id": 19442,
@@ -342,7 +342,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABS-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-001"
     },
     {
       "id": 19447,
@@ -358,7 +358,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOBD-00015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOBD-00015"
     },
     {
       "id": 19441,
@@ -374,7 +374,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOBD-00014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOBD-00014"
     },
     {
       "id": 19443,
@@ -390,7 +390,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOBD-00007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOBD-00007"
     },
     {
       "id": 19444,
@@ -406,7 +406,7 @@ window.actressData = {
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOBD-00001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOBD-00001"
     }
   ]
 };

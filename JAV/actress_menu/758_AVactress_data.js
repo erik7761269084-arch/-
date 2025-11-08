@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "盛永彩葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOR-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-048"
     },
     {
       "id": 4325,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "盛永彩葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-359"
     },
     {
       "id": 5176,
@@ -93,7 +93,7 @@ window.actressData = {
         "盛永彩葉",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-379"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-379"
     },
     {
       "id": 5880,
@@ -110,7 +110,7 @@ window.actressData = {
         "盛永彩葉",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-330"
     },
     {
       "id": 6780,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "盛永彩葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-294"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-294"
     },
     {
       "id": 7353,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "盛永彩葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-026"
     }
   ]
 };

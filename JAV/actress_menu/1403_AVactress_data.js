@@ -56,7 +56,7 @@ window.actressData = {
         "沙優七羽",
         "音月みり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCT-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCT-022"
     },
     {
       "id": 8467,
@@ -74,7 +74,7 @@ window.actressData = {
         "愛瀬優里",
         "音月みり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNTRZ-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-005"
     }
   ]
 };

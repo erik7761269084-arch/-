@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "江藤侑里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-427"
     }
   ]
 };

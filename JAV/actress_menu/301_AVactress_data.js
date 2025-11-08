@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-459"
     },
     {
       "id": 3749,
@@ -67,7 +67,7 @@ window.actressData = {
         "トミフミ",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-450"
     },
     {
       "id": 4751,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-407"
     },
     {
       "id": 5527,
@@ -100,7 +100,7 @@ window.actressData = {
         "藤環奈",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-372"
     },
     {
       "id": 6307,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-307"
     },
     {
       "id": 7055,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-298"
     },
     {
       "id": 7727,
@@ -149,7 +149,7 @@ window.actressData = {
         "藤環奈",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-240"
     },
     {
       "id": 8434,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-198"
     },
     {
       "id": 10789,
@@ -182,7 +182,7 @@ window.actressData = {
         "藤環奈",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-954"
     },
     {
       "id": 16868,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-504"
     },
     {
       "id": 17333,
@@ -214,7 +214,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-466"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-466"
     },
     {
       "id": 17848,
@@ -230,7 +230,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-435"
     },
     {
       "id": 91703,
@@ -247,7 +247,7 @@ window.actressData = {
         "藤環奈",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-402"
     },
     {
       "id": 107000,
@@ -263,7 +263,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-022"
     },
     {
       "id": 91619,
@@ -279,7 +279,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-344"
     },
     {
       "id": 91013,
@@ -297,7 +297,7 @@ window.actressData = {
         "左慈半造",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-311"
     },
     {
       "id": 91017,
@@ -313,7 +313,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-280"
     },
     {
       "id": 104400,
@@ -329,7 +329,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-222"
     },
     {
       "id": 68760,
@@ -345,7 +345,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-196"
     },
     {
       "id": 68395,
@@ -361,7 +361,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-162"
     },
     {
       "id": 85128,
@@ -377,7 +377,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-107"
     },
     {
       "id": 66925,
@@ -393,7 +393,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-078"
     },
     {
       "id": 67612,
@@ -410,7 +410,7 @@ window.actressData = {
         "藤環奈",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-044"
     },
     {
       "id": 69262,
@@ -426,7 +426,7 @@ window.actressData = {
       "actress": [
         "藤環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-139"
     }
   ]
 };

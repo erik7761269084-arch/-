@@ -38,7 +38,7 @@ window.actressData = {
         "國森有紗",
         "冨永れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-741"
     }
   ]
 };

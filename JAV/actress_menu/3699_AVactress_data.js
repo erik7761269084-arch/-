@@ -33,7 +33,7 @@ window.actressData = {
         "沙月芽衣",
         "インフィニティ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WO-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WO-010"
     },
     {
       "id": 69105,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "インフィニティ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-224"
     },
     {
       "id": 85656,
@@ -67,7 +67,7 @@ window.actressData = {
         "インフィニティ",
         "今井夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-022"
     },
     {
       "id": 80310,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "インフィニティ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2656"
     },
     {
       "id": 75646,
@@ -105,7 +105,7 @@ window.actressData = {
         "舞岛あかり",
         "夜空せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-105"
     },
     {
       "id": 76251,
@@ -123,7 +123,7 @@ window.actressData = {
         "有栖露露",
         "インフィニティ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-034"
     },
     {
       "id": 106299,
@@ -140,7 +140,7 @@ window.actressData = {
         "川上奈奈美",
         "インフィニティ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-809"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-809"
     }
   ]
 };

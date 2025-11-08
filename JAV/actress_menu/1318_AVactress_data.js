@@ -55,7 +55,7 @@ window.actressData = {
         "倖月星羅",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-940"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-940"
     },
     {
       "id": 9924,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "倖月星羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-902"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-902"
     },
     {
       "id": 10617,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "倖月星羅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-864"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-864"
     }
   ]
 };

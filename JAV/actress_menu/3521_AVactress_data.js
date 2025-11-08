@@ -33,7 +33,7 @@ window.actressData = {
         "玉木玲",
         "水咲萝拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-405"
     },
     {
       "id": 87984,
@@ -51,7 +51,7 @@ window.actressData = {
         "しみけん",
         "水咲萝拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-041"
     },
     {
       "id": 107318,
@@ -68,7 +68,7 @@ window.actressData = {
         "沢井亮",
         "水咲萝拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-013"
     },
     {
       "id": 103496,
@@ -85,7 +85,7 @@ window.actressData = {
         "田渊正浩",
         "水咲萝拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-001"
     },
     {
       "id": 96143,
@@ -102,7 +102,7 @@ window.actressData = {
         "大岛丈",
         "水咲萝拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABS-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-223"
     }
   ]
 };

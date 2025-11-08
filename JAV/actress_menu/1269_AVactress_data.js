@@ -48,7 +48,7 @@ window.actressData = {
         "纱々原ゆり",
         "池内凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-020"
     },
     {
       "id": 19391,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "琴水せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-045"
     },
     {
       "id": 19399,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "琴水せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-032"
     },
     {
       "id": 19421,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "琴水せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-014"
     }
   ]
 };

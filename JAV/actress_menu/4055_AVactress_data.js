@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "もちづきる美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-079"
     },
     {
       "id": 70712,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "もちづきる美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-044"
     },
     {
       "id": 88250,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "もちづきる美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-013"
     }
   ]
 };

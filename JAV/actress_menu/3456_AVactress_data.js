@@ -34,7 +34,7 @@ window.actressData = {
         "青山ネル",
         "优希まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ASIA-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASIA-119"
     }
   ]
 };

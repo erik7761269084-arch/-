@@ -33,7 +33,7 @@ window.actressData = {
         "松本痲里奈",
         "松嶋友里恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-137"
     }
   ]
 };

@@ -41,7 +41,7 @@ window.actressData = {
         "庄司优喜江",
         "吉瀬菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMIX-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-044"
     },
     {
       "id": 68236,
@@ -67,7 +67,7 @@ window.actressData = {
         "秋吉多恵子",
         "有沢実纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-152"
     },
     {
       "id": 83861,
@@ -84,7 +84,7 @@ window.actressData = {
         "武藤彩香",
         "白鸟寿美礼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-307"
     },
     {
       "id": 83099,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "白鸟寿美礼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-011"
     },
     {
       "id": 83702,
@@ -123,7 +123,7 @@ window.actressData = {
         "青木りん",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-044"
     },
     {
       "id": 76487,
@@ -142,7 +142,7 @@ window.actressData = {
         "藤本敏江",
         "上原千寻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-366"
     }
   ]
 };

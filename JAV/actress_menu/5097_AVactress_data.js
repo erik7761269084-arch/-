@@ -39,7 +39,7 @@ window.actressData = {
         "染谷凛",
         "林奈恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-061"
     },
     {
       "id": 81863,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "篠崎里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMKZ-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-073"
     }
   ]
 };

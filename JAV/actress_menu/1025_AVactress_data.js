@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "綾美なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-384"
     },
     {
       "id": 4589,
@@ -69,7 +69,7 @@ window.actressData = {
         "蘆名穗花",
         "綾美なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-403"
     },
     {
       "id": 5480,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "綾美なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-306"
     }
   ]
 };

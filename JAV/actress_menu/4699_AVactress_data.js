@@ -35,7 +35,7 @@ window.actressData = {
         "苑田あゆり",
         "川口叶纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GETS-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-078"
     },
     {
       "id": 77961,
@@ -54,7 +54,7 @@ window.actressData = {
         "皆野あい",
         "苑田あゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-436"
     },
     {
       "id": 82941,
@@ -74,7 +74,7 @@ window.actressData = {
         "仓科もえ",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZUKO-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-140"
     },
     {
       "id": 77136,
@@ -93,7 +93,7 @@ window.actressData = {
         "桃瀬ゆり",
         "苑田あゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-046"
     },
     {
       "id": 87943,
@@ -111,7 +111,7 @@ window.actressData = {
         "苑田あゆり",
         "澄川鲇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAR-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-063"
     }
   ]
 };

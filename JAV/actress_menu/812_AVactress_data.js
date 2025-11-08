@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "長谷川玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-546"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-546"
     },
     {
       "id": 62614,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "長谷川玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FLAV-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-400"
     },
     {
       "id": 68316,
@@ -97,7 +97,7 @@ window.actressData = {
         "MIRANO",
         "双叶ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-632"
     },
     {
       "id": 93628,
@@ -115,7 +115,7 @@ window.actressData = {
         "并木杏梨",
         "丸山れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-476"
     },
     {
       "id": 83628,
@@ -138,7 +138,7 @@ window.actressData = {
         "石川祐奈",
         "丸山れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-075"
     },
     {
       "id": 86894,
@@ -162,7 +162,7 @@ window.actressData = {
         "爱华みれい",
         "桜井萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-586"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-586"
     },
     {
       "id": 74403,
@@ -180,7 +180,7 @@ window.actressData = {
         "爱里るい",
         "浅仓真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-521"
     },
     {
       "id": 92631,
@@ -200,7 +200,7 @@ window.actressData = {
         "梨杏",
         "上原海里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MN-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MN-035"
     }
   ]
 };

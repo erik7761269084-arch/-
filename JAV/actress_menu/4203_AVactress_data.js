@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "南乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GENM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GENM-011"
     }
   ]
 };

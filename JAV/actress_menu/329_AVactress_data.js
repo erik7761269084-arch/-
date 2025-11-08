@@ -59,7 +59,7 @@ window.actressData = {
         "雫月心桜",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-263"
     },
     {
       "id": 3895,
@@ -77,7 +77,7 @@ window.actressData = {
         "雫月心桜",
         "天美めあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIGL-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIGL-011"
     },
     {
       "id": 61693,
@@ -101,7 +101,7 @@ window.actressData = {
         "東雲はる",
         "ちなみん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTACO-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTACO-001"
     },
     {
       "id": 4805,
@@ -122,7 +122,7 @@ window.actressData = {
         "真白みのり",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-233"
     },
     {
       "id": 63916,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GTJ-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-164"
     },
     {
       "id": 5298,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-102"
     },
     {
       "id": 6831,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-148"
     },
     {
       "id": 7313,
@@ -189,7 +189,7 @@ window.actressData = {
         "花里明理",
         "有馬美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-051"
     },
     {
       "id": 72336,
@@ -212,7 +212,7 @@ window.actressData = {
         "八乃翼",
         "月岛さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LZWM-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZWM-038"
     },
     {
       "id": 7948,
@@ -232,7 +232,7 @@ window.actressData = {
         "葵美玲",
         "川栄結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-219"
     },
     {
       "id": 8487,
@@ -249,7 +249,7 @@ window.actressData = {
         "雫月心桜",
         "安斉愛結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-579"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-579"
     },
     {
       "id": 13954,
@@ -265,7 +265,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-061"
     },
     {
       "id": 13868,
@@ -281,7 +281,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-548"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-548"
     },
     {
       "id": 94482,
@@ -297,7 +297,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQSG-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQSG-006"
     },
     {
       "id": 14278,
@@ -313,7 +313,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-058"
     },
     {
       "id": 94793,
@@ -329,7 +329,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVMGM-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMGM-023"
     },
     {
       "id": 91870,
@@ -346,7 +346,7 @@ window.actressData = {
         "桜木美音",
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOTTE-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-173"
     },
     {
       "id": 85794,
@@ -364,7 +364,7 @@ window.actressData = {
         "白川柚子",
         "幸田ユマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-678"
     },
     {
       "id": 86160,
@@ -381,7 +381,7 @@ window.actressData = {
         "森日向子",
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-753"
     },
     {
       "id": 84103,
@@ -399,7 +399,7 @@ window.actressData = {
         "雫月心桜",
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-331"
     },
     {
       "id": 81352,
@@ -416,7 +416,7 @@ window.actressData = {
         "雫月心桜",
         "春原未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-426"
     },
     {
       "id": 82167,
@@ -433,7 +433,7 @@ window.actressData = {
         "雫月心桜",
         "河奈亜依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-016"
     },
     {
       "id": 76162,
@@ -449,7 +449,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAGD-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAGD-001"
     },
     {
       "id": 70768,
@@ -466,7 +466,7 @@ window.actressData = {
         "雫月心桜",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-119"
     },
     {
       "id": 78189,
@@ -482,7 +482,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-113"
     },
     {
       "id": 70672,
@@ -498,7 +498,7 @@ window.actressData = {
       "actress": [
         "雫月心桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-109"
     }
   ]
 };

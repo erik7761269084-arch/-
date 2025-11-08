@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "高城ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-013"
     },
     {
       "id": 83816,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "高城ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-083"
     },
     {
       "id": 83606,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "高城ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOI-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOI-082"
     },
     {
       "id": 81888,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "高城ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMGH-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-252"
     },
     {
       "id": 76380,
@@ -98,7 +98,7 @@ window.actressData = {
         "玉木玲",
         "高城ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-749"
     }
   ]
 };

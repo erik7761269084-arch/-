@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "冴月りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-488"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-488"
     },
     {
       "id": 77168,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "冴月りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-478"
     }
   ]
 };

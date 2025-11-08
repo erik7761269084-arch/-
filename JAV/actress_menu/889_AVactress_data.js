@@ -57,7 +57,7 @@ window.actressData = {
         "工藤百合",
         "上田紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-202"
     },
     {
       "id": 3874,
@@ -75,7 +75,7 @@ window.actressData = {
         "真白みのり",
         "上田紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-187"
     },
     {
       "id": 5823,
@@ -93,7 +93,7 @@ window.actressData = {
         "澤乃明日香",
         "城咲京花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-528"
     },
     {
       "id": 17182,
@@ -119,7 +119,7 @@ window.actressData = {
         "黒木逢夢",
         "有坂唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-712"
     },
     {
       "id": 107652,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "上田紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-415"
     },
     {
       "id": 87060,
@@ -161,7 +161,7 @@ window.actressData = {
         "优木なお",
         "青井いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKAX-909"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-909"
     },
     {
       "id": 77960,
@@ -181,7 +181,7 @@ window.actressData = {
         "真田さな",
         "宫沢ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-418"
     }
   ]
 };

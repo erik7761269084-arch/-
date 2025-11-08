@@ -47,7 +47,7 @@ window.actressData = {
         "宫泽みほ",
         "椿くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-248"
     },
     {
       "id": 73582,
@@ -72,7 +72,7 @@ window.actressData = {
         "冲田奈々",
         "玉城マイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
     }
   ]
 };

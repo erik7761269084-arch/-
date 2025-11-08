@@ -44,7 +44,7 @@ window.actressData = {
         "麻里梨夏",
         "白石悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-805"
     },
     {
       "id": 64051,
@@ -63,7 +63,7 @@ window.actressData = {
         "篠田优",
         "白石悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-785"
     }
   ]
 };

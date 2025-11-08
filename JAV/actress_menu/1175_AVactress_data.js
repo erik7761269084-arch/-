@@ -51,7 +51,7 @@ window.actressData = {
         "小倉和葉",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-776"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-776"
     },
     {
       "id": 61810,
@@ -75,7 +75,7 @@ window.actressData = {
         "及川莉央",
         "藤田さち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
     },
     {
       "id": 4675,
@@ -94,7 +94,7 @@ window.actressData = {
         "倉木詩織",
         "小倉和葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-020"
     },
     {
       "id": 6366,
@@ -117,7 +117,7 @@ window.actressData = {
         "小倉和葉",
         "白穂乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     }
   ]
 };

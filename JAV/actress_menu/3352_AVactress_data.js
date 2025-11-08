@@ -33,7 +33,7 @@ window.actressData = {
         "楪可憐",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-362"
     },
     {
       "id": 5117,
@@ -50,7 +50,7 @@ window.actressData = {
         "古東まりこ",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-339"
     },
     {
       "id": 6517,
@@ -69,7 +69,7 @@ window.actressData = {
         "日森一",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-147"
     },
     {
       "id": 6779,
@@ -87,7 +87,7 @@ window.actressData = {
         "ラリアット黒川",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-300"
     },
     {
       "id": 7174,
@@ -106,7 +106,7 @@ window.actressData = {
         "日森一",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-104"
     },
     {
       "id": 7347,
@@ -124,7 +124,7 @@ window.actressData = {
         "ラリアット黒川",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-231"
     },
     {
       "id": 7545,
@@ -141,7 +141,7 @@ window.actressData = {
         "姫咲華",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-323"
     },
     {
       "id": 7534,
@@ -161,7 +161,7 @@ window.actressData = {
         "ナイアガラ翔",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-678"
     },
     {
       "id": 7683,
@@ -178,7 +178,7 @@ window.actressData = {
         "瀬尾礼子",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-335"
     },
     {
       "id": 8083,
@@ -196,7 +196,7 @@ window.actressData = {
         "ラリアット黒川",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-566"
     }
   ]
 };

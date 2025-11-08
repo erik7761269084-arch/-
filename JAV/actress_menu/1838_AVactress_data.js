@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "星野愛佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-079"
     },
     {
       "id": 2033,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "星野愛佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-065"
     }
   ]
 };

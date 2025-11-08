@@ -33,7 +33,7 @@ window.actressData = {
         "ようく",
         "高畑ちはな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-951"
     },
     {
       "id": 91502,
@@ -50,7 +50,7 @@ window.actressData = {
         "イセドン内村",
         "高畑ちはな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-944"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-944"
     }
   ]
 };

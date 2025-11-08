@@ -38,7 +38,7 @@ window.actressData = {
         "桥野爱琉",
         "秋山しほり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-520"
     },
     {
       "id": 89127,
@@ -57,7 +57,7 @@ window.actressData = {
         "桥野爱琉",
         "望月律花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3403"
     },
     {
       "id": 107166,
@@ -76,7 +76,7 @@ window.actressData = {
         "山口椿",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-158"
     },
     {
       "id": 91381,
@@ -93,7 +93,7 @@ window.actressData = {
         "新川ゆず",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-291"
     },
     {
       "id": 84366,
@@ -110,7 +110,7 @@ window.actressData = {
         "夏目未來",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-014"
     },
     {
       "id": 81934,
@@ -129,7 +129,7 @@ window.actressData = {
         "瀬戸すみれ",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-459"
     },
     {
       "id": 77125,
@@ -146,7 +146,7 @@ window.actressData = {
         "加藤桃香",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-954"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "国见みすず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-628"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-628"
     }
   ]
 };

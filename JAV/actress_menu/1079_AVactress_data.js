@@ -54,7 +54,7 @@ window.actressData = {
         "饭山香织",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-418"
     },
     {
       "id": 8513,
@@ -75,7 +75,7 @@ window.actressData = {
         "千歳小梅",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-175"
     },
     {
       "id": 17462,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "三尾惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-084"
     }
   ]
 };

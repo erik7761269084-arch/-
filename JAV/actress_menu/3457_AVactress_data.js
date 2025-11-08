@@ -34,7 +34,7 @@ window.actressData = {
         "平冈里枝子",
         "町田りく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-397"
     }
   ]
 };

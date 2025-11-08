@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "神无月れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-203"
     },
     {
       "id": 88341,
@@ -51,7 +51,7 @@ window.actressData = {
         "河合乃乃花",
         "神无月れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-974"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-974"
     },
     {
       "id": 88328,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "神无月れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-287"
     },
     {
       "id": 79117,
@@ -86,7 +86,7 @@ window.actressData = {
         "神无月れな",
         "初音ろな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-093"
     }
   ]
 };

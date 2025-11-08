@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "杏羽かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-176"
     },
     {
       "id": 88358,
@@ -51,7 +51,7 @@ window.actressData = {
         "铃屋いちご",
         "杏羽かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-971"
     }
   ]
 };

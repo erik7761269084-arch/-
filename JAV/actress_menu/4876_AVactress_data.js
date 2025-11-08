@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "塔堂マリエ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-088"
     }
   ]
 };

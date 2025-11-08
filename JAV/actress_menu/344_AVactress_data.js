@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-415"
     },
     {
       "id": 3258,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-404"
     },
     {
       "id": 4345,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDHS-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDHS-062"
     },
     {
       "id": 5779,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-327"
     },
     {
       "id": 6547,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-315"
     },
     {
       "id": 7974,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-270"
     },
     {
       "id": 8744,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-256"
     },
     {
       "id": 10365,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-223"
     },
     {
       "id": 9637,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-227"
     },
     {
       "id": 13052,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-125"
     },
     {
       "id": 13754,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-096"
     },
     {
       "id": 14393,
@@ -239,7 +239,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-082"
     },
     {
       "id": 15105,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-056"
     },
     {
       "id": 15860,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-048"
     },
     {
       "id": 16048,
@@ -287,7 +287,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-020"
     },
     {
       "id": 16331,
@@ -303,7 +303,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STZY-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-011"
     },
     {
       "id": 16619,
@@ -319,7 +319,7 @@ window.actressData = {
       "actress": [
         "彩月七緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-010"
     }
   ]
 };

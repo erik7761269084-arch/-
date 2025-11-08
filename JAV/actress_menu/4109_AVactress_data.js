@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "华月瑠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMF-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMF-080"
     },
     {
       "id": 71086,
@@ -53,7 +53,7 @@ window.actressData = {
         "松下美织",
         "华月瑠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-409"
     }
   ]
 };

@@ -52,7 +52,7 @@ window.actressData = {
         "西村礼奈",
         "泉あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-151"
     },
     {
       "id": 6197,
@@ -69,7 +69,7 @@ window.actressData = {
         "鳳可怜",
         "泉あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAKO-090"
     }
   ]
 };

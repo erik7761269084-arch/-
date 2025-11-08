@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "みさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2282"
     }
   ]
 };

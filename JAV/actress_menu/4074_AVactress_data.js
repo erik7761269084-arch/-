@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "雪奈あいり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-068"
     },
     {
       "id": 88167,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "雪奈あいり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-013"
     }
   ]
 };

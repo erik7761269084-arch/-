@@ -40,7 +40,7 @@ window.actressData = {
         "竹内れい子",
         "三云ゆり子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-249"
     }
   ]
 };

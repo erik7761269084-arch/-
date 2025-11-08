@@ -49,7 +49,7 @@ window.actressData = {
         "上岛美都子",
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMIX-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-049"
     },
     {
       "id": 70363,
@@ -69,7 +69,7 @@ window.actressData = {
         "一場れいか",
         "横峯めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-216"
     },
     {
       "id": 70318,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-365"
     },
     {
       "id": 8542,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-908"
     },
     {
       "id": 10062,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-611"
     },
     {
       "id": 94585,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-292"
     },
     {
       "id": 93502,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-339"
     },
     {
       "id": 90699,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-107"
     },
     {
       "id": 107498,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-481"
     },
     {
       "id": 106785,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-127"
     },
     {
       "id": 86110,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-105"
     },
     {
       "id": 86069,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "一場れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-096"
     }
   ]
 };

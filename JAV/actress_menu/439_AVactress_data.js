@@ -56,7 +56,7 @@ window.actressData = {
         "倉木華",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-876"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-876"
     },
     {
       "id": 3365,
@@ -73,7 +73,7 @@ window.actressData = {
         "倉木華",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-861"
     },
     {
       "id": 4330,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "倉木華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-784"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-784"
     },
     {
       "id": 5171,
@@ -107,7 +107,7 @@ window.actressData = {
         "左慈半造",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-733"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-733"
     },
     {
       "id": 5934,
@@ -124,7 +124,7 @@ window.actressData = {
         "倉木華",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-771"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-771"
     },
     {
       "id": 6793,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "倉木華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-696"
     },
     {
       "id": 7403,
@@ -156,7 +156,7 @@ window.actressData = {
       "actress": [
         "倉木華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-605"
     },
     {
       "id": 7751,
@@ -184,7 +184,7 @@ window.actressData = {
         "ラヴズ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
     },
     {
       "id": 8091,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "倉木華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-554"
     },
     {
       "id": 8878,
@@ -216,7 +216,7 @@ window.actressData = {
       "actress": [
         "倉木華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-490"
     },
     {
       "id": 10482,
@@ -233,7 +233,7 @@ window.actressData = {
         "倉木華",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-449"
     },
     {
       "id": 13242,
@@ -250,7 +250,7 @@ window.actressData = {
         "倉木華",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-261"
     },
     {
       "id": 13842,
@@ -267,7 +267,7 @@ window.actressData = {
         "倉木華",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-224"
     },
     {
       "id": 13721,
@@ -284,7 +284,7 @@ window.actressData = {
         "倉木華",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-223"
     }
   ]
 };

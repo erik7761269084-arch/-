@@ -55,7 +55,7 @@ window.actressData = {
         "渚ひかり",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-313"
     },
     {
       "id": 19400,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "渚ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-033"
     }
   ]
 };

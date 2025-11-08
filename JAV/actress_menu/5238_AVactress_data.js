@@ -34,7 +34,7 @@ window.actressData = {
         "音海里奈",
         "新海なお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-388"
     }
   ]
 };

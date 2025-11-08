@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "佐伯雪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S99"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S99"
     },
     {
       "id": 1752,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "佐伯雪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-123"
     }
   ]
 };

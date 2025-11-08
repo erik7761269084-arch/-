@@ -34,7 +34,7 @@ window.actressData = {
         "最上さゆき",
         "白沢比吕"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPBD-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPBD-209"
     },
     {
       "id": 91686,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "最上さゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACZD-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-104"
     },
     {
       "id": 86027,
@@ -69,7 +69,7 @@ window.actressData = {
         "最上さゆき",
         "吉木美織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-151"
     },
     {
       "id": 83474,
@@ -89,7 +89,7 @@ window.actressData = {
         "柏木恵",
         "最上さゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CADV-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CADV-757"
     },
     {
       "id": 75021,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "最上さゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-243"
     }
   ]
 };

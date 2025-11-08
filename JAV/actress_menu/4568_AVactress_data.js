@@ -37,7 +37,7 @@ window.actressData = {
         "鹰宫ゆい",
         "夜空せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-106"
     },
     {
       "id": 75646,
@@ -59,7 +59,7 @@ window.actressData = {
         "舞岛あかり",
         "夜空せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-105"
     },
     {
       "id": 81989,
@@ -78,7 +78,7 @@ window.actressData = {
         "冲田里绪",
         "夜空せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-063"
     }
   ]
 };

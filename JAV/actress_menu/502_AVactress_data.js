@@ -51,7 +51,7 @@ window.actressData = {
         "彌生美月",
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AWAW-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AWAW-004"
     },
     {
       "id": 3920,
@@ -71,7 +71,7 @@ window.actressData = {
         "有馬美月",
         "星乃蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-270"
     },
     {
       "id": 4806,
@@ -90,7 +90,7 @@ window.actressData = {
         "水瀬りた",
         "愛野ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
     },
     {
       "id": 5243,
@@ -109,7 +109,7 @@ window.actressData = {
         "白石渚",
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-254"
     },
     {
       "id": 6607,
@@ -127,7 +127,7 @@ window.actressData = {
         "五十嵐美月",
         "大槻ゆりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21964"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21964"
     },
     {
       "id": 7423,
@@ -147,7 +147,7 @@ window.actressData = {
         "仲川空",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
     },
     {
       "id": 8073,
@@ -166,7 +166,7 @@ window.actressData = {
         "五十嵐美月",
         "夢川りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-201"
     },
     {
       "id": 8469,
@@ -187,7 +187,7 @@ window.actressData = {
         "五十嵐美月",
         "加賀美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-277"
     },
     {
       "id": 8363,
@@ -212,7 +212,7 @@ window.actressData = {
         "川栄結愛",
         "乙葉らぶ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-315"
     },
     {
       "id": 77211,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTKD-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTKD-021"
     },
     {
       "id": 76147,
@@ -246,7 +246,7 @@ window.actressData = {
         "宮城理惠",
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-297"
     },
     {
       "id": 76081,
@@ -262,7 +262,7 @@ window.actressData = {
       "actress": [
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-213"
     },
     {
       "id": 9774,
@@ -282,7 +282,7 @@ window.actressData = {
         "五十嵐美月",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-534"
     },
     {
       "id": 10423,
@@ -301,7 +301,7 @@ window.actressData = {
         "五十嵐美月",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-262"
     },
     {
       "id": 95087,
@@ -317,7 +317,7 @@ window.actressData = {
       "actress": [
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GHAT-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-155"
     },
     {
       "id": 13084,
@@ -337,7 +337,7 @@ window.actressData = {
         "花芽有朱",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-051"
     },
     {
       "id": 91824,
@@ -354,7 +354,7 @@ window.actressData = {
         "椎名由奈",
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-591"
     },
     {
       "id": 91117,
@@ -377,7 +377,7 @@ window.actressData = {
         "安倍亜沙美",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-272"
     },
     {
       "id": 68495,
@@ -393,7 +393,7 @@ window.actressData = {
       "actress": [
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-073"
     },
     {
       "id": 69324,
@@ -409,7 +409,7 @@ window.actressData = {
       "actress": [
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-245"
     }
   ]
 };

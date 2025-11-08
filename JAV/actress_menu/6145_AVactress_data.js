@@ -34,7 +34,7 @@ window.actressData = {
         "山本美和子",
         "西园寺れお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-721-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-721-"
     }
   ]
 };

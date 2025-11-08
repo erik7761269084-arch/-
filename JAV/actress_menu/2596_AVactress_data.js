@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "Meru"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-24"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-24"
     }
   ]
 };

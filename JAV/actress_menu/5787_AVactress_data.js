@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "绫波ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-020"
     }
   ]
 };

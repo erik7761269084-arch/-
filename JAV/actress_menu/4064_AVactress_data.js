@@ -42,7 +42,7 @@ window.actressData = {
         "小园梨央",
         "中西南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-184"
     },
     {
       "id": 70732,
@@ -59,7 +59,7 @@ window.actressData = {
         "真田さな",
         "藤川菜绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-250"
     }
   ]
 };

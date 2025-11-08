@@ -49,7 +49,7 @@ window.actressData = {
         "花音うらら",
         "矢澤なの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKN-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKN-003"
     },
     {
       "id": 8600,
@@ -67,7 +67,7 @@ window.actressData = {
         "水原みその",
         "矢澤なの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-430"
     },
     {
       "id": 14459,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "矢澤なの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-271"
     },
     {
       "id": 106283,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "矢澤なの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-046"
     },
     {
       "id": 106698,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "矢澤なの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-023"
     }
   ]
 };

@@ -57,7 +57,7 @@ window.actressData = {
         "牧村柚希",
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-253"
     },
     {
       "id": 81370,
@@ -81,7 +81,7 @@ window.actressData = {
         "辻芽爱里",
         "椎木くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EVIS-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EVIS-362"
     },
     {
       "id": 88358,
@@ -100,7 +100,7 @@ window.actressData = {
         "铃屋いちご",
         "杏羽かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-971"
     },
     {
       "id": 81616,
@@ -121,7 +121,7 @@ window.actressData = {
         "东条苍",
         "成宫ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-432"
     },
     {
       "id": 83871,
@@ -141,7 +141,7 @@ window.actressData = {
         "御坂莉亚",
         "久远れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOV-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-056"
     },
     {
       "id": 83231,
@@ -159,7 +159,7 @@ window.actressData = {
         "叶月桃",
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-770"
     },
     {
       "id": 83289,
@@ -177,7 +177,7 @@ window.actressData = {
         "东条苍",
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-074"
     },
     {
       "id": 83519,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAEM-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAEM-006"
     },
     {
       "id": 86894,
@@ -217,7 +217,7 @@ window.actressData = {
         "爱华みれい",
         "桜井萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-586"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-586"
     },
     {
       "id": 70065,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-386"
     },
     {
       "id": 84778,
@@ -249,7 +249,7 @@ window.actressData = {
       "actress": [
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-070"
     },
     {
       "id": 82302,
@@ -265,7 +265,7 @@ window.actressData = {
       "actress": [
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-540"
     },
     {
       "id": 91271,
@@ -282,7 +282,7 @@ window.actressData = {
         "南佳也",
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-678"
     }
   ]
 };

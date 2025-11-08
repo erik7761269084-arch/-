@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "里崎爱佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1277"
     },
     {
       "id": 75673,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "里崎爱佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IQQQ-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IQQQ-014"
     },
     {
       "id": 76055,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "里崎爱佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUKA-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-036"
     },
     {
       "id": 77959,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "里崎爱佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KEED-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-055"
     }
   ]
 };

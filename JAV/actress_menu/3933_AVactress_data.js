@@ -34,7 +34,7 @@ window.actressData = {
         "富井美帆",
         "小川ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-633"
     },
     {
       "id": 69684,
@@ -55,7 +55,7 @@ window.actressData = {
         "篠崎环奈",
         "小川ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-484"
     },
     {
       "id": 74055,
@@ -74,7 +74,7 @@ window.actressData = {
         "织田真琴",
         "市桥惠理奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUBI-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUBI-027"
     }
   ]
 };

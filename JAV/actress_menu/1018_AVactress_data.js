@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "守屋よしの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-327"
     },
     {
       "id": 3251,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "守屋よしの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-321"
     },
     {
       "id": 4026,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "守屋よしの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-317"
     },
     {
       "id": 5044,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "守屋よしの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-312"
     },
     {
       "id": 5782,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "守屋よしの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-307"
     }
   ]
 };

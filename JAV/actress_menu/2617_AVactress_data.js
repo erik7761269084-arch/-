@@ -71,7 +71,7 @@ window.actressData = {
         "冬月枫",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-912"
     },
     {
       "id": 86936,
@@ -88,7 +88,7 @@ window.actressData = {
         "冬月枫",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-407"
     },
     {
       "id": 86934,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-384"
     },
     {
       "id": 86941,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-718"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-718"
     },
     {
       "id": 82756,
@@ -137,7 +137,7 @@ window.actressData = {
         "冬月枫",
         "大冢れん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-459"
     },
     {
       "id": 95938,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-431"
     },
     {
       "id": 96139,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-384"
     },
     {
       "id": 75272,
@@ -185,7 +185,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-266"
     },
     {
       "id": 72933,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-252"
     },
     {
       "id": 72604,
@@ -218,7 +218,7 @@ window.actressData = {
         "冬月枫",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-238"
     },
     {
       "id": 87973,
@@ -235,7 +235,7 @@ window.actressData = {
         "冬月枫",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-164"
     },
     {
       "id": 105866,
@@ -251,7 +251,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-042"
     },
     {
       "id": 105743,
@@ -267,7 +267,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-382"
     },
     {
       "id": 106016,
@@ -284,7 +284,7 @@ window.actressData = {
         "冬月枫",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-366"
     },
     {
       "id": 19616,
@@ -300,7 +300,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-344"
     },
     {
       "id": 72583,
@@ -316,7 +316,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-551"
     },
     {
       "id": 101182,
@@ -333,7 +333,7 @@ window.actressData = {
         "冬月枫",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-008"
     },
     {
       "id": 105876,
@@ -351,7 +351,7 @@ window.actressData = {
         "森林原人",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-056"
     },
     {
       "id": 105878,
@@ -369,7 +369,7 @@ window.actressData = {
         "森林原人",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-998"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-998"
     },
     {
       "id": 105846,
@@ -388,7 +388,7 @@ window.actressData = {
         "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-963"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-963"
     },
     {
       "id": 106684,
@@ -404,7 +404,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-490"
     },
     {
       "id": 107074,
@@ -420,7 +420,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-470"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-470"
     },
     {
       "id": 105881,
@@ -436,7 +436,7 @@ window.actressData = {
       "actress": [
         "冬月枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-459"
     }
   ]
 };

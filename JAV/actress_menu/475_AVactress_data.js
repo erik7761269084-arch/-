@@ -95,7 +95,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 13254,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "明日見未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-125"
     },
     {
       "id": 17632,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "明日見未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-406"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-406"
     },
     {
       "id": 17754,
@@ -144,7 +144,7 @@ window.actressData = {
         "明日見未来",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-025"
     },
     {
       "id": 17750,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "明日見未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-169"
     },
     {
       "id": 18029,
@@ -177,7 +177,7 @@ window.actressData = {
         "小花暖",
         "明日見未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-594"
     },
     {
       "id": 17993,
@@ -194,7 +194,7 @@ window.actressData = {
         "明日見未来",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-314"
     },
     {
       "id": 18219,
@@ -211,7 +211,7 @@ window.actressData = {
         "明日見未来",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-485"
     },
     {
       "id": 18199,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "明日見未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-404"
     },
     {
       "id": 18312,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "明日見未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-030"
     },
     {
       "id": 18320,
@@ -259,7 +259,7 @@ window.actressData = {
       "actress": [
         "明日見未来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-530"
     }
   ]
 };

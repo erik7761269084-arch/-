@@ -57,7 +57,7 @@ window.actressData = {
         "百叶花音",
         "二叶あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-735"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-735"
     },
     {
       "id": 77938,
@@ -80,7 +80,7 @@ window.actressData = {
         "宫泽みほ",
         "椿くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-248"
     },
     {
       "id": 88156,
@@ -100,7 +100,7 @@ window.actressData = {
         "佐佐波绫",
         "波木遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-165"
     },
     {
       "id": 77667,
@@ -120,7 +120,7 @@ window.actressData = {
         "内川桂帆",
         "长瀬望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-019"
     },
     {
       "id": 71763,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "坂咲美穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-042"
     },
     {
       "id": 974,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "坂咲美穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1337"
     },
     {
       "id": 1989,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "坂咲美穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-69"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-69"
     },
     {
       "id": 71270,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "坂咲美穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-204"
     },
     {
       "id": 73232,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "坂咲美穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-071"
     }
   ]
 };

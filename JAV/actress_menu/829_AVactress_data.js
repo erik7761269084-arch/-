@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "愛葉陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-376"
     },
     {
       "id": 8675,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "愛葉陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-041"
     },
     {
       "id": 9003,
@@ -88,7 +88,7 @@ window.actressData = {
         "愛葉陽葵",
         "朝陽伊都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
     },
     {
       "id": 9417,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "愛葉陽葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-235"
     }
   ]
 };

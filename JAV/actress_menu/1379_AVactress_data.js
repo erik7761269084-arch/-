@@ -69,7 +69,7 @@ window.actressData = {
         "牧村柚希",
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-253"
     },
     {
       "id": 19253,
@@ -87,7 +87,7 @@ window.actressData = {
         "鲛岛",
         "岛永彩生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-194"
     }
   ]
 };

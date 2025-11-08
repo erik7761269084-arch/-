@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "长滨もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-345"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-345"
     },
     {
       "id": 82900,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "长滨もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-770"
     },
     {
       "id": 73901,
@@ -67,7 +67,7 @@ window.actressData = {
         "玉木玲",
         "长滨もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-073"
     }
   ]
 };

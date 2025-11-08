@@ -34,7 +34,7 @@ window.actressData = {
         "しゃびー",
         "中泽チュリン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIMD-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIMD-020"
     },
     {
       "id": 88851,
@@ -51,7 +51,7 @@ window.actressData = {
         "中泽チュリン",
         "かとうれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=THTP-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THTP-085"
     },
     {
       "id": 106581,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "中泽チュリン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-199"
     }
   ]
 };

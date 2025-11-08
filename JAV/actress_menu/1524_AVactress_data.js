@@ -62,7 +62,7 @@ window.actressData = {
         "黒木逢夢",
         "有坂唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-712"
     },
     {
       "id": 106505,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "有坂唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-669"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-669"
     }
   ]
 };

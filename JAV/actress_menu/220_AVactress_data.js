@@ -101,7 +101,7 @@ window.actressData = {
         "椎叶みくる",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-941"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-941"
     },
     {
       "id": 3077,
@@ -135,7 +135,7 @@ window.actressData = {
         "长瀬麻美",
         "儿玉玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-092"
     },
     {
       "id": 4701,
@@ -153,7 +153,7 @@ window.actressData = {
         "沙月惠奈",
         "美波梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-879"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-879"
     },
     {
       "id": 6619,
@@ -170,7 +170,7 @@ window.actressData = {
         "花狩舞",
         "美波梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-091"
     },
     {
       "id": 10683,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "美波梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-328"
     },
     {
       "id": 14094,
@@ -204,7 +204,7 @@ window.actressData = {
         "響乃詩",
         "美波梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-850"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-850"
     },
     {
       "id": 14417,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "美波梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-087"
     },
     {
       "id": 15814,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "美波梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-155"
     }
   ]
 };

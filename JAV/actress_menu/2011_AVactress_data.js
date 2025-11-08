@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "奥乃美加奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-328"
     },
     {
       "id": 7513,
@@ -68,7 +68,7 @@ window.actressData = {
         "奥乃美加奈",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-989"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-989"
     }
   ]
 };

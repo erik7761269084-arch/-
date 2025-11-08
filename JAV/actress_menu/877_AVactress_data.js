@@ -48,7 +48,7 @@ window.actressData = {
         "NATSUKA",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUBLK-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-044"
     },
     {
       "id": 74774,
@@ -65,7 +65,7 @@ window.actressData = {
         "仓多真央",
         "NATSUKA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-078"
     },
     {
       "id": 10408,
@@ -85,7 +85,7 @@ window.actressData = {
         "有星青理",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-126"
     },
     {
       "id": 89990,
@@ -102,7 +102,7 @@ window.actressData = {
         "NATSUKA",
         "加贺美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-507"
     },
     {
       "id": 91117,
@@ -125,7 +125,7 @@ window.actressData = {
         "安倍亜沙美",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-272"
     }
   ]
 };

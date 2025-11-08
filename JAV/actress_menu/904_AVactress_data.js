@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "上山奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-379"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-379"
     },
     {
       "id": 76456,
@@ -78,7 +78,7 @@ window.actressData = {
         "森萤",
         "河北麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-707"
     },
     {
       "id": 68401,
@@ -101,7 +101,7 @@ window.actressData = {
         "橘优花",
         "清城雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-782"
     }
   ]
 };

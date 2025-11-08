@@ -53,7 +53,7 @@ window.actressData = {
         "松岡美桜",
         "大空七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVSHA-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-024"
     },
     {
       "id": 16462,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "松岡美桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-608"
     }
   ]
 };

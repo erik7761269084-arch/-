@@ -53,7 +53,7 @@ window.actressData = {
         "真白風羽里",
         "星宮桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-064"
     },
     {
       "id": 5135,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "星宮桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-390"
     },
     {
       "id": 8708,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "星宮桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-572"
     }
   ]
 };

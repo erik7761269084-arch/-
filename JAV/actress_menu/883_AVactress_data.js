@@ -76,7 +76,7 @@ window.actressData = {
         "マサムー",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
     },
     {
       "id": 3673,
@@ -93,7 +93,7 @@ window.actressData = {
         "真白みのり",
         "紫月由香里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-161"
     }
   ]
 };

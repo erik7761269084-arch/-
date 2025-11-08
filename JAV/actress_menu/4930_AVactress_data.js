@@ -40,7 +40,7 @@ window.actressData = {
         "长谷川ゆうこ",
         "瀬名凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-019"
     },
     {
       "id": 85395,
@@ -58,7 +58,7 @@ window.actressData = {
         "夏目ミュウ",
         "松本亜璃沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-018"
     },
     {
       "id": 79932,
@@ -75,7 +75,7 @@ window.actressData = {
         "初川南",
         "松本亜璃沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-007"
     }
   ]
 };

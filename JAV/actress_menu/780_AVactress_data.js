@@ -62,7 +62,7 @@ window.actressData = {
         "三河瑛茉",
         "野田朔弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-334"
     },
     {
       "id": 2959,
@@ -82,7 +82,7 @@ window.actressData = {
         "トイボーイ相沢",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNTRZ-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-021"
     },
     {
       "id": 62079,
@@ -100,7 +100,7 @@ window.actressData = {
         "コグレハルト",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-058"
     },
     {
       "id": 3910,
@@ -118,7 +118,7 @@ window.actressData = {
         "牧野怜奈",
         "小森舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVCAO-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-017"
     },
     {
       "id": 8619,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "小森舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-153"
     }
   ]
 };

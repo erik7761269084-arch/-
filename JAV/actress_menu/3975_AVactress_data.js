@@ -33,7 +33,7 @@ window.actressData = {
         "神野雛",
         "君嶋かほる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-233"
     },
     {
       "id": 70206,
@@ -51,7 +51,7 @@ window.actressData = {
         "白藤ゆりえ",
         "君嶋かほる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3312"
     },
     {
       "id": 77972,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "君嶋かほる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-160"
     }
   ]
 };

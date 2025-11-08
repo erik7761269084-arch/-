@@ -37,7 +37,7 @@ window.actressData = {
         "夏花",
         "姫宮すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONIN-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONIN-088"
     },
     {
       "id": 67065,
@@ -55,7 +55,7 @@ window.actressData = {
         "成田紬",
         "茅野亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-156"
     },
     {
       "id": 89534,
@@ -73,7 +73,7 @@ window.actressData = {
         "茅野亜美",
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-139"
     },
     {
       "id": 89535,
@@ -91,7 +91,7 @@ window.actressData = {
         "水卜麻衣奈",
         "茅野亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-137"
     }
   ]
 };

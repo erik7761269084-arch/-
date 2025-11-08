@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "運メイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-281"
     },
     {
       "id": 66927,
@@ -49,7 +49,7 @@ window.actressData = {
         "イセドン内村",
         "運メイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-258"
     }
   ]
 };

@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-880"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-880"
     },
     {
       "id": 3417,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-850"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-850"
     },
     {
       "id": 4318,
@@ -101,7 +101,7 @@ window.actressData = {
         "乃坂日和",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
     },
     {
       "id": 4305,
@@ -118,7 +118,7 @@ window.actressData = {
         "楓富愛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-785"
     },
     {
       "id": 5199,
@@ -135,7 +135,7 @@ window.actressData = {
         "楓富愛",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-760"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-760"
     },
     {
       "id": 5195,
@@ -161,7 +161,7 @@ window.actressData = {
         "金松季歩",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
     },
     {
       "id": 5933,
@@ -179,7 +179,7 @@ window.actressData = {
         "南佳也",
         "ハリー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-706"
     },
     {
       "id": 6608,
@@ -197,7 +197,7 @@ window.actressData = {
         "楓富愛",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-107"
     },
     {
       "id": 7408,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-705"
     },
     {
       "id": 8112,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-639"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-639"
     },
     {
       "id": 8885,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-591"
     },
     {
       "id": 8873,
@@ -277,7 +277,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 10405,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-496"
     },
     {
       "id": 13218,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-263"
     },
     {
       "id": 13847,
@@ -326,7 +326,7 @@ window.actressData = {
         "楓富愛",
         "ハリー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-114"
     },
     {
       "id": 14492,
@@ -342,7 +342,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-196"
     },
     {
       "id": 16677,
@@ -359,7 +359,7 @@ window.actressData = {
         "楓富愛",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-980"
     },
     {
       "id": 17659,
@@ -375,7 +375,7 @@ window.actressData = {
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-908"
     }
   ]
 };

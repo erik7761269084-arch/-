@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "我妻里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-028"
     },
     {
       "id": 79686,
@@ -49,7 +49,7 @@ window.actressData = {
         "蓝井优太",
         "我妻里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-023"
     },
     {
       "id": 88525,
@@ -66,7 +66,7 @@ window.actressData = {
         "小田切ジュン",
         "我妻里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-809"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-809"
     },
     {
       "id": 105744,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "我妻里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-714"
     }
   ]
 };

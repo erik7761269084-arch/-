@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "春咲凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-454"
     },
     {
       "id": 97769,
@@ -67,7 +67,7 @@ window.actressData = {
         "森林原人",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-963"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-963"
     },
     {
       "id": 98362,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "春咲凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-953"
     },
     {
       "id": 2018,
@@ -100,7 +100,7 @@ window.actressData = {
         "春原未来",
         "春咲凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=abp-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-942"
     },
     {
       "id": 76054,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "春咲凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-935"
     },
     {
       "id": 75073,
@@ -133,7 +133,7 @@ window.actressData = {
         "春咲凉",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-890"
     },
     {
       "id": 74020,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "春咲凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-881"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-881"
     },
     {
       "id": 97842,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "春咲凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-872"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-872"
     },
     {
       "id": 71683,
@@ -182,7 +182,7 @@ window.actressData = {
         "春咲凉",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-860"
     },
     {
       "id": 86959,
@@ -200,7 +200,7 @@ window.actressData = {
         "鲛岛",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-813"
     },
     {
       "id": 71344,
@@ -218,7 +218,7 @@ window.actressData = {
         "鲛岛",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-800"
     },
     {
       "id": 71749,
@@ -235,7 +235,7 @@ window.actressData = {
         "春咲凉",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-790"
     },
     {
       "id": 71197,
@@ -251,7 +251,7 @@ window.actressData = {
       "actress": [
         "春咲凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-778"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-778"
     }
   ]
 };

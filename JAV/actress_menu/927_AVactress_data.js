@@ -42,7 +42,7 @@ window.actressData = {
       "actress": [
         "菅日菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-408"
     },
     {
       "id": 77841,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "菅日菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-382"
     },
     {
       "id": 91544,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "菅日菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-296"
     }
   ]
 };

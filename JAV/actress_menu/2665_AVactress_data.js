@@ -95,7 +95,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 5807,
@@ -126,7 +126,7 @@ window.actressData = {
         "安倍亜沙美",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-641"
     },
     {
       "id": 86818,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "百田胡桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-175"
     },
     {
       "id": 67568,
@@ -159,7 +159,7 @@ window.actressData = {
         "百田胡桃",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-793"
     },
     {
       "id": 83130,
@@ -182,7 +182,7 @@ window.actressData = {
         "咲坂花恋",
         "茉莉ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-601"
     },
     {
       "id": 83230,
@@ -201,7 +201,7 @@ window.actressData = {
         "白咲柚子",
         "なつめ爱梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-802"
     },
     {
       "id": 70256,
@@ -225,7 +225,7 @@ window.actressData = {
         "凉海みさ",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-908"
     },
     {
       "id": 77280,
@@ -243,7 +243,7 @@ window.actressData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-800"
     }
   ]
 };

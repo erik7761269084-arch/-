@@ -50,7 +50,7 @@ window.actressData = {
         "福田もも",
         "雨村梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-388"
     },
     {
       "id": 7101,
@@ -70,7 +70,7 @@ window.actressData = {
         "木野野葉惠里香",
         "福田もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DHLD-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-015"
     },
     {
       "id": 7098,
@@ -90,7 +90,7 @@ window.actressData = {
         "木野野葉惠里香",
         "福田もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DSJH-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSJH-013"
     },
     {
       "id": 7908,
@@ -111,7 +111,7 @@ window.actressData = {
         "夢川りあ",
         "斉藤月乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-252"
     },
     {
       "id": 8596,
@@ -139,7 +139,7 @@ window.actressData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-799"
     }
   ]
 };

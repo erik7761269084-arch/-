@@ -35,7 +35,7 @@ window.actressData = {
         "武藤つぐみ",
         "凉川绚音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTMS-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTMS-099"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "日森一",
         "だやま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-552"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-552"
     }
   ]
 };

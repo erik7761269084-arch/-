@@ -33,7 +33,7 @@ window.actressData = {
         "望月綾香",
         "あやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2602"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2602"
     },
     {
       "id": 69278,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "あやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1061"
     }
   ]
 };

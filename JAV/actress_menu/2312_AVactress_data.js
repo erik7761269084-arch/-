@@ -79,7 +79,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 80327,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "衣吹花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1502"
     },
     {
       "id": 79229,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "衣吹花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTK-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTK-599"
     },
     {
       "id": 67567,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "衣吹花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-776"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-776"
     },
     {
       "id": 91447,
@@ -144,7 +144,7 @@ window.actressData = {
         "衣吹花音",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-769"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-769"
     },
     {
       "id": 88013,
@@ -163,7 +163,7 @@ window.actressData = {
         "タツ",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-763"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-763"
     }
   ]
 };

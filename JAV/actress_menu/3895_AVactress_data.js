@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "佐仓宁宁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRUM-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRUM-019"
     },
     {
       "id": 77949,
@@ -60,7 +60,7 @@ window.actressData = {
         "优梨まいな",
         "佐仓宁宁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-476"
     },
     {
       "id": 71154,
@@ -85,7 +85,7 @@ window.actressData = {
         "今井まい",
         "优月りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-112"
     },
     {
       "id": 88211,
@@ -104,7 +104,7 @@ window.actressData = {
         "香苗レノン",
         "佐仓宁宁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-537"
     },
     {
       "id": 78201,
@@ -129,7 +129,7 @@ window.actressData = {
         "松雪かなえ",
         "爱葵いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DCX-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DCX-079"
     },
     {
       "id": 71150,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "佐仓宁宁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-577"
     },
     {
       "id": 69326,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "佐仓宁宁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-759"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-759"
     }
   ]
 };

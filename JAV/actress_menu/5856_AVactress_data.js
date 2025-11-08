@@ -35,7 +35,7 @@ window.actressData = {
         "中邑みずき",
         "石桥やよい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OLM-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-080"
     }
   ]
 };

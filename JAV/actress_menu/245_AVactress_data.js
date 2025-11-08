@@ -66,7 +66,7 @@ window.actressData = {
         "村上悠華",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-801"
     },
     {
       "id": 4318,
@@ -93,7 +93,7 @@ window.actressData = {
         "乃坂日和",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
     },
     {
       "id": 4750,
@@ -111,7 +111,7 @@ window.actressData = {
         "七尾神",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-746"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-746"
     },
     {
       "id": 5539,
@@ -128,7 +128,7 @@ window.actressData = {
         "村上悠華",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-708"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-708"
     },
     {
       "id": 6319,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "村上悠華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-624"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-624"
     },
     {
       "id": 7066,
@@ -164,7 +164,7 @@ window.actressData = {
         "しめじ",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-670"
     },
     {
       "id": 7751,
@@ -192,7 +192,7 @@ window.actressData = {
         "ラヴズ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
     },
     {
       "id": 8430,
@@ -209,7 +209,7 @@ window.actressData = {
         "村上悠華",
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-616"
     },
     {
       "id": 9267,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "村上悠華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-529"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-529"
     },
     {
       "id": 10165,
@@ -242,7 +242,7 @@ window.actressData = {
         "村上悠華",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-483"
     },
     {
       "id": 13556,
@@ -258,7 +258,7 @@ window.actressData = {
       "actress": [
         "村上悠華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-254"
     },
     {
       "id": 14149,
@@ -277,7 +277,7 @@ window.actressData = {
         "ナイアガラ翔",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-139"
     },
     {
       "id": 17353,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "村上悠華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-964"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-964"
     },
     {
       "id": 17925,
@@ -310,7 +310,7 @@ window.actressData = {
         "村上悠華",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-925"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-925"
     },
     {
       "id": 18429,
@@ -327,7 +327,7 @@ window.actressData = {
         "村上悠華",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-885"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-885"
     }
   ]
 };

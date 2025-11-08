@@ -39,7 +39,7 @@ window.actressData = {
         "近藤郁",
         "平冈里枝子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-269"
     },
     {
       "id": 7094,
@@ -70,7 +70,7 @@ window.actressData = {
         "成泽ひなみ",
         "宫本纱央里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-371"
     },
     {
       "id": 66853,
@@ -90,7 +90,7 @@ window.actressData = {
         "近藤郁",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-453"
     },
     {
       "id": 91732,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "近藤郁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLW-2067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MLW-2067"
     }
   ]
 };

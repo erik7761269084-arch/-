@@ -59,7 +59,7 @@ window.actressData = {
         "ひょこり",
         "平井シンジ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-875"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-875"
     },
     {
       "id": 5762,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "柚木ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-072"
     },
     {
       "id": 5997,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "柚木ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-961"
     },
     {
       "id": 6980,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "柚木ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-937"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-937"
     },
     {
       "id": 7606,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "柚木ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-066"
     },
     {
       "id": 90018,
@@ -141,7 +141,7 @@ window.actressData = {
         "鲛岛",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-523"
     }
   ]
 };

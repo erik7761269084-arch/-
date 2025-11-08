@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-129"
     },
     {
       "id": 4860,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-040"
     },
     {
       "id": 5731,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-025"
     },
     {
       "id": 6797,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-009"
     },
     {
       "id": 6602,
@@ -147,7 +147,7 @@ window.actressData = {
         "乙白さやか",
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
     },
     {
       "id": 7145,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-989"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-989"
     },
     {
       "id": 70547,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-974"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-974"
     },
     {
       "id": 8728,
@@ -196,7 +196,7 @@ window.actressData = {
         "吉高寧寧",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-969"
     },
     {
       "id": 10741,
@@ -212,7 +212,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-892"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-892"
     },
     {
       "id": 9630,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-947"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-947"
     },
     {
       "id": 16372,
@@ -244,7 +244,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-733"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-733"
     },
     {
       "id": 15095,
@@ -260,7 +260,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-634"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-634"
     },
     {
       "id": 67133,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-533"
     },
     {
       "id": 106510,
@@ -292,7 +292,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-517"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-517"
     },
     {
       "id": 84476,
@@ -308,7 +308,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-501"
     },
     {
       "id": 67644,
@@ -324,7 +324,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-489"
     },
     {
       "id": 83906,
@@ -340,7 +340,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-473"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-473"
     },
     {
       "id": 83933,
@@ -356,7 +356,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-457"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-457"
     },
     {
       "id": 73256,
@@ -372,7 +372,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-440"
     },
     {
       "id": 83938,
@@ -388,7 +388,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-425"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-425"
     },
     {
       "id": 83940,
@@ -404,7 +404,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-410"
     },
     {
       "id": 83930,
@@ -420,7 +420,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-394"
     },
     {
       "id": 81141,
@@ -436,7 +436,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-377"
     },
     {
       "id": 80789,
@@ -452,7 +452,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-366"
     },
     {
       "id": 83961,
@@ -468,7 +468,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-352"
     },
     {
       "id": 80331,
@@ -484,7 +484,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-336"
     },
     {
       "id": 79837,
@@ -500,7 +500,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-290"
     },
     {
       "id": 105985,
@@ -516,7 +516,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-114"
     },
     {
       "id": 2072,
@@ -532,7 +532,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=fsdss-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=fsdss-070"
     },
     {
       "id": 107197,
@@ -548,7 +548,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-041"
     },
     {
       "id": 76687,
@@ -565,7 +565,7 @@ window.actressData = {
         "吉高寧寧",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-678"
     },
     {
       "id": 78781,
@@ -581,7 +581,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-648"
     },
     {
       "id": 8919,
@@ -597,7 +597,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-570"
     },
     {
       "id": 9481,
@@ -613,7 +613,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-547"
     },
     {
       "id": 9518,
@@ -629,7 +629,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-521"
     },
     {
       "id": 70066,
@@ -646,7 +646,7 @@ window.actressData = {
         "吉高寧寧",
         "椎名空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-498"
     },
     {
       "id": 12068,
@@ -668,7 +668,7 @@ window.actressData = {
         "羽笑美晴",
         "彩美旬果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-378"
     },
     {
       "id": 13065,
@@ -684,7 +684,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-351"
     },
     {
       "id": 13261,
@@ -700,7 +700,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-329"
     },
     {
       "id": 76355,
@@ -716,7 +716,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-166"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-166"
     },
     {
       "id": 14366,
@@ -735,7 +735,7 @@ window.actressData = {
         "大岛丈",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-275"
     },
     {
       "id": 79063,
@@ -751,7 +751,7 @@ window.actressData = {
       "actress": [
         "吉高寧寧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-217"
     }
   ]
 };

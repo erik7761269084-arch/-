@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "櫻柚乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-323"
     },
     {
       "id": 3618,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "櫻柚乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-282"
     },
     {
       "id": 4526,
@@ -94,7 +94,7 @@ window.actressData = {
         "櫻柚乃",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-238"
     },
     {
       "id": 5359,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "櫻柚乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-197"
     },
     {
       "id": 6140,
@@ -127,7 +127,7 @@ window.actressData = {
         "櫻柚乃",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-167"
     },
     {
       "id": 7525,
@@ -145,7 +145,7 @@ window.actressData = {
         "鲛岛",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-095"
     },
     {
       "id": 8259,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "櫻柚乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-055"
     }
   ]
 };

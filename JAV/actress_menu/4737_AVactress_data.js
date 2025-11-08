@@ -33,7 +33,7 @@ window.actressData = {
         "南佳也",
         "大槻りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-370"
     }
   ]
 };

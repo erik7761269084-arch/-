@@ -55,7 +55,7 @@ window.actressData = {
         "凉南佳奈",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TYD-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-003"
     }
   ]
 };

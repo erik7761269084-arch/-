@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "有坂祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-124"
     }
   ]
 };

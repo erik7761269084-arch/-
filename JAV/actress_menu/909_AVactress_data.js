@@ -53,7 +53,7 @@ window.actressData = {
         "若月もあ",
         "渡辺まりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-279"
     },
     {
       "id": 63446,
@@ -71,7 +71,7 @@ window.actressData = {
         "小野寺舞",
         "渡辺まりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTHTD-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-122"
     },
     {
       "id": 5267,
@@ -94,7 +94,7 @@ window.actressData = {
         "柳田実椰",
         "浜内礼依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-320"
     },
     {
       "id": 6591,
@@ -113,7 +113,7 @@ window.actressData = {
         "渡辺まりか",
         "宮瀬夏純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-093"
     }
   ]
 };

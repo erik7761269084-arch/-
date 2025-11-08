@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "成宮莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-058"
     },
     {
       "id": 19467,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "成宮莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-039"
     },
     {
       "id": 19470,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "成宮莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-030"
     },
     {
       "id": 19483,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "成宮莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-018"
     },
     {
       "id": 19492,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "成宮莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-007"
     }
   ]
 };

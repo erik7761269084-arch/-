@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "有村千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-327"
     },
     {
       "id": 17548,
@@ -63,7 +63,7 @@ window.actressData = {
         "高梨步",
         "しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-195"
     },
     {
       "id": 83629,
@@ -86,7 +86,7 @@ window.actressData = {
         "桥本丽华",
         "クリスティーン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-311"
     },
     {
       "id": 97567,
@@ -104,7 +104,7 @@ window.actressData = {
         "有村千佳",
         "村田ちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-561"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-561"
     },
     {
       "id": 1685,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "有村千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FMES-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FMES-037"
     },
     {
       "id": 88231,
@@ -141,7 +141,7 @@ window.actressData = {
         "村田ちか",
         "香岛りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-171"
     },
     {
       "id": 1544,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "有村千佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HERY-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-001"
     }
   ]
 };

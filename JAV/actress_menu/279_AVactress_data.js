@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-724"
     },
     {
       "id": 3189,
@@ -65,7 +65,7 @@ window.actressData = {
         "夏目彩春",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-716"
     },
     {
       "id": 3967,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-709"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-709"
     },
     {
       "id": 4967,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-696"
     },
     {
       "id": 5710,
@@ -114,7 +114,7 @@ window.actressData = {
         "夏目彩春",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-691"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-691"
     },
     {
       "id": 6469,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-684"
     },
     {
       "id": 7218,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-679"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-679"
     },
     {
       "id": 8709,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-662"
     },
     {
       "id": 9446,
@@ -179,7 +179,7 @@ window.actressData = {
         "夏目彩春",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-640"
     },
     {
       "id": 16451,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-531"
     },
     {
       "id": 16972,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-519"
     },
     {
       "id": 17460,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-504"
     },
     {
       "id": 18009,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-500"
     },
     {
       "id": 106838,
@@ -259,7 +259,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-496"
     },
     {
       "id": 107125,
@@ -275,7 +275,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-486"
     },
     {
       "id": 107508,
@@ -291,7 +291,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-568"
     },
     {
       "id": 90383,
@@ -308,7 +308,7 @@ window.actressData = {
         "夏目彩春",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-463"
     },
     {
       "id": 67227,
@@ -324,7 +324,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-448"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-448"
     },
     {
       "id": 90183,
@@ -340,7 +340,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-436"
     },
     {
       "id": 67118,
@@ -357,7 +357,7 @@ window.actressData = {
         "夏目彩春",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-428"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-428"
     },
     {
       "id": 67224,
@@ -374,7 +374,7 @@ window.actressData = {
         "夏目彩春",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-421"
     },
     {
       "id": 66743,
@@ -391,7 +391,7 @@ window.actressData = {
         "夏目彩春",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-412"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-412"
     },
     {
       "id": 66732,
@@ -408,7 +408,7 @@ window.actressData = {
         "夏目彩春",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-408"
     },
     {
       "id": 66892,
@@ -424,7 +424,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-404"
     },
     {
       "id": 80997,
@@ -440,7 +440,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-378"
     },
     {
       "id": 80639,
@@ -456,7 +456,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-372"
     },
     {
       "id": 87263,
@@ -472,7 +472,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-362"
     },
     {
       "id": 79707,
@@ -489,7 +489,7 @@ window.actressData = {
         "夏目彩春",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-348"
     },
     {
       "id": 61501,
@@ -505,7 +505,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-337"
     },
     {
       "id": 71857,
@@ -522,7 +522,7 @@ window.actressData = {
         "夏目彩春",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-426"
     },
     {
       "id": 73096,
@@ -539,7 +539,7 @@ window.actressData = {
         "夏目彩春",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-158"
     },
     {
       "id": 81422,
@@ -555,7 +555,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-407"
     },
     {
       "id": 71859,
@@ -572,7 +572,7 @@ window.actressData = {
         "夏目彩春",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-392"
     },
     {
       "id": 77038,
@@ -588,7 +588,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-950"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-950"
     },
     {
       "id": 71754,
@@ -605,7 +605,7 @@ window.actressData = {
         "夏目彩春",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-377"
     },
     {
       "id": 70418,
@@ -623,7 +623,7 @@ window.actressData = {
         "持田栞里",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-875"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-875"
     },
     {
       "id": 75070,
@@ -639,7 +639,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-221"
     },
     {
       "id": 73997,
@@ -655,7 +655,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-932"
     },
     {
       "id": 74080,
@@ -671,7 +671,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-350"
     },
     {
       "id": 71354,
@@ -687,7 +687,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-325"
     },
     {
       "id": 68065,
@@ -703,7 +703,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-814"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-814"
     },
     {
       "id": 73589,
@@ -719,7 +719,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-174"
     },
     {
       "id": 76734,
@@ -735,7 +735,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-899"
     },
     {
       "id": 78798,
@@ -751,7 +751,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-143"
     },
     {
       "id": 77906,
@@ -768,7 +768,7 @@ window.actressData = {
         "夏目彩春",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-275"
     },
     {
       "id": 107063,
@@ -784,7 +784,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-822"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-822"
     },
     {
       "id": 63208,
@@ -800,7 +800,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-767"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-767"
     },
     {
       "id": 103313,
@@ -817,7 +817,7 @@ window.actressData = {
         "夏目彩春",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-087"
     },
     {
       "id": 88455,
@@ -834,7 +834,7 @@ window.actressData = {
         "夏目彩春",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-674"
     },
     {
       "id": 75100,
@@ -850,7 +850,7 @@ window.actressData = {
       "actress": [
         "夏目彩春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIGD-587"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-587"
     }
   ]
 };

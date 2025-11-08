@@ -48,7 +48,7 @@ window.actressData = {
         "新垣まりん",
         "汐梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-094"
     },
     {
       "id": 7257,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "汐梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-301"
     }
   ]
 };

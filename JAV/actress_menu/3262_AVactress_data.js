@@ -37,7 +37,7 @@ window.actressData = {
         "绪方泰子",
         "松下理彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JHEM-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JHEM-036"
     },
     {
       "id": 93447,
@@ -61,7 +61,7 @@ window.actressData = {
         "真白兰",
         "仲川舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-098"
     },
     {
       "id": 87132,
@@ -81,7 +81,7 @@ window.actressData = {
         "城月あやね",
         "七海ひさ代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-897"
     },
     {
       "id": 87605,
@@ -102,7 +102,7 @@ window.actressData = {
         "山口椿",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-060"
     },
     {
       "id": 78484,
@@ -119,7 +119,7 @@ window.actressData = {
         "绪方泰子",
         "樱井菜々子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RD-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-972"
     },
     {
       "id": 75551,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "绪方泰子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1230"
     },
     {
       "id": 98234,
@@ -160,7 +160,7 @@ window.actressData = {
         "あいだ飞鸟",
         "真山由夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKB-093-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-093-"
     }
   ]
 };

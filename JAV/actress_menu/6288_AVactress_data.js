@@ -33,7 +33,7 @@ window.actressData = {
         "イセドン内村",
         "辻泽もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-104"
     }
   ]
 };

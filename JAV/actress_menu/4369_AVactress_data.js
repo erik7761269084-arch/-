@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "夏目优希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLO-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-036"
     },
     {
       "id": 73582,
@@ -57,7 +57,7 @@ window.actressData = {
         "冲田奈々",
         "玉城マイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
     },
     {
       "id": 73403,
@@ -77,7 +77,7 @@ window.actressData = {
         "桜木优希音",
         "夏目优希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-279"
     },
     {
       "id": 82936,
@@ -95,7 +95,7 @@ window.actressData = {
         "佐藤遥希",
         "夏目优希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZIZG-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-001"
     },
     {
       "id": 107308,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "夏目优希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-366"
     }
   ]
 };

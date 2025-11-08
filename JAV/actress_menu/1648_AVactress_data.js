@@ -51,7 +51,7 @@ window.actressData = {
         "柄本ゆかり",
         "白井真美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-728"
     },
     {
       "id": 1076,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "臼井さと美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1517"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1517"
     }
   ]
 };

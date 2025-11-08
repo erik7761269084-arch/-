@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-161"
     },
     {
       "id": 88625,
@@ -49,7 +49,7 @@ window.actressData = {
         "森林原人",
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-602"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-602"
     },
     {
       "id": 85609,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-038"
     },
     {
       "id": 84223,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-360"
     },
     {
       "id": 85346,
@@ -98,7 +98,7 @@ window.actressData = {
         "Qべぇ",
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-618"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-618"
     },
     {
       "id": 80799,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-555"
     },
     {
       "id": 85842,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-002"
     },
     {
       "id": 84374,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-887"
     },
     {
       "id": 84035,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "佐藤あや奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-540"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-540"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "野野浦暖",
         "上原海里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-027"
     },
     {
       "id": 92631,
@@ -53,7 +53,7 @@ window.actressData = {
         "梨杏",
         "上原海里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MN-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MN-035"
     }
   ]
 };

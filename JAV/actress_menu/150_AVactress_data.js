@@ -68,7 +68,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-271"
     },
     {
       "id": 3524,
@@ -105,7 +105,7 @@ window.actressData = {
         "高桥圣子",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-477"
     },
     {
       "id": 5697,
@@ -123,7 +123,7 @@ window.actressData = {
         "日森一",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-202"
     },
     {
       "id": 5845,
@@ -149,7 +149,7 @@ window.actressData = {
         "神宫寺奈绪",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-599"
     },
     {
       "id": 5801,
@@ -179,7 +179,7 @@ window.actressData = {
         "篠田优",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-596"
     },
     {
       "id": 6513,
@@ -196,7 +196,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-150"
     },
     {
       "id": 7181,
@@ -214,7 +214,7 @@ window.actressData = {
         "トミフミ",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-112"
     },
     {
       "id": 8435,
@@ -231,7 +231,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-186"
     },
     {
       "id": 8693,
@@ -248,7 +248,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-037"
     },
     {
       "id": 9435,
@@ -265,7 +265,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-980"
     },
     {
       "id": 9534,
@@ -306,7 +306,7 @@ window.actressData = {
         "安倍亜沙美",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-424"
     },
     {
       "id": 16487,
@@ -323,7 +323,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-615"
     },
     {
       "id": 16877,
@@ -340,7 +340,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-530"
     },
     {
       "id": 17892,
@@ -357,7 +357,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-458"
     },
     {
       "id": 18143,
@@ -374,7 +374,7 @@ window.actressData = {
         "神宫寺奈緒",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-494"
     },
     {
       "id": 18631,
@@ -392,7 +392,7 @@ window.actressData = {
         "田渊正浩",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-892"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-892"
     },
     {
       "id": 19218,
@@ -412,7 +412,7 @@ window.actressData = {
         "玉木玲",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-233"
     }
   ]
 };

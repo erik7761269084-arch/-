@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "天宮かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUBE-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUBE-030"
     },
     {
       "id": 7599,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "天宮かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-139"
     },
     {
       "id": 8059,
@@ -86,7 +86,7 @@ window.actressData = {
         "天宮かすみ",
         "沙優七羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-307"
     },
     {
       "id": 72503,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "天宮かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-079"
     },
     {
       "id": 8221,
@@ -130,7 +130,7 @@ window.actressData = {
         "楽園ミナ",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-135"
     },
     {
       "id": 72861,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "天宮かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-637"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-637"
     },
     {
       "id": 10528,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "天宮かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-126"
     },
     {
       "id": 14888,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "天宮かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-705"
     },
     {
       "id": 59692,
@@ -197,7 +197,7 @@ window.actressData = {
         "タツ",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-062"
     }
   ]
 };

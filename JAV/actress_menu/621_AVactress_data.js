@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANB-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANB-249"
     },
     {
       "id": 3843,
@@ -70,7 +70,7 @@ window.actressData = {
         "椎叶みくる",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-645"
     },
     {
       "id": 4876,
@@ -87,7 +87,7 @@ window.actressData = {
         "野上しおり",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-755"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-755"
     },
     {
       "id": 5770,
@@ -108,7 +108,7 @@ window.actressData = {
         "美原すみれ",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-169"
     },
     {
       "id": 66363,
@@ -126,7 +126,7 @@ window.actressData = {
         "上戶真理",
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOOD-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOOD-502"
     },
     {
       "id": 67733,
@@ -145,7 +145,7 @@ window.actressData = {
         "川村まなみ",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-061"
     },
     {
       "id": 6685,
@@ -164,7 +164,7 @@ window.actressData = {
         "野上しおり",
         "希和みこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-526"
     },
     {
       "id": 68542,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-697"
     },
     {
       "id": 7820,
@@ -199,7 +199,7 @@ window.actressData = {
         "北川莉乃",
         "伊东红兰"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-031"
     },
     {
       "id": 75708,
@@ -218,7 +218,7 @@ window.actressData = {
         "有贺みなほ",
         "浜辺香奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-004"
     },
     {
       "id": 77189,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-334"
     },
     {
       "id": 12887,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-480"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-480"
     },
     {
       "id": 13465,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-475"
     },
     {
       "id": 13880,
@@ -282,7 +282,7 @@ window.actressData = {
       "actress": [
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-471"
     }
   ]
 };

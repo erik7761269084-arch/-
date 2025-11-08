@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "吉崎きよか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-478"
     },
     {
       "id": 91692,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "吉崎きよか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AED-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AED-222"
     },
     {
       "id": 91092,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "吉崎きよか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-157"
     }
   ]
 };

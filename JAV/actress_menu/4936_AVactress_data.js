@@ -34,7 +34,7 @@ window.actressData = {
         "翔田千里",
         "冨田朝香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-091"
     },
     {
       "id": 89627,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "冨田朝香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-215"
     },
     {
       "id": 80082,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "冨田朝香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-091"
     }
   ]
 };

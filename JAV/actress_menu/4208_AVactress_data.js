@@ -33,7 +33,7 @@ window.actressData = {
         "世罗百合花",
         "天海しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-444"
     }
   ]
 };

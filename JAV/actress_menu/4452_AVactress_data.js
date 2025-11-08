@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "青山爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-700"
     },
     {
       "id": 77089,
@@ -50,7 +50,7 @@ window.actressData = {
         "鲛岛",
         "青山爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPOP-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPOP-007"
     }
   ]
 };

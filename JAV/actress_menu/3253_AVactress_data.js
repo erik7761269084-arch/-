@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "近藤ムム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOC-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOC-009"
     },
     {
       "id": 61046,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "近藤ムム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CNY-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CNY-020"
     },
     {
       "id": 63121,
@@ -66,7 +66,7 @@ window.actressData = {
         "近藤ムム",
         "女優×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-057"
     },
     {
       "id": 67731,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "近藤ムム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SXMA-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-015"
     },
     {
       "id": 69900,
@@ -100,7 +100,7 @@ window.actressData = {
         "近藤ムム",
         "女優×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-048"
     }
   ]
 };

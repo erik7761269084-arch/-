@@ -33,7 +33,7 @@ window.actressData = {
         "辻井穗乃果",
         "ジンボ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-280"
     }
   ]
 };

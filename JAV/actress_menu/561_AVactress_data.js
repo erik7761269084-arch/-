@@ -64,7 +64,7 @@ window.actressData = {
         "川越ゆい",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-148"
     },
     {
       "id": 7246,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "花乃春日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEOS-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOS-014"
     },
     {
       "id": 7925,
@@ -97,7 +97,7 @@ window.actressData = {
         "潤うるる",
         "花乃春日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-139"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "神楽アイネ",
         "堀口美衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAVD-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-994"
     },
     {
       "id": 75698,
@@ -54,7 +54,7 @@ window.actressData = {
         "若槻さくら",
         "堀口美衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-420"
     }
   ]
 };

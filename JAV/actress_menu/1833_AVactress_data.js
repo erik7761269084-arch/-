@@ -63,7 +63,7 @@ window.actressData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
       "id": 93947,
@@ -81,7 +81,7 @@ window.actressData = {
         "岬梓沙",
         "汐見唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-610"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-610"
     },
     {
       "id": 101217,
@@ -99,7 +99,7 @@ window.actressData = {
         "汐河佳奈",
         "汐見唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-173"
     },
     {
       "id": 87812,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "汐見唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-246"
     },
     {
       "id": 82999,
@@ -134,7 +134,7 @@ window.actressData = {
         "天月叶菜",
         "叶芽ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUBI-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUBI-036"
     },
     {
       "id": 81696,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "汐見唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMV-138"
     }
   ]
 };

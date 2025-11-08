@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "今井ひろの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUC-810"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-810"
     },
     {
       "id": 88198,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "今井ひろの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-454"
     }
   ]
 };

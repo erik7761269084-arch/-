@@ -55,7 +55,7 @@ window.actressData = {
         "依本詩織",
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-106"
     },
     {
       "id": 4379,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKOU-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKOU-019"
     },
     {
       "id": 4532,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOER-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-011"
     },
     {
       "id": 5127,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-255"
     },
     {
       "id": 5267,
@@ -126,7 +126,7 @@ window.actressData = {
         "柳田実椰",
         "浜内礼依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-320"
     },
     {
       "id": 5765,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSBK-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-010"
     },
     {
       "id": 5756,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "小鳩琉璃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OTIN-016"
     },
     {
       "id": 7918,
@@ -175,7 +175,7 @@ window.actressData = {
         "小鳩琉璃",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOER-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-009"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "夜野桜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-218"
     }
   ]
 };

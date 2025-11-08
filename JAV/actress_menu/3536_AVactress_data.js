@@ -38,7 +38,7 @@ window.actressData = {
         "仓木诗织",
         "小鸟游りか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-104"
     }
   ]
 };

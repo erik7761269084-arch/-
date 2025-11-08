@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "横山美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-252"
     },
     {
       "id": 95665,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "横山美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-708"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-708"
     },
     {
       "id": 95667,
@@ -82,7 +82,7 @@ window.actressData = {
         "森林原人",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-696"
     },
     {
       "id": 95666,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "横山美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-685"
     },
     {
       "id": 1644,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "横山美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-177"
     },
     {
       "id": 66369,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "横山美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-590"
     },
     {
       "id": 66187,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "横山美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-572"
     },
     {
       "id": 1552,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "横山美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SACE-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-038"
     },
     {
       "id": 100258,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "横山美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-715"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-715"
     }
   ]
 };

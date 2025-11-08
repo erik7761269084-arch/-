@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "滝冬煇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DFDM-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFDM-062"
     },
     {
       "id": 4854,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "滝冬煇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-332"
     },
     {
       "id": 5158,
@@ -113,7 +113,7 @@ window.actressData = {
         "滝冬煇",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-246"
     },
     {
       "id": 5572,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "滝冬煇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLOT-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLOT-032"
     },
     {
       "id": 63835,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "滝冬煇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21969"
     },
     {
       "id": 5890,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "滝冬煇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-251"
     },
     {
       "id": 70799,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "滝冬煇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-601"
     }
   ]
 };

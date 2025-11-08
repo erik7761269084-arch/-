@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "槙泉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-305"
     },
     {
       "id": 86194,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "槙泉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-247"
     },
     {
       "id": 79503,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "槙泉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-188"
     },
     {
       "id": 79370,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "槙泉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-151"
     },
     {
       "id": 107323,
@@ -98,7 +98,7 @@ window.actressData = {
         "鲛岛",
         "槙泉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-811"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-811"
     },
     {
       "id": 70303,
@@ -116,7 +116,7 @@ window.actressData = {
         "玉木玲",
         "槙泉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-791"
     },
     {
       "id": 82045,
@@ -134,7 +134,7 @@ window.actressData = {
         "玉木玲",
         "槙泉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-742"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-742"
     }
   ]
 };

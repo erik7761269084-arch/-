@@ -56,7 +56,7 @@ window.actressData = {
         "月見若葉",
         "椎名琪琪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCT-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCT-021"
     },
     {
       "id": 4112,
@@ -74,7 +74,7 @@ window.actressData = {
         "中城葵",
         "椎名琪琪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21988"
     }
   ]
 };

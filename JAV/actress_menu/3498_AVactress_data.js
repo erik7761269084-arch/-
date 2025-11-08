@@ -33,7 +33,7 @@ window.actressData = {
         "ロダン富士",
         "志田小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONE-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONE-292"
     },
     {
       "id": 69630,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "志田小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-143"
     },
     {
       "id": 71939,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "志田小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-138"
     },
     {
       "id": 73135,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "志田小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-229"
     }
   ]
 };

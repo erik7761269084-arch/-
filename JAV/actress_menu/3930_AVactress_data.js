@@ -46,7 +46,7 @@ window.actressData = {
         "乙白さやか",
         "潮美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
     },
     {
       "id": 80042,
@@ -63,7 +63,7 @@ window.actressData = {
         "鲛岛",
         "乙白さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-248"
     },
     {
       "id": 79535,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "乙白さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-189"
     },
     {
       "id": 106434,
@@ -96,7 +96,7 @@ window.actressData = {
         "葵司",
         "乙白さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-001"
     },
     {
       "id": 107051,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "乙白さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-948"
     },
     {
       "id": 70085,
@@ -129,7 +129,7 @@ window.actressData = {
         "玉木玲",
         "乙白さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-924"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-924"
     },
     {
       "id": 106592,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "乙白さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-813"
     },
     {
       "id": 79154,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "乙白さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-070"
     }
   ]
 };

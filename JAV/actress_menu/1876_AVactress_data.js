@@ -51,7 +51,7 @@ window.actressData = {
         "小泉沙彩",
         "叶山りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TURA-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TURA-352"
     }
   ]
 };

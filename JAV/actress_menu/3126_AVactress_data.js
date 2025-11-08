@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "塚原かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-252"
     },
     {
       "id": 59883,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "塚原かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-161"
     }
   ]
 };

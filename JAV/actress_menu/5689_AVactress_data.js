@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "伊原明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-069"
     },
     {
       "id": 90624,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "伊原明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAKO-064"
     }
   ]
 };

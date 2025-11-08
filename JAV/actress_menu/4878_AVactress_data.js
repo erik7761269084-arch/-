@@ -33,7 +33,7 @@ window.actressData = {
         "片桐襟裏奈",
         "片桐Eririka, 片桐えりりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=star-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=star-299"
     },
     {
       "id": 98005,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "片桐Eririka, 片桐えりりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-201"
     },
     {
       "id": 78894,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "片桐Eririka, 片桐えりりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-082"
     }
   ]
 };

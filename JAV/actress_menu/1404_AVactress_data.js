@@ -47,7 +47,7 @@ window.actressData = {
         "市成心海",
         "峰田奈奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-600"
     },
     {
       "id": 93648,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "浅羽ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKS-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-163"
     }
   ]
 };

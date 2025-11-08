@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "鈴原琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBRAA-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBRAA-321"
     }
   ]
 };

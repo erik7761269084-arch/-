@@ -115,7 +115,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 4404,
@@ -134,7 +134,7 @@ window.actressData = {
         "紺野美衣奈",
         "百瀨莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCHB-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-050"
     },
     {
       "id": 73092,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "百瀨莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-069"
     },
     {
       "id": 84416,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "百瀨莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-922"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-922"
     },
     {
       "id": 88154,
@@ -184,7 +184,7 @@ window.actressData = {
         "小田切ジュン",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-039"
     }
   ]
 };

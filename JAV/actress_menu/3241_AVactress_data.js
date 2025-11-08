@@ -35,7 +35,7 @@ window.actressData = {
         "加贺美さら",
         "藤森朱音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-740"
     },
     {
       "id": 84337,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "藤森朱音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-016"
     },
     {
       "id": 80665,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "藤森朱音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KUSE-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KUSE-032"
     },
     {
       "id": 79853,
@@ -84,7 +84,7 @@ window.actressData = {
         "藤森朱音",
         "柏木あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-577"
     },
     {
       "id": 70277,
@@ -102,7 +102,7 @@ window.actressData = {
         "タツ",
         "藤森朱音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-078"
     },
     {
       "id": 81705,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "藤森朱音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-071"
     },
     {
       "id": 70993,
@@ -135,7 +135,7 @@ window.actressData = {
         "しみけん",
         "藤森朱音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-751"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-751"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
         "加藤結衣",
         "ローレン花恋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-355"
     },
     {
       "id": 16636,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "加藤結衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SY-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-206"
     },
     {
       "id": 17581,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "加藤結衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-601"
     },
     {
       "id": 18485,
@@ -102,7 +102,7 @@ window.actressData = {
         "加藤結衣",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRHP-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-026"
     }
   ]
 };

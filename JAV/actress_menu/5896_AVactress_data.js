@@ -38,7 +38,7 @@ window.actressData = {
         "津久井和紗",
         "松田捺羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-218"
     }
   ]
 };

@@ -56,7 +56,7 @@ window.actressData = {
         "佐久間津奈",
         "わさび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-534"
     },
     {
       "id": 60846,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "佐久間津奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-138"
     },
     {
       "id": 6734,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "佐久間津奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-378"
     },
     {
       "id": 8775,
@@ -105,7 +105,7 @@ window.actressData = {
         "佐久間津奈",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-364"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-364"
     },
     {
       "id": 10757,
@@ -122,7 +122,7 @@ window.actressData = {
         "佐久間津奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPSE-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-008"
     }
   ]
 };

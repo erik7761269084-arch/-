@@ -40,7 +40,7 @@ window.actressData = {
         "樱井夕树",
         "真锅あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-506"
     }
   ]
 };

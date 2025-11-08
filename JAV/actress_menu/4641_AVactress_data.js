@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "篠原ちとせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-225"
     },
     {
       "id": 78635,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "篠原ちとせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-417"
     },
     {
       "id": 83598,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "篠原ちとせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-200"
     },
     {
       "id": 83075,
@@ -83,7 +83,7 @@ window.actressData = {
         "篠原ちとせ",
         "歩川みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CRYNM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRYNM-003"
     },
     {
       "id": 76513,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "篠原ちとせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-179"
     },
     {
       "id": 82691,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "篠原ちとせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-296"
     },
     {
       "id": 79172,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "篠原ちとせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-143"
     }
   ]
 };

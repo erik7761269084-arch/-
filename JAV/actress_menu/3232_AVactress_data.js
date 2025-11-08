@@ -33,7 +33,7 @@ window.actressData = {
         "椎名由奈",
         "笹川あゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-730"
     }
   ]
 };

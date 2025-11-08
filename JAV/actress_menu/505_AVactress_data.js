@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-205"
     },
     {
       "id": 3518,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAM-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-256"
     },
     {
       "id": 3705,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APGH-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-042"
     },
     {
       "id": 62404,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-439"
     },
     {
       "id": 6159,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONE-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONE-291"
     },
     {
       "id": 6732,
@@ -132,7 +132,7 @@ window.actressData = {
         "タツ",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JYMA-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-080"
     },
     {
       "id": 70018,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-433"
     },
     {
       "id": 8301,
@@ -164,7 +164,7 @@ window.actressData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-044"
     },
     {
       "id": 9025,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "白雪美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-575"
     }
   ]
 };

@@ -54,7 +54,7 @@ window.actressData = {
         "月乃あや",
         "姫川かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-202"
     },
     {
       "id": 10307,
@@ -75,7 +75,7 @@ window.actressData = {
         "タイ",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-246"
     },
     {
       "id": 10622,
@@ -103,7 +103,7 @@ window.actressData = {
         "二叶エマ",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-244"
     }
   ]
 };

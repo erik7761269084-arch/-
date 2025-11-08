@@ -35,7 +35,7 @@ window.actressData = {
         "水菜丽",
         "桐岛绫子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCT-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-684"
     }
   ]
 };

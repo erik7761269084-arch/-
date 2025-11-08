@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "碧波滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-274"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-274"
     },
     {
       "id": 4104,
@@ -81,7 +81,7 @@ window.actressData = {
         "有森涼",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-394"
     },
     {
       "id": 9059,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "碧波滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-176"
     },
     {
       "id": 9964,
@@ -115,7 +115,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-175"
     }
   ]
 };

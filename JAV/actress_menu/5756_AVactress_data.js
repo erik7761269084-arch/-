@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "滝沢ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1189"
     }
   ]
 };

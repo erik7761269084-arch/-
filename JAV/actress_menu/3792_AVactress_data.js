@@ -48,7 +48,7 @@ window.actressData = {
         "MIRANO",
         "双叶ゆきな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-632"
     },
     {
       "id": 70305,
@@ -67,7 +67,7 @@ window.actressData = {
         "MIRANO",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-002"
     },
     {
       "id": 71154,
@@ -92,7 +92,7 @@ window.actressData = {
         "今井まい",
         "优月りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-112"
     },
     {
       "id": 90059,
@@ -111,7 +111,7 @@ window.actressData = {
         "悠月アイシャ",
         "一ノ瀬夏摘"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
     }
   ]
 };

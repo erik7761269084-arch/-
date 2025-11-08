@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小桥咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-211"
     }
   ]
 };

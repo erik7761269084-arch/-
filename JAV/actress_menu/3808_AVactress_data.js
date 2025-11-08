@@ -34,7 +34,7 @@ window.actressData = {
         "中村京子",
         "千羽加世子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RPD-17"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPD-17"
     }
   ]
 };

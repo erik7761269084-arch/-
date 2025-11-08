@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "波田野香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAAD-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-072"
     },
     {
       "id": 105886,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "波田野香代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-173"
     }
   ]
 };

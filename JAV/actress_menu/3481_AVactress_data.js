@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "金城さおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DEAB-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DEAB-003"
     }
   ]
 };

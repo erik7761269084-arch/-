@@ -52,7 +52,7 @@ window.actressData = {
         "梅川ことね",
         "仲条さき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-531"
     },
     {
       "id": 5004,
@@ -79,7 +79,7 @@ window.actressData = {
         "吉野愛衣",
         "小野寺ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
     },
     {
       "id": 6593,
@@ -98,7 +98,7 @@ window.actressData = {
         "新垣まりん",
         "汐梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-094"
     },
     {
       "id": 8996,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "新垣まりん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-658"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-658"
     }
   ]
 };

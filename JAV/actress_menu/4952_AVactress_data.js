@@ -36,7 +36,7 @@ window.actressData = {
         "水谷あおい",
         "田嶋まお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-153"
     },
     {
       "id": 86887,
@@ -53,7 +53,7 @@ window.actressData = {
         "森林原人",
         "田嶋まお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-967"
     }
   ]
 };

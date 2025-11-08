@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "悠月アイシャ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-033"
     },
     {
       "id": 81960,
@@ -58,7 +58,7 @@ window.actressData = {
         "NIMO",
         "悠月アイシャ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-330"
     },
     {
       "id": 77351,
@@ -76,7 +76,7 @@ window.actressData = {
         "优木なお",
         "悠月アイシャ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-601"
     },
     {
       "id": 90059,
@@ -95,7 +95,7 @@ window.actressData = {
         "悠月アイシャ",
         "一ノ瀬夏摘"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
     }
   ]
 };

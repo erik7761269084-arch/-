@@ -33,7 +33,7 @@ window.actressData = {
         "市川润",
         "永井千里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-662"
     }
   ]
 };

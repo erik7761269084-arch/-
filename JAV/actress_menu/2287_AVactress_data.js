@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "糸矢芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-438"
     }
   ]
 };

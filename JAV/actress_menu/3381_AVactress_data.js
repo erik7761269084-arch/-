@@ -34,7 +34,7 @@ window.actressData = {
         "田所真纪",
         "城美香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-266"
     },
     {
       "id": 75075,
@@ -55,7 +55,7 @@ window.actressData = {
         "高宫佐和子",
         "桜木ゆか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-217"
     },
     {
       "id": 75570,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "北森麻子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1229"
     }
   ]
 };

@@ -60,7 +60,7 @@ window.actressData = {
         "トミフミ",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-999"
     },
     {
       "id": 1783,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "大橋里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-84"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-84"
     }
   ]
 };

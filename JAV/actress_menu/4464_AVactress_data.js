@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "铃木みか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-125"
     },
     {
       "id": 81518,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "铃木みか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-117"
     },
     {
       "id": 74618,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "铃木みか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1088"
     },
     {
       "id": 82717,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "铃木みか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-370"
     },
     {
       "id": 82712,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "铃木みか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-356"
     }
   ]
 };

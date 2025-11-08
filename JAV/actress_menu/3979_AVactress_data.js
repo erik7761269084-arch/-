@@ -34,7 +34,7 @@ window.actressData = {
         "川原万智子",
         "水野よしみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-486"
     },
     {
       "id": 70234,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "新仓まさみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1184"
     }
   ]
 };

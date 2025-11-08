@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "一之濑铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-697"
     },
     {
       "id": 1930,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "一之濑铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-06"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-06"
     },
     {
       "id": 82579,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "一之濑铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-386"
     }
   ]
 };

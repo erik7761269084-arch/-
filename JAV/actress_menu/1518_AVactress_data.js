@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "月丘紅羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-856"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-856"
     },
     {
       "id": 5663,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "月丘紅羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-847"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-847"
     },
     {
       "id": 6486,
@@ -83,7 +83,7 @@ window.actressData = {
         "月丘紅羽",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-832"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-832"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "椎名ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIS-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-109"
     },
     {
       "id": 75556,
@@ -50,7 +50,7 @@ window.actressData = {
         "小田切ありさ",
         "椎名ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIS-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-107"
     }
   ]
 };

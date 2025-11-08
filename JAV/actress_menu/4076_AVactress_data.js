@@ -38,7 +38,7 @@ window.actressData = {
         "野々宫兰",
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-052"
     },
     {
       "id": 85140,
@@ -55,7 +55,7 @@ window.actressData = {
         "岩下たろう",
         "野々宫兰"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIR-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-049"
     },
     {
       "id": 94915,
@@ -74,7 +74,7 @@ window.actressData = {
         "野々宫兰",
         "七瀬もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-194"
     },
     {
       "id": 70812,
@@ -92,7 +92,7 @@ window.actressData = {
         "イセドン内村",
         "野々宫兰"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-202"
     },
     {
       "id": 79162,
@@ -112,7 +112,7 @@ window.actressData = {
         "成泽ひなみ",
         "野々宫兰"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-016"
     },
     {
       "id": 78990,
@@ -130,7 +130,7 @@ window.actressData = {
         "野々宫兰",
         "真树凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-190"
     }
   ]
 };

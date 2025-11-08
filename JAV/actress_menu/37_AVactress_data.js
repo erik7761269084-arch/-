@@ -71,7 +71,7 @@ window.actressData = {
         "新田好実",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-333"
     },
     {
       "id": 3124,
@@ -116,7 +116,7 @@ window.actressData = {
         "永濑唯",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-341"
     },
     {
       "id": 3317,
@@ -135,7 +135,7 @@ window.actressData = {
         "二叶エマ",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-398"
     },
     {
       "id": 3494,
@@ -152,7 +152,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-393"
     },
     {
       "id": 3678,
@@ -171,7 +171,7 @@ window.actressData = {
         "あおい藍",
         "凪宮ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-023"
     },
     {
       "id": 4131,
@@ -189,7 +189,7 @@ window.actressData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-012"
     },
     {
       "id": 5266,
@@ -208,7 +208,7 @@ window.actressData = {
         "月乃あや",
         "姫川かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-202"
     },
     {
       "id": 5256,
@@ -225,7 +225,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-131"
     },
     {
       "id": 5867,
@@ -243,7 +243,7 @@ window.actressData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-388"
     },
     {
       "id": 6194,
@@ -261,7 +261,7 @@ window.actressData = {
         "コグレハルト",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-910"
     },
     {
       "id": 6453,
@@ -278,7 +278,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-587"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-587"
     },
     {
       "id": 6442,
@@ -322,7 +322,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 6753,
@@ -339,7 +339,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-384"
     },
     {
       "id": 7348,
@@ -357,7 +357,7 @@ window.actressData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-372"
     },
     {
       "id": 8801,
@@ -375,7 +375,7 @@ window.actressData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-367"
     },
     {
       "id": 10622,
@@ -403,7 +403,7 @@ window.actressData = {
         "二叶エマ",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-244"
     },
     {
       "id": 10552,
@@ -419,7 +419,7 @@ window.actressData = {
       "actress": [
         "二葉惠麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-078"
     },
     {
       "id": 13794,
@@ -436,7 +436,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-187"
     },
     {
       "id": 16671,
@@ -454,7 +454,7 @@ window.actressData = {
         "田渊正浩",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-514"
     },
     {
       "id": 17236,
@@ -471,7 +471,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-859"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-859"
     },
     {
       "id": 17989,
@@ -488,7 +488,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-080"
     },
     {
       "id": 17410,
@@ -505,7 +505,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-996"
     },
     {
       "id": 17545,
@@ -522,7 +522,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-964"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-964"
     },
     {
       "id": 17687,
@@ -539,7 +539,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-947"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-947"
     },
     {
       "id": 17779,
@@ -556,7 +556,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-930"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-930"
     },
     {
       "id": 17806,
@@ -574,7 +574,7 @@ window.actressData = {
         "鲛岛",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-913"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-913"
     },
     {
       "id": 17832,
@@ -591,7 +591,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-897"
     },
     {
       "id": 17845,
@@ -608,7 +608,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-881"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-881"
     },
     {
       "id": 18096,
@@ -625,7 +625,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-847"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-847"
     },
     {
       "id": 18118,
@@ -643,7 +643,7 @@ window.actressData = {
         "二叶エマ",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-828"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-828"
     },
     {
       "id": 18168,
@@ -660,7 +660,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-808"
     },
     {
       "id": 18366,
@@ -677,7 +677,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-773"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-773"
     },
     {
       "id": 18531,
@@ -694,7 +694,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-721"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-721"
     },
     {
       "id": 18621,
@@ -711,7 +711,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-686"
     },
     {
       "id": 18827,
@@ -729,7 +729,7 @@ window.actressData = {
         "二叶エマ",
         "栗山絵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-576"
     },
     {
       "id": 18876,
@@ -746,7 +746,7 @@ window.actressData = {
         "二葉惠麻",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-545"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-545"
     }
   ]
 };

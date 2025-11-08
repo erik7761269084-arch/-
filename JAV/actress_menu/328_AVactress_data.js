@@ -68,7 +68,7 @@ window.actressData = {
         "兒玉七海",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-972"
     },
     {
       "id": 3411,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-859"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-859"
     },
     {
       "id": 4288,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-821"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-821"
     },
     {
       "id": 5191,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-769"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-769"
     },
     {
       "id": 5919,
@@ -133,7 +133,7 @@ window.actressData = {
         "兒玉七海",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-731"
     },
     {
       "id": 6789,
@@ -151,7 +151,7 @@ window.actressData = {
         "七尾神",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-694"
     },
     {
       "id": 7354,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-659"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-659"
     },
     {
       "id": 7751,
@@ -195,7 +195,7 @@ window.actressData = {
         "ラヴズ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
     },
     {
       "id": 8430,
@@ -212,7 +212,7 @@ window.actressData = {
         "村上悠華",
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-616"
     },
     {
       "id": 8873,
@@ -244,7 +244,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 8869,
@@ -260,7 +260,7 @@ window.actressData = {
       "actress": [
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-651"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-651"
     },
     {
       "id": 9727,
@@ -277,7 +277,7 @@ window.actressData = {
         "兒玉七海",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-552"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-552"
     },
     {
       "id": 13209,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-279"
     },
     {
       "id": 13810,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-241"
     },
     {
       "id": 14500,
@@ -325,7 +325,7 @@ window.actressData = {
       "actress": [
         "兒玉七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-283"
     }
   ]
 };

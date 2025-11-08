@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "長谷真理香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S36"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S36"
     },
     {
       "id": 1775,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "長谷真理香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-73"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-73"
     }
   ]
 };

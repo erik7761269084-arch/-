@@ -34,7 +34,7 @@ window.actressData = {
         "ナイアガラ翔",
         "メロディー・雏・マークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-098"
     },
     {
       "id": 61311,
@@ -51,7 +51,7 @@ window.actressData = {
         "メロディー・雏・マークス",
         "一二三ゆぅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FEM-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-013"
     },
     {
       "id": 62151,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "メロディー・雏・マークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HR-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HR-011"
     },
     {
       "id": 3934,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "メロディー・雏・マークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-460"
     },
     {
       "id": 101879,
@@ -100,7 +100,7 @@ window.actressData = {
         "瓊·洛夫喬伊",
         "メロディー・雏・マークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-304"
     },
     {
       "id": 72873,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "メロディー・雏・マークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-177"
     },
     {
       "id": 73260,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "メロディー・雏・マークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-173"
     },
     {
       "id": 88058,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "メロディー・雏・マークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MELD-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MELD-001"
     }
   ]
 };

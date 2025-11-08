@@ -33,7 +33,7 @@ window.actressData = {
         "タイ",
         "藤本香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-236"
     }
   ]
 };

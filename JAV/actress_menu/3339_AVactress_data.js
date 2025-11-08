@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "松嶺こはく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIMD-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIMD-017"
     },
     {
       "id": 61890,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "松嶺こはく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JSTK-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JSTK-026"
     },
     {
       "id": 68900,
@@ -69,7 +69,7 @@ window.actressData = {
         "リンドル星川",
         "神月カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ASIA-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASIA-116"
     },
     {
       "id": 68792,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "松嶺こはく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOTK-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTK-007"
     },
     {
       "id": 87292,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "松嶺こはく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-256"
     }
   ]
 };

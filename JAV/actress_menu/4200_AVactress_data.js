@@ -34,7 +34,7 @@ window.actressData = {
         "河南実里",
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-257"
     },
     {
       "id": 81854,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-492"
     },
     {
       "id": 81924,
@@ -69,7 +69,7 @@ window.actressData = {
         "蓝川美夏",
         "ゆずりはえな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-461"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-461"
     },
     {
       "id": 81656,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDOB-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-065"
     },
     {
       "id": 81835,
@@ -107,7 +107,7 @@ window.actressData = {
         "美里诗织",
         "深田さき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-484"
     },
     {
       "id": 77172,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-140"
     },
     {
       "id": 71841,
@@ -140,7 +140,7 @@ window.actressData = {
         "おの真由美",
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEZ-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-056"
     },
     {
       "id": 77034,
@@ -158,7 +158,7 @@ window.actressData = {
         "蓝川美夏",
         "荒金さとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-438"
     },
     {
       "id": 77309,
@@ -177,7 +177,7 @@ window.actressData = {
         "ゆうひ菜那",
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-481"
     }
   ]
 };

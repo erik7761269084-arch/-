@@ -35,7 +35,7 @@ window.actressData = {
         "市川润",
         "内海静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-892"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-892"
     }
   ]
 };

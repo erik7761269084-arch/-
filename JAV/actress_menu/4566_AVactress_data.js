@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "冈村麻友子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KEED-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-057"
     },
     {
       "id": 75632,
@@ -49,7 +49,7 @@ window.actressData = {
         "篠田优",
         "冈村麻友子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJAA-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJAA-025"
     }
   ]
 };

@@ -41,7 +41,7 @@ window.actressData = {
         "葵玲奈",
         "ありむらえりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-272"
     },
     {
       "id": 83784,
@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "ありむらえりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKYH-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKYH-053"
     },
     {
       "id": 82796,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "ありむらえりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-081"
     },
     {
       "id": 100077,
@@ -91,7 +91,7 @@ window.actressData = {
         "鲛岛",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-752"
     }
   ]
 };

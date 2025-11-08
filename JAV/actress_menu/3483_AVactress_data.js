@@ -37,7 +37,7 @@ window.actressData = {
         "叶月もえ",
         "茜ことり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRLE-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-051"
     },
     {
       "id": 69157,
@@ -55,7 +55,7 @@ window.actressData = {
         "绀野光",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-011"
     },
     {
       "id": 67631,
@@ -72,7 +72,7 @@ window.actressData = {
         "大島愛里亞",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-035"
     },
     {
       "id": 86130,
@@ -89,7 +89,7 @@ window.actressData = {
         "小栗操",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-674"
     },
     {
       "id": 80780,
@@ -106,7 +106,7 @@ window.actressData = {
         "望月綾香",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-631"
     },
     {
       "id": 80346,
@@ -123,7 +123,7 @@ window.actressData = {
         "河奈亜依",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-608"
     },
     {
       "id": 79854,
@@ -141,7 +141,7 @@ window.actressData = {
         "三浦瑠衣",
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-087"
     },
     {
       "id": 82203,
@@ -161,7 +161,7 @@ window.actressData = {
         "桥本丽华",
         "海空花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-615"
     },
     {
       "id": 83876,
@@ -182,7 +182,7 @@ window.actressData = {
         "花宫レイ",
         "真城杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-835"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-835"
     },
     {
       "id": 75198,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-371"
     },
     {
       "id": 75167,
@@ -216,7 +216,7 @@ window.actressData = {
         "富井美帆",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-373"
     },
     {
       "id": 63317,
@@ -235,7 +235,7 @@ window.actressData = {
         "河北春菜",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-374"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-374"
     },
     {
       "id": 83186,
@@ -253,7 +253,7 @@ window.actressData = {
         "大浦真奈美",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-304"
     },
     {
       "id": 83125,
@@ -272,7 +272,7 @@ window.actressData = {
         "牧村柚希",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-369"
     },
     {
       "id": 83312,
@@ -293,7 +293,7 @@ window.actressData = {
         "瀬戸すみれ",
         "月宫ねね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-818"
     },
     {
       "id": 81520,
@@ -316,7 +316,7 @@ window.actressData = {
         "花宫レイ",
         "石川ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-283"
     },
     {
       "id": 76744,
@@ -336,7 +336,7 @@ window.actressData = {
         "凛音とうか",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-319"
     },
     {
       "id": 98455,
@@ -356,7 +356,7 @@ window.actressData = {
         "绫瀬さくら",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-696"
     },
     {
       "id": 88306,
@@ -374,7 +374,7 @@ window.actressData = {
         "花宫レイ",
         "爱波りりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-153"
     },
     {
       "id": 71099,
@@ -394,7 +394,7 @@ window.actressData = {
         "桃尻かのん",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-653"
     },
     {
       "id": 69408,
@@ -412,7 +412,7 @@ window.actressData = {
         "花宫レイ",
         "宫村ななこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-007"
     }
   ]
 };

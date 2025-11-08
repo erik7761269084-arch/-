@@ -33,7 +33,7 @@ window.actressData = {
         "凪沙雪乃",
         "ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4662"
     }
   ]
 };

@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "斎木香住"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-027"
     },
     {
       "id": 68954,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "斎木香住"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-021"
     }
   ]
 };

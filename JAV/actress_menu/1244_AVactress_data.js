@@ -53,7 +53,7 @@ window.actressData = {
         "音羽美鈴",
         "川上麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-228"
     },
     {
       "id": 90406,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "川上麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-270"
     },
     {
       "id": 17452,
@@ -86,7 +86,7 @@ window.actressData = {
         "川上麗亞",
         "渡辺杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-536"
     }
   ]
 };

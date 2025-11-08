@@ -50,7 +50,7 @@ window.actressData = {
         "水谷杏",
         "平野愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=092618_748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=092618_748"
     },
     {
       "id": 1093,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1608"
     },
     {
       "id": 1032,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1441"
     },
     {
       "id": 1948,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-83"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-83"
     },
     {
       "id": 1054,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1475"
     },
     {
       "id": 1968,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "優木美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-157"
     }
   ]
 };

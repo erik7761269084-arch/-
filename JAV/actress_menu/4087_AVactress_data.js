@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "南条亜美菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-081"
     },
     {
       "id": 70895,
@@ -49,7 +49,7 @@ window.actressData = {
         "小田切ジュン",
         "南条亜美菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-039"
     }
   ]
 };

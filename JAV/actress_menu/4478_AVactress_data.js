@@ -33,7 +33,7 @@ window.actressData = {
         "玉木玲",
         "桜庭みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1230"
     },
     {
       "id": 74739,
@@ -50,7 +50,7 @@ window.actressData = {
         "タツ",
         "桜庭みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-031"
     }
   ]
 };

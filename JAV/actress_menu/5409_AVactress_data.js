@@ -35,7 +35,7 @@ window.actressData = {
         "柳美和子",
         "早野いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-196"
     },
     {
       "id": 87645,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "若菜まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDTM-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDTM-177"
     }
   ]
 };

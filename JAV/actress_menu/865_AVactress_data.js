@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "浅野心愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-075"
     },
     {
       "id": 5619,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "浅野心愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-074"
     },
     {
       "id": 5979,
@@ -87,11 +87,11 @@ window.actressData = {
       "type": "有码",
       "company": "FALENO",
       "publish_date": "2025-05-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521015920315315_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521015920315315_s.webp",
       "actress": [
         "浅野心愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-065"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "城月あやね",
         "七海ひさ代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-897"
     },
     {
       "id": 75079,
@@ -57,7 +57,7 @@ window.actressData = {
         "枢木美栞",
         "城月あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-073"
     },
     {
       "id": 83866,
@@ -78,7 +78,7 @@ window.actressData = {
         "神波多一花",
         "城月あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-308"
     },
     {
       "id": 83622,
@@ -101,7 +101,7 @@ window.actressData = {
         "岛津かおる",
         "城月あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-069"
     }
   ]
 };

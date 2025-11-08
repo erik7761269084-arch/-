@@ -56,7 +56,7 @@ window.actressData = {
         "紗弥佳",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-383"
     },
     {
       "id": 6321,
@@ -74,7 +74,7 @@ window.actressData = {
         "ニック",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-315"
     },
     {
       "id": 7710,
@@ -91,7 +91,7 @@ window.actressData = {
         "紗弥佳",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-029"
     }
   ]
 };

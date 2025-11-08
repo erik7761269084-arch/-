@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-849"
     },
     {
       "id": 4322,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-814"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-814"
     },
     {
       "id": 5197,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-874"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-874"
     },
     {
       "id": 5926,
@@ -117,7 +117,7 @@ window.actressData = {
         "夢乃愛華",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-722"
     },
     {
       "id": 6783,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-684"
     },
     {
       "id": 7407,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-640"
     },
     {
       "id": 8039,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-592"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-592"
     },
     {
       "id": 8876,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-541"
     },
     {
       "id": 9739,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-497"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-497"
     },
     {
       "id": 10451,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-452"
     },
     {
       "id": 17660,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-948"
     },
     {
       "id": 87744,
@@ -246,7 +246,7 @@ window.actressData = {
         "夢乃愛華",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-796"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-796"
     },
     {
       "id": 87654,
@@ -263,7 +263,7 @@ window.actressData = {
         "夢乃愛華",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-757"
     },
     {
       "id": 100440,
@@ -279,7 +279,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-623"
     },
     {
       "id": 68506,
@@ -295,7 +295,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-601"
     },
     {
       "id": 67776,
@@ -313,7 +313,7 @@ window.actressData = {
         "田渊正浩",
         "ムールかいせ×"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-648"
     },
     {
       "id": 106135,
@@ -329,7 +329,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-582"
     },
     {
       "id": 68212,
@@ -346,7 +346,7 @@ window.actressData = {
         "夢乃愛華",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-555"
     },
     {
       "id": 68240,
@@ -362,7 +362,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-526"
     },
     {
       "id": 86330,
@@ -378,7 +378,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-494"
     },
     {
       "id": 86340,
@@ -394,7 +394,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-435"
     },
     {
       "id": 86291,
@@ -411,7 +411,7 @@ window.actressData = {
         "夢乃愛華",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-407"
     },
     {
       "id": 105980,
@@ -428,7 +428,7 @@ window.actressData = {
         "夢乃愛華",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-380"
     },
     {
       "id": 80432,
@@ -444,7 +444,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-353"
     },
     {
       "id": 80919,
@@ -460,7 +460,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-327"
     },
     {
       "id": 86264,
@@ -476,7 +476,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-301"
     },
     {
       "id": 106231,
@@ -493,7 +493,7 @@ window.actressData = {
         "夢乃愛華",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-272"
     },
     {
       "id": 80029,
@@ -509,7 +509,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-243"
     },
     {
       "id": 79459,
@@ -525,7 +525,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-183"
     },
     {
       "id": 79351,
@@ -541,7 +541,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-685"
     },
     {
       "id": 88162,
@@ -564,7 +564,7 @@ window.actressData = {
         "有栖花绯",
         "三浦瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-304"
     },
     {
       "id": 105757,
@@ -580,7 +580,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-804"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-804"
     },
     {
       "id": 19561,
@@ -596,7 +596,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-782"
     },
     {
       "id": 82852,
@@ -613,7 +613,7 @@ window.actressData = {
         "夢乃愛華",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-705"
     },
     {
       "id": 88173,
@@ -636,7 +636,7 @@ window.actressData = {
         "彩美旬果",
         "安斋拉拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-231"
     },
     {
       "id": 76681,
@@ -652,7 +652,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-676"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-676"
     },
     {
       "id": 75067,
@@ -668,7 +668,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-620"
     },
     {
       "id": 77257,
@@ -688,7 +688,7 @@ window.actressData = {
         "椎木くるみ",
         "御坂莉亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-329"
     },
     {
       "id": 8921,
@@ -704,7 +704,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-568"
     },
     {
       "id": 9480,
@@ -721,7 +721,7 @@ window.actressData = {
         "夢乃愛華",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-545"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-545"
     },
     {
       "id": 9559,
@@ -737,7 +737,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-519"
     },
     {
       "id": 9800,
@@ -753,7 +753,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-496"
     },
     {
       "id": 11099,
@@ -770,7 +770,7 @@ window.actressData = {
         "夢乃愛華",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-435"
     },
     {
       "id": 13060,
@@ -786,7 +786,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-347"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-347"
     },
     {
       "id": 13259,
@@ -803,7 +803,7 @@ window.actressData = {
         "夢乃愛華",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-325"
     },
     {
       "id": 15523,
@@ -819,7 +819,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-181"
     },
     {
       "id": 16024,
@@ -838,7 +838,7 @@ window.actressData = {
         "鲛岛",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-156"
     },
     {
       "id": 16293,
@@ -854,7 +854,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-131"
     },
     {
       "id": 88501,
@@ -870,7 +870,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-756"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-756"
     },
     {
       "id": 106968,
@@ -886,7 +886,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-717"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-717"
     },
     {
       "id": 100725,
@@ -902,7 +902,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-697"
     },
     {
       "id": 107720,
@@ -919,7 +919,7 @@ window.actressData = {
         "夢乃愛華",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-677"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-677"
     },
     {
       "id": 106873,
@@ -936,7 +936,7 @@ window.actressData = {
         "夢乃愛華",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-608"
     },
     {
       "id": 106866,
@@ -954,7 +954,7 @@ window.actressData = {
         "ゆうき",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-501"
     },
     {
       "id": 107165,
@@ -970,7 +970,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-413"
     },
     {
       "id": 107644,
@@ -986,7 +986,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-392"
     },
     {
       "id": 97577,
@@ -1002,7 +1002,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-258"
     },
     {
       "id": 107190,
@@ -1018,7 +1018,7 @@ window.actressData = {
       "actress": [
         "夢乃愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-237"
     },
     {
       "id": 107226,
@@ -1036,7 +1036,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-195"
     },
     {
       "id": 99435,
@@ -1054,7 +1054,7 @@ window.actressData = {
         "夢乃愛華",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-036"
     },
     {
       "id": 107052,
@@ -1071,7 +1071,7 @@ window.actressData = {
         "夢乃愛華",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-988"
     },
     {
       "id": 72923,
@@ -1089,7 +1089,7 @@ window.actressData = {
         "森林原人",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-957"
     },
     {
       "id": 69411,
@@ -1106,7 +1106,7 @@ window.actressData = {
         "夢乃愛華",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-463"
     }
   ]
 };

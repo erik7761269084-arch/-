@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "実浜みき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-649"
     },
     {
       "id": 61081,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "実浜みき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-639"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-639"
     },
     {
       "id": 14901,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "実浜みき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-704"
     },
     {
       "id": 16352,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "実浜みき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-555"
     }
   ]
 };

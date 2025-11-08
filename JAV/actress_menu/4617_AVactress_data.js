@@ -35,7 +35,7 @@ window.actressData = {
         "爱瀬るか",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-595"
     },
     {
       "id": 76252,
@@ -54,7 +54,7 @@ window.actressData = {
         "久远れいら",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GZAP-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GZAP-009"
     },
     {
       "id": 76187,
@@ -73,7 +73,7 @@ window.actressData = {
         "久远れいら",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GGEN-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-003"
     },
     {
       "id": 76789,
@@ -92,7 +92,7 @@ window.actressData = {
         "南なつき",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
     }
   ]
 };

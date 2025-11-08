@@ -34,7 +34,7 @@ window.actressData = {
         "磐井玲子",
         "矢島ちえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPZ-1142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPZ-1142"
     },
     {
       "id": 90499,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "矢島ちえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAIS-055"
     },
     {
       "id": 89611,
@@ -68,7 +68,7 @@ window.actressData = {
         "浜咲恵利",
         "矢島ちえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-224"
     }
   ]
 };

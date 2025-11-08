@@ -39,7 +39,7 @@ window.actressData = {
         "永濑未萌",
         "藤江史帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRV-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRV-026"
     },
     {
       "id": 74400,
@@ -56,7 +56,7 @@ window.actressData = {
         "小田切ジュン",
         "藤江史帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-891"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-891"
     },
     {
       "id": 74156,
@@ -75,7 +75,7 @@ window.actressData = {
         "玉木玲",
         "藤江史帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-882"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-882"
     },
     {
       "id": 75148,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "藤江史帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-873"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-873"
     },
     {
       "id": 97749,
@@ -108,7 +108,7 @@ window.actressData = {
         "小田切ジュン",
         "藤江史帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-861"
     },
     {
       "id": 86960,
@@ -126,7 +126,7 @@ window.actressData = {
         "大岛丈",
         "藤江史帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-814"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-814"
     }
   ]
 };

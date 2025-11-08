@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "小笠原菜乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STZY-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-019"
     },
     {
       "id": 2490,
@@ -68,14 +68,14 @@ window.actressData = {
       "type": "有码",
       "company": "SOD",
       "publish_date": "2025-09-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250923/49b00b7b-dbbf-43f7-a39a-4a61b12a3f15_thumbnail.webp",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/de0dee00/vod.jpg",
       "actress": [
         "小笠原菜乃",
         "鲛岛",
         "小田切ジュン",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-377"
     }
   ]
 };

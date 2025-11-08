@@ -39,7 +39,7 @@ window.actressData = {
         "天海翼",
         "并木优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-416"
     },
     {
       "id": 67613,
@@ -56,7 +56,7 @@ window.actressData = {
         "田渊正浩",
         "并木优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-389"
     },
     {
       "id": 71355,
@@ -74,7 +74,7 @@ window.actressData = {
         "并木优",
         "葵こはる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-314"
     }
   ]
 };

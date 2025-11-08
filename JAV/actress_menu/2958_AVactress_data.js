@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "土屋あさみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LOVE-55"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOVE-55"
     }
   ]
 };

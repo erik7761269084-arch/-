@@ -41,7 +41,7 @@ window.actressData = {
         "みずき伊织",
         "今野梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-037"
     },
     {
       "id": 104756,
@@ -58,7 +58,7 @@ window.actressData = {
         "天海翼",
         "成瀬心美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-927"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-927"
     }
   ]
 };

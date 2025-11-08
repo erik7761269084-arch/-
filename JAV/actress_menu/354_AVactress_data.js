@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "赤名いと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-101"
     },
     {
       "id": 61843,
@@ -67,7 +67,7 @@ window.actressData = {
         "松井日奈子",
         "赤名いと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-307"
     },
     {
       "id": 4110,
@@ -84,7 +84,7 @@ window.actressData = {
         "赤名いと",
         "川栄結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-213"
     },
     {
       "id": 4455,
@@ -101,7 +101,7 @@ window.actressData = {
         "赤名いと",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-543"
     },
     {
       "id": 5484,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "赤名いと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-696"
     },
     {
       "id": 5648,
@@ -139,7 +139,7 @@ window.actressData = {
         "雙葉麗奈",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
     },
     {
       "id": 63978,
@@ -159,7 +159,7 @@ window.actressData = {
         "川越ゆい",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-148"
     },
     {
       "id": 6660,
@@ -176,7 +176,7 @@ window.actressData = {
         "天馬唯",
         "赤名いと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGKI-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-050"
     },
     {
       "id": 7152,
@@ -193,7 +193,7 @@ window.actressData = {
         "赤名いと",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-735"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-735"
     },
     {
       "id": 7567,
@@ -211,7 +211,7 @@ window.actressData = {
         "赤名いと",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-325"
     },
     {
       "id": 7882,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "赤名いと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-141"
     },
     {
       "id": 8206,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "赤名いと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-303"
     },
     {
       "id": 72688,
@@ -259,7 +259,7 @@ window.actressData = {
       "actress": [
         "赤名いと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKOU-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKOU-016"
     },
     {
       "id": 10625,
@@ -275,7 +275,7 @@ window.actressData = {
       "actress": [
         "赤名いと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-287"
     }
   ]
 };

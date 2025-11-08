@@ -33,7 +33,7 @@ window.actressData = {
         "市川润",
         "黒木美沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-032"
     },
     {
       "id": 73063,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "黒木美沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-992"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-992"
     },
     {
       "id": 81332,
@@ -67,7 +67,7 @@ window.actressData = {
         "玉木玲",
         "黒木美沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-203"
     }
   ]
 };

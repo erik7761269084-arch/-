@@ -34,7 +34,7 @@ window.actressData = {
         "増田ゆめ",
         "星越かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-177"
     },
     {
       "id": 72082,
@@ -51,7 +51,7 @@ window.actressData = {
         "后藤里香",
         "増田ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKS-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-100"
     },
     {
       "id": 72290,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "増田ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-137"
     }
   ]
 };

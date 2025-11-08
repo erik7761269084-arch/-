@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "戶川奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-320"
     },
     {
       "id": 2695,
@@ -81,7 +81,7 @@ window.actressData = {
         "乃木絢愛",
         "伊東沙蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-159"
     },
     {
       "id": 4592,
@@ -101,7 +101,7 @@ window.actressData = {
         "胡桃多惠",
         "星川りく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-349"
     },
     {
       "id": 6267,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "戶川奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-055"
     },
     {
       "id": 6710,
@@ -134,7 +134,7 @@ window.actressData = {
         "戶川奈美",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-629"
     },
     {
       "id": 8828,
@@ -152,7 +152,7 @@ window.actressData = {
         "戶川奈美",
         "咲野瑞希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-247"
     },
     {
       "id": 7097,
@@ -171,7 +171,7 @@ window.actressData = {
         "深月芽衣",
         "吉岡日和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-199"
     }
   ]
 };

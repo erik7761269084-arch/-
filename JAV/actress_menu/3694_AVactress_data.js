@@ -34,7 +34,7 @@ window.actressData = {
         "伊崎悠人",
         "エニフ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-200"
     },
     {
       "id": 75269,
@@ -51,7 +51,7 @@ window.actressData = {
         "平冈里枝子",
         "エニフ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-405"
     }
   ]
 };

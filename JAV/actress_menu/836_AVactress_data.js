@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-619"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-619"
     },
     {
       "id": 19506,
@@ -79,7 +79,7 @@ window.actressData = {
         "希崎潔西卡",
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-602"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-602"
     },
     {
       "id": 19521,
@@ -96,7 +96,7 @@ window.actressData = {
         "美雪愛麗絲",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-476"
     },
     {
       "id": 103517,
@@ -113,7 +113,7 @@ window.actressData = {
         "美雪愛麗絲",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-203"
     },
     {
       "id": 68407,
@@ -130,7 +130,7 @@ window.actressData = {
         "美雪愛麗絲",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-141"
     },
     {
       "id": 72385,
@@ -147,7 +147,7 @@ window.actressData = {
         "美雪愛麗絲",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1399"
     },
     {
       "id": 1642,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1349"
     },
     {
       "id": 1678,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1329"
     },
     {
       "id": 1649,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1282"
     },
     {
       "id": 82478,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1252"
     },
     {
       "id": 1597,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1233"
     },
     {
       "id": 1650,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1224"
     }
   ]
 };

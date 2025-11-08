@@ -34,7 +34,7 @@ window.actressData = {
         "朝比奈しの",
         "爱瀬るか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-143"
     },
     {
       "id": 72140,
@@ -53,7 +53,7 @@ window.actressData = {
         "结まきな",
         "ふわり结爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-128"
     },
     {
       "id": 67162,
@@ -71,7 +71,7 @@ window.actressData = {
         "玉木玲",
         "朝比奈しの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-672"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-672"
     }
   ]
 };

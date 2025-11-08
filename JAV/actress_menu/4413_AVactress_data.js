@@ -33,7 +33,7 @@ window.actressData = {
         "Qべぇ",
         "三咲美忧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-228"
     },
     {
       "id": 76848,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "三咲美忧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-727"
     },
     {
       "id": 76400,
@@ -66,7 +66,7 @@ window.actressData = {
         "大岛丈",
         "三咲美忧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-714"
     },
     {
       "id": 73893,
@@ -83,7 +83,7 @@ window.actressData = {
         "イセドン内村",
         "三咲美忧"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-672"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-672"
     }
   ]
 };

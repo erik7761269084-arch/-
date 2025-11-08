@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "南マナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-151"
     },
     {
       "id": 88294,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "南マナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-185"
     },
     {
       "id": 82515,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "南マナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIC-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-069"
     }
   ]
 };

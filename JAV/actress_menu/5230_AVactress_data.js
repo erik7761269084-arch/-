@@ -36,7 +36,7 @@ window.actressData = {
         "豊桥绫",
         "美咲玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MC-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MC-003"
     }
   ]
 };

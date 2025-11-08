@@ -71,7 +71,7 @@ window.actressData = {
         "兼咲美優",
         "爱乃零"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOR-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-042"
     },
     {
       "id": 5733,
@@ -88,7 +88,7 @@ window.actressData = {
         "兼咲美優",
         "爱乃零"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-357"
     },
     {
       "id": 6344,
@@ -106,7 +106,7 @@ window.actressData = {
         "有賀千里",
         "兼咲美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-1000"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1000"
     },
     {
       "id": 7922,
@@ -126,7 +126,7 @@ window.actressData = {
         "兼咲美優",
         "爱乃零"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-058"
     },
     {
       "id": 8514,
@@ -144,7 +144,7 @@ window.actressData = {
         "三田櫻",
         "兼咲美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-988"
     },
     {
       "id": 8752,
@@ -164,7 +164,7 @@ window.actressData = {
         "兼咲美優",
         "爱乃零"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-005"
     },
     {
       "id": 1559,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "兼咲美優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNT-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-007"
     }
   ]
 };

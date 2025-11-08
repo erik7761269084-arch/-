@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-177"
     },
     {
       "id": 18838,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-483"
     },
     {
       "id": 107501,
@@ -78,7 +78,7 @@ window.actressData = {
         "藤井一夜",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-477"
     },
     {
       "id": 89871,
@@ -95,7 +95,7 @@ window.actressData = {
         "藤井一夜",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-063"
     },
     {
       "id": 90386,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-465"
     },
     {
       "id": 90375,
@@ -128,7 +128,7 @@ window.actressData = {
         "藤井一夜",
         "足立める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-460"
     },
     {
       "id": 67641,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-449"
     },
     {
       "id": 17688,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-946"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-946"
     },
     {
       "id": 17782,
@@ -177,7 +177,7 @@ window.actressData = {
         "藤井一夜",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-929"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-929"
     },
     {
       "id": 17808,
@@ -194,7 +194,7 @@ window.actressData = {
         "藤井一夜",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-912"
     },
     {
       "id": 17834,
@@ -211,7 +211,7 @@ window.actressData = {
         "藤井一夜",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-896"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-896"
     },
     {
       "id": 17953,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-880"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-880"
     },
     {
       "id": 18065,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-863"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-863"
     },
     {
       "id": 18097,
@@ -259,7 +259,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-846"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-846"
     },
     {
       "id": 18117,
@@ -277,7 +277,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-827"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-827"
     },
     {
       "id": 18169,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-807"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-807"
     },
     {
       "id": 18269,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-790"
     },
     {
       "id": 17544,
@@ -326,7 +326,7 @@ window.actressData = {
         "藤井一夜",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-963"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-963"
     },
     {
       "id": 18367,
@@ -342,7 +342,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-772"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-772"
     },
     {
       "id": 18457,
@@ -360,7 +360,7 @@ window.actressData = {
         "イセドン内村",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-754"
     },
     {
       "id": 18538,
@@ -376,7 +376,7 @@ window.actressData = {
       "actress": [
         "藤井一夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-719"
     }
   ]
 };

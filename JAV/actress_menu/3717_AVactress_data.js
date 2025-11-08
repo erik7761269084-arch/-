@@ -37,7 +37,7 @@ window.actressData = {
         "中村知恵",
         "新谷美爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-433"
     },
     {
       "id": 67291,
@@ -54,7 +54,7 @@ window.actressData = {
         "日森一",
         "设楽アリサ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-089"
     },
     {
       "id": 75051,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "设楽アリサ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-906"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-906"
     },
     {
       "id": 77678,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "设楽アリサ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-211"
     },
     {
       "id": 75442,
@@ -107,7 +107,7 @@ window.actressData = {
         "篠崎环奈",
         "満月ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-499"
     }
   ]
 };

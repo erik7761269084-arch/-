@@ -122,7 +122,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 3899,
@@ -145,7 +145,7 @@ window.actressData = {
         "桃木結愛",
         "宝生めい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-086"
     },
     {
       "id": 4395,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "桃木結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=COSX-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=COSX-087"
     },
     {
       "id": 4804,
@@ -181,7 +181,7 @@ window.actressData = {
         "乃木ちはる",
         "桃木結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-252"
     },
     {
       "id": 5055,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "桃木結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=COSX-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=COSX-086"
     },
     {
       "id": 7418,
@@ -215,7 +215,7 @@ window.actressData = {
         "小坂ひまり",
         "桃木結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGKI-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-046"
     },
     {
       "id": 7202,
@@ -233,7 +233,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEAD-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEAD-012"
     },
     {
       "id": 91450,
@@ -249,7 +249,7 @@ window.actressData = {
       "actress": [
         "桃木結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-722"
     }
   ]
 };

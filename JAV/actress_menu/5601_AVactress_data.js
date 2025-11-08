@@ -35,7 +35,7 @@ window.actressData = {
         "泉田栞",
         "丸山結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-698"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-698"
     },
     {
       "id": 100594,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "丸山結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPPN-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-235"
     }
   ]
 };

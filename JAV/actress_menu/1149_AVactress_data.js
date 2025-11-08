@@ -51,7 +51,7 @@ window.actressData = {
         "風間由美",
         "賀川かのこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-395"
     },
     {
       "id": 13515,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "賀川かのこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-674"
     },
     {
       "id": 14125,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "賀川かのこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-673"
     }
   ]
 };

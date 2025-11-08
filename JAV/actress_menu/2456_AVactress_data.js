@@ -69,13 +69,13 @@ window.actressData = {
       "type": "有码",
       "company": "S1",
       "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918021310911911_35702_thumbnail.webp",
+      "cover_url": "",
       "actress": [
         "初美菜乃花",
         "小田切ジュン",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-962"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-962"
     }
   ]
 };

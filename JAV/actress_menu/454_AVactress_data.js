@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "神彩美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-962"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-962"
     },
     {
       "id": 17689,
@@ -81,7 +81,7 @@ window.actressData = {
         "神彩美舞",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-945"
     },
     {
       "id": 17781,
@@ -98,7 +98,7 @@ window.actressData = {
         "神彩美舞",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-928"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-928"
     },
     {
       "id": 17809,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "神彩美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-911"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-911"
     },
     {
       "id": 17951,
@@ -131,7 +131,7 @@ window.actressData = {
         "神彩美舞",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-879"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-879"
     },
     {
       "id": 18120,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "神彩美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-825"
     },
     {
       "id": 18171,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "神彩美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-805"
     },
     {
       "id": 18369,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "神彩美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-770"
     },
     {
       "id": 18542,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "神彩美舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-716"
     }
   ]
 };

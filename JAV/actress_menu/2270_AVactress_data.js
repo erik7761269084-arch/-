@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "奈津野こはく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBZ-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-321"
     },
     {
       "id": 94215,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "奈津野こはく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIC-297"
     },
     {
       "id": 91836,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "奈津野こはく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEND-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-009"
     },
     {
       "id": 90454,
@@ -103,7 +103,7 @@ window.actressData = {
         "夏花",
         "姫宮すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONIN-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONIN-088"
     },
     {
       "id": 89916,
@@ -122,7 +122,7 @@ window.actressData = {
         "奈津野こはく",
         "MOMONE"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-706"
     },
     {
       "id": 90412,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "奈津野こはく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-264"
     }
   ]
 };

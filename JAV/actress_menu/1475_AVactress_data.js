@@ -58,7 +58,7 @@ window.actressData = {
         "本城花",
         "柴又詩穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
     }
   ]
 };

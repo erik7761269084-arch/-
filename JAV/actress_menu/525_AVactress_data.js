@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-438"
     },
     {
       "id": 61828,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-959"
     },
     {
       "id": 4320,
@@ -100,7 +100,7 @@ window.actressData = {
         "篠原伊代",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-402"
     },
     {
       "id": 5118,
@@ -117,7 +117,7 @@ window.actressData = {
         "篠原伊代",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-356"
     },
     {
       "id": 5917,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-041"
     },
     {
       "id": 6367,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDON-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-073"
     },
     {
       "id": 6742,
@@ -167,7 +167,7 @@ window.actressData = {
         "大岛丈",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-040"
     },
     {
       "id": 7355,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-241"
     },
     {
       "id": 8096,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-023"
     },
     {
       "id": 8866,
@@ -216,7 +216,7 @@ window.actressData = {
         "篠原伊代",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-016"
     },
     {
       "id": 9761,
@@ -233,7 +233,7 @@ window.actressData = {
         "篠原伊代",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-012"
     }
   ]
 };

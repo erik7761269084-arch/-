@@ -34,7 +34,7 @@ window.actressData = {
         "木村志乃",
         "藤原京子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOJU-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOJU-137"
     }
   ]
 };

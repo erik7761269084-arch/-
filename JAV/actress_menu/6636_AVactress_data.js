@@ -33,7 +33,7 @@ window.actressData = {
         "佐々木恋海",
         "未来ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-325"
     }
   ]
 };

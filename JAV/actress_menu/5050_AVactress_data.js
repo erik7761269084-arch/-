@@ -34,7 +34,7 @@ window.actressData = {
         "浅井阳登",
         "一彻（铃木一彻）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2381"
     }
   ]
 };

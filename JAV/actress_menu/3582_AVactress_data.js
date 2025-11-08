@@ -42,7 +42,7 @@ window.actressData = {
         "藤下梨花",
         "大石忍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-154"
     },
     {
       "id": 67205,
@@ -68,7 +68,7 @@ window.actressData = {
         "折原ゆかり",
         "朝雾ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-319"
     },
     {
       "id": 91880,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-219"
     },
     {
       "id": 89030,
@@ -101,7 +101,7 @@ window.actressData = {
         "タツ",
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-619"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-619"
     },
     {
       "id": 92005,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KEED-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-082"
     },
     {
       "id": 91239,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-178"
     },
     {
       "id": 89539,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-227"
     },
     {
       "id": 89015,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-221"
     },
     {
       "id": 92099,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-111"
     },
     {
       "id": 92100,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-108"
     },
     {
       "id": 103941,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-546"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-546"
     },
     {
       "id": 106727,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "折原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONE-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONE-272"
     }
   ]
 };

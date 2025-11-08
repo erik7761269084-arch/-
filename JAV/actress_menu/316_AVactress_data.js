@@ -64,7 +64,7 @@ window.actressData = {
         "ニック",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-361"
     },
     {
       "id": 5522,
@@ -81,7 +81,7 @@ window.actressData = {
         "木下凜々子",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-042"
     },
     {
       "id": 6368,
@@ -98,7 +98,7 @@ window.actressData = {
         "木下凜々子",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDON-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-074"
     },
     {
       "id": 7041,
@@ -117,7 +117,7 @@ window.actressData = {
         "大岛丈",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-232"
     },
     {
       "id": 8448,
@@ -134,7 +134,7 @@ window.actressData = {
         "木下凜々子",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-161"
     },
     {
       "id": 9259,
@@ -152,7 +152,7 @@ window.actressData = {
         "ナイアガラ翔",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-152"
     },
     {
       "id": 10126,
@@ -170,7 +170,7 @@ window.actressData = {
         "日森一",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-005"
     },
     {
       "id": 10756,
@@ -189,7 +189,7 @@ window.actressData = {
         "ナイアガラ翔",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-957"
     },
     {
       "id": 17331,
@@ -206,7 +206,7 @@ window.actressData = {
         "木下凜々子",
         "木下凛凛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-467"
     }
   ]
 };

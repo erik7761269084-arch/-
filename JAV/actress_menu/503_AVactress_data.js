@@ -60,7 +60,7 @@ window.actressData = {
         "流川夕",
         "吉村卓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-059"
     },
     {
       "id": 16539,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "流川夕"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-023"
     }
   ]
 };

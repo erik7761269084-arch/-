@@ -86,7 +86,7 @@ window.actressData = {
         "生驹はるな",
         "心花ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUPA-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-196"
     },
     {
       "id": 72512,
@@ -104,7 +104,7 @@ window.actressData = {
         "西条沙羅",
         "松本芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-408"
     },
     {
       "id": 100668,
@@ -121,7 +121,7 @@ window.actressData = {
         "松本芽依",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-075"
     }
   ]
 };

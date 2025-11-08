@@ -34,7 +34,7 @@ window.actressData = {
         "妙花",
         "女優×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-059"
     },
     {
       "id": 63121,
@@ -52,7 +52,7 @@ window.actressData = {
         "近藤ムム",
         "女優×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-057"
     },
     {
       "id": 66553,
@@ -70,7 +70,7 @@ window.actressData = {
         "女優×NH",
         "铃音ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-055"
     },
     {
       "id": 69900,
@@ -88,7 +88,7 @@ window.actressData = {
         "近藤ムム",
         "女優×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-048"
     },
     {
       "id": 77204,
@@ -107,7 +107,7 @@ window.actressData = {
         "女優×NH",
         "西野めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-487"
     },
     {
       "id": 95282,
@@ -125,7 +125,7 @@ window.actressData = {
         "女優×NH",
         "西野めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-034"
     },
     {
       "id": 93609,
@@ -142,7 +142,7 @@ window.actressData = {
         "椎叶みくる",
         "女優×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-029"
     }
   ]
 };

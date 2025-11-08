@@ -51,7 +51,7 @@ window.actressData = {
         "イセドン内村",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-794"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-794"
     },
     {
       "id": 76665,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "知花凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-909"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-909"
     },
     {
       "id": 97917,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "知花凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-390"
     },
     {
       "id": 75080,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "知花凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-395"
     },
     {
       "id": 78494,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "知花凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-620"
     },
     {
       "id": 70424,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "知花凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-052"
     },
     {
       "id": 19100,
@@ -148,7 +148,7 @@ window.actressData = {
         "知花凛",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-348"
     },
     {
       "id": 19110,
@@ -166,7 +166,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-331"
     }
   ]
 };

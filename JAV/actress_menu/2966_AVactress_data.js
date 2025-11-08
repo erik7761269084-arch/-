@@ -28,7 +28,7 @@ window.actressData = {
       "type": "有码",
       "company": "S1",
       "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023625210210_17874_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023625210210_17874_s.webp",
       "actress": [
         "湊羽琉",
         "トミフミ",
@@ -36,7 +36,7 @@ window.actressData = {
         "ナイアガラ翔",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-865"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-865"
     },
     {
       "id": 4140,
@@ -53,7 +53,7 @@ window.actressData = {
         "湊羽琉",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-013"
     },
     {
       "id": 5178,
@@ -71,7 +71,7 @@ window.actressData = {
         "鲛岛",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-776"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-776"
     },
     {
       "id": 5918,
@@ -88,7 +88,7 @@ window.actressData = {
         "湊羽琉",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-737"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-737"
     },
     {
       "id": 6792,
@@ -105,7 +105,7 @@ window.actressData = {
         "湊羽琉",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-508"
     },
     {
       "id": 7310,
@@ -122,7 +122,7 @@ window.actressData = {
         "湊羽琉",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-503"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-503"
     },
     {
       "id": 10444,
@@ -139,7 +139,7 @@ window.actressData = {
         "湊羽琉",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-155"
     },
     {
       "id": 16694,
@@ -157,7 +157,7 @@ window.actressData = {
         "イセドン内村",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-021"
     },
     {
       "id": 17120,
@@ -176,7 +176,7 @@ window.actressData = {
         "安倍亜沙美",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-978"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-978"
     },
     {
       "id": 17661,
@@ -194,7 +194,7 @@ window.actressData = {
         "小田切ジュン",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-945"
     },
     {
       "id": 18235,
@@ -211,7 +211,7 @@ window.actressData = {
         "湊羽琉",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-890"
     },
     {
       "id": 18606,
@@ -230,7 +230,7 @@ window.actressData = {
         "みなと羽琉",
         "武田大樹×"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-889"
     }
   ]
 };

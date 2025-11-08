@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "綾香あかね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMJK-026"
     },
     {
       "id": 62811,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "綾香あかね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-230"
     },
     {
       "id": 5952,
@@ -85,7 +85,7 @@ window.actressData = {
         "綾香あかね",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HHED-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HHED-064"
     },
     {
       "id": 6431,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "綾香あかね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-698"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-698"
     },
     {
       "id": 6801,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "綾香あかね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-132"
     },
     {
       "id": 69993,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "綾香あかね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-037"
     }
   ]
 };

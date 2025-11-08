@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "古川穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-646"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-646"
     },
     {
       "id": 3756,
@@ -85,7 +85,7 @@ window.actressData = {
         "櫻若菜",
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-623"
     },
     {
       "id": 4776,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "古川穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-602"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-602"
     },
     {
       "id": 5543,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "古川穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-572"
     },
     {
       "id": 6313,
@@ -135,7 +135,7 @@ window.actressData = {
         "七尾神",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-543"
     },
     {
       "id": 7667,
@@ -152,7 +152,7 @@ window.actressData = {
         "古川穗花",
         "ダンディ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-499"
     },
     {
       "id": 8475,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "古川穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-475"
     },
     {
       "id": 10797,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "古川穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-403"
     },
     {
       "id": 16888,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "古川穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-176"
     },
     {
       "id": 17346,
@@ -217,7 +217,7 @@ window.actressData = {
         "古川穗花",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-148"
     },
     {
       "id": 17411,
@@ -234,7 +234,7 @@ window.actressData = {
         "古川穗花",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-993"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-993"
     },
     {
       "id": 17691,
@@ -251,7 +251,7 @@ window.actressData = {
         "古川穗花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-943"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-943"
     },
     {
       "id": 17784,
@@ -267,7 +267,7 @@ window.actressData = {
       "actress": [
         "古川穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-925"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-925"
     },
     {
       "id": 17815,
@@ -283,7 +283,7 @@ window.actressData = {
       "actress": [
         "古川穗花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-908"
     },
     {
       "id": 17836,
@@ -300,7 +300,7 @@ window.actressData = {
         "古川穗花",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-892"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-892"
     }
   ]
 };

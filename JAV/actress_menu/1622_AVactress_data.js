@@ -52,7 +52,7 @@ window.actressData = {
         "愛田奈々",
         "美波娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-508"
     },
     {
       "id": 1489,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "愛田奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-003"
     }
   ]
 };

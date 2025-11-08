@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桐谷まほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSSTH-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSSTH-037"
     }
   ]
 };

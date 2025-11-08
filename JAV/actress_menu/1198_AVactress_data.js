@@ -48,7 +48,7 @@ window.actressData = {
         "伊藤聖夏",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-589"
     },
     {
       "id": 17000,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "伊藤聖夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-524"
     },
     {
       "id": 17420,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "伊藤聖夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-581"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-581"
     },
     {
       "id": 100926,
@@ -97,7 +97,7 @@ window.actressData = {
         "伊藤聖夏",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-498"
     },
     {
       "id": 107043,
@@ -114,7 +114,7 @@ window.actressData = {
         "伊藤聖夏",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-863"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-863"
     },
     {
       "id": 107478,
@@ -131,7 +131,7 @@ window.actressData = {
         "伊藤聖夏",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-829"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-829"
     },
     {
       "id": 87710,
@@ -148,7 +148,7 @@ window.actressData = {
         "伊藤聖夏",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-791"
     },
     {
       "id": 87713,
@@ -164,7 +164,7 @@ window.actressData = {
       "actress": [
         "伊藤聖夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-752"
     },
     {
       "id": 104041,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "伊藤聖夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-653"
     }
   ]
 };

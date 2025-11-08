@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "宮多里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-468"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-468"
     },
     {
       "id": 13884,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "宮多里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-472"
     }
   ]
 };

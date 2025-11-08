@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "いちか先生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-580"
     },
     {
       "id": 84516,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "いちか先生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-507"
     },
     {
       "id": 83909,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "いちか先生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-465"
     },
     {
       "id": 73598,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "いちか先生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-447"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-447"
     },
     {
       "id": 83953,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "いちか先生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-433"
     },
     {
       "id": 83917,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "いちか先生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-432"
     }
   ]
 };

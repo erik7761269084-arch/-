@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "东条かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STM-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-009"
     },
     {
       "id": 102828,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "东条かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-424"
     },
     {
       "id": 87940,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "东条かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-524"
     }
   ]
 };

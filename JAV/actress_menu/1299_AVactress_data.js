@@ -55,7 +55,7 @@ window.actressData = {
         "日々樹梨花",
         "壇涼果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMER-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-048"
     },
     {
       "id": 6346,
@@ -75,7 +75,7 @@ window.actressData = {
         "日々樹梨花",
         "美原すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-290"
     },
     {
       "id": 73883,
@@ -94,7 +94,7 @@ window.actressData = {
         "日々樹梨花",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-272"
     },
     {
       "id": 93574,
@@ -112,7 +112,7 @@ window.actressData = {
         "日々樹梨花",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSM-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSM-058"
     },
     {
       "id": 89796,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "日々樹梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RPIN-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPIN-076"
     },
     {
       "id": 91349,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "日々樹梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CIEL-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CIEL-008"
     },
     {
       "id": 89969,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "日々樹梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-133"
     },
     {
       "id": 100425,
@@ -177,7 +177,7 @@ window.actressData = {
         "日々樹梨花",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-088"
     },
     {
       "id": 81158,
@@ -195,7 +195,7 @@ window.actressData = {
         "朝比奈かれん",
         "珠未みさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-108"
     },
     {
       "id": 86831,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "日々樹梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-119"
     }
   ]
 };

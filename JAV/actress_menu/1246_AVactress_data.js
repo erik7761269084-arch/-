@@ -64,7 +64,7 @@ window.actressData = {
         "佐藤爱琉",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-204"
     },
     {
       "id": 82168,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "泉百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-229"
     },
     {
       "id": 97590,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "泉百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-811"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-811"
     },
     {
       "id": 81918,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "泉百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-441"
     },
     {
       "id": 69773,
@@ -130,7 +130,7 @@ window.actressData = {
         "鲛岛",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-641"
     },
     {
       "id": 9488,
@@ -148,7 +148,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-538"
     },
     {
       "id": 9564,
@@ -165,7 +165,7 @@ window.actressData = {
         "泉百合",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-514"
     },
     {
       "id": 10191,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "泉百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-492"
     }
   ]
 };

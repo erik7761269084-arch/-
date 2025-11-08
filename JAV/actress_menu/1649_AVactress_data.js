@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "四宮ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-972"
     },
     {
       "id": 18442,
@@ -67,7 +67,7 @@ window.actressData = {
         "四宮ありす",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-900"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-900"
     },
     {
       "id": 107044,
@@ -84,7 +84,7 @@ window.actressData = {
         "四宮ありす",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-862"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-862"
     },
     {
       "id": 107472,
@@ -101,7 +101,7 @@ window.actressData = {
         "四宮ありす",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-828"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-828"
     },
     {
       "id": 87656,
@@ -119,7 +119,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-790"
     },
     {
       "id": 87708,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "四宮ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-751"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-751"
     },
     {
       "id": 73255,
@@ -152,7 +152,7 @@ window.actressData = {
         "四宮ありす",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-677"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-677"
     },
     {
       "id": 67935,
@@ -169,7 +169,7 @@ window.actressData = {
         "四宮ありす",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-638"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-638"
     },
     {
       "id": 67870,
@@ -185,7 +185,7 @@ window.actressData = {
       "actress": [
         "四宮ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-569"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-569"
     }
   ]
 };

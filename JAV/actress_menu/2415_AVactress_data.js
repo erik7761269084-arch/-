@@ -47,7 +47,7 @@ window.actressData = {
         "タイ",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-485"
     },
     {
       "id": 92307,
@@ -64,7 +64,7 @@ window.actressData = {
         "小關麥",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-411"
     },
     {
       "id": 92283,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "小關麥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-378"
     }
   ]
 };

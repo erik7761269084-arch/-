@@ -66,7 +66,7 @@ window.actressData = {
         "橘ひなの",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-336"
     },
     {
       "id": 7951,
@@ -86,7 +86,7 @@ window.actressData = {
         "広瀬みつき",
         "夢川りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-214"
     },
     {
       "id": 9907,
@@ -105,7 +105,7 @@ window.actressData = {
         "瀬戸ひなこ",
         "広瀬みつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-183"
     },
     {
       "id": 9892,
@@ -124,7 +124,7 @@ window.actressData = {
         "広瀬みつき",
         "月乃櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-321"
     },
     {
       "id": 68054,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "広瀬みつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-047"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
         "桜庭舞香",
         "有坂りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKAX-581"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-581"
     }
   ]
 };

@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "中森七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-269"
     },
     {
       "id": 3623,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "中森七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLV-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-005"
     },
     {
       "id": 4341,
@@ -93,7 +93,7 @@ window.actressData = {
         "中森七海",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-250"
     },
     {
       "id": 4791,
@@ -110,7 +110,7 @@ window.actressData = {
         "中森七海",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-245"
     },
     {
       "id": 6799,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "中森七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-222"
     }
   ]
 };

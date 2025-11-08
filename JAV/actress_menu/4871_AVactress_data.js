@@ -40,7 +40,7 @@ window.actressData = {
         "夏川海",
         "佐佐木艾丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-230"
     }
   ]
 };

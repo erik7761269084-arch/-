@@ -33,7 +33,7 @@ window.actressData = {
         "千鶴えま",
         "サンディー・雛・パークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-451"
     },
     {
       "id": 6424,
@@ -50,7 +50,7 @@ window.actressData = {
         "千鶴えま",
         "サンディー・雛・パークス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-445"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-445"
     }
   ]
 };

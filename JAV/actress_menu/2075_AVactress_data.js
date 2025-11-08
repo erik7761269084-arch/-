@@ -62,7 +62,7 @@ window.actressData = {
         "篠田优",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-596"
     },
     {
       "id": 88939,
@@ -88,7 +88,7 @@ window.actressData = {
         "安倍亜沙美",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-505"
     },
     {
       "id": 77883,
@@ -109,7 +109,7 @@ window.actressData = {
         "瀬乃ひなた",
         "仓科もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRU-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-048"
     },
     {
       "id": 88224,
@@ -130,7 +130,7 @@ window.actressData = {
         "真城杏",
         "三浦あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDEN-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDEN-038"
     }
   ]
 };

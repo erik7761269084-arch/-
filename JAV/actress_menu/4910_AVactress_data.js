@@ -34,7 +34,7 @@ window.actressData = {
         "加贺美さら",
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-373"
     },
     {
       "id": 85751,
@@ -51,7 +51,7 @@ window.actressData = {
         "乙愛麗絲",
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-057"
     },
     {
       "id": 79854,
@@ -69,7 +69,7 @@ window.actressData = {
         "三浦瑠衣",
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-087"
     },
     {
       "id": 79389,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-022"
     },
     {
       "id": 86828,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-268"
     },
     {
       "id": 81356,
@@ -119,7 +119,7 @@ window.actressData = {
         "远藤しおり",
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-036"
     },
     {
       "id": 102325,
@@ -142,7 +142,7 @@ window.actressData = {
         "浅宫ちなつ",
         "月原和奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-090"
     }
   ]
 };

@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "池内遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-411"
     },
     {
       "id": 62043,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "池内遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FKOU-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKOU-004"
     },
     {
       "id": 3947,
@@ -83,7 +83,7 @@ window.actressData = {
         "泉莉音",
         "池内遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GEBB-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-022"
     },
     {
       "id": 3942,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "池内遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-090"
     },
     {
       "id": 63190,
@@ -116,7 +116,7 @@ window.actressData = {
         "池内遥",
         "原美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-533"
     }
   ]
 };

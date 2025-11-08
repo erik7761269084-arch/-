@@ -42,7 +42,7 @@ window.actressData = {
         "折原ゆかり",
         "朝雾ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-319"
     }
   ]
 };

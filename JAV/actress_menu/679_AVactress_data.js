@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "櫻木湊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GONE-077"
     },
     {
       "id": 4797,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "櫻木湊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMTB-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMTB-003"
     },
     {
       "id": 5705,
@@ -90,7 +90,7 @@ window.actressData = {
         "櫻木湊",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-157"
     },
     {
       "id": 67325,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "櫻木湊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-155"
     },
     {
       "id": 7160,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "櫻木湊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-149"
     }
   ]
 };

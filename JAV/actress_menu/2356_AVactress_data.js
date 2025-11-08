@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "岩瀨里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-559"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-559"
     },
     {
       "id": 82523,
@@ -71,7 +71,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-631"
     }
   ]
 };

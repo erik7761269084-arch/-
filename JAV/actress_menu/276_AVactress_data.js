@@ -100,7 +100,7 @@ window.actressData = {
         "椎叶みくる",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-941"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-941"
     },
     {
       "id": 2563,
@@ -125,7 +125,7 @@ window.actressData = {
         "新村晶",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-935"
     },
     {
       "id": 3225,
@@ -178,7 +178,7 @@ window.actressData = {
         "安倍亜沙美",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-933"
     },
     {
       "id": 6349,
@@ -196,7 +196,7 @@ window.actressData = {
         "姫野らん",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-708"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-708"
     },
     {
       "id": 18938,
@@ -214,7 +214,7 @@ window.actressData = {
         "大岛丈",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-501"
     },
     {
       "id": 19043,
@@ -231,7 +231,7 @@ window.actressData = {
         "萌波鈴",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-410"
     }
   ]
 };

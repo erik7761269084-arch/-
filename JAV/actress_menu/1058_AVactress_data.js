@@ -80,7 +80,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 18481,
@@ -99,7 +99,7 @@ window.actressData = {
         "星宮菜奈",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-577"
     }
   ]
 };

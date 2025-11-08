@@ -47,7 +47,7 @@ window.actressData = {
         "佐野葵",
         "峰ゆり香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-890"
     },
     {
       "id": 71222,
@@ -67,7 +67,7 @@ window.actressData = {
         "松うらら",
         "保志美あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-026"
     },
     {
       "id": 1605,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "佐野葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-888"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-888"
     }
   ]
 };

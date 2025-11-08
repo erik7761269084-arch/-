@@ -49,7 +49,7 @@ window.actressData = {
         "饭山香织",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-418"
     },
     {
       "id": 1698,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "飯山香織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-229"
     }
   ]
 };

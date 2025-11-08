@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "伊藤青葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-015"
     }
   ]
 };

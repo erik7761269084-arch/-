@@ -33,7 +33,7 @@ window.actressData = {
         "ロダン富士",
         "真田まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-200"
     },
     {
       "id": 6639,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "真田まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-063"
     },
     {
       "id": 67208,
@@ -66,7 +66,7 @@ window.actressData = {
         "ばたけ",
         "真田まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-227"
     },
     {
       "id": 72987,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "真田まゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAAD-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-078"
     }
   ]
 };

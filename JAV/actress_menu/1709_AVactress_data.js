@@ -54,7 +54,7 @@ window.actressData = {
         "南なつき",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
     },
     {
       "id": 75126,
@@ -74,7 +74,7 @@ window.actressData = {
         "星咲せいら",
         "富永舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GETS-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-126"
     },
     {
       "id": 1059,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "REN(月乃なつき)"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1486"
     }
   ]
 };

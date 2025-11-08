@@ -65,7 +65,7 @@ window.actressData = {
         "乾立夏",
         "干立夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-535"
     },
     {
       "id": 9567,
@@ -82,7 +82,7 @@ window.actressData = {
         "乾立夏",
         "干立夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-511"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-511"
     },
     {
       "id": 10193,
@@ -101,7 +101,7 @@ window.actressData = {
         "イセドン内村",
         "干立夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-489"
     }
   ]
 };

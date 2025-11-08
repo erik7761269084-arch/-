@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "月乃滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-415"
     },
     {
       "id": 81408,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "月乃滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1241"
     }
   ]
 };

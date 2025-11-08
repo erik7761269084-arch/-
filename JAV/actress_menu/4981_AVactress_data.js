@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "芹沢ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1240"
     }
   ]
 };

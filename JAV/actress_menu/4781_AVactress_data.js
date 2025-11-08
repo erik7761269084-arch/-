@@ -39,7 +39,7 @@ window.actressData = {
         "咲坂花恋",
         "茉莉ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-601"
     },
     {
       "id": 78169,
@@ -62,7 +62,7 @@ window.actressData = {
         "凉美ほのか",
         "茉莉ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-558"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-558"
     }
   ]
 };

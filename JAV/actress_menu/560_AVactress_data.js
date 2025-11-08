@@ -42,7 +42,7 @@ window.actressData = {
         "白峰郁美",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSODA-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-083"
     },
     {
       "id": 3168,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "白峰郁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-180"
     },
     {
       "id": 3979,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "白峰郁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-713"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-713"
     },
     {
       "id": 4937,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "白峰郁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-706"
     },
     {
       "id": 6278,
@@ -108,7 +108,7 @@ window.actressData = {
         "ニック",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-291"
     },
     {
       "id": 7016,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "白峰郁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-227"
     },
     {
       "id": 7686,
@@ -141,7 +141,7 @@ window.actressData = {
         "白峰郁美",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-201"
     },
     {
       "id": 8421,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "白峰郁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-166"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-166"
     },
     {
       "id": 9208,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "白峰郁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-006"
     },
     {
       "id": 10093,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "白峰郁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-930"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-930"
     },
     {
       "id": 10788,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "白峰郁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-940"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-940"
     }
   ]
 };

@@ -47,7 +47,7 @@ window.actressData = {
         "日向曜",
         "相川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDB-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDB-111"
     }
   ]
 };

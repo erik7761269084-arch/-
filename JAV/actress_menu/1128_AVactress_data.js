@@ -61,7 +61,7 @@ window.actressData = {
         "美羽すず",
         "呉原みのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMHS-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMHS-003"
     },
     {
       "id": 12622,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "石田美久"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-235"
     },
     {
       "id": 12919,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "石田美久"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-549"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-549"
     },
     {
       "id": 93679,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "石田美久"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAIS-069"
     },
     {
       "id": 67027,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "石田美久"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKO-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-524"
     },
     {
       "id": 105834,
@@ -145,7 +145,7 @@ window.actressData = {
         "神木りさ",
         "水城えま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-490"
     },
     {
       "id": 77137,
@@ -163,7 +163,7 @@ window.actressData = {
         "麻里梨夏",
         "白石悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-805"
     }
   ]
 };

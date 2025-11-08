@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "瀬乃ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STKO-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STKO-002"
     },
     {
       "id": 75432,
@@ -49,7 +49,7 @@ window.actressData = {
         "后藤里香",
         "瀬乃ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRU-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-075"
     },
     {
       "id": 77883,
@@ -70,7 +70,7 @@ window.actressData = {
         "瀬乃ひなた",
         "仓科もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRU-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-048"
     },
     {
       "id": 88483,
@@ -89,7 +89,7 @@ window.actressData = {
         "芹沢ゆうり",
         "瀬乃ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-157"
     }
   ]
 };

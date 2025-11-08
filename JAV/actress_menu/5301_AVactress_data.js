@@ -33,7 +33,7 @@ window.actressData = {
         "熊纱かおる",
         "小林美沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIRC-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIRC-002"
     }
   ]
 };

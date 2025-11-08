@@ -53,7 +53,7 @@ window.actressData = {
         "夏白麻矢",
         "綾瀬ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-234"
     },
     {
       "id": 8045,
@@ -73,7 +73,7 @@ window.actressData = {
         "夏白麻矢",
         "山本蓮加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-161"
     },
     {
       "id": 90397,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "夏白麻矢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPR-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPR-021"
     },
     {
       "id": 91341,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "夏白麻矢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHUC-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-053"
     },
     {
       "id": 107497,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "夏白麻矢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-240"
     }
   ]
 };

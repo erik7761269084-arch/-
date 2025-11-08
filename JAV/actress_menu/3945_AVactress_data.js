@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMBI-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-173"
     },
     {
       "id": 100901,
@@ -50,7 +50,7 @@ window.actressData = {
         "緒川春",
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-185"
     },
     {
       "id": 89559,
@@ -69,7 +69,7 @@ window.actressData = {
         "凉南佳奈",
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-177"
     },
     {
       "id": 100533,
@@ -87,7 +87,7 @@ window.actressData = {
         "美園マリカ",
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-172"
     },
     {
       "id": 90769,
@@ -104,7 +104,7 @@ window.actressData = {
         "天然美月",
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMA-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-086"
     },
     {
       "id": 69799,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-055"
     },
     {
       "id": 88326,
@@ -139,7 +139,7 @@ window.actressData = {
         "知念亜弥芽",
         "七瀬ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-241"
     }
   ]
 };

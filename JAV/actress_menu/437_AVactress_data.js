@@ -58,7 +58,7 @@ window.actressData = {
         "水乃菜乃華",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-287"
     },
     {
       "id": 3906,
@@ -79,7 +79,7 @@ window.actressData = {
         "しめじ",
         "マリモン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-273"
     },
     {
       "id": 62540,
@@ -100,7 +100,7 @@ window.actressData = {
         "水城りん",
         "川崎あいり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-232"
     },
     {
       "id": 4398,
@@ -119,7 +119,7 @@ window.actressData = {
         "水乃菜乃華",
         "雙葉麗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-755"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-755"
     },
     {
       "id": 63229,
@@ -139,7 +139,7 @@ window.actressData = {
         "若月もあ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-262"
     },
     {
       "id": 5267,
@@ -162,7 +162,7 @@ window.actressData = {
         "柳田実椰",
         "浜内礼依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-320"
     },
     {
       "id": 5866,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "水乃菜乃華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-249"
     },
     {
       "id": 5947,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "水乃菜乃華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25194"
     },
     {
       "id": 7393,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "水乃菜乃華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-654"
     },
     {
       "id": 8108,
@@ -227,7 +227,7 @@ window.actressData = {
         "水乃菜乃華",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-606"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-606"
     },
     {
       "id": 8857,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "水乃菜乃華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-661"
     },
     {
       "id": 9767,
@@ -259,7 +259,7 @@ window.actressData = {
       "actress": [
         "水乃菜乃華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-518"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-518"
     },
     {
       "id": 10484,
@@ -276,7 +276,7 @@ window.actressData = {
         "水乃菜乃華",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-512"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-512"
     },
     {
       "id": 13211,
@@ -292,7 +292,7 @@ window.actressData = {
       "actress": [
         "水乃菜乃華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-282"
     }
   ]
 };

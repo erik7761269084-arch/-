@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桐岛美奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1211"
     },
     {
       "id": 70071,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "桐岛美奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URUM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URUM-003"
     },
     {
       "id": 87596,
@@ -66,7 +66,7 @@ window.actressData = {
         "桐岛美奈子",
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-431"
     }
   ]
 };

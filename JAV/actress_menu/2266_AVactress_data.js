@@ -63,7 +63,7 @@ window.actressData = {
         "爱须みのん",
         "生田みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-105"
     }
   ]
 };

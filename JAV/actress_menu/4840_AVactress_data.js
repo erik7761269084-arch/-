@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "水森めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-264"
     },
     {
       "id": 86515,
@@ -49,7 +49,7 @@ window.actressData = {
         "広瀬结香",
         "水森めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-421"
     },
     {
       "id": 78646,
@@ -67,7 +67,7 @@ window.actressData = {
         "成泽ひなみ",
         "水森めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-006"
     },
     {
       "id": 93076,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "水森めぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTKZ-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKZ-079"
     }
   ]
 };

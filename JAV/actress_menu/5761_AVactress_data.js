@@ -36,7 +36,7 @@ window.actressData = {
         "美羽すず",
         "呉原みのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMHS-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMHS-003"
     },
     {
       "id": 91839,
@@ -53,7 +53,7 @@ window.actressData = {
         "愛弓涼",
         "隠岐玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-616"
     },
     {
       "id": 106281,
@@ -70,7 +70,7 @@ window.actressData = {
         "星乃夏月",
         "隠岐玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-244"
     }
   ]
 };

@@ -37,7 +37,7 @@ window.actressData = {
         "秋吉花音",
         "岬まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KFNE-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KFNE-001"
     }
   ]
 };

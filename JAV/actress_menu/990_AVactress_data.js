@@ -49,7 +49,7 @@ window.actressData = {
         "水瀬りた",
         "愛野ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
     },
     {
       "id": 8175,
@@ -69,7 +69,7 @@ window.actressData = {
         "小日向める",
         "本田萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-192"
     }
   ]
 };

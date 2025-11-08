@@ -34,7 +34,7 @@ window.actressData = {
         "芹沢つむぎ",
         "星川麻纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-641"
     },
     {
       "id": 103318,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "芹沢つむぎ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-684"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-684"
     },
     {
       "id": 69413,
@@ -70,7 +70,7 @@ window.actressData = {
         "しずく",
         "芹沢つむぎ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZIZG-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-007"
     }
   ]
 };

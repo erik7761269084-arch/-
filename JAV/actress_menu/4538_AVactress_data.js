@@ -40,7 +40,7 @@ window.actressData = {
         "野崎ありす",
         "宫地亜衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-127"
     },
     {
       "id": 83769,
@@ -60,7 +60,7 @@ window.actressData = {
         "野崎ありす",
         "音羽ななみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-120"
     }
   ]
 };

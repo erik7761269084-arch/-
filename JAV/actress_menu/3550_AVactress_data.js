@@ -36,7 +36,7 @@ window.actressData = {
         "弥生美月",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-671"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-671"
     },
     {
       "id": 8867,
@@ -54,7 +54,7 @@ window.actressData = {
         "アリト",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-056"
     },
     {
       "id": 8807,
@@ -72,7 +72,7 @@ window.actressData = {
         "ナイアガラ翔",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-556"
     },
     {
       "id": 9031,
@@ -91,7 +91,7 @@ window.actressData = {
         "ダンディ",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-633"
     },
     {
       "id": 9023,
@@ -108,7 +108,7 @@ window.actressData = {
         "柳可憐",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-146"
     },
     {
       "id": 9010,
@@ -125,7 +125,7 @@ window.actressData = {
         "南畑颯花",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-036"
     },
     {
       "id": 75249,
@@ -142,7 +142,7 @@ window.actressData = {
         "じゅうもんじ",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-188"
     },
     {
       "id": 76582,
@@ -160,7 +160,7 @@ window.actressData = {
         "美里亜希",
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-242"
     },
     {
       "id": 9990,
@@ -178,7 +178,7 @@ window.actressData = {
         "七尾神",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-165"
     },
     {
       "id": 9940,
@@ -196,7 +196,7 @@ window.actressData = {
         "ナイアガラ翔",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-965"
     },
     {
       "id": 9859,
@@ -214,7 +214,7 @@ window.actressData = {
         "若宮葉月",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-182"
     },
     {
       "id": 10085,
@@ -231,7 +231,7 @@ window.actressData = {
         "铃木里美",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-117"
     },
     {
       "id": 78018,
@@ -249,7 +249,7 @@ window.actressData = {
         "じゅうもんじ",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-174"
     },
     {
       "id": 10469,
@@ -269,7 +269,7 @@ window.actressData = {
         "椎叶みくる",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-631"
     },
     {
       "id": 10452,
@@ -288,7 +288,7 @@ window.actressData = {
         "タイ",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-463"
     },
     {
       "id": 10400,
@@ -307,7 +307,7 @@ window.actressData = {
         "ナイアガラ翔",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-447"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-447"
     },
     {
       "id": 10509,
@@ -324,7 +324,7 @@ window.actressData = {
         "大槻响",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-880"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-880"
     },
     {
       "id": 10577,
@@ -342,7 +342,7 @@ window.actressData = {
         "星宫一花",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-720"
     },
     {
       "id": 10726,
@@ -359,7 +359,7 @@ window.actressData = {
         "川越仁子",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-446"
     },
     {
       "id": 10946,
@@ -376,7 +376,7 @@ window.actressData = {
         "小沢菜穂",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-371"
     },
     {
       "id": 14142,
@@ -393,7 +393,7 @@ window.actressData = {
         "小島南",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-177"
     },
     {
       "id": 14128,
@@ -410,7 +410,7 @@ window.actressData = {
         "明日葉三葉",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-120"
     },
     {
       "id": 15292,
@@ -431,7 +431,7 @@ window.actressData = {
         "ナイアガラ翔",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-038"
     }
   ]
 };

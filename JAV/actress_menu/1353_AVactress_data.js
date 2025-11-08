@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "潤香里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVERS-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVERS-001"
     },
     {
       "id": 62974,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "潤香里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKD-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKD-330"
     }
   ]
 };

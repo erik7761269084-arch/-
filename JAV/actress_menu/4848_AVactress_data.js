@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "花丸くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTK-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTK-725"
     },
     {
       "id": 78725,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "花丸くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-379"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-379"
     }
   ]
 };

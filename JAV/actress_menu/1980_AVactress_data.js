@@ -48,7 +48,7 @@ window.actressData = {
         "広瀬藍子",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-266"
     },
     {
       "id": 88016,
@@ -65,7 +65,7 @@ window.actressData = {
         "大槻响",
         "広瀬藍子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ECB-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-073"
     },
     {
       "id": 68519,
@@ -85,7 +85,7 @@ window.actressData = {
         "月本衣织",
         "铃木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UPSM-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UPSM-185"
     },
     {
       "id": 1511,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "広瀬藍子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-043"
     }
   ]
 };

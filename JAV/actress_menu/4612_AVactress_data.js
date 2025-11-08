@@ -45,7 +45,7 @@ window.actressData = {
         "彩音舞衣",
         "凉宫はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-220"
     },
     {
       "id": 76183,
@@ -64,7 +64,7 @@ window.actressData = {
         "桥本丽华",
         "篠崎みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GGEN-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-006"
     }
   ]
 };

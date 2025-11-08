@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "涼音みあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CBG-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CBG-001"
     }
   ]
 };

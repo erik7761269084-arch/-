@@ -49,7 +49,7 @@ window.actressData = {
         "広瀬結香",
         "小鳥遊百惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-046"
     }
   ]
 };

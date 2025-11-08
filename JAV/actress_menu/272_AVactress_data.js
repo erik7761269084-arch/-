@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "仙兒媛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RATW-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RATW-011"
     }
   ]
 };

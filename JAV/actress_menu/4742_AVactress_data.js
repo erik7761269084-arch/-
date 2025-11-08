@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "杉浦清香（今井祐子）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LY-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LY-010"
     }
   ]
 };

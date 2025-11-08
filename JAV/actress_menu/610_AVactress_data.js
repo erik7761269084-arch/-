@@ -63,7 +63,7 @@ window.actressData = {
         "堀田真央",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-987"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-987"
     },
     {
       "id": 7174,
@@ -82,7 +82,7 @@ window.actressData = {
         "日森一",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-104"
     },
     {
       "id": 7915,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "堀田真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-066"
     },
     {
       "id": 8679,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "堀田真央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-028"
     }
   ]
 };

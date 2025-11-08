@@ -51,7 +51,7 @@ window.actressData = {
         "枫ゆかり",
         "川口叶纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-178"
     },
     {
       "id": 83764,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "福本芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-085"
     },
     {
       "id": 83089,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "福本芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHRV-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-098"
     }
   ]
 };

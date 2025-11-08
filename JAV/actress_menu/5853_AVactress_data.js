@@ -34,7 +34,7 @@ window.actressData = {
         "美里亜希",
         "椎名朝妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-012"
     }
   ]
 };

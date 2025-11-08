@@ -37,7 +37,7 @@ window.actressData = {
         "高瀬智香",
         "西宫纪香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-046"
     },
     {
       "id": 74884,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "相浦茉莉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DCV-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DCV-138"
     },
     {
       "id": 78128,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "相浦茉莉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-731"
     }
   ]
 };

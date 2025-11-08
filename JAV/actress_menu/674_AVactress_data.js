@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "響蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-066"
     },
     {
       "id": 105991,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "響蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-058"
     },
     {
       "id": 106498,
@@ -90,7 +90,7 @@ window.actressData = {
         "響蓮",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-044"
     },
     {
       "id": 18313,
@@ -107,7 +107,7 @@ window.actressData = {
         "響蓮",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-028"
     },
     {
       "id": 107266,
@@ -125,7 +125,7 @@ window.actressData = {
         "タイ",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-455"
     },
     {
       "id": 91057,
@@ -143,7 +143,7 @@ window.actressData = {
         "イセドン内村",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-533"
     },
     {
       "id": 91059,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "響蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-532"
     }
   ]
 };

@@ -39,7 +39,7 @@ window.actressData = {
         "小谷みのり",
         "真岛かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-123"
     },
     {
       "id": 82637,
@@ -56,7 +56,7 @@ window.actressData = {
         "佐佐木明希",
         "真岛かおる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-449"
     }
   ]
 };

@@ -112,7 +112,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 5397,
@@ -132,7 +132,7 @@ window.actressData = {
         "千歳小梅",
         "清水健翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-183"
     },
     {
       "id": 6442,
@@ -176,7 +176,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 7761,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "辻櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-280"
     },
     {
       "id": 7978,
@@ -219,7 +219,7 @@ window.actressData = {
         "安倍亜沙美",
         "永濑唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-895"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-895"
     },
     {
       "id": 13438,
@@ -236,7 +236,7 @@ window.actressData = {
         "辻櫻",
         "園田ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-607"
     }
   ]
 };

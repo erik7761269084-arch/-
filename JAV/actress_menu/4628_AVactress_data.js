@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "姫野ことめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-147"
     },
     {
       "id": 81454,
@@ -49,7 +49,7 @@ window.actressData = {
         "河奈亜依",
         "姫野ことめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-217"
     },
     {
       "id": 82275,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "姫野ことめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-409"
     },
     {
       "id": 76364,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "姫野ことめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-237"
     },
     {
       "id": 82360,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "姫野ことめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-618"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-618"
     },
     {
       "id": 82284,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "姫野ことめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-033"
     },
     {
       "id": 76982,
@@ -131,7 +131,7 @@ window.actressData = {
         "しみけん",
         "姫野ことめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-088"
     }
   ]
 };

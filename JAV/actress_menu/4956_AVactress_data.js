@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "真奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4758"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4758"
     }
   ]
 };

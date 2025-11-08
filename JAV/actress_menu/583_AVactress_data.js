@@ -111,7 +111,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 8835,
@@ -129,7 +129,7 @@ window.actressData = {
         "妃月るい",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-360"
     },
     {
       "id": 9015,
@@ -187,7 +187,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 95261,
@@ -203,7 +203,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-627"
     },
     {
       "id": 10479,
@@ -220,7 +220,7 @@ window.actressData = {
         "月妃さら",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-355"
     },
     {
       "id": 95424,
@@ -239,7 +239,7 @@ window.actressData = {
         "岬梓沙",
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIND-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIND-092"
     },
     {
       "id": 93464,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNNC-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNNC-035"
     },
     {
       "id": 94043,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-670"
     },
     {
       "id": 14517,
@@ -287,7 +287,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-817"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-817"
     },
     {
       "id": 106337,
@@ -303,7 +303,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-251"
     },
     {
       "id": 91114,
@@ -325,7 +325,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-288"
     },
     {
       "id": 91283,
@@ -341,7 +341,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-169"
     },
     {
       "id": 87151,
@@ -357,7 +357,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-675"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-675"
     },
     {
       "id": 78217,
@@ -374,7 +374,7 @@ window.actressData = {
         "桐香悠裡",
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVSHA-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-007"
     },
     {
       "id": 88595,
@@ -391,7 +391,7 @@ window.actressData = {
         "月妃さら",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-140"
     },
     {
       "id": 100676,
@@ -407,7 +407,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-278"
     },
     {
       "id": 92419,
@@ -423,7 +423,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-048"
     },
     {
       "id": 90777,
@@ -439,7 +439,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-547"
     },
     {
       "id": 67632,
@@ -456,7 +456,7 @@ window.actressData = {
         "月妃さら",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-542"
     },
     {
       "id": 67571,
@@ -472,7 +472,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-434"
     },
     {
       "id": 85882,
@@ -488,7 +488,7 @@ window.actressData = {
       "actress": [
         "月妃さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-050"
     }
   ]
 };

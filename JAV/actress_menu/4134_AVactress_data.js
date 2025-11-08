@@ -39,7 +39,7 @@ window.actressData = {
         "玉木なるみ",
         "永井れいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-180"
     },
     {
       "id": 71187,
@@ -57,7 +57,7 @@ window.actressData = {
         "しみけん",
         "永井れいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-665"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-665"
     }
   ]
 };

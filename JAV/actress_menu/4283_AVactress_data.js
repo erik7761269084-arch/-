@@ -41,7 +41,7 @@ window.actressData = {
         "神谷秋妃",
         "柏木あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOMN-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOMN-078"
     },
     {
       "id": 87970,
@@ -60,7 +60,7 @@ window.actressData = {
         "早坂リア",
         "星崎キララ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KISD-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KISD-085"
     }
   ]
 };

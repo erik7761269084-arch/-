@@ -35,7 +35,7 @@ window.actressData = {
         "音羽留衣",
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-609"
     },
     {
       "id": 86975,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-107"
     },
     {
       "id": 71675,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHRV-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-088"
     },
     {
       "id": 71198,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONB-126"
     },
     {
       "id": 74617,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1087"
     },
     {
       "id": 69351,
@@ -116,7 +116,7 @@ window.actressData = {
         "音海里奈",
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKI-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKI-104"
     }
   ]
 };

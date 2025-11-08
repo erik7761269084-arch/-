@@ -57,7 +57,7 @@ window.actressData = {
         "山田鈴奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-694"
     }
   ]
 };

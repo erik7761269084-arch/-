@@ -35,7 +35,7 @@ window.actressData = {
         "ひなちゆん",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-053"
     },
     {
       "id": 67432,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "ひなちゆん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1273"
     }
   ]
 };

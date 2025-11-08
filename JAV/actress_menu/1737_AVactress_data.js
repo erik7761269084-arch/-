@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "葉山友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-68"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-68"
     }
   ]
 };

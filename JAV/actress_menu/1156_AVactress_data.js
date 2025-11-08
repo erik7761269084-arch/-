@@ -61,7 +61,7 @@ window.actressData = {
         "纱々原ゆり",
         "朝阳えま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-219"
     }
   ]
 };

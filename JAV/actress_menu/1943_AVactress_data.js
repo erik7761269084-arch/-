@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-800"
     },
     {
       "id": 74995,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-227"
     },
     {
       "id": 99814,
@@ -77,7 +77,7 @@ window.actressData = {
         "石原莉奈",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-092"
     },
     {
       "id": 88479,
@@ -95,7 +95,7 @@ window.actressData = {
         "石原莉奈",
         "凉川绚音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-124"
     },
     {
       "id": 74892,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-115"
     },
     {
       "id": 101546,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-704"
     },
     {
       "id": 19538,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-690"
     },
     {
       "id": 73819,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-046"
     },
     {
       "id": 106790,
@@ -176,7 +176,7 @@ window.actressData = {
         "石原莉奈",
         "冴岛かおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-388"
     },
     {
       "id": 88453,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-598"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-598"
     },
     {
       "id": 19573,
@@ -208,7 +208,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-546"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-546"
     },
     {
       "id": 101556,
@@ -224,7 +224,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-541"
     },
     {
       "id": 107204,
@@ -244,7 +244,7 @@ window.actressData = {
         "南佳也",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-310"
     },
     {
       "id": 97563,
@@ -260,7 +260,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-221"
     },
     {
       "id": 77632,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "石原莉奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-089"
     }
   ]
 };

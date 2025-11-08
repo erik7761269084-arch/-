@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MINA-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MINA-010"
     },
     {
       "id": 94779,
@@ -63,7 +63,7 @@ window.actressData = {
         "南見つばさ",
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVSHA-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-012"
     },
     {
       "id": 92102,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-314"
     },
     {
       "id": 94697,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-217"
     },
     {
       "id": 89639,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-082"
     },
     {
       "id": 90449,
@@ -133,7 +133,7 @@ window.actressData = {
         "南見つばさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONI-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONI-042"
     },
     {
       "id": 91304,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-579"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-579"
     },
     {
       "id": 89376,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-191"
     },
     {
       "id": 89401,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-189"
     },
     {
       "id": 66677,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-103"
     },
     {
       "id": 88580,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "南見つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DFE-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-065"
     }
   ]
 };

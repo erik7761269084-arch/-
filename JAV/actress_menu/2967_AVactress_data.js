@@ -33,7 +33,7 @@ window.actressData = {
         "三好佑香",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-802"
     },
     {
       "id": 3560,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "三好佑香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-794"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-794"
     },
     {
       "id": 4492,
@@ -67,7 +67,7 @@ window.actressData = {
         "七尾神",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-784"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-784"
     },
     {
       "id": 5309,
@@ -84,7 +84,7 @@ window.actressData = {
         "三好佑香",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-777"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-777"
     },
     {
       "id": 6131,
@@ -101,7 +101,7 @@ window.actressData = {
         "三好佑香",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-770"
     }
   ]
 };

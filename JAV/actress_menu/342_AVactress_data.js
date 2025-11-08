@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-011"
     },
     {
       "id": 5521,
@@ -86,7 +86,7 @@ window.actressData = {
         "庵姬花",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-305"
     },
     {
       "id": 66215,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URE-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-122"
     },
     {
       "id": 7022,
@@ -119,7 +119,7 @@ window.actressData = {
         "庵姬花",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-185"
     },
     {
       "id": 8477,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-225"
     },
     {
       "id": 10150,
@@ -152,7 +152,7 @@ window.actressData = {
         "庵姬花",
         "富岡亞里沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-923"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-923"
     },
     {
       "id": 14846,
@@ -169,7 +169,7 @@ window.actressData = {
         "庵姬花",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-652"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-652"
     },
     {
       "id": 15572,
@@ -187,7 +187,7 @@ window.actressData = {
         "まーち",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-636"
     },
     {
       "id": 16893,
@@ -203,7 +203,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-182"
     },
     {
       "id": 17357,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-157"
     },
     {
       "id": 17909,
@@ -235,7 +235,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-137"
     },
     {
       "id": 18419,
@@ -251,7 +251,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-123"
     },
     {
       "id": 107016,
@@ -267,7 +267,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-108"
     },
     {
       "id": 77515,
@@ -283,7 +283,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-069"
     },
     {
       "id": 100545,
@@ -300,7 +300,7 @@ window.actressData = {
         "庵姬花",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-041"
     },
     {
       "id": 77540,
@@ -316,7 +316,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-056"
     },
     {
       "id": 104478,
@@ -332,7 +332,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-026"
     },
     {
       "id": 17529,
@@ -348,7 +348,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-976"
     },
     {
       "id": 17692,
@@ -364,7 +364,7 @@ window.actressData = {
       "actress": [
         "庵姬花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-942"
     }
   ]
 };

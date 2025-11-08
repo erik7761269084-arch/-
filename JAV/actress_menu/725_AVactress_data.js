@@ -71,7 +71,7 @@ window.actressData = {
         "タイ",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-440"
     },
     {
       "id": 3678,
@@ -90,7 +90,7 @@ window.actressData = {
         "あおい藍",
         "凪宮ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-023"
     },
     {
       "id": 5313,
@@ -102,13 +102,13 @@ window.actressData = {
       "type": "有码",
       "company": "本中",
       "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060020145145_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060020145145_s.webp",
       "actress": [
         "渡來楓",
         "鲛岛",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-700"
     }
   ]
 };

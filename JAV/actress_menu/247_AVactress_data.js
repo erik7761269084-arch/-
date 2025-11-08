@@ -43,7 +43,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XMOM-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-097"
     },
     {
       "id": 61829,
@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-958"
     },
     {
       "id": 4424,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSTU-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-010"
     },
     {
       "id": 5489,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-389"
     },
     {
       "id": 3830,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-694"
     },
     {
       "id": 5651,
@@ -124,7 +124,7 @@ window.actressData = {
         "多田有花",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJDA-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-061"
     },
     {
       "id": 6435,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-304"
     },
     {
       "id": 7338,
@@ -156,7 +156,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-138"
     },
     {
       "id": 71293,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-047"
     },
     {
       "id": 8404,
@@ -188,7 +188,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-355"
     },
     {
       "id": 8584,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-359"
     },
     {
       "id": 9703,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-314"
     },
     {
       "id": 10002,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-224"
     },
     {
       "id": 12816,
@@ -255,7 +255,7 @@ window.actressData = {
         "タイ",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-255"
     },
     {
       "id": 13536,
@@ -272,7 +272,7 @@ window.actressData = {
         "多田有花",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-240"
     },
     {
       "id": 14122,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-228"
     },
     {
       "id": 16364,
@@ -304,7 +304,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-562"
     },
     {
       "id": 16880,
@@ -321,7 +321,7 @@ window.actressData = {
         "乙愛麗絲",
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-539"
     },
     {
       "id": 17340,
@@ -338,7 +338,7 @@ window.actressData = {
         "多田有花",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-468"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-468"
     },
     {
       "id": 90981,
@@ -354,7 +354,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-438"
     },
     {
       "id": 18405,
@@ -372,7 +372,7 @@ window.actressData = {
         "Qべぇ",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-403"
     },
     {
       "id": 106674,
@@ -388,7 +388,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-365"
     },
     {
       "id": 91617,
@@ -404,7 +404,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-343"
     },
     {
       "id": 91019,
@@ -420,7 +420,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-331"
     },
     {
       "id": 100417,
@@ -436,7 +436,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-278"
     },
     {
       "id": 68730,
@@ -453,7 +453,7 @@ window.actressData = {
         "多田有花",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-199"
     },
     {
       "id": 100497,
@@ -469,7 +469,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-151"
     },
     {
       "id": 68765,
@@ -485,7 +485,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-124"
     },
     {
       "id": 67443,
@@ -501,7 +501,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-093"
     },
     {
       "id": 85100,
@@ -517,7 +517,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-031"
     },
     {
       "id": 69266,
@@ -533,7 +533,7 @@ window.actressData = {
       "actress": [
         "多田有花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-065"
     }
   ]
 };

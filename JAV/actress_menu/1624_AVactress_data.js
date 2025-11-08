@@ -85,7 +85,7 @@ window.actressData = {
         "凉森玲梦",
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
       "id": 83135,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "园田美樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPT-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPT-087"
     },
     {
       "id": 73571,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "园田美樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-894"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-894"
     },
     {
       "id": 73795,
@@ -134,7 +134,7 @@ window.actressData = {
         "园田美樱",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-874"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-874"
     },
     {
       "id": 75415,
@@ -151,7 +151,7 @@ window.actressData = {
         "园田美樱",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-863"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-863"
     },
     {
       "id": 73329,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "园田美樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-793"
     },
     {
       "id": 87539,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "园田美樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-679"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-679"
     },
     {
       "id": 70904,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "园田美樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-670"
     },
     {
       "id": 1645,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "园田美樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-601"
     },
     {
       "id": 104402,
@@ -232,7 +232,7 @@ window.actressData = {
         "园田美樱",
         "ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-589"
     },
     {
       "id": 88515,
@@ -250,7 +250,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-537"
     }
   ]
 };

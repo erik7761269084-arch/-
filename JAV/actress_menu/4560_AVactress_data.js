@@ -37,7 +37,7 @@ window.actressData = {
         "逢泽真里亚",
         "古川祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-234"
     },
     {
       "id": 75558,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "古川祥子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1219"
     }
   ]
 };

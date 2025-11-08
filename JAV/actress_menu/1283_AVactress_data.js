@@ -55,7 +55,7 @@ window.actressData = {
         "綾波蓮",
         "及川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
     },
     {
       "id": 61810,
@@ -79,7 +79,7 @@ window.actressData = {
         "及川莉央",
         "藤田さち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
     },
     {
       "id": 6545,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "及川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-131"
     }
   ]
 };

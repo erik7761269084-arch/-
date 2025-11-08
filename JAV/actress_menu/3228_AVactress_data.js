@@ -34,7 +34,7 @@ window.actressData = {
         "トイボーイ相沢",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-400"
     },
     {
       "id": 61707,
@@ -51,7 +51,7 @@ window.actressData = {
         "左慈半造",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-383"
     },
     {
       "id": 4723,
@@ -68,7 +68,7 @@ window.actressData = {
         "桐岡さつき",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-368"
     },
     {
       "id": 5503,
@@ -85,7 +85,7 @@ window.actressData = {
         "桐岡さつき",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-373"
     },
     {
       "id": 6263,
@@ -103,7 +103,7 @@ window.actressData = {
         "ラヴズ",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-346"
     },
     {
       "id": 7025,
@@ -120,7 +120,7 @@ window.actressData = {
         "桐岡さつき",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-343"
     },
     {
       "id": 7717,
@@ -138,7 +138,7 @@ window.actressData = {
         "タクト",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-328"
     },
     {
       "id": 8485,
@@ -155,7 +155,7 @@ window.actressData = {
         "桐岡さつき",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-322"
     }
   ]
 };

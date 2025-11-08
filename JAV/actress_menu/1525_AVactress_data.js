@@ -101,7 +101,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 68846,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "紗霧ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-552"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-552"
     },
     {
       "id": 66949,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "紗霧ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-262"
     },
     {
       "id": 87463,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "紗霧ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-933"
     }
   ]
 };

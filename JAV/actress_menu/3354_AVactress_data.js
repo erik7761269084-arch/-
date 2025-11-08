@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "沢口紫乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-148"
     },
     {
       "id": 63073,
@@ -49,7 +49,7 @@ window.actressData = {
         "タツ",
         "沢口紫乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-244"
     }
   ]
 };

@@ -42,7 +42,7 @@ window.actressData = {
         "枢木美栞",
         "长谷川舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-105"
     },
     {
       "id": 107725,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "长谷川舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-834"
     }
   ]
 };

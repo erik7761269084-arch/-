@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "川瀬遥菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-19"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-19"
     },
     {
       "id": 2048,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "川瀬遥菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-15"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-15"
     }
   ]
 };

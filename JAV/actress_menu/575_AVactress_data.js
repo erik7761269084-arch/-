@@ -58,7 +58,7 @@ window.actressData = {
         "椎名ゆきの",
         "春瀬ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-798"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-798"
     },
     {
       "id": 72626,
@@ -75,7 +75,7 @@ window.actressData = {
         "豊岡さつき",
         "藤野つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-371"
     },
     {
       "id": 95257,
@@ -92,7 +92,7 @@ window.actressData = {
         "藤野つかさ",
         "水谷梨明日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-631"
     },
     {
       "id": 75451,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "藤野つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-346"
     },
     {
       "id": 93224,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "藤野つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOPT-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOPT-037"
     },
     {
       "id": 13049,
@@ -143,7 +143,7 @@ window.actressData = {
         "藤野つかさ",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-732"
     },
     {
       "id": 94586,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "藤野つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-299"
     },
     {
       "id": 91212,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "藤野つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDRD-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-009"
     },
     {
       "id": 89620,
@@ -192,7 +192,7 @@ window.actressData = {
         "藤野つかさ",
         "平井シンジ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-226"
     },
     {
       "id": 90998,
@@ -208,7 +208,7 @@ window.actressData = {
       "actress": [
         "藤野つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-393"
     },
     {
       "id": 77556,
@@ -224,7 +224,7 @@ window.actressData = {
       "actress": [
         "藤野つかさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-346"
     }
   ]
 };

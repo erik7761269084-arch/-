@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "铃木きあら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TLZ-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TLZ-021"
     },
     {
       "id": 93757,
@@ -51,7 +51,7 @@ window.actressData = {
         "中邑みずき",
         "石桥やよい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OLM-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-080"
     },
     {
       "id": 93415,
@@ -70,7 +70,7 @@ window.actressData = {
         "植木翔子",
         "宫岛优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-064"
     },
     {
       "id": 77962,
@@ -89,7 +89,7 @@ window.actressData = {
         "铃木きあら",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-452"
     }
   ]
 };

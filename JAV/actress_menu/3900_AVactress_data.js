@@ -46,7 +46,7 @@ window.actressData = {
         "橘咲良",
         "黒木澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-354"
     },
     {
       "id": 88226,
@@ -65,7 +65,7 @@ window.actressData = {
         "星川麻纪",
         "石原みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-152"
     },
     {
       "id": 69339,
@@ -83,7 +83,7 @@ window.actressData = {
         "手冢みや",
         "橘咲良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGRS-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGRS-021"
     }
   ]
 };

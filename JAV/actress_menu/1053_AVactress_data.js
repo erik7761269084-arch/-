@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "北川まほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-203"
     }
   ]
 };

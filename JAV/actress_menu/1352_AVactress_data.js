@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "川崎奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-510"
     },
     {
       "id": 7446,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "川崎奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-501"
     },
     {
       "id": 6663,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "川崎奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-505"
     }
   ]
 };

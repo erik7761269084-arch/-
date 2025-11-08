@@ -51,7 +51,7 @@ window.actressData = {
         "清水小夏",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-153"
     }
   ]
 };

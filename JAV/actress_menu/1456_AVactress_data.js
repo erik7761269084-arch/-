@@ -53,7 +53,7 @@ window.actressData = {
         "树花凛",
         "青山葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-591"
     }
   ]
 };

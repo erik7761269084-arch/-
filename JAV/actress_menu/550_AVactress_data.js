@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "本多そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-748"
     },
     {
       "id": 7781,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "本多そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-303"
     },
     {
       "id": 9330,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "本多そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-288"
     },
     {
       "id": 95090,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "本多そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-285"
     },
     {
       "id": 13617,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "本多そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-269"
     },
     {
       "id": 14214,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "本多そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-264"
     },
     {
       "id": 14550,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "本多そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-256"
     }
   ]
 };

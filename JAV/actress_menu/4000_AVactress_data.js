@@ -37,7 +37,7 @@ window.actressData = {
         "瀨名光",
         "凪泽诗音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-184"
     },
     {
       "id": 86189,
@@ -56,7 +56,7 @@ window.actressData = {
         "希望美",
         "凪泽诗音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-055"
     },
     {
       "id": 79538,
@@ -76,7 +76,7 @@ window.actressData = {
         "乃木遥",
         "凪泽诗音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-101"
     },
     {
       "id": 70285,
@@ -95,7 +95,7 @@ window.actressData = {
         "皆川ゆうな",
         "凪泽诗音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-079"
     }
   ]
 };

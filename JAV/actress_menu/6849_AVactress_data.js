@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "爱田奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-422"
     },
     {
       "id": 107307,
@@ -50,7 +50,7 @@ window.actressData = {
         "戸川夏也",
         "爱田奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-558"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-558"
     }
   ]
 };

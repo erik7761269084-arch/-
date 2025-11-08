@@ -61,7 +61,7 @@ window.actressData = {
         "森萤",
         "立岡杏菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-593"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-593"
     }
   ]
 };

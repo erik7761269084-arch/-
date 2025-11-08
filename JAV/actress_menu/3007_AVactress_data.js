@@ -35,7 +35,7 @@ window.actressData = {
         "タクト",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-907"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-907"
     },
     {
       "id": 2603,
@@ -55,7 +55,7 @@ window.actressData = {
         "タイ",
         "爱田るか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-401"
     },
     {
       "id": 2858,
@@ -72,7 +72,7 @@ window.actressData = {
         "倖田李梨",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-504"
     },
     {
       "id": 3071,
@@ -89,7 +89,7 @@ window.actressData = {
         "小倉和葉",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-776"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-776"
     },
     {
       "id": 3275,
@@ -106,7 +106,7 @@ window.actressData = {
         "藤咲紫",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-499"
     },
     {
       "id": 3734,
@@ -123,7 +123,7 @@ window.actressData = {
         "波多野结衣",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-278"
     },
     {
       "id": 4366,
@@ -142,7 +142,7 @@ window.actressData = {
         "弘前綾香",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMGH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-011"
     },
     {
       "id": 4524,
@@ -159,7 +159,7 @@ window.actressData = {
         "宮本留衣",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-203"
     },
     {
       "id": 62206,
@@ -177,7 +177,7 @@ window.actressData = {
         "じゅうもんじ",
         "那々未"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-058"
     },
     {
       "id": 4736,
@@ -196,7 +196,7 @@ window.actressData = {
         "ラヴズ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-369"
     },
     {
       "id": 4725,
@@ -213,7 +213,7 @@ window.actressData = {
         "橘瑪麗",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-334"
     },
     {
       "id": 5069,
@@ -230,7 +230,7 @@ window.actressData = {
         "葉山小百合",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUCY-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-013"
     },
     {
       "id": 5276,
@@ -247,7 +247,7 @@ window.actressData = {
         "乙愛麗絲",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-132"
     },
     {
       "id": 5355,
@@ -265,7 +265,7 @@ window.actressData = {
         "タクト",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-772"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-772"
     },
     {
       "id": 63552,
@@ -283,7 +283,7 @@ window.actressData = {
         "レンジャー鏑木",
         "鴨宮みなと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-054"
     },
     {
       "id": 66043,
@@ -300,7 +300,7 @@ window.actressData = {
         "タクト",
         "藍野ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-053"
     },
     {
       "id": 6086,
@@ -317,7 +317,7 @@ window.actressData = {
         "入田真綾",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-407"
     },
     {
       "id": 66311,
@@ -333,7 +333,7 @@ window.actressData = {
       "actress": [
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-052"
     },
     {
       "id": 67387,
@@ -350,7 +350,7 @@ window.actressData = {
         "タクト",
         "姫野じゅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-051"
     },
     {
       "id": 67357,
@@ -367,7 +367,7 @@ window.actressData = {
         "タクト",
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-458"
     },
     {
       "id": 6679,
@@ -384,7 +384,7 @@ window.actressData = {
         "田所百合",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-942"
     },
     {
       "id": 6677,
@@ -402,7 +402,7 @@ window.actressData = {
         "タクト",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-944"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-944"
     },
     {
       "id": 6786,
@@ -419,7 +419,7 @@ window.actressData = {
         "早坂ひめ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-692"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-692"
     },
     {
       "id": 6733,
@@ -437,7 +437,7 @@ window.actressData = {
         "ラヴズ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-348"
     },
     {
       "id": 6984,
@@ -454,7 +454,7 @@ window.actressData = {
         "タクト",
         "御子柴美花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-451"
     },
     {
       "id": 68167,
@@ -470,7 +470,7 @@ window.actressData = {
       "actress": [
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMBI-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-208"
     },
     {
       "id": 7717,
@@ -488,7 +488,7 @@ window.actressData = {
         "タクト",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-328"
     },
     {
       "id": 7703,
@@ -505,7 +505,7 @@ window.actressData = {
         "赤井美希",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-315"
     },
     {
       "id": 7697,
@@ -523,7 +523,7 @@ window.actressData = {
         "左慈半造",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-255"
     },
     {
       "id": 70339,
@@ -540,7 +540,7 @@ window.actressData = {
         "澪川遙",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-921"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-921"
     },
     {
       "id": 72505,
@@ -557,7 +557,7 @@ window.actressData = {
         "市井結夏",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-266"
     },
     {
       "id": 8253,
@@ -574,7 +574,7 @@ window.actressData = {
         "佐山爱",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-964"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-964"
     },
     {
       "id": 8875,
@@ -591,7 +591,7 @@ window.actressData = {
         "北条麻妃",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-171"
     },
     {
       "id": 8776,
@@ -610,7 +610,7 @@ window.actressData = {
         "まーち",
         "モンチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-183"
     },
     {
       "id": 9045,
@@ -627,7 +627,7 @@ window.actressData = {
         "佐久間れみ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-967"
     },
     {
       "id": 8965,
@@ -644,7 +644,7 @@ window.actressData = {
         "水川蓳",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-901"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-901"
     },
     {
       "id": 9274,
@@ -661,7 +661,7 @@ window.actressData = {
         "吹石玲奈",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-172"
     },
     {
       "id": 9426,
@@ -680,7 +680,7 @@ window.actressData = {
         "すぱいく",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-764"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-764"
     },
     {
       "id": 9704,
@@ -697,7 +697,7 @@ window.actressData = {
         "松本翔子",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-292"
     },
     {
       "id": 75097,
@@ -713,7 +713,7 @@ window.actressData = {
       "actress": [
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-889"
     },
     {
       "id": 9775,
@@ -730,7 +730,7 @@ window.actressData = {
         "小坂ひまり",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-891"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-891"
     },
     {
       "id": 10164,
@@ -747,7 +747,7 @@ window.actressData = {
         "Miru",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-477"
     },
     {
       "id": 76924,
@@ -764,7 +764,7 @@ window.actressData = {
         "橘瑪麗",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-490"
     },
     {
       "id": 10505,
@@ -781,7 +781,7 @@ window.actressData = {
         "夢莉梨花",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-875"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-875"
     },
     {
       "id": 69451,
@@ -798,7 +798,7 @@ window.actressData = {
         "有村希",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-691"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-691"
     }
   ]
 };

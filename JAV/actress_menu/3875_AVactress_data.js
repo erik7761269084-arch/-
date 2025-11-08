@@ -34,7 +34,7 @@ window.actressData = {
         "山田富美",
         "高梨日和"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3274"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3274"
     }
   ]
 };

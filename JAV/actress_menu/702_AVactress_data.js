@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "瀨戶環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OAE-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OAE-291"
     },
     {
       "id": 3031,
@@ -80,7 +80,7 @@ window.actressData = {
         "ラヴズ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-846"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-846"
     },
     {
       "id": 3772,
@@ -97,7 +97,7 @@ window.actressData = {
         "瀨戶環奈",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-811"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-811"
     },
     {
       "id": 4771,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "瀨戶環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-758"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-758"
     },
     {
       "id": 5538,
@@ -132,7 +132,7 @@ window.actressData = {
         "小田切ジュン",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-720"
     },
     {
       "id": 6303,
@@ -144,13 +144,13 @@ window.actressData = {
       "type": "有码",
       "company": "S1",
       "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250509/45793616-0351-4c18-842e-865983d774aa_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250509/45793616-0351-4c18-842e-865983d774aa_s.webp",
       "actress": [
         "瀨戶環奈",
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-682"
     },
     {
       "id": 7744,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "瀨戶環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-615"
     },
     {
       "id": 8822,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "瀨戶環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-614"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-614"
     }
   ]
 };

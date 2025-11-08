@@ -55,7 +55,7 @@ window.actressData = {
         "湊波流",
         "河北笑茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-021"
     },
     {
       "id": 61692,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "河北笑茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-095"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "莲美柚香",
         "栄川まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBZ-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-327"
     },
     {
       "id": 94593,
@@ -53,7 +53,7 @@ window.actressData = {
         "向井藍",
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-306"
     },
     {
       "id": 90119,
@@ -71,7 +71,7 @@ window.actressData = {
         "优梨まいな",
         "織衣いとか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-161"
     },
     {
       "id": 17721,
@@ -88,7 +88,7 @@ window.actressData = {
         "藤木紗英",
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-064"
     },
     {
       "id": 90804,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-259"
     },
     {
       "id": 90803,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-256"
     },
     {
       "id": 91395,
@@ -141,7 +141,7 @@ window.actressData = {
         "莲美柚香",
         "爱実ありあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-298"
     },
     {
       "id": 88806,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKD-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-048"
     },
     {
       "id": 67307,
@@ -174,7 +174,7 @@ window.actressData = {
         "莲美柚香",
         "森美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GIGL-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIGL-689"
     },
     {
       "id": 106489,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ITSR-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ITSR-110"
     },
     {
       "id": 84367,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLPN-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-023"
     },
     {
       "id": 85239,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEKO-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKO-244"
     },
     {
       "id": 84521,
@@ -240,7 +240,7 @@ window.actressData = {
         "桥本丽华",
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GIRO-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIRO-041"
     },
     {
       "id": 84461,
@@ -258,7 +258,7 @@ window.actressData = {
         "桥本丽华",
         "逢泽真里亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GIRO-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIRO-040"
     }
   ]
 };

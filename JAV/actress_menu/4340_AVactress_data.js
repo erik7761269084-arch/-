@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "宍戸翠蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-810"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-810"
     },
     {
       "id": 73093,
@@ -49,7 +49,7 @@ window.actressData = {
         "鲛岛",
         "宍戸翠蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-361"
     },
     {
       "id": 73095,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "宍戸翠蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-359"
     }
   ]
 };

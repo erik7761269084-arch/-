@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "岡名あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-158"
     },
     {
       "id": 61487,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "岡名あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-149"
     },
     {
       "id": 62529,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "岡名あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-248"
     }
   ]
 };

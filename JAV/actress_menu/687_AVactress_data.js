@@ -62,7 +62,7 @@ window.actressData = {
         "春日惠奈",
         "上白美央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-534"
     },
     {
       "id": 4802,
@@ -82,7 +82,7 @@ window.actressData = {
         "宇佐美みおん",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-324"
     },
     {
       "id": 5213,
@@ -102,7 +102,7 @@ window.actressData = {
         "あおい藍",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-298"
     },
     {
       "id": 8135,
@@ -124,7 +124,7 @@ window.actressData = {
         "仓木诗织",
         "优木なお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-276"
     },
     {
       "id": 8767,
@@ -145,7 +145,7 @@ window.actressData = {
         "星七奈奈美",
         "宇佐美みおん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-306"
     },
     {
       "id": 9785,
@@ -167,7 +167,7 @@ window.actressData = {
         "宇佐美みおん",
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-268"
     },
     {
       "id": 90138,
@@ -184,7 +184,7 @@ window.actressData = {
         "宇佐美みおん",
         "市成心海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-562"
     },
     {
       "id": 89907,
@@ -204,7 +204,7 @@ window.actressData = {
         "宇佐美みおん",
         "広末みゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-710"
     }
   ]
 };

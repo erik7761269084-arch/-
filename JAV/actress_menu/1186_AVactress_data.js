@@ -63,7 +63,7 @@ window.actressData = {
         "岡西友美",
         "穂高由歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-145"
     },
     {
       "id": 7121,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "岡西友美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-331"
     },
     {
       "id": 93650,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "岡西友美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKY-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKY-010"
     },
     {
       "id": 91122,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "岡西友美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IQQQ-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IQQQ-043"
     },
     {
       "id": 90840,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "岡西友美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-115"
     },
     {
       "id": 91180,
@@ -144,7 +144,7 @@ window.actressData = {
         "岡西友美",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-555"
     },
     {
       "id": 88988,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "岡西友美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=USYW-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USYW-002"
     },
     {
       "id": 107111,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "岡西友美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-186"
     },
     {
       "id": 87570,
@@ -194,7 +194,7 @@ window.actressData = {
         "小田切ジュン",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-777"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-777"
     }
   ]
 };

@@ -67,7 +67,7 @@ window.actressData = {
         "安倍亜沙美",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-641"
     },
     {
       "id": 93114,
@@ -88,7 +88,7 @@ window.actressData = {
         "月宫ねね",
         "NAOO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-047"
     },
     {
       "id": 93110,
@@ -106,7 +106,7 @@ window.actressData = {
         "市川りく",
         "竹内美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-045"
     },
     {
       "id": 14377,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "竹内美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-247"
     },
     {
       "id": 94903,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "竹内美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-945"
     },
     {
       "id": 85538,
@@ -155,7 +155,7 @@ window.actressData = {
         "竹内美涼",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-484"
     },
     {
       "id": 69382,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "竹内美涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-316"
     }
   ]
 };

@@ -47,7 +47,7 @@ window.actressData = {
         "浜崎真绪",
         "浅田结梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
     },
     {
       "id": 3855,
@@ -76,7 +76,7 @@ window.actressData = {
         "安倍亜沙美",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IMO-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-033"
     },
     {
       "id": 6817,
@@ -103,7 +103,7 @@ window.actressData = {
         "安倍亜沙美",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-275"
     },
     {
       "id": 88947,
@@ -121,7 +121,7 @@ window.actressData = {
         "夏希栗",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-513"
     },
     {
       "id": 86494,
@@ -138,7 +138,7 @@ window.actressData = {
         "天然美月",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-813"
     },
     {
       "id": 86856,
@@ -155,7 +155,7 @@ window.actressData = {
         "樋口三葉",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-167"
     }
   ]
 };

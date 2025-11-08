@@ -41,7 +41,7 @@ window.actressData = {
         "三河瑛茉",
         "野田朔弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-334"
     }
   ]
 };

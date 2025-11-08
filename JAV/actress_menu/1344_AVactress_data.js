@@ -57,7 +57,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-032"
     },
     {
       "id": 3990,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "海月紗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-025"
     }
   ]
 };

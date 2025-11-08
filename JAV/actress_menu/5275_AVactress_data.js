@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "A子さん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HHKL-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HHKL-008"
     }
   ]
 };

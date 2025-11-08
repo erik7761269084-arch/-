@@ -47,7 +47,7 @@ window.actressData = {
         "東条実澪",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-062"
     },
     {
       "id": 69646,
@@ -66,7 +66,7 @@ window.actressData = {
         "東条実澪",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-010"
     },
     {
       "id": 6729,
@@ -91,7 +91,7 @@ window.actressData = {
         "七海雛",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-238"
     },
     {
       "id": 71973,
@@ -110,7 +110,7 @@ window.actressData = {
         "東条実澪",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-008"
     },
     {
       "id": 9852,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "東条実澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-266"
     },
     {
       "id": 18404,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "東条実澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-399"
     },
     {
       "id": 91635,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "東条実澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-373"
     },
     {
       "id": 91004,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "東条実澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-347"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-347"
     },
     {
       "id": 91012,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "東条実澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-306"
     }
   ]
 };

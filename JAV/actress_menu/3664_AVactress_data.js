@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "美城るる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-524"
     },
     {
       "id": 107028,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "美城るる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-505"
     },
     {
       "id": 67230,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "美城るる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-448"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-448"
     },
     {
       "id": 66894,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "美城るる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-435"
     },
     {
       "id": 87278,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "美城るる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-425"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-425"
     }
   ]
 };

@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "水澄せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSTU-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-008"
     },
     {
       "id": 7490,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "水澄せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSTU-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-005"
     },
     {
       "id": 9419,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "水澄せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-124"
     }
   ]
 };

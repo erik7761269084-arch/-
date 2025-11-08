@@ -41,7 +41,7 @@ window.actressData = {
         "茜はるか",
         "手岛知世"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-105"
     }
   ]
 };

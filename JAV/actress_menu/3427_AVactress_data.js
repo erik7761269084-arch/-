@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "如月もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FEM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-011"
     }
   ]
 };

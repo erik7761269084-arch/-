@@ -57,7 +57,7 @@ window.actressData = {
         "保坂えり",
         "篠宫ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-370"
     },
     {
       "id": 5065,
@@ -124,7 +124,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     }
   ]
 };

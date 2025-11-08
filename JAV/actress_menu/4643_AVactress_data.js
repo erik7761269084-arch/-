@@ -37,7 +37,7 @@ window.actressData = {
         "石川明日美",
         "美月みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-063"
     },
     {
       "id": 88389,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "石川明日美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-077"
     }
   ]
 };

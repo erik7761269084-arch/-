@@ -42,7 +42,7 @@ window.actressData = {
       "actress": [
         "美ノ辺さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEWM-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-107"
     },
     {
       "id": 6733,
@@ -60,7 +60,7 @@ window.actressData = {
         "ラヴズ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-348"
     },
     {
       "id": 7340,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "美ノ辺さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-327"
     },
     {
       "id": 8060,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "美ノ辺さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-324"
     },
     {
       "id": 8861,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "美ノ辺さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-305"
     },
     {
       "id": 9751,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "美ノ辺さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-295"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-295"
     },
     {
       "id": 10414,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "美ノ辺さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-286"
     },
     {
       "id": 59726,
@@ -157,7 +157,7 @@ window.actressData = {
         "美ノ辺さやか",
         "秋元美織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1312"
     }
   ]
 };

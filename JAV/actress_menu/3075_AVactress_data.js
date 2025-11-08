@@ -41,7 +41,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSODN-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSODN-001"
     },
     {
       "id": 2905,
@@ -58,7 +58,7 @@ window.actressData = {
         "白峰郁美",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSODA-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-083"
     },
     {
       "id": 2899,
@@ -84,7 +84,7 @@ window.actressData = {
         "マサムー",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
     },
     {
       "id": 2886,
@@ -104,7 +104,7 @@ window.actressData = {
         "中丸未来",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-421"
     },
     {
       "id": 3403,
@@ -121,7 +121,7 @@ window.actressData = {
         "都月楓",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-261"
     },
     {
       "id": 3396,
@@ -140,7 +140,7 @@ window.actressData = {
         "いち",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-460"
     },
     {
       "id": 3324,
@@ -160,7 +160,7 @@ window.actressData = {
         "雫月心桜",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-263"
     },
     {
       "id": 60256,
@@ -177,7 +177,7 @@ window.actressData = {
         "コグレハルト",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-059"
     },
     {
       "id": 61748,
@@ -195,7 +195,7 @@ window.actressData = {
         "マサムー",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-383"
     },
     {
       "id": 4125,
@@ -215,7 +215,7 @@ window.actressData = {
         "小島美子",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-002"
     },
     {
       "id": 4543,
@@ -232,7 +232,7 @@ window.actressData = {
         "佐山爱",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-217"
     },
     {
       "id": 4787,
@@ -252,7 +252,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-802"
     },
     {
       "id": 63227,
@@ -269,7 +269,7 @@ window.actressData = {
         "コグレハルト",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-057"
     },
     {
       "id": 5122,
@@ -286,7 +286,7 @@ window.actressData = {
         "豊岡さつき",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-392"
     },
     {
       "id": 5336,
@@ -306,7 +306,7 @@ window.actressData = {
         "タイ",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-501"
     },
     {
       "id": 5694,
@@ -323,7 +323,7 @@ window.actressData = {
         "JULIA",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-524"
     },
     {
       "id": 6615,
@@ -340,7 +340,7 @@ window.actressData = {
         "レンジャー鏑木",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-099"
     },
     {
       "id": 7316,
@@ -357,7 +357,7 @@ window.actressData = {
         "八蜜凛",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-016"
     },
     {
       "id": 6756,
@@ -374,7 +374,7 @@ window.actressData = {
         "安斉愛結",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-235"
     },
     {
       "id": 6723,
@@ -391,7 +391,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-694"
     },
     {
       "id": 6914,
@@ -409,7 +409,7 @@ window.actressData = {
         "マサムー",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-314"
     },
     {
       "id": 7066,
@@ -429,7 +429,7 @@ window.actressData = {
         "しめじ",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-670"
     },
     {
       "id": 70045,
@@ -447,7 +447,7 @@ window.actressData = {
         "蓝井优太",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-053"
     },
     {
       "id": 62050,
@@ -464,7 +464,7 @@ window.actressData = {
         "春陽萌花",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-583"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-583"
     },
     {
       "id": 70914,
@@ -481,7 +481,7 @@ window.actressData = {
         "マサムー",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-218"
     },
     {
       "id": 8330,
@@ -499,7 +499,7 @@ window.actressData = {
         "じゅうもんじ",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-912"
     },
     {
       "id": 7835,
@@ -516,7 +516,7 @@ window.actressData = {
         "白峰美羽",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-170"
     },
     {
       "id": 8728,
@@ -533,7 +533,7 @@ window.actressData = {
         "吉高寧寧",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-969"
     },
     {
       "id": 8097,
@@ -554,7 +554,7 @@ window.actressData = {
         "大志",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-619"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-619"
     },
     {
       "id": 8068,
@@ -571,7 +571,7 @@ window.actressData = {
         "都月楓",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-224"
     },
     {
       "id": 8903,
@@ -589,7 +589,7 @@ window.actressData = {
         "コグレハルト",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-972"
     },
     {
       "id": 8300,
@@ -608,7 +608,7 @@ window.actressData = {
         "左慈半造",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-398"
     },
     {
       "id": 8278,
@@ -625,7 +625,7 @@ window.actressData = {
         "吉根柚莉爱",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-146"
     },
     {
       "id": 8166,
@@ -642,7 +642,7 @@ window.actressData = {
         "森日向子",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-734"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-734"
     },
     {
       "id": 9573,
@@ -659,7 +659,7 @@ window.actressData = {
         "三葉千春",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-948"
     },
     {
       "id": 9136,
@@ -676,7 +676,7 @@ window.actressData = {
         "春陽萌花",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-680"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-680"
     },
     {
       "id": 73494,
@@ -692,7 +692,7 @@ window.actressData = {
       "actress": [
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-504"
     },
     {
       "id": 76266,
@@ -709,7 +709,7 @@ window.actressData = {
         "都月楓",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-217"
     },
     {
       "id": 59692,
@@ -728,7 +728,7 @@ window.actressData = {
         "タツ",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-062"
     }
   ]
 };

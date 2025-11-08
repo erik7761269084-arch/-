@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "早坂ひめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-875"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-875"
     },
     {
       "id": 3420,
@@ -69,7 +69,7 @@ window.actressData = {
         "早坂ひめ",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-857"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-857"
     },
     {
       "id": 4306,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "早坂ひめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-789"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-789"
     },
     {
       "id": 5153,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "早坂ひめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-741"
     },
     {
       "id": 5925,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "早坂ひめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-697"
     },
     {
       "id": 6786,
@@ -134,7 +134,7 @@ window.actressData = {
         "早坂ひめ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-692"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-692"
     },
     {
       "id": 7349,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "早坂ひめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-649"
     },
     {
       "id": 7751,
@@ -178,7 +178,7 @@ window.actressData = {
         "ラヴズ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
     },
     {
       "id": 8111,
@@ -197,7 +197,7 @@ window.actressData = {
         "大志",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-601"
     },
     {
       "id": 8881,
@@ -214,7 +214,7 @@ window.actressData = {
         "早坂ひめ",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-550"
     },
     {
       "id": 9743,
@@ -230,7 +230,7 @@ window.actressData = {
       "actress": [
         "早坂ひめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-507"
     },
     {
       "id": 10452,
@@ -249,7 +249,7 @@ window.actressData = {
         "タイ",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-463"
     },
     {
       "id": 13228,
@@ -265,7 +265,7 @@ window.actressData = {
       "actress": [
         "早坂ひめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-275"
     }
   ]
 };

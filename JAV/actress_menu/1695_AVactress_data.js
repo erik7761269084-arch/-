@@ -50,7 +50,7 @@ window.actressData = {
         "櫻明菜",
         "夏川純子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-123"
     },
     {
       "id": 1781,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "夏川純子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-103"
     }
   ]
 };

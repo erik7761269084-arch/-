@@ -65,7 +65,7 @@ window.actressData = {
         "大村",
         "太刀茜祢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRTD-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRTD-034"
     },
     {
       "id": 3491,
@@ -149,7 +149,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 3981,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "雨宮響"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-550"
     },
     {
       "id": 4104,
@@ -193,7 +193,7 @@ window.actressData = {
         "有森涼",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-394"
     },
     {
       "id": 5352,
@@ -209,7 +209,7 @@ window.actressData = {
       "actress": [
         "雨宮響"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-353"
     },
     {
       "id": 5289,
@@ -240,7 +240,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 6919,
@@ -258,7 +258,7 @@ window.actressData = {
         "雨宮響",
         "小梅惠奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-213"
     },
     {
       "id": 7566,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "雨宮響"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-194"
     },
     {
       "id": 8274,
@@ -295,7 +295,7 @@ window.actressData = {
         "神崎ゆま",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-203"
     },
     {
       "id": 9064,
@@ -311,7 +311,7 @@ window.actressData = {
       "actress": [
         "雨宮響"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-186"
     },
     {
       "id": 9015,
@@ -369,7 +369,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 9919,
@@ -385,7 +385,7 @@ window.actressData = {
       "actress": [
         "雨宮響"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-185"
     },
     {
       "id": 16220,
@@ -403,7 +403,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-073"
     },
     {
       "id": 16762,
@@ -420,7 +420,7 @@ window.actressData = {
         "雨宮響",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-052"
     }
   ]
 };

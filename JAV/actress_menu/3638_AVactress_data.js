@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "陆畑ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2272"
     },
     {
       "id": 78199,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "陆畑ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-584"
     },
     {
       "id": 74734,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "陆畑ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-396"
     }
   ]
 };

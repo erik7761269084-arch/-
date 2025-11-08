@@ -45,7 +45,7 @@ window.actressData = {
         "久保田湊琴",
         "梶尾羽歌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-326"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-326"
     },
     {
       "id": 7933,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "吉井彩葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-227"
     },
     {
       "id": 8737,
@@ -79,7 +79,7 @@ window.actressData = {
         "西野心音",
         "向井保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-297"
     }
   ]
 };

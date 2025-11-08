@@ -33,7 +33,7 @@ window.actressData = {
         "若月玛丽亚",
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-647"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-647"
     },
     {
       "id": 81939,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-089"
     },
     {
       "id": 77919,
@@ -66,7 +66,7 @@ window.actressData = {
         "岩下たろう",
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-026"
     },
     {
       "id": 81704,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUKF-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-038"
     },
     {
       "id": 81726,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JOSI-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOSI-005"
     },
     {
       "id": 81921,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-505"
     },
     {
       "id": 75874,
@@ -131,7 +131,7 @@ window.actressData = {
         "椎名空",
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-265"
     },
     {
       "id": 83529,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-633"
     },
     {
       "id": 83154,
@@ -167,7 +167,7 @@ window.actressData = {
         "须崎まどか",
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-050"
     },
     {
       "id": 83415,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-420"
     },
     {
       "id": 76555,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-368"
     },
     {
       "id": 73736,
@@ -217,7 +217,7 @@ window.actressData = {
         "鲛岛",
         "宇佐木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-006"
     }
   ]
 };

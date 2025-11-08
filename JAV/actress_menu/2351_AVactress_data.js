@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "桃由里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUD-27"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUD-27"
     }
   ]
 };

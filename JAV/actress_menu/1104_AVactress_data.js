@@ -62,7 +62,7 @@ window.actressData = {
         "水川かえで",
         "伊织凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-973"
     },
     {
       "id": 4559,
@@ -80,7 +80,7 @@ window.actressData = {
         "本田桃",
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-899"
     },
     {
       "id": 6433,
@@ -102,7 +102,7 @@ window.actressData = {
         "夏川海",
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGB-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGB-049"
     },
     {
       "id": 89186,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SY-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-204"
     },
     {
       "id": 88992,
@@ -136,7 +136,7 @@ window.actressData = {
         "春原未来",
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-887"
     },
     {
       "id": 88951,
@@ -154,7 +154,7 @@ window.actressData = {
         "水川かえで",
         "桜庭ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-886"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-886"
     },
     {
       "id": 88977,
@@ -172,7 +172,7 @@ window.actressData = {
         "八乃翼",
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-881"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-881"
     },
     {
       "id": 67197,
@@ -188,7 +188,7 @@ window.actressData = {
       "actress": [
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-912"
     },
     {
       "id": 86526,
@@ -206,7 +206,7 @@ window.actressData = {
         "水川かえで",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-845"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-845"
     },
     {
       "id": 87475,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-227"
     },
     {
       "id": 86519,
@@ -240,7 +240,7 @@ window.actressData = {
         "水川かえで",
         "儿玉玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-837"
     },
     {
       "id": 77091,
@@ -260,7 +260,7 @@ window.actressData = {
         "枢木美栞",
         "长谷川舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-105"
     },
     {
       "id": 107726,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "水川かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-825"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XV-843"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XV-843"
     },
     {
       "id": 62528,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-853"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-853"
     },
     {
       "id": 35600,
@@ -67,7 +67,7 @@ window.actressData = {
         "大岛丈",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-457"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-457"
     },
     {
       "id": 35597,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-538"
     },
     {
       "id": 63320,
@@ -101,7 +101,7 @@ window.actressData = {
         "玉木玲",
         "松下ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-999"
     },
     {
       "id": 35610,
@@ -118,7 +118,7 @@ window.actressData = {
         "森林原人",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-037"
     },
     {
       "id": 35607,
@@ -137,7 +137,7 @@ window.actressData = {
         "しみけん",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-899"
     },
     {
       "id": 35621,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-961"
     },
     {
       "id": 68743,
@@ -171,7 +171,7 @@ window.actressData = {
         "田渊正浩",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-441"
     },
     {
       "id": 19550,
@@ -190,7 +190,7 @@ window.actressData = {
         "しみけん",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-370"
     },
     {
       "id": 105867,
@@ -208,7 +208,7 @@ window.actressData = {
         "大岛丈",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-250"
     },
     {
       "id": 19593,
@@ -226,7 +226,7 @@ window.actressData = {
         "希志爱野",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-127"
     },
     {
       "id": 82591,
@@ -243,7 +243,7 @@ window.actressData = {
         "しみけん",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-883"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-883"
     },
     {
       "id": 105865,
@@ -262,7 +262,7 @@ window.actressData = {
         "しみけん",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-870"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-870"
     },
     {
       "id": 82574,
@@ -281,7 +281,7 @@ window.actressData = {
         "しみけん",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-825"
     },
     {
       "id": 61395,
@@ -300,7 +300,7 @@ window.actressData = {
         "しみけん",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-812"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-812"
     },
     {
       "id": 61396,
@@ -316,7 +316,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-800"
     },
     {
       "id": 61397,
@@ -336,7 +336,7 @@ window.actressData = {
         "柚木蒂娜",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-789"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-789"
     },
     {
       "id": 61398,
@@ -352,7 +352,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-767"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-767"
     },
     {
       "id": 61399,
@@ -370,7 +370,7 @@ window.actressData = {
         "しみけん",
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-736"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-736"
     },
     {
       "id": 61400,
@@ -386,7 +386,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-727"
     },
     {
       "id": 61138,
@@ -402,7 +402,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUPD-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPD-077"
     },
     {
       "id": 82561,
@@ -418,7 +418,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-584"
     },
     {
       "id": 104284,
@@ -434,7 +434,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XV-833"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XV-833"
     },
     {
       "id": 61441,
@@ -450,7 +450,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-434"
     },
     {
       "id": 104414,
@@ -466,7 +466,7 @@ window.actressData = {
       "actress": [
         "柚木蒂娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-121"
     }
   ]
 };

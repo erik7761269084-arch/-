@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "星野明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-322"
     },
     {
       "id": 82485,
@@ -51,7 +51,7 @@ window.actressData = {
         "星野明",
         "饭田せいこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-664"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-664"
     },
     {
       "id": 69273,
@@ -69,7 +69,7 @@ window.actressData = {
         "松沢ゆかり",
         "星野明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEM-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEM-029"
     }
   ]
 };

@@ -59,7 +59,7 @@ window.actressData = {
         "石川さとこ",
         "真白希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-403"
     },
     {
       "id": 72813,
@@ -82,7 +82,7 @@ window.actressData = {
         "寺泽しのぶ",
         "柳田やよい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-359"
     },
     {
       "id": 1492,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "桜沢まひる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-011"
     }
   ]
 };

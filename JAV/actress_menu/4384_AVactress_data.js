@@ -33,7 +33,7 @@ window.actressData = {
         "南佳也",
         "梦见照うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-334"
     },
     {
       "id": 82834,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "梦见照うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-320"
     },
     {
       "id": 83197,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "梦见照うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-440"
     },
     {
       "id": 75890,
@@ -82,7 +82,7 @@ window.actressData = {
         "鲛岛",
         "梦见照うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-308"
     },
     {
       "id": 76558,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "梦见照うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-303"
     },
     {
       "id": 73728,
@@ -115,7 +115,7 @@ window.actressData = {
         "鲛岛",
         "梦见照うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-289"
     },
     {
       "id": 73561,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "梦见照うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-285"
     },
     {
       "id": 77865,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "梦见照うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-280"
     }
   ]
 };

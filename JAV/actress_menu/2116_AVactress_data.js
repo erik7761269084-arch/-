@@ -37,7 +37,7 @@ window.actressData = {
         "じゅうもんじ",
         "愛瀬まりさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-035"
     },
     {
       "id": 94835,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "橘芹那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SXMA-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-007"
     },
     {
       "id": 97660,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "橘芹那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-174"
     },
     {
       "id": 81503,
@@ -87,7 +87,7 @@ window.actressData = {
         "増田ゆめ",
         "星越かなめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-177"
     },
     {
       "id": 81537,
@@ -108,7 +108,7 @@ window.actressData = {
         "朝日みくる",
         "月岛アンナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-170"
     },
     {
       "id": 72292,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "橘芹那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-154"
     },
     {
       "id": 72291,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "橘芹那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-149"
     }
   ]
 };

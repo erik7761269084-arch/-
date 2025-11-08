@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "与田貴美子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IRO-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IRO-054"
     },
     {
       "id": 91033,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "与田貴美子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAAD-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-070"
     },
     {
       "id": 91091,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "与田貴美子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-155"
     }
   ]
 };

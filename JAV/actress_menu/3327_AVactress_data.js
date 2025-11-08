@@ -38,7 +38,7 @@ window.actressData = {
         "百叶花音",
         "二叶あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-735"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-735"
     },
     {
       "id": 75154,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "百叶花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-174"
     }
   ]
 };

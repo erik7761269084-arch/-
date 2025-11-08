@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-383"
     },
     {
       "id": 62586,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-954"
     },
     {
       "id": 5012,
@@ -97,12 +97,12 @@ window.actressData = {
       "type": "有码",
       "company": "AROUND",
       "publish_date": "2025-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001944281281_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001944281281_s.webp",
       "actress": [
         "丸石稀有",
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25195"
     },
     {
       "id": 16822,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-251"
     },
     {
       "id": 17306,
@@ -135,7 +135,7 @@ window.actressData = {
         "広瀬美結",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-244"
     },
     {
       "id": 18344,
@@ -153,7 +153,7 @@ window.actressData = {
         "Qべぇ",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-223"
     },
     {
       "id": 17438,
@@ -170,7 +170,7 @@ window.actressData = {
         "入田真綾",
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-254"
     },
     {
       "id": 77510,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-210"
     }
   ]
 };

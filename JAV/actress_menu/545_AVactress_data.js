@@ -59,7 +59,7 @@ window.actressData = {
         "日森一",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-191"
     },
     {
       "id": 9733,
@@ -76,7 +76,7 @@ window.actressData = {
         "叶愛",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-125"
     },
     {
       "id": 10478,
@@ -94,7 +94,7 @@ window.actressData = {
         "大岛丈",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-963"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-963"
     },
     {
       "id": 14893,
@@ -111,7 +111,7 @@ window.actressData = {
         "叶愛",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-686"
     }
   ]
 };

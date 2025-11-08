@@ -38,7 +38,7 @@ window.actressData = {
         "成田あゆみ",
         "川原万智子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-140"
     }
   ]
 };

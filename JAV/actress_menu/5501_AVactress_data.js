@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "広瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-423"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-423"
     }
   ]
 };

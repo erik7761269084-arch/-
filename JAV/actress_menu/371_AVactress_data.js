@@ -63,7 +63,7 @@ window.actressData = {
         "佐山由依",
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTKD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTKD-002"
     },
     {
       "id": 2481,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-400"
     },
     {
       "id": 2899,
@@ -105,7 +105,7 @@ window.actressData = {
         "マサムー",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
     },
     {
       "id": 60927,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-610"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-610"
     },
     {
       "id": 4019,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVGAL-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVGAL-021"
     },
     {
       "id": 61133,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CRNX-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRNX-233"
     },
     {
       "id": 4109,
@@ -171,7 +171,7 @@ window.actressData = {
         "響かれん",
         "月乃あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-105"
     },
     {
       "id": 4235,
@@ -188,7 +188,7 @@ window.actressData = {
         "真白風羽里",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKDV-787"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-787"
     },
     {
       "id": 4438,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-091"
     },
     {
       "id": 4620,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-984"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-984"
     },
     {
       "id": 4626,
@@ -239,7 +239,7 @@ window.actressData = {
         "真白風羽里",
         "星宮桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-064"
     },
     {
       "id": 5769,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NECO-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NECO-003"
     },
     {
       "id": 7170,
@@ -273,7 +273,7 @@ window.actressData = {
         "鲛岛",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-115"
     },
     {
       "id": 7872,
@@ -289,7 +289,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-093"
     },
     {
       "id": 8640,
@@ -305,7 +305,7 @@ window.actressData = {
       "actress": [
         "真白風羽里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-057"
     }
   ]
 };

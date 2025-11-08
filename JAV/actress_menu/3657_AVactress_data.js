@@ -35,7 +35,7 @@ window.actressData = {
         "若叶くるみ",
         "桃色バンビ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-318"
     },
     {
       "id": 78919,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "若叶くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-167"
     }
   ]
 };

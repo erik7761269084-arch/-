@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "都盛星空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-129"
     }
   ]
 };

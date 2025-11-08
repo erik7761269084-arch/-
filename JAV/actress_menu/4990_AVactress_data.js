@@ -38,7 +38,7 @@ window.actressData = {
         "さくら爱々",
         "篠原友里恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-130"
     }
   ]
 };

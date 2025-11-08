@@ -39,7 +39,7 @@ window.actressData = {
         "柳田実椰",
         "浜内礼依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-320"
     },
     {
       "id": 6662,
@@ -57,7 +57,7 @@ window.actressData = {
         "五関麻琴",
         "小野逸香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-308"
     }
   ]
 };

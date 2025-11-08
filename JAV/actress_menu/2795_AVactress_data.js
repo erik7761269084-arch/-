@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "渚向日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNNC-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNNC-028"
     },
     {
       "id": 88846,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "渚向日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TENN-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-011"
     },
     {
       "id": 90717,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "渚向日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMBI-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-168"
     },
     {
       "id": 84797,
@@ -118,7 +118,7 @@ window.actressData = {
         "朝阳えま",
         "椎木くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-276"
     },
     {
       "id": 80218,
@@ -135,7 +135,7 @@ window.actressData = {
         "有栖露露",
         "渚向日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-200"
     },
     {
       "id": 69859,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "渚向日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-219"
     },
     {
       "id": 75371,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "渚向日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-565"
     },
     {
       "id": 88161,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "渚向日葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-010"
     }
   ]
 };

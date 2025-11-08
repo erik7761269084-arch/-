@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "苍井れいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-568"
     },
     {
       "id": 85132,
@@ -49,7 +49,7 @@ window.actressData = {
         "栗原良",
         "苍井れいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-112"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "泉麻那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-162"
     },
     {
       "id": 68770,
@@ -71,7 +71,7 @@ window.actressData = {
         "泉麻那",
         "佐仓カオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-027"
     }
   ]
 };

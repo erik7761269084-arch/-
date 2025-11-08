@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "夕月悠琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-289"
     },
     {
       "id": 4523,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "夕月悠琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-245"
     },
     {
       "id": 5340,
@@ -89,7 +89,7 @@ window.actressData = {
         "夕月悠琉",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-205"
     }
   ]
 };

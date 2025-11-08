@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "真野夏树"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IWAN-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IWAN-004"
     },
     {
       "id": 77882,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "真野夏树"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAAD-34"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-34"
     }
   ]
 };

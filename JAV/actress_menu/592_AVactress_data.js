@@ -60,7 +60,7 @@ window.actressData = {
         "辻本杏",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-024"
     },
     {
       "id": 59943,
@@ -77,7 +77,7 @@ window.actressData = {
         "辻本杏",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEAM-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEAM-093"
     },
     {
       "id": 100739,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "辻本杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEAM-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEAM-063"
     },
     {
       "id": 106854,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "辻本杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEAM-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEAM-062"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "南佳也",
         "大友京香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNT-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-020"
     },
     {
       "id": 81957,
@@ -51,7 +51,7 @@ window.actressData = {
         "市川润",
         "大友京香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNT-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-018"
     }
   ]
 };

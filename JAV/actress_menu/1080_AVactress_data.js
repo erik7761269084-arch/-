@@ -48,7 +48,7 @@ window.actressData = {
         "筧梓",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-555"
     },
     {
       "id": 17234,
@@ -65,7 +65,7 @@ window.actressData = {
         "筧梓",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-535"
     },
     {
       "id": 17748,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "筧梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-528"
     }
   ]
 };

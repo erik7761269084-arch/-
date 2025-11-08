@@ -45,7 +45,7 @@ window.actressData = {
         "沖宮那美",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-475"
     },
     {
       "id": 4747,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-436"
     },
     {
       "id": 5201,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-348"
     },
     {
       "id": 5862,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-336"
     },
     {
       "id": 6751,
@@ -111,7 +111,7 @@ window.actressData = {
         "左慈半造",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-292"
     },
     {
       "id": 7406,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-250"
     },
     {
       "id": 8043,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-211"
     },
     {
       "id": 8858,
@@ -160,7 +160,7 @@ window.actressData = {
         "沖宮那美",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-165"
     },
     {
       "id": 9738,
@@ -180,7 +180,7 @@ window.actressData = {
         "ナイアガラ翔",
         "近江馨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-055"
     },
     {
       "id": 10416,
@@ -196,7 +196,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-960"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-960"
     },
     {
       "id": 15916,
@@ -213,7 +213,7 @@ window.actressData = {
         "沖宮那美",
         "夢乃屋毒花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-612"
     },
     {
       "id": 16101,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-578"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-578"
     },
     {
       "id": 16875,
@@ -246,7 +246,7 @@ window.actressData = {
         "愛弓涼",
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-532"
     },
     {
       "id": 17111,
@@ -262,7 +262,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-485"
     },
     {
       "id": 90986,
@@ -278,7 +278,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-443"
     },
     {
       "id": 18222,
@@ -294,7 +294,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-408"
     },
     {
       "id": 91665,
@@ -310,7 +310,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-378"
     },
     {
       "id": 91623,
@@ -326,7 +326,7 @@ window.actressData = {
       "actress": [
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-349"
     }
   ]
 };

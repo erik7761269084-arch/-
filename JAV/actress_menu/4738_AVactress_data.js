@@ -33,7 +33,7 @@ window.actressData = {
         "藤森朱音",
         "柏木あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-577"
     },
     {
       "id": 77618,
@@ -54,7 +54,7 @@ window.actressData = {
         "白桃はな",
         "柏木あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-653"
     },
     {
       "id": 86646,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "柏木あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANZD-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANZD-056"
     }
   ]
 };

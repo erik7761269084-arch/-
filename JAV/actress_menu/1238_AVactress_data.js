@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "望乃留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-669"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-669"
     },
     {
       "id": 4762,
@@ -75,7 +75,7 @@ window.actressData = {
         "望乃留衣",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-383"
     }
   ]
 };

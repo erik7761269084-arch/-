@@ -33,7 +33,7 @@ window.actressData = {
         "イセドン内村",
         "豊崎みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-256"
     },
     {
       "id": 88387,
@@ -50,7 +50,7 @@ window.actressData = {
         "しみけん",
         "豊崎みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-229"
     }
   ]
 };

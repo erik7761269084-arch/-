@@ -52,7 +52,7 @@ window.actressData = {
         "月宫ねね",
         "结白まさき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-180"
     },
     {
       "id": 87733,
@@ -73,7 +73,7 @@ window.actressData = {
         "中村知恵",
         "新谷美爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-433"
     },
     {
       "id": 91252,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "石川しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBZ-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-276"
     },
     {
       "id": 83038,
@@ -114,7 +114,7 @@ window.actressData = {
         "美月しのぶ",
         "七瀬ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MC-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MC-002"
     }
   ]
 };

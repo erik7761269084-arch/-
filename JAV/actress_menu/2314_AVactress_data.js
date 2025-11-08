@@ -57,7 +57,7 @@ window.actressData = {
         "朝野りる",
         "伊織さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-731"
     }
   ]
 };

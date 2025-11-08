@@ -34,7 +34,7 @@ window.actressData = {
         "マリモン",
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-251"
     },
     {
       "id": 89630,
@@ -51,7 +51,7 @@ window.actressData = {
         "ミチくん",
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-189"
     },
     {
       "id": 18504,
@@ -68,7 +68,7 @@ window.actressData = {
         "森下悠莉",
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-958"
     },
     {
       "id": 101341,
@@ -88,7 +88,7 @@ window.actressData = {
         "鈴木真夕",
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-014"
     },
     {
       "id": 86365,
@@ -105,7 +105,7 @@ window.actressData = {
         "有栖花绯",
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-547"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-547"
     },
     {
       "id": 86445,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-704"
     }
   ]
 };

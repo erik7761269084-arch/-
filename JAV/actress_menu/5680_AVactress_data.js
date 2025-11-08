@@ -47,7 +47,7 @@ window.actressData = {
         "NAOMI",
         "天音ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-242"
     },
     {
       "id": 107748,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "天音ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOT-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOT-176"
     }
   ]
 };

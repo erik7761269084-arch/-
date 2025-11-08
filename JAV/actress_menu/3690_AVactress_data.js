@@ -33,7 +33,7 @@ window.actressData = {
         "まーち",
         "あすお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-475"
     },
     {
       "id": 89570,
@@ -50,7 +50,7 @@ window.actressData = {
         "まーち",
         "あすお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-476"
     },
     {
       "id": 90764,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "あすお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-670"
     },
     {
       "id": 92975,
@@ -83,7 +83,7 @@ window.actressData = {
         "あすお",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-654"
     },
     {
       "id": 92973,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "あすお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-656"
     },
     {
       "id": 68672,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "あすお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-642"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-642"
     },
     {
       "id": 67813,
@@ -132,7 +132,7 @@ window.actressData = {
         "あすお",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-629"
     },
     {
       "id": 67055,
@@ -149,7 +149,7 @@ window.actressData = {
         "浜崎真绪",
         "あすお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-500"
     },
     {
       "id": 84620,
@@ -166,7 +166,7 @@ window.actressData = {
         "真木今日子",
         "あすお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-457"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-457"
     },
     {
       "id": 17701,
@@ -183,7 +183,7 @@ window.actressData = {
         "天海翼",
         "あすお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-935"
     }
   ]
 };

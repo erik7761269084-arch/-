@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "楓優香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-66"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-66"
     },
     {
       "id": 1723,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "楓優香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-143"
     }
   ]
 };

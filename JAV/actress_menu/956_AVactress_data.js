@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "栗山さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1296"
     },
     {
       "id": 7289,
@@ -63,7 +63,7 @@ window.actressData = {
         "栗山さつき",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-441"
     },
     {
       "id": 8009,
@@ -80,7 +80,7 @@ window.actressData = {
         "栗山さつき",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-431"
     },
     {
       "id": 8724,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "栗山さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-131"
     }
   ]
 };

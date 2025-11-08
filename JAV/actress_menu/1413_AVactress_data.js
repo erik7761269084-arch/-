@@ -59,7 +59,7 @@ window.actressData = {
         "みずき伊织",
         "今野梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-037"
     },
     {
       "id": 2034,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "大冢咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-03"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-03"
     },
     {
       "id": 1999,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "大冢咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-05"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-05"
     }
   ]
 };

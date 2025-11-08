@@ -45,7 +45,7 @@ window.actressData = {
         "瀬戸すみれ",
         "美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-369"
     },
     {
       "id": 79166,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1484"
     }
   ]
 };

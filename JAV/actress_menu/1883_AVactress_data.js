@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "木下柚花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-247"
     },
     {
       "id": 1648,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "木下柚花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-230"
     }
   ]
 };

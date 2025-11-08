@@ -35,7 +35,7 @@ window.actressData = {
         "沢井亮",
         "黒澤透"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-356"
     }
   ]
 };

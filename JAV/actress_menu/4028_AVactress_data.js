@@ -37,7 +37,7 @@ window.actressData = {
         "千歳小梅",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-175"
     },
     {
       "id": 94204,
@@ -57,7 +57,7 @@ window.actressData = {
         "向理来",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-164"
     },
     {
       "id": 81099,
@@ -74,7 +74,7 @@ window.actressData = {
         "斎藤まりな",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-225"
     },
     {
       "id": 80785,
@@ -93,7 +93,7 @@ window.actressData = {
         "弥生美月",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-799"
     },
     {
       "id": 84840,
@@ -111,7 +111,7 @@ window.actressData = {
         "白鸟すわん",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-172"
     },
     {
       "id": 80359,
@@ -129,7 +129,7 @@ window.actressData = {
         "赤城穂波",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-815"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-815"
     },
     {
       "id": 70419,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-040"
     },
     {
       "id": 81345,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLOT-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLOT-012"
     },
     {
       "id": 81983,
@@ -178,7 +178,7 @@ window.actressData = {
         "山本莲加",
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-087"
     },
     {
       "id": 77768,
@@ -197,7 +197,7 @@ window.actressData = {
         "山本莲加",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-522"
     },
     {
       "id": 75207,
@@ -218,7 +218,7 @@ window.actressData = {
         "星岛るり",
         "林爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
     },
     {
       "id": 83402,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1237"
     },
     {
       "id": 72066,
@@ -255,7 +255,7 @@ window.actressData = {
         "御坂莉亚",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-389"
     }
   ]
 };

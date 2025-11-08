@@ -34,7 +34,7 @@ window.actressData = {
         "并木杏梨",
         "丸山れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-476"
     },
     {
       "id": 81646,
@@ -57,7 +57,7 @@ window.actressData = {
         "森本つぐみ",
         "丸山れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-051"
     },
     {
       "id": 83628,
@@ -80,7 +80,7 @@ window.actressData = {
         "石川祐奈",
         "丸山れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-075"
     },
     {
       "id": 83636,
@@ -103,7 +103,7 @@ window.actressData = {
         "ERIKA（モカ、MOKA）",
         "ARIA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-250"
     }
   ]
 };

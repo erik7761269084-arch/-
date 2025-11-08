@@ -62,7 +62,7 @@ window.actressData = {
         "流川はる香",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-723"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-723"
     },
     {
       "id": 3157,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-121"
     },
     {
       "id": 3969,
@@ -95,7 +95,7 @@ window.actressData = {
         "流川はる香",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-710"
     },
     {
       "id": 5161,
@@ -112,7 +112,7 @@ window.actressData = {
         "流川はる香",
         "ラリアット黒川"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-347"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-347"
     },
     {
       "id": 6738,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-290"
     },
     {
       "id": 7399,
@@ -145,7 +145,7 @@ window.actressData = {
         "流川はる香",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-269"
     },
     {
       "id": 8102,
@@ -162,7 +162,7 @@ window.actressData = {
         "流川はる香",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-196"
     },
     {
       "id": 8778,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-133"
     },
     {
       "id": 91842,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-615"
     },
     {
       "id": 16098,
@@ -211,7 +211,7 @@ window.actressData = {
         "流川はる香",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-584"
     },
     {
       "id": 16668,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-508"
     },
     {
       "id": 90959,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-481"
     },
     {
       "id": 90971,
@@ -260,7 +260,7 @@ window.actressData = {
         "流川はる香",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-428"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-428"
     },
     {
       "id": 91687,
@@ -277,7 +277,7 @@ window.actressData = {
         "流川はる香",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-027"
     },
     {
       "id": 18593,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-381"
     },
     {
       "id": 91006,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-350"
     },
     {
       "id": 91008,
@@ -325,7 +325,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-329"
     },
     {
       "id": 87154,
@@ -341,7 +341,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-287"
     },
     {
       "id": 90947,
@@ -357,7 +357,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-252"
     },
     {
       "id": 77597,
@@ -374,7 +374,7 @@ window.actressData = {
         "流川はる香",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-229"
     },
     {
       "id": 100599,
@@ -390,7 +390,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-203"
     },
     {
       "id": 69109,
@@ -406,7 +406,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-147"
     },
     {
       "id": 67884,
@@ -422,7 +422,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-122"
     },
     {
       "id": 73936,
@@ -438,7 +438,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-092"
     },
     {
       "id": 87011,
@@ -454,7 +454,7 @@ window.actressData = {
       "actress": [
         "流川はる香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-062"
     }
   ]
 };

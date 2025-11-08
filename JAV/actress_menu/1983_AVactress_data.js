@@ -75,7 +75,7 @@ window.actressData = {
         "永濑唯",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-341"
     },
     {
       "id": 12421,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "白濱南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQDE-005"
     },
     {
       "id": 89915,
@@ -110,7 +110,7 @@ window.actressData = {
         "森咲はるの",
         "白濱南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-707"
     },
     {
       "id": 88761,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "白濱南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-308"
     }
   ]
 };

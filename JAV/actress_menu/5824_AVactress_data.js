@@ -36,7 +36,7 @@ window.actressData = {
         "枫ゆかり",
         "川口叶纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-178"
     },
     {
       "id": 98461,
@@ -55,7 +55,7 @@ window.actressData = {
         "苑田あゆり",
         "川口叶纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GETS-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-078"
     }
   ]
 };

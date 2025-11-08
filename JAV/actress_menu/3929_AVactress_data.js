@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "鍋野つみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-105"
     }
   ]
 };

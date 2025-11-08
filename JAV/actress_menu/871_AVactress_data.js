@@ -65,7 +65,7 @@ window.actressData = {
         "福原なつ乃",
         "鳴海まりる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-231"
     },
     {
       "id": 5775,
@@ -86,7 +86,7 @@ window.actressData = {
         "石川陽波",
         "山口由愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-752"
     },
     {
       "id": 8661,
@@ -112,7 +112,7 @@ window.actressData = {
         "冬爱琴音",
         "江戸川もなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-173"
     },
     {
       "id": 8596,
@@ -140,7 +140,7 @@ window.actressData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-799"
     },
     {
       "id": 13132,
@@ -160,7 +160,7 @@ window.actressData = {
         "椎叶みくる",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-730"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "綾瀬もか",
         "南日奈乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=T-38031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T-38031"
     }
   ]
 };

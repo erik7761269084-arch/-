@@ -42,7 +42,7 @@ window.actressData = {
         "安倍亜沙美",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-505"
     },
     {
       "id": 83769,
@@ -62,7 +62,7 @@ window.actressData = {
         "野崎ありす",
         "音羽ななみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-120"
     },
     {
       "id": 83628,
@@ -85,7 +85,7 @@ window.actressData = {
         "石川祐奈",
         "丸山れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-075"
     },
     {
       "id": 77278,
@@ -104,7 +104,7 @@ window.actressData = {
         "小田切ありさ",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-048"
     },
     {
       "id": 74464,
@@ -122,7 +122,7 @@ window.actressData = {
         "桥本丽华",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-238"
     },
     {
       "id": 85732,
@@ -142,7 +142,7 @@ window.actressData = {
         "夏树カオル",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-030"
     },
     {
       "id": 77717,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-217"
     },
     {
       "id": 74616,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1085"
     },
     {
       "id": 70256,
@@ -198,7 +198,7 @@ window.actressData = {
         "凉海みさ",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-908"
     },
     {
       "id": 77639,
@@ -217,7 +217,7 @@ window.actressData = {
         "石川祐奈",
         "有马かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-419"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "心音にこ",
         "春风コウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-047"
     },
     {
       "id": 78778,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "春风コウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POKQ-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POKQ-005"
     }
   ]
 };

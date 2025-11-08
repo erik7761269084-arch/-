@@ -44,11 +44,11 @@ window.actressData = {
       "type": "有码",
       "company": "KAWAII",
       "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031330724724_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031330724724_s.webp",
       "actress": [
         "桃美久"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-858"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-858"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "浅田结梨",
         "枫ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-181"
     },
     {
       "id": 93206,
@@ -53,7 +53,7 @@ window.actressData = {
         "枫ゆかり",
         "川口叶纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-178"
     }
   ]
 };

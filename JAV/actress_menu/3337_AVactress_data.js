@@ -34,7 +34,7 @@ window.actressData = {
         "ネリー・キャン",
         "キャシー・ヘブン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZOOO-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOOO-197"
     },
     {
       "id": 81605,
@@ -54,7 +54,7 @@ window.actressData = {
         "シエナ・デイ",
         "アニッサ・ジョイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUSR-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUSR-206"
     },
     {
       "id": 83544,
@@ -77,7 +77,7 @@ window.actressData = {
         "ヴィクトリア・ドルチェ",
         "アイダ・スインガー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUSR-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUSR-201"
     }
   ]
 };

@@ -52,7 +52,7 @@ window.actressData = {
         "玉木玲",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-233"
     },
     {
       "id": 19233,
@@ -70,7 +70,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-212"
     },
     {
       "id": 19260,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "七実りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-187"
     }
   ]
 };

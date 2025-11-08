@@ -35,7 +35,7 @@ window.actressData = {
         "春风光",
         "七槻りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-510"
     }
   ]
 };

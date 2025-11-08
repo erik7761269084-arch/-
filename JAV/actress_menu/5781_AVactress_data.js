@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桐夜ゆうは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-425"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-425"
     },
     {
       "id": 92287,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "桐夜ゆうは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-393"
     },
     {
       "id": 92298,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "桐夜ゆうは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-367"
     }
   ]
 };

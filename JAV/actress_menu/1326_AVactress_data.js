@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "美神彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-64"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-64"
     }
   ]
 };

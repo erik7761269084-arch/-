@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "水無瀬りり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-105"
     },
     {
       "id": 106817,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "水無瀬りり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-090"
     }
   ]
 };

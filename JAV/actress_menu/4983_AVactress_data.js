@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "松尾江里子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKZ-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKZ-010"
     },
     {
       "id": 81487,
@@ -52,7 +52,7 @@ window.actressData = {
         "今井由亞",
         "松尾江里子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-478"
     },
     {
       "id": 82463,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "松尾江里子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-108"
     },
     {
       "id": 88374,
@@ -85,7 +85,7 @@ window.actressData = {
         "しみけん",
         "松尾江里子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-729"
     }
   ]
 };

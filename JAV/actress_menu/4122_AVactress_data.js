@@ -41,7 +41,7 @@ window.actressData = {
         "三岛奈津子",
         "泉ののか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-590"
     }
   ]
 };

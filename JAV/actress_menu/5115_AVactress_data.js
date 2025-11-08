@@ -37,7 +37,7 @@ window.actressData = {
         "吉田枫",
         "铃木理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-223"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "叶月奈穂",
         "SHIHO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YLW-4104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YLW-4104"
     }
   ]
 };

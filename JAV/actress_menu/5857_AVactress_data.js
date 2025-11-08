@@ -33,7 +33,7 @@ window.actressData = {
         "タイ",
         "藤澤ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-305"
     }
   ]
 };

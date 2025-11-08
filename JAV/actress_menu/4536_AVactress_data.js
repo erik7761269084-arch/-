@@ -33,7 +33,7 @@ window.actressData = {
         "河合阳菜",
         "白宮れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-232"
     }
   ]
 };

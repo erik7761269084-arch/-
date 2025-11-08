@@ -59,7 +59,7 @@ window.actressData = {
         "ひょこり",
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-486"
     },
     {
       "id": 67189,
@@ -76,7 +76,7 @@ window.actressData = {
         "池谷佳純",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-116"
     }
   ]
 };

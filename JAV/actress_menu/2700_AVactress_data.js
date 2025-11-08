@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "山下佳恋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-071"
     },
     {
       "id": 91879,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "山下佳恋"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-222"
     }
   ]
 };

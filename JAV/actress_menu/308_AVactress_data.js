@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "鳳可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-394"
     },
     {
       "id": 6197,
@@ -65,7 +65,7 @@ window.actressData = {
         "鳳可怜",
         "泉あや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAKO-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAKO-090"
     },
     {
       "id": 6408,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "鳳可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-365"
     },
     {
       "id": 6440,
@@ -109,7 +109,7 @@ window.actressData = {
         "鳳可怜",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-332"
     },
     {
       "id": 73086,
@@ -127,7 +127,7 @@ window.actressData = {
         "鳳可怜",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-639"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-639"
     },
     {
       "id": 9422,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "鳳可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-121"
     },
     {
       "id": 12720,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "鳳可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-011"
     },
     {
       "id": 13736,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "鳳可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGKX-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKX-037"
     }
   ]
 };

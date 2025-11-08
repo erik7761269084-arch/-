@@ -70,7 +70,7 @@ window.actressData = {
         "藤咲サラ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-733"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-733"
     },
     {
       "id": 77231,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "藤咲サラ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-021"
     },
     {
       "id": 91269,
@@ -103,7 +103,7 @@ window.actressData = {
         "藤咲サラ",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-667"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-667"
     }
   ]
 };

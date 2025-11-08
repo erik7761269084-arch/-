@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "叶ユリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-440"
     },
     {
       "id": 67563,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "叶ユリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-743"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-743"
     },
     {
       "id": 82540,
@@ -66,7 +66,7 @@ window.actressData = {
         "玉木玲",
         "叶ユリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-742"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-742"
     },
     {
       "id": 82508,
@@ -83,7 +83,7 @@ window.actressData = {
         "小田切ジュン",
         "叶ユリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-736"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-736"
     }
   ]
 };

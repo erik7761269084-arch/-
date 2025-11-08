@@ -64,7 +64,7 @@ window.actressData = {
         "一之瀨綾乃",
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-242"
     },
     {
       "id": 90762,
@@ -81,7 +81,7 @@ window.actressData = {
         "一之瀨綾乃",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-701"
     }
   ]
 };

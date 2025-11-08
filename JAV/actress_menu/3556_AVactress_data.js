@@ -41,7 +41,7 @@ window.actressData = {
         "白河里奈",
         "滝川かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JHEM-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JHEM-032"
     }
   ]
 };

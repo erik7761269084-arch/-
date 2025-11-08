@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "雙葉麗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKY-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKY-017"
     },
     {
       "id": 4398,
@@ -70,7 +70,7 @@ window.actressData = {
         "水乃菜乃華",
         "雙葉麗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-755"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-755"
     },
     {
       "id": 4477,
@@ -88,7 +88,7 @@ window.actressData = {
         "雙葉麗奈",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-541"
     },
     {
       "id": 4043,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "雙葉麗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-377"
     },
     {
       "id": 5648,
@@ -126,7 +126,7 @@ window.actressData = {
         "雙葉麗奈",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
     },
     {
       "id": 63989,
@@ -148,7 +148,7 @@ window.actressData = {
         "仓木诗织",
         "小鸟游りか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-104"
     },
     {
       "id": 7383,
@@ -165,7 +165,7 @@ window.actressData = {
         "雙葉麗奈",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-610"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-610"
     }
   ]
 };

@@ -42,7 +42,7 @@ window.actressData = {
         "岬澪",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-822"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-822"
     },
     {
       "id": 77377,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-266"
     },
     {
       "id": 73939,
@@ -75,7 +75,7 @@ window.actressData = {
         "仓木诗织",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-439"
     },
     {
       "id": 77755,
@@ -94,7 +94,7 @@ window.actressData = {
         "愛名光莉",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-953"
     },
     {
       "id": 98461,
@@ -113,7 +113,7 @@ window.actressData = {
         "苑田あゆり",
         "川口叶纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GETS-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-078"
     },
     {
       "id": 87594,
@@ -132,7 +132,7 @@ window.actressData = {
         "美咲まや",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-134"
     },
     {
       "id": 73111,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-933"
     }
   ]
 };

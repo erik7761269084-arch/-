@@ -34,7 +34,7 @@ window.actressData = {
         "高坂あいり",
         "叶野ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-108"
     }
   ]
 };

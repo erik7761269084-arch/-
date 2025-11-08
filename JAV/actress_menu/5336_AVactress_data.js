@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "星宮こと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEND-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-006"
     },
     {
       "id": 85545,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "星宮こと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-069"
     },
     {
       "id": 92380,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "星宮こと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-058"
     },
     {
       "id": 85596,
@@ -81,7 +81,7 @@ window.actressData = {
         "森林原人",
         "星宮こと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-055"
     }
   ]
 };

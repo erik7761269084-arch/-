@@ -40,7 +40,7 @@ window.actressData = {
         "饭山香织",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-418"
     },
     {
       "id": 2980,
@@ -66,7 +66,7 @@ window.actressData = {
         "舞原圣",
         "新井爱丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-323"
     },
     {
       "id": 66312,
@@ -89,7 +89,7 @@ window.actressData = {
         "儿玉玲奈",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-963"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-963"
     },
     {
       "id": 68362,
@@ -107,7 +107,7 @@ window.actressData = {
         "浜崎真绪",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-594"
     },
     {
       "id": 17570,
@@ -125,7 +125,7 @@ window.actressData = {
         "タイ",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-245"
     },
     {
       "id": 89764,
@@ -146,7 +146,7 @@ window.actressData = {
         "心菜りお",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-210"
     },
     {
       "id": 90367,
@@ -170,7 +170,7 @@ window.actressData = {
         "新井爱丽",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PBD-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-451"
     },
     {
       "id": 16044,
@@ -187,7 +187,7 @@ window.actressData = {
         "聖妃羽里",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-216"
     },
     {
       "id": 85145,
@@ -204,7 +204,7 @@ window.actressData = {
         "小田切ジュン",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-086"
     },
     {
       "id": 85057,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-058"
     },
     {
       "id": 86552,
@@ -238,7 +238,7 @@ window.actressData = {
         "舞原圣",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-835"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-835"
     },
     {
       "id": 87965,
@@ -256,7 +256,7 @@ window.actressData = {
         "舞原圣",
         "ひなた唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCP-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCP-099"
     },
     {
       "id": 84924,
@@ -272,7 +272,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-956"
     },
     {
       "id": 84918,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-922"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-922"
     },
     {
       "id": 84962,
@@ -304,7 +304,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-892"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-892"
     },
     {
       "id": 80683,
@@ -320,7 +320,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-857"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-857"
     },
     {
       "id": 80435,
@@ -336,7 +336,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-790"
     },
     {
       "id": 79808,
@@ -352,7 +352,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-465"
     },
     {
       "id": 79443,
@@ -370,7 +370,7 @@ window.actressData = {
         "黑川纱里奈",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-581"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-581"
     },
     {
       "id": 79825,
@@ -388,7 +388,7 @@ window.actressData = {
         "若宫はずき",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-165"
     },
     {
       "id": 67739,
@@ -404,7 +404,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKW-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-068"
     },
     {
       "id": 72742,
@@ -420,7 +420,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-993"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-993"
     },
     {
       "id": 70295,
@@ -436,7 +436,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-915"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-915"
     },
     {
       "id": 107351,
@@ -452,7 +452,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-226"
     },
     {
       "id": 74243,
@@ -468,7 +468,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-159"
     },
     {
       "id": 76374,
@@ -485,7 +485,7 @@ window.actressData = {
         "イセドン内村",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-101"
     },
     {
       "id": 75736,
@@ -501,7 +501,7 @@ window.actressData = {
       "actress": [
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-026"
     }
   ]
 };

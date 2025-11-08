@@ -48,7 +48,7 @@ window.actressData = {
         "トイボーイ相沢",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNTRZ-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-021"
     },
     {
       "id": 3316,
@@ -67,7 +67,7 @@ window.actressData = {
         "廣瀬好美",
         "白石環奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-353"
     },
     {
       "id": 4674,
@@ -86,7 +86,7 @@ window.actressData = {
         "沙月惠奈",
         "上坂芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-241"
     },
     {
       "id": 4594,
@@ -106,7 +106,7 @@ window.actressData = {
         "沙優七羽",
         "彩葉ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-376"
     },
     {
       "id": 6609,
@@ -130,7 +130,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-098"
     },
     {
       "id": 7177,
@@ -149,7 +149,7 @@ window.actressData = {
         "上坂芽衣",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-417"
     },
     {
       "id": 8770,
@@ -171,7 +171,7 @@ window.actressData = {
         "咲野瑞希",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-312"
     },
     {
       "id": 9051,
@@ -190,7 +190,7 @@ window.actressData = {
         "上坂芽衣",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-674"
     },
     {
       "id": 13300,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "上坂芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSMT-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSMT-009"
     }
   ]
 };

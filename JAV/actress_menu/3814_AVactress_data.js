@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSSTH-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSSTH-038"
     },
     {
       "id": 83476,
@@ -55,7 +55,7 @@ window.actressData = {
         "纱东みお",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-413"
     },
     {
       "id": 78471,
@@ -78,7 +78,7 @@ window.actressData = {
         "瀬戸すみれ",
         "美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-369"
     },
     {
       "id": 68414,
@@ -101,7 +101,7 @@ window.actressData = {
         "水无瀬优夏",
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSP-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-169"
     },
     {
       "id": 71479,
@@ -120,7 +120,7 @@ window.actressData = {
         "二阶堂ゆり",
         "相泽ゆりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-292"
     },
     {
       "id": 71426,
@@ -139,7 +139,7 @@ window.actressData = {
         "二阶堂ゆり",
         "月本爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-095"
     },
     {
       "id": 70775,
@@ -157,7 +157,7 @@ window.actressData = {
         "二阶堂ゆり",
         "水谷あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-529"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-529"
     },
     {
       "id": 76867,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RADD-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RADD-009"
     },
     {
       "id": 79682,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-053"
     },
     {
       "id": 79680,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-033"
     }
   ]
 };

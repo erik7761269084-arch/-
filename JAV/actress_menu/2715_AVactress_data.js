@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "乃々果花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-080"
     },
     {
       "id": 105608,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "乃々果花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-982"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-982"
     },
     {
       "id": 105746,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "乃々果花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-970"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-970"
     },
     {
       "id": 105036,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "乃々果花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-857"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-857"
     },
     {
       "id": 1566,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "乃々果花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-829"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-829"
     }
   ]
 };

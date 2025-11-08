@@ -47,7 +47,7 @@ window.actressData = {
         "千川とわ",
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCD-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCD-022"
     },
     {
       "id": 66538,
@@ -64,7 +64,7 @@ window.actressData = {
         "美澄玲衣",
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAGR-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-062"
     },
     {
       "id": 63951,
@@ -87,7 +87,7 @@ window.actressData = {
         "天沢りん",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-103"
     },
     {
       "id": 72529,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMH-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-024"
     },
     {
       "id": 9871,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-293"
     },
     {
       "id": 9993,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-306"
     },
     {
       "id": 10182,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-887"
     },
     {
       "id": 10620,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "天沢りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-361"
     }
   ]
 };

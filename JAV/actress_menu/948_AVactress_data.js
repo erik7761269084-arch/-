@@ -56,7 +56,7 @@ window.actressData = {
         "有棲奏羽",
         "橘知花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-339"
     },
     {
       "id": 94691,
@@ -74,7 +74,7 @@ window.actressData = {
         "橘知花",
         "朝野りる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-134"
     },
     {
       "id": 17182,
@@ -100,7 +100,7 @@ window.actressData = {
         "黒木逢夢",
         "有坂唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-712"
     },
     {
       "id": 18448,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "橘知花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-087"
     },
     {
       "id": 100713,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "橘知花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-080"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "櫻井ふみ奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-138"
     }
   ]
 };

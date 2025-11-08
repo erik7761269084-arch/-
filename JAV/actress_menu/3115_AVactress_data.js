@@ -34,7 +34,7 @@ window.actressData = {
         "西村有纱",
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-727"
     },
     {
       "id": 75389,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "西村有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-083"
     },
     {
       "id": 70823,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "西村有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-214"
     },
     {
       "id": 70772,
@@ -85,7 +85,7 @@ window.actressData = {
         "イセドン内村",
         "西村有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-213"
     },
     {
       "id": 59876,
@@ -108,7 +108,7 @@ window.actressData = {
         "远田恵未",
         "白鸟るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5225"
     }
   ]
 };

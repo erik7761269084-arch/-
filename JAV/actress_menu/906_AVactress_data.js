@@ -45,7 +45,7 @@ window.actressData = {
         "夢川りあ",
         "斉藤月乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-252"
     },
     {
       "id": 8073,
@@ -64,7 +64,7 @@ window.actressData = {
         "五十嵐美月",
         "夢川りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-201"
     },
     {
       "id": 7951,
@@ -84,7 +84,7 @@ window.actressData = {
         "広瀬みつき",
         "夢川りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-214"
     },
     {
       "id": 17872,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "夢川りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-325"
     },
     {
       "id": 106517,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "夢川りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-092"
     }
   ]
 };

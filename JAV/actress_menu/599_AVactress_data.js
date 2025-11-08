@@ -46,7 +46,7 @@ window.actressData = {
         "若宮穂乃",
         "今井惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCO-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCO-010"
     },
     {
       "id": 7948,
@@ -66,7 +66,7 @@ window.actressData = {
         "葵美玲",
         "川栄結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-219"
     },
     {
       "id": 14583,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "今井惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-806"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-806"
     }
   ]
 };

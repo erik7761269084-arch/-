@@ -71,7 +71,7 @@ window.actressData = {
         "小野夕子",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-385"
     },
     {
       "id": 9640,
@@ -88,7 +88,7 @@ window.actressData = {
         "小野夕子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-375"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-375"
     },
     {
       "id": 10385,
@@ -105,7 +105,7 @@ window.actressData = {
         "小野夕子",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-368"
     },
     {
       "id": 10998,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-355"
     },
     {
       "id": 11603,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-346"
     },
     {
       "id": 12423,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-333"
     },
     {
       "id": 13103,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-317"
     },
     {
       "id": 14401,
@@ -185,7 +185,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-313"
     },
     {
       "id": 15152,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-311"
     },
     {
       "id": 17558,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-693"
     },
     {
       "id": 18150,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-673"
     },
     {
       "id": 16563,
@@ -249,7 +249,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-660"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-660"
     },
     {
       "id": 18926,
@@ -265,7 +265,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-648"
     },
     {
       "id": 16514,
@@ -281,7 +281,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-636"
     },
     {
       "id": 15647,
@@ -298,7 +298,7 @@ window.actressData = {
         "小野夕子",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-624"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-624"
     },
     {
       "id": 107507,
@@ -314,7 +314,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-612"
     },
     {
       "id": 100478,
@@ -330,7 +330,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-573"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-573"
     },
     {
       "id": 66804,
@@ -346,7 +346,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-560"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-560"
     },
     {
       "id": 66946,
@@ -362,7 +362,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-548"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-548"
     },
     {
       "id": 100567,
@@ -378,7 +378,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-530"
     },
     {
       "id": 67566,
@@ -394,7 +394,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-513"
     },
     {
       "id": 73599,
@@ -410,7 +410,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-483"
     },
     {
       "id": 66798,
@@ -426,7 +426,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-468"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-468"
     },
     {
       "id": 83910,
@@ -442,7 +442,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-452"
     },
     {
       "id": 83955,
@@ -458,7 +458,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-435"
     },
     {
       "id": 83934,
@@ -474,7 +474,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-419"
     },
     {
       "id": 83945,
@@ -490,7 +490,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-391"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-391"
     },
     {
       "id": 80198,
@@ -507,7 +507,7 @@ window.actressData = {
         "小野夕子",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-363"
     },
     {
       "id": 83960,
@@ -523,7 +523,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-349"
     },
     {
       "id": 107292,
@@ -539,7 +539,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-333"
     },
     {
       "id": 84405,
@@ -555,7 +555,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-318"
     },
     {
       "id": 79709,
@@ -571,7 +571,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-272"
     },
     {
       "id": 88170,
@@ -587,7 +587,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-254"
     },
     {
       "id": 82432,
@@ -603,7 +603,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-037"
     },
     {
       "id": 107552,
@@ -619,7 +619,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-027"
     },
     {
       "id": 81558,
@@ -635,7 +635,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-019"
     },
     {
       "id": 88173,
@@ -658,7 +658,7 @@ window.actressData = {
         "彩美旬果",
         "安斋拉拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-231"
     },
     {
       "id": 71732,
@@ -675,7 +675,7 @@ window.actressData = {
         "小野夕子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-007"
     },
     {
       "id": 19555,
@@ -691,7 +691,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ssni-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ssni-485"
     },
     {
       "id": 19571,
@@ -707,7 +707,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-424"
     },
     {
       "id": 11759,
@@ -724,7 +724,7 @@ window.actressData = {
         "小野夕子",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-382"
     },
     {
       "id": 13122,
@@ -740,7 +740,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-338"
     },
     {
       "id": 13120,
@@ -760,7 +760,7 @@ window.actressData = {
         "星野娜美",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-333"
     },
     {
       "id": 15119,
@@ -776,7 +776,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-221"
     },
     {
       "id": 71329,
@@ -794,7 +794,7 @@ window.actressData = {
         "森林原人",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-953"
     },
     {
       "id": 106349,
@@ -810,7 +810,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-865"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-865"
     },
     {
       "id": 106378,
@@ -828,7 +828,7 @@ window.actressData = {
         "鲛岛",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-815"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-815"
     },
     {
       "id": 88499,
@@ -845,7 +845,7 @@ window.actressData = {
         "小野夕子",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-767"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-767"
     },
     {
       "id": 107003,
@@ -861,7 +861,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-707"
     },
     {
       "id": 105868,
@@ -877,7 +877,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-688"
     },
     {
       "id": 106861,
@@ -893,7 +893,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-599"
     },
     {
       "id": 105067,
@@ -910,7 +910,7 @@ window.actressData = {
         "小野夕子",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-580"
     },
     {
       "id": 107117,
@@ -926,7 +926,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-511"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-511"
     },
     {
       "id": 104180,
@@ -943,7 +943,7 @@ window.actressData = {
         "小野夕子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-488"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-488"
     },
     {
       "id": 87995,
@@ -965,7 +965,7 @@ window.actressData = {
         "星野娜美",
         "美里有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-127"
     },
     {
       "id": 107179,
@@ -981,7 +981,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-354"
     },
     {
       "id": 19532,
@@ -997,7 +997,7 @@ window.actressData = {
       "actress": [
         "小野夕子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-333"
     }
   ]
 };

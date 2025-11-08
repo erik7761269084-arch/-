@@ -36,7 +36,7 @@ window.actressData = {
         "南野ゆきな",
         "平原みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAMA-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-662"
     }
   ]
 };

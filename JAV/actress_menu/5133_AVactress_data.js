@@ -41,7 +41,7 @@ window.actressData = {
         "管野静香",
         "桃瀬るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-834"
     }
   ]
 };

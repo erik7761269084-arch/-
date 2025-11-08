@@ -33,7 +33,7 @@ window.actressData = {
         "市川润",
         "高坂亜由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1264"
     }
   ]
 };

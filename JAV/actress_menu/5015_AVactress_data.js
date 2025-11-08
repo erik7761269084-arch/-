@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "五十岚ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-218"
     },
     {
       "id": 81764,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "五十岚ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-200"
     },
     {
       "id": 81805,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "五十岚ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-179"
     },
     {
       "id": 81465,
@@ -82,7 +82,7 @@ window.actressData = {
         "平冈里枝子",
         "五十岚ゆめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=C-2524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2524"
     }
   ]
 };

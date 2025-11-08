@@ -57,7 +57,7 @@ window.actressData = {
         "斉藤月乃",
         "まなみ静奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-682"
     },
     {
       "id": 7908,
@@ -78,7 +78,7 @@ window.actressData = {
         "夢川りあ",
         "斉藤月乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-252"
     },
     {
       "id": 72309,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "斉藤月乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25191"
     },
     {
       "id": 10513,
@@ -116,7 +116,7 @@ window.actressData = {
         "津久井和紗",
         "松田捺羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-218"
     }
   ]
 };

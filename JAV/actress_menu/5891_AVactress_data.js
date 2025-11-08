@@ -33,7 +33,7 @@ window.actressData = {
         "天海しおり",
         "今泉花菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-010"
     }
   ]
 };

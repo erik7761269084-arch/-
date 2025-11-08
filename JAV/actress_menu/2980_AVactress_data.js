@@ -33,7 +33,7 @@ window.actressData = {
         "流川夕",
         "吉村卓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-059"
     },
     {
       "id": 18038,
@@ -51,7 +51,7 @@ window.actressData = {
         "吉村卓",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-495"
     },
     {
       "id": 18676,
@@ -69,7 +69,7 @@ window.actressData = {
         "吉村卓",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-651"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-651"
     },
     {
       "id": 19388,
@@ -86,7 +86,7 @@ window.actressData = {
         "明里紬",
         "吉村卓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-053"
     },
     {
       "id": 19428,
@@ -103,7 +103,7 @@ window.actressData = {
         "明里紬",
         "吉村卓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-004"
     }
   ]
 };

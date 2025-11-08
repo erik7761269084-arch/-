@@ -52,7 +52,7 @@ window.actressData = {
         "五日市芽依",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-764"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-764"
     },
     {
       "id": 3144,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-557"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-557"
     },
     {
       "id": 3124,
@@ -113,7 +113,7 @@ window.actressData = {
         "永濑唯",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-341"
     },
     {
       "id": 3399,
@@ -130,7 +130,7 @@ window.actressData = {
         "五日市芽依",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-722"
     },
     {
       "id": 3709,
@@ -171,7 +171,7 @@ window.actressData = {
         "牧村柚希",
         "东条苍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-253"
     },
     {
       "id": 4302,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-688"
     },
     {
       "id": 4487,
@@ -203,7 +203,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-712"
     },
     {
       "id": 4964,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-539"
     },
     {
       "id": 5156,
@@ -236,7 +236,7 @@ window.actressData = {
         "五日市芽依",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-655"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-655"
     },
     {
       "id": 5316,
@@ -253,7 +253,7 @@ window.actressData = {
         "五日市芽依",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-699"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-699"
     },
     {
       "id": 5702,
@@ -270,7 +270,7 @@ window.actressData = {
         "五日市芽依",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-528"
     },
     {
       "id": 5894,
@@ -287,7 +287,7 @@ window.actressData = {
         "五日市芽依",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-648"
     },
     {
       "id": 6452,
@@ -323,7 +323,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-333"
     },
     {
       "id": 6769,
@@ -339,7 +339,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-631"
     },
     {
       "id": 6870,
@@ -355,7 +355,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-688"
     },
     {
       "id": 7368,
@@ -371,7 +371,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-604"
     },
     {
       "id": 7534,
@@ -391,7 +391,7 @@ window.actressData = {
         "ナイアガラ翔",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-678"
     },
     {
       "id": 8044,
@@ -407,7 +407,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-578"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-578"
     },
     {
       "id": 8214,
@@ -423,7 +423,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-673"
     },
     {
       "id": 8548,
@@ -439,7 +439,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-477"
     },
     {
       "id": 8840,
@@ -455,7 +455,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-559"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-559"
     },
     {
       "id": 8997,
@@ -471,7 +471,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-655"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-655"
     },
     {
       "id": 9437,
@@ -487,7 +487,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-427"
     },
     {
       "id": 9987,
@@ -503,7 +503,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-656"
     },
     {
       "id": 10275,
@@ -520,7 +520,7 @@ window.actressData = {
         "五日市芽依",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-455"
     },
     {
       "id": 10467,
@@ -536,7 +536,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-531"
     },
     {
       "id": 94829,
@@ -553,7 +553,7 @@ window.actressData = {
         "五日市芽依",
         "夢莉梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVVRT-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-048"
     },
     {
       "id": 13377,
@@ -569,7 +569,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-236"
     },
     {
       "id": 13533,
@@ -585,7 +585,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-213"
     },
     {
       "id": 14013,
@@ -601,7 +601,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-121"
     },
     {
       "id": 13986,
@@ -618,7 +618,7 @@ window.actressData = {
         "五日市芽依",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-225"
     },
     {
       "id": 14455,
@@ -634,7 +634,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-181"
     },
     {
       "id": 15481,
@@ -650,7 +650,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-263"
     },
     {
       "id": 15348,
@@ -666,7 +666,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-636"
     },
     {
       "id": 16625,
@@ -683,7 +683,7 @@ window.actressData = {
         "五日市芽依",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKDV-734"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-734"
     },
     {
       "id": 16747,
@@ -699,7 +699,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-578"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-578"
     },
     {
       "id": 16928,
@@ -716,7 +716,7 @@ window.actressData = {
         "五日市芽依",
         "月野香澄"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-098"
     },
     {
       "id": 17006,
@@ -733,7 +733,7 @@ window.actressData = {
         "五日市芽依",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-071"
     },
     {
       "id": 16973,
@@ -750,7 +750,7 @@ window.actressData = {
         "五日市芽依",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-012"
     },
     {
       "id": 17521,
@@ -766,7 +766,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-094"
     },
     {
       "id": 17465,
@@ -782,7 +782,7 @@ window.actressData = {
       "actress": [
         "五日市芽依"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-538"
     },
     {
       "id": 17453,
@@ -800,7 +800,7 @@ window.actressData = {
         "鲛岛",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-576"
     },
     {
       "id": 18178,
@@ -817,7 +817,7 @@ window.actressData = {
         "五日市芽依",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-146"
     },
     {
       "id": 87816,
@@ -835,7 +835,7 @@ window.actressData = {
         "タイ",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-141"
     },
     {
       "id": 107496,
@@ -852,7 +852,7 @@ window.actressData = {
         "五日市芽依",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-241"
     }
   ]
 };

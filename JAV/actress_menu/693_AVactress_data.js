@@ -62,7 +62,7 @@ window.actressData = {
         "大原理央",
         "御影れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HALT-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-069"
     },
     {
       "id": 2611,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "大原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-404"
     },
     {
       "id": 3230,
@@ -95,7 +95,7 @@ window.actressData = {
         "大原理央",
         "藤沢ユリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GHAT-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-160"
     },
     {
       "id": 3644,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "大原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMJK-027"
     },
     {
       "id": 4404,
@@ -130,7 +130,7 @@ window.actressData = {
         "紺野美衣奈",
         "百瀨莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCHB-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-050"
     },
     {
       "id": 6702,
@@ -147,7 +147,7 @@ window.actressData = {
         "大原理央",
         "仲野梢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-373"
     }
   ]
 };

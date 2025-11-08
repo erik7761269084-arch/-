@@ -52,7 +52,7 @@ window.actressData = {
         "西山希",
         "远野春希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=mkbd-s11"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=mkbd-s11"
     },
     {
       "id": 1946,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "西山希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-62"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-62"
     }
   ]
 };

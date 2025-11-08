@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "水上由纪恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-198"
     },
     {
       "id": 81629,
@@ -51,7 +51,7 @@ window.actressData = {
         "水上由纪恵",
         "大崎静子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBZ-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-196"
     },
     {
       "id": 81862,
@@ -74,7 +74,7 @@ window.actressData = {
         "叶山りん",
         "水上由纪恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-226"
     },
     {
       "id": 75869,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "水上由纪恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BKD-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-231"
     },
     {
       "id": 98234,
@@ -115,7 +115,7 @@ window.actressData = {
         "あいだ飞鸟",
         "真山由夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKB-093-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-093-"
     }
   ]
 };

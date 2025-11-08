@@ -42,7 +42,7 @@ window.actressData = {
         "有坂真宵",
         "生田みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCDSS-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCDSS-024"
     },
     {
       "id": 79407,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "白坂有以"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-293"
     },
     {
       "id": 79692,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "白坂有以"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-278"
     },
     {
       "id": 106044,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "白坂有以"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-806"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-806"
     },
     {
       "id": 104287,
@@ -107,7 +107,7 @@ window.actressData = {
         "玉木玲",
         "白坂有以"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-764"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-764"
     },
     {
       "id": 100075,
@@ -124,7 +124,7 @@ window.actressData = {
         "鲛岛",
         "白坂有以"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-753"
     },
     {
       "id": 76994,
@@ -142,7 +142,7 @@ window.actressData = {
         "玉木玲",
         "白坂有以"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-729"
     },
     {
       "id": 76999,
@@ -159,7 +159,7 @@ window.actressData = {
         "鲛岛",
         "白坂有以"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-718"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-718"
     }
   ]
 };

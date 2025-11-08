@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-359"
     },
     {
       "id": 5426,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-338"
     },
     {
       "id": 6182,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-316"
     },
     {
       "id": 7635,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-264"
     },
     {
       "id": 9145,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-233"
     },
     {
       "id": 10029,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-215"
     },
     {
       "id": 10673,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-200"
     },
     {
       "id": 12708,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-122"
     },
     {
       "id": 13468,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-105"
     },
     {
       "id": 14059,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-064"
     },
     {
       "id": 14561,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-058"
     },
     {
       "id": 15183,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-031"
     },
     {
       "id": 94510,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-009"
     },
     {
       "id": 16333,
@@ -258,7 +258,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-986"
     },
     {
       "id": 16617,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-973"
     },
     {
       "id": 17293,
@@ -290,7 +290,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-956"
     },
     {
       "id": 17948,
@@ -306,7 +306,7 @@ window.actressData = {
       "actress": [
         "綾瀬天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-942"
     }
   ]
 };

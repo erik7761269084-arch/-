@@ -39,7 +39,7 @@ window.actressData = {
         "水无瀬优夏",
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSP-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-169"
     },
     {
       "id": 98497,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "水无瀬优夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-212"
     }
   ]
 };

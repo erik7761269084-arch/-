@@ -59,7 +59,7 @@ window.actressData = {
         "加贺美さら",
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKAX-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-910"
     },
     {
       "id": 81084,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "あまね弥生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKO-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-454"
     },
     {
       "id": 76194,
@@ -93,7 +93,7 @@ window.actressData = {
         "あまね弥生",
         "生田みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-186"
     },
     {
       "id": 75594,
@@ -114,7 +114,7 @@ window.actressData = {
         "月宫ねね",
         "日向咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-706"
     }
   ]
 };

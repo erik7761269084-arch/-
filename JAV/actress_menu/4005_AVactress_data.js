@@ -41,7 +41,7 @@ window.actressData = {
         "豊田爱菜",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-061"
     },
     {
       "id": 88339,
@@ -61,7 +61,7 @@ window.actressData = {
         "舞奈みく",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-976"
     },
     {
       "id": 83238,
@@ -79,7 +79,7 @@ window.actressData = {
         "亜矢みつき",
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-691"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-691"
     },
     {
       "id": 75839,
@@ -99,7 +99,7 @@ window.actressData = {
         "今井まい",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-737"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-737"
     },
     {
       "id": 75845,
@@ -120,7 +120,7 @@ window.actressData = {
         "生田みく",
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMBS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBS-057"
     },
     {
       "id": 74580,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMBI-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-101"
     },
     {
       "id": 70299,
@@ -154,7 +154,7 @@ window.actressData = {
         "茜はるか",
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-011"
     },
     {
       "id": 77166,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-464"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-464"
     },
     {
       "id": 87925,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-029"
     },
     {
       "id": 88510,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-472"
     }
   ]
 };

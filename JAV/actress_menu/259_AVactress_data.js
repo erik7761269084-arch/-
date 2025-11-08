@@ -65,11 +65,11 @@ window.actressData = {
       "type": "有码",
       "company": "SOD",
       "publish_date": "2025-09-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250922/20250922211107510510_21833_thumbnail.webp",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/206d28df/vod.jpg",
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-403"
     },
     {
       "id": 3461,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-401"
     },
     {
       "id": 4190,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-350"
     },
     {
       "id": 5269,
@@ -118,7 +118,7 @@ window.actressData = {
         "美咲佳奈",
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-331"
     },
     {
       "id": 5776,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-339"
     },
     {
       "id": 7450,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-281"
     },
     {
       "id": 6664,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-313"
     },
     {
       "id": 7967,
@@ -183,7 +183,7 @@ window.actressData = {
         "小湊四葉",
         "星乃莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-276"
     },
     {
       "id": 8353,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-257"
     },
     {
       "id": 8946,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-243"
     },
     {
       "id": 9820,
@@ -231,7 +231,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-194"
     },
     {
       "id": 10520,
@@ -247,7 +247,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-206"
     },
     {
       "id": 13757,
@@ -263,7 +263,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-090"
     },
     {
       "id": 14211,
@@ -279,7 +279,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-075"
     },
     {
       "id": 15863,
@@ -295,7 +295,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-039"
     },
     {
       "id": 16530,
@@ -311,7 +311,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-993"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-993"
     },
     {
       "id": 17060,
@@ -327,7 +327,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-981"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-981"
     },
     {
       "id": 17559,
@@ -343,7 +343,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-954"
     },
     {
       "id": 18078,
@@ -359,7 +359,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-930"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-930"
     },
     {
       "id": 18551,
@@ -375,7 +375,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-918"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-918"
     },
     {
       "id": 18869,
@@ -391,7 +391,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-910"
     },
     {
       "id": 89323,
@@ -407,7 +407,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-874"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-874"
     },
     {
       "id": 89240,
@@ -423,7 +423,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-842"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-842"
     },
     {
       "id": 89213,
@@ -439,7 +439,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-859"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-859"
     },
     {
       "id": 67202,
@@ -456,7 +456,7 @@ window.actressData = {
         "小湊四葉",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-757"
     },
     {
       "id": 106776,
@@ -472,7 +472,7 @@ window.actressData = {
       "actress": [
         "小湊四葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-765"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-765"
     },
     {
       "id": 87509,
@@ -491,7 +491,7 @@ window.actressData = {
         "イセドン内村",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-685"
     }
   ]
 };

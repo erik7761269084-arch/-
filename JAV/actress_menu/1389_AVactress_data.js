@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "玉森亞露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-061"
     },
     {
       "id": 17248,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "玉森亞露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-055"
     },
     {
       "id": 106500,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "玉森亞露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-040"
     }
   ]
 };

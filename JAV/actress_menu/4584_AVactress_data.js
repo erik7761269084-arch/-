@@ -35,7 +35,7 @@ window.actressData = {
         "御坂莉亚",
         "柊ゆうの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-226"
     }
   ]
 };

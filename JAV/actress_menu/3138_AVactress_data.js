@@ -38,7 +38,7 @@ window.actressData = {
         "浪川ゆかり",
         "我妻淳子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBM-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBM-043"
     },
     {
       "id": 61360,
@@ -56,7 +56,7 @@ window.actressData = {
         "浪川ゆかり",
         "高梨いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPZ-1159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPZ-1159"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
         "音羽蕾恩",
         "浅宫ゆうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JOHS-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOHS-008"
     },
     {
       "id": 1990,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "音羽蕾恩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-03"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-03"
     },
     {
       "id": 2065,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "音羽蕾恩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-90"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-90"
     }
   ]
 };

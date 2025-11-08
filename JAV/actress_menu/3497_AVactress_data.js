@@ -28,11 +28,11 @@ window.actressData = {
       "type": "有码",
       "company": "BOTAN",
       "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/20250506022234779779_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/20250506022234779779_s.webp",
       "actress": [
         "@Alinya（アリーニャ）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAIAV-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-009"
     }
   ]
 };

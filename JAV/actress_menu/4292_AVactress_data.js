@@ -34,7 +34,7 @@ window.actressData = {
         "森林原人",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-024"
     },
     {
       "id": 83124,
@@ -51,7 +51,7 @@ window.actressData = {
         "若槻みづな",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-160"
     },
     {
       "id": 81453,
@@ -74,7 +74,7 @@ window.actressData = {
         "野々宫みさと",
         "青山のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMV-140"
     },
     {
       "id": 81622,
@@ -97,7 +97,7 @@ window.actressData = {
         "保坂えり",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-358"
     },
     {
       "id": 83476,
@@ -120,7 +120,7 @@ window.actressData = {
         "纱东みお",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-413"
     },
     {
       "id": 82863,
@@ -138,7 +138,7 @@ window.actressData = {
         "大浦真奈美",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-686"
     },
     {
       "id": 83637,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KATU-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KATU-064"
     },
     {
       "id": 83236,
@@ -173,7 +173,7 @@ window.actressData = {
         "伊织凉子",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-292"
     },
     {
       "id": 83035,
@@ -190,7 +190,7 @@ window.actressData = {
         "纱々原ゆり",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTS-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTS-007"
     },
     {
       "id": 83358,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUKE-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUKE-003"
     },
     {
       "id": 81519,
@@ -229,7 +229,7 @@ window.actressData = {
         "春川せせら",
         "大岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-029"
     },
     {
       "id": 75081,
@@ -250,7 +250,7 @@ window.actressData = {
         "管野静香",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-173"
     },
     {
       "id": 83108,
@@ -269,7 +269,7 @@ window.actressData = {
         "伊织凉子",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-201"
     },
     {
       "id": 87948,
@@ -285,7 +285,7 @@ window.actressData = {
       "actress": [
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-057"
     },
     {
       "id": 73062,
@@ -302,7 +302,7 @@ window.actressData = {
         "森澤佳奈",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDA-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-090"
     },
     {
       "id": 77722,
@@ -318,7 +318,7 @@ window.actressData = {
       "actress": [
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-234"
     },
     {
       "id": 77743,
@@ -337,7 +337,7 @@ window.actressData = {
         "野々宫みさと",
         "渡良瀬りほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KRI-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-080"
     },
     {
       "id": 77736,
@@ -353,7 +353,7 @@ window.actressData = {
       "actress": [
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-321"
     },
     {
       "id": 88518,
@@ -371,7 +371,7 @@ window.actressData = {
         "松下美织",
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-158"
     },
     {
       "id": 97795,
@@ -387,7 +387,7 @@ window.actressData = {
       "actress": [
         "野々宫みさと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-512"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-512"
     }
   ]
 };

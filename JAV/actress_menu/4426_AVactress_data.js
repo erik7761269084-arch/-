@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "咲乃小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-152"
     },
     {
       "id": 86803,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "咲乃小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-137"
     },
     {
       "id": 81838,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "咲乃小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-106"
     },
     {
       "id": 81790,
@@ -87,7 +87,7 @@ window.actressData = {
         "咲乃小春",
         "有季奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-178"
     },
     {
       "id": 81975,
@@ -104,7 +104,7 @@ window.actressData = {
         "八乃翼",
         "咲乃小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-965"
     },
     {
       "id": 83203,
@@ -121,7 +121,7 @@ window.actressData = {
         "田渊正浩",
         "咲乃小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-956"
     },
     {
       "id": 94996,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "咲乃小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-553"
     },
     {
       "id": 74185,
@@ -156,7 +156,7 @@ window.actressData = {
         "玉木玲",
         "咲乃小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-665"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-665"
     },
     {
       "id": 74193,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "咲乃小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-660"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-660"
     }
   ]
 };

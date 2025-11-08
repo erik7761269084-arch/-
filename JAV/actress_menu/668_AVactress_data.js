@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "舞笑美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DSAMBD-09"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSAMBD-09"
     },
     {
       "id": 2063,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "舞笑美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-11"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-11"
     },
     {
       "id": 2062,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "舞笑美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-09"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-09"
     },
     {
       "id": 1826,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "舞笑美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DSAMBD-03"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSAMBD-03"
     },
     {
       "id": 1534,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "舞笑美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-130"
     }
   ]
 };

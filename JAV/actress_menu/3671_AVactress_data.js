@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKDV-639"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-639"
     },
     {
       "id": 81455,
@@ -51,7 +51,7 @@ window.actressData = {
         "饭山香织",
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-216"
     },
     {
       "id": 83397,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1239"
     },
     {
       "id": 83493,
@@ -84,7 +84,7 @@ window.actressData = {
         "寶生莉莉",
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-205"
     },
     {
       "id": 83845,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-445"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-445"
     },
     {
       "id": 76852,
@@ -117,7 +117,7 @@ window.actressData = {
         "鲛岛",
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-204"
     },
     {
       "id": 76356,
@@ -137,7 +137,7 @@ window.actressData = {
         "しみけん",
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-754"
     },
     {
       "id": 76574,
@@ -156,7 +156,7 @@ window.actressData = {
         "しみけん",
         "小鸟游ももえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-090"
     }
   ]
 };

@@ -48,7 +48,7 @@ window.actressData = {
         "ひなた唯",
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-394"
     },
     {
       "id": 87135,
@@ -67,7 +67,7 @@ window.actressData = {
         "ひなた唯",
         "柚木ひおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-905"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-905"
     },
     {
       "id": 87965,
@@ -85,7 +85,7 @@ window.actressData = {
         "舞原圣",
         "ひなた唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCP-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCP-099"
     },
     {
       "id": 71163,
@@ -106,7 +106,7 @@ window.actressData = {
         "白金れい奈",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-044"
     }
   ]
 };

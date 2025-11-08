@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-378"
     },
     {
       "id": 80577,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-367"
     },
     {
       "id": 84456,
@@ -74,7 +74,7 @@ window.actressData = {
         "有坂真宵",
         "生田みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCDSS-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCDSS-024"
     },
     {
       "id": 83970,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-353"
     },
     {
       "id": 83969,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-337"
     },
     {
       "id": 84411,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-322"
     },
     {
       "id": 80000,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-306"
     },
     {
       "id": 79298,
@@ -155,7 +155,7 @@ window.actressData = {
         "鲛岛",
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-261"
     },
     {
       "id": 82622,
@@ -174,7 +174,7 @@ window.actressData = {
         "玉木玲",
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-036"
     },
     {
       "id": 79062,
@@ -191,7 +191,7 @@ window.actressData = {
         "及川大智",
         "二阶堂梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-218"
     }
   ]
 };

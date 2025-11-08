@@ -36,7 +36,7 @@ window.actressData = {
         "夏希ゆめ",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-611"
     },
     {
       "id": 72860,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-638"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-638"
     },
     {
       "id": 77860,
@@ -72,7 +72,7 @@ window.actressData = {
         "朝比ゆの",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DHLD-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-009"
     },
     {
       "id": 93948,
@@ -89,7 +89,7 @@ window.actressData = {
         "夕美紫苑",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-612"
     },
     {
       "id": 94126,
@@ -107,7 +107,7 @@ window.actressData = {
         "斎藤みくる",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-223"
     },
     {
       "id": 17181,
@@ -124,7 +124,7 @@ window.actressData = {
         "華澄結愛",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-738"
     },
     {
       "id": 90192,
@@ -141,7 +141,7 @@ window.actressData = {
         "真木今日子",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-551"
     },
     {
       "id": 80309,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-205"
     },
     {
       "id": 93062,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTKC-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-110"
     },
     {
       "id": 93063,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-047"
     },
     {
       "id": 83381,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KATU-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KATU-066"
     },
     {
       "id": 83390,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHRV-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-099"
     },
     {
       "id": 79177,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1185"
     }
   ]
 };

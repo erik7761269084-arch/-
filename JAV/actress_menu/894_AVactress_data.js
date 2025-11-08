@@ -68,7 +68,7 @@ window.actressData = {
         "うららか丽",
         "椎木くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-079"
     },
     {
       "id": 8596,
@@ -96,7 +96,7 @@ window.actressData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-799"
     },
     {
       "id": 9349,
@@ -114,7 +114,7 @@ window.actressData = {
         "一之瀨戀",
         "水瀬りた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-793"
     },
     {
       "id": 93083,
@@ -139,7 +139,7 @@ window.actressData = {
         "稻场流花",
         "永爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-568"
     },
     {
       "id": 93461,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "一之瀨戀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNNC-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNNC-036"
     },
     {
       "id": 88671,
@@ -173,7 +173,7 @@ window.actressData = {
         "川菜美铃",
         "一之瀨戀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-725"
     },
     {
       "id": 71099,
@@ -193,7 +193,7 @@ window.actressData = {
         "桃尻かのん",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-653"
     },
     {
       "id": 86227,
@@ -211,7 +211,7 @@ window.actressData = {
         "一之瀨戀",
         "上原千明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-110"
     }
   ]
 };

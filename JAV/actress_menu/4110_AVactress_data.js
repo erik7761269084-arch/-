@@ -39,7 +39,7 @@ window.actressData = {
         "西仓まより",
         "菊池由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-616"
     },
     {
       "id": 75834,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "神代にな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-127"
     },
     {
       "id": 76749,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "神代にな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FADSS-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FADSS-008"
     },
     {
       "id": 78071,
@@ -90,7 +90,7 @@ window.actressData = {
         "水谷あおい",
         "神代にな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-757"
     },
     {
       "id": 71087,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "神代にな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21425"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21425"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "纱凪美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKB-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-070"
     },
     {
       "id": 86962,
@@ -62,7 +62,7 @@ window.actressData = {
         "市桥惠理奈",
         "纱凪美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-416"
     },
     {
       "id": 77065,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "纱凪美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-945"
     }
   ]
 };

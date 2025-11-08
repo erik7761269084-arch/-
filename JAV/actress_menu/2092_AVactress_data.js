@@ -75,7 +75,7 @@ window.actressData = {
         "桐岛莉乃",
         "柏木もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-160"
     },
     {
       "id": 82659,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "美国沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-543"
     },
     {
       "id": 19424,
@@ -108,7 +108,7 @@ window.actressData = {
         "美国沙耶",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-012"
     }
   ]
 };

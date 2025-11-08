@@ -35,7 +35,7 @@ window.actressData = {
         "吉冈爱乃",
         "藤井らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-128"
     }
   ]
 };

@@ -78,7 +78,7 @@ window.actressData = {
         "宮野由佳奈",
         "宫野ゆかな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XMOM-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-064"
     }
   ]
 };

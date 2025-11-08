@@ -35,7 +35,7 @@ window.actressData = {
         "逢沢るる",
         "夏希みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-320"
     }
   ]
 };

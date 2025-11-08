@@ -49,7 +49,7 @@ window.actressData = {
         "綾波蓮",
         "及川莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
     },
     {
       "id": 3704,
@@ -68,7 +68,7 @@ window.actressData = {
         "川上しずく",
         "福原美奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-024"
     },
     {
       "id": 3883,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "川上しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-265"
     },
     {
       "id": 8686,
@@ -103,7 +103,7 @@ window.actressData = {
         "川上しずく",
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-804"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-804"
     },
     {
       "id": 75294,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "川上しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-783"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-783"
     }
   ]
 };

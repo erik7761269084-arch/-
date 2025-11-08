@@ -80,7 +80,7 @@ window.actressData = {
         "永濑唯",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-341"
     },
     {
       "id": 14575,
@@ -103,7 +103,7 @@ window.actressData = {
         "夏目りょうこ",
         "詩音乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-140"
     },
     {
       "id": 66831,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-148"
     },
     {
       "id": 89545,
@@ -136,7 +136,7 @@ window.actressData = {
         "有村希",
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-145"
     },
     {
       "id": 67033,
@@ -154,7 +154,7 @@ window.actressData = {
         "樋口三葉",
         "辻芽爱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-140"
     },
     {
       "id": 89533,
@@ -172,7 +172,7 @@ window.actressData = {
         "岬梓沙",
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-126"
     },
     {
       "id": 88074,
@@ -190,7 +190,7 @@ window.actressData = {
         "中尾芽衣子",
         "夏树カオル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LZDM-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-038"
     },
     {
       "id": 73060,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-470"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-470"
     },
     {
       "id": 86856,
@@ -223,7 +223,7 @@ window.actressData = {
         "樋口三葉",
         "乙叶カレン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-167"
     },
     {
       "id": 88498,
@@ -242,7 +242,7 @@ window.actressData = {
         "真白わかな",
         "坂本ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-535"
     },
     {
       "id": 72735,
@@ -258,7 +258,7 @@ window.actressData = {
       "actress": [
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-234"
     },
     {
       "id": 72352,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-235"
     },
     {
       "id": 70353,
@@ -290,7 +290,7 @@ window.actressData = {
       "actress": [
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-046"
     },
     {
       "id": 86787,
@@ -306,7 +306,7 @@ window.actressData = {
       "actress": [
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-152"
     },
     {
       "id": 88172,
@@ -322,7 +322,7 @@ window.actressData = {
       "actress": [
         "樋口三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-111"
     },
     {
       "id": 88278,
@@ -340,7 +340,7 @@ window.actressData = {
         "鲛岛",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-102"
     }
   ]
 };

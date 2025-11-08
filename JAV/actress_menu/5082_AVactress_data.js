@@ -34,7 +34,7 @@ window.actressData = {
         "初岛うい",
         "环ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-975"
     },
     {
       "id": 81800,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "环ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-015"
     },
     {
       "id": 83669,
@@ -67,7 +67,7 @@ window.actressData = {
         "向理来",
         "环ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-012"
     },
     {
       "id": 83360,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "环ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYBI-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYBI-003"
     },
     {
       "id": 81770,
@@ -102,7 +102,7 @@ window.actressData = {
         "しみけん",
         "环ニコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-008"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "安野百香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEM-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEM-030"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
         "水沢真树",
         "椎名绫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-419"
     },
     {
       "id": 7262,
@@ -73,7 +73,7 @@ window.actressData = {
         "藤宮櫻花",
         "佐伯春菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-371"
     }
   ]
 };

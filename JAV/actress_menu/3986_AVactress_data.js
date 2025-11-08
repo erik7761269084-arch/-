@@ -37,7 +37,7 @@ window.actressData = {
         "星咲伶美",
         "岬澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATOM-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-352"
     },
     {
       "id": 70258,
@@ -62,7 +62,7 @@ window.actressData = {
         "海空花",
         "まゆのゆま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-888"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-888"
     }
   ]
 };

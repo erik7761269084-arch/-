@@ -52,7 +52,7 @@ window.actressData = {
         "七瀬いおり",
         "樱井まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-242"
     }
   ]
 };

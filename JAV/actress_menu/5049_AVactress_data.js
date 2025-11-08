@@ -38,7 +38,7 @@ window.actressData = {
         "富永舞",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-024"
     },
     {
       "id": 88482,
@@ -57,7 +57,7 @@ window.actressData = {
         "后藤里香",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-163"
     },
     {
       "id": 82941,
@@ -77,7 +77,7 @@ window.actressData = {
         "仓科もえ",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZUKO-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-140"
     }
   ]
 };

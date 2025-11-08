@@ -34,7 +34,7 @@ window.actressData = {
         "矢部寿恵",
         "名城翠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-136"
     }
   ]
 };

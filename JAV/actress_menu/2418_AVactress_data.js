@@ -69,7 +69,7 @@ window.actressData = {
         "宮崎由麻",
         "三沢明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRGBD-05"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-05"
     }
   ]
 };

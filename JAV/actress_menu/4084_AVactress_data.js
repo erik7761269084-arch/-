@@ -46,7 +46,7 @@ window.actressData = {
         "羽咲美亜",
         "樱美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-367"
     },
     {
       "id": 71522,
@@ -69,7 +69,7 @@ window.actressData = {
         "羽咲美亜",
         "蓝川みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-149"
     },
     {
       "id": 93414,
@@ -93,7 +93,7 @@ window.actressData = {
         "北川真由香",
         "羽咲美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-094"
     },
     {
       "id": 88942,
@@ -117,7 +117,7 @@ window.actressData = {
         "岛津かおる",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-514"
     },
     {
       "id": 84501,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "羽咲美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-378"
     },
     {
       "id": 79113,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "羽咲美亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-173"
     }
   ]
 };

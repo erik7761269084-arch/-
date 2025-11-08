@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "爱内希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-095"
     },
     {
       "id": 1753,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "爱内希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-082"
     },
     {
       "id": 75768,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "爱内希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIGD-448"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-448"
     }
   ]
 };

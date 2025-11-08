@@ -69,7 +69,7 @@ window.actressData = {
         "藤下梨花",
         "大石忍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-154"
     },
     {
       "id": 67205,
@@ -95,7 +95,7 @@ window.actressData = {
         "折原ゆかり",
         "朝雾ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-319"
     },
     {
       "id": 6407,
@@ -155,7 +155,7 @@ window.actressData = {
         "安倍亜沙美",
         "响りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
       "id": 95979,
@@ -172,7 +172,7 @@ window.actressData = {
         "村上涼子",
         "五十岚しのぶ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-362"
     },
     {
       "id": 17682,
@@ -191,7 +191,7 @@ window.actressData = {
         "小田切ジュン",
         "八挂うみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-047"
     },
     {
       "id": 18261,
@@ -216,7 +216,7 @@ window.actressData = {
         "みずき伊织",
         "今野梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-037"
     },
     {
       "id": 87132,
@@ -236,7 +236,7 @@ window.actressData = {
         "城月あやね",
         "七海ひさ代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-897"
     },
     {
       "id": 69048,
@@ -259,7 +259,7 @@ window.actressData = {
         "村松响子",
         "响京香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3316"
     }
   ]
 };

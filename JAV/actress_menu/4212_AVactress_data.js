@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "渚このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-126"
     },
     {
       "id": 78661,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "渚このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-086"
     },
     {
       "id": 71882,
@@ -66,7 +66,7 @@ window.actressData = {
         "南佳也",
         "渚このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-042"
     },
     {
       "id": 79174,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "渚このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-113"
     }
   ]
 };

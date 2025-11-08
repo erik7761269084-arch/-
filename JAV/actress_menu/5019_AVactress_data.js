@@ -33,7 +33,7 @@ window.actressData = {
         "优里",
         "蓝川ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-258"
     },
     {
       "id": 81489,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "蓝川ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-171"
     }
   ]
 };

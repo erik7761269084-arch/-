@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "加瀬まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEM-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEM-024"
     },
     {
       "id": 74467,
@@ -51,7 +51,7 @@ window.actressData = {
         "御坂莉亚",
         "加瀬まどか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-703"
     }
   ]
 };

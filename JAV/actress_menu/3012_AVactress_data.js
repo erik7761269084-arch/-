@@ -33,7 +33,7 @@ window.actressData = {
         "レンジャー鏑木",
         "渚ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-063"
     },
     {
       "id": 61023,
@@ -50,7 +50,7 @@ window.actressData = {
         "レンジャー鏑木",
         "佐佐波绫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-396"
     },
     {
       "id": 3123,
@@ -67,7 +67,7 @@ window.actressData = {
         "北山憂",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-399"
     },
     {
       "id": 3317,
@@ -86,7 +86,7 @@ window.actressData = {
         "二叶エマ",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-398"
     },
     {
       "id": 3950,
@@ -103,7 +103,7 @@ window.actressData = {
         "松井日奈子",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-392"
     },
     {
       "id": 3878,
@@ -120,7 +120,7 @@ window.actressData = {
         "柳可憐",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-391"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-391"
     },
     {
       "id": 62515,
@@ -137,7 +137,7 @@ window.actressData = {
         "レンジャー鏑木",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-385"
     },
     {
       "id": 62733,
@@ -154,7 +154,7 @@ window.actressData = {
         "ななこ",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HERY-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-159"
     },
     {
       "id": 5524,
@@ -172,7 +172,7 @@ window.actressData = {
         "レンジャー鏑木",
         "ドピュー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-363"
     },
     {
       "id": 63552,
@@ -190,7 +190,7 @@ window.actressData = {
         "レンジャー鏑木",
         "鴨宮みなと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-054"
     },
     {
       "id": 5655,
@@ -207,7 +207,7 @@ window.actressData = {
         "月野香澄",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-054"
     },
     {
       "id": 5654,
@@ -224,7 +224,7 @@ window.actressData = {
         "佐山由依",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-055"
     },
     {
       "id": 67397,
@@ -241,7 +241,7 @@ window.actressData = {
         "松井日奈子",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-052"
     },
     {
       "id": 6615,
@@ -258,7 +258,7 @@ window.actressData = {
         "レンジャー鏑木",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-099"
     },
     {
       "id": 6609,
@@ -282,7 +282,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-098"
     },
     {
       "id": 71128,
@@ -300,7 +300,7 @@ window.actressData = {
         "タイ",
         "蒼井まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSM-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSM-074"
     },
     {
       "id": 72507,
@@ -318,7 +318,7 @@ window.actressData = {
         "大志",
         "木本美織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-044"
     },
     {
       "id": 78093,
@@ -335,7 +335,7 @@ window.actressData = {
         "葵百合香",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-043"
     },
     {
       "id": 94205,
@@ -352,7 +352,7 @@ window.actressData = {
         "レンジャー鏑木",
         "ソフィー・オーティス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SITW-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SITW-045"
     },
     {
       "id": 106316,
@@ -369,7 +369,7 @@ window.actressData = {
         "沙月惠奈",
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-239"
     },
     {
       "id": 106848,
@@ -386,7 +386,7 @@ window.actressData = {
         "レンジャー鏑木",
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-217"
     },
     {
       "id": 89514,
@@ -402,7 +402,7 @@ window.actressData = {
       "actress": [
         "レンジャー鏑木"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-603"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-603"
     }
   ]
 };

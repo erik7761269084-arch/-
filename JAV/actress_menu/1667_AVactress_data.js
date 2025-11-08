@@ -62,7 +62,7 @@ window.actressData = {
         "柏木舞子",
         "黒川珠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-344"
     },
     {
       "id": 14757,
@@ -86,7 +86,7 @@ window.actressData = {
         "纱々原ゆり",
         "朝阳えま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-219"
     },
     {
       "id": 79780,
@@ -103,7 +103,7 @@ window.actressData = {
         "木村穂乃香",
         "水川由里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-295"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-295"
     },
     {
       "id": 81351,
@@ -120,7 +120,7 @@ window.actressData = {
         "竹内夏希",
         "木村穂乃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-521"
     },
     {
       "id": 79388,
@@ -137,7 +137,7 @@ window.actressData = {
         "木村穂乃香",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-153"
     },
     {
       "id": 78619,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "木村穂乃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-034"
     },
     {
       "id": 79165,
@@ -170,7 +170,7 @@ window.actressData = {
         "青木玲",
         "木村穂乃香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-437"
     }
   ]
 };

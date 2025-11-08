@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "夢見るぅ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-009"
     }
   ]
 };

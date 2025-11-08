@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "濑奈真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S95"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S95"
     },
     {
       "id": 1895,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "濑奈真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-119"
     }
   ]
 };

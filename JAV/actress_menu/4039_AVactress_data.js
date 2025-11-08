@@ -44,7 +44,7 @@ window.actressData = {
         "星野娜美",
         "美里有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-127"
     },
     {
       "id": 70515,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "美里有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-389"
     },
     {
       "id": 82454,
@@ -77,7 +77,7 @@ window.actressData = {
         "沢井亮",
         "美里有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1635"
     }
   ]
 };

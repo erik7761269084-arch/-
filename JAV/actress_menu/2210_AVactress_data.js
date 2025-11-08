@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "矢野沙紀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-319"
     }
   ]
 };

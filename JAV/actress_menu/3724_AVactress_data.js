@@ -36,7 +36,7 @@ window.actressData = {
         "美月まい",
         "后藤由乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-010"
     },
     {
       "id": 87173,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "美月まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAMEF-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAMEF-034"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "蓝川美夏",
         "ゆずりはえな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-461"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-461"
     }
   ]
 };

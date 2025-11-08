@@ -33,7 +33,7 @@ window.actressData = {
         "八蜜凛",
         "三四郎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-055"
     },
     {
       "id": 100663,
@@ -50,7 +50,7 @@ window.actressData = {
         "黑木玲奈",
         "三四郎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-093"
     },
     {
       "id": 86193,
@@ -70,7 +70,7 @@ window.actressData = {
         "若宫はずき",
         "三四郎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-038"
     }
   ]
 };

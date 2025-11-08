@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "苍星ユリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-129"
     }
   ]
 };

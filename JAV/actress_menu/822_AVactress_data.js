@@ -51,11 +51,11 @@ window.actressData = {
       "type": "有码",
       "company": "妄想族",
       "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051627649649_22022_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051627649649_22022_s.webp",
       "actress": [
         "三葉彌生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-273"
     },
     {
       "id": 6384,
@@ -82,7 +82,7 @@ window.actressData = {
         "佐藤里釆",
         "五味紗瑛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-315"
     },
     {
       "id": 75293,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "三葉彌生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-787"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-787"
     }
   ]
 };

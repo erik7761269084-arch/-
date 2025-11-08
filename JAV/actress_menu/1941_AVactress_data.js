@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-061"
     },
     {
       "id": 83936,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-429"
     },
     {
       "id": 83952,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-414"
     },
     {
       "id": 83950,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-398"
     },
     {
       "id": 80566,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-370"
     },
     {
       "id": 83974,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-356"
     },
     {
       "id": 83973,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-342"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-342"
     },
     {
       "id": 80120,
@@ -169,7 +169,7 @@ window.actressData = {
         "天國露露",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-328"
     },
     {
       "id": 79862,
@@ -185,7 +185,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-312"
     },
     {
       "id": 88476,
@@ -202,7 +202,7 @@ window.actressData = {
         "天國露露",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-895"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-895"
     },
     {
       "id": 107546,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-833"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-833"
     },
     {
       "id": 70302,
@@ -235,7 +235,7 @@ window.actressData = {
         "天國露露",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-788"
     },
     {
       "id": 83880,
@@ -252,7 +252,7 @@ window.actressData = {
         "天國露露",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-685"
     },
     {
       "id": 75648,
@@ -270,7 +270,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-655"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-655"
     }
   ]
 };

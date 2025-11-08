@@ -59,7 +59,7 @@ window.actressData = {
         "冬愛琴音",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-259"
     },
     {
       "id": 2566,
@@ -112,7 +112,7 @@ window.actressData = {
         "椎叶みくる",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-941"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-941"
     },
     {
       "id": 2998,
@@ -131,7 +131,7 @@ window.actressData = {
         "しみけん",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-733"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-733"
     },
     {
       "id": 3225,
@@ -184,7 +184,7 @@ window.actressData = {
         "安倍亜沙美",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-933"
     },
     {
       "id": 3349,
@@ -210,7 +210,7 @@ window.actressData = {
         "一条美绪",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-256"
     },
     {
       "id": 4115,
@@ -227,7 +227,7 @@ window.actressData = {
         "冬愛琴音",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DJN-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-025"
     },
     {
       "id": 4150,
@@ -249,7 +249,7 @@ window.actressData = {
         "一条美绪",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-252"
     },
     {
       "id": 4173,
@@ -278,7 +278,7 @@ window.actressData = {
         "安倍亜沙美",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-926"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-926"
     },
     {
       "id": 5065,
@@ -345,7 +345,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 5583,
@@ -362,7 +362,7 @@ window.actressData = {
         "冬愛琴音",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-371"
     },
     {
       "id": 2360,
@@ -380,7 +380,7 @@ window.actressData = {
         "佐藤しお",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-361"
     },
     {
       "id": 6426,
@@ -399,7 +399,7 @@ window.actressData = {
         "左慈半造",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-742"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-742"
     },
     {
       "id": 6677,
@@ -417,7 +417,7 @@ window.actressData = {
         "タクト",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-944"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-944"
     },
     {
       "id": 7469,
@@ -434,7 +434,7 @@ window.actressData = {
         "冬愛琴音",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATYA-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-018"
     },
     {
       "id": 7431,
@@ -452,7 +452,7 @@ window.actressData = {
         "千川とわ",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-198"
     },
     {
       "id": 8661,
@@ -478,7 +478,7 @@ window.actressData = {
         "冬爱琴音",
         "江戸川もなか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-173"
     },
     {
       "id": 8751,
@@ -495,7 +495,7 @@ window.actressData = {
         "冬愛琴音",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNMB-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMB-093"
     },
     {
       "id": 8910,
@@ -514,7 +514,7 @@ window.actressData = {
         "冬愛琴音",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-355"
     },
     {
       "id": 10660,
@@ -535,7 +535,7 @@ window.actressData = {
         "夢乃陽菜",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-131"
     },
     {
       "id": 83330,
@@ -551,7 +551,7 @@ window.actressData = {
       "actress": [
         "冬愛琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-085"
     }
   ]
 };

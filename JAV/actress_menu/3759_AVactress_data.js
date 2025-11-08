@@ -33,7 +33,7 @@ window.actressData = {
         "九十九メイ",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-745"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-745"
     },
     {
       "id": 17175,
@@ -51,7 +51,7 @@ window.actressData = {
         "ナイアガラ翔",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-744"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-744"
     },
     {
       "id": 106364,
@@ -68,7 +68,7 @@ window.actressData = {
         "安西天",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-728"
     },
     {
       "id": 90759,
@@ -85,7 +85,7 @@ window.actressData = {
         "彩奈莉娜",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-700"
     },
     {
       "id": 90763,
@@ -102,7 +102,7 @@ window.actressData = {
         "奈築里緒",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-691"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-691"
     },
     {
       "id": 87127,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-673"
     },
     {
       "id": 90725,
@@ -135,7 +135,7 @@ window.actressData = {
         "木下日葵",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-667"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-667"
     },
     {
       "id": 92975,
@@ -152,7 +152,7 @@ window.actressData = {
         "あすお",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-654"
     },
     {
       "id": 92955,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-631"
     },
     {
       "id": 67813,
@@ -185,7 +185,7 @@ window.actressData = {
         "あすお",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-629"
     },
     {
       "id": 92954,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-627"
     },
     {
       "id": 67766,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-617"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-617"
     },
     {
       "id": 67799,
@@ -234,7 +234,7 @@ window.actressData = {
         "一宫みかり",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-587"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-587"
     }
   ]
 };

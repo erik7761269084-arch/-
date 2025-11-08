@@ -34,7 +34,7 @@ window.actressData = {
         "川崎纪里恵",
         "佐和彩花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-455-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-455-"
     }
   ]
 };

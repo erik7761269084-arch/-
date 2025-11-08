@@ -66,7 +66,7 @@ window.actressData = {
         "石川澪",
         "ラヴズ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-304"
     },
     {
       "id": 3524,
@@ -103,7 +103,7 @@ window.actressData = {
         "高桥圣子",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-477"
     },
     {
       "id": 4999,
@@ -115,11 +115,11 @@ window.actressData = {
       "type": "有码",
       "company": "MOODYZ",
       "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626030426374374_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626030426374374_s.webp",
       "actress": [
         "石川澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-213"
     },
     {
       "id": 6446,
@@ -136,7 +136,7 @@ window.actressData = {
         "石川澪",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-138"
     },
     {
       "id": 7227,
@@ -153,7 +153,7 @@ window.actressData = {
         "石川澪",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-101"
     },
     {
       "id": 8711,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "石川澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-024"
     },
     {
       "id": 9441,
@@ -187,7 +187,7 @@ window.actressData = {
         "田渊正浩",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-995"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-995"
     },
     {
       "id": 9534,
@@ -228,7 +228,7 @@ window.actressData = {
         "安倍亜沙美",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-424"
     },
     {
       "id": 10293,
@@ -245,7 +245,7 @@ window.actressData = {
         "石川澪",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-946"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-946"
     },
     {
       "id": 10268,
@@ -274,7 +274,7 @@ window.actressData = {
         "志田雪奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
     },
     {
       "id": 16490,
@@ -290,7 +290,7 @@ window.actressData = {
       "actress": [
         "石川澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-609"
     }
   ]
 };

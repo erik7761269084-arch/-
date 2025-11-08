@@ -33,7 +33,7 @@ window.actressData = {
         "大岛丈",
         "仲村茉莉恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-377"
     }
   ]
 };

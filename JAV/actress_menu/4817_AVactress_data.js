@@ -37,7 +37,7 @@ window.actressData = {
         "吉田枫",
         "铃木理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-223"
     },
     {
       "id": 78388,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "我妻澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-796"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-796"
     },
     {
       "id": 88228,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "我妻澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-167"
     }
   ]
 };

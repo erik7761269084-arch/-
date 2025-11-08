@@ -57,7 +57,7 @@ window.actressData = {
         "瀧川蓳",
         "園田ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-455"
     },
     {
       "id": 2894,
@@ -79,7 +79,7 @@ window.actressData = {
         "園田ひなの",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSODA-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-091"
     },
     {
       "id": 13438,
@@ -96,7 +96,7 @@ window.actressData = {
         "辻櫻",
         "園田ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-607"
     },
     {
       "id": 90141,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "園田ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-677"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-677"
     }
   ]
 };

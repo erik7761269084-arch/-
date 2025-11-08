@@ -33,7 +33,7 @@ window.actressData = {
         "奈築里緒",
         "巨漢系"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-554"
     },
     {
       "id": 2728,
@@ -51,7 +51,7 @@ window.actressData = {
         "小島美子",
         "巨漢系"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-550"
     }
   ]
 };

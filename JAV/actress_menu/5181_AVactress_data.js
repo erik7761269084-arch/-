@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小栗萌中"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-006"
     },
     {
       "id": 85546,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "小栗萌中"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-065"
     },
     {
       "id": 106296,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "小栗萌中"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-914"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-914"
     },
     {
       "id": 82539,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "小栗萌中"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-632"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-632"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "桜庭ひかり",
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-498"
     },
     {
       "id": 81945,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-961"
     },
     {
       "id": 78292,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FADSS-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FADSS-017"
     },
     {
       "id": 99738,
@@ -82,7 +82,7 @@ window.actressData = {
         "原花音",
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-210-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-210-"
     },
     {
       "id": 88011,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FADSS-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FADSS-015"
     },
     {
       "id": 83187,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-957"
     },
     {
       "id": 82239,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-046"
     },
     {
       "id": 75517,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-139"
     },
     {
       "id": 77284,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-955"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-955"
     },
     {
       "id": 70844,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "结々萌奈実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FADSS-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FADSS-009"
     }
   ]
 };

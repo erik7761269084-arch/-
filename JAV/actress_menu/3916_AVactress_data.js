@@ -38,7 +38,7 @@ window.actressData = {
         "有贺みなほ",
         "さくらい麻乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-284"
     },
     {
       "id": 89098,
@@ -61,7 +61,7 @@ window.actressData = {
         "高仓梨奈",
         "下妻恭子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3400"
     }
   ]
 };

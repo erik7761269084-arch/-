@@ -77,7 +77,7 @@ window.actressData = {
         "一二三铃",
         "泡沫ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-059"
     },
     {
       "id": 81816,
@@ -97,7 +97,7 @@ window.actressData = {
         "桃瀬さくら",
         "瀬戸真白"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-610"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-610"
     },
     {
       "id": 88246,
@@ -115,7 +115,7 @@ window.actressData = {
         "日向澪",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-037"
     },
     {
       "id": 71745,
@@ -134,7 +134,7 @@ window.actressData = {
         "仓木诗织",
         "梦咲ひなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-537"
     },
     {
       "id": 72289,
@@ -153,7 +153,7 @@ window.actressData = {
         "南佳也",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-661"
     },
     {
       "id": 87986,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "日向澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-614"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-614"
     }
   ]
 };

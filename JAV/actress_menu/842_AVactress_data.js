@@ -51,7 +51,7 @@ window.actressData = {
         "葉月保奈美",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-334"
     },
     {
       "id": 61704,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "葉月保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-395"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-395"
     },
     {
       "id": 4736,
@@ -86,7 +86,7 @@ window.actressData = {
         "ラヴズ",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-369"
     },
     {
       "id": 5508,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "葉月保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-366"
     },
     {
       "id": 6264,
@@ -119,7 +119,7 @@ window.actressData = {
         "葉月保奈美",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-349"
     },
     {
       "id": 8453,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "葉月保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-319"
     },
     {
       "id": 9227,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "葉月保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-312"
     }
   ]
 };

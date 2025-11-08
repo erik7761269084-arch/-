@@ -43,7 +43,7 @@ window.actressData = {
         "星あんず",
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-422"
     },
     {
       "id": 71622,
@@ -63,7 +63,7 @@ window.actressData = {
         "茅原里恋",
         "槇原爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-287"
     }
   ]
 };

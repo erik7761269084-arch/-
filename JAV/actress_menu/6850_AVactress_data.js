@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "唯川希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-887"
     }
   ]
 };

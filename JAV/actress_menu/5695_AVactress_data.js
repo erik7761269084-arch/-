@@ -33,7 +33,7 @@ window.actressData = {
         "五十嵐未華子",
         "吉瀬栞菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-22162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-22162"
     }
   ]
 };

@@ -52,7 +52,7 @@ window.actressData = {
         "逢澤理衣奈",
         "仲村りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-714"
     },
     {
       "id": 6719,
@@ -73,7 +73,7 @@ window.actressData = {
         "天海一華",
         "児玉れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
     },
     {
       "id": 14565,
@@ -99,7 +99,7 @@ window.actressData = {
         "加贺美さら",
         "雨宫もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-300"
     }
   ]
 };

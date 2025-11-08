@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "甘乃つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-093"
     },
     {
       "id": 76794,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "甘乃つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-061"
     },
     {
       "id": 94972,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "甘乃つばき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-031"
     }
   ]
 };

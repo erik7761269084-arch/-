@@ -40,7 +40,7 @@ window.actressData = {
         "岛津かおる",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-514"
     },
     {
       "id": 87267,
@@ -61,7 +61,7 @@ window.actressData = {
         "弥生美月",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-101"
     },
     {
       "id": 81191,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-788"
     },
     {
       "id": 80778,
@@ -95,7 +95,7 @@ window.actressData = {
         "今井まい",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-830"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-830"
     },
     {
       "id": 86703,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-215"
     },
     {
       "id": 80567,
@@ -128,7 +128,7 @@ window.actressData = {
         "绿川みやび",
         "MIYABI"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-541"
     },
     {
       "id": 78629,
@@ -145,7 +145,7 @@ window.actressData = {
         "森林原人",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1422"
     }
   ]
 };

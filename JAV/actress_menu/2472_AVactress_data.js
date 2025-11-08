@@ -50,7 +50,7 @@ window.actressData = {
         "石川陽波",
         "長谷川古宵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-357"
     }
   ]
 };

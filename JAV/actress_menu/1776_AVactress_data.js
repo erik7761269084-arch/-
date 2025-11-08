@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "桜井梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-004"
     },
     {
       "id": 1497,
@@ -62,7 +62,7 @@ window.actressData = {
         "桜井梨花",
         "日之内優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-017"
     }
   ]
 };

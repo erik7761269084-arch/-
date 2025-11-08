@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "辻野唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-335"
     },
     {
       "id": 3550,
@@ -71,7 +71,7 @@ window.actressData = {
         "辻野唯",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-294"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-294"
     },
     {
       "id": 4522,
@@ -83,13 +83,13 @@ window.actressData = {
       "type": "有码",
       "company": "MOODYZ",
       "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031925159159_55060_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031925159159_55060_s.webp",
       "actress": [
         "辻野唯",
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-228"
     }
   ]
 };

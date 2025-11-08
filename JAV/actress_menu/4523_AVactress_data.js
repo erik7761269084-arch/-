@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "林爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKSK-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-024"
     },
     {
       "id": 75207,
@@ -53,7 +53,7 @@ window.actressData = {
         "星岛るり",
         "林爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
     },
     {
       "id": 83144,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "林爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-079"
     },
     {
       "id": 76382,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "林爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-763"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-763"
     }
   ]
 };

@@ -70,7 +70,7 @@ window.actressData = {
         "瀬戸すみれ",
         "美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-369"
     },
     {
       "id": 70305,
@@ -89,7 +89,7 @@ window.actressData = {
         "MIRANO",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-002"
     },
     {
       "id": 864,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "櫻木梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1075"
     },
     {
       "id": 1959,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "櫻木梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-147"
     },
     {
       "id": 2037,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "櫻木梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-111"
     },
     {
       "id": 1838,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "櫻木梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-33"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-33"
     }
   ]
 };

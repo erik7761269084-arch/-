@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "神崎くろえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-279"
     },
     {
       "id": 100895,
@@ -49,7 +49,7 @@ window.actressData = {
         "岩下たろう",
         "神崎くろえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-719"
     }
   ]
 };

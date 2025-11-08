@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "水野葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-215"
     },
     {
       "id": 85460,
@@ -71,7 +71,7 @@ window.actressData = {
         "水野葵",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-193"
     },
     {
       "id": 1945,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "水野葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-43"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-43"
     },
     {
       "id": 1991,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "水野葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S91"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S91"
     }
   ]
 };

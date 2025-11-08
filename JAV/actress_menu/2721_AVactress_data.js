@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "桃井早苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-076"
     },
     {
       "id": 93452,
@@ -66,7 +66,7 @@ window.actressData = {
         "一条美绪",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-068"
     }
   ]
 };

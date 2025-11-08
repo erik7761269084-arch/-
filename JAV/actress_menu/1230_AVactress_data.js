@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "鷲見蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFT-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-028"
     },
     {
       "id": 4953,
@@ -70,7 +70,7 @@ window.actressData = {
         "鷲見蓳",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-178"
     },
     {
       "id": 5729,
@@ -87,7 +87,7 @@ window.actressData = {
         "鷲見蓳",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-685"
     },
     {
       "id": 6498,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "鷲見蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-677"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-677"
     }
   ]
 };

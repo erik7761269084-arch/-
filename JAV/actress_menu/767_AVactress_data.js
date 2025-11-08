@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "堀口真希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-154"
     },
     {
       "id": 1737,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "堀口真希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-107"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
         "玉木玲",
         "朝日奈あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-479"
     },
     {
       "id": 82467,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "朝日奈あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1542"
     },
     {
       "id": 98747,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "朝日奈あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1512"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1512"
     },
     {
       "id": 91722,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "朝日奈あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1191"
     }
   ]
 };

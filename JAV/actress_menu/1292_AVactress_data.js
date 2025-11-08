@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "七濑莉娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-85"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-85"
     },
     {
       "id": 1063,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "七濑莉娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1495"
     },
     {
       "id": 1803,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "七濑莉娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-161"
     }
   ]
 };

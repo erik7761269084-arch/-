@@ -59,7 +59,7 @@ window.actressData = {
         "瀧川蓳",
         "園田ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-455"
     },
     {
       "id": 2894,
@@ -81,7 +81,7 @@ window.actressData = {
         "園田ひなの",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSODA-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-091"
     },
     {
       "id": 3197,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "瀧川蓳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-271"
     },
     {
       "id": 5534,
@@ -114,7 +114,7 @@ window.actressData = {
         "瀧川蓳",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-583"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-583"
     },
     {
       "id": 6284,
@@ -132,7 +132,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-535"
     },
     {
       "id": 7018,
@@ -149,7 +149,7 @@ window.actressData = {
         "瀧川蓳",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-513"
     }
   ]
 };

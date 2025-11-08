@@ -37,7 +37,7 @@ window.actressData = {
         "夏花",
         "姫宮すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONIN-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONIN-088"
     },
     {
       "id": 89460,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "夏花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUN-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUN-092"
     },
     {
       "id": 87789,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "夏花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-174"
     },
     {
       "id": 107570,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "夏花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDTH-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-037"
     }
   ]
 };

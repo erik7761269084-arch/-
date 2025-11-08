@@ -55,7 +55,7 @@ window.actressData = {
         "塚田詩織",
         "南畑颯花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-148"
     },
     {
       "id": 9010,
@@ -72,7 +72,7 @@ window.actressData = {
         "南畑颯花",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-036"
     },
     {
       "id": 9854,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "南畑颯花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBTU-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-093"
     },
     {
       "id": 88728,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "南畑颯花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WFIT-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WFIT-001"
     }
   ]
 };

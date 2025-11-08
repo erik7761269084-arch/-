@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "吉瀬葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-380"
     },
     {
       "id": 5205,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "吉瀬葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-367"
     },
     {
       "id": 6759,
@@ -79,7 +79,7 @@ window.actressData = {
         "吉瀬葵",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-332"
     },
     {
       "id": 7309,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "吉瀬葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-325"
     }
   ]
 };

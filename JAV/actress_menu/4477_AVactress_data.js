@@ -36,7 +36,7 @@ window.actressData = {
         "一ノ瀬菫",
         "本桥実来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-757"
     },
     {
       "id": 77262,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-791"
     },
     {
       "id": 82877,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-785"
     },
     {
       "id": 74731,
@@ -87,7 +87,7 @@ window.actressData = {
         "和泉つかさ",
         "一ノ瀬菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-568"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-568"
     },
     {
       "id": 74737,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-030"
     },
     {
       "id": 74738,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬菫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTT-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-026"
     }
   ]
 };

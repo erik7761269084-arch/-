@@ -42,12 +42,12 @@ window.actressData = {
       "type": "有码",
       "company": "AROUND",
       "publish_date": "2025-09-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924232515412412_43247_thumbnail.webp",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/28603f8a/vod.jpg",
       "actress": [
         "二羽紗愛",
         "夏目加奈子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25198"
     },
     {
       "id": 3327,
@@ -64,7 +64,7 @@ window.actressData = {
         "二羽紗愛",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JYMA-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-088"
     },
     {
       "id": 3524,
@@ -101,7 +101,7 @@ window.actressData = {
         "高桥圣子",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-477"
     },
     {
       "id": 4453,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "二羽紗愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-657"
     },
     {
       "id": 5168,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "二羽紗愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-278"
     },
     {
       "id": 7375,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "二羽紗愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-230"
     },
     {
       "id": 7994,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "二羽紗愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-212"
     },
     {
       "id": 8854,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "二羽紗愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-013"
     }
   ]
 };

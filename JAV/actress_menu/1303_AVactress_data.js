@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "岸本藍花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUKA-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-074"
     },
     {
       "id": 9538,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "岸本藍花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-218"
     }
   ]
 };

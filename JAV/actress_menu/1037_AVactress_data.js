@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "黒木逢夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-828"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-828"
     },
     {
       "id": 17182,
@@ -77,7 +77,7 @@ window.actressData = {
         "黒木逢夢",
         "有坂唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-712"
     },
     {
       "id": 18001,
@@ -95,7 +95,7 @@ window.actressData = {
         "櫻萌子",
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-575"
     },
     {
       "id": 18839,
@@ -112,7 +112,7 @@ window.actressData = {
         "黒木逢夢",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-570"
     },
     {
       "id": 89477,
@@ -129,7 +129,7 @@ window.actressData = {
         "黒木逢夢",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVVRT-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-019"
     },
     {
       "id": 88859,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "黒木逢夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOTTE-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-106"
     },
     {
       "id": 88267,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "黒木逢夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-040"
     }
   ]
 };

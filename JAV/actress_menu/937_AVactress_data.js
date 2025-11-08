@@ -52,7 +52,7 @@ window.actressData = {
         "安城安娜",
         "秋野早苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-07"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-07"
     },
     {
       "id": 1808,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "安城安娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-21"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-21"
     },
     {
       "id": 1765,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "安城安娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-98"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-98"
     },
     {
       "id": 82862,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "安城安娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-957"
     },
     {
       "id": 76036,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "安城安娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-839"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-839"
     }
   ]
 };

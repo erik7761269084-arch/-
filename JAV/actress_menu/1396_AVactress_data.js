@@ -64,7 +64,7 @@ window.actressData = {
         "冲田奈々",
         "玉城マイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
     },
     {
       "id": 1992,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "眞白愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-12"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-12"
     }
   ]
 };

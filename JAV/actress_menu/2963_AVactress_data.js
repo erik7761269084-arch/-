@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "みづき伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BD-M17"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BD-M17"
     }
   ]
 };

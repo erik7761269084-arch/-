@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "さとう白音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-269"
     },
     {
       "id": 88394,
@@ -49,7 +49,7 @@ window.actressData = {
         "小田切ジュン",
         "さとう白音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-206"
     }
   ]
 };

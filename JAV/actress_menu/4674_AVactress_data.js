@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "优木しの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDK-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-195"
     },
     {
       "id": 81630,
@@ -52,7 +52,7 @@ window.actressData = {
         "一色まりあ",
         "优木しの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-201"
     },
     {
       "id": 83140,
@@ -71,7 +71,7 @@ window.actressData = {
         "森本つぐみ",
         "优木しの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPS-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-390"
     },
     {
       "id": 76893,
@@ -93,7 +93,7 @@ window.actressData = {
         "芹泽飞鸟",
         "水川まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIV-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIV-040"
     }
   ]
 };

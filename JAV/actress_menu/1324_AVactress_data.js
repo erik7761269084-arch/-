@@ -74,7 +74,7 @@ window.actressData = {
         "羽咲美亜",
         "樱美雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-367"
     },
     {
       "id": 72500,
@@ -99,7 +99,7 @@ window.actressData = {
         "片瀬仁美",
         "浅井舞香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-361"
     },
     {
       "id": 8499,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "汐河佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-118"
     },
     {
       "id": 93729,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "汐河佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PESS-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-010"
     },
     {
       "id": 93633,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "汐河佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-477"
     },
     {
       "id": 101217,
@@ -165,7 +165,7 @@ window.actressData = {
         "汐河佳奈",
         "汐見唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-173"
     },
     {
       "id": 87632,
@@ -184,7 +184,7 @@ window.actressData = {
         "一二三铃",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-061"
     },
     {
       "id": 76393,
@@ -203,7 +203,7 @@ window.actressData = {
         "汐河佳奈",
         "成泽ひなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-059"
     },
     {
       "id": 76041,
@@ -222,7 +222,7 @@ window.actressData = {
         "相泽ゆりな",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-058"
     },
     {
       "id": 81847,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "汐河佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NATR-621"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-621"
     },
     {
       "id": 78427,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "汐河佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-065"
     },
     {
       "id": 69739,
@@ -271,7 +271,7 @@ window.actressData = {
         "汐河佳奈",
         "新垣百合子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3325"
     },
     {
       "id": 76359,
@@ -290,7 +290,7 @@ window.actressData = {
         "远藤しおり",
         "七海ひさ代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-043"
     },
     {
       "id": 77343,
@@ -308,7 +308,7 @@ window.actressData = {
         "水无瀬怜奈",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-022"
     },
     {
       "id": 76021,
@@ -324,7 +324,7 @@ window.actressData = {
       "actress": [
         "汐河佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-105"
     },
     {
       "id": 77259,
@@ -343,7 +343,7 @@ window.actressData = {
         "片瀬仁美",
         "白藤ゆりえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASS-929"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASS-929"
     },
     {
       "id": 59833,
@@ -361,7 +361,7 @@ window.actressData = {
         "水城奈緒",
         "江波りゅう（RYU)"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTMS-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTMS-100"
     }
   ]
 };

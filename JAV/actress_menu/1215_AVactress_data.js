@@ -83,7 +83,7 @@ window.actressData = {
         "高桥圣子",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-477"
     },
     {
       "id": 35587,
@@ -100,7 +100,7 @@ window.actressData = {
         "高桥圣子",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEK-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-077"
     },
     {
       "id": 85516,
@@ -117,7 +117,7 @@ window.actressData = {
         "高桥圣子",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-099"
     },
     {
       "id": 81006,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-058"
     },
     {
       "id": 85390,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-040"
     },
     {
       "id": 68868,
@@ -168,7 +168,7 @@ window.actressData = {
         "优美あい",
         "星空ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-023"
     },
     {
       "id": 80266,
@@ -187,7 +187,7 @@ window.actressData = {
         "早乙女みなき",
         "芹沢レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-010"
     },
     {
       "id": 79688,
@@ -205,7 +205,7 @@ window.actressData = {
         "小田切ジュン",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-975"
     },
     {
       "id": 107314,
@@ -222,7 +222,7 @@ window.actressData = {
         "高桥圣子",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-791"
     },
     {
       "id": 88422,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-777"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-777"
     },
     {
       "id": 81790,
@@ -261,7 +261,7 @@ window.actressData = {
         "咲乃小春",
         "有季奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-178"
     },
     {
       "id": 76497,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-730"
     },
     {
       "id": 76998,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-719"
     },
     {
       "id": 78272,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-709"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-709"
     },
     {
       "id": 73032,
@@ -325,7 +325,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-678"
     },
     {
       "id": 73892,
@@ -342,7 +342,7 @@ window.actressData = {
         "高桥圣子",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-670"
     },
     {
       "id": 74195,
@@ -359,7 +359,7 @@ window.actressData = {
         "高桥圣子",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-663"
     },
     {
       "id": 93061,
@@ -376,7 +376,7 @@ window.actressData = {
         "高桥圣子",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-645"
     },
     {
       "id": 12705,
@@ -392,7 +392,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-356"
     },
     {
       "id": 73339,
@@ -408,7 +408,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-589"
     },
     {
       "id": 68630,
@@ -424,7 +424,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-582"
     },
     {
       "id": 73328,
@@ -440,7 +440,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-533"
     },
     {
       "id": 85442,
@@ -457,7 +457,7 @@ window.actressData = {
         "高桥圣子",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-522"
     },
     {
       "id": 105566,
@@ -473,7 +473,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-440"
     },
     {
       "id": 71352,
@@ -489,7 +489,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-399"
     },
     {
       "id": 97543,
@@ -505,7 +505,7 @@ window.actressData = {
       "actress": [
         "高桥圣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-377"
     }
   ]
 };

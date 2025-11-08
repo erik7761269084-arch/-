@@ -50,7 +50,7 @@ window.actressData = {
         "小栗操",
         "本田さとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-680"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-680"
     },
     {
       "id": 18828,
@@ -68,7 +68,7 @@ window.actressData = {
         "本田さとみ",
         "栗山莉绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-575"
     }
   ]
 };

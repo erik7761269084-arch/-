@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "美咲園香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-119"
     },
     {
       "id": 73222,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "美咲園香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBRAA-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBRAA-320"
     }
   ]
 };

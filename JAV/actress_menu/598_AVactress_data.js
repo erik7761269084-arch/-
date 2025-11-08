@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "瑶真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-455"
     },
     {
       "id": 6618,
@@ -61,7 +61,7 @@ window.actressData = {
         "瑶真由香",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-085"
     },
     {
       "id": 7373,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "瑶真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-229"
     },
     {
       "id": 71930,
@@ -94,7 +94,7 @@ window.actressData = {
         "瑶真由香",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-214"
     },
     {
       "id": 8848,
@@ -111,7 +111,7 @@ window.actressData = {
         "瑶真由香",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-142"
     },
     {
       "id": 76150,
@@ -128,7 +128,7 @@ window.actressData = {
         "瑶真由香",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-135"
     },
     {
       "id": 10394,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "瑶真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-964"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-964"
     },
     {
       "id": 95266,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "瑶真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMJK-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMJK-020"
     }
   ]
 };

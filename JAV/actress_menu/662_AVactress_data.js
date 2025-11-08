@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "花宮京子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIBB-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIBB-057"
     },
     {
       "id": 5343,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "花宮京子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-654"
     },
     {
       "id": 7442,
@@ -100,7 +100,7 @@ window.actressData = {
         "花宮京子",
         "長谷川れいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVMGM-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMGM-035"
     },
     {
       "id": 6752,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "花宮京子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-141"
     },
     {
       "id": 9916,
@@ -133,7 +133,7 @@ window.actressData = {
         "花宮京子",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-178"
     }
   ]
 };

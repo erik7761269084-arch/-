@@ -55,7 +55,7 @@ window.actressData = {
         "小田切ジュン",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-264"
     },
     {
       "id": 3807,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "瀧本雫葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-257"
     },
     {
       "id": 5210,
@@ -88,7 +88,7 @@ window.actressData = {
         "瀧本雫葉",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-240"
     },
     {
       "id": 5566,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "瀧本雫葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-235"
     },
     {
       "id": 6947,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "瀧本雫葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-219"
     },
     {
       "id": 8509,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "瀧本雫葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-197"
     },
     {
       "id": 16706,
@@ -153,7 +153,7 @@ window.actressData = {
         "瀧本雫葉",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-067"
     },
     {
       "id": 17150,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "瀧本雫葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-056"
     }
   ]
 };

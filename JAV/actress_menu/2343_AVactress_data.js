@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "小桜沙树"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMU-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMU-079"
     }
   ]
 };

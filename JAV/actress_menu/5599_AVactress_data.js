@@ -35,7 +35,7 @@ window.actressData = {
         "泉田栞",
         "もっともあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-073"
     }
   ]
 };

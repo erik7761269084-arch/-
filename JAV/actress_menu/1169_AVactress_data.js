@@ -56,7 +56,7 @@ window.actressData = {
         "通野未帆",
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-474"
     },
     {
       "id": 90382,
@@ -80,7 +80,7 @@ window.actressData = {
         "星奈爱",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PBD-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-454"
     },
     {
       "id": 90369,
@@ -104,7 +104,7 @@ window.actressData = {
         "安倍亜沙美",
         "樱井まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PBD-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-450"
     },
     {
       "id": 90372,
@@ -129,7 +129,7 @@ window.actressData = {
         "永濑唯",
         "樱井まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PBD-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-426"
     },
     {
       "id": 84573,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-211"
     },
     {
       "id": 88110,
@@ -168,7 +168,7 @@ window.actressData = {
         "蕾",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-284"
     },
     {
       "id": 84786,
@@ -185,7 +185,7 @@ window.actressData = {
         "久留木玲",
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-188"
     },
     {
       "id": 85902,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRTD-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRTD-031"
     },
     {
       "id": 80227,
@@ -217,7 +217,7 @@ window.actressData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-979"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-979"
     },
     {
       "id": 80051,
@@ -237,7 +237,7 @@ window.actressData = {
         "タイ",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-073"
     },
     {
       "id": 85526,
@@ -253,7 +253,7 @@ window.actressData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-067"
     },
     {
       "id": 80073,
@@ -270,7 +270,7 @@ window.actressData = {
         "月乃露娜",
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-721"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-721"
     },
     {
       "id": 79219,
@@ -286,7 +286,7 @@ window.actressData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-503"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-503"
     },
     {
       "id": 86775,
@@ -302,7 +302,7 @@ window.actressData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-498"
     },
     {
       "id": 78699,
@@ -318,7 +318,7 @@ window.actressData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-067"
     },
     {
       "id": 88325,
@@ -336,7 +336,7 @@ window.actressData = {
         "蓮見天",
         "松井さあや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-283"
     },
     {
       "id": 86722,
@@ -352,7 +352,7 @@ window.actressData = {
       "actress": [
         "堀北わん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACN-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACN-022"
     },
     {
       "id": 86868,
@@ -369,7 +369,7 @@ window.actressData = {
         "堀北わん",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-130"
     }
   ]
 };

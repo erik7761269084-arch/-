@@ -53,7 +53,7 @@ window.actressData = {
         "水瀬りた",
         "愛野ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
     },
     {
       "id": 9349,
@@ -71,7 +71,7 @@ window.actressData = {
         "一之瀨戀",
         "水瀬りた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-793"
     },
     {
       "id": 10515,
@@ -99,7 +99,7 @@ window.actressData = {
         "れみ",
         "安藤ハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
     }
   ]
 };

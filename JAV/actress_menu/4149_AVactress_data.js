@@ -40,7 +40,7 @@ window.actressData = {
         "杏璃さや",
         "爱瀬美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-030"
     },
     {
       "id": 71405,
@@ -59,7 +59,7 @@ window.actressData = {
         "市川润",
         "爱瀬美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-031"
     },
     {
       "id": 78181,
@@ -84,7 +84,7 @@ window.actressData = {
         "五十岚かな",
         "桜庭このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-232"
     },
     {
       "id": 76806,
@@ -103,7 +103,7 @@ window.actressData = {
         "爱瀬美希",
         "天音ゆさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-394"
     }
   ]
 };

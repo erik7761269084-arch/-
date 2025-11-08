@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "森菜菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLO-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-015"
     },
     {
       "id": 73851,
@@ -49,7 +49,7 @@ window.actressData = {
         "相沢夏帆",
         "森菜菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKSK-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-003"
     },
     {
       "id": 82408,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "森菜菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-464"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-464"
     },
     {
       "id": 102901,
@@ -82,7 +82,7 @@ window.actressData = {
         "高坂ますみ",
         "森菜菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-119-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-119-"
     },
     {
       "id": 68914,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "森菜菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MADA-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADA-042"
     }
   ]
 };

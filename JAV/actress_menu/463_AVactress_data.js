@@ -66,7 +66,7 @@ window.actressData = {
         "楠愛里紗",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-971"
     },
     {
       "id": 10017,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "楠愛里紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-954"
     },
     {
       "id": 16465,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "楠愛里紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-739"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-739"
     },
     {
       "id": 16943,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "楠愛里紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-725"
     },
     {
       "id": 17425,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "楠愛里紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-711"
     },
     {
       "id": 16502,
@@ -147,7 +147,7 @@ window.actressData = {
         "楠愛里紗",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-657"
     }
   ]
 };

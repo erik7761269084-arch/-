@@ -36,7 +36,7 @@ window.actressData = {
         "小日向める",
         "本田萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-192"
     }
   ]
 };

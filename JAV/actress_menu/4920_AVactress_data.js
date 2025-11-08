@@ -33,7 +33,7 @@ window.actressData = {
         "椿莉香",
         "伊藤かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GENM-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GENM-090"
     },
     {
       "id": 97677,
@@ -51,7 +51,7 @@ window.actressData = {
         "鲛岛",
         "伊藤かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-806"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-806"
     },
     {
       "id": 97690,
@@ -70,7 +70,7 @@ window.actressData = {
         "玉木玲",
         "伊藤かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-105"
     }
   ]
 };

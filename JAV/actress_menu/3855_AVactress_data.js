@@ -37,7 +37,7 @@ window.actressData = {
         "大冢千秋",
         "伊东玲美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-022"
     },
     {
       "id": 68868,
@@ -56,7 +56,7 @@ window.actressData = {
         "优美あい",
         "星空ありす"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-023"
     },
     {
       "id": 85454,
@@ -75,7 +75,7 @@ window.actressData = {
         "夏目ミュウ",
         "SARINA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-016"
     },
     {
       "id": 85447,
@@ -96,7 +96,7 @@ window.actressData = {
         "亜佐仓みんと",
         "长谷川葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-020"
     },
     {
       "id": 85420,
@@ -120,7 +120,7 @@ window.actressData = {
         "长谷川ゆうこ",
         "瀬名凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-019"
     },
     {
       "id": 85411,
@@ -141,7 +141,7 @@ window.actressData = {
         "水泽アイサ",
         "长瀬あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-021"
     },
     {
       "id": 85395,
@@ -159,7 +159,7 @@ window.actressData = {
         "夏目ミュウ",
         "松本亜璃沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-018"
     },
     {
       "id": 80277,
@@ -177,7 +177,7 @@ window.actressData = {
         "瀬名凉子",
         "桜井かりん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-013"
     },
     {
       "id": 80266,
@@ -196,7 +196,7 @@ window.actressData = {
         "早乙女みなき",
         "芹沢レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-010"
     },
     {
       "id": 80258,
@@ -216,7 +216,7 @@ window.actressData = {
         "冈部真理子",
         "日吉ルミコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-014"
     },
     {
       "id": 80096,
@@ -234,7 +234,7 @@ window.actressData = {
         "花芽有朱",
         "夏目ミュウ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-003"
     }
   ]
 };

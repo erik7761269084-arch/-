@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "若本あん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SS-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SS-134"
     }
   ]
 };

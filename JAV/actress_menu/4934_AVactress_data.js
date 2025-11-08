@@ -40,7 +40,7 @@ window.actressData = {
         "凉美ほのか",
         "一ノ瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPV-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPV-021"
     },
     {
       "id": 82657,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-548"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-548"
     },
     {
       "id": 82397,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-536"
     },
     {
       "id": 79962,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-438"
     },
     {
       "id": 82518,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-635"
     }
   ]
 };

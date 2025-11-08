@@ -69,7 +69,7 @@ window.actressData = {
         "七海雛",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-471"
     },
     {
       "id": 7342,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "冰堂梨梨愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-241"
     }
   ]
 };

@@ -39,7 +39,7 @@ window.actressData = {
         "菊川みつ叶",
         "富永舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-052"
     },
     {
       "id": 81637,
@@ -61,7 +61,7 @@ window.actressData = {
         "富永舞",
         "久我かのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-024"
     },
     {
       "id": 75126,
@@ -81,7 +81,7 @@ window.actressData = {
         "星咲せいら",
         "富永舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GETS-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-126"
     },
     {
       "id": 74605,
@@ -98,7 +98,7 @@ window.actressData = {
         "杏树",
         "富永舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1097"
     }
   ]
 };

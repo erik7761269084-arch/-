@@ -41,7 +41,7 @@ window.actressData = {
         "夏日风",
         "小春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EVIS-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EVIS-489"
     },
     {
       "id": 83182,
@@ -61,7 +61,7 @@ window.actressData = {
         "星岛るり",
         "世罗いのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-313"
     },
     {
       "id": 81960,
@@ -81,7 +81,7 @@ window.actressData = {
         "NIMO",
         "悠月アイシャ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-330"
     },
     {
       "id": 76164,
@@ -101,7 +101,7 @@ window.actressData = {
         "立花芽衣",
         "新田理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-181"
     },
     {
       "id": 77268,
@@ -123,7 +123,7 @@ window.actressData = {
         "柳川まこ",
         "NIMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-260"
     },
     {
       "id": 77055,
@@ -141,7 +141,7 @@ window.actressData = {
         "海空花",
         "NIMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POST-468"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-468"
     },
     {
       "id": 87541,
@@ -161,7 +161,7 @@ window.actressData = {
         "NIMO",
         "香山亜衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-596"
     },
     {
       "id": 73252,
@@ -182,7 +182,7 @@ window.actressData = {
         "なつめ爱梨",
         "NIMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-506"
     },
     {
       "id": 77155,
@@ -201,7 +201,7 @@ window.actressData = {
         "NIMO",
         "河原かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POST-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
     }
   ]
 };

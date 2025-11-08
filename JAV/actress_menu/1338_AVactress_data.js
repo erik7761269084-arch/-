@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "小澤瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-020"
     },
     {
       "id": 1931,
@@ -71,7 +71,7 @@ window.actressData = {
         "小澤瑪麗亞",
         "原小雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-020"
     },
     {
       "id": 1860,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "小澤瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-022"
     },
     {
       "id": 82563,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "小澤瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IESP-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-505"
     }
   ]
 };

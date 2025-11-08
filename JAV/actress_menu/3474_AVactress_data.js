@@ -46,7 +46,7 @@ window.actressData = {
         "池田マリナ",
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-248"
     },
     {
       "id": 66591,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-753"
     },
     {
       "id": 67020,
@@ -79,7 +79,7 @@ window.actressData = {
         "左慈半造",
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-490"
     },
     {
       "id": 78094,
@@ -96,7 +96,7 @@ window.actressData = {
         "鲛岛",
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-454"
     },
     {
       "id": 93613,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-024"
     },
     {
       "id": 89160,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TANP-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-025"
     },
     {
       "id": 88651,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YAKO-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YAKO-044"
     },
     {
       "id": 87389,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-050"
     },
     {
       "id": 87385,
@@ -177,7 +177,7 @@ window.actressData = {
         "左慈半造",
         "凉宫ラム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-034"
     }
   ]
 };

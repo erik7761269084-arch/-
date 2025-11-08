@@ -40,7 +40,7 @@ window.actressData = {
         "篠宫千明",
         "眞ゆみ恵麻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-431"
     },
     {
       "id": 69605,
@@ -60,7 +60,7 @@ window.actressData = {
         "美里亜希",
         "藤崎美冬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-396"
     },
     {
       "id": 75666,
@@ -79,7 +79,7 @@ window.actressData = {
         "奈良桥ちえ",
         "沢舞桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5196"
     }
   ]
 };

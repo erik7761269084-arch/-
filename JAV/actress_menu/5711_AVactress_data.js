@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "永野玲菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-085"
     },
     {
       "id": 91079,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "永野玲菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-162"
     }
   ]
 };

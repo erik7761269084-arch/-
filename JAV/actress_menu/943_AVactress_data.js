@@ -51,7 +51,7 @@ window.actressData = {
         "茉宮渚希",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-714"
     },
     {
       "id": 4362,
@@ -69,7 +69,7 @@ window.actressData = {
         "美雲そら",
         "生田りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-269"
     },
     {
       "id": 16640,
@@ -86,7 +86,7 @@ window.actressData = {
         "生田りん",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-306"
     }
   ]
 };

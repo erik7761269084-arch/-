@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "小坂七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-506"
     },
     {
       "id": 8287,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "小坂七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-631"
     },
     {
       "id": 8631,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "小坂七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-479"
     },
     {
       "id": 9071,
@@ -115,7 +115,7 @@ window.actressData = {
         "小坂七香",
         "星宫一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-731"
     },
     {
       "id": 8998,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "小坂七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-633"
     },
     {
       "id": 9448,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "小坂七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-458"
     },
     {
       "id": 10323,
@@ -165,7 +165,7 @@ window.actressData = {
         "鲛岛",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-448"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-448"
     },
     {
       "id": 10267,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "小坂七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-106"
     },
     {
       "id": 13838,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "小坂七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-213"
     },
     {
       "id": 14497,
@@ -214,7 +214,7 @@ window.actressData = {
         "小坂七香",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-168"
     }
   ]
 };

@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "豊崎清香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-405"
     },
     {
       "id": 62667,
@@ -63,7 +63,7 @@ window.actressData = {
         "豊崎清香",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-304"
     },
     {
       "id": 61905,
@@ -82,7 +82,7 @@ window.actressData = {
         "澤乃明日香",
         "山本かをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEZ-803"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-803"
     },
     {
       "id": 6359,
@@ -101,7 +101,7 @@ window.actressData = {
         "豊崎清香",
         "TAE"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-291"
     },
     {
       "id": 93701,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "豊崎清香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-013"
     },
     {
       "id": 106173,
@@ -134,7 +134,7 @@ window.actressData = {
         "豊崎清香",
         "みっちー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-183"
     },
     {
       "id": 89748,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "豊崎清香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-159"
     },
     {
       "id": 89821,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "豊崎清香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-174"
     },
     {
       "id": 89737,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "豊崎清香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-168"
     },
     {
       "id": 89719,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "豊崎清香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-152"
     },
     {
       "id": 87864,
@@ -215,7 +215,7 @@ window.actressData = {
         "豊崎清香",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-147"
     }
   ]
 };

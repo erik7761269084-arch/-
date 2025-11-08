@@ -70,7 +70,7 @@ window.actressData = {
         "川村まなみ",
         "美原すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-537"
     },
     {
       "id": 5290,
@@ -87,7 +87,7 @@ window.actressData = {
         "吉井美希",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAM-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-249"
     },
     {
       "id": 5574,
@@ -104,7 +104,7 @@ window.actressData = {
         "吉井美希",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-963"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-963"
     },
     {
       "id": 5770,
@@ -125,7 +125,7 @@ window.actressData = {
         "美原すみれ",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-169"
     },
     {
       "id": 5893,
@@ -142,7 +142,7 @@ window.actressData = {
         "吉井美希",
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-145"
     },
     {
       "id": 9888,
@@ -159,7 +159,7 @@ window.actressData = {
         "吉井美希",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAM-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-231"
     },
     {
       "id": 82149,
@@ -180,7 +180,7 @@ window.actressData = {
         "后藤里香",
         "佐々木恋海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-298"
     }
   ]
 };

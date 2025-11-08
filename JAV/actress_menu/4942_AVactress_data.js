@@ -36,7 +36,7 @@ window.actressData = {
         "冈部真理子",
         "日吉ルミコ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-014"
     }
   ]
 };

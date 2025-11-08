@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "相内しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-057"
     }
   ]
 };

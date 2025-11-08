@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "爱田樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-96"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-96"
     },
     {
       "id": 1993,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "爱田樱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-88"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-88"
     }
   ]
 };

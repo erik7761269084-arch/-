@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "野野宮司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RPIN-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPIN-086"
     },
     {
       "id": 6572,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "野野宮司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UBUG-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UBUG-002"
     }
   ]
 };

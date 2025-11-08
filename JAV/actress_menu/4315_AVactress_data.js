@@ -37,7 +37,7 @@ window.actressData = {
         "しょーと",
         "すぱいく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-533"
     },
     {
       "id": 9203,
@@ -57,7 +57,7 @@ window.actressData = {
         "しょーと",
         "すぱいく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-128"
     },
     {
       "id": 9426,
@@ -76,7 +76,7 @@ window.actressData = {
         "すぱいく",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-764"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-764"
     },
     {
       "id": 9407,
@@ -93,7 +93,7 @@ window.actressData = {
         "塚田詩織",
         "すぱいく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-143"
     }
   ]
 };

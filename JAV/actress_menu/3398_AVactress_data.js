@@ -41,7 +41,7 @@ window.actressData = {
         "宫沢优里",
         "沙原さゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-270"
     },
     {
       "id": 4254,
@@ -65,7 +65,7 @@ window.actressData = {
         "石川さとこ",
         "真白希美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-403"
     },
     {
       "id": 93432,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "远藤しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NATR-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-731"
     },
     {
       "id": 93393,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "远藤しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEWM-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-084"
     },
     {
       "id": 81356,
@@ -115,7 +115,7 @@ window.actressData = {
         "远藤しおり",
         "浅宫ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVHJ-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-036"
     },
     {
       "id": 74977,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "远藤しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-929"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-929"
     },
     {
       "id": 76359,
@@ -150,7 +150,7 @@ window.actressData = {
         "远藤しおり",
         "七海ひさ代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-043"
     }
   ]
 };

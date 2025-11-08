@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "尾上みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-090"
     },
     {
       "id": 91038,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "尾上みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-086"
     },
     {
       "id": 91081,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "尾上みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-163"
     }
   ]
 };

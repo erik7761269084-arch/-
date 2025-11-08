@@ -45,7 +45,7 @@ window.actressData = {
         "春川せせら",
         "大岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBSS-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-029"
     },
     {
       "id": 70269,
@@ -68,7 +68,7 @@ window.actressData = {
         "琴羽雫",
         "香纯あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-528"
     },
     {
       "id": 72732,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "琴羽雫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LID-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LID-031"
     },
     {
       "id": 73582,
@@ -109,7 +109,7 @@ window.actressData = {
         "冲田奈々",
         "玉城マイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
     }
   ]
 };

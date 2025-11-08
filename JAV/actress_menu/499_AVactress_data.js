@@ -69,7 +69,7 @@ window.actressData = {
         "稲森美憂",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NMEX-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NMEX-007"
     },
     {
       "id": 9003,
@@ -90,7 +90,7 @@ window.actressData = {
         "愛葉陽葵",
         "朝陽伊都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
     },
     {
       "id": 13084,
@@ -110,7 +110,7 @@ window.actressData = {
         "花芽有朱",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-051"
     },
     {
       "id": 17840,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "稲森美憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-890"
     },
     {
       "id": 18086,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "稲森美憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-859"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-859"
     },
     {
       "id": 18105,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "稲森美憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-840"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-840"
     },
     {
       "id": 18124,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "稲森美憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-821"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-821"
     },
     {
       "id": 18348,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "稲森美憂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-786"
     }
   ]
 };

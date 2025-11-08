@@ -49,7 +49,7 @@ window.actressData = {
         "栗原葵",
         "芹奈梨紅"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PESS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-002"
     },
     {
       "id": 1896,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "栗原葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S78"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S78"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "美里亜希",
         "若槻めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-242"
     },
     {
       "id": 94046,
@@ -51,7 +51,7 @@ window.actressData = {
         "雨宫凛",
         "美里亜希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-237"
     },
     {
       "id": 93742,
@@ -69,7 +69,7 @@ window.actressData = {
         "美里亜希",
         "椎名朝妃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-012"
     },
     {
       "id": 69605,
@@ -89,7 +89,7 @@ window.actressData = {
         "美里亜希",
         "藤崎美冬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-396"
     }
   ]
 };

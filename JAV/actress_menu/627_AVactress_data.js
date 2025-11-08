@@ -48,7 +48,7 @@ window.actressData = {
         "香椎佳穂",
         "千葉彩芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-536"
     },
     {
       "id": 8753,
@@ -66,7 +66,7 @@ window.actressData = {
         "鈴木真夕",
         "香椎佳穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-006"
     },
     {
       "id": 10512,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "香椎佳穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-291"
     },
     {
       "id": 10811,
@@ -103,7 +103,7 @@ window.actressData = {
         "東雲怜弥",
         "成宮仁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-170"
     }
   ]
 };

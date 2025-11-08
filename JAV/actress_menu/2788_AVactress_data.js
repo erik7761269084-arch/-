@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "桜结奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-732"
     },
     {
       "id": 72428,
@@ -57,7 +57,7 @@ window.actressData = {
         "桜结奈",
         "真田さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AFFA-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFFA-004"
     }
   ]
 };

@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "天瀬由花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-170"
     },
     {
       "id": 7238,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "天瀬由花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OTIN-014"
     },
     {
       "id": 8110,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "天瀬由花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-027"
     }
   ]
 };

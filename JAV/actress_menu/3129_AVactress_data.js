@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "堀口小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-193"
     },
     {
       "id": 75927,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "堀口小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-125"
     },
     {
       "id": 59888,
@@ -66,7 +66,7 @@ window.actressData = {
         "平冈里枝子",
         "堀口小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3429"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "森林原人",
         "姫乃まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIC-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-066"
     }
   ]
 };

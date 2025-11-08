@@ -36,7 +36,7 @@ window.actressData = {
         "平川琴菜",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-149"
     },
     {
       "id": 86493,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "平川琴菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-854"
     },
     {
       "id": 86138,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "平川琴菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-028"
     },
     {
       "id": 79717,
@@ -85,7 +85,7 @@ window.actressData = {
         "塚田詩織",
         "平川琴菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAX-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAX-058"
     },
     {
       "id": 81431,
@@ -102,7 +102,7 @@ window.actressData = {
         "管野静香",
         "平川琴菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMN-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-211"
     },
     {
       "id": 75607,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "平川琴菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21441"
     },
     {
       "id": 81768,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "平川琴菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MICA-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MICA-022"
     },
     {
       "id": 77699,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "平川琴菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-322"
     }
   ]
 };

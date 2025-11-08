@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-332"
     },
     {
       "id": 84431,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-317"
     },
     {
       "id": 79522,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-271"
     },
     {
       "id": 71871,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-036"
     },
     {
       "id": 86692,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-983"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-983"
     },
     {
       "id": 97734,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-966"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-966"
     },
     {
       "id": 81591,
@@ -135,7 +135,7 @@ window.actressData = {
         "永濑未萌",
         "藤江史帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRV-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRV-026"
     },
     {
       "id": 83450,
@@ -155,7 +155,7 @@ window.actressData = {
         "タツ",
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-956"
     },
     {
       "id": 71756,
@@ -172,7 +172,7 @@ window.actressData = {
         "大岛丈",
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-931"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-931"
     },
     {
       "id": 100177,
@@ -191,7 +191,7 @@ window.actressData = {
         "大岛丈",
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-921"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-921"
     },
     {
       "id": 71827,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-899"
     },
     {
       "id": 74988,
@@ -224,7 +224,7 @@ window.actressData = {
         "田渊正浩",
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-887"
     },
     {
       "id": 82740,
@@ -241,7 +241,7 @@ window.actressData = {
         "イセドン内村",
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-878"
     },
     {
       "id": 75031,
@@ -257,7 +257,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-865"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-865"
     },
     {
       "id": 88276,
@@ -273,7 +273,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-837"
     },
     {
       "id": 71804,
@@ -289,7 +289,7 @@ window.actressData = {
       "actress": [
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-818"
     },
     {
       "id": 71642,
@@ -307,7 +307,7 @@ window.actressData = {
         "しみけん",
         "永濑未萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BGN-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-051"
     }
   ]
 };

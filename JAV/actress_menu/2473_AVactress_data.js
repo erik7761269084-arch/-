@@ -73,7 +73,7 @@ window.actressData = {
         "高梨步",
         "しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-195"
     },
     {
       "id": 104615,
@@ -90,7 +90,7 @@ window.actressData = {
         "高梨步",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-221"
     }
   ]
 };

@@ -49,7 +49,7 @@ window.actressData = {
         "森川杏奈",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-427"
     },
     {
       "id": 70141,
@@ -67,7 +67,7 @@ window.actressData = {
         "真城杏",
         "森川杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WA-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-390"
     },
     {
       "id": 77956,
@@ -86,7 +86,7 @@ window.actressData = {
         "森川杏奈",
         "川口ともか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-039"
     }
   ]
 };

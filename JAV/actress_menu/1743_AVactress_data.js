@@ -47,7 +47,7 @@ window.actressData = {
         "安西瑠菜",
         "櫻理緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKAD-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAD-381"
     }
   ]
 };

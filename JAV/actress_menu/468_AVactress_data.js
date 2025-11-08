@@ -66,7 +66,7 @@ window.actressData = {
         "咲野瑞希",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-149"
     },
     {
       "id": 7638,
@@ -85,7 +85,7 @@ window.actressData = {
         "咲野瑞希",
         "安部藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-146"
     },
     {
       "id": 8612,
@@ -110,7 +110,7 @@ window.actressData = {
         "椎名ゆきの",
         "春瀬ももな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-798"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-798"
     },
     {
       "id": 8828,
@@ -128,7 +128,7 @@ window.actressData = {
         "戶川奈美",
         "咲野瑞希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-247"
     },
     {
       "id": 8770,
@@ -150,7 +150,7 @@ window.actressData = {
         "咲野瑞希",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-312"
     },
     {
       "id": 9028,
@@ -171,7 +171,7 @@ window.actressData = {
         "マリモン",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-195"
     },
     {
       "id": 10427,
@@ -189,7 +189,7 @@ window.actressData = {
         "五十嵐清華",
         "咲野瑞希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-237"
     }
   ]
 };

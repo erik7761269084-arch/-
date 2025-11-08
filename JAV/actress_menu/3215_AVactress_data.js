@@ -35,7 +35,7 @@ window.actressData = {
         "太刀茜祢",
         "磯山道"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-385"
     },
     {
       "id": 3556,
@@ -52,7 +52,7 @@ window.actressData = {
         "中山文香",
         "磯山道"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-359"
     },
     {
       "id": 66447,
@@ -70,7 +70,7 @@ window.actressData = {
         "青沼",
         "磯山道"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-876"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-876"
     }
   ]
 };

@@ -129,7 +129,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 91482,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "沙和檸檬"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-800"
     }
   ]
 };

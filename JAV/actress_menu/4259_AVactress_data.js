@@ -42,7 +42,7 @@ window.actressData = {
         "凉森玲梦",
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
       "id": 72288,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-660"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-660"
     },
     {
       "id": 75769,
@@ -75,7 +75,7 @@ window.actressData = {
         "森林原人",
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-403"
     },
     {
       "id": 99998,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-314"
     }
   ]
 };

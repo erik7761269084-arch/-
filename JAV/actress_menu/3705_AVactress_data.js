@@ -33,7 +33,7 @@ window.actressData = {
         "みっちー",
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-200"
     },
     {
       "id": 89534,
@@ -51,7 +51,7 @@ window.actressData = {
         "茅野亜美",
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-139"
     },
     {
       "id": 67294,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-034"
     },
     {
       "id": 67174,
@@ -88,7 +88,7 @@ window.actressData = {
         "香澄莉绪",
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-116"
     },
     {
       "id": 75537,
@@ -109,7 +109,7 @@ window.actressData = {
         "岬澪",
         "西村春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PARM-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PARM-158"
     },
     {
       "id": 83894,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=USAG-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-001"
     },
     {
       "id": 75832,
@@ -146,7 +146,7 @@ window.actressData = {
         "绫瀬さくら",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-820"
     },
     {
       "id": 98455,
@@ -166,7 +166,7 @@ window.actressData = {
         "绫瀬さくら",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-696"
     }
   ]
 };

@@ -60,7 +60,7 @@ window.actressData = {
         "安倍亜沙美",
         "深泽祈莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-282"
     },
     {
       "id": 90599,
@@ -83,7 +83,7 @@ window.actressData = {
         "黑川纱里奈",
         "飞鸟りいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-269"
     },
     {
       "id": 90619,
@@ -107,7 +107,7 @@ window.actressData = {
         "安倍亜沙美",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-267"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-267"
     },
     {
       "id": 88324,
@@ -126,7 +126,7 @@ window.actressData = {
         "及川大智",
         "香乃萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-281"
     },
     {
       "id": 91477,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "川村晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-796"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-796"
     },
     {
       "id": 88362,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "川村晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-933"
     }
   ]
 };

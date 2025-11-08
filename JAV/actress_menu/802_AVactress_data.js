@@ -65,7 +65,7 @@ window.actressData = {
         "櫻明菜",
         "夏川純子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-123"
     },
     {
       "id": 1526,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "愛乃娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-120"
     },
     {
       "id": 2064,
@@ -103,7 +103,7 @@ window.actressData = {
         "滝川ソフィア",
         "北田千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-91"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-91"
     },
     {
       "id": 1868,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "愛乃娜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-06"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-06"
     }
   ]
 };

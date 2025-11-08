@@ -33,7 +33,7 @@ window.actressData = {
         "山吹瞳",
         "松沢はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAD-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAD-036"
     }
   ]
 };

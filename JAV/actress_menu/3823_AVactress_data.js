@@ -36,7 +36,7 @@ window.actressData = {
         "月本衣织",
         "铃木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UPSM-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UPSM-185"
     }
   ]
 };

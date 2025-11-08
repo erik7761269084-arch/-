@@ -59,7 +59,7 @@ window.actressData = {
         "斎藤みくる",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-223"
     },
     {
       "id": 79812,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "斎藤みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-463"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-463"
     },
     {
       "id": 97774,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "斎藤みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIR-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-039"
     },
     {
       "id": 78628,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "斎藤みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTK-569"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTK-569"
     },
     {
       "id": 79088,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "斎藤みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAHP-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAHP-075"
     }
   ]
 };

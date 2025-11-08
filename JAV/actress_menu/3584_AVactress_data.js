@@ -42,7 +42,7 @@ window.actressData = {
         "藤下梨花",
         "大石忍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-154"
     },
     {
       "id": 107081,
@@ -60,7 +60,7 @@ window.actressData = {
         "大石忍",
         "金山ほの花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-150"
     },
     {
       "id": 83722,
@@ -80,7 +80,7 @@ window.actressData = {
         "美里诗织",
         "铃宫あき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-032"
     }
   ]
 };

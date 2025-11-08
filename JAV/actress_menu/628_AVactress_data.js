@@ -59,7 +59,7 @@ window.actressData = {
         "鲛岛",
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-030"
     },
     {
       "id": 6800,
@@ -76,7 +76,7 @@ window.actressData = {
         "松岡鈴",
         "松冈すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-022"
     },
     {
       "id": 12848,
@@ -95,7 +95,7 @@ window.actressData = {
         "松冈すず",
         "时多しほり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBR-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-018"
     }
   ]
 };

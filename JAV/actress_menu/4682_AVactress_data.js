@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "円さゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-106"
     },
     {
       "id": 77000,
@@ -51,7 +51,7 @@ window.actressData = {
         "玉木玲",
         "円さゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-093"
     }
   ]
 };

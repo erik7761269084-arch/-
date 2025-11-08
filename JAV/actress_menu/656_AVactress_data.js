@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-330"
     },
     {
       "id": 8040,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-316"
     },
     {
       "id": 8814,
@@ -77,7 +77,7 @@ window.actressData = {
         "松本翔子",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-300"
     },
     {
       "id": 9704,
@@ -94,7 +94,7 @@ window.actressData = {
         "松本翔子",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-292"
     },
     {
       "id": 13187,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-243"
     },
     {
       "id": 15276,
@@ -127,7 +127,7 @@ window.actressData = {
         "松本翔子",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-700"
     },
     {
       "id": 16362,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-576"
     },
     {
       "id": 106191,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-507"
     },
     {
       "id": 106212,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-472"
     },
     {
       "id": 90982,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-432"
     },
     {
       "id": 91664,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-384"
     },
     {
       "id": 91616,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "松本翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-336"
     }
   ]
 };

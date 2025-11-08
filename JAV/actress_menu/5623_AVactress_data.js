@@ -35,7 +35,7 @@ window.actressData = {
         "白石雪",
         "白石美树"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-152"
     }
   ]
 };

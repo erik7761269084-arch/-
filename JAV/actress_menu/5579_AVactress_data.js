@@ -33,7 +33,7 @@ window.actressData = {
         "篠崎ゆう",
         "川原まな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-017"
     }
   ]
 };

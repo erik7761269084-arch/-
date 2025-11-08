@@ -39,7 +39,7 @@ window.actressData = {
         "上岛美都子",
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMIX-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-049"
     },
     {
       "id": 62287,
@@ -56,7 +56,7 @@ window.actressData = {
         "鸣海遥子",
         "上岛美都子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-267"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-267"
     },
     {
       "id": 66423,
@@ -82,7 +82,7 @@ window.actressData = {
         "藤下梨花",
         "大石忍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-154"
     },
     {
       "id": 93450,
@@ -106,7 +106,7 @@ window.actressData = {
         "守谷多香子",
         "横山纱江子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-110"
     },
     {
       "id": 107631,
@@ -123,7 +123,7 @@ window.actressData = {
         "左慈半造",
         "上岛美都子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-191"
     },
     {
       "id": 87815,
@@ -140,7 +140,7 @@ window.actressData = {
         "上岛美都子",
         "菊川まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PES-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-056"
     },
     {
       "id": 83706,
@@ -163,7 +163,7 @@ window.actressData = {
         "成泽ひなみ",
         "岸谷すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-048"
     },
     {
       "id": 77036,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "上岛美都子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-129"
     }
   ]
 };

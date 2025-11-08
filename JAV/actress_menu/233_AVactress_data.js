@@ -69,7 +69,7 @@ window.actressData = {
         "伊藤舞雪",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-860"
     },
     {
       "id": 3959,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-853"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-853"
     },
     {
       "id": 4977,
@@ -102,7 +102,7 @@ window.actressData = {
         "伊藤舞雪",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-845"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-845"
     },
     {
       "id": 5732,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-827"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-827"
     },
     {
       "id": 6485,
@@ -135,7 +135,7 @@ window.actressData = {
         "伊藤舞雪",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-817"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-817"
     },
     {
       "id": 7212,
@@ -153,7 +153,7 @@ window.actressData = {
         "イセドン内村",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-808"
     },
     {
       "id": 7906,
@@ -170,7 +170,7 @@ window.actressData = {
         "伊藤舞雪",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-799"
     },
     {
       "id": 8681,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-780"
     },
     {
       "id": 9076,
@@ -203,7 +203,7 @@ window.actressData = {
         "山岸逢花",
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-733"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-733"
     },
     {
       "id": 9438,
@@ -220,7 +220,7 @@ window.actressData = {
         "伊藤舞雪",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-762"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-762"
     },
     {
       "id": 66282,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAVR-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAVR-388"
     },
     {
       "id": 16463,
@@ -253,7 +253,7 @@ window.actressData = {
         "伊藤舞雪",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-621"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-621"
     },
     {
       "id": 17469,
@@ -270,7 +270,7 @@ window.actressData = {
         "伊藤舞雪",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-589"
     },
     {
       "id": 106900,
@@ -286,7 +286,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-582"
     },
     {
       "id": 91056,
@@ -302,7 +302,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-526"
     },
     {
       "id": 91050,
@@ -318,7 +318,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-519"
     },
     {
       "id": 107309,
@@ -334,7 +334,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-465"
     },
     {
       "id": 91043,
@@ -350,7 +350,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-500"
     },
     {
       "id": 91044,
@@ -366,7 +366,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-447"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-447"
     },
     {
       "id": 91041,
@@ -382,7 +382,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-439"
     },
     {
       "id": 84131,
@@ -398,7 +398,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-428"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-428"
     },
     {
       "id": 67112,
@@ -414,7 +414,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-415"
     },
     {
       "id": 84164,
@@ -430,7 +430,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-400"
     },
     {
       "id": 66855,
@@ -447,7 +447,7 @@ window.actressData = {
         "山岸逢花",
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-386"
     },
     {
       "id": 84159,
@@ -464,7 +464,7 @@ window.actressData = {
         "伊藤舞雪",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-375"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-375"
     },
     {
       "id": 84151,
@@ -481,7 +481,7 @@ window.actressData = {
         "伊藤舞雪",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-365"
     },
     {
       "id": 86836,
@@ -497,7 +497,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-353"
     },
     {
       "id": 84039,
@@ -513,7 +513,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-337"
     },
     {
       "id": 84043,
@@ -530,7 +530,7 @@ window.actressData = {
         "伊藤舞雪",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-321"
     },
     {
       "id": 80197,
@@ -546,7 +546,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-313"
     },
     {
       "id": 79730,
@@ -562,7 +562,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-285"
     },
     {
       "id": 79220,
@@ -579,7 +579,7 @@ window.actressData = {
         "伊藤舞雪",
         "加山なつ子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-698"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-698"
     },
     {
       "id": 86853,
@@ -595,7 +595,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-273"
     },
     {
       "id": 79560,
@@ -611,7 +611,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-259"
     },
     {
       "id": 61040,
@@ -627,7 +627,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-243"
     },
     {
       "id": 86830,
@@ -643,7 +643,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-226"
     },
     {
       "id": 107243,
@@ -659,7 +659,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-091"
     },
     {
       "id": 82222,
@@ -675,7 +675,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-073"
     },
     {
       "id": 86779,
@@ -691,7 +691,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-053"
     },
     {
       "id": 83506,
@@ -708,7 +708,7 @@ window.actressData = {
         "伊藤舞雪",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-044"
     },
     {
       "id": 98268,
@@ -724,7 +724,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-038"
     },
     {
       "id": 98413,
@@ -740,7 +740,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-020"
     },
     {
       "id": 72253,
@@ -756,7 +756,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-003"
     },
     {
       "id": 74863,
@@ -772,7 +772,7 @@ window.actressData = {
       "actress": [
         "伊藤舞雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-992"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-992"
     }
   ]
 };

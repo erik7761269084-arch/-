@@ -48,7 +48,7 @@ window.actressData = {
         "ひなた唯",
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-394"
     },
     {
       "id": 68236,
@@ -74,7 +74,7 @@ window.actressData = {
         "秋吉多恵子",
         "有沢実纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-152"
     },
     {
       "id": 95192,
@@ -99,7 +99,7 @@ window.actressData = {
         "柏木舞子",
         "黒川珠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-344"
     },
     {
       "id": 100904,
@@ -118,7 +118,7 @@ window.actressData = {
         "爱乃零",
         "美園マリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-191"
     },
     {
       "id": 89559,
@@ -137,7 +137,7 @@ window.actressData = {
         "凉南佳奈",
         "七美せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-177"
     },
     {
       "id": 89551,
@@ -156,7 +156,7 @@ window.actressData = {
         "今藤雾子",
         "有沢実纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-167"
     },
     {
       "id": 89548,
@@ -174,7 +174,7 @@ window.actressData = {
         "新村晶",
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-158"
     },
     {
       "id": 89546,
@@ -193,7 +193,7 @@ window.actressData = {
         "希望美",
         "久美木マリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-151"
     },
     {
       "id": 83706,
@@ -216,7 +216,7 @@ window.actressData = {
         "成泽ひなみ",
         "岸谷すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-048"
     },
     {
       "id": 82701,
@@ -232,7 +232,7 @@ window.actressData = {
       "actress": [
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-293"
     },
     {
       "id": 75574,
@@ -248,7 +248,7 @@ window.actressData = {
       "actress": [
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-189"
     },
     {
       "id": 76822,
@@ -264,7 +264,7 @@ window.actressData = {
       "actress": [
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-448"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-448"
     },
     {
       "id": 97320,
@@ -280,7 +280,7 @@ window.actressData = {
       "actress": [
         "今藤雾子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-233"
     }
   ]
 };

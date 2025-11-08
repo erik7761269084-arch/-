@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "大原真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-275"
     },
     {
       "id": 13274,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "大原真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-265"
     },
     {
       "id": 14041,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "大原真由香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-263"
     }
   ]
 };

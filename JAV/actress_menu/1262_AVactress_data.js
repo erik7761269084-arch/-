@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOI-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOI-097"
     },
     {
       "id": 76679,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SY-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-189"
     },
     {
       "id": 83473,
@@ -85,7 +85,7 @@ window.actressData = {
         "タツ",
         "久远れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-063"
     },
     {
       "id": 82951,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1216"
     },
     {
       "id": 76472,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-077"
     },
     {
       "id": 75698,
@@ -138,7 +138,7 @@ window.actressData = {
         "若槻さくら",
         "堀口美衣奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-420"
     },
     {
       "id": 83181,
@@ -161,7 +161,7 @@ window.actressData = {
         "雾岛里绪菜",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-604"
     },
     {
       "id": 78414,
@@ -180,7 +180,7 @@ window.actressData = {
         "今井夏帆",
         "爱菜ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-094"
     },
     {
       "id": 102829,
@@ -197,7 +197,7 @@ window.actressData = {
         "黑川堇",
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-251-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-251-"
     },
     {
       "id": 88529,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-983"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-983"
     },
     {
       "id": 87936,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-532"
     },
     {
       "id": 74579,
@@ -246,7 +246,7 @@ window.actressData = {
         "雾岛里绪菜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKA-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKA-068"
     },
     {
       "id": 82742,
@@ -262,7 +262,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-356"
     },
     {
       "id": 74864,
@@ -278,7 +278,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21402"
     },
     {
       "id": 74059,
@@ -294,7 +294,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-164"
     },
     {
       "id": 82297,
@@ -310,7 +310,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-542"
     },
     {
       "id": 74619,
@@ -326,7 +326,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1117"
     },
     {
       "id": 19465,
@@ -342,7 +342,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-045"
     },
     {
       "id": 19464,
@@ -358,7 +358,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-036"
     },
     {
       "id": 19481,
@@ -377,7 +377,7 @@ window.actressData = {
         "南佳也",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-024"
     },
     {
       "id": 19490,
@@ -393,7 +393,7 @@ window.actressData = {
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-013"
     }
   ]
 };

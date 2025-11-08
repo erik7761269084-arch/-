@@ -35,7 +35,7 @@ window.actressData = {
         "岩月志保",
         "藤咲葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZUKO-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-003"
     }
   ]
 };

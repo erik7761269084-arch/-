@@ -41,7 +41,7 @@ window.actressData = {
         "香澄麗子",
         "香澄丽子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-035"
     },
     {
       "id": 8391,
@@ -58,7 +58,7 @@ window.actressData = {
         "桃井しずか",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-424"
     },
     {
       "id": 9176,
@@ -75,7 +75,7 @@ window.actressData = {
         "桃井しずか",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-411"
     }
   ]
 };

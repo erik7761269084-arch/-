@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "有星青理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-649"
     },
     {
       "id": 10408,
@@ -69,7 +69,7 @@ window.actressData = {
         "有星青理",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-126"
     },
     {
       "id": 17323,
@@ -86,7 +86,7 @@ window.actressData = {
         "有星青理",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDRD-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-012"
     }
   ]
 };

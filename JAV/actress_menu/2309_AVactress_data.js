@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "華月星那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-325"
     }
   ]
 };

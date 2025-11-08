@@ -35,7 +35,7 @@ window.actressData = {
         "知念亜弥芽",
         "七瀬ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-241"
     }
   ]
 };

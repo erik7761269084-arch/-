@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "大谷双葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-054"
     },
     {
       "id": 3595,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "大谷双葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-012"
     },
     {
       "id": 4486,
@@ -81,7 +81,7 @@ window.actressData = {
         "大谷双葉",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-023"
     },
     {
       "id": 6100,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "大谷双葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-010"
     },
     {
       "id": 6869,
@@ -114,7 +114,7 @@ window.actressData = {
         "大谷双葉",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-993"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-993"
     }
   ]
 };

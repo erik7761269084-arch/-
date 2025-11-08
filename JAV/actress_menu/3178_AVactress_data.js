@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "糸芝はるほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JDNC-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JDNC-001"
     },
     {
       "id": 63787,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "糸芝はるほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MZK-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MZK-003"
     }
   ]
 };

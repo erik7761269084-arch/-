@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "杏奈莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-38"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-38"
     },
     {
       "id": 97796,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "杏奈莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-627"
     }
   ]
 };

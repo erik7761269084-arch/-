@@ -59,7 +59,7 @@ window.actressData = {
         "小日向める",
         "本田萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-192"
     },
     {
       "id": 8197,
@@ -80,7 +80,7 @@ window.actressData = {
         "藤田柚",
         "四乃宮桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-203"
     },
     {
       "id": 10548,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "四乃宮桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-292"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "RARA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-485"
     },
     {
       "id": 9258,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "RARA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-457"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-457"
     },
     {
       "id": 10146,
@@ -83,7 +83,7 @@ window.actressData = {
         "RARA",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-436"
     },
     {
       "id": 10771,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "RARA"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-416"
     }
   ]
 };

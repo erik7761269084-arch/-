@@ -49,7 +49,7 @@ window.actressData = {
         "新尾きり子",
         "神波多一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-366"
     },
     {
       "id": 8413,
@@ -74,7 +74,7 @@ window.actressData = {
         "若宫はずき",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-357"
     }
   ]
 };

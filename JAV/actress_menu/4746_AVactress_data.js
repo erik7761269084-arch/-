@@ -42,7 +42,7 @@ window.actressData = {
         "雨宫いぶき",
         "高岛理恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRLE-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-053"
     },
     {
       "id": 89782,
@@ -62,7 +62,7 @@ window.actressData = {
         "若槻みづな",
         "大森しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-175"
     },
     {
       "id": 83682,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "大森しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JMDS-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMDS-001"
     },
     {
       "id": 83502,
@@ -95,7 +95,7 @@ window.actressData = {
         "本真友里",
         "大森しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-702"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-702"
     },
     {
       "id": 77664,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "大森しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-174"
     },
     {
       "id": 77735,
@@ -128,7 +128,7 @@ window.actressData = {
         "篠崎环奈",
         "大森しずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-956"
     }
   ]
 };

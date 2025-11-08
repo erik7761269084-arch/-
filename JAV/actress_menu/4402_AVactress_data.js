@@ -42,7 +42,7 @@ window.actressData = {
         "小园梨央",
         "中西南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-184"
     },
     {
       "id": 75036,
@@ -62,7 +62,7 @@ window.actressData = {
         "东条有希",
         "小园梨央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-049"
     },
     {
       "id": 73763,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "小园梨央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-079"
     }
   ]
 };

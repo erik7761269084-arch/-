@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "大空美緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-09"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-09"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "北川莉乃",
         "伊东红兰"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-031"
     }
   ]
 };

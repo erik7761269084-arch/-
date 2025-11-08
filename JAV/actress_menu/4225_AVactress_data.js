@@ -35,7 +35,7 @@ window.actressData = {
         "ひなちゆん",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-053"
     },
     {
       "id": 82180,
@@ -57,7 +57,7 @@ window.actressData = {
         "志戸哲也",
         "堀沢ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-292"
     },
     {
       "id": 75646,
@@ -79,7 +79,7 @@ window.actressData = {
         "舞岛あかり",
         "夜空せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-105"
     },
     {
       "id": 72136,
@@ -98,7 +98,7 @@ window.actressData = {
         "若槻さくら",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-188"
     },
     {
       "id": 74820,
@@ -115,7 +115,7 @@ window.actressData = {
         "田渊正浩",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-994"
     },
     {
       "id": 74567,
@@ -133,7 +133,7 @@ window.actressData = {
         "玉木玲",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-693"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-693"
     },
     {
       "id": 73724,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-351"
     },
     {
       "id": 73034,
@@ -167,7 +167,7 @@ window.actressData = {
         "玉木玲",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-075"
     }
   ]
 };

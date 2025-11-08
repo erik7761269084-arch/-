@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "最上もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SXLF-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXLF-002"
     },
     {
       "id": 62294,
@@ -75,7 +75,7 @@ window.actressData = {
         "最上もも",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-537"
     },
     {
       "id": 5242,
@@ -95,7 +95,7 @@ window.actressData = {
         "逢坂瞳",
         "最上もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-252"
     },
     {
       "id": 91586,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "最上もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-253"
     }
   ]
 };

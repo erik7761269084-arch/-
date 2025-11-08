@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "岬光莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-465"
     },
     {
       "id": 3794,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "岬光莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-427"
     },
     {
       "id": 4749,
@@ -90,7 +90,7 @@ window.actressData = {
         "岬光莉",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-397"
     },
     {
       "id": 5512,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "岬光莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-384"
     },
     {
       "id": 6296,
@@ -123,7 +123,7 @@ window.actressData = {
         "岬光莉",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-343"
     },
     {
       "id": 7081,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "岬光莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-039"
     }
   ]
 };

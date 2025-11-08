@@ -49,7 +49,7 @@ window.actressData = {
         "仲川空",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
     },
     {
       "id": 9785,
@@ -71,7 +71,7 @@ window.actressData = {
         "宇佐美みおん",
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-268"
     },
     {
       "id": 93682,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-080"
     },
     {
       "id": 17566,
@@ -104,7 +104,7 @@ window.actressData = {
         "仲川空",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-190"
     },
     {
       "id": 89470,
@@ -122,7 +122,7 @@ window.actressData = {
         "仲川空",
         "日野りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVCAO-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-004"
     },
     {
       "id": 78532,
@@ -140,7 +140,7 @@ window.actressData = {
         "伊織雛乃",
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVVRT-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-036"
     },
     {
       "id": 89375,
@@ -157,7 +157,7 @@ window.actressData = {
         "菜月光",
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-204"
     },
     {
       "id": 89948,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-170"
     },
     {
       "id": 89383,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-200"
     },
     {
       "id": 91377,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHUC-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-034"
     },
     {
       "id": 88834,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TDAN-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TDAN-003"
     }
   ]
 };

@@ -60,7 +60,7 @@ window.actressData = {
         "佐々木恋海",
         "ゆうきさやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-343"
     },
     {
       "id": 97852,
@@ -79,7 +79,7 @@ window.actressData = {
         "松坂美纪",
         "荻野舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-782"
     },
     {
       "id": 103449,
@@ -97,7 +97,7 @@ window.actressData = {
         "堀口奈津美",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-117"
     },
     {
       "id": 105320,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "堀口奈津美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-727"
     }
   ]
 };

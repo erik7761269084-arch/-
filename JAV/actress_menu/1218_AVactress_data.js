@@ -62,7 +62,7 @@ window.actressData = {
         "大岛丈",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-175"
     }
   ]
 };

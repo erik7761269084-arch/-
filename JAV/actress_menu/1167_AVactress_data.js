@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "柏木文香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-247"
     },
     {
       "id": 5369,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "柏木文香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-233"
     }
   ]
 };

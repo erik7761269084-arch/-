@@ -28,11 +28,11 @@ window.actressData = {
       "type": "有码",
       "company": "無垢",
       "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025345534534_33046_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025345534534_33046_s.webp",
       "actress": [
         "港こう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-336"
     }
   ]
 };

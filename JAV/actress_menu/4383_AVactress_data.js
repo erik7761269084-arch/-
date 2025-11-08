@@ -34,7 +34,7 @@ window.actressData = {
         "姫野らん",
         "愛川ゆめな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-995"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-995"
     }
   ]
 };

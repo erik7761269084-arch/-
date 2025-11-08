@@ -39,7 +39,7 @@ window.actressData = {
         "柏原友美恵",
         "高岛恭子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5222"
     },
     {
       "id": 83499,
@@ -59,7 +59,7 @@ window.actressData = {
         "叶月美音",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDT-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDT-629"
     }
   ]
 };

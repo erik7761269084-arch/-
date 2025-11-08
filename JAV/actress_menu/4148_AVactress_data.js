@@ -33,7 +33,7 @@ window.actressData = {
         "彩奈莉娜",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-422"
     },
     {
       "id": 72355,
@@ -50,7 +50,7 @@ window.actressData = {
         "白木優子",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-413"
     },
     {
       "id": 9009,
@@ -67,7 +67,7 @@ window.actressData = {
         "玉城夏帆",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-037"
     },
     {
       "id": 9180,
@@ -84,7 +84,7 @@ window.actressData = {
         "佐久間楓",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-407"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-407"
     },
     {
       "id": 9177,
@@ -101,7 +101,7 @@ window.actressData = {
         "藤咲紫",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-410"
     },
     {
       "id": 9648,
@@ -118,7 +118,7 @@ window.actressData = {
         "本真友里",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-402"
     },
     {
       "id": 77370,
@@ -135,7 +135,7 @@ window.actressData = {
         "白木優子",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-389"
     },
     {
       "id": 75990,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-283"
     },
     {
       "id": 75984,
@@ -168,7 +168,7 @@ window.actressData = {
         "清巳麗乃",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-282"
     },
     {
       "id": 93272,
@@ -185,7 +185,7 @@ window.actressData = {
         "有贺みなほ",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-273"
     },
     {
       "id": 13827,
@@ -202,7 +202,7 @@ window.actressData = {
         "大石紗季",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-215"
     },
     {
       "id": 93425,
@@ -219,7 +219,7 @@ window.actressData = {
         "安野由美",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-114"
     },
     {
       "id": 93078,
@@ -236,7 +236,7 @@ window.actressData = {
         "南天音",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-272"
     },
     {
       "id": 91554,
@@ -252,7 +252,7 @@ window.actressData = {
       "actress": [
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-304"
     },
     {
       "id": 91546,
@@ -269,7 +269,7 @@ window.actressData = {
         "本真友里",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-305"
     },
     {
       "id": 91674,
@@ -286,7 +286,7 @@ window.actressData = {
         "ミチくん",
         "末藤さより"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AED-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AED-225"
     },
     {
       "id": 89630,
@@ -303,7 +303,7 @@ window.actressData = {
         "ミチくん",
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-189"
     }
   ]
 };

@@ -47,7 +47,7 @@ window.actressData = {
         "赤井美希",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-489"
     },
     {
       "id": 4682,
@@ -64,7 +64,7 @@ window.actressData = {
         "赤井美希",
         "なっつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-479"
     },
     {
       "id": 6269,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "赤井美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-338"
     },
     {
       "id": 7703,
@@ -97,7 +97,7 @@ window.actressData = {
         "赤井美希",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-315"
     },
     {
       "id": 8481,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "赤井美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-311"
     },
     {
       "id": 9199,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "赤井美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-118"
     },
     {
       "id": 10733,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "赤井美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-939"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-939"
     },
     {
       "id": 15567,
@@ -162,7 +162,7 @@ window.actressData = {
         "赤井美希",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-611"
     },
     {
       "id": 17116,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "赤井美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-487"
     },
     {
       "id": 17618,
@@ -196,7 +196,7 @@ window.actressData = {
         "赤井美希",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-445"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-445"
     }
   ]
 };

@@ -56,7 +56,7 @@ window.actressData = {
         "松下紗栄子",
         "松下纱栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-461"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-461"
     },
     {
       "id": 19119,
@@ -73,7 +73,7 @@ window.actressData = {
         "松下紗栄子",
         "松下纱栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-219"
     },
     {
       "id": 19140,
@@ -90,7 +90,7 @@ window.actressData = {
         "松下紗栄子",
         "松下纱栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-216"
     },
     {
       "id": 19621,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "松下紗栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-567"
     },
     {
       "id": 19611,
@@ -123,7 +123,7 @@ window.actressData = {
         "松下紗栄子",
         "松下纱栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-327"
     },
     {
       "id": 19557,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "松下紗栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-187"
     },
     {
       "id": 19592,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "松下紗栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-179"
     },
     {
       "id": 19566,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "松下紗栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-110"
     },
     {
       "id": 19570,
@@ -188,7 +188,7 @@ window.actressData = {
         "松下紗栄子",
         "松下纱栄子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-805"
     }
   ]
 };

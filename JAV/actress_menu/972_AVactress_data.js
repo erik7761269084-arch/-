@@ -62,7 +62,7 @@ window.actressData = {
         "夏巳百合香",
         "橋本理佐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-825"
     },
     {
       "id": 7125,
@@ -87,7 +87,7 @@ window.actressData = {
         "夏巳百合香",
         "橋本理佐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-808"
     },
     {
       "id": 7253,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "夏巳百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKDV-773"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-773"
     },
     {
       "id": 73215,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "夏巳百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-359"
     },
     {
       "id": 9583,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "夏巳百合香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-341"
     }
   ]
 };

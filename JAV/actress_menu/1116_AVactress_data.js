@@ -52,7 +52,7 @@ window.actressData = {
         "足立美緒",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-240"
     },
     {
       "id": 8940,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "足立美緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-502"
     }
   ]
 };

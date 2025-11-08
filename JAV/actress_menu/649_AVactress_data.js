@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-951"
     },
     {
       "id": 5196,
@@ -80,7 +80,7 @@ window.actressData = {
         "ラヴズ",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-757"
     },
     {
       "id": 5916,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-719"
     },
     {
       "id": 6782,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-681"
     },
     {
       "id": 7352,
@@ -129,7 +129,7 @@ window.actressData = {
         "糸井瑠花",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-660"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-660"
     },
     {
       "id": 8098,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-611"
     },
     {
       "id": 8863,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-570"
     }
   ]
 };

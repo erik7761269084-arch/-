@@ -36,7 +36,7 @@ window.actressData = {
         "夏海いく",
         "乙叶ななせ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIKR-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-016"
     }
   ]
 };

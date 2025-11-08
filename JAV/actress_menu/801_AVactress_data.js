@@ -63,7 +63,7 @@ window.actressData = {
         "黒木麻衣（花野真衣、SHIHO）",
         "立花みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-355"
     },
     {
       "id": 107161,
@@ -86,7 +86,7 @@ window.actressData = {
         "水希杏",
         "椿かなり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-404"
     },
     {
       "id": 1536,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "新山枫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-132"
     },
     {
       "id": 76868,
@@ -122,7 +122,7 @@ window.actressData = {
         "イセドン内村",
         "藤江由恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCT-592"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-592"
     },
     {
       "id": 2064,
@@ -144,7 +144,7 @@ window.actressData = {
         "滝川ソフィア",
         "北田千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-91"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-91"
     },
     {
       "id": 1955,
@@ -163,7 +163,7 @@ window.actressData = {
         "HIKARI",
         "滝川ソフィア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-10"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-10"
     }
   ]
 };

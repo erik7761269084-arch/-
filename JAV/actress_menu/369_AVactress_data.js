@@ -42,7 +42,7 @@ window.actressData = {
         "古東まりこ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-425"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-425"
     },
     {
       "id": 4337,
@@ -59,7 +59,7 @@ window.actressData = {
         "古東まりこ",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-378"
     },
     {
       "id": 4812,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDON-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-078"
     },
     {
       "id": 5117,
@@ -92,7 +92,7 @@ window.actressData = {
         "古東まりこ",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-339"
     },
     {
       "id": 5878,
@@ -109,7 +109,7 @@ window.actressData = {
         "古東まりこ",
         "さんたま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-282"
     },
     {
       "id": 6735,
@@ -126,7 +126,7 @@ window.actressData = {
         "古東まりこ",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-236"
     },
     {
       "id": 7345,
@@ -144,7 +144,7 @@ window.actressData = {
         "左慈半造",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-220"
     },
     {
       "id": 8113,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-145"
     },
     {
       "id": 8803,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-136"
     },
     {
       "id": 9764,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-965"
     },
     {
       "id": 10462,
@@ -209,7 +209,7 @@ window.actressData = {
         "古東まりこ",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-955"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-955"
     },
     {
       "id": 12713,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-025"
     },
     {
       "id": 13618,
@@ -241,7 +241,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPLY-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-024"
     },
     {
       "id": 14046,
@@ -257,7 +257,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMF-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-051"
     },
     {
       "id": 14745,
@@ -273,7 +273,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-018"
     },
     {
       "id": 94749,
@@ -289,7 +289,7 @@ window.actressData = {
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-012"
     }
   ]
 };

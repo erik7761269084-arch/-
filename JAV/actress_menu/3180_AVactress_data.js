@@ -39,7 +39,7 @@ window.actressData = {
         "上岛美都子",
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMIX-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-049"
     },
     {
       "id": 93654,
@@ -57,7 +57,7 @@ window.actressData = {
         "磐井玲子",
         "藍沢汐里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-049"
     },
     {
       "id": 91545,
@@ -74,7 +74,7 @@ window.actressData = {
         "ひょこり",
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-298"
     },
     {
       "id": 92067,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-119"
     },
     {
       "id": 90681,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUKA-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-066"
     },
     {
       "id": 91234,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-181"
     },
     {
       "id": 91150,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-211"
     },
     {
       "id": 91030,
@@ -155,7 +155,7 @@ window.actressData = {
         "タツ",
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-079"
     },
     {
       "id": 91093,
@@ -172,7 +172,7 @@ window.actressData = {
         "タツ",
         "深月ちぐさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-153"
     }
   ]
 };

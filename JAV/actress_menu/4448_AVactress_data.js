@@ -35,7 +35,7 @@ window.actressData = {
         "南凉",
         "松永雪子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-057"
     },
     {
       "id": 75703,
@@ -54,7 +54,7 @@ window.actressData = {
         "木叶ちひろ",
         "南凉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-049"
     },
     {
       "id": 74512,
@@ -80,7 +80,7 @@ window.actressData = {
         "南凉",
         "茜麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     }
   ]
 };

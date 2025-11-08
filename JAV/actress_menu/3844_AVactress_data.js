@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XMOM-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-062"
     },
     {
       "id": 105748,
@@ -49,7 +49,7 @@ window.actressData = {
         "みっちー",
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDOB-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-124"
     },
     {
       "id": 90701,
@@ -66,7 +66,7 @@ window.actressData = {
         "タイ",
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-105"
     },
     {
       "id": 68755,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-094"
     },
     {
       "id": 86079,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-087"
     },
     {
       "id": 86092,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-079"
     },
     {
       "id": 85065,
@@ -131,7 +131,7 @@ window.actressData = {
         "タツ",
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-977"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-977"
     },
     {
       "id": 84967,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-911"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-911"
     },
     {
       "id": 84916,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-877"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-877"
     },
     {
       "id": 84934,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-849"
     },
     {
       "id": 84998,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-813"
     },
     {
       "id": 84984,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-785"
     },
     {
       "id": 69547,
@@ -228,7 +228,7 @@ window.actressData = {
         "蓝井优太",
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-636"
     },
     {
       "id": 77904,
@@ -244,7 +244,7 @@ window.actressData = {
       "actress": [
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-047"
     },
     {
       "id": 106006,
@@ -261,7 +261,7 @@ window.actressData = {
         "Qべぇ",
         "绫瀬麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-026"
     }
   ]
 };

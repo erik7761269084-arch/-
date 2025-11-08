@@ -33,7 +33,7 @@ window.actressData = {
         "君野步美",
         "吉乃桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-544"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-544"
     },
     {
       "id": 83810,
@@ -50,7 +50,7 @@ window.actressData = {
         "今井夏帆",
         "吉乃桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POKQ-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POKQ-011"
     },
     {
       "id": 74040,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "吉乃桃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNT-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-004"
     }
   ]
 };

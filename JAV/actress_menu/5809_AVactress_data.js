@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "豊田じゅんな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-110"
     }
   ]
 };

@@ -64,7 +64,7 @@ window.actressData = {
         "安斉愛結",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-235"
     },
     {
       "id": 8487,
@@ -81,7 +81,7 @@ window.actressData = {
         "雫月心桜",
         "安斉愛結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-579"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-579"
     },
     {
       "id": 10592,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "安斉愛結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-623"
     },
     {
       "id": 102726,
@@ -115,7 +115,7 @@ window.actressData = {
         "奥野光香",
         "栞菜まなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HCM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HCM-003"
     }
   ]
 };

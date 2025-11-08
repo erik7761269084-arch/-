@@ -64,7 +64,7 @@ window.actressData = {
         "桃瀬ゆり",
         "苑田あゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-046"
     },
     {
       "id": 88218,
@@ -83,7 +83,7 @@ window.actressData = {
         "大冢れん",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHE-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHE-475"
     },
     {
       "id": 948,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "希咲彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1199"
     }
   ]
 };

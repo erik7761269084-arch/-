@@ -54,7 +54,7 @@ window.actressData = {
         "工藤りおな",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-661"
     },
     {
       "id": 74274,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "工藤りおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-351"
     }
   ]
 };

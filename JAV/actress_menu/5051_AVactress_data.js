@@ -34,7 +34,7 @@ window.actressData = {
         "一彻（铃木一彻）",
         "相川司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2382"
     },
     {
       "id": 83609,
@@ -52,7 +52,7 @@ window.actressData = {
         "一彻（铃木一彻）",
         "相川司"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2372"
     },
     {
       "id": 81699,
@@ -71,7 +71,7 @@ window.actressData = {
         "有马芳彦",
         "一彻（铃木一彻）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2801"
     },
     {
       "id": 81639,
@@ -89,7 +89,7 @@ window.actressData = {
         "浅井阳登",
         "一彻（铃木一彻）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2381"
     }
   ]
 };

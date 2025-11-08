@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-738"
     },
     {
       "id": 3519,
@@ -79,7 +79,7 @@ window.actressData = {
         "似鳥日菜",
         "天羽梨梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-069"
     },
     {
       "id": 3897,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-830"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-830"
     },
     {
       "id": 61336,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRACE-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRACE-026"
     },
     {
       "id": 3839,
@@ -128,7 +128,7 @@ window.actressData = {
         "似鳥日菜",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-274"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-274"
     },
     {
       "id": 4238,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-155"
     },
     {
       "id": 4307,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-262"
     },
     {
       "id": 4698,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-980"
     },
     {
       "id": 4695,
@@ -193,7 +193,7 @@ window.actressData = {
         "似鳥日菜",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-758"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-758"
     },
     {
       "id": 4918,
@@ -209,7 +209,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-086"
     },
     {
       "id": 5889,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-243"
     },
     {
       "id": 6502,
@@ -241,7 +241,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-057"
     },
     {
       "id": 6750,
@@ -257,7 +257,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-236"
     },
     {
       "id": 7158,
@@ -273,7 +273,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-162"
     },
     {
       "id": 7387,
@@ -289,7 +289,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-227"
     },
     {
       "id": 7849,
@@ -306,7 +306,7 @@ window.actressData = {
         "美澄玲衣",
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-052"
     },
     {
       "id": 8696,
@@ -322,7 +322,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-043"
     },
     {
       "id": 16755,
@@ -338,7 +338,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-181"
     },
     {
       "id": 90531,
@@ -356,7 +356,7 @@ window.actressData = {
         "鲛岛",
         "ハメ撮り"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-177"
     },
     {
       "id": 90225,
@@ -372,7 +372,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-795"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-795"
     },
     {
       "id": 17920,
@@ -388,7 +388,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-935"
     },
     {
       "id": 18435,
@@ -404,7 +404,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-898"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-898"
     },
     {
       "id": 107486,
@@ -420,7 +420,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-827"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-827"
     },
     {
       "id": 87709,
@@ -436,7 +436,7 @@ window.actressData = {
       "actress": [
         "似鳥日菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-788"
     },
     {
       "id": 107187,
@@ -453,7 +453,7 @@ window.actressData = {
         "似鳥日菜",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-552"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-552"
     }
   ]
 };

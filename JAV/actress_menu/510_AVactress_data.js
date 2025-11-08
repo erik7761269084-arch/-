@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "小宵虎南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-312"
     },
     {
       "id": 13244,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "小宵虎南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-229"
     },
     {
       "id": 13848,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "小宵虎南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-267"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-267"
     },
     {
       "id": 17664,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "小宵虎南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-952"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-952"
     },
     {
       "id": 18247,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "小宵虎南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-926"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-926"
     },
     {
       "id": 18609,
@@ -143,7 +143,7 @@ window.actressData = {
         "小宵虎南",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-886"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-886"
     },
     {
       "id": 18731,
@@ -160,7 +160,7 @@ window.actressData = {
         "小宵虎南",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-722"
     }
   ]
 };

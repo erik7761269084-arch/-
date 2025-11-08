@@ -43,7 +43,7 @@ window.actressData = {
         "佐藤里釆",
         "五味紗瑛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-315"
     },
     {
       "id": 70482,
@@ -69,7 +69,7 @@ window.actressData = {
         "佐野星彩",
         "森永千波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-289"
     }
   ]
 };

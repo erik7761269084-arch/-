@@ -33,7 +33,7 @@ window.actressData = {
         "ラビットけんと",
         "岡田真弓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MADN-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADN-023"
     },
     {
       "id": 94081,
@@ -51,7 +51,7 @@ window.actressData = {
         "岡田真弓",
         "五十嵐千恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-238"
     },
     {
       "id": 90689,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "岡田真弓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NYKD-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NYKD-131"
     }
   ]
 };

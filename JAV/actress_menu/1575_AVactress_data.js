@@ -49,7 +49,7 @@ window.actressData = {
         "望実かなえ",
         "空野きら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SETM-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-029"
     },
     {
       "id": 89690,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "空野きら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-282"
     },
     {
       "id": 89683,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "空野きら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-277"
     }
   ]
 };

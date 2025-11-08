@@ -50,7 +50,7 @@ window.actressData = {
         "真木今日子",
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPIN-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-087"
     },
     {
       "id": 17134,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21832"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21832"
     },
     {
       "id": 100570,
@@ -84,7 +84,7 @@ window.actressData = {
         "沙月惠奈",
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-284"
     },
     {
       "id": 67200,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-125"
     },
     {
       "id": 73929,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-263"
     },
     {
       "id": 87268,
@@ -135,7 +135,7 @@ window.actressData = {
         "奥井楓",
         "加贺美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-113"
     },
     {
       "id": 81267,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21696"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21696"
     },
     {
       "id": 80730,
@@ -170,7 +170,7 @@ window.actressData = {
         "辻井穗乃果",
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-231"
     },
     {
       "id": 81061,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21656"
     },
     {
       "id": 80215,
@@ -205,7 +205,7 @@ window.actressData = {
         "花宫あむ",
         "鹰宫ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21650"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21650"
     },
     {
       "id": 85980,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-035"
     },
     {
       "id": 86118,
@@ -238,7 +238,7 @@ window.actressData = {
         "望月綾香",
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-077"
     },
     {
       "id": 78677,
@@ -258,7 +258,7 @@ window.actressData = {
         "高坂あいり",
         "新川爱七"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-999"
     },
     {
       "id": 89529,
@@ -275,7 +275,7 @@ window.actressData = {
         "奥井楓",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1335"
     },
     {
       "id": 88363,
@@ -294,7 +294,7 @@ window.actressData = {
         "相泽ゆりな",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNBL-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-016"
     },
     {
       "id": 89366,
@@ -310,7 +310,7 @@ window.actressData = {
       "actress": [
         "奥井楓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2286"
     }
   ]
 };

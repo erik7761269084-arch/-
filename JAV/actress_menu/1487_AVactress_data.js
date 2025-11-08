@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "佐佐木真理亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-67"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-67"
     }
   ]
 };

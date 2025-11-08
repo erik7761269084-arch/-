@@ -56,7 +56,7 @@ window.actressData = {
         "ラヴズ",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-114"
     },
     {
       "id": 7774,
@@ -73,7 +73,7 @@ window.actressData = {
         "道久天",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-923"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-923"
     },
     {
       "id": 8230,
@@ -90,7 +90,7 @@ window.actressData = {
         "道久天",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-119"
     },
     {
       "id": 9385,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "道久天"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-900"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-900"
     },
     {
       "id": 10515,
@@ -134,7 +134,7 @@ window.actressData = {
         "れみ",
         "安藤ハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
     }
   ]
 };

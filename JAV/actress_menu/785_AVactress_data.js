@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "一宮瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-392"
     },
     {
       "id": 3645,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "一宮瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-366"
     },
     {
       "id": 4599,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "一宮瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-347"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-347"
     },
     {
       "id": 6184,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "一宮瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-317"
     },
     {
       "id": 6970,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "一宮瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-294"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-294"
     },
     {
       "id": 7780,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "一宮瑠衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-277"
     }
   ]
 };

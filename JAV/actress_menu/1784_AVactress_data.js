@@ -43,7 +43,7 @@ window.actressData = {
       "actress": [
         "小澤愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-69"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-69"
     },
     {
       "id": 88304,
@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "小澤愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-165"
     }
   ]
 };

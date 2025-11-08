@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "茜梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S61"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S61"
     }
   ]
 };

@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "新川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-412"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-412"
     },
     {
       "id": 61344,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "新川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-369"
     }
   ]
 };

@@ -42,7 +42,7 @@ window.actressData = {
         "藤下梨花",
         "大石忍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-154"
     },
     {
       "id": 95098,
@@ -66,7 +66,7 @@ window.actressData = {
         "樱井ゆうこ",
         "神崎久美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-501"
     },
     {
       "id": 89609,
@@ -85,7 +85,7 @@ window.actressData = {
         "藤下梨花",
         "青空小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-196"
     },
     {
       "id": 87072,
@@ -104,7 +104,7 @@ window.actressData = {
         "藤下梨花",
         "牧野纱代"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXGS-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXGS-016"
     },
     {
       "id": 81273,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "藤下梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLW-2159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MLW-2159"
     }
   ]
 };

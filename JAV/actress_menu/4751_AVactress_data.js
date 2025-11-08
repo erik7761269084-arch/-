@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "长谷川秋子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-197"
     },
     {
       "id": 77726,
@@ -51,7 +51,7 @@ window.actressData = {
         "イセドン内村",
         "长谷川秋子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-567"
     }
   ]
 };

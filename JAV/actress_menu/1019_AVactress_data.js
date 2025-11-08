@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "絵麗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-753"
     },
     {
       "id": 18866,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "絵麗奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-716"
     }
   ]
 };

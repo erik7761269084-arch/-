@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "安藤有紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-08"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-08"
     }
   ]
 };

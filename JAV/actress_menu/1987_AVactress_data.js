@@ -59,7 +59,7 @@ window.actressData = {
         "愛葉陽葵",
         "朝陽伊都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
     }
   ]
 };

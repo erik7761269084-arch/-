@@ -59,7 +59,7 @@ window.actressData = {
         "瀧澤萊拉",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-009"
     },
     {
       "id": 107020,
@@ -77,7 +77,7 @@ window.actressData = {
         "若宫はずき",
         "宫村ななこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-994"
     },
     {
       "id": 2036,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "瀧澤萊拉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHRS-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-023"
     }
   ]
 };

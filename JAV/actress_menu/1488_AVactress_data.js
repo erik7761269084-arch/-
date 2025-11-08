@@ -44,7 +44,7 @@ window.actressData = {
       "actress": [
         "実田あのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-596"
     },
     {
       "id": 94174,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "実田あのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMF-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-053"
     },
     {
       "id": 14048,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "実田あのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-136"
     },
     {
       "id": 13885,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "実田あのん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPLY-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-023"
     }
   ]
 };

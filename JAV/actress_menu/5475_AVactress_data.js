@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "辰神丽子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRLE-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRLE-001"
     },
     {
       "id": 90089,
@@ -54,7 +54,7 @@ window.actressData = {
         "星名千聖",
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDC-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDC-034"
     },
     {
       "id": 90099,
@@ -71,7 +71,7 @@ window.actressData = {
         "辰神丽子",
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-170"
     },
     {
       "id": 90070,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "辰神丽子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-150"
     },
     {
       "id": 88115,
@@ -104,7 +104,7 @@ window.actressData = {
         "若林美保",
         "辰神丽子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOM-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-005"
     }
   ]
 };

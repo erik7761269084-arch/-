@@ -59,7 +59,7 @@ window.actressData = {
         "いち",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-460"
     },
     {
       "id": 4117,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "城崎百瀨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-006"
     },
     {
       "id": 5180,
@@ -92,7 +92,7 @@ window.actressData = {
         "城崎百瀨",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-377"
     },
     {
       "id": 5932,
@@ -109,7 +109,7 @@ window.actressData = {
         "城崎百瀨",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-346"
     },
     {
       "id": 6768,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "城崎百瀨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-044"
     }
   ]
 };

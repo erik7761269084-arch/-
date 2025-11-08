@@ -38,7 +38,7 @@ window.actressData = {
         "木崎凪",
         "东惣介"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-190"
     },
     {
       "id": 7898,
@@ -55,7 +55,7 @@ window.actressData = {
         "八木奈々",
         "木崎凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-072"
     }
   ]
 };

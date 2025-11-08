@@ -35,7 +35,7 @@ window.actressData = {
         "千堂マリア",
         "花山美纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3336"
     },
     {
       "id": 75563,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "千堂マリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5192"
     }
   ]
 };

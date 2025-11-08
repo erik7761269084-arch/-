@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-548"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-548"
     },
     {
       "id": 69958,
@@ -49,7 +49,7 @@ window.actressData = {
         "鲛岛",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-793"
     },
     {
       "id": 82152,
@@ -69,7 +69,7 @@ window.actressData = {
         "新田みれい",
         "四叶さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-386"
     },
     {
       "id": 83304,
@@ -88,7 +88,7 @@ window.actressData = {
         "有花萌",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-290"
     },
     {
       "id": 75207,
@@ -109,7 +109,7 @@ window.actressData = {
         "星岛るり",
         "林爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
     },
     {
       "id": 83820,
@@ -130,7 +130,7 @@ window.actressData = {
         "有花萌",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-288"
     },
     {
       "id": 76220,
@@ -149,7 +149,7 @@ window.actressData = {
         "内海みう",
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-498"
     },
     {
       "id": 75513,
@@ -169,7 +169,7 @@ window.actressData = {
         "唯乃光",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-423"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-423"
     }
   ]
 };

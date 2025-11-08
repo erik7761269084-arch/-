@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "長澤梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S01"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S01"
     },
     {
       "id": 1892,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "長澤梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-49-1"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-49-1"
     }
   ]
 };

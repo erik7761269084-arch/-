@@ -52,7 +52,7 @@ window.actressData = {
         "水原和子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-557"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-557"
     }
   ]
 };

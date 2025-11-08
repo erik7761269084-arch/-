@@ -39,7 +39,7 @@ window.actressData = {
         "梨々花",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-354"
     },
     {
       "id": 86807,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-485"
     },
     {
       "id": 89509,
@@ -72,7 +72,7 @@ window.actressData = {
         "しみけん",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1275"
     },
     {
       "id": 83638,
@@ -95,7 +95,7 @@ window.actressData = {
         "森川杏奈",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-427"
     },
     {
       "id": 75068,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-516"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-516"
     },
     {
       "id": 83804,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-431"
     },
     {
       "id": 96515,
@@ -145,7 +145,7 @@ window.actressData = {
         "相泽ゆりな",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-257"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "舞咲美娜",
         "明日香ルイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSR-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSR-014"
     },
     {
       "id": 73396,
@@ -53,7 +53,7 @@ window.actressData = {
         "春原未来",
         "舞咲美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-588"
     },
     {
       "id": 76037,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "舞咲美娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-841"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-841"
     }
   ]
 };

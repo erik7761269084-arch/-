@@ -36,7 +36,7 @@ window.actressData = {
         "円城ひとみ",
         "柏木舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-145"
     },
     {
       "id": 88942,
@@ -60,7 +60,7 @@ window.actressData = {
         "岛津かおる",
         "绿川みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-514"
     },
     {
       "id": 82198,
@@ -78,7 +78,7 @@ window.actressData = {
         "西村有纱",
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-727"
     },
     {
       "id": 70159,
@@ -96,7 +96,7 @@ window.actressData = {
         "音羽文子",
         "松永纱奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-688"
     },
     {
       "id": 69883,
@@ -114,7 +114,7 @@ window.actressData = {
         "音羽文子",
         "一条绮美香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WA-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-399"
     },
     {
       "id": 87716,
@@ -133,7 +133,7 @@ window.actressData = {
         "一条绮美香",
         "森下美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OBA-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OBA-378"
     },
     {
       "id": 70063,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "音羽文子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-338"
     },
     {
       "id": 76894,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "音羽文子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-102"
     },
     {
       "id": 59802,
@@ -185,7 +185,7 @@ window.actressData = {
         "高坂ますみ",
         "音羽文子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XMOM-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-100"
     }
   ]
 };

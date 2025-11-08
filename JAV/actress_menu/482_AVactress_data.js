@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-310"
     },
     {
       "id": 4944,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-221"
     },
     {
       "id": 5738,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-185"
     },
     {
       "id": 6517,
@@ -112,7 +112,7 @@ window.actressData = {
         "日森一",
         "ジェイ."
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-147"
     },
     {
       "id": 7172,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-111"
     },
     {
       "id": 7890,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-073"
     },
     {
       "id": 8692,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-035"
     },
     {
       "id": 73496,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-937"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-937"
     }
   ]
 };

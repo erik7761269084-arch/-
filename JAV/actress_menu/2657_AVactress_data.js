@@ -48,7 +48,7 @@ window.actressData = {
         "宮園さゆり",
         "伊東かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-174"
     },
     {
       "id": 74803,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "山口菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-899"
     },
     {
       "id": 70237,
@@ -82,7 +82,7 @@ window.actressData = {
         "山口菜穂",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-013"
     }
   ]
 };

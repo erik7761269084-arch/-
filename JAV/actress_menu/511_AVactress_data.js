@@ -65,7 +65,7 @@ window.actressData = {
         "志田みずき",
         "蓮水鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-159"
     },
     {
       "id": 3076,
@@ -92,7 +92,7 @@ window.actressData = {
         "浜崎真绪",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-089"
     },
     {
       "id": 4586,
@@ -111,7 +111,7 @@ window.actressData = {
         "有棲奏羽",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-384"
     },
     {
       "id": 95270,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "有棲奏羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNEO-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-089"
     },
     {
       "id": 95585,
@@ -145,7 +145,7 @@ window.actressData = {
         "有棲奏羽",
         "橘知花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-339"
     },
     {
       "id": 64048,
@@ -163,7 +163,7 @@ window.actressData = {
         "有棲奏羽",
         "東城ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-953"
     },
     {
       "id": 13864,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "有棲奏羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-818"
     },
     {
       "id": 16421,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "有棲奏羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-337"
     },
     {
       "id": 16948,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "有棲奏羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-333"
     },
     {
       "id": 17418,
@@ -228,7 +228,7 @@ window.actressData = {
         "有棲奏羽",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-320"
     },
     {
       "id": 17999,
@@ -244,7 +244,7 @@ window.actressData = {
       "actress": [
         "有棲奏羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-318"
     },
     {
       "id": 106958,
@@ -260,7 +260,7 @@ window.actressData = {
       "actress": [
         "有棲奏羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-018"
     },
     {
       "id": 107287,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "有棲奏羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-011"
     },
     {
       "id": 106436,
@@ -292,7 +292,7 @@ window.actressData = {
       "actress": [
         "有棲奏羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-003"
     }
   ]
 };

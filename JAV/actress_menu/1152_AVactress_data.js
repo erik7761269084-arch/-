@@ -46,7 +46,7 @@ window.actressData = {
         "稻荷步",
         "あーちゃん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCS-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCS-107"
     },
     {
       "id": 17054,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "稻荷步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-966"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-966"
     },
     {
       "id": 18087,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "稻荷步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-934"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-934"
     },
     {
       "id": 17707,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "稻荷步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-962"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-962"
     },
     {
       "id": 89288,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "稻荷步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-921"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-921"
     },
     {
       "id": 89307,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "稻荷步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-903"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-903"
     },
     {
       "id": 89301,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "稻荷步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-878"
     },
     {
       "id": 89286,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "稻荷步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-863"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-863"
     },
     {
       "id": 89284,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "稻荷步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-843"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-843"
     }
   ]
 };

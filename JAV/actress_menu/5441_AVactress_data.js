@@ -34,7 +34,7 @@ window.actressData = {
         "岬澪",
         "姫乃ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-114"
     }
   ]
 };

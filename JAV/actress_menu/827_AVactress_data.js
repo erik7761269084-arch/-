@@ -53,7 +53,7 @@ window.actressData = {
         "奈築里緒",
         "巨漢系"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-554"
     },
     {
       "id": 3540,
@@ -75,7 +75,7 @@ window.actressData = {
         "奈築里緒",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-333"
     },
     {
       "id": 10575,
@@ -93,7 +93,7 @@ window.actressData = {
         "奈築里緒",
         "上原千明"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-517"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-517"
     },
     {
       "id": 101254,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "奈築里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-499"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-499"
     },
     {
       "id": 94830,
@@ -126,7 +126,7 @@ window.actressData = {
         "绫濑心",
         "奈築里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVVRT-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-039"
     },
     {
       "id": 91114,
@@ -148,7 +148,7 @@ window.actressData = {
         "安倍亜沙美",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-288"
     },
     {
       "id": 90763,
@@ -165,7 +165,7 @@ window.actressData = {
         "奈築里緒",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-691"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-691"
     },
     {
       "id": 104447,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "奈築里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IESP-721"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-721"
     },
     {
       "id": 92979,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "奈築里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-662"
     },
     {
       "id": 100503,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "奈築里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-125"
     },
     {
       "id": 69010,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "奈築里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-081"
     },
     {
       "id": 92386,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "奈築里緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-078"
     }
   ]
 };

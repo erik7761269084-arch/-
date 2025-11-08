@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "宮地莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-266"
     },
     {
       "id": 3551,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "宮地莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-311"
     },
     {
       "id": 4935,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "宮地莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-222"
     },
     {
       "id": 6441,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "宮地莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-151"
     },
     {
       "id": 7206,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "宮地莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-097"
     }
   ]
 };

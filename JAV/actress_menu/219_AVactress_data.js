@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "和久井美兎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1391"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1391"
     },
     {
       "id": 5226,
@@ -86,7 +86,7 @@ window.actressData = {
         "天川空",
         "森下ことの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-240"
     },
     {
       "id": 6442,
@@ -130,7 +130,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 8528,
@@ -152,7 +152,7 @@ window.actressData = {
         "相沢澪",
         "有贺みなほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-275"
     },
     {
       "id": 9678,
@@ -170,7 +170,7 @@ window.actressData = {
         "田中寧寧",
         "和久井美兎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-350"
     },
     {
       "id": 17176,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "和久井美兎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-743"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-743"
     },
     {
       "id": 17629,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "和久井美兎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-148"
     },
     {
       "id": 18478,
@@ -219,7 +219,7 @@ window.actressData = {
         "和久井美兎",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-092"
     }
   ]
 };

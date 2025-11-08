@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "琴宮まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-139"
     },
     {
       "id": 73218,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "琴宮まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-134"
     },
     {
       "id": 74260,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "琴宮まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-223"
     }
   ]
 };

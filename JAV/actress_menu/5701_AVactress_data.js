@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "河波れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHERD-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-091"
     },
     {
       "id": 106632,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "河波れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-180"
     },
     {
       "id": 91040,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "河波れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-082"
     },
     {
       "id": 91029,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "河波れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-077"
     },
     {
       "id": 91085,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "河波れみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-156"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "鈴村みなみ",
         "柚木ひおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HIMA-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-098"
     },
     {
       "id": 69848,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "鈴村みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-162"
     },
     {
       "id": 91108,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "鈴村みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-123"
     }
   ]
 };

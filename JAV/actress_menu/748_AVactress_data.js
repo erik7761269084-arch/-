@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "和香夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-801"
     },
     {
       "id": 3588,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "和香夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-797"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-797"
     },
     {
       "id": 4497,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "和香夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-783"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-783"
     },
     {
       "id": 5311,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "和香夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-774"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-774"
     },
     {
       "id": 6149,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "和香夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-767"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-767"
     },
     {
       "id": 6926,
@@ -136,7 +136,7 @@ window.actressData = {
         "和香夏樹",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-756"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-756"
     },
     {
       "id": 7580,
@@ -153,7 +153,7 @@ window.actressData = {
         "和香夏樹",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-749"
     },
     {
       "id": 8268,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "和香夏樹"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-742"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-742"
     }
   ]
 };

@@ -51,7 +51,7 @@ window.actressData = {
         "赤名いと",
         "川栄結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BANK-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-213"
     },
     {
       "id": 7948,
@@ -71,7 +71,7 @@ window.actressData = {
         "葵美玲",
         "川栄結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-219"
     },
     {
       "id": 8363,
@@ -96,7 +96,7 @@ window.actressData = {
         "川栄結愛",
         "乙葉らぶ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-315"
     },
     {
       "id": 8771,
@@ -118,7 +118,7 @@ window.actressData = {
         "川栄結愛",
         "宮崎玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-311"
     },
     {
       "id": 13308,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "川栄結愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRHP-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-036"
     }
   ]
 };

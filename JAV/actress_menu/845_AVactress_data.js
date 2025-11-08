@@ -62,7 +62,7 @@ window.actressData = {
         "月島さくら",
         "月岛さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-158"
     },
     {
       "id": 14397,
@@ -79,7 +79,7 @@ window.actressData = {
         "葵百合香",
         "月島さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-048"
     },
     {
       "id": 17887,
@@ -96,7 +96,7 @@ window.actressData = {
         "月島さくら",
         "月岛さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDRD-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-010"
     }
   ]
 };

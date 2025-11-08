@@ -52,7 +52,7 @@ window.actressData = {
         "志田みずき",
         "蓮水鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-159"
     },
     {
       "id": 91896,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "蓮水鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-640"
     },
     {
       "id": 91378,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "蓮水鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHRV-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-191"
     },
     {
       "id": 89057,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "蓮水鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-618"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-618"
     },
     {
       "id": 90517,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "蓮水鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-158"
     }
   ]
 };

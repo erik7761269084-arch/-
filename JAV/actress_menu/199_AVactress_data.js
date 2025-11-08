@@ -63,7 +63,7 @@ window.actressData = {
         "希崎潔西卡",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-151"
     },
     {
       "id": 19053,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-396"
     },
     {
       "id": 74397,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-148"
     },
     {
       "id": 19068,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-381"
     },
     {
       "id": 75518,
@@ -128,7 +128,7 @@ window.actressData = {
         "希崎潔西卡",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-372"
     },
     {
       "id": 19080,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-370"
     },
     {
       "id": 72221,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-367"
     },
     {
       "id": 19094,
@@ -177,7 +177,7 @@ window.actressData = {
         "希崎潔西卡",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-356"
     },
     {
       "id": 70293,
@@ -195,7 +195,7 @@ window.actressData = {
         "田渊正浩",
         "岩下たろう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-867"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-867"
     },
     {
       "id": 74989,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-355"
     },
     {
       "id": 19124,
@@ -228,7 +228,7 @@ window.actressData = {
         "希崎潔西卡",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-325"
     },
     {
       "id": 74996,
@@ -244,7 +244,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-215"
     },
     {
       "id": 70816,
@@ -260,7 +260,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-848"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-848"
     },
     {
       "id": 105726,
@@ -277,7 +277,7 @@ window.actressData = {
         "希崎潔西卡",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-198"
     },
     {
       "id": 19222,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-230"
     },
     {
       "id": 19560,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-315"
     },
     {
       "id": 19252,
@@ -325,7 +325,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-197"
     },
     {
       "id": 73315,
@@ -341,7 +341,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-184"
     },
     {
       "id": 19562,
@@ -357,7 +357,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-301"
     },
     {
       "id": 71725,
@@ -373,7 +373,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-171"
     },
     {
       "id": 83046,
@@ -389,7 +389,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-023"
     },
     {
       "id": 63754,
@@ -405,7 +405,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-147"
     },
     {
       "id": 19392,
@@ -421,7 +421,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-048"
     },
     {
       "id": 19408,
@@ -437,7 +437,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-029"
     },
     {
       "id": 71342,
@@ -454,7 +454,7 @@ window.actressData = {
         "希崎潔西卡",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-138"
     },
     {
       "id": 63206,
@@ -470,7 +470,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-834"
     },
     {
       "id": 105046,
@@ -487,7 +487,7 @@ window.actressData = {
         "希崎潔西卡",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-758"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-758"
     },
     {
       "id": 105047,
@@ -503,7 +503,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-707"
     },
     {
       "id": 104382,
@@ -519,7 +519,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-642"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-642"
     },
     {
       "id": 104770,
@@ -538,7 +538,7 @@ window.actressData = {
         "森林原人",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-616"
     },
     {
       "id": 19506,
@@ -555,7 +555,7 @@ window.actressData = {
         "希崎潔西卡",
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-602"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-602"
     },
     {
       "id": 19501,
@@ -572,7 +572,7 @@ window.actressData = {
         "希崎潔西卡",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-559"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-559"
     },
     {
       "id": 104771,
@@ -588,7 +588,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-531"
     },
     {
       "id": 97691,
@@ -604,7 +604,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-473"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-473"
     },
     {
       "id": 19499,
@@ -620,7 +620,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-349"
     },
     {
       "id": 105430,
@@ -636,7 +636,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-228"
     },
     {
       "id": 105838,
@@ -653,7 +653,7 @@ window.actressData = {
         "希崎潔西卡",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-120"
     },
     {
       "id": 106570,
@@ -671,7 +671,7 @@ window.actressData = {
         "森林原人",
         "月野帯人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-050"
     },
     {
       "id": 75560,
@@ -690,7 +690,7 @@ window.actressData = {
         "玉木玲",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-959"
     },
     {
       "id": 82614,
@@ -706,7 +706,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-661"
     },
     {
       "id": 104887,
@@ -722,7 +722,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-601"
     },
     {
       "id": 105499,
@@ -738,7 +738,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-576"
     },
     {
       "id": 105502,
@@ -754,7 +754,7 @@ window.actressData = {
       "actress": [
         "希崎潔西卡"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-553"
     }
   ]
 };

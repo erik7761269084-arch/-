@@ -67,7 +67,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-410"
     },
     {
       "id": 5247,
@@ -84,7 +84,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-345"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-345"
     },
     {
       "id": 6665,
@@ -101,7 +101,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-314"
     },
     {
       "id": 5991,
@@ -118,7 +118,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-335"
     },
     {
       "id": 7455,
@@ -135,7 +135,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-297"
     },
     {
       "id": 8179,
@@ -152,7 +152,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-269"
     },
     {
       "id": 8943,
@@ -169,7 +169,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-261"
     },
     {
       "id": 14051,
@@ -186,7 +186,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-080"
     },
     {
       "id": 16724,
@@ -203,7 +203,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-996"
     },
     {
       "id": 17288,
@@ -220,7 +220,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-971"
     },
     {
       "id": 17821,
@@ -237,7 +237,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-957"
     },
     {
       "id": 18387,
@@ -254,7 +254,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-940"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-940"
     },
     {
       "id": 18724,
@@ -271,7 +271,7 @@ window.actressData = {
         "夏目響",
         "夏目响"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-916"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-916"
     },
     {
       "id": 1628,
@@ -287,7 +287,7 @@ window.actressData = {
       "actress": [
         "夏目響"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-199"
     }
   ]
 };

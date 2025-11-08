@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "名取沙雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-688"
     }
   ]
 };

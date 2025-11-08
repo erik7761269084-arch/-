@@ -63,7 +63,7 @@ window.actressData = {
         "岡西友美",
         "穂高由歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-145"
     },
     {
       "id": 106232,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "穂高由歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-291"
     },
     {
       "id": 89489,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "穂高由歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-093"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "荒木ありさ",
         "中西江梨子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-125"
     },
     {
       "id": 68519,
@@ -55,7 +55,7 @@ window.actressData = {
         "月本衣织",
         "铃木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UPSM-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UPSM-185"
     }
   ]
 };

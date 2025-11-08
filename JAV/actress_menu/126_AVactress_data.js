@@ -63,7 +63,7 @@ window.actressData = {
         "白石渚",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-108"
     },
     {
       "id": 2957,
@@ -88,7 +88,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSODN-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSODN-001"
     },
     {
       "id": 3076,
@@ -115,7 +115,7 @@ window.actressData = {
         "浜崎真绪",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-089"
     },
     {
       "id": 3288,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOMA-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-156"
     },
     {
       "id": 3443,
@@ -149,7 +149,7 @@ window.actressData = {
         "白石渚",
         "白橋里帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKN-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKN-004"
     },
     {
       "id": 61943,
@@ -171,7 +171,7 @@ window.actressData = {
         "有馬美月",
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NFG-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NFG-001"
     },
     {
       "id": 3906,
@@ -192,7 +192,7 @@ window.actressData = {
         "しめじ",
         "マリモン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-273"
     },
     {
       "id": 4234,
@@ -217,7 +217,7 @@ window.actressData = {
         "久和原聖羅",
         "美咲音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-145"
     },
     {
       "id": 4441,
@@ -235,7 +235,7 @@ window.actressData = {
         "白石渚",
         "有馬美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUGE-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUGE-005"
     },
     {
       "id": 4359,
@@ -254,7 +254,7 @@ window.actressData = {
         "蘆名穗花",
         "天野花乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-268"
     },
     {
       "id": 4891,
@@ -279,7 +279,7 @@ window.actressData = {
         "夏巳百合香",
         "橋本理佐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-825"
     },
     {
       "id": 5017,
@@ -297,7 +297,7 @@ window.actressData = {
         "白石渚",
         "神田ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-392"
     },
     {
       "id": 5243,
@@ -316,7 +316,7 @@ window.actressData = {
         "白石渚",
         "五十嵐美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-254"
     },
     {
       "id": 63363,
@@ -335,7 +335,7 @@ window.actressData = {
         "白石渚",
         "美咲音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DSJH-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSJH-015"
     },
     {
       "id": 5946,
@@ -362,7 +362,7 @@ window.actressData = {
         "梅川ことね",
         "戸崎めく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-386"
     },
     {
       "id": 64080,
@@ -380,7 +380,7 @@ window.actressData = {
         "相坂すみれ",
         "白城梨紗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-381"
     },
     {
       "id": 63564,
@@ -396,7 +396,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTC-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTC-044"
     },
     {
       "id": 7125,
@@ -421,7 +421,7 @@ window.actressData = {
         "夏巳百合香",
         "橋本理佐"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-808"
     },
     {
       "id": 7433,
@@ -437,7 +437,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAB-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAB-153"
     },
     {
       "id": 62697,
@@ -453,7 +453,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21946"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21946"
     },
     {
       "id": 71948,
@@ -469,7 +469,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNEW-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEW-007"
     },
     {
       "id": 8201,
@@ -489,7 +489,7 @@ window.actressData = {
         "藤田柚",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-207"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-207"
     },
     {
       "id": 8767,
@@ -510,7 +510,7 @@ window.actressData = {
         "星七奈奈美",
         "宇佐美みおん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-306"
     },
     {
       "id": 9004,
@@ -530,7 +530,7 @@ window.actressData = {
         "七原紗由",
         "羽月果音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-191"
     },
     {
       "id": 9631,
@@ -552,7 +552,7 @@ window.actressData = {
         "國森有紗",
         "冨永れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-741"
     },
     {
       "id": 10391,
@@ -568,7 +568,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APGH-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-026"
     },
     {
       "id": 12692,
@@ -585,7 +585,7 @@ window.actressData = {
         "五十嵐清華",
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-128"
     },
     {
       "id": 93822,
@@ -601,7 +601,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-309"
     },
     {
       "id": 13689,
@@ -617,7 +617,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-050"
     },
     {
       "id": 14180,
@@ -633,7 +633,7 @@ window.actressData = {
       "actress": [
         "白石渚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-202"
     }
   ]
 };

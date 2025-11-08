@@ -35,7 +35,7 @@ window.actressData = {
         "コンピューター园田",
         "吉冈沙华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PCDE-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PCDE-007"
     },
     {
       "id": 83812,
@@ -54,7 +54,7 @@ window.actressData = {
         "コンピューター园田",
         "今井初音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PCDE-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PCDE-006"
     },
     {
       "id": 81875,
@@ -73,7 +73,7 @@ window.actressData = {
         "橘かりん",
         "青羽ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PCDE-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PCDE-005"
     }
   ]
 };

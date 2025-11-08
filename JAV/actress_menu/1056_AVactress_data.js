@@ -53,7 +53,7 @@ window.actressData = {
         "豊岡さつき",
         "乃南ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-296"
     },
     {
       "id": 91380,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "乃南ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-301"
     },
     {
       "id": 91397,
@@ -86,7 +86,7 @@ window.actressData = {
         "乃南ゆい",
         "蓬莱かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-299"
     },
     {
       "id": 89511,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "乃南ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZOCM-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOCM-061"
     }
   ]
 };

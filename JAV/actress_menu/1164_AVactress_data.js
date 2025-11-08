@@ -73,7 +73,7 @@ window.actressData = {
         "浜崎真绪",
         "浅田结梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
     },
     {
       "id": 1055,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "樞木美栞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1477"
     }
   ]
 };

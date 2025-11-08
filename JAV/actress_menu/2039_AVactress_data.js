@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "鈴木理沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1398"
     },
     {
       "id": 1704,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "鈴木理沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S133"
     }
   ]
 };

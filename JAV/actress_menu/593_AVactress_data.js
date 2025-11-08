@@ -70,7 +70,7 @@ window.actressData = {
         "美雲そら",
         "生田りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-269"
     },
     {
       "id": 66194,
@@ -94,7 +94,7 @@ window.actressData = {
         "美好柚伽",
         "花芽有朱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BUR-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-635"
     },
     {
       "id": 6055,
@@ -112,7 +112,7 @@ window.actressData = {
         "知花しおん",
         "佐野なつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-278"
     },
     {
       "id": 6571,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "美雲そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-332"
     },
     {
       "id": 7380,
@@ -145,7 +145,7 @@ window.actressData = {
         "美雲そら",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-373"
     },
     {
       "id": 89378,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "美雲そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUJI-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-208"
     }
   ]
 };

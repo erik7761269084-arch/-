@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "善場麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-422"
     },
     {
       "id": 5608,
@@ -93,7 +93,7 @@ window.actressData = {
         "鲛岛",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-415"
     },
     {
       "id": 7278,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "善場麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-996"
     },
     {
       "id": 8715,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "善場麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-966"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-966"
     },
     {
       "id": 9521,
@@ -142,7 +142,7 @@ window.actressData = {
         "善場麻美",
         "しょーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-945"
     },
     {
       "id": 10271,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "善場麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-922"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-922"
     },
     {
       "id": 11026,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "善場麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-895"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-895"
     },
     {
       "id": 17520,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "善場麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-700"
     },
     {
       "id": 18488,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "善場麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-690"
     },
     {
       "id": 15094,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "善場麻美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-639"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-639"
     }
   ]
 };

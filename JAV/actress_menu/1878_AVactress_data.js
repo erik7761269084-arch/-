@@ -90,7 +90,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 88940,
@@ -115,7 +115,7 @@ window.actressData = {
         "枢木美栞",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-526"
     },
     {
       "id": 88938,
@@ -139,7 +139,7 @@ window.actressData = {
         "叶月美音",
         "九条さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-522"
     },
     {
       "id": 78471,
@@ -162,7 +162,7 @@ window.actressData = {
         "瀬戸すみれ",
         "美玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-369"
     },
     {
       "id": 76860,
@@ -179,7 +179,7 @@ window.actressData = {
         "優月真裡奈",
         "吉川爱美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-352"
     },
     {
       "id": 70492,
@@ -198,7 +198,7 @@ window.actressData = {
         "吉川爱美",
         "西田卡莉娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-585"
     },
     {
       "id": 97635,
@@ -214,7 +214,7 @@ window.actressData = {
       "actress": [
         "吉川爱美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-447"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-447"
     },
     {
       "id": 76872,
@@ -233,7 +233,7 @@ window.actressData = {
         "吉川爱美",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-292"
     },
     {
       "id": 72149,
@@ -251,7 +251,7 @@ window.actressData = {
         "吉川爱美",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-375"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-375"
     },
     {
       "id": 77960,
@@ -271,7 +271,7 @@ window.actressData = {
         "真田さな",
         "宫沢ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-418"
     },
     {
       "id": 71086,
@@ -292,7 +292,7 @@ window.actressData = {
         "松下美织",
         "华月瑠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-409"
     },
     {
       "id": 72883,
@@ -317,7 +317,7 @@ window.actressData = {
         "柄本ゆかり",
         "白井真美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-728"
     },
     {
       "id": 62209,
@@ -333,7 +333,7 @@ window.actressData = {
       "actress": [
         "吉川爱美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-361"
     },
     {
       "id": 82644,
@@ -349,7 +349,7 @@ window.actressData = {
       "actress": [
         "吉川爱美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-339"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-339"
     }
   ]
 };

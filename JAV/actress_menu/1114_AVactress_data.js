@@ -46,7 +46,7 @@ window.actressData = {
         "皆川千遙",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-153"
     },
     {
       "id": 73965,
@@ -63,7 +63,7 @@ window.actressData = {
         "皆川千遙",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-119"
     },
     {
       "id": 73784,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "皆川千遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-082"
     },
     {
       "id": 70498,
@@ -96,7 +96,7 @@ window.actressData = {
         "皆川千遙",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-072"
     },
     {
       "id": 70402,
@@ -115,7 +115,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-061"
     },
     {
       "id": 19463,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "皆川千遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-041"
     },
     {
       "id": 19456,
@@ -148,7 +148,7 @@ window.actressData = {
         "皆川千遙",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-052"
     },
     {
       "id": 69421,
@@ -165,7 +165,7 @@ window.actressData = {
         "皆川千遙",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-092"
     }
   ]
 };

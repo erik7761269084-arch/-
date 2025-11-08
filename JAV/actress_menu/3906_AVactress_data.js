@@ -35,7 +35,7 @@ window.actressData = {
         "高梨步",
         "しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-195"
     },
     {
       "id": 89897,
@@ -55,7 +55,7 @@ window.actressData = {
         "しずく",
         "宇佐美なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-186"
     },
     {
       "id": 83698,
@@ -78,7 +78,7 @@ window.actressData = {
         "菊池えりか",
         "望月れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-219"
     },
     {
       "id": 97797,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-662"
     },
     {
       "id": 81389,
@@ -111,7 +111,7 @@ window.actressData = {
         "美泉咲",
         "しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21107"
     },
     {
       "id": 88466,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "しずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-673"
     },
     {
       "id": 69413,
@@ -147,7 +147,7 @@ window.actressData = {
         "しずく",
         "芹沢つむぎ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZIZG-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-007"
     }
   ]
 };

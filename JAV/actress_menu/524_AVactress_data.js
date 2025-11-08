@@ -42,7 +42,7 @@ window.actressData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-399"
     },
     {
       "id": 3095,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-004"
     },
     {
       "id": 4350,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUMU-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUMU-002"
     },
     {
       "id": 4831,
@@ -92,7 +92,7 @@ window.actressData = {
         "美泉咲",
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-530"
     },
     {
       "id": 68467,
@@ -109,7 +109,7 @@ window.actressData = {
         "安堂はるの",
         "妃月るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-126"
     },
     {
       "id": 68713,
@@ -128,7 +128,7 @@ window.actressData = {
         "那賀崎雪音",
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-321"
     },
     {
       "id": 8791,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMEM-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMEM-123"
     },
     {
       "id": 77180,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMEM-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMEM-120"
     },
     {
       "id": 78552,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOR-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-030"
     },
     {
       "id": 89101,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "安堂はるの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-019"
     },
     {
       "id": 89088,
@@ -209,7 +209,7 @@ window.actressData = {
         "安堂はるの",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEO-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-072"
     }
   ]
 };

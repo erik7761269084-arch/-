@@ -35,7 +35,7 @@ window.actressData = {
         "今井夏帆",
         "爱菜ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-094"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "玉木玲",
         "松下ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-999"
     },
     {
       "id": 68527,
@@ -53,7 +53,7 @@ window.actressData = {
         "若叶りか",
         "青空小夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-132"
     }
   ]
 };

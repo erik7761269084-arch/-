@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "谷田かりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSBK-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-009"
     },
     {
       "id": 6568,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "谷田かりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TENN-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-032"
     }
   ]
 };

@@ -66,7 +66,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-252"
     },
     {
       "id": 5008,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "七嶋舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-242"
     },
     {
       "id": 5936,
@@ -100,7 +100,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-232"
     },
     {
       "id": 6634,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "七嶋舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-224"
     },
     {
       "id": 7235,
@@ -134,7 +134,7 @@ window.actressData = {
         "いち",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-214"
     },
     {
       "id": 8892,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "七嶋舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-194"
     }
   ]
 };

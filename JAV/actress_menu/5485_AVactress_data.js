@@ -35,7 +35,7 @@ window.actressData = {
         "香原京香",
         "笛木さとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3355"
     }
   ]
 };

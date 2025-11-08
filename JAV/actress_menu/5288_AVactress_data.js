@@ -34,7 +34,7 @@ window.actressData = {
         "今井まひな",
         "宝来せな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-285"
     }
   ]
 };

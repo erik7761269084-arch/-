@@ -41,7 +41,7 @@ window.actressData = {
         "相泽ゆりな",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNBL-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-016"
     },
     {
       "id": 83474,
@@ -61,7 +61,7 @@ window.actressData = {
         "柏木恵",
         "最上さゆき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CADV-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CADV-757"
     },
     {
       "id": 77139,
@@ -80,7 +80,7 @@ window.actressData = {
         "浜崎真绪",
         "中里美穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-802"
     },
     {
       "id": 69267,
@@ -98,7 +98,7 @@ window.actressData = {
         "河合乃乃花",
         "中里美穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-065"
     }
   ]
 };

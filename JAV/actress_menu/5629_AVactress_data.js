@@ -35,7 +35,7 @@ window.actressData = {
         "悠月アイシャ",
         "一ノ瀬夏摘"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
     }
   ]
 };

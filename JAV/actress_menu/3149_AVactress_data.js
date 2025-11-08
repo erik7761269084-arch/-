@@ -36,7 +36,7 @@ window.actressData = {
         "タイ",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CKCK-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-008"
     },
     {
       "id": 2631,
@@ -55,7 +55,7 @@ window.actressData = {
         "タクト",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-907"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-907"
     },
     {
       "id": 2590,
@@ -72,7 +72,7 @@ window.actressData = {
         "小栗操",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-264"
     },
     {
       "id": 60028,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRSS-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-172"
     },
     {
       "id": 2957,
@@ -113,7 +113,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSODN-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSODN-001"
     },
     {
       "id": 2899,
@@ -139,7 +139,7 @@ window.actressData = {
         "マサムー",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
     },
     {
       "id": 2895,
@@ -160,7 +160,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-410"
     },
     {
       "id": 3309,
@@ -177,7 +177,7 @@ window.actressData = {
         "白木優子",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-495"
     },
     {
       "id": 3295,
@@ -195,7 +195,7 @@ window.actressData = {
         "ラビットけんと",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-665"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-665"
     },
     {
       "id": 3265,
@@ -212,7 +212,7 @@ window.actressData = {
         "寺島志保",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-496"
     },
     {
       "id": 3400,
@@ -229,7 +229,7 @@ window.actressData = {
         "天羽梨梨花",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-259"
     },
     {
       "id": 3376,
@@ -247,7 +247,7 @@ window.actressData = {
         "ラビットけんと",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-257"
     },
     {
       "id": 3317,
@@ -266,7 +266,7 @@ window.actressData = {
         "二叶エマ",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-398"
     },
     {
       "id": 60762,
@@ -283,7 +283,7 @@ window.actressData = {
         "ラビットけんと",
         "岡田真弓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MADN-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADN-023"
     },
     {
       "id": 61748,
@@ -301,7 +301,7 @@ window.actressData = {
         "マサムー",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-383"
     },
     {
       "id": 3660,
@@ -318,7 +318,7 @@ window.actressData = {
         "赤井美希",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-489"
     },
     {
       "id": 62118,
@@ -335,7 +335,7 @@ window.actressData = {
         "吉根柚莉爱",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-232"
     },
     {
       "id": 4702,
@@ -353,7 +353,7 @@ window.actressData = {
         "ロダン富士",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-482"
     },
     {
       "id": 4787,
@@ -373,7 +373,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-802"
     },
     {
       "id": 4726,
@@ -391,7 +391,7 @@ window.actressData = {
         "ラビットけんと",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-679"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-679"
     },
     {
       "id": 4616,
@@ -408,7 +408,7 @@ window.actressData = {
         "西野絵美",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-354"
     },
     {
       "id": 5002,
@@ -425,7 +425,7 @@ window.actressData = {
         "吉根柚莉爱",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-230"
     },
     {
       "id": 63657,
@@ -443,7 +443,7 @@ window.actressData = {
         "ロダン富士",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-475"
     },
     {
       "id": 62762,
@@ -460,7 +460,7 @@ window.actressData = {
         "ラビットけんと",
         "池田マリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-663"
     },
     {
       "id": 5035,
@@ -478,7 +478,7 @@ window.actressData = {
         "ラビットけんと",
         "なっつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-476"
     },
     {
       "id": 63021,
@@ -495,7 +495,7 @@ window.actressData = {
         "安部藍",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKD-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-058"
     },
     {
       "id": 62987,
@@ -511,7 +511,7 @@ window.actressData = {
       "actress": [
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-148"
     },
     {
       "id": 5325,
@@ -531,7 +531,7 @@ window.actressData = {
         "しめじ",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-013"
     },
     {
       "id": 66461,
@@ -548,7 +548,7 @@ window.actressData = {
         "ラビットけんと",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-352"
     },
     {
       "id": 6278,
@@ -566,7 +566,7 @@ window.actressData = {
         "ニック",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-291"
     },
     {
       "id": 6609,
@@ -590,7 +590,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-098"
     },
     {
       "id": 6911,
@@ -608,7 +608,7 @@ window.actressData = {
         "左慈半造",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-754"
     },
     {
       "id": 7008,
@@ -626,7 +626,7 @@ window.actressData = {
         "ラビットけんと",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-260"
     },
     {
       "id": 6982,
@@ -643,7 +643,7 @@ window.actressData = {
         "葵百合香",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-452"
     },
     {
       "id": 7574,
@@ -663,7 +663,7 @@ window.actressData = {
         "日森一",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-080"
     },
     {
       "id": 7728,
@@ -681,7 +681,7 @@ window.actressData = {
         "ラヴズ",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-617"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-617"
     },
     {
       "id": 7672,
@@ -699,7 +699,7 @@ window.actressData = {
         "日森一",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-611"
     },
     {
       "id": 7824,
@@ -717,7 +717,7 @@ window.actressData = {
         "ラビットけんと",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-727"
     },
     {
       "id": 7819,
@@ -735,7 +735,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-725"
     },
     {
       "id": 8019,
@@ -752,7 +752,7 @@ window.actressData = {
         "黑木玲奈",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-724"
     },
     {
       "id": 8188,
@@ -770,7 +770,7 @@ window.actressData = {
         "新村晶",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-039"
     },
     {
       "id": 8393,
@@ -788,7 +788,7 @@ window.actressData = {
         "ラビットけんと",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-426"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-426"
     }
   ]
 };

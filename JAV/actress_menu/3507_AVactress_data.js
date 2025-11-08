@@ -34,7 +34,7 @@ window.actressData = {
         "レンジャー鏑木",
         "鴨宮みなと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-054"
     }
   ]
 };

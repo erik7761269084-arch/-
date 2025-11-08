@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "桜木あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-329"
     },
     {
       "id": 92327,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "桜木あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-228"
     }
   ]
 };

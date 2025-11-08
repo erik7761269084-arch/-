@@ -44,7 +44,7 @@ window.actressData = {
         "优梨まいな",
         "坂下里美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIV-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIV-033"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "佐久間楓",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-362"
     },
     {
       "id": 12595,
@@ -50,7 +50,7 @@ window.actressData = {
         "甘井くるみ",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-612"
     },
     {
       "id": 89611,
@@ -68,7 +68,7 @@ window.actressData = {
         "浜咲恵利",
         "矢島ちえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-224"
     },
     {
       "id": 92974,
@@ -85,7 +85,7 @@ window.actressData = {
         "栗原良",
         "君塚ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-653"
     },
     {
       "id": 68380,
@@ -102,7 +102,7 @@ window.actressData = {
         "翔田千里",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUE-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUE-012"
     },
     {
       "id": 67425,
@@ -119,7 +119,7 @@ window.actressData = {
         "大島愛里亞",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-039"
     },
     {
       "id": 66686,
@@ -136,7 +136,7 @@ window.actressData = {
         "大槻响",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-271"
     },
     {
       "id": 66926,
@@ -153,7 +153,7 @@ window.actressData = {
         "森澤佳奈",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-582"
     },
     {
       "id": 68800,
@@ -170,7 +170,7 @@ window.actressData = {
         "水野優香",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-095"
     },
     {
       "id": 85112,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-012"
     },
     {
       "id": 69664,
@@ -204,7 +204,7 @@ window.actressData = {
         "岩下たろう",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-556"
     },
     {
       "id": 86094,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-075"
     },
     {
       "id": 85073,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-980"
     },
     {
       "id": 85678,
@@ -253,7 +253,7 @@ window.actressData = {
         "川上優",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-545"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-545"
     },
     {
       "id": 79388,
@@ -270,7 +270,7 @@ window.actressData = {
         "木村穂乃香",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-153"
     },
     {
       "id": 85132,
@@ -287,7 +287,7 @@ window.actressData = {
         "栗原良",
         "苍井れいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-112"
     },
     {
       "id": 70518,
@@ -304,7 +304,7 @@ window.actressData = {
         "美咲佳奈",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-373"
     },
     {
       "id": 77317,
@@ -323,7 +323,7 @@ window.actressData = {
         "新田みれい",
         "圣星姫花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-330"
     },
     {
       "id": 82141,
@@ -340,7 +340,7 @@ window.actressData = {
         "栗原良",
         "理々香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-917"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-917"
     },
     {
       "id": 75033,
@@ -357,7 +357,7 @@ window.actressData = {
         "飞鸟铃",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDHZ-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHZ-005"
     },
     {
       "id": 70201,
@@ -374,7 +374,7 @@ window.actressData = {
         "纱々原ゆり",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-881"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-881"
     },
     {
       "id": 106058,
@@ -391,7 +391,7 @@ window.actressData = {
         "今井栞菜",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-871"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-871"
     },
     {
       "id": 100721,
@@ -408,7 +408,7 @@ window.actressData = {
         "小西悠",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-779"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-779"
     }
   ]
 };

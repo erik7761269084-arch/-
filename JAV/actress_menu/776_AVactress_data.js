@@ -69,7 +69,7 @@ window.actressData = {
         "田中奈奈實",
         "永泽ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-597"
     },
     {
       "id": 88954,
@@ -91,7 +91,7 @@ window.actressData = {
         "夏树カオル",
         "池谷佳纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-521"
     },
     {
       "id": 68941,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "黒川晴美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-212"
     },
     {
       "id": 69664,
@@ -125,7 +125,7 @@ window.actressData = {
         "岩下たろう",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-556"
     },
     {
       "id": 85795,
@@ -142,7 +142,7 @@ window.actressData = {
         "黒川晴美",
         "白雪麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-262"
     },
     {
       "id": 9130,
@@ -159,7 +159,7 @@ window.actressData = {
         "黒川晴美",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-552"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-552"
     },
     {
       "id": 9501,
@@ -176,7 +176,7 @@ window.actressData = {
         "黒川晴美",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-527"
     },
     {
       "id": 9794,
@@ -193,7 +193,7 @@ window.actressData = {
         "黒川晴美",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-504"
     }
   ]
 };

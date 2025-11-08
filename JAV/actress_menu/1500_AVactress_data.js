@@ -45,7 +45,7 @@ window.actressData = {
         "遠藤沙耶",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-094"
     },
     {
       "id": 16977,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "遠藤沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-522"
     },
     {
       "id": 90205,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "遠藤沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-791"
     },
     {
       "id": 90031,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "遠藤沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-518"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-518"
     },
     {
       "id": 90035,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "遠藤沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-509"
     },
     {
       "id": 107641,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "遠藤沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-504"
     }
   ]
 };

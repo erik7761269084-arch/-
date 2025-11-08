@@ -33,7 +33,7 @@ window.actressData = {
         "弥生美月",
         "松田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-044"
     }
   ]
 };

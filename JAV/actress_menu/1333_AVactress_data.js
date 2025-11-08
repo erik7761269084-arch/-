@@ -47,7 +47,7 @@ window.actressData = {
         "松永梨杏",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-515"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-515"
     },
     {
       "id": 18520,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "松永梨杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-487"
     },
     {
       "id": 90829,
@@ -80,7 +80,7 @@ window.actressData = {
         "松永梨杏",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-458"
     },
     {
       "id": 92323,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "松永梨杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-428"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-428"
     },
     {
       "id": 92305,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "松永梨杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-397"
     },
     {
       "id": 92295,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "松永梨杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-366"
     }
   ]
 };

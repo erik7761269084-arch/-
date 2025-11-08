@@ -34,7 +34,7 @@ window.actressData = {
         "成宫いろは",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-608"
     },
     {
       "id": 90154,
@@ -60,7 +60,7 @@ window.actressData = {
         "もなみ铃",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-837"
     },
     {
       "id": 87150,
@@ -79,7 +79,7 @@ window.actressData = {
         "円城ひとみ",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-902"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-902"
     },
     {
       "id": 75220,
@@ -96,7 +96,7 @@ window.actressData = {
         "Qべぇ",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIR-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-003"
     },
     {
       "id": 75750,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-001"
     },
     {
       "id": 78194,
@@ -132,7 +132,7 @@ window.actressData = {
         "一ノ瀬あやめ",
         "南原香织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCP-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCP-002"
     },
     {
       "id": 71406,
@@ -149,7 +149,7 @@ window.actressData = {
         "姫川礼子",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-658"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-658"
     },
     {
       "id": 77030,
@@ -167,7 +167,7 @@ window.actressData = {
         "今井栞菜",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-439"
     },
     {
       "id": 78056,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-741"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-741"
     }
   ]
 };

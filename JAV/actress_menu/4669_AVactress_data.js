@@ -40,7 +40,7 @@ window.actressData = {
         "池内凉子",
         "二宫莉央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-106"
     },
     {
       "id": 76862,
@@ -58,7 +58,7 @@ window.actressData = {
         "池内凉子",
         "内川桂帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-277"
     },
     {
       "id": 77750,
@@ -78,7 +78,7 @@ window.actressData = {
         "纱々原ゆり",
         "池内凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-020"
     }
   ]
 };

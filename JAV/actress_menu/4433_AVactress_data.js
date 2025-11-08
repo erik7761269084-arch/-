@@ -42,7 +42,7 @@ window.actressData = {
         "南凉",
         "茜麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     },
     {
       "id": 77764,
@@ -59,7 +59,7 @@ window.actressData = {
         "沢井亮",
         "桜アン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCT-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCT-045"
     },
     {
       "id": 74414,
@@ -78,7 +78,7 @@ window.actressData = {
         "木叶ちひろ",
         "桜アン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-600"
     },
     {
       "id": 90059,
@@ -97,7 +97,7 @@ window.actressData = {
         "悠月アイシャ",
         "一ノ瀬夏摘"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
     }
   ]
 };

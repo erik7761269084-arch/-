@@ -57,7 +57,7 @@ window.actressData = {
         "桃咲乃亞",
         "綾波蓮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-114"
     },
     {
       "id": 7244,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "桃咲乃亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-067"
     },
     {
       "id": 8649,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "桃咲乃亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-130"
     },
     {
       "id": 8545,
@@ -106,7 +106,7 @@ window.actressData = {
         "桃咲乃亞",
         "のあた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1049"
     },
     {
       "id": 16911,
@@ -123,7 +123,7 @@ window.actressData = {
         "桃咲乃亞",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-193"
     },
     {
       "id": 17366,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "桃咲乃亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-213"
     }
   ]
 };

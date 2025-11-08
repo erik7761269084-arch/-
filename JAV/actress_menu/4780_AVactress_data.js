@@ -38,7 +38,7 @@ window.actressData = {
         "叶山弓子",
         "甲斐ミハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMIX-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-012"
     },
     {
       "id": 78107,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "中山香苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-218"
     }
   ]
 };

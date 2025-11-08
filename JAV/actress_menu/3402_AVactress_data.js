@@ -41,7 +41,7 @@ window.actressData = {
         "宫沢优里",
         "沙原さゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-270"
     },
     {
       "id": 81776,
@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "宫沢优里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-068"
     },
     {
       "id": 76991,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "宫沢优里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-283"
     }
   ]
 };

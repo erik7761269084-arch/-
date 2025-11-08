@@ -33,7 +33,7 @@ window.actressData = {
         "Qべぇ",
         "夏目かふか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-936"
     }
   ]
 };

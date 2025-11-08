@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "神海リア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-501"
     },
     {
       "id": 92359,
@@ -50,7 +50,7 @@ window.actressData = {
         "南佳也",
         "神海リア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-491"
     }
   ]
 };

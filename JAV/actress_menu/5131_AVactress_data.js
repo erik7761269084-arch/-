@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "茅野さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCD-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-251"
     }
   ]
 };

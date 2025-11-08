@@ -55,7 +55,7 @@ window.actressData = {
         "村田ちか",
         "香岛りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-171"
     }
   ]
 };

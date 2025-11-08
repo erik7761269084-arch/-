@@ -61,7 +61,7 @@ window.actressData = {
         "樱井ゆうこ",
         "神崎久美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-501"
     },
     {
       "id": 93106,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "北島玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MLMM-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MLMM-053"
     },
     {
       "id": 81453,
@@ -100,7 +100,7 @@ window.actressData = {
         "野々宫みさと",
         "青山のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMV-140"
     },
     {
       "id": 81766,
@@ -123,7 +123,7 @@ window.actressData = {
         "爱川咲树",
         "望月加奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-373"
     }
   ]
 };

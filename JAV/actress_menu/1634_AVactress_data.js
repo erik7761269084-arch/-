@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "花鳥斗架"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-136"
     }
   ]
 };

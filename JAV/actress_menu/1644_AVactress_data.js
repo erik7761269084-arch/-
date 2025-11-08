@@ -49,7 +49,7 @@ window.actressData = {
         "小田切ありさ",
         "椎名ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIS-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-107"
     },
     {
       "id": 77278,
@@ -68,7 +68,7 @@ window.actressData = {
         "小田切ありさ",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-048"
     },
     {
       "id": 73572,
@@ -90,7 +90,7 @@ window.actressData = {
         "五月女千夏",
         "彩风のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-015"
     },
     {
       "id": 88444,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "小田切ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-797"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-797"
     }
   ]
 };

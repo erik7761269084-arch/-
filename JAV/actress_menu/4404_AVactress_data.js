@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "诗音乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAMEF-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAMEF-037"
     },
     {
       "id": 83167,
@@ -50,7 +50,7 @@ window.actressData = {
         "须崎まどか",
         "诗音乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROOM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-011"
     },
     {
       "id": 83287,
@@ -69,7 +69,7 @@ window.actressData = {
         "诗音乃らん",
         "立花芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-278"
     },
     {
       "id": 73791,
@@ -92,7 +92,7 @@ window.actressData = {
         "生田みく",
         "诗音乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-193"
     },
     {
       "id": 82684,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "诗音乃らん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-554"
     }
   ]
 };

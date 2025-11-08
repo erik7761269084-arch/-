@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "奈槻れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-887"
     },
     {
       "id": 77731,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "奈槻れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MARA-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-050"
     },
     {
       "id": 78441,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "奈槻れいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIC-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-059"
     }
   ]
 };

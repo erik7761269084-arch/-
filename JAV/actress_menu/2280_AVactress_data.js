@@ -49,7 +49,7 @@ window.actressData = {
         "七藤優亜",
         "白戸はつみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-401"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "堂元ふわり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-142"
     },
     {
       "id": 91046,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "堂元ふわり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-511"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-511"
     },
     {
       "id": 92328,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "堂元ふわり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-223"
     }
   ]
 };

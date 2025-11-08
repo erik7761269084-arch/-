@@ -61,7 +61,7 @@ window.actressData = {
         "山井すず",
         "七海ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-206"
     },
     {
       "id": 81728,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "松ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-254"
     },
     {
       "id": 82026,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "松ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-895"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-895"
     },
     {
       "id": 81792,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "松ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-164"
     },
     {
       "id": 81659,
@@ -127,7 +127,7 @@ window.actressData = {
         "森萤",
         "桥本丽华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAB-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-012"
     },
     {
       "id": 71475,
@@ -145,7 +145,7 @@ window.actressData = {
         "藤井林檎",
         "松ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-849"
     },
     {
       "id": 74532,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "松ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-548"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-548"
     },
     {
       "id": 77337,
@@ -178,7 +178,7 @@ window.actressData = {
         "松ゆきの",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-136"
     }
   ]
 };

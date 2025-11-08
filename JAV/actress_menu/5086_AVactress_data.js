@@ -42,7 +42,7 @@ window.actressData = {
         "桃瀬さくら",
         "瀬戸真白"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-610"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-610"
     }
   ]
 };

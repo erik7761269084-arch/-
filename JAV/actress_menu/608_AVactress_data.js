@@ -57,7 +57,7 @@ window.actressData = {
         "愛才莉亞",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-663"
     },
     {
       "id": 3788,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-643"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-643"
     },
     {
       "id": 3756,
@@ -93,7 +93,7 @@ window.actressData = {
         "櫻若菜",
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-623"
     },
     {
       "id": 4778,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-613"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-613"
     },
     {
       "id": 5559,
@@ -126,7 +126,7 @@ window.actressData = {
         "愛才莉亞",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-565"
     },
     {
       "id": 6297,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-590"
     },
     {
       "id": 7071,
@@ -160,7 +160,7 @@ window.actressData = {
         "鲛岛",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-570"
     },
     {
       "id": 7724,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "愛才莉亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-520"
     },
     {
       "id": 9256,
@@ -194,7 +194,7 @@ window.actressData = {
         "鲛岛",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-492"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "高城彩",
         "高木千里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JHEM-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JHEM-035"
     },
     {
       "id": 81849,
@@ -52,7 +52,7 @@ window.actressData = {
         "二ノ宫庆子",
         "福田凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-206"
     },
     {
       "id": 75440,
@@ -71,7 +71,7 @@ window.actressData = {
         "服部尚美",
         "莲田いく美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYAJ-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYAJ-198"
     }
   ]
 };

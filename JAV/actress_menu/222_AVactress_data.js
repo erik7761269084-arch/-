@@ -75,7 +75,7 @@ window.actressData = {
         "羽田貴史",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-255"
     },
     {
       "id": 4552,
@@ -95,7 +95,7 @@ window.actressData = {
         "イセドン内村",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-246"
     },
     {
       "id": 5403,
@@ -113,7 +113,7 @@ window.actressData = {
         "凉森玲梦",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-237"
     },
     {
       "id": 6946,
@@ -131,7 +131,7 @@ window.actressData = {
         "イセドン内村",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-217"
     },
     {
       "id": 7594,
@@ -148,7 +148,7 @@ window.actressData = {
         "涼森玲夢",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-208"
     },
     {
       "id": 8313,
@@ -167,7 +167,7 @@ window.actressData = {
         "ニック",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-199"
     },
     {
       "id": 9285,
@@ -184,7 +184,7 @@ window.actressData = {
         "涼森玲夢",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-188"
     },
     {
       "id": 10004,
@@ -203,7 +203,7 @@ window.actressData = {
         "小田切ジュン",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-179"
     },
     {
       "id": 16406,
@@ -220,7 +220,7 @@ window.actressData = {
         "涼森玲夢",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-073"
     },
     {
       "id": 17151,
@@ -237,7 +237,7 @@ window.actressData = {
         "涼森玲夢",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-055"
     },
     {
       "id": 18346,
@@ -254,7 +254,7 @@ window.actressData = {
         "涼森玲夢",
         "凉森玲梦"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-034"
     },
     {
       "id": 19614,
@@ -270,7 +270,7 @@ window.actressData = {
       "actress": [
         "涼森玲夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-984"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-984"
     }
   ]
 };

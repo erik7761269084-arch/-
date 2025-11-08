@@ -33,7 +33,7 @@ window.actressData = {
         "小栗操",
         "二の宫すずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-641"
     },
     {
       "id": 85665,
@@ -54,7 +54,7 @@ window.actressData = {
         "篠原りこ",
         "二の宫すずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-469"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-469"
     },
     {
       "id": 79946,
@@ -73,7 +73,7 @@ window.actressData = {
         "二の宫すずか",
         "中条铃华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-591"
     },
     {
       "id": 79486,
@@ -92,7 +92,7 @@ window.actressData = {
         "二の宫すずか",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-580"
     }
   ]
 };

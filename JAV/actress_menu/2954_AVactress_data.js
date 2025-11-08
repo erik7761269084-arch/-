@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "あかね葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1082"
     },
     {
       "id": 82706,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "あかね葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-365"
     },
     {
       "id": 69727,
@@ -73,7 +73,7 @@ window.actressData = {
         "枝川结衣",
         "夏川恵茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YRH-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YRH-167"
     },
     {
       "id": 88332,
@@ -90,7 +90,7 @@ window.actressData = {
         "栄川乃亜",
         "あかね葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-041"
     }
   ]
 };

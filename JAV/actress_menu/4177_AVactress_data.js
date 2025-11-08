@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "优月心菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-899"
     },
     {
       "id": 83177,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "优月心菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-896"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-896"
     },
     {
       "id": 19033,
@@ -65,7 +65,7 @@ window.actressData = {
         "優月心菜",
         "优月心菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-413"
     },
     {
       "id": 19054,
@@ -82,7 +82,7 @@ window.actressData = {
         "優月心菜",
         "优月心菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-397"
     },
     {
       "id": 74502,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "优月心菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-366"
     },
     {
       "id": 19089,
@@ -115,7 +115,7 @@ window.actressData = {
         "優月心菜",
         "优月心菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-351"
     },
     {
       "id": 19109,
@@ -132,7 +132,7 @@ window.actressData = {
         "優月心菜",
         "优月心菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-333"
     },
     {
       "id": 19131,
@@ -150,7 +150,7 @@ window.actressData = {
         "鲛岛",
         "优月心菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-318"
     }
   ]
 };

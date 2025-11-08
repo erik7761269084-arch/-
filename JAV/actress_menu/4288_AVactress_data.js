@@ -33,7 +33,7 @@ window.actressData = {
         "七海雛",
         "黑咲滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTKL-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKL-069"
     },
     {
       "id": 74163,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "黑咲滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-039"
     },
     {
       "id": 78204,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "黑咲滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-713"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-713"
     },
     {
       "id": 76372,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "黑咲滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-192"
     },
     {
       "id": 72705,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "黑咲滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONB-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONB-150"
     }
   ]
 };

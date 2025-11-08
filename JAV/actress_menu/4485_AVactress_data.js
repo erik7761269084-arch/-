@@ -34,7 +34,7 @@ window.actressData = {
         "大沢萌音",
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GZAP-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GZAP-023"
     },
     {
       "id": 74866,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "大沢萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-110"
     }
   ]
 };

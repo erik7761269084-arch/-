@@ -37,7 +37,7 @@ window.actressData = {
         "山口叶瑠",
         "塩见彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DMAT-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMAT-199"
     },
     {
       "id": 79884,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "山口叶瑠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-714"
     },
     {
       "id": 63327,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "山口叶瑠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSAJ-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSAJ-005"
     },
     {
       "id": 83802,
@@ -89,7 +89,7 @@ window.actressData = {
         "山口叶瑠",
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-065"
     },
     {
       "id": 83792,
@@ -109,7 +109,7 @@ window.actressData = {
         "山口叶瑠",
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-062"
     },
     {
       "id": 76467,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "山口叶瑠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-371"
     },
     {
       "id": 76556,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "山口叶瑠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-304"
     }
   ]
 };

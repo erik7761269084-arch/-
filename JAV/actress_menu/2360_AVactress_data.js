@@ -55,7 +55,7 @@ window.actressData = {
         "榎本美咲",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-919"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-919"
     },
     {
       "id": 105722,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "榎本美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-196"
     },
     {
       "id": 19495,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "榎本美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-002"
     },
     {
       "id": 107663,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "榎本美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-943"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-943"
     },
     {
       "id": 106376,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "榎本美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-846"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-846"
     }
   ]
 };

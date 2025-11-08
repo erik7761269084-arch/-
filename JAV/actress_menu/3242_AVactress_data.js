@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "安西ちはや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBZ-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBZ-002"
     }
   ]
 };

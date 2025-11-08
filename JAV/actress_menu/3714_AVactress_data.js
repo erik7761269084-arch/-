@@ -40,7 +40,7 @@ window.actressData = {
         "春风光",
         "海空花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-174"
     },
     {
       "id": 88028,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-888"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-888"
     },
     {
       "id": 81965,
@@ -74,7 +74,7 @@ window.actressData = {
         "弥生美月",
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-070"
     },
     {
       "id": 81856,
@@ -94,7 +94,7 @@ window.actressData = {
         "川原かなえ",
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-133"
     },
     {
       "id": 83575,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FADSS-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FADSS-016"
     },
     {
       "id": 83322,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-025"
     },
     {
       "id": 81686,
@@ -145,7 +145,7 @@ window.actressData = {
         "春风光",
         "七槻りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-510"
     },
     {
       "id": 83407,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-427"
     },
     {
       "id": 83588,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-201"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-201"
     },
     {
       "id": 82534,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ECB-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-131"
     },
     {
       "id": 82804,
@@ -219,7 +219,7 @@ window.actressData = {
         "春风光",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HGOT-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-027"
     },
     {
       "id": 67270,
@@ -235,7 +235,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2163"
     },
     {
       "id": 76492,
@@ -251,7 +251,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-956"
     },
     {
       "id": 76224,
@@ -268,7 +268,7 @@ window.actressData = {
         "田渊正浩",
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FADSS-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FADSS-010"
     },
     {
       "id": 74444,
@@ -284,7 +284,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-954"
     },
     {
       "id": 83069,
@@ -300,7 +300,7 @@ window.actressData = {
       "actress": [
         "春风光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-621"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-621"
     }
   ]
 };

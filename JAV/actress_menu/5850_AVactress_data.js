@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "东尾真子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PESS-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-008"
     }
   ]
 };

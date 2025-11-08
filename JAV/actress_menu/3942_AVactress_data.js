@@ -47,7 +47,7 @@ window.actressData = {
         "成泽ひなみ",
         "宫本纱央里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-371"
     },
     {
       "id": 71522,
@@ -70,7 +70,7 @@ window.actressData = {
         "羽咲美亜",
         "蓝川みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-149"
     },
     {
       "id": 89787,
@@ -91,7 +91,7 @@ window.actressData = {
         "久留木玲",
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-211"
     },
     {
       "id": 79269,
@@ -108,7 +108,7 @@ window.actressData = {
         "瀨名光",
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-225"
     },
     {
       "id": 79863,
@@ -125,7 +125,7 @@ window.actressData = {
         "宫泽千春",
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-572"
     },
     {
       "id": 79484,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-195"
     },
     {
       "id": 88076,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-123"
     },
     {
       "id": 72897,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-990"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-990"
     },
     {
       "id": 93128,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-874"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-874"
     },
     {
       "id": 19517,
@@ -206,7 +206,7 @@ window.actressData = {
         "中野七緒",
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-596"
     },
     {
       "id": 106989,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-584"
     },
     {
       "id": 78075,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-560"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-560"
     },
     {
       "id": 77737,
@@ -255,7 +255,7 @@ window.actressData = {
         "イセドン内村",
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-551"
     },
     {
       "id": 88081,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-542"
     },
     {
       "id": 74149,
@@ -289,7 +289,7 @@ window.actressData = {
         "鲛岛",
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-516"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-516"
     },
     {
       "id": 74130,
@@ -306,7 +306,7 @@ window.actressData = {
         "鲛岛",
         "中野七绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-507"
     }
   ]
 };

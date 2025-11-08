@@ -60,7 +60,7 @@ window.actressData = {
         "春日惠奈",
         "上白美央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-534"
     },
     {
       "id": 9785,
@@ -82,7 +82,7 @@ window.actressData = {
         "宇佐美みおん",
         "仲川空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-268"
     },
     {
       "id": 17161,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "弘中優"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-014"
     }
   ]
 };

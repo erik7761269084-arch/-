@@ -42,7 +42,7 @@ window.actressData = {
         "知花しおん",
         "長澤りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JNKD-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNKD-014"
     },
     {
       "id": 4587,
@@ -59,7 +59,7 @@ window.actressData = {
         "谷梓",
         "長澤りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-399"
     },
     {
       "id": 5449,
@@ -76,7 +76,7 @@ window.actressData = {
         "小島美子",
         "長澤りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JNKE-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNKE-007"
     },
     {
       "id": 16986,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "長澤りつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-359"
     }
   ]
 };

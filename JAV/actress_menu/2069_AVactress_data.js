@@ -76,7 +76,7 @@ window.actressData = {
         "神波多一花",
         "樱井步"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-682"
     },
     {
       "id": 88940,
@@ -101,7 +101,7 @@ window.actressData = {
         "枢木美栞",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-526"
     },
     {
       "id": 92744,
@@ -118,7 +118,7 @@ window.actressData = {
         "大场唯",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIS-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-088"
     },
     {
       "id": 86915,
@@ -138,7 +138,7 @@ window.actressData = {
         "水城りの",
         "爱原さえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-161"
     },
     {
       "id": 100015,
@@ -155,7 +155,7 @@ window.actressData = {
         "大场唯",
         "神波多一花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-352-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-352-"
     },
     {
       "id": 82935,
@@ -173,7 +173,7 @@ window.actressData = {
         "大场唯",
         "佐々木恋海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZIZG-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-012"
     },
     {
       "id": 1845,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "大场唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S75"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S75"
     }
   ]
 };

@@ -63,7 +63,7 @@ window.actressData = {
         "斉藤月乃",
         "まなみ静奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-682"
     },
     {
       "id": 6990,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-449"
     },
     {
       "id": 7124,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-372"
     },
     {
       "id": 71952,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-048"
     },
     {
       "id": 70367,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-286"
     },
     {
       "id": 70339,
@@ -144,7 +144,7 @@ window.actressData = {
         "澪川遙",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-921"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-921"
     },
     {
       "id": 74272,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-052"
     },
     {
       "id": 91530,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-335"
     },
     {
       "id": 17066,
@@ -193,7 +193,7 @@ window.actressData = {
         "澪川遙",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-538"
     },
     {
       "id": 100857,
@@ -209,7 +209,7 @@ window.actressData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-529"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-529"
     },
     {
       "id": 18752,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "澪川遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-525"
     }
   ]
 };

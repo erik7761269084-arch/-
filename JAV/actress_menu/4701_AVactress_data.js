@@ -35,7 +35,7 @@ window.actressData = {
         "NIMO",
         "河原かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POST-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
     },
     {
       "id": 77319,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "河原かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-377"
     }
   ]
 };

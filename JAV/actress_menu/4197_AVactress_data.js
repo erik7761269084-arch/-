@@ -35,7 +35,7 @@ window.actressData = {
         "南佳也",
         "きみかわ结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-913"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-913"
     },
     {
       "id": 73809,
@@ -53,7 +53,7 @@ window.actressData = {
         "梁井一",
         "きみかわ结衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-784"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-784"
     }
   ]
 };

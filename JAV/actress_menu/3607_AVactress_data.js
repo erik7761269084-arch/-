@@ -33,7 +33,7 @@ window.actressData = {
         "竹内翼",
         "加賀いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1702"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1702"
     },
     {
       "id": 107643,
@@ -50,7 +50,7 @@ window.actressData = {
         "南佳也",
         "加賀いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-494"
     }
   ]
 };

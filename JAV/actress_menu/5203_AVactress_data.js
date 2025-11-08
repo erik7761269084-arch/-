@@ -48,7 +48,7 @@ window.actressData = {
         "市川つばさ",
         "佐々木えな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-732"
     },
     {
       "id": 82924,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "彩乃奈奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-444"
     }
   ]
 };

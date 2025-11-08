@@ -39,7 +39,7 @@ window.actressData = {
         "羽咲美亜",
         "蓝川みれい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-149"
     }
   ]
 };

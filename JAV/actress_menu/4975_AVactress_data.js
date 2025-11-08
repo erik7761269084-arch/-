@@ -33,7 +33,7 @@ window.actressData = {
         "かわいゆい",
         "上原まみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAD-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAD-027"
     }
   ]
 };

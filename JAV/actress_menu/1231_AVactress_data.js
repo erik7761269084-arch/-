@@ -57,7 +57,7 @@ window.actressData = {
         "れみ",
         "安藤ハル"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
     },
     {
       "id": 76834,
@@ -77,7 +77,7 @@ window.actressData = {
         "朝野りる",
         "伊織さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-731"
     },
     {
       "id": 94691,
@@ -95,7 +95,7 @@ window.actressData = {
         "橘知花",
         "朝野りる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-134"
     }
   ]
 };

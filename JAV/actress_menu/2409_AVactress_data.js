@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "音羽留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIM-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OTIM-023"
     },
     {
       "id": 81616,
@@ -71,7 +71,7 @@ window.actressData = {
         "东条苍",
         "成宫ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-432"
     },
     {
       "id": 75645,
@@ -90,7 +90,7 @@ window.actressData = {
         "音羽留衣",
         "优月せら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-609"
     },
     {
       "id": 76379,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "音羽留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HKD-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKD-011"
     }
   ]
 };

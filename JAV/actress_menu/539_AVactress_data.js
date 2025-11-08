@@ -49,7 +49,7 @@ window.actressData = {
         "瀧川蓳",
         "園田ひなの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-455"
     },
     {
       "id": 2894,
@@ -71,7 +71,7 @@ window.actressData = {
         "園田ひなの",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSODA-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-091"
     },
     {
       "id": 7962,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "西尾真里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-319"
     },
     {
       "id": 8358,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "西尾真里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-683"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-683"
     },
     {
       "id": 9003,
@@ -124,7 +124,7 @@ window.actressData = {
         "愛葉陽葵",
         "朝陽伊都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
     },
     {
       "id": 59882,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "西尾真里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MBDD-2155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2155"
     }
   ]
 };

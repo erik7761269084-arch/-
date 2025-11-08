@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-362"
     },
     {
       "id": 5605,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-321"
     },
     {
       "id": 7110,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-287"
     },
     {
       "id": 6382,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-303"
     },
     {
       "id": 7783,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-278"
     },
     {
       "id": 8556,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-249"
     },
     {
       "id": 10678,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-190"
     },
     {
       "id": 13461,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-084"
     },
     {
       "id": 13887,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-100"
     },
     {
       "id": 14056,
@@ -208,7 +208,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-044"
     },
     {
       "id": 106358,
@@ -224,7 +224,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-211"
     },
     {
       "id": 90268,
@@ -240,7 +240,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-200"
     },
     {
       "id": 90276,
@@ -256,7 +256,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-193"
     },
     {
       "id": 90264,
@@ -272,7 +272,7 @@ window.actressData = {
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-195"
     }
   ]
 };

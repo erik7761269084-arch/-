@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLO-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-019"
     },
     {
       "id": 72883,
@@ -63,7 +63,7 @@ window.actressData = {
         "柄本ゆかり",
         "白井真美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-728"
     },
     {
       "id": 82914,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZIZG-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-018"
     },
     {
       "id": 82401,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-305"
     },
     {
       "id": 95591,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VDD-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-111"
     },
     {
       "id": 82419,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-216"
     },
     {
       "id": 82437,
@@ -144,7 +144,7 @@ window.actressData = {
         "香澄果穗",
         "徳田重男"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-208"
     },
     {
       "id": 82257,
@@ -160,7 +160,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-390"
     },
     {
       "id": 102259,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TYOD-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYOD-261"
     },
     {
       "id": 97506,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-305"
     },
     {
       "id": 82546,
@@ -209,7 +209,7 @@ window.actressData = {
         "笹木良一",
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-823"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-823"
     },
     {
       "id": 100173,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "香澄果穗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-710"
     }
   ]
 };

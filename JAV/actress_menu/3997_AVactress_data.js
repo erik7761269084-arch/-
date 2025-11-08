@@ -42,7 +42,7 @@ window.actressData = {
         "逢沢るる",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-257"
     },
     {
       "id": 83565,
@@ -63,7 +63,7 @@ window.actressData = {
         "桜乃ゆいな",
         "水泽りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-195"
     },
     {
       "id": 74976,
@@ -83,7 +83,7 @@ window.actressData = {
         "逢沢るる",
         "羽田璃子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-657"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-657"
     },
     {
       "id": 73806,
@@ -103,7 +103,7 @@ window.actressData = {
         "凉川绚音",
         "逢沢るる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-471"
     },
     {
       "id": 70280,
@@ -122,7 +122,7 @@ window.actressData = {
         "逢沢るる",
         "夏希みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-320"
     }
   ]
 };

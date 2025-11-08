@@ -33,7 +33,7 @@ window.actressData = {
         "つかもと友希",
         "滝沢优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-088"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "里海ゆうひ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-253"
     },
     {
       "id": 59711,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "里海ゆうひ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-164"
     }
   ]
 };

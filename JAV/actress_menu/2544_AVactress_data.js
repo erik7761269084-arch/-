@@ -46,7 +46,7 @@ window.actressData = {
         "瀬下るい",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-689"
     }
   ]
 };

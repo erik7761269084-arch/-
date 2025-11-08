@@ -41,7 +41,7 @@ window.actressData = {
         "井上みづき",
         "渡辺もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-524"
     },
     {
       "id": 73011,
@@ -60,7 +60,7 @@ window.actressData = {
         "大原友美",
         "朝比奈みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-215"
     }
   ]
 };

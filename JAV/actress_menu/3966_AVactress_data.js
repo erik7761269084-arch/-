@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "织笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-386"
     },
     {
       "id": 75578,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "织笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-945"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-945"
     },
     {
       "id": 70103,
@@ -65,7 +65,7 @@ window.actressData = {
         "枢木葵",
         "织笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-876"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-876"
     },
     {
       "id": 74894,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "织笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-362"
     },
     {
       "id": 71793,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "织笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-217"
     },
     {
       "id": 88148,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "织笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-010"
     },
     {
       "id": 77282,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "织笠るみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-008"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "林由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-671"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-671"
     },
     {
       "id": 106368,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "林由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-809"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-809"
     },
     {
       "id": 78381,
@@ -86,7 +86,7 @@ window.actressData = {
         "林由奈",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-489"
     },
     {
       "id": 100513,
@@ -103,7 +103,7 @@ window.actressData = {
         "林由奈",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-556"
     },
     {
       "id": 77845,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "林由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKSN-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKSN-230"
     },
     {
       "id": 97591,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "林由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-366"
     },
     {
       "id": 88319,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "林由奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-786"
     },
     {
       "id": 82276,
@@ -168,7 +168,7 @@ window.actressData = {
         "林由奈",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-342"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-342"
     }
   ]
 };

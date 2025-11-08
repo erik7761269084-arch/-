@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "あおい夢莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-947"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-947"
     },
     {
       "id": 88601,
@@ -49,7 +49,7 @@ window.actressData = {
         "鲛岛",
         "あおい夢莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-936"
     },
     {
       "id": 107258,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "あおい夢莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-924"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-924"
     }
   ]
 };

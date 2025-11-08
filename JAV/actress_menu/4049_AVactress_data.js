@@ -39,7 +39,7 @@ window.actressData = {
         "佐久间恵美",
         "さくらはる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-590"
     },
     {
       "id": 98397,
@@ -56,7 +56,7 @@ window.actressData = {
         "香苗レノン",
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-468"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-468"
     },
     {
       "id": 70666,
@@ -75,7 +75,7 @@ window.actressData = {
         "佐久间恵美",
         "沢原佑香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-595"
     },
     {
       "id": 82892,
@@ -93,7 +93,7 @@ window.actressData = {
         "瀬戸すみれ",
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-259"
     },
     {
       "id": 74095,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-126"
     },
     {
       "id": 74553,
@@ -128,7 +128,7 @@ window.actressData = {
         "宫村ななこ",
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-041"
     },
     {
       "id": 74978,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GEKI-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEKI-038"
     },
     {
       "id": 74158,
@@ -161,7 +161,7 @@ window.actressData = {
         "イセドン内村",
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-091"
     },
     {
       "id": 82371,
@@ -178,7 +178,7 @@ window.actressData = {
         "蓝井优太",
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-189"
     },
     {
       "id": 87938,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GENT-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GENT-140"
     },
     {
       "id": 82525,
@@ -211,7 +211,7 @@ window.actressData = {
         "南佳也",
         "佐久间恵美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-654"
     }
   ]
 };

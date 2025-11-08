@@ -35,7 +35,7 @@ window.actressData = {
         "青沼",
         "マース"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-862"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-862"
     },
     {
       "id": 4529,
@@ -52,7 +52,7 @@ window.actressData = {
         "山岸逢花",
         "ダンカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-781"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-781"
     },
     {
       "id": 4484,
@@ -72,7 +72,7 @@ window.actressData = {
         "羽田貴史",
         "ダンカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-198"
     },
     {
       "id": 13225,
@@ -90,7 +90,7 @@ window.actressData = {
         "ダンカ",
         "ハリー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-245"
     },
     {
       "id": 14159,
@@ -107,7 +107,7 @@ window.actressData = {
         "七森莉莉",
         "ダンカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-073"
     }
   ]
 };

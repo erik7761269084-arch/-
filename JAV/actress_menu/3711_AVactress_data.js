@@ -34,7 +34,7 @@ window.actressData = {
         "向理来",
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-501"
     },
     {
       "id": 77702,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-897"
     },
     {
       "id": 97501,
@@ -68,7 +68,7 @@ window.actressData = {
         "向理来",
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-493"
     },
     {
       "id": 82200,
@@ -87,7 +87,7 @@ window.actressData = {
         "目黑惠",
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-615"
     },
     {
       "id": 81779,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNMD-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMD-081"
     },
     {
       "id": 75435,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-405"
     },
     {
       "id": 83778,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIM-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OTIM-021"
     },
     {
       "id": 82082,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-408"
     },
     {
       "id": 81991,
@@ -170,7 +170,7 @@ window.actressData = {
         "一色まりあ",
         "菊池リナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKMJ-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-089"
     },
     {
       "id": 67244,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2245"
     },
     {
       "id": 75392,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTFT-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTFT-004"
     },
     {
       "id": 82596,
@@ -218,7 +218,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-780"
     },
     {
       "id": 76869,
@@ -234,7 +234,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-166"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-166"
     },
     {
       "id": 78498,
@@ -250,7 +250,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-566"
     },
     {
       "id": 75196,
@@ -271,7 +271,7 @@ window.actressData = {
         "星あんず",
         "逢坂りの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-422"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-422"
     },
     {
       "id": 76849,
@@ -287,7 +287,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-103"
     },
     {
       "id": 82948,
@@ -303,7 +303,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1198"
     },
     {
       "id": 78459,
@@ -320,7 +320,7 @@ window.actressData = {
         "大岛丈",
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-554"
     },
     {
       "id": 76747,
@@ -336,7 +336,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-723"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-723"
     },
     {
       "id": 76858,
@@ -352,7 +352,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-802"
     },
     {
       "id": 78974,
@@ -368,7 +368,7 @@ window.actressData = {
       "actress": [
         "目黑惠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-815"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-815"
     }
   ]
 };

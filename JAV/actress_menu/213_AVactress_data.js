@@ -57,7 +57,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-308"
     },
     {
       "id": 4002,
@@ -75,7 +75,7 @@ window.actressData = {
         "ニック",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-262"
     },
     {
       "id": 5689,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-218"
     },
     {
       "id": 7226,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-108"
     },
     {
       "id": 8699,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-032"
     },
     {
       "id": 9429,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-991"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-991"
     },
     {
       "id": 9534,
@@ -180,7 +180,7 @@ window.actressData = {
         "安倍亜沙美",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-424"
     },
     {
       "id": 10338,
@@ -196,7 +196,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-950"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-950"
     },
     {
       "id": 10268,
@@ -225,7 +225,7 @@ window.actressData = {
         "志田雪奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
     },
     {
       "id": 17020,
@@ -244,7 +244,7 @@ window.actressData = {
         "小田切ジュン",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-585"
     },
     {
       "id": 18047,
@@ -260,7 +260,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-524"
     },
     {
       "id": 106878,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-496"
     },
     {
       "id": 107118,
@@ -293,7 +293,7 @@ window.actressData = {
         "月雲夜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-467"
     },
     {
       "id": 92322,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "月雲夜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-429"
     },
     {
       "id": 92306,
@@ -327,7 +327,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-398"
     }
   ]
 };

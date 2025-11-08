@@ -34,7 +34,7 @@ window.actressData = {
         "真琴",
         "丸千香子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-116"
     },
     {
       "id": 82773,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "丸千香子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-949"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-949"
     },
     {
       "id": 82775,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "丸千香子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-913"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-913"
     },
     {
       "id": 74479,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "丸千香子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-880"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-880"
     },
     {
       "id": 103890,
@@ -99,7 +99,7 @@ window.actressData = {
         "玉木玲",
         "丸千香子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-810"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-810"
     }
   ]
 };

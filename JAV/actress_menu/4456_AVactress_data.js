@@ -33,7 +33,7 @@ window.actressData = {
         "一条美绪",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-990"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-990"
     },
     {
       "id": 81557,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ETQR-126"
     },
     {
       "id": 88083,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-613"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-613"
     },
     {
       "id": 83151,
@@ -84,7 +84,7 @@ window.actressData = {
         "森本つぐみ",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-608"
     },
     {
       "id": 83605,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ETQR-123"
     },
     {
       "id": 75044,
@@ -118,7 +118,7 @@ window.actressData = {
         "管野静香",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-047"
     },
     {
       "id": 78205,
@@ -138,7 +138,7 @@ window.actressData = {
         "菊川みつ叶",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-095"
     },
     {
       "id": 74577,
@@ -156,7 +156,7 @@ window.actressData = {
         "玉木玲",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-678"
     },
     {
       "id": 77049,
@@ -174,7 +174,7 @@ window.actressData = {
         "小田切ジュン",
         "悠月リアナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-155"
     }
   ]
 };

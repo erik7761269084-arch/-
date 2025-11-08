@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "魅音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-216"
     },
     {
       "id": 13135,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "魅音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-132"
     }
   ]
 };

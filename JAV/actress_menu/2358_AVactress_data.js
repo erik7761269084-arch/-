@@ -50,7 +50,7 @@ window.actressData = {
         "梦野堇",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-865"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-865"
     }
   ]
 };

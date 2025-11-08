@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "桃夏凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-40"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-40"
     },
     {
       "id": 1746,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "桃夏凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-032"
     },
     {
       "id": 106521,
@@ -81,7 +81,7 @@ window.actressData = {
         "浅乃ハルミ",
         "舞野まや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-276"
     },
     {
       "id": 1837,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "桃夏凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-27"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-27"
     },
     {
       "id": 103249,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "桃夏凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-431"
     }
   ]
 };

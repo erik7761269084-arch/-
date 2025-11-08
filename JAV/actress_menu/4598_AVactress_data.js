@@ -33,7 +33,7 @@ window.actressData = {
         "小栗操",
         "柳井める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-179"
     },
     {
       "id": 75860,
@@ -51,7 +51,7 @@ window.actressData = {
         "玉木玲",
         "柳井める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-045"
     }
   ]
 };

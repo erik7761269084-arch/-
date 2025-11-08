@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "友光夏华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-080"
     },
     {
       "id": 74517,
@@ -50,7 +50,7 @@ window.actressData = {
         "玉木玲",
         "友光夏华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-139"
     }
   ]
 };

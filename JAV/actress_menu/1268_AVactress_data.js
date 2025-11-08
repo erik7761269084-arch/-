@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "逢澤遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-279"
     },
     {
       "id": 72075,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "逢澤遙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GIGL-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIGL-525"
     }
   ]
 };

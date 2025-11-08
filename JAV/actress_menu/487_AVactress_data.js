@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-247"
     },
     {
       "id": 6366,
@@ -75,7 +75,7 @@ window.actressData = {
         "小倉和葉",
         "白穂乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     },
     {
       "id": 69642,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-069"
     },
     {
       "id": 7024,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-624"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-624"
     },
     {
       "id": 69898,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-096"
     },
     {
       "id": 9319,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-988"
     },
     {
       "id": 10697,
@@ -156,7 +156,7 @@ window.actressData = {
         "雛乃ゆな",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-915"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-915"
     }
   ]
 };

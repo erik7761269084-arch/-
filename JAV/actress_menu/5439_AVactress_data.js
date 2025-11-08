@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桜梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-458"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-458"
     }
   ]
 };

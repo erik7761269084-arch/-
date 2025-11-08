@@ -36,7 +36,7 @@ window.actressData = {
         "宫名初季",
         "优木カリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-421"
     }
   ]
 };

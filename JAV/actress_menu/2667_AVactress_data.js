@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "桜井彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-239"
     },
     {
       "id": 88798,
@@ -88,7 +88,7 @@ window.actressData = {
         "桜井彩",
         "なつめ爱梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSP-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-133"
     },
     {
       "id": 58145,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "桜井彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-499-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-499-"
     }
   ]
 };

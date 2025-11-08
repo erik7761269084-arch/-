@@ -33,7 +33,7 @@ window.actressData = {
         "神田りこ",
         "小野田麻友"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-196"
     }
   ]
 };

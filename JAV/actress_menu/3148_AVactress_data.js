@@ -33,7 +33,7 @@ window.actressData = {
         "佐久間津奈",
         "わさび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-534"
     }
   ]
 };

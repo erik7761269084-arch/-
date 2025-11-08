@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "七瀬りく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-524"
     }
   ]
 };

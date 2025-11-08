@@ -61,7 +61,7 @@ window.actressData = {
         "梦乃美咲",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-834"
     },
     {
       "id": 77278,
@@ -80,7 +80,7 @@ window.actressData = {
         "小田切ありさ",
         "石川祐奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-048"
     }
   ]
 };

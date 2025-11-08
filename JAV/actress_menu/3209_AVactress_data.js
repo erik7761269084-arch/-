@@ -52,7 +52,7 @@ window.actressData = {
         "逢沢るる",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-257"
     },
     {
       "id": 80954,
@@ -71,7 +71,7 @@ window.actressData = {
         "浜崎真绪",
         "北川爱莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-831"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-831"
     },
     {
       "id": 83708,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "北川爱莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-323"
     },
     {
       "id": 74573,
@@ -109,7 +109,7 @@ window.actressData = {
         "北川爱莉香",
         "あゆみ莉花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-010"
     },
     {
       "id": 88502,
@@ -126,7 +126,7 @@ window.actressData = {
         "Qべぇ",
         "北川爱莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZEX-368"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZEX-368"
     },
     {
       "id": 77279,
@@ -145,7 +145,7 @@ window.actressData = {
         "宫崎彩",
         "北川爱莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-969"
     },
     {
       "id": 95411,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "北川爱莉香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBI-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBI-209"
     },
     {
       "id": 81339,
@@ -183,7 +183,7 @@ window.actressData = {
         "さくら爱々",
         "篠原友里恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-130"
     }
   ]
 };

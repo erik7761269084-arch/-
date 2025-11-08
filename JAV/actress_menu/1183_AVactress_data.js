@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "初乃文香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-464"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-464"
     },
     {
       "id": 72139,
@@ -65,7 +65,7 @@ window.actressData = {
         "初乃文香",
         "七海ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-111"
     },
     {
       "id": 13124,
@@ -83,7 +83,7 @@ window.actressData = {
         "森林原人",
         "戸川夏也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-342"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-342"
     },
     {
       "id": 13263,
@@ -101,7 +101,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-320"
     }
   ]
 };

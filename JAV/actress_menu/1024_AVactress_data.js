@@ -48,7 +48,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-349"
     },
     {
       "id": 19114,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "大原向葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-332"
     },
     {
       "id": 19132,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "大原向葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-317"
     }
   ]
 };

@@ -43,7 +43,7 @@ window.actressData = {
         "伊东红",
         "あきら [TS]"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-493"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-493"
     },
     {
       "id": 68411,
@@ -61,7 +61,7 @@ window.actressData = {
         "玉木玲",
         "伊东红"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-366"
     },
     {
       "id": 106970,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "伊东红"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-305"
     }
   ]
 };

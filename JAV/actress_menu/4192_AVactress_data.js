@@ -34,7 +34,7 @@ window.actressData = {
         "弥生美月",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-107"
     },
     {
       "id": 86719,
@@ -59,7 +59,7 @@ window.actressData = {
         "豊田爱菜",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-061"
     },
     {
       "id": 80507,
@@ -77,7 +77,7 @@ window.actressData = {
         "木下日葵",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-154"
     },
     {
       "id": 82187,
@@ -97,7 +97,7 @@ window.actressData = {
         "鹰宫ゆい",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TUS-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUS-083"
     },
     {
       "id": 82131,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSN-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-507"
     },
     {
       "id": 81586,
@@ -136,7 +136,7 @@ window.actressData = {
         "菊川みつ叶",
         "富永舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-052"
     },
     {
       "id": 78526,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ETQR-127"
     },
     {
       "id": 76175,
@@ -168,7 +168,7 @@ window.actressData = {
       "actress": [
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNEO-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-052"
     },
     {
       "id": 81811,
@@ -184,7 +184,7 @@ window.actressData = {
       "actress": [
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-009"
     },
     {
       "id": 71800,
@@ -205,7 +205,7 @@ window.actressData = {
         "加贺美まり",
         "月宫ねね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-588"
     },
     {
       "id": 76039,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HKD-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKD-009"
     },
     {
       "id": 74883,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNH-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNH-020"
     },
     {
       "id": 82760,
@@ -255,7 +255,7 @@ window.actressData = {
         "Qべぇ",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-663"
     },
     {
       "id": 73894,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-068"
     },
     {
       "id": 79074,
@@ -289,7 +289,7 @@ window.actressData = {
         "椎叶みくる",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-720"
     }
   ]
 };

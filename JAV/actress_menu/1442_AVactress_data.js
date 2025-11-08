@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "南天音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RPIN-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPIN-087"
     },
     {
       "id": 5128,
@@ -84,7 +84,7 @@ window.actressData = {
         "源あい",
         "若宫穂乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-150"
     },
     {
       "id": 5595,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "南天音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-081"
     },
     {
       "id": 93078,
@@ -117,7 +117,7 @@ window.actressData = {
         "南天音",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-272"
     },
     {
       "id": 91556,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "南天音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-303"
     },
     {
       "id": 91989,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "南天音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-140"
     }
   ]
 };

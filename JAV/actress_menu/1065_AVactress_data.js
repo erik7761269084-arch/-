@@ -56,7 +56,7 @@ window.actressData = {
         "小泉日向",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BTHA-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTHA-104"
     },
     {
       "id": 71815,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-430"
     },
     {
       "id": 107527,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-418"
     },
     {
       "id": 82233,
@@ -105,7 +105,7 @@ window.actressData = {
         "小泉日向",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-413"
     },
     {
       "id": 107450,
@@ -122,7 +122,7 @@ window.actressData = {
         "小泉日向",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-964"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-964"
     },
     {
       "id": 71180,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-789"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-789"
     },
     {
       "id": 75184,
@@ -156,7 +156,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-175"
     },
     {
       "id": 1684,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-126"
     },
     {
       "id": 73400,
@@ -188,7 +188,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-111"
     },
     {
       "id": 74404,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-099"
     },
     {
       "id": 74412,
@@ -221,7 +221,7 @@ window.actressData = {
         "小泉日向",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-085"
     },
     {
       "id": 70502,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-079"
     },
     {
       "id": 19458,
@@ -253,7 +253,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-054"
     },
     {
       "id": 1558,
@@ -269,7 +269,7 @@ window.actressData = {
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-053"
     }
   ]
 };

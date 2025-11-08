@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "小坂蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-014"
     },
     {
       "id": 14639,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "小坂蘭"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-013"
     }
   ]
 };

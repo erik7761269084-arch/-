@@ -64,7 +64,7 @@ window.actressData = {
         "七海那美",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-697"
     },
     {
       "id": 4988,
@@ -81,7 +81,7 @@ window.actressData = {
         "七海那美",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-181"
     },
     {
       "id": 5687,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "七海那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-174"
     },
     {
       "id": 6455,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "七海那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-033"
     },
     {
       "id": 7178,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "七海那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YUJ-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-031"
     },
     {
       "id": 7831,
@@ -146,7 +146,7 @@ window.actressData = {
         "七海那美",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-159"
     },
     {
       "id": 9947,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "七海那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-970"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-970"
     },
     {
       "id": 10612,
@@ -180,7 +180,7 @@ window.actressData = {
         "タイ",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-932"
     }
   ]
 };

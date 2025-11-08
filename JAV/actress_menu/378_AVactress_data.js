@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "繪戀空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-108"
     },
     {
       "id": 4720,
@@ -78,7 +78,7 @@ window.actressData = {
         "繪戀空",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-070"
     },
     {
       "id": 5558,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "繪戀空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-049"
     },
     {
       "id": 8356,
@@ -111,7 +111,7 @@ window.actressData = {
         "繪戀空",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-982"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-982"
     },
     {
       "id": 9336,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "繪戀空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-960"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-960"
     },
     {
       "id": 74339,
@@ -144,7 +144,7 @@ window.actressData = {
         "繪戀空",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-929"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-929"
     },
     {
       "id": 10268,
@@ -173,7 +173,7 @@ window.actressData = {
         "志田雪奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
     },
     {
       "id": 10814,
@@ -190,7 +190,7 @@ window.actressData = {
         "繪戀空",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-907"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-907"
     },
     {
       "id": 16801,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "繪戀空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-598"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-598"
     },
     {
       "id": 17219,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "繪戀空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-567"
     },
     {
       "id": 17771,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "繪戀空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-536"
     },
     {
       "id": 92280,
@@ -255,7 +255,7 @@ window.actressData = {
         "繪戀空",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-384"
     },
     {
       "id": 92262,
@@ -271,7 +271,7 @@ window.actressData = {
       "actress": [
         "繪戀空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-353"
     },
     {
       "id": 72749,
@@ -287,7 +287,7 @@ window.actressData = {
       "actress": [
         "繪戀空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-322"
     }
   ]
 };

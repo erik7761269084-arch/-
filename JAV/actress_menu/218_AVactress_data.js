@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-711"
     },
     {
       "id": 5660,
@@ -73,7 +73,7 @@ window.actressData = {
         "ひょこり",
         "平井シンジ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-875"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-875"
     },
     {
       "id": 67446,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IZM-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IZM-030"
     },
     {
       "id": 6473,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-655"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-655"
     },
     {
       "id": 7100,
@@ -128,7 +128,7 @@ window.actressData = {
         "黑木玲奈",
         "碓井せりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTNL-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTNL-002"
     },
     {
       "id": 7332,
@@ -147,7 +147,7 @@ window.actressData = {
         "乃木絢愛",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-052"
     },
     {
       "id": 7629,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PJAM-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-029"
     },
     {
       "id": 8019,
@@ -180,7 +180,7 @@ window.actressData = {
         "黑木玲奈",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-724"
     },
     {
       "id": 9047,
@@ -196,7 +196,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAM-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-235"
     },
     {
       "id": 10104,
@@ -212,7 +212,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-299"
     },
     {
       "id": 10604,
@@ -229,7 +229,7 @@ window.actressData = {
         "黑木玲奈",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-371"
     },
     {
       "id": 13859,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-816"
     },
     {
       "id": 15566,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-718"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-718"
     },
     {
       "id": 16886,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-544"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-544"
     },
     {
       "id": 17334,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-492"
     },
     {
       "id": 17894,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-478"
     },
     {
       "id": 90951,
@@ -325,7 +325,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-100"
     },
     {
       "id": 107731,
@@ -341,7 +341,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-095"
     },
     {
       "id": 100663,
@@ -358,7 +358,7 @@ window.actressData = {
         "黑木玲奈",
         "三四郎"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-093"
     },
     {
       "id": 69112,
@@ -374,7 +374,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-083"
     },
     {
       "id": 85114,
@@ -391,7 +391,7 @@ window.actressData = {
         "黑木玲奈",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-081"
     },
     {
       "id": 85106,
@@ -407,7 +407,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-078"
     },
     {
       "id": 69365,
@@ -423,7 +423,7 @@ window.actressData = {
       "actress": [
         "黑木玲奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-627"
     }
   ]
 };

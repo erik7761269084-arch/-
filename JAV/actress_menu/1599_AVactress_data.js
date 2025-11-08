@@ -55,7 +55,7 @@ window.actressData = {
         "明里友香",
         "黒木歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKS-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-151"
     }
   ]
 };

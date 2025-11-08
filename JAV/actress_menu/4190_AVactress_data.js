@@ -34,7 +34,7 @@ window.actressData = {
         "西村有纱",
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-727"
     },
     {
       "id": 75674,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GMA-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-005"
     },
     {
       "id": 82115,
@@ -72,7 +72,7 @@ window.actressData = {
         "小野さち子",
         "雨宫いぶき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSAD-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-035"
     },
     {
       "id": 83827,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGM-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-027"
     },
     {
       "id": 87596,
@@ -106,7 +106,7 @@ window.actressData = {
         "桐岛美奈子",
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-431"
     },
     {
       "id": 71792,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "小野さち子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-012"
     }
   ]
 };

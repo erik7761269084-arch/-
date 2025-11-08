@@ -38,7 +38,7 @@ window.actressData = {
         "北川美玖",
         "桜井ゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-270"
     },
     {
       "id": 68137,
@@ -56,7 +56,7 @@ window.actressData = {
         "真琴",
         "北川美玖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-254"
     },
     {
       "id": 68394,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "北川美玖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-566"
     },
     {
       "id": 69670,
@@ -89,7 +89,7 @@ window.actressData = {
         "タイ",
         "北川美玖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-554"
     },
     {
       "id": 86605,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "北川美玖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-014"
     },
     {
       "id": 106736,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "北川美玖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEO-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-064"
     },
     {
       "id": 69319,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "北川美玖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-571"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-571"
     }
   ]
 };

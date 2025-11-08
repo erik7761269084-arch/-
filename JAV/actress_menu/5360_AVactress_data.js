@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "森下園花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIRE-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-079"
     },
     {
       "id": 87012,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "森下園花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIRE-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIRE-075"
     }
   ]
 };

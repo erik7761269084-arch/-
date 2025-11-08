@@ -59,7 +59,7 @@ window.actressData = {
         "九野雛乃",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-581"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-581"
     },
     {
       "id": 17497,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "九野雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-550"
     },
     {
       "id": 18046,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "九野雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-519"
     },
     {
       "id": 90679,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "九野雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OAE-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OAE-245"
     },
     {
       "id": 18515,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "九野雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-491"
     },
     {
       "id": 107119,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "九野雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-462"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-462"
     },
     {
       "id": 92308,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "九野雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-408"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-408"
     },
     {
       "id": 92297,
@@ -172,7 +172,7 @@ window.actressData = {
         "九野雛乃",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-370"
     },
     {
       "id": 68593,
@@ -189,7 +189,7 @@ window.actressData = {
         "九野雛乃",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-244"
     },
     {
       "id": 85508,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "九野雛乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-225"
     }
   ]
 };

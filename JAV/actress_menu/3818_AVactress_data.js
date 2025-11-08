@@ -33,7 +33,7 @@ window.actressData = {
         "坂井千晴",
         "都築亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-071"
     },
     {
       "id": 107060,
@@ -50,7 +50,7 @@ window.actressData = {
         "坂井千晴",
         "都築亜美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMUA-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-067"
     },
     {
       "id": 68497,
@@ -67,7 +67,7 @@ window.actressData = {
         "蓝井优太",
         "坂井千晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMF-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-023"
     },
     {
       "id": 73250,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "坂井千晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-681"
     },
     {
       "id": 86162,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "坂井千晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-986"
     },
     {
       "id": 80985,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "坂井千晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-336"
     },
     {
       "id": 80375,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "坂井千晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-320"
     },
     {
       "id": 106909,
@@ -148,7 +148,7 @@ window.actressData = {
         "森林原人",
         "坂井千晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-312"
     },
     {
       "id": 79894,
@@ -164,7 +164,7 @@ window.actressData = {
       "actress": [
         "坂井千晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-305"
     }
   ]
 };

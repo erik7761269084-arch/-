@@ -35,7 +35,7 @@ window.actressData = {
         "桃宫もも",
         "桜咲ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-304"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-304"
     },
     {
       "id": 82866,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "桜咲ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-828"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-828"
     }
   ]
 };

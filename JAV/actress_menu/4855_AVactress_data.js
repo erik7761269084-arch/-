@@ -35,7 +35,7 @@ window.actressData = {
         "稻场流花",
         "七绪はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CRYNM-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRYNM-001"
     }
   ]
 };

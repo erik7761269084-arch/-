@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "优希まこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1666"
     },
     {
       "id": 81451,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "优希まこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1196"
     }
   ]
 };

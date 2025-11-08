@@ -35,7 +35,7 @@ window.actressData = {
         "雪见ほのか",
         "水内遥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOM-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOM-007"
     }
   ]
 };

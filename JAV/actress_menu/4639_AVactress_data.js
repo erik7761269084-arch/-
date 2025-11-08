@@ -35,7 +35,7 @@ window.actressData = {
         "藤本敏江",
         "上原千寻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCSR-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-366"
     },
     {
       "id": 106476,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "上原千寻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-013"
     }
   ]
 };

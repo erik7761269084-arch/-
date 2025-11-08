@@ -53,7 +53,7 @@ window.actressData = {
         "七瀨詩音",
         "南紫音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-229"
     },
     {
       "id": 8277,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "南紫音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-661"
     }
   ]
 };

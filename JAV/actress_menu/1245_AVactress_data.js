@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "花柳里葎子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-204"
     },
     {
       "id": 6763,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "花柳里葎子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-040"
     },
     {
       "id": 7327,
@@ -84,7 +84,7 @@ window.actressData = {
         "花柳里葎子",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-692"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-692"
     },
     {
       "id": 68556,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "花柳里葎子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IQQQ-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IQQQ-048"
     },
     {
       "id": 8812,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "花柳里葎子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-306"
     },
     {
       "id": 76763,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "花柳里葎子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-127"
     }
   ]
 };

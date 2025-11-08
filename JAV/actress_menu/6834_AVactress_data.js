@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "アリス・エルナンデス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUSR-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUSR-259"
     }
   ]
 };

@@ -49,7 +49,7 @@ window.actressData = {
         "日向みさき",
         "野春あゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-190"
     },
     {
       "id": 93204,
@@ -69,7 +69,7 @@ window.actressData = {
         "松冈香纯",
         "持田ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-179"
     },
     {
       "id": 88707,
@@ -95,7 +95,7 @@ window.actressData = {
         "雨宫いぶき",
         "高岛理恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRLE-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-053"
     },
     {
       "id": 88938,
@@ -119,7 +119,7 @@ window.actressData = {
         "叶月美音",
         "九条さやか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-522"
     },
     {
       "id": 83242,
@@ -138,7 +138,7 @@ window.actressData = {
         "逢澤理衣奈",
         "优木いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-287"
     },
     {
       "id": 107004,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "水澄光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-060"
     }
   ]
 };

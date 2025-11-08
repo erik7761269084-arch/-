@@ -33,7 +33,7 @@ window.actressData = {
         "橘日向",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-097"
     },
     {
       "id": 70017,
@@ -50,7 +50,7 @@ window.actressData = {
         "若宫はずき",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-084"
     },
     {
       "id": 71281,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENFA-36903"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENFA-36903"
     },
     {
       "id": 10408,
@@ -86,7 +86,7 @@ window.actressData = {
         "有星青理",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-126"
     },
     {
       "id": 17323,
@@ -103,7 +103,7 @@ window.actressData = {
         "有星青理",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDRD-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-012"
     },
     {
       "id": 90191,
@@ -120,7 +120,7 @@ window.actressData = {
         "望月綾香",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-554"
     },
     {
       "id": 88702,
@@ -146,7 +146,7 @@ window.actressData = {
         "市川つばさ",
         "佐々木えな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-732"
     },
     {
       "id": 87178,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAMEF-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAMEF-033"
     },
     {
       "id": 67752,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=COGM-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=COGM-041"
     },
     {
       "id": 81877,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKD-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKD-250"
     },
     {
       "id": 83802,
@@ -214,7 +214,7 @@ window.actressData = {
         "山口叶瑠",
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-065"
     },
     {
       "id": 83792,
@@ -234,7 +234,7 @@ window.actressData = {
         "山口叶瑠",
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-062"
     },
     {
       "id": 76596,
@@ -252,7 +252,7 @@ window.actressData = {
         "小森美久露",
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-372"
     },
     {
       "id": 71408,
@@ -272,7 +272,7 @@ window.actressData = {
         "宫名初季",
         "优木カリナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-421"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-421"
     },
     {
       "id": 73422,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "宫名初季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCG-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCG-005"
     },
     {
       "id": 94955,
@@ -307,7 +307,7 @@ window.actressData = {
         "奥菜えいみ",
         "石川ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-152"
     }
   ]
 };

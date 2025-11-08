@@ -36,7 +36,7 @@ window.actressData = {
         "饭田博美",
         "奥野あさみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PES-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-089"
     }
   ]
 };

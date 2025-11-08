@@ -73,7 +73,7 @@ window.actressData = {
         "設樂夕日",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-848"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-848"
     },
     {
       "id": 4141,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-015"
     },
     {
       "id": 5714,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-835"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-835"
     },
     {
       "id": 6444,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-191"
     },
     {
       "id": 6630,
@@ -139,7 +139,7 @@ window.actressData = {
         "ニック",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-095"
     },
     {
       "id": 7889,
@@ -156,7 +156,7 @@ window.actressData = {
         "設樂夕日",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-801"
     },
     {
       "id": 8677,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-807"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-807"
     },
     {
       "id": 9426,
@@ -191,7 +191,7 @@ window.actressData = {
         "すぱいく",
         "はるま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-764"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-764"
     },
     {
       "id": 16959,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-606"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-606"
     },
     {
       "id": 17476,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-590"
     },
     {
       "id": 18023,
@@ -239,7 +239,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-584"
     },
     {
       "id": 18482,
@@ -255,7 +255,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-570"
     },
     {
       "id": 18725,
@@ -272,7 +272,7 @@ window.actressData = {
         "設樂夕日",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-559"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-559"
     },
     {
       "id": 66885,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "設樂夕日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-507"
     }
   ]
 };

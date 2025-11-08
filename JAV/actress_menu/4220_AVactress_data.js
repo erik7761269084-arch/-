@@ -35,7 +35,7 @@ window.actressData = {
         "逢泽真里亚",
         "桃瀬ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GETS-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-117"
     },
     {
       "id": 77136,
@@ -54,7 +54,7 @@ window.actressData = {
         "桃瀬ゆり",
         "苑田あゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-046"
     },
     {
       "id": 73415,
@@ -73,7 +73,7 @@ window.actressData = {
         "桃瀬ゆり",
         "星野はるあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-440"
     }
   ]
 };

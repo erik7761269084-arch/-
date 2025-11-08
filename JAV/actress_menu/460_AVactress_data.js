@@ -47,7 +47,7 @@ window.actressData = {
         "鈴河めぐみ",
         "江澄ゆゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-014"
     },
     {
       "id": 69693,
@@ -68,7 +68,7 @@ window.actressData = {
         "乙羽あむ",
         "朝比ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-634"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-634"
     },
     {
       "id": 72786,
@@ -88,7 +88,7 @@ window.actressData = {
         "鳥楽ひな",
         "甘井くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-314"
     },
     {
       "id": 73204,
@@ -106,7 +106,7 @@ window.actressData = {
         "朝比ゆの",
         "皐月ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-313"
     },
     {
       "id": 77860,
@@ -126,7 +126,7 @@ window.actressData = {
         "朝比ゆの",
         "麻仓ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DHLD-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-009"
     },
     {
       "id": 10508,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "朝比ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-877"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-877"
     },
     {
       "id": 95211,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "朝比ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-572"
     },
     {
       "id": 93622,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "朝比ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKB-164"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-164"
     },
     {
       "id": 12906,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "朝比ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPL-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPL-044"
     },
     {
       "id": 93234,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "朝比ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSPK-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSPK-009"
     },
     {
       "id": 13460,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "朝比ゆの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOR-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-019"
     }
   ]
 };

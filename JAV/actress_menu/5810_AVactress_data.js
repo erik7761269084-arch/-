@@ -34,7 +34,7 @@ window.actressData = {
         "安斎芳香",
         "野原もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDSS-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-096"
     }
   ]
 };

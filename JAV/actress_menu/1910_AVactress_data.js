@@ -56,7 +56,7 @@ window.actressData = {
         "美里麻衣",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-487"
     }
   ]
 };

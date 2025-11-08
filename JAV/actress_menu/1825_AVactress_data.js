@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "河音くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKO-382"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-382"
     },
     {
       "id": 83112,
@@ -75,7 +75,7 @@ window.actressData = {
         "相沢夏帆",
         "七海ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-588"
     },
     {
       "id": 78285,
@@ -98,7 +98,7 @@ window.actressData = {
         "七海ゆあ",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-071"
     },
     {
       "id": 74975,
@@ -117,7 +117,7 @@ window.actressData = {
         "北川りこ",
         "后藤里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-654"
     },
     {
       "id": 71168,
@@ -137,7 +137,7 @@ window.actressData = {
         "后藤里香",
         "滝本エレナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-574"
     },
     {
       "id": 77335,
@@ -156,7 +156,7 @@ window.actressData = {
         "花咲ひらり",
         "相泽ゆりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-211"
     },
     {
       "id": 71200,
@@ -177,7 +177,7 @@ window.actressData = {
         "ちなみん",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-475"
     },
     {
       "id": 71154,
@@ -202,7 +202,7 @@ window.actressData = {
         "今井まい",
         "优月りな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-112"
     },
     {
       "id": 70730,
@@ -219,7 +219,7 @@ window.actressData = {
         "河音くるみ",
         "铃屋いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FAA-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAA-151"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "宝生めい",
         "浅仓真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-449"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-449"
     },
     {
       "id": 73027,
@@ -56,7 +56,7 @@ window.actressData = {
         "浅仓真凛",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-036"
     },
     {
       "id": 82060,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "浅仓真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STKO-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STKO-006"
     },
     {
       "id": 74403,
@@ -90,7 +90,7 @@ window.actressData = {
         "爱里るい",
         "浅仓真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-521"
     }
   ]
 };

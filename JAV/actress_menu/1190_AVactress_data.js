@@ -51,7 +51,7 @@ window.actressData = {
         "日森一",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-691"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-691"
     }
   ]
 };

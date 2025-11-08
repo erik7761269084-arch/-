@@ -40,7 +40,7 @@ window.actressData = {
         "安倍亜沙美",
         "菅野真穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-396"
     },
     {
       "id": 75222,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "菅野真穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-308"
     },
     {
       "id": 83180,
@@ -73,7 +73,7 @@ window.actressData = {
         "葵百合香",
         "菅野真穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-041"
     },
     {
       "id": 74792,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "菅野真穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-895"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-895"
     },
     {
       "id": 78236,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "菅野真穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-852"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-852"
     },
     {
       "id": 78129,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "菅野真穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-728"
     },
     {
       "id": 69381,
@@ -145,7 +145,7 @@ window.actressData = {
         "叶月奈穂",
         "青木りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-151"
     }
   ]
 };

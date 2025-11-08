@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "赤川しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-067"
     },
     {
       "id": 64079,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "赤川しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-146"
     },
     {
       "id": 69586,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "赤川しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-237"
     }
   ]
 };

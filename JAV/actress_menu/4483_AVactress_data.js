@@ -33,7 +33,7 @@ window.actressData = {
         "玉木玲",
         "高畑ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-999"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-999"
     }
   ]
 };

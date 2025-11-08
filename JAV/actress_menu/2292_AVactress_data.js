@@ -79,7 +79,7 @@ window.actressData = {
         "橋本怜奈",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGA-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-134"
     },
     {
       "id": 73582,
@@ -104,7 +104,7 @@ window.actressData = {
         "冲田奈々",
         "玉城マイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
     }
   ]
 };

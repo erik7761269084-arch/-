@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "凑堇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAM-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-238"
     },
     {
       "id": 10438,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "凑堇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JYMA-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-069"
     }
   ]
 };

@@ -64,7 +64,7 @@ window.actressData = {
         "松下美雪",
         "矢部寿恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PHO-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PHO-004"
     }
   ]
 };

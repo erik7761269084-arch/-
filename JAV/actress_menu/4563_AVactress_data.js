@@ -35,7 +35,7 @@ window.actressData = {
         "穂ひまり",
         "若宫梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSLG-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSLG-003"
     },
     {
       "id": 82842,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "日向咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=USAG-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-007"
     },
     {
       "id": 75594,
@@ -72,7 +72,7 @@ window.actressData = {
         "月宫ねね",
         "日向咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-706"
     }
   ]
 };

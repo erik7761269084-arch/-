@@ -34,7 +34,7 @@ window.actressData = {
         "莲美柚香",
         "栄川まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBZ-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-327"
     },
     {
       "id": 88884,
@@ -57,7 +57,7 @@ window.actressData = {
         "星空のあ",
         "はぴまる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TYD-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-004"
     }
   ]
 };

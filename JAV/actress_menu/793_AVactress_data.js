@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "降矢明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-961"
     },
     {
       "id": 76091,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "降矢明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-930"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-930"
     },
     {
       "id": 10871,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "降矢明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-909"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-909"
     },
     {
       "id": 11428,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "降矢明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-908"
     }
   ]
 };

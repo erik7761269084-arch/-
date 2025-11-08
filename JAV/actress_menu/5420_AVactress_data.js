@@ -40,7 +40,7 @@ window.actressData = {
         "HIKARU",
         "まひろ芽唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PES-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PES-087"
     }
   ]
 };

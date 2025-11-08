@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "神代いつか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-023"
     },
     {
       "id": 14217,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "神代いつか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMF-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-050"
     }
   ]
 };

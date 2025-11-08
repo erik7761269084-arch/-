@@ -50,7 +50,7 @@ window.actressData = {
         "冬爱琴音",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LVSC-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-009"
     },
     {
       "id": 8361,
@@ -69,7 +69,7 @@ window.actressData = {
         "若宮葉月",
         "足立るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-145"
     },
     {
       "id": 9015,
@@ -127,7 +127,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     }
   ]
 };

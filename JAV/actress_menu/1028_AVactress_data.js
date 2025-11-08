@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "成実ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-436"
     },
     {
       "id": 6854,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "成実ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMTB-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMTB-001"
     },
     {
       "id": 7109,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "成実ひまり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAS-522"
     }
   ]
 };

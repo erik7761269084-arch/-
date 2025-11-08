@@ -33,7 +33,7 @@ window.actressData = {
         "原田千晶",
         "朝仓凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FFFS-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-015"
     },
     {
       "id": 75194,
@@ -50,7 +50,7 @@ window.actressData = {
         "今井夏帆",
         "朝仓凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-152"
     },
     {
       "id": 72205,
@@ -67,7 +67,7 @@ window.actressData = {
         "イセドン内村",
         "朝仓凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-142"
     },
     {
       "id": 74482,
@@ -84,7 +84,7 @@ window.actressData = {
         "鲛岛",
         "朝仓凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-140"
     }
   ]
 };

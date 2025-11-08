@@ -39,7 +39,7 @@ window.actressData = {
       "actress": [
         "沙織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-075"
     }
   ]
 };

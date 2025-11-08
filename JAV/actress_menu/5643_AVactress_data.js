@@ -34,7 +34,7 @@ window.actressData = {
         "亜矢みつき",
         "宮間さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-542"
     }
   ]
 };

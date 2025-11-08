@@ -35,7 +35,7 @@ window.actressData = {
         "岬梓沙",
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-865"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-865"
     },
     {
       "id": 88842,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TENN-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-013"
     },
     {
       "id": 90660,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-562"
     },
     {
       "id": 89461,
@@ -84,7 +84,7 @@ window.actressData = {
         "沙月惠奈",
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVVRT-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-026"
     },
     {
       "id": 90125,
@@ -101,7 +101,7 @@ window.actressData = {
         "橋本りこ",
         "ふぁっち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-828"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-828"
     },
     {
       "id": 87122,
@@ -120,7 +120,7 @@ window.actressData = {
         "円井萌華",
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-796"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-796"
     },
     {
       "id": 92180,
@@ -137,7 +137,7 @@ window.actressData = {
         "日森一",
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-879"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-879"
     },
     {
       "id": 78541,
@@ -155,7 +155,7 @@ window.actressData = {
         "矢泽美々",
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-079"
     },
     {
       "id": 107257,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-243"
     },
     {
       "id": 68259,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-239"
     }
   ]
 };

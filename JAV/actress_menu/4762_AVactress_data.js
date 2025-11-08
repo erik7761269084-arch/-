@@ -33,7 +33,7 @@ window.actressData = {
         "玉木玲",
         "松村みをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-450"
     }
   ]
 };

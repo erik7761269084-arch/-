@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小倉みきね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-150"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-150"
     },
     {
       "id": 62490,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "小倉みきね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-247"
     },
     {
       "id": 59806,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "小倉みきね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-233"
     }
   ]
 };

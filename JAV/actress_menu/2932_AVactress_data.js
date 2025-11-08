@@ -75,7 +75,7 @@ window.actressData = {
         "春埼芽衣",
         "冲田里绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-003"
     },
     {
       "id": 88151,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "春埼芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHR-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-051"
     },
     {
       "id": 70565,
@@ -109,7 +109,7 @@ window.actressData = {
         "森林原人",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-920"
     },
     {
       "id": 78167,
@@ -127,7 +127,7 @@ window.actressData = {
         "鲛岛",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHR-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-027"
     }
   ]
 };

@@ -48,7 +48,7 @@ window.actressData = {
         "北山憂",
         "野原なこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-634"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-634"
     },
     {
       "id": 63303,
@@ -65,7 +65,7 @@ window.actressData = {
         "葵井みずほ",
         "野原なこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-629"
     },
     {
       "id": 14240,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "野原なこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-543"
     }
   ]
 };

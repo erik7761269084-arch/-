@@ -33,7 +33,7 @@ window.actressData = {
         "メロディー・雏・マークス",
         "一二三ゆぅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FEM-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-013"
     },
     {
       "id": 69925,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "一二三ゆぅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOC-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOC-004"
     },
     {
       "id": 73150,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "一二三ゆぅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOC-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOC-002"
     },
     {
       "id": 94833,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "一二三ゆぅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SXMA-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-009"
     },
     {
       "id": 93670,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "一二三ゆぅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-026"
     },
     {
       "id": 93711,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "一二三ゆぅり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-168"
     }
   ]
 };

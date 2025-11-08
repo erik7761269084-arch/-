@@ -67,7 +67,7 @@ window.actressData = {
         "白咲柚子",
         "梦咲ひなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUPA-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-446"
     }
   ]
 };

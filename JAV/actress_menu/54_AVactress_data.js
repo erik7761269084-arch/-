@@ -71,7 +71,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-655"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-655"
     },
     {
       "id": 4099,
@@ -88,7 +88,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IDBD-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IDBD-957"
     },
     {
       "id": 7750,
@@ -105,7 +105,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-508"
     },
     {
       "id": 8209,
@@ -123,7 +123,7 @@ window.actressData = {
         "新有菜",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-039"
     },
     {
       "id": 8449,
@@ -140,7 +140,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-484"
     },
     {
       "id": 9280,
@@ -157,7 +157,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-456"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-456"
     },
     {
       "id": 10784,
@@ -174,7 +174,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-415"
     },
     {
       "id": 16376,
@@ -191,7 +191,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-240"
     },
     {
       "id": 17358,
@@ -208,7 +208,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-172"
     },
     {
       "id": 17932,
@@ -225,7 +225,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-170"
     },
     {
       "id": 15532,
@@ -242,7 +242,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-638"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-638"
     },
     {
       "id": 18062,
@@ -259,7 +259,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-867"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-867"
     },
     {
       "id": 18094,
@@ -276,7 +276,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-850"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-850"
     },
     {
       "id": 18114,
@@ -294,7 +294,7 @@ window.actressData = {
         "イセドン内村",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-831"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-831"
     },
     {
       "id": 18474,
@@ -311,7 +311,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-742"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-742"
     },
     {
       "id": 18528,
@@ -328,7 +328,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-724"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-724"
     },
     {
       "id": 18559,
@@ -345,7 +345,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-706"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-706"
     },
     {
       "id": 18669,
@@ -362,7 +362,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-658"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-658"
     },
     {
       "id": 18891,
@@ -379,7 +379,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-534"
     },
     {
       "id": 19589,
@@ -395,7 +395,7 @@ window.actressData = {
       "actress": [
         "楓花戀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-451"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-451"
     },
     {
       "id": 19028,
@@ -413,7 +413,7 @@ window.actressData = {
         "田渊正浩",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-427"
     },
     {
       "id": 19034,
@@ -432,7 +432,7 @@ window.actressData = {
         "枫可怜",
         "市川润"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-414"
     },
     {
       "id": 19549,
@@ -449,7 +449,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-398"
     },
     {
       "id": 19084,
@@ -467,7 +467,7 @@ window.actressData = {
         "森林原人",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-365"
     },
     {
       "id": 19112,
@@ -484,7 +484,7 @@ window.actressData = {
         "楓花戀",
         "枫可怜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-334"
     },
     {
       "id": 19139,
@@ -503,7 +503,7 @@ window.actressData = {
         "枫可怜",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-320"
     }
   ]
 };

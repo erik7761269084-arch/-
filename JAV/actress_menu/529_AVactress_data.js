@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "三浜唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-972"
     },
     {
       "id": 10615,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "三浜唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-934"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-934"
     },
     {
       "id": 17005,
@@ -85,7 +85,7 @@ window.actressData = {
         "三浜唯",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-556"
     },
     {
       "id": 17486,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "三浜唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-508"
     }
   ]
 };

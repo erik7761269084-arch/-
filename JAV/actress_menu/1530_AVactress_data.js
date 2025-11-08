@@ -34,7 +34,7 @@ window.actressData = {
       "actress": [
         "日高千晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1854"
     },
     {
       "id": 1153,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "日高千晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1816"
     }
   ]
 };

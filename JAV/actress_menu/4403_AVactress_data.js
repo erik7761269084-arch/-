@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "本多かおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-782"
     },
     {
       "id": 86910,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "本多かおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-168"
     },
     {
       "id": 73788,
@@ -65,7 +65,7 @@ window.actressData = {
         "森林原人",
         "本多かおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-145"
     }
   ]
 };

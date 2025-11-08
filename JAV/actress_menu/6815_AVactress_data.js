@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小橋由希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-390"
     },
     {
       "id": 107516,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "小橋由希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-380"
     }
   ]
 };

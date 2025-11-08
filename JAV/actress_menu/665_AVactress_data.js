@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "雨宮あや花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKS-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-180"
     },
     {
       "id": 61119,
@@ -81,7 +81,7 @@ window.actressData = {
         "白石環奈",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-644"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-644"
     },
     {
       "id": 6384,
@@ -108,7 +108,7 @@ window.actressData = {
         "佐藤里釆",
         "五味紗瑛子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-315"
     },
     {
       "id": 9349,
@@ -126,7 +126,7 @@ window.actressData = {
         "一之瀨戀",
         "水瀬りた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-793"
     }
   ]
 };

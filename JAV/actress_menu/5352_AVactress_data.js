@@ -37,7 +37,7 @@ window.actressData = {
         "有季奈绪",
         "清宫すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-485"
     },
     {
       "id": 86826,
@@ -55,7 +55,7 @@ window.actressData = {
         "イセドン内村",
         "清宫すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-108"
     },
     {
       "id": 86861,
@@ -72,7 +72,7 @@ window.actressData = {
         "南佳也",
         "清宫すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-094"
     }
   ]
 };

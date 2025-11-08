@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "香乃萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-065"
     },
     {
       "id": 88324,
@@ -51,7 +51,7 @@ window.actressData = {
         "及川大智",
         "香乃萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-281"
     },
     {
       "id": 88296,
@@ -70,7 +70,7 @@ window.actressData = {
         "香乃萌音",
         "松井さあや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-280"
     }
   ]
 };

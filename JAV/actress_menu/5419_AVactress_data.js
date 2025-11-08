@@ -33,7 +33,7 @@ window.actressData = {
         "架乃由羅",
         "桐谷美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-797"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-797"
     }
   ]
 };

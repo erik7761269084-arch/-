@@ -50,7 +50,7 @@ window.actressData = {
         "八束みこと",
         "星野ひびき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-591"
     },
     {
       "id": 98302,
@@ -68,7 +68,7 @@ window.actressData = {
         "羽月希",
         "星野ひびき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-123"
     }
   ]
 };

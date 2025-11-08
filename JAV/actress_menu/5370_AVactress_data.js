@@ -36,7 +36,7 @@ window.actressData = {
         "秋吉小百合",
         "富岡じゅん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-427"
     }
   ]
 };

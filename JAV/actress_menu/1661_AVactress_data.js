@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "千早麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOOR-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-022"
     },
     {
       "id": 16215,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "千早麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-072"
     },
     {
       "id": 16751,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "千早麻里亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-065"
     }
   ]
 };

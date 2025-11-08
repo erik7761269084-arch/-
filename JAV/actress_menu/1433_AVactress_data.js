@@ -54,7 +54,7 @@ window.actressData = {
         "加賀美シュナ",
         "加贺美シュナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-171"
     },
     {
       "id": 19619,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "桃谷繪里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-159"
     },
     {
       "id": 86684,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "桃谷繪里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-119"
     },
     {
       "id": 102724,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "桃谷繪里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-1690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1690"
     }
   ]
 };

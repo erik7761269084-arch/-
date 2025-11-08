@@ -56,7 +56,7 @@ window.actressData = {
         "鹰宫ゆい",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TUS-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUS-083"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "香澄莉绪",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-115"
     },
     {
       "id": 67174,
@@ -56,7 +56,7 @@ window.actressData = {
         "香澄莉绪",
         "绫瀬さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-116"
     },
     {
       "id": 75765,
@@ -75,7 +75,7 @@ window.actressData = {
         "南凉",
         "松永雪子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-057"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "音无かおり",
         "北谷静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-062"
     },
     {
       "id": 89929,
@@ -55,7 +55,7 @@ window.actressData = {
         "早瀬和香",
         "仲间丽奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-185"
     },
     {
       "id": 88935,
@@ -80,7 +80,7 @@ window.actressData = {
         "成宫みこと",
         "音无かおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-510"
     },
     {
       "id": 106802,
@@ -99,7 +99,7 @@ window.actressData = {
         "イセドン内村",
         "音无かおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URE-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-017"
     }
   ]
 };

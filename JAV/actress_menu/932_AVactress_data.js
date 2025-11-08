@@ -58,7 +58,7 @@ window.actressData = {
         "小倉和葉",
         "白穂乃愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     },
     {
       "id": 9087,
@@ -75,7 +75,7 @@ window.actressData = {
         "川口乃乃華",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-567"
     },
     {
       "id": 9953,
@@ -91,7 +91,7 @@ window.actressData = {
       "actress": [
         "川口乃乃華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-556"
     }
   ]
 };

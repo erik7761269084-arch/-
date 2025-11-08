@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-095"
     },
     {
       "id": 3128,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-446"
     },
     {
       "id": 3366,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-726"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-726"
     },
     {
       "id": 3699,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-159"
     },
     {
       "id": 5012,
@@ -136,12 +136,12 @@ window.actressData = {
       "type": "有码",
       "company": "AROUND",
       "publish_date": "2025-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001944281281_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001944281281_s.webp",
       "actress": [
         "丸石稀有",
         "広瀬美結"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARSO-25195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25195"
     },
     {
       "id": 5643,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-438"
     },
     {
       "id": 6468,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-435"
     },
     {
       "id": 7161,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-432"
     },
     {
       "id": 12193,
@@ -206,7 +206,7 @@ window.actressData = {
         "丸石稀有",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-352"
     },
     {
       "id": 13564,
@@ -223,7 +223,7 @@ window.actressData = {
         "丸石稀有",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-260"
     },
     {
       "id": 14166,
@@ -239,7 +239,7 @@ window.actressData = {
       "actress": [
         "丸石稀有"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-225"
     }
   ]
 };

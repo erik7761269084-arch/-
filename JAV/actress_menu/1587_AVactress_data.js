@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "麻生希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1525"
     },
     {
       "id": 97794,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "麻生希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXBD-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-190"
     },
     {
       "id": 106322,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "麻生希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-524"
     },
     {
       "id": 107559,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "麻生希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-517"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-517"
     },
     {
       "id": 101003,
@@ -111,7 +111,7 @@ window.actressData = {
         "麻生希",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-500"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-500"
     }
   ]
 };

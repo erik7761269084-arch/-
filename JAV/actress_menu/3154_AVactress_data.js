@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "朱里レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSM-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSM-080"
     }
   ]
 };

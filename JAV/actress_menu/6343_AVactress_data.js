@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "春川月姫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PS007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS007"
     }
   ]
 };

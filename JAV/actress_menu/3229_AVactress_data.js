@@ -41,7 +41,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSODN-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSODN-001"
     },
     {
       "id": 3610,
@@ -58,7 +58,7 @@ window.actressData = {
         "泉百華",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-293"
     },
     {
       "id": 61925,
@@ -75,7 +75,7 @@ window.actressData = {
         "青木りょう",
         "竹内梨恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OBD-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OBD-084"
     },
     {
       "id": 4413,
@@ -93,7 +93,7 @@ window.actressData = {
         "平井シンジ",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUAN-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-025"
     },
     {
       "id": 4787,
@@ -113,7 +113,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-802"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-802"
     },
     {
       "id": 5167,
@@ -131,7 +131,7 @@ window.actressData = {
         "黑川纱里奈",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-248"
     },
     {
       "id": 5166,
@@ -148,7 +148,7 @@ window.actressData = {
         "小野坂唯香",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-252"
     },
     {
       "id": 6449,
@@ -165,7 +165,7 @@ window.actressData = {
         "日向夏",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-818"
     },
     {
       "id": 6609,
@@ -189,7 +189,7 @@ window.actressData = {
         "ラビットけんと",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-098"
     }
   ]
 };

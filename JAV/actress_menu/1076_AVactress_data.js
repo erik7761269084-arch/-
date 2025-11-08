@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "木村愛心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-828"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-828"
     },
     {
       "id": 5194,
@@ -63,11 +63,11 @@ window.actressData = {
       "type": "有码",
       "company": "S1",
       "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063528842842_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063528842842_s.webp",
       "actress": [
         "木村愛心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-787"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-787"
     },
     {
       "id": 5935,
@@ -79,11 +79,11 @@ window.actressData = {
       "type": "有码",
       "company": "S1",
       "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075226546546_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075226546546_s.webp",
       "actress": [
         "木村愛心"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-783"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-783"
     }
   ]
 };

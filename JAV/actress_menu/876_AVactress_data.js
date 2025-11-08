@@ -65,7 +65,7 @@ window.actressData = {
         "河合阳菜",
         "七世いおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-124"
     },
     {
       "id": 9663,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "結城雫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-612"
     },
     {
       "id": 76834,
@@ -101,7 +101,7 @@ window.actressData = {
         "朝野りる",
         "伊織さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-731"
     }
   ]
 };

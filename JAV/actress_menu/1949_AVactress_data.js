@@ -65,7 +65,7 @@ window.actressData = {
         "舞咲美娜",
         "明日香ルイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSR-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSR-014"
     }
   ]
 };

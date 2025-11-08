@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "宫藤尚美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-209"
     }
   ]
 };

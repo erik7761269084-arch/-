@@ -51,7 +51,7 @@ window.actressData = {
         "藤野つかさ",
         "水谷梨明日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-631"
     },
     {
       "id": 15997,
@@ -68,7 +68,7 @@ window.actressData = {
         "水谷梨明日",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-124"
     },
     {
       "id": 17182,
@@ -94,7 +94,7 @@ window.actressData = {
         "黒木逢夢",
         "有坂唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-712"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-712"
     },
     {
       "id": 89605,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "水谷梨明日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SBMO-1258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-1258"
     },
     {
       "id": 87851,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "水谷梨明日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-635"
     },
     {
       "id": 92333,
@@ -144,7 +144,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-234"
     }
   ]
 };

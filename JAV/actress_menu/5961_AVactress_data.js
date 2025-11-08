@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "玉名みら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-120"
     }
   ]
 };

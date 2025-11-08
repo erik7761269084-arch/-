@@ -47,7 +47,7 @@ window.actressData = {
         "ラヴズ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-120"
     },
     {
       "id": 7573,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "青山七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-083"
     },
     {
       "id": 8305,
@@ -80,7 +80,7 @@ window.actressData = {
         "青山七海",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-044"
     },
     {
       "id": 9948,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "青山七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-973"
     }
   ]
 };

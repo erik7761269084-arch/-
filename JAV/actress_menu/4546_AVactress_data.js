@@ -34,7 +34,7 @@ window.actressData = {
         "黒宫えいみ",
         "吉良薫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RIX-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RIX-075"
     },
     {
       "id": 75512,
@@ -53,7 +53,7 @@ window.actressData = {
         "前田いろは",
         "吉良薫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-428"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-428"
     },
     {
       "id": 83498,
@@ -73,7 +73,7 @@ window.actressData = {
         "前田いろは",
         "吉良薫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-607"
     },
     {
       "id": 83510,
@@ -90,7 +90,7 @@ window.actressData = {
         "玉木玲",
         "吉良薫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-727"
     }
   ]
 };

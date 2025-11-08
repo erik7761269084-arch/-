@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "彩月希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-948"
     },
     {
       "id": 74046,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "彩月希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-521"
     },
     {
       "id": 74217,
@@ -86,7 +86,7 @@ window.actressData = {
         "イセドン内村",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-907"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-907"
     },
     {
       "id": 19104,
@@ -104,7 +104,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-346"
     }
   ]
 };

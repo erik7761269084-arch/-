@@ -72,7 +72,7 @@ window.actressData = {
         "清宮仁愛",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-243"
     },
     {
       "id": 3491,
@@ -156,7 +156,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 4361,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "清宮仁愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-230"
     },
     {
       "id": 5339,
@@ -188,7 +188,7 @@ window.actressData = {
       "actress": [
         "清宮仁愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-226"
     },
     {
       "id": 5289,
@@ -219,7 +219,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 6918,
@@ -236,7 +236,7 @@ window.actressData = {
         "清宮仁愛",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-205"
     },
     {
       "id": 7175,
@@ -253,7 +253,7 @@ window.actressData = {
         "清宮仁愛",
         "百田光稀"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-190"
     },
     {
       "id": 7572,
@@ -271,7 +271,7 @@ window.actressData = {
         "伊崎悠人",
         "エニフ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-200"
     },
     {
       "id": 8218,
@@ -287,7 +287,7 @@ window.actressData = {
       "actress": [
         "清宮仁愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-192"
     },
     {
       "id": 9068,
@@ -306,7 +306,7 @@ window.actressData = {
         "小田切ジュン",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-183"
     },
     {
       "id": 9015,
@@ -364,7 +364,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 9990,
@@ -382,7 +382,7 @@ window.actressData = {
         "七尾神",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-165"
     }
   ]
 };

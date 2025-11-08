@@ -62,7 +62,7 @@ window.actressData = {
         "安達夕莉",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-316"
     },
     {
       "id": 13816,
@@ -79,7 +79,7 @@ window.actressData = {
         "安達夕莉",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-233"
     },
     {
       "id": 14483,
@@ -96,7 +96,7 @@ window.actressData = {
         "安達夕莉",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-206"
     },
     {
       "id": 16688,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-033"
     },
     {
       "id": 17130,
@@ -129,7 +129,7 @@ window.actressData = {
         "安達夕莉",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-990"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-990"
     },
     {
       "id": 17670,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-957"
     },
     {
       "id": 18244,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-918"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-918"
     },
     {
       "id": 18602,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-880"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-880"
     },
     {
       "id": 107251,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-845"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-845"
     },
     {
       "id": 107562,
@@ -210,7 +210,7 @@ window.actressData = {
         "安達夕莉",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-808"
     },
     {
       "id": 87711,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-728"
     },
     {
       "id": 96988,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-566"
     },
     {
       "id": 106998,
@@ -259,7 +259,7 @@ window.actressData = {
         "安達夕莉",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-538"
     },
     {
       "id": 68693,
@@ -276,7 +276,7 @@ window.actressData = {
         "安達夕莉",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-507"
     },
     {
       "id": 87183,
@@ -292,7 +292,7 @@ window.actressData = {
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-476"
     }
   ]
 };

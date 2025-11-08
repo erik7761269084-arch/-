@@ -51,7 +51,7 @@ window.actressData = {
         "加賀美さら",
         "沙つむぐ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-344"
     }
   ]
 };

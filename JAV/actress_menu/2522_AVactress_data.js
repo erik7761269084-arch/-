@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "荒木瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-060"
     }
   ]
 };

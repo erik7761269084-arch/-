@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "篠崎ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAIS-053"
     },
     {
       "id": 89002,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "篠崎ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-229"
     },
     {
       "id": 89066,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "篠崎ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-603"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-603"
     },
     {
       "id": 89107,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "篠崎ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-018"
     },
     {
       "id": 89089,
@@ -103,7 +103,7 @@ window.actressData = {
         "篠崎ゆう",
         "川原まな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-017"
     },
     {
       "id": 73120,
@@ -120,7 +120,7 @@ window.actressData = {
         "森林原人",
         "篠崎ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-424"
     }
   ]
 };

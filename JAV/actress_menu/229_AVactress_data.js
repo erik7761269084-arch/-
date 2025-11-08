@@ -71,7 +71,7 @@ window.actressData = {
         "愛寶鈴",
         "武藤彩香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-155"
     },
     {
       "id": 12895,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "愛寶鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-834"
     },
     {
       "id": 16232,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "愛寶鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-193"
     },
     {
       "id": 16957,
@@ -121,7 +121,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-335"
     },
     {
       "id": 17092,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "愛寶鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-410"
     },
     {
       "id": 17455,
@@ -155,7 +155,7 @@ window.actressData = {
         "天川空",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-596"
     },
     {
       "id": 18025,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "愛寶鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-592"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-592"
     },
     {
       "id": 18479,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "愛寶鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-588"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "东条有希",
         "西村春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-618"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-618"
     },
     {
       "id": 75537,
@@ -56,7 +56,7 @@ window.actressData = {
         "岬澪",
         "西村春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PARM-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PARM-158"
     }
   ]
 };

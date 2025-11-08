@@ -34,7 +34,7 @@ window.actressData = {
         "もなみ铃",
         "アリス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-643"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-643"
     },
     {
       "id": 68637,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "アリス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-792"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-792"
     },
     {
       "id": 90081,
@@ -68,7 +68,7 @@ window.actressData = {
         "望月綾香",
         "アリス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-485"
     },
     {
       "id": 79907,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "アリス"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4697"
     }
   ]
 };

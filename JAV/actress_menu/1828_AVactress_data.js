@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "君色花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=tigr-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=tigr-007"
     },
     {
       "id": 19208,
@@ -69,7 +69,7 @@ window.actressData = {
         "君色花音",
         "凉美ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-243"
     }
   ]
 };

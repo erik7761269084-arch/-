@@ -52,7 +52,7 @@ window.actressData = {
         "櫻萌子",
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-575"
     },
     {
       "id": 107124,
@@ -69,7 +69,7 @@ window.actressData = {
         "河南実里",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-487"
     },
     {
       "id": 68517,
@@ -87,7 +87,7 @@ window.actressData = {
         "河南実里",
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-062"
     },
     {
       "id": 83987,
@@ -104,7 +104,7 @@ window.actressData = {
         "河南実里",
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-534"
     },
     {
       "id": 84771,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-220"
     },
     {
       "id": 84086,
@@ -137,7 +137,7 @@ window.actressData = {
         "河南実里",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-575"
     },
     {
       "id": 80982,
@@ -154,7 +154,7 @@ window.actressData = {
         "乙愛麗絲",
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-501"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-501"
     },
     {
       "id": 80606,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-340"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-340"
     },
     {
       "id": 84435,
@@ -186,7 +186,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-315"
     },
     {
       "id": 79978,
@@ -203,7 +203,7 @@ window.actressData = {
         "河南実里",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-299"
     },
     {
       "id": 79431,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-284"
     },
     {
       "id": 79691,
@@ -235,7 +235,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-269"
     },
     {
       "id": 105717,
@@ -253,7 +253,7 @@ window.actressData = {
         "河南実里",
         "蓝川美夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-257"
     },
     {
       "id": 77641,
@@ -269,7 +269,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-508"
     },
     {
       "id": 82207,
@@ -286,7 +286,7 @@ window.actressData = {
         "河南実里",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-967"
     },
     {
       "id": 81878,
@@ -302,7 +302,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-102"
     },
     {
       "id": 83408,
@@ -318,7 +318,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-429"
     },
     {
       "id": 107526,
@@ -335,7 +335,7 @@ window.actressData = {
         "向井藍",
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-141"
     },
     {
       "id": 75875,
@@ -354,7 +354,7 @@ window.actressData = {
         "叶月桃",
         "管野静香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-264"
     },
     {
       "id": 104217,
@@ -372,7 +372,7 @@ window.actressData = {
         "河南実里",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-067"
     },
     {
       "id": 86905,
@@ -388,7 +388,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-375"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-375"
     },
     {
       "id": 107675,
@@ -405,7 +405,7 @@ window.actressData = {
         "河南実里",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-942"
     },
     {
       "id": 73590,
@@ -421,7 +421,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-220"
     },
     {
       "id": 74645,
@@ -451,7 +451,7 @@ window.actressData = {
         "関根奈美",
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-046"
     },
     {
       "id": 73914,
@@ -467,7 +467,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-862"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-862"
     },
     {
       "id": 70818,
@@ -483,7 +483,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-844"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-844"
     },
     {
       "id": 82640,
@@ -499,7 +499,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-593"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-593"
     },
     {
       "id": 82330,
@@ -515,7 +515,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-435"
     },
     {
       "id": 72906,
@@ -531,7 +531,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-468"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-468"
     },
     {
       "id": 70942,
@@ -548,7 +548,7 @@ window.actressData = {
         "風間由美",
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-225"
     },
     {
       "id": 73392,
@@ -564,7 +564,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-735"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-735"
     },
     {
       "id": 71096,
@@ -580,7 +580,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-496"
     },
     {
       "id": 71676,
@@ -596,7 +596,7 @@ window.actressData = {
       "actress": [
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-123"
     },
     {
       "id": 77759,
@@ -613,7 +613,7 @@ window.actressData = {
         "河南実里",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-173"
     }
   ]
 };

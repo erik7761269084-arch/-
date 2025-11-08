@@ -33,7 +33,7 @@ window.actressData = {
         "菜月光",
         "芹沢ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-081"
     },
     {
       "id": 63095,
@@ -50,7 +50,7 @@ window.actressData = {
         "纱々原ゆり",
         "芹沢ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-057"
     }
   ]
 };

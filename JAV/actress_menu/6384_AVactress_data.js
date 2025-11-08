@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "小鳥遊もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-252"
     },
     {
       "id": 106519,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "小鳥遊もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-247"
     }
   ]
 };

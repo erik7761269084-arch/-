@@ -35,7 +35,7 @@ window.actressData = {
         "管野静香",
         "桃瀬るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-834"
     },
     {
       "id": 71813,
@@ -52,7 +52,7 @@ window.actressData = {
         "江波りゅう（RYU)",
         "咲雪华奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOKD-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-159"
     },
     {
       "id": 74631,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "江波りゅう（RYU)"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2097"
     },
     {
       "id": 78139,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "江波りゅう（RYU)"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-530"
     },
     {
       "id": 73856,
@@ -101,7 +101,7 @@ window.actressData = {
         "江波りゅう（RYU)",
         "川口ともか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKSK-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-005"
     },
     {
       "id": 59833,
@@ -119,7 +119,7 @@ window.actressData = {
         "水城奈緒",
         "江波りゅう（RYU)"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTMS-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTMS-100"
     }
   ]
 };

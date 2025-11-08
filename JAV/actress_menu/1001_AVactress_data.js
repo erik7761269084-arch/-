@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "生田優梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-993"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-993"
     },
     {
       "id": 63771,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "生田優梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NAMH-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-035"
     },
     {
       "id": 5129,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "生田優梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-975"
     },
     {
       "id": 7277,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "生田優梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-306"
     },
     {
       "id": 7971,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "生田優梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-301"
     }
   ]
 };

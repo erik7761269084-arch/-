@@ -35,7 +35,7 @@ window.actressData = {
         "梨々花",
         "绀野さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-237"
     },
     {
       "id": 72142,
@@ -53,7 +53,7 @@ window.actressData = {
         "柏木まい",
         "绀野さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-146"
     },
     {
       "id": 82393,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "绀野さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-564"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-564"
     }
   ]
 };

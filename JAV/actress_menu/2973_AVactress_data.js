@@ -33,7 +33,7 @@ window.actressData = {
         "藤木紗英",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-243"
     },
     {
       "id": 17721,
@@ -50,7 +50,7 @@ window.actressData = {
         "藤木紗英",
         "莲美柚香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-064"
     }
   ]
 };

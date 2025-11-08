@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "佐藤愛瑠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-584"
     },
     {
       "id": 9232,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "佐藤愛瑠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-535"
     },
     {
       "id": 10152,
@@ -84,7 +84,7 @@ window.actressData = {
         "佐藤愛瑠",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-489"
     },
     {
       "id": 10746,
@@ -101,7 +101,7 @@ window.actressData = {
         "佐藤愛瑠",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-447"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-447"
     },
     {
       "id": 12829,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "佐藤愛瑠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-302"
     },
     {
       "id": 13570,
@@ -135,7 +135,7 @@ window.actressData = {
         "タツ",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-259"
     }
   ]
 };

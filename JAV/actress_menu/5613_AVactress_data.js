@@ -35,7 +35,7 @@ window.actressData = {
         "早瀬和香",
         "仲间丽奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-185"
     }
   ]
 };

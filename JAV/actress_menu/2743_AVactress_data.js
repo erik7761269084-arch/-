@@ -51,7 +51,7 @@ window.actressData = {
         "しゃびー",
         "中泽チュリン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TIMD-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIMD-020"
     },
     {
       "id": 60533,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "ちびとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADHN-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADHN-008"
     },
     {
       "id": 89169,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "ちびとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SXMA-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-005"
     },
     {
       "id": 87676,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "ちびとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TPNS-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-005"
     },
     {
       "id": 87081,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "ちびとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-144"
     },
     {
       "id": 87426,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "ちびとり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-024"
     }
   ]
 };

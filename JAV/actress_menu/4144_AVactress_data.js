@@ -36,7 +36,7 @@ window.actressData = {
         "小川响子",
         "早宫さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STM-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-023"
     }
   ]
 };

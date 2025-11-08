@@ -33,7 +33,7 @@ window.actressData = {
         "森林原人",
         "柳朋子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUC-916"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-916"
     }
   ]
 };

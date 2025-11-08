@@ -41,7 +41,7 @@ window.actressData = {
         "新村晶",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-935"
     },
     {
       "id": 2616,
@@ -58,7 +58,7 @@ window.actressData = {
         "白上咲花",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-860"
     },
     {
       "id": 3154,
@@ -75,7 +75,7 @@ window.actressData = {
         "姫咲華",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-196"
     },
     {
       "id": 60256,
@@ -92,7 +92,7 @@ window.actressData = {
         "コグレハルト",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-059"
     },
     {
       "id": 3568,
@@ -109,7 +109,7 @@ window.actressData = {
         "黒咲華",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MANX-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-018"
     },
     {
       "id": 62079,
@@ -127,7 +127,7 @@ window.actressData = {
         "コグレハルト",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-058"
     },
     {
       "id": 4133,
@@ -145,7 +145,7 @@ window.actressData = {
         "月野香澄",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-010"
     },
     {
       "id": 4119,
@@ -162,7 +162,7 @@ window.actressData = {
         "松本菜奈実",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-009"
     },
     {
       "id": 4256,
@@ -179,7 +179,7 @@ window.actressData = {
         "仁藤沙耶香",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-417"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-417"
     },
     {
       "id": 63227,
@@ -196,7 +196,7 @@ window.actressData = {
         "コグレハルト",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVRT-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-057"
     },
     {
       "id": 4985,
@@ -208,12 +208,12 @@ window.actressData = {
       "type": "有码",
       "company": "MOODYZ",
       "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626030426683683_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626030426683683_s.webp",
       "actress": [
         "八木奈々",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-220"
     },
     {
       "id": 62761,
@@ -230,7 +230,7 @@ window.actressData = {
         "コグレハルト",
         "柚木れんか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-701"
     },
     {
       "id": 5913,
@@ -247,7 +247,7 @@ window.actressData = {
         "河北彩花",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-725"
     },
     {
       "id": 6194,
@@ -265,7 +265,7 @@ window.actressData = {
         "コグレハルト",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-910"
     },
     {
       "id": 6331,
@@ -282,7 +282,7 @@ window.actressData = {
         "明日葉三葉",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-668"
     },
     {
       "id": 67471,
@@ -299,7 +299,7 @@ window.actressData = {
         "藤森日南",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-169"
     },
     {
       "id": 7532,
@@ -316,7 +316,7 @@ window.actressData = {
         "水卜櫻",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-086"
     },
     {
       "id": 7495,
@@ -333,7 +333,7 @@ window.actressData = {
         "小坂ひまり",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-732"
     },
     {
       "id": 7889,
@@ -350,7 +350,7 @@ window.actressData = {
         "設樂夕日",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-801"
     },
     {
       "id": 8111,
@@ -369,7 +369,7 @@ window.actressData = {
         "大志",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-601"
     },
     {
       "id": 8903,
@@ -387,7 +387,7 @@ window.actressData = {
         "コグレハルト",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-972"
     }
   ]
 };

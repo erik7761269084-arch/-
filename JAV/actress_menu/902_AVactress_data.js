@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "美波愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S64"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S64"
     },
     {
       "id": 410,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "美波愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0484"
     },
     {
       "id": 2064,
@@ -83,7 +83,7 @@ window.actressData = {
         "滝川ソフィア",
         "北田千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-91"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-91"
     },
     {
       "id": 1947,
@@ -101,7 +101,7 @@ window.actressData = {
         "HIKARI",
         "浅之美波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-09"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-09"
     },
     {
       "id": 1978,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "美波愛梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-03"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-03"
     }
   ]
 };

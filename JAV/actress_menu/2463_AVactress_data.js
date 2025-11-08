@@ -58,7 +58,7 @@ window.actressData = {
         "浅田结梨",
         "初爱ねんね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-235"
     },
     {
       "id": 84118,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "朝日滴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-103"
     },
     {
       "id": 72433,
@@ -94,7 +94,7 @@ window.actressData = {
         "凉南佳奈",
         "美波沙耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TYD-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-003"
     }
   ]
 };

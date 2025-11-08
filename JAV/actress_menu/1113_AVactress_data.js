@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "笹本ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTAV-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-007"
     },
     {
       "id": 10519,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "笹本ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTAV-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-006"
     }
   ]
 };

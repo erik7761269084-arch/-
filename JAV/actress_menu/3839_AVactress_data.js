@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "安達ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-155"
     },
     {
       "id": 68588,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "安達ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDS-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-125"
     },
     {
       "id": 84132,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "安達ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-434"
     },
     {
       "id": 87299,
@@ -81,7 +81,7 @@ window.actressData = {
         "イセドン内村",
         "安達ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-423"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-423"
     },
     {
       "id": 87308,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "安達ゆら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-412"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-412"
     }
   ]
 };

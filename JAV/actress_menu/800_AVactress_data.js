@@ -67,7 +67,7 @@ window.actressData = {
         "日向真凛",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-538"
     },
     {
       "id": 90045,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-510"
     },
     {
       "id": 107660,
@@ -100,7 +100,7 @@ window.actressData = {
         "西野絵美",
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-497"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-497"
     },
     {
       "id": 69246,
@@ -117,7 +117,7 @@ window.actressData = {
         "日向真凛",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-447"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-447"
     },
     {
       "id": 106996,
@@ -135,7 +135,7 @@ window.actressData = {
         "イセドン内村",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-442"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-442"
     },
     {
       "id": 67931,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-514"
     },
     {
       "id": 68192,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-482"
     },
     {
       "id": 69153,
@@ -183,7 +183,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-453"
     },
     {
       "id": 86304,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-424"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-424"
     },
     {
       "id": 86301,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-396"
     },
     {
       "id": 86312,
@@ -232,7 +232,7 @@ window.actressData = {
         "日向真凛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-370"
     },
     {
       "id": 80492,
@@ -248,7 +248,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-343"
     },
     {
       "id": 80450,
@@ -265,7 +265,7 @@ window.actressData = {
         "日向真凛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-261"
     },
     {
       "id": 79205,
@@ -281,7 +281,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-108"
     },
     {
       "id": 78626,
@@ -298,7 +298,7 @@ window.actressData = {
         "日向真凛",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-055"
     },
     {
       "id": 88178,
@@ -314,7 +314,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFJE-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-260"
     },
     {
       "id": 97829,
@@ -331,7 +331,7 @@ window.actressData = {
         "夏希栗",
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-787"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-787"
     },
     {
       "id": 81864,
@@ -347,7 +347,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OAE-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OAE-200"
     },
     {
       "id": 97503,
@@ -363,7 +363,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-738"
     },
     {
       "id": 83787,
@@ -379,7 +379,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-683"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-683"
     },
     {
       "id": 7613,
@@ -398,7 +398,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-599"
     },
     {
       "id": 9129,
@@ -415,7 +415,7 @@ window.actressData = {
         "日向真凛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-553"
     },
     {
       "id": 9514,
@@ -433,7 +433,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-528"
     },
     {
       "id": 79036,
@@ -449,7 +449,7 @@ window.actressData = {
       "actress": [
         "日向真凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-171"
     }
   ]
 };

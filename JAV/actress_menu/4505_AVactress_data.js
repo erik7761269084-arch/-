@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "春日部一美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-146"
     },
     {
       "id": 75227,
@@ -51,7 +51,7 @@ window.actressData = {
         "千堂マリア",
         "花山美纪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3336"
     },
     {
       "id": 75083,
@@ -69,7 +69,7 @@ window.actressData = {
         "鹫尾明美",
         "春日部一美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3335"
     }
   ]
 };

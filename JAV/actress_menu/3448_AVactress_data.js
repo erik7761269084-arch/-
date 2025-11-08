@@ -36,7 +36,7 @@ window.actressData = {
         "瀬戸すみれ",
         "内海みう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-748"
     },
     {
       "id": 81603,
@@ -57,7 +57,7 @@ window.actressData = {
         "タツ",
         "唯乃光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-750"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-750"
     },
     {
       "id": 81813,
@@ -74,7 +74,7 @@ window.actressData = {
         "凛音とうか",
         "唯乃光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-014"
     },
     {
       "id": 75537,
@@ -95,7 +95,7 @@ window.actressData = {
         "岬澪",
         "西村春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PARM-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PARM-158"
     },
     {
       "id": 75841,
@@ -116,7 +116,7 @@ window.actressData = {
         "内海みう",
         "七瀬もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-843"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-843"
     },
     {
       "id": 75513,
@@ -136,7 +136,7 @@ window.actressData = {
         "唯乃光",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-423"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-423"
     },
     {
       "id": 75832,
@@ -157,7 +157,7 @@ window.actressData = {
         "绫瀬さくら",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-820"
     },
     {
       "id": 62821,
@@ -179,7 +179,7 @@ window.actressData = {
         "凉川えいみ",
         "伊月优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-477"
     },
     {
       "id": 72092,
@@ -196,7 +196,7 @@ window.actressData = {
         "唯乃光",
         "今井夏帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-575"
     }
   ]
 };

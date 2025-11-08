@@ -34,7 +34,7 @@ window.actressData = {
         "七瀬もな",
         "咲乃にいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-065"
     },
     {
       "id": 70767,
@@ -51,7 +51,7 @@ window.actressData = {
         "小田切ジュン",
         "秋元千早"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-048"
     }
   ]
 };

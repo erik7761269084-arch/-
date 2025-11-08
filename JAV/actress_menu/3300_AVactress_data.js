@@ -38,7 +38,7 @@ window.actressData = {
         "天野花乃",
         "広井そら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SODS-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-065"
     }
   ]
 };

@@ -43,7 +43,7 @@ window.actressData = {
         "山井すず",
         "茜はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-683"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-683"
     },
     {
       "id": 86967,
@@ -60,7 +60,7 @@ window.actressData = {
         "岩下たろう",
         "茜はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-012"
     },
     {
       "id": 74082,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "茜はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-389"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-389"
     },
     {
       "id": 71628,
@@ -93,7 +93,7 @@ window.actressData = {
         "しみけん",
         "茜はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSET-825"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-825"
     },
     {
       "id": 70299,
@@ -111,7 +111,7 @@ window.actressData = {
         "茜はるか",
         "八寻麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-011"
     },
     {
       "id": 76828,
@@ -130,7 +130,7 @@ window.actressData = {
         "茜はるか",
         "手岛知世"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-105"
     }
   ]
 };

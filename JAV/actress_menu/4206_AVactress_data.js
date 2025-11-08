@@ -37,7 +37,7 @@ window.actressData = {
         "岬澪",
         "西村春香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PARM-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PARM-158"
     },
     {
       "id": 75842,
@@ -58,7 +58,7 @@ window.actressData = {
         "岬澪",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-822"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-822"
     },
     {
       "id": 71856,
@@ -79,7 +79,7 @@ window.actressData = {
         "星咲伶美",
         "岬澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATOM-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-352"
     },
     {
       "id": 87944,
@@ -97,7 +97,7 @@ window.actressData = {
         "岬澪",
         "姫乃ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-114"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "原田千花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-065"
     },
     {
       "id": 64109,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "原田千花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-144"
     },
     {
       "id": 68548,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "原田千花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-236"
     }
   ]
 };

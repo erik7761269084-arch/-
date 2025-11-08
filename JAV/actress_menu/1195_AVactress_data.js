@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-125"
     },
     {
       "id": 1791,
@@ -66,7 +66,7 @@ window.actressData = {
         "中野亚梨沙",
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-113"
     },
     {
       "id": 1807,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-105"
     },
     {
       "id": 82868,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIGD-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-502"
     },
     {
       "id": 1694,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "上原保奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-660"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-660"
     }
   ]
 };

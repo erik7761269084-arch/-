@@ -33,7 +33,7 @@ window.actressData = {
         "みっちー",
         "本宮みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-194"
     },
     {
       "id": 89714,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "本宮みやび"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-188"
     }
   ]
 };

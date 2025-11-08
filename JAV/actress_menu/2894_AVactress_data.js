@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "Ayami"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-047"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "鈴音まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-351"
     },
     {
       "id": 9003,
@@ -71,7 +71,7 @@ window.actressData = {
         "愛葉陽葵",
         "朝陽伊都"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
     },
     {
       "id": 9829,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "鈴音まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1361"
     },
     {
       "id": 10584,
@@ -104,7 +104,7 @@ window.actressData = {
         "鈴音まゆ",
         "輝大"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-636"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-636"
     }
   ]
 };

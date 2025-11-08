@@ -37,7 +37,7 @@ window.actressData = {
         "东条苍",
         "成宫ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-432"
     },
     {
       "id": 82950,
@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "成宫ほのか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1249"
     }
   ]
 };

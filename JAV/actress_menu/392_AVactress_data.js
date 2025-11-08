@@ -68,7 +68,7 @@ window.actressData = {
         "西村ニーナ",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-462"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-462"
     },
     {
       "id": 69776,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-805"
     },
     {
       "id": 8833,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JYMA-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-074"
     },
     {
       "id": 74182,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBTU-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-096"
     },
     {
       "id": 9652,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-613"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-613"
     },
     {
       "id": 9879,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAM-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-233"
     },
     {
       "id": 95305,
@@ -164,7 +164,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-670"
     },
     {
       "id": 93535,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-551"
     },
     {
       "id": 93779,
@@ -197,7 +197,7 @@ window.actressData = {
         "西村ニーナ",
         "新田雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-082"
     },
     {
       "id": 93348,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-817"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-817"
     },
     {
       "id": 94901,
@@ -229,7 +229,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SY-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-208"
     },
     {
       "id": 91883,
@@ -245,7 +245,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-629"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-629"
     },
     {
       "id": 89031,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-624"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-624"
     },
     {
       "id": 90738,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-071"
     },
     {
       "id": 88707,
@@ -303,7 +303,7 @@ window.actressData = {
         "雨宫いぶき",
         "高岛理恵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRLE-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-053"
     },
     {
       "id": 91346,
@@ -329,7 +329,7 @@ window.actressData = {
         "安倍亜沙美",
         "篠田优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-135"
     },
     {
       "id": 107326,
@@ -346,7 +346,7 @@ window.actressData = {
         "西村ニーナ",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-096"
     },
     {
       "id": 91347,
@@ -372,7 +372,7 @@ window.actressData = {
         "椎叶みくる",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-131"
     },
     {
       "id": 68758,
@@ -388,7 +388,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-197"
     },
     {
       "id": 85176,
@@ -404,7 +404,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-134"
     },
     {
       "id": 68764,
@@ -421,7 +421,7 @@ window.actressData = {
         "西村ニーナ",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-103"
     },
     {
       "id": 85167,
@@ -437,7 +437,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-074"
     },
     {
       "id": 85083,
@@ -453,7 +453,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-041"
     },
     {
       "id": 85093,
@@ -469,7 +469,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-972"
     },
     {
       "id": 80451,
@@ -485,7 +485,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-903"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-903"
     },
     {
       "id": 79905,
@@ -501,7 +501,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAM-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-094"
     },
     {
       "id": 81801,
@@ -517,7 +517,7 @@ window.actressData = {
       "actress": [
         "西村ニーナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGMQ-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGMQ-047"
     },
     {
       "id": 83496,
@@ -536,7 +536,7 @@ window.actressData = {
         "原花音",
         "柚奈れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-209"
     },
     {
       "id": 81807,
@@ -555,7 +555,7 @@ window.actressData = {
         "香苗レノン",
         "新村晶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGMP-049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGMP-049"
     },
     {
       "id": 81820,
@@ -575,7 +575,7 @@ window.actressData = {
         "成宫いろは",
         "可爱まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-284"
     },
     {
       "id": 74006,
@@ -593,7 +593,7 @@ window.actressData = {
         "羽生ありさ",
         "三岛奈津子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-631"
     },
     {
       "id": 69453,
@@ -619,7 +619,7 @@ window.actressData = {
         "由爱可奈",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-674"
     }
   ]
 };

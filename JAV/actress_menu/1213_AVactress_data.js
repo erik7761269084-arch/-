@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "櫻羽和佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-723"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-723"
     },
     {
       "id": 75174,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "櫻羽和佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-666"
     },
     {
       "id": 70283,
@@ -86,7 +86,7 @@ window.actressData = {
         "南佳也",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-637"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-637"
     },
     {
       "id": 75037,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "櫻羽和佳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-612"
     },
     {
       "id": 9487,
@@ -120,7 +120,7 @@ window.actressData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-539"
     }
   ]
 };

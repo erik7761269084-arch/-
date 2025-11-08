@@ -67,7 +67,7 @@ window.actressData = {
         "篠田优",
         "优梨まいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-596"
     },
     {
       "id": 72242,
@@ -85,7 +85,7 @@ window.actressData = {
         "みさきさん",
         "渡辺杏奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-065"
     },
     {
       "id": 1332,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "月島花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2620"
     },
     {
       "id": 76805,
@@ -119,7 +119,7 @@ window.actressData = {
         "河合乃乃花",
         "ゆうひ菜那"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-607"
     },
     {
       "id": 77026,
@@ -138,7 +138,7 @@ window.actressData = {
         "椎叶みくる",
         "メイメイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-289"
     },
     {
       "id": 78037,
@@ -158,7 +158,7 @@ window.actressData = {
         "優月真裡奈",
         "桜乃ゆいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-467"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "南佳也",
         "鸣沢ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-551"
     }
   ]
 };

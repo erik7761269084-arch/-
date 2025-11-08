@@ -56,7 +56,7 @@ window.actressData = {
         "蓝井优太",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-685"
     }
   ]
 };

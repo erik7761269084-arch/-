@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-384"
     },
     {
       "id": 4431,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDHS-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDHS-063"
     },
     {
       "id": 6548,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-288"
     },
     {
       "id": 7449,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-266"
     },
     {
       "id": 8181,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-254"
     },
     {
       "id": 9635,
@@ -142,7 +142,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-212"
     },
     {
       "id": 10516,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-191"
     },
     {
       "id": 13055,
@@ -174,7 +174,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-112"
     },
     {
       "id": 13755,
@@ -190,7 +190,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-004"
     },
     {
       "id": 14388,
@@ -206,7 +206,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-037"
     },
     {
       "id": 15103,
@@ -222,7 +222,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-063"
     },
     {
       "id": 15675,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-042"
     },
     {
       "id": 17063,
@@ -254,7 +254,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-960"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-960"
     },
     {
       "id": 17564,
@@ -270,7 +270,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-953"
     },
     {
       "id": 18077,
@@ -286,7 +286,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-914"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-914"
     },
     {
       "id": 18552,
@@ -302,7 +302,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-833"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-833"
     },
     {
       "id": 18882,
@@ -318,7 +318,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-906"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-906"
     },
     {
       "id": 89315,
@@ -334,7 +334,7 @@ window.actressData = {
       "actress": [
         "戀渕桃菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-869"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-869"
     }
   ]
 };

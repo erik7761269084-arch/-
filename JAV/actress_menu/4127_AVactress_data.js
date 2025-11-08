@@ -37,7 +37,7 @@ window.actressData = {
         "白金れい奈",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-044"
     },
     {
       "id": 71814,
@@ -60,7 +60,7 @@ window.actressData = {
         "须藤ももか",
         "五月女千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-492"
     }
   ]
 };

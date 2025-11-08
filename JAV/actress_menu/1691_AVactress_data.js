@@ -51,7 +51,7 @@ window.actressData = {
         "かすみひかり",
         "沖田杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-612"
     }
   ]
 };

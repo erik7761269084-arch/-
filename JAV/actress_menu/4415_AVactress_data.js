@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "有马すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URHJ-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URHJ-004"
     },
     {
       "id": 74982,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "有马すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-126"
     }
   ]
 };

@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "川崎亜里沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-031"
     },
     {
       "id": 77042,
@@ -66,7 +66,7 @@ window.actressData = {
         "川崎亜里沙",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-599"
     }
   ]
 };

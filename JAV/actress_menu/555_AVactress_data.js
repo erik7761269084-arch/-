@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "潤うるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-041"
     },
     {
       "id": 3602,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "潤うるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-032"
     },
     {
       "id": 4499,
@@ -97,7 +97,7 @@ window.actressData = {
         "潤うるる",
         "トミフミ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-024"
     },
     {
       "id": 5314,
@@ -116,7 +116,7 @@ window.actressData = {
         "ナイアガラ翔",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-014"
     },
     {
       "id": 6006,
@@ -133,7 +133,7 @@ window.actressData = {
         "潤うるる",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-009"
     },
     {
       "id": 69921,
@@ -149,7 +149,7 @@ window.actressData = {
       "actress": [
         "潤うるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-440"
     },
     {
       "id": 7925,
@@ -166,7 +166,7 @@ window.actressData = {
         "潤うるる",
         "花乃春日"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-139"
     },
     {
       "id": 8408,
@@ -185,7 +185,7 @@ window.actressData = {
         "潤うるる",
         "じゅうもんじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-894"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-894"
     },
     {
       "id": 8523,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "潤うるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-703"
     },
     {
       "id": 74813,
@@ -218,7 +218,7 @@ window.actressData = {
         "若月もあ",
         "潤うるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-072"
     },
     {
       "id": 10812,
@@ -238,7 +238,7 @@ window.actressData = {
         "潤うるる",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-145"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "夏八木彩月",
         "稲葉果織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-003"
     }
   ]
 };

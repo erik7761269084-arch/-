@@ -33,7 +33,7 @@ window.actressData = {
         "蒲生司紗",
         "永井千歳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-192"
     },
     {
       "id": 13731,
@@ -51,7 +51,7 @@ window.actressData = {
         "進藤愛果",
         "遠藤未晴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-250"
     }
   ]
 };

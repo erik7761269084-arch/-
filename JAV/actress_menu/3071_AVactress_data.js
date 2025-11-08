@@ -42,7 +42,7 @@ window.actressData = {
         "麻仓忧",
         "仲间明日香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-265"
     },
     {
       "id": 83491,
@@ -63,7 +63,7 @@ window.actressData = {
         "蕾",
         "爱须心亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-200"
     },
     {
       "id": 76213,
@@ -86,7 +86,7 @@ window.actressData = {
         "山井すず",
         "夏目澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCH-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-047"
     },
     {
       "id": 69539,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "爱须心亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-887"
     },
     {
       "id": 73779,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "爱须心亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-879"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-879"
     },
     {
       "id": 73123,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "爱须心亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-870"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-870"
     },
     {
       "id": 59800,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "爱须心亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-089"
     }
   ]
 };

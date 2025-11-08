@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAHP-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAHP-026"
     },
     {
       "id": 83483,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-511"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-511"
     },
     {
       "id": 82869,
@@ -70,7 +70,7 @@ window.actressData = {
         "石原理央",
         "古贺まつな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPSD-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPSD-054"
     },
     {
       "id": 83192,
@@ -89,7 +89,7 @@ window.actressData = {
         "爱瀬るか",
         "黒石ジュリア"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-595"
     },
     {
       "id": 83132,
@@ -107,7 +107,7 @@ window.actressData = {
         "石原理央",
         "御坂莉亚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-596"
     },
     {
       "id": 83337,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-181"
     },
     {
       "id": 76248,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ETQR-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ETQR-117"
     },
     {
       "id": 75894,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-576"
     },
     {
       "id": 63211,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-799"
     },
     {
       "id": 82758,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-679"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-679"
     },
     {
       "id": 82882,
@@ -203,7 +203,7 @@ window.actressData = {
       "actress": [
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-771"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-771"
     },
     {
       "id": 73033,
@@ -221,7 +221,7 @@ window.actressData = {
         "鲛岛",
         "石原理央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-072"
     }
   ]
 };

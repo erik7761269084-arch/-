@@ -34,7 +34,7 @@ window.actressData = {
         "鲛岛",
         "黒田悠斗セツネヒデユキ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-309"
     }
   ]
 };

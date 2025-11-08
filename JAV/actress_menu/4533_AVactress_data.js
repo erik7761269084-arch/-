@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "水木舞香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-077"
     },
     {
       "id": 75396,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "水木舞香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-011"
     }
   ]
 };

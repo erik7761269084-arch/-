@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-135"
     },
     {
       "id": 3923,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-332"
     },
     {
       "id": 4344,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EUUD-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-070"
     },
     {
       "id": 62435,
@@ -100,7 +100,7 @@ window.actressData = {
         "若菜れいか",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-238"
     },
     {
       "id": 62772,
@@ -116,7 +116,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-199"
     },
     {
       "id": 5640,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-323"
     },
     {
       "id": 63851,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-197"
     },
     {
       "id": 6439,
@@ -165,7 +165,7 @@ window.actressData = {
         "若菜れいか",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-318"
     },
     {
       "id": 67212,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-228"
     },
     {
       "id": 6997,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-695"
     },
     {
       "id": 9298,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-226"
     }
   ]
 };

@@ -72,7 +72,7 @@ window.actressData = {
         "夏白麻矢",
         "山本蓮加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-161"
     },
     {
       "id": 8513,
@@ -93,7 +93,7 @@ window.actressData = {
         "千歳小梅",
         "山本莲加"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SILK-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-175"
     }
   ]
 };

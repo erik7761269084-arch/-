@@ -46,7 +46,7 @@ window.actressData = {
         "志田みずき",
         "蓮水鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-159"
     },
     {
       "id": 9117,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "志田みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GONE-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GONE-072"
     },
     {
       "id": 10816,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "志田みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-303"
     },
     {
       "id": 11075,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "志田みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-300"
     },
     {
       "id": 14192,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "志田みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-811"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-811"
     }
   ]
 };

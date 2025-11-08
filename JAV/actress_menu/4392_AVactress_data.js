@@ -34,7 +34,7 @@ window.actressData = {
         "琴音芽衣",
         "二井见玲香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNAB-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-017"
     },
     {
       "id": 83904,
@@ -51,7 +51,7 @@ window.actressData = {
         "鲛岛",
         "琴音芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WFR-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WFR-010"
     },
     {
       "id": 82843,
@@ -72,7 +72,7 @@ window.actressData = {
         "琴音芽衣",
         "森山なつか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-285"
     },
     {
       "id": 83244,
@@ -89,7 +89,7 @@ window.actressData = {
         "若宫穂乃",
         "琴音芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-041"
     },
     {
       "id": 75387,
@@ -106,7 +106,7 @@ window.actressData = {
         "一条绮美香",
         "琴音芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNMD-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMD-062"
     },
     {
       "id": 78442,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "琴音芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DFDM-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFDM-014"
     },
     {
       "id": 74882,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "琴音芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AYB-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AYB-020"
     },
     {
       "id": 74074,
@@ -156,7 +156,7 @@ window.actressData = {
         "宫村ななこ",
         "琴音芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HGOT-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-006"
     },
     {
       "id": 73610,
@@ -172,7 +172,7 @@ window.actressData = {
       "actress": [
         "琴音芽衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-552"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-552"
     }
   ]
 };

@@ -45,7 +45,7 @@ window.actressData = {
         "望実かなえ",
         "空野きら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SETM-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-029"
     },
     {
       "id": 14629,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "望実かなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-060"
     }
   ]
 };

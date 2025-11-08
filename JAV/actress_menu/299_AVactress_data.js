@@ -73,7 +73,7 @@ window.actressData = {
         "ラヴズ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-429"
     },
     {
       "id": 3741,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "三葉千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-425"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-425"
     },
     {
       "id": 4465,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "三葉千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-411"
     },
     {
       "id": 5370,
@@ -121,7 +121,7 @@ window.actressData = {
       "actress": [
         "三葉千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-405"
     },
     {
       "id": 7092,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "三葉千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-398"
     },
     {
       "id": 9573,
@@ -154,7 +154,7 @@ window.actressData = {
         "三葉千春",
         "マサムー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-948"
     },
     {
       "id": 16606,
@@ -170,7 +170,7 @@ window.actressData = {
       "actress": [
         "三葉千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-722"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-722"
     },
     {
       "id": 17001,
@@ -188,7 +188,7 @@ window.actressData = {
         "Qべぇ",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-708"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-708"
     },
     {
       "id": 18464,
@@ -204,7 +204,7 @@ window.actressData = {
       "actress": [
         "三葉千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-667"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-667"
     },
     {
       "id": 104508,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "三葉千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-596"
     },
     {
       "id": 107679,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "三葉千春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-570"
     },
     {
       "id": 66675,
@@ -253,7 +253,7 @@ window.actressData = {
         "三葉千春",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-528"
     }
   ]
 };

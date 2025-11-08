@@ -34,7 +34,7 @@ window.actressData = {
         "爱花みちる",
         "徳永れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-595"
     }
   ]
 };

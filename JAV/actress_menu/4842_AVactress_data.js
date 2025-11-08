@@ -42,7 +42,7 @@ window.actressData = {
       "actress": [
         "さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1024"
     },
     {
       "id": 78650,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "さな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4971"
     }
   ]
 };

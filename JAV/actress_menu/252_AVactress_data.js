@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDON-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-080"
     },
     {
       "id": 4745,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-364"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-364"
     },
     {
       "id": 5531,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-332"
     },
     {
       "id": 6309,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-309"
     },
     {
       "id": 7038,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-226"
     },
     {
       "id": 7701,
@@ -146,7 +146,7 @@ window.actressData = {
         "上羽絢",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-188"
     },
     {
       "id": 8486,
@@ -162,7 +162,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-140"
     },
     {
       "id": 9190,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-175"
     },
     {
       "id": 10801,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-924"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-924"
     },
     {
       "id": 14851,
@@ -212,7 +212,7 @@ window.actressData = {
         "左慈半造",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-640"
     },
     {
       "id": 16869,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-480"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-480"
     },
     {
       "id": 17332,
@@ -245,7 +245,7 @@ window.actressData = {
         "一乃葵",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-452"
     },
     {
       "id": 17896,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-411"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "浦川紗凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-051"
     },
     {
       "id": 9024,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "浦川紗凪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-145"
     }
   ]
 };

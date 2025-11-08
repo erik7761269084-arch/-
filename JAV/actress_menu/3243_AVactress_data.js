@@ -36,7 +36,7 @@ window.actressData = {
         "トイボーイ相沢",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNTRZ-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-021"
     },
     {
       "id": 66461,
@@ -53,7 +53,7 @@ window.actressData = {
         "ラビットけんと",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-352"
     },
     {
       "id": 5645,
@@ -73,7 +73,7 @@ window.actressData = {
         "赤城穂波",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-249"
     },
     {
       "id": 63793,
@@ -90,7 +90,7 @@ window.actressData = {
         "伊崎悠人",
         "柊かな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-656"
     },
     {
       "id": 6299,
@@ -109,7 +109,7 @@ window.actressData = {
         "タイ",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-642"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-642"
     },
     {
       "id": 6895,
@@ -127,7 +127,7 @@ window.actressData = {
         "稻场流花",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-212"
     },
     {
       "id": 7205,
@@ -145,7 +145,7 @@ window.actressData = {
         "大岛丈",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-175"
     },
     {
       "id": 7572,
@@ -163,7 +163,7 @@ window.actressData = {
         "伊崎悠人",
         "エニフ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-200"
     },
     {
       "id": 7752,
@@ -183,7 +183,7 @@ window.actressData = {
         "ナイアガラ翔",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-502"
     }
   ]
 };

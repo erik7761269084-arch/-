@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-086"
     },
     {
       "id": 18001,
@@ -78,7 +78,7 @@ window.actressData = {
         "櫻萌子",
         "河南実里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-575"
     },
     {
       "id": 89880,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-078"
     },
     {
       "id": 91688,
@@ -110,7 +110,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-489"
     },
     {
       "id": 89856,
@@ -126,7 +126,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-067"
     },
     {
       "id": 90092,
@@ -143,7 +143,7 @@ window.actressData = {
         "乙愛麗絲",
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-076"
     },
     {
       "id": 84133,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-440"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-440"
     },
     {
       "id": 84107,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-429"
     },
     {
       "id": 66708,
@@ -191,7 +191,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-416"
     },
     {
       "id": 68036,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-401"
     },
     {
       "id": 84163,
@@ -223,7 +223,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-387"
     },
     {
       "id": 84139,
@@ -239,7 +239,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-376"
     },
     {
       "id": 86876,
@@ -256,7 +256,7 @@ window.actressData = {
         "櫻萌子",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-366"
     },
     {
       "id": 84058,
@@ -272,7 +272,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-354"
     },
     {
       "id": 80966,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-342"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-342"
     },
     {
       "id": 80640,
@@ -304,7 +304,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-332"
     },
     {
       "id": 84068,
@@ -320,7 +320,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-322"
     },
     {
       "id": 17382,
@@ -336,7 +336,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-314"
     },
     {
       "id": 79726,
@@ -352,7 +352,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-286"
     },
     {
       "id": 79579,
@@ -368,7 +368,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-260"
     },
     {
       "id": 72247,
@@ -384,7 +384,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-178"
     },
     {
       "id": 86832,
@@ -400,7 +400,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-127"
     },
     {
       "id": 88292,
@@ -416,7 +416,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-115"
     },
     {
       "id": 106447,
@@ -432,7 +432,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-090"
     },
     {
       "id": 107290,
@@ -448,7 +448,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-080"
     },
     {
       "id": 86882,
@@ -465,7 +465,7 @@ window.actressData = {
         "櫻萌子",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-072"
     },
     {
       "id": 82273,
@@ -483,7 +483,7 @@ window.actressData = {
         "蓝井优太",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-064"
     },
     {
       "id": 82245,
@@ -499,7 +499,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-052"
     },
     {
       "id": 75861,
@@ -516,7 +516,7 @@ window.actressData = {
         "櫻萌子",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-043"
     },
     {
       "id": 82249,
@@ -533,7 +533,7 @@ window.actressData = {
         "櫻萌子",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-037"
     },
     {
       "id": 82278,
@@ -550,7 +550,7 @@ window.actressData = {
         "櫻萌子",
         "永濑唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-029"
     },
     {
       "id": 82252,
@@ -566,7 +566,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-019"
     },
     {
       "id": 75147,
@@ -584,7 +584,7 @@ window.actressData = {
         "小田切ジュン",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-002"
     },
     {
       "id": 82776,
@@ -603,7 +603,7 @@ window.actressData = {
         "イセドン内村",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-986"
     },
     {
       "id": 73348,
@@ -619,7 +619,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-941"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-941"
     },
     {
       "id": 73323,
@@ -635,7 +635,7 @@ window.actressData = {
       "actress": [
         "櫻萌子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-920"
     }
   ]
 };

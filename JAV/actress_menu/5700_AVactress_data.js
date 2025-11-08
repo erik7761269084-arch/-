@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "三月ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-319"
     },
     {
       "id": 91018,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "三月ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-315"
     }
   ]
 };

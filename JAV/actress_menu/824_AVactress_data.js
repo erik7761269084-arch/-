@@ -55,7 +55,7 @@ window.actressData = {
         "三河瑛茉",
         "野田朔弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-334"
     },
     {
       "id": 59922,
@@ -77,7 +77,7 @@ window.actressData = {
         "浪川ゆかり",
         "我妻淳子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMBM-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBM-043"
     },
     {
       "id": 61235,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "鈴河めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FWTR-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWTR-022"
     },
     {
       "id": 62310,
@@ -111,7 +111,7 @@ window.actressData = {
         "鈴河めぐみ",
         "江澄ゆゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-014"
     },
     {
       "id": 68301,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "鈴河めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEWM-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-105"
     },
     {
       "id": 9201,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "鈴河めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-302"
     },
     {
       "id": 10145,
@@ -160,7 +160,7 @@ window.actressData = {
         "鈴河めぐみ",
         "しょーと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-309"
     },
     {
       "id": 10791,
@@ -176,7 +176,7 @@ window.actressData = {
       "actress": [
         "鈴河めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-284"
     },
     {
       "id": 12769,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "鈴河めぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-252"
     },
     {
       "id": 59888,
@@ -210,7 +210,7 @@ window.actressData = {
         "平冈里枝子",
         "堀口小百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3429"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3429"
     }
   ]
 };

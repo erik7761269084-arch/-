@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "音梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-1066192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-1066192"
     },
     {
       "id": 97502,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "音梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-841"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-841"
     },
     {
       "id": 106118,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "音梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-831"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-831"
     },
     {
       "id": 12702,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "音梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-363"
     }
   ]
 };

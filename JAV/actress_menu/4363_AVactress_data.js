@@ -47,7 +47,7 @@ window.actressData = {
         "松雪かなえ",
         "爱葵いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DCX-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DCX-079"
     },
     {
       "id": 73273,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "星井笑"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-837"
     }
   ]
 };

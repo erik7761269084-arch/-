@@ -37,7 +37,7 @@ window.actressData = {
         "有季奈绪",
         "清宫すず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-485"
     },
     {
       "id": 88935,
@@ -62,7 +62,7 @@ window.actressData = {
         "成宫みこと",
         "音无かおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-510"
     },
     {
       "id": 81790,
@@ -85,7 +85,7 @@ window.actressData = {
         "咲乃小春",
         "有季奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-178"
     },
     {
       "id": 78035,
@@ -103,7 +103,7 @@ window.actressData = {
         "しみけん",
         "有季奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-626"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-626"
     },
     {
       "id": 88411,
@@ -121,7 +121,7 @@ window.actressData = {
         "玉木玲",
         "有季奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-593"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-593"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "朝比奈かれん",
         "珠未みさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-108"
     }
   ]
 };

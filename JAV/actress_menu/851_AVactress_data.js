@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "一心惠里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-618"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-618"
     },
     {
       "id": 17024,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "一心惠里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-590"
     },
     {
       "id": 17485,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "一心惠里香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-542"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-542"
     }
   ]
 };

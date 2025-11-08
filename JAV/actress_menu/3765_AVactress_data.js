@@ -34,7 +34,7 @@ window.actressData = {
         "鲛岛",
         "ハメ撮り"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-177"
     },
     {
       "id": 67852,
@@ -52,7 +52,7 @@ window.actressData = {
         "田渊正浩",
         "ハメ撮り"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-181"
     }
   ]
 };

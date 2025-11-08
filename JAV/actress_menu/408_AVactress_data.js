@@ -41,7 +41,7 @@ window.actressData = {
         "雪代一鳳",
         "菊池春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-147"
     },
     {
       "id": 5141,
@@ -58,7 +58,7 @@ window.actressData = {
         "菊池春",
         "田所百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-147"
     },
     {
       "id": 64013,
@@ -80,7 +80,7 @@ window.actressData = {
         "冬爱琴音",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LVSC-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-009"
     },
     {
       "id": 6543,
@@ -100,7 +100,7 @@ window.actressData = {
         "那津乃千奈美",
         "笠木いちか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-751"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-751"
     },
     {
       "id": 71069,
@@ -118,7 +118,7 @@ window.actressData = {
         "若宫はずき",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-654"
     },
     {
       "id": 10423,
@@ -137,7 +137,7 @@ window.actressData = {
         "五十嵐美月",
         "藍瀬ミナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-262"
     },
     {
       "id": 10622,
@@ -165,7 +165,7 @@ window.actressData = {
         "二叶エマ",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-244"
     },
     {
       "id": 12936,
@@ -181,7 +181,7 @@ window.actressData = {
       "actress": [
         "菊池春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-555"
     },
     {
       "id": 93186,
@@ -200,7 +200,7 @@ window.actressData = {
         "じゅうもんじ",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-094"
     },
     {
       "id": 14009,
@@ -216,7 +216,7 @@ window.actressData = {
       "actress": [
         "菊池春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-507"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-507"
     },
     {
       "id": 14707,
@@ -233,7 +233,7 @@ window.actressData = {
         "有栖舞衣",
         "菊池春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-118"
     },
     {
       "id": 92131,
@@ -250,7 +250,7 @@ window.actressData = {
         "菊池春",
         "のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFCS-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCS-105"
     },
     {
       "id": 106301,
@@ -266,7 +266,7 @@ window.actressData = {
       "actress": [
         "菊池春"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-571"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-571"
     }
   ]
 };

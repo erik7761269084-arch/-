@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "辰巳ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1575"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1575"
     },
     {
       "id": 82479,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "辰巳ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1563"
     },
     {
       "id": 82530,
@@ -79,7 +79,7 @@ window.actressData = {
         "森林原人",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1513"
     },
     {
       "id": 1636,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "辰巳ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1343"
     },
     {
       "id": 106580,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "辰巳ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1277"
     },
     {
       "id": 99105,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "辰巳ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1246"
     },
     {
       "id": 1623,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "辰巳ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1211"
     },
     {
       "id": 82484,
@@ -159,7 +159,7 @@ window.actressData = {
       "actress": [
         "辰巳ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1157"
     },
     {
       "id": 91724,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "辰巳ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1116"
     }
   ]
 };

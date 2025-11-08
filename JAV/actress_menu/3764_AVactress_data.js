@@ -33,7 +33,7 @@ window.actressData = {
         "音羽蕾恩",
         "浅宫ゆうか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JOHS-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOHS-008"
     }
   ]
 };

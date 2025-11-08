@@ -40,7 +40,7 @@ window.actressData = {
         "竹内れい子",
         "三云ゆり子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-249"
     },
     {
       "id": 66733,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "竹内れい子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-035"
     },
     {
       "id": 84853,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "竹内れい子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ITSR-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ITSR-101"
     }
   ]
 };

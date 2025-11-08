@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "小森爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1420"
     }
   ]
 };

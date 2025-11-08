@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "岸田歩美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVZG-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVZG-023"
     }
   ]
 };

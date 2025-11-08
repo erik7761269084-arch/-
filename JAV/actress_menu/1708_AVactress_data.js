@@ -42,7 +42,7 @@ window.actressData = {
         "椎叶みくる",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-730"
     },
     {
       "id": 89981,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "新山ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTU-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTU-005"
     },
     {
       "id": 89060,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "新山ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-605"
     },
     {
       "id": 89661,
@@ -93,7 +93,7 @@ window.actressData = {
         "泉田栞",
         "もっともあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-073"
     },
     {
       "id": 87028,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "新山ちなつ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAIS-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAIS-043"
     },
     {
       "id": 91581,
@@ -126,7 +126,7 @@ window.actressData = {
         "新山ちなつ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-960"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-960"
     },
     {
       "id": 67161,
@@ -143,7 +143,7 @@ window.actressData = {
         "新山ちなつ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-957"
     },
     {
       "id": 91579,
@@ -160,7 +160,7 @@ window.actressData = {
         "新山ちなつ",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-956"
     }
   ]
 };

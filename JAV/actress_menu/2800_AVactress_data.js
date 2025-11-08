@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "神野葉月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STAR-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-311"
     }
   ]
 };

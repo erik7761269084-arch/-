@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "加藤沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-108"
     },
     {
       "id": 81951,
@@ -53,7 +53,7 @@ window.actressData = {
         "吉田枫",
         "铃木理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-223"
     },
     {
       "id": 94979,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "加藤沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-041"
     },
     {
       "id": 88249,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "加藤沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-011"
     },
     {
       "id": 70352,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "加藤沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-589"
     },
     {
       "id": 70815,
@@ -119,7 +119,7 @@ window.actressData = {
         "鲛岛",
         "加藤沙季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-196"
     }
   ]
 };

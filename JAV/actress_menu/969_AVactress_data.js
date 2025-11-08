@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "遥惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBD-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-156"
     },
     {
       "id": 2007,
@@ -69,7 +69,7 @@ window.actressData = {
         "菜菜瀬結衣",
         "京野七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-71"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-71"
     },
     {
       "id": 1830,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "遥惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-60"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-60"
     },
     {
       "id": 1794,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "遥惠美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-61"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-61"
     }
   ]
 };

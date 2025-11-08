@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-361"
     },
     {
       "id": 4819,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-346"
     },
     {
       "id": 6381,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-302"
     },
     {
       "id": 5607,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-320"
     },
     {
       "id": 7111,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-265"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-265"
     },
     {
       "id": 7789,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-284"
     },
     {
       "id": 8554,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-245"
     },
     {
       "id": 10213,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-208"
     },
     {
       "id": 10674,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-189"
     },
     {
       "id": 12709,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-120"
     },
     {
       "id": 13463,
@@ -221,7 +221,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-107"
     },
     {
       "id": 14052,
@@ -237,7 +237,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-088"
     },
     {
       "id": 15379,
@@ -253,7 +253,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-035"
     },
     {
       "id": 15676,
@@ -269,7 +269,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-022"
     },
     {
       "id": 16726,
@@ -285,7 +285,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-969"
     },
     {
       "id": 17291,
@@ -301,7 +301,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-955"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-955"
     },
     {
       "id": 17824,
@@ -317,7 +317,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-935"
     },
     {
       "id": 18712,
@@ -333,7 +333,7 @@ window.actressData = {
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-893"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-893"
     }
   ]
 };

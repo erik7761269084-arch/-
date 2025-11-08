@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "高杉美穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1409"
     }
   ]
 };

@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬アメリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-183"
     },
     {
       "id": 1940,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬アメリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S03"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S03"
     },
     {
       "id": 1998,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬アメリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-46"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-46"
     },
     {
       "id": 19601,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "一ノ瀬アメリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPTD-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-607"
     }
   ]
 };

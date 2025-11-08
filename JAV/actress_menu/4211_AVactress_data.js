@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "新井优香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-411"
     },
     {
       "id": 76363,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "新井优香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-231"
     },
     {
       "id": 71877,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "新井优香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-380"
     },
     {
       "id": 82883,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "新井优香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-163"
     },
     {
       "id": 77035,
@@ -97,7 +97,7 @@ window.actressData = {
         "田渊正浩",
         "新井优香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-126"
     },
     {
       "id": 76818,
@@ -114,7 +114,7 @@ window.actressData = {
         "鲛岛",
         "新井优香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-097"
     }
   ]
 };

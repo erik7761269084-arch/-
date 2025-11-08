@@ -38,7 +38,7 @@ window.actressData = {
         "柳川まこ",
         "NIMO"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-260"
     },
     {
       "id": 69867,
@@ -57,7 +57,7 @@ window.actressData = {
         "一二三铃",
         "柳川まこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUPA-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-401"
     },
     {
       "id": 71183,
@@ -76,7 +76,7 @@ window.actressData = {
         "柳川まこ",
         "鹰宫ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-498"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "浜辺まりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAS-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAS-526"
     }
   ]
 };

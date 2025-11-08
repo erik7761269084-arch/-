@@ -37,7 +37,7 @@ window.actressData = {
         "森山なつか",
         "志戸哲也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-280"
     }
   ]
 };

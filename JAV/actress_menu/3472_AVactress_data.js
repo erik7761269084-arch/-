@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "成田かなこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-385"
     },
     {
       "id": 63725,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "成田かなこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEWM-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-109"
     },
     {
       "id": 64058,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "成田かなこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-320"
     },
     {
       "id": 67947,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "成田かなこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YOCH-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YOCH-021"
     },
     {
       "id": 74262,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "成田かなこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAAD-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-077"
     }
   ]
 };

@@ -58,7 +58,7 @@ window.actressData = {
         "由衣陽菜",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-048"
     },
     {
       "id": 5876,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "由衣陽菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-033"
     },
     {
       "id": 6988,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "由衣陽菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-012"
     },
     {
       "id": 8555,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "由衣陽菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-981"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-981"
     },
     {
       "id": 7768,
@@ -123,7 +123,7 @@ window.actressData = {
         "由衣陽菜",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-002"
     },
     {
       "id": 9362,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "由衣陽菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-957"
     },
     {
       "id": 10252,
@@ -156,7 +156,7 @@ window.actressData = {
         "由衣陽菜",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-956"
     },
     {
       "id": 10945,
@@ -174,7 +174,7 @@ window.actressData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-952"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-952"
     }
   ]
 };

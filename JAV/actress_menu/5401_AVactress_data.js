@@ -34,7 +34,7 @@ window.actressData = {
         "水泽りの",
         "篠原奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ISD-141"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ISD-141"
     },
     {
       "id": 87506,
@@ -52,7 +52,7 @@ window.actressData = {
         "水泽りの",
         "篠原奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ISD-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ISD-142"
     }
   ]
 };

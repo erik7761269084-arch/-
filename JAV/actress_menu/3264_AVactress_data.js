@@ -40,7 +40,7 @@ window.actressData = {
         "原千岁",
         "上野菜穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-216"
     },
     {
       "id": 68414,
@@ -63,7 +63,7 @@ window.actressData = {
         "水无瀬优夏",
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSP-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-169"
     },
     {
       "id": 72680,
@@ -88,7 +88,7 @@ window.actressData = {
         "神谷秋妃",
         "柏木あおい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TOMN-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOMN-078"
     },
     {
       "id": 61039,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "原千岁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-146"
     },
     {
       "id": 61503,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "原千岁"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-078"
     }
   ]
 };

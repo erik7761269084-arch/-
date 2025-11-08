@@ -33,7 +33,7 @@ window.actressData = {
         "小田切ジュン",
         "甘惟桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-050"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "永濑唯",
         "里仲ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-805"
     }
   ]
 };

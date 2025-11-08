@@ -35,7 +35,7 @@ window.actressData = {
         "まーち",
         "モンチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-183"
     },
     {
       "id": 9002,
@@ -55,7 +55,7 @@ window.actressData = {
         "しょーと",
         "モンチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-193"
     },
     {
       "id": 9729,
@@ -73,7 +73,7 @@ window.actressData = {
         "タイ",
         "モンチ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-409"
     }
   ]
 };

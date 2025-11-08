@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1397"
     },
     {
       "id": 2706,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-779"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-779"
     },
     {
       "id": 63941,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATYA-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-022"
     },
     {
       "id": 63776,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-688"
     },
     {
       "id": 6578,
@@ -121,7 +121,7 @@ window.actressData = {
         "蒼山愛奈",
         "生田望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-039"
     },
     {
       "id": 6999,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-300"
     },
     {
       "id": 70448,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-658"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-658"
     },
     {
       "id": 7697,
@@ -171,7 +171,7 @@ window.actressData = {
         "左慈半造",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-255"
     },
     {
       "id": 70317,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-366"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-366"
     },
     {
       "id": 8535,
@@ -203,7 +203,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-913"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-913"
     },
     {
       "id": 11727,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-345"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-345"
     },
     {
       "id": 16574,
@@ -235,7 +235,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-260"
     },
     {
       "id": 17622,
@@ -251,7 +251,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-246"
     },
     {
       "id": 106703,
@@ -267,7 +267,7 @@ window.actressData = {
       "actress": [
         "蒼山愛奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-218"
     },
     {
       "id": 107655,
@@ -284,7 +284,7 @@ window.actressData = {
         "蒼山愛奈",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLDSS-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-209"
     }
   ]
 };

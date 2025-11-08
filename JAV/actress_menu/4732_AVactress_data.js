@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "音花さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-972"
     },
     {
       "id": 91582,
@@ -49,7 +49,7 @@ window.actressData = {
         "鲛岛",
         "音花さくら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-958"
     }
   ]
 };

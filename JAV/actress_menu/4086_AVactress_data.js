@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "吉永このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-474"
     },
     {
       "id": 86386,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "吉永このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-436"
     },
     {
       "id": 79744,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "吉永このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-420"
     },
     {
       "id": 70890,
@@ -83,7 +83,7 @@ window.actressData = {
         "南佳也",
         "吉永このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-040"
     },
     {
       "id": 79122,
@@ -100,7 +100,7 @@ window.actressData = {
         "鲛岛",
         "吉永このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-058"
     }
   ]
 };

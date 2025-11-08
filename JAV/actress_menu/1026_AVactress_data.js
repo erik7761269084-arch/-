@@ -40,7 +40,7 @@ window.actressData = {
         "川村まなみ",
         "美原すみれ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-537"
     },
     {
       "id": 5770,
@@ -61,7 +61,7 @@ window.actressData = {
         "美原すみれ",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-169"
     },
     {
       "id": 67733,
@@ -80,7 +80,7 @@ window.actressData = {
         "川村まなみ",
         "爱花みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-061"
     },
     {
       "id": 8512,
@@ -98,7 +98,7 @@ window.actressData = {
         "美丘さとみ",
         "川村まなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-989"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-989"
     },
     {
       "id": 10424,
@@ -115,7 +115,7 @@ window.actressData = {
         "北条麻妃",
         "川村まなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-992"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-992"
     }
   ]
 };

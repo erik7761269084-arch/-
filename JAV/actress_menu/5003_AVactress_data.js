@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "折坂麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-433"
     },
     {
       "id": 83418,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "折坂麻衣子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1235"
     }
   ]
 };

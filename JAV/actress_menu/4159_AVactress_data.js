@@ -42,7 +42,7 @@ window.actressData = {
         "小园梨央",
         "中西南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-184"
     },
     {
       "id": 81782,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "千种ちな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-157"
     },
     {
       "id": 71490,
@@ -78,7 +78,7 @@ window.actressData = {
         "千种ちな",
         "爱原れの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-013"
     },
     {
       "id": 87649,
@@ -98,7 +98,7 @@ window.actressData = {
         "水谷あおい",
         "千种ちな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-983"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-983"
     }
   ]
 };

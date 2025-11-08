@@ -64,7 +64,7 @@ window.actressData = {
         "蕾",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-473"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-473"
     },
     {
       "id": 67362,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "透美かなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FKRU-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-008"
     },
     {
       "id": 13684,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "透美かなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-119"
     },
     {
       "id": 94846,
@@ -114,7 +114,7 @@ window.actressData = {
         "透美かなた",
         "七瀨詩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-958"
     },
     {
       "id": 13976,
@@ -131,7 +131,7 @@ window.actressData = {
         "透美かなた",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-230"
     },
     {
       "id": 14080,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "透美かなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-307"
     },
     {
       "id": 15022,
@@ -164,7 +164,7 @@ window.actressData = {
         "透美かなた",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-191"
     },
     {
       "id": 90649,
@@ -180,7 +180,7 @@ window.actressData = {
       "actress": [
         "透美かなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-585"
     }
   ]
 };

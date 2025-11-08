@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-312"
     },
     {
       "id": 4007,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-268"
     },
     {
       "id": 5739,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-189"
     },
     {
       "id": 6476,
@@ -118,7 +118,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-152"
     },
     {
       "id": 8703,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-038"
     },
     {
       "id": 10367,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-239"
     },
     {
       "id": 13137,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-124"
     },
     {
       "id": 13890,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-087"
     },
     {
       "id": 14560,
@@ -199,7 +199,7 @@ window.actressData = {
         "天宮花南",
         "ぽぴと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-071"
     },
     {
       "id": 15950,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-027"
     },
     {
       "id": 16053,
@@ -231,7 +231,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-024"
     },
     {
       "id": 17055,
@@ -247,7 +247,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-978"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-978"
     },
     {
       "id": 17533,
@@ -263,7 +263,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-976"
     },
     {
       "id": 18548,
@@ -279,7 +279,7 @@ window.actressData = {
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-936"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-138"
     },
     {
       "id": 73027,
@@ -55,7 +55,7 @@ window.actressData = {
         "浅仓真凛",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKDL-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-036"
     },
     {
       "id": 76043,
@@ -75,7 +75,7 @@ window.actressData = {
         "前田あこ",
         "松永雪子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-060"
     },
     {
       "id": 83066,
@@ -93,7 +93,7 @@ window.actressData = {
         "前田あこ",
         "桐原みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ANX-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANX-117"
     },
     {
       "id": 76041,
@@ -112,7 +112,7 @@ window.actressData = {
         "相泽ゆりな",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-058"
     },
     {
       "id": 77643,
@@ -130,7 +130,7 @@ window.actressData = {
         "緒川春",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-927"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-927"
     },
     {
       "id": 77343,
@@ -148,7 +148,7 @@ window.actressData = {
         "水无瀬怜奈",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-022"
     },
     {
       "id": 82363,
@@ -166,7 +166,7 @@ window.actressData = {
         "咲雪华奈",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMV-120"
     }
   ]
 };

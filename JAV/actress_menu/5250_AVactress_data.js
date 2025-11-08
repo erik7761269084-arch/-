@@ -34,7 +34,7 @@ window.actressData = {
         "向理来",
         "流川千穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-110"
     },
     {
       "id": 95011,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "流川千穂"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-072"
     }
   ]
 };

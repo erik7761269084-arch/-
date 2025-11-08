@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "雫こころ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FEM-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-014"
     },
     {
       "id": 70435,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "雫こころ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FEM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-003"
     },
     {
       "id": 75709,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "雫こころ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SXMA-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-013"
     }
   ]
 };

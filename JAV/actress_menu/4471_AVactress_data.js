@@ -38,7 +38,7 @@ window.actressData = {
         "舞岛あかり",
         "夜空せいら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGT-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-105"
     },
     {
       "id": 74645,
@@ -68,7 +68,7 @@ window.actressData = {
         "関根奈美",
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-046"
     },
     {
       "id": 82704,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-361"
     },
     {
       "id": 88219,
@@ -101,7 +101,7 @@ window.actressData = {
         "若菜奈央",
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-313"
     },
     {
       "id": 82669,
@@ -117,7 +117,7 @@ window.actressData = {
       "actress": [
         "舞岛あかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-406"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-406"
     }
   ]
 };

@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "相良明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-477"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-477"
     },
     {
       "id": 94137,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "相良明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-481"
     }
   ]
 };

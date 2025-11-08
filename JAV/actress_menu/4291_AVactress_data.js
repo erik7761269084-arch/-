@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "篠原友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-252"
     },
     {
       "id": 81650,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "篠原友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DDOB-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-069"
     },
     {
       "id": 75663,
@@ -65,7 +65,7 @@ window.actressData = {
         "市川润",
         "篠原友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOAV-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAV-060"
     },
     {
       "id": 72743,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "篠原友香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-129"
     }
   ]
 };

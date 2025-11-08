@@ -42,7 +42,7 @@ window.actressData = {
       "actress": [
         "愛里未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-062"
     },
     {
       "id": 1833,
@@ -59,7 +59,7 @@ window.actressData = {
         "橘日向",
         "愛里未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-02"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-02"
     },
     {
       "id": 1914,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "愛里未來"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-45"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-45"
     }
   ]
 };

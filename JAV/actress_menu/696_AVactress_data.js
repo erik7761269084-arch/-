@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "真白りま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOUL-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOUL-014"
     },
     {
       "id": 75804,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "真白りま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-824"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-824"
     },
     {
       "id": 13050,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "真白りま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-479"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-479"
     },
     {
       "id": 13749,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "真白りま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-452"
     },
     {
       "id": 14392,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "真白りま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-446"
     }
   ]
 };

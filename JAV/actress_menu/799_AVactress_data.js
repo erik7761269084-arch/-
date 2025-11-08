@@ -58,7 +58,7 @@ window.actressData = {
         "斉藤月乃",
         "まなみ静奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-682"
     },
     {
       "id": 6685,
@@ -77,7 +77,7 @@ window.actressData = {
         "野上しおり",
         "希和みこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-526"
     },
     {
       "id": 71954,
@@ -95,7 +95,7 @@ window.actressData = {
         "峰田奈奈美",
         "冬爱琴音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-007"
     },
     {
       "id": 11035,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "希和みこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNMB-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMB-088"
     },
     {
       "id": 13728,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "希和みこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-315"
     },
     {
       "id": 14391,
@@ -143,7 +143,7 @@ window.actressData = {
       "actress": [
         "希和みこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-312"
     }
   ]
 };

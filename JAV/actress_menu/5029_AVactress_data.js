@@ -33,7 +33,7 @@ window.actressData = {
         "宫村ななこ",
         "アレク"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-352"
     },
     {
       "id": 81564,
@@ -50,7 +50,7 @@ window.actressData = {
         "亜矢みつき",
         "アレク"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-355"
     },
     {
       "id": 81642,
@@ -67,7 +67,7 @@ window.actressData = {
         "亜矢みつき",
         "アレク"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-356"
     },
     {
       "id": 83612,
@@ -84,7 +84,7 @@ window.actressData = {
         "大浦真奈美",
         "アレク"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-354"
     }
   ]
 };

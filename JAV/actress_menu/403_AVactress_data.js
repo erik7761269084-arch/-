@@ -55,7 +55,7 @@ window.actressData = {
         "吉永塔子",
         "ぴのき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-403"
     },
     {
       "id": 61705,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-392"
     },
     {
       "id": 4722,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-377"
     },
     {
       "id": 5514,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-364"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-364"
     },
     {
       "id": 6255,
@@ -120,7 +120,7 @@ window.actressData = {
         "吉永塔子",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-353"
     },
     {
       "id": 6407,
@@ -180,7 +180,7 @@ window.actressData = {
         "安倍亜沙美",
         "响りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
       "id": 8497,
@@ -196,7 +196,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-318"
     },
     {
       "id": 9194,
@@ -213,7 +213,7 @@ window.actressData = {
         "吉永塔子",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-307"
     },
     {
       "id": 10082,
@@ -230,7 +230,7 @@ window.actressData = {
         "吉永塔子",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-294"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-294"
     },
     {
       "id": 93450,
@@ -254,7 +254,7 @@ window.actressData = {
         "守谷多香子",
         "横山纱江子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-110"
     },
     {
       "id": 12784,
@@ -271,7 +271,7 @@ window.actressData = {
         "吉永塔子",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-249"
     },
     {
       "id": 13542,
@@ -288,7 +288,7 @@ window.actressData = {
         "吉永塔子",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-241"
     },
     {
       "id": 87097,
@@ -308,7 +308,7 @@ window.actressData = {
         "姫川礼子",
         "古田優子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-435"
     },
     {
       "id": 81507,
@@ -324,7 +324,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-172"
     },
     {
       "id": 73898,
@@ -340,7 +340,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOJU-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOJU-013"
     },
     {
       "id": 69979,
@@ -356,7 +356,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1176"
     },
     {
       "id": 74752,
@@ -373,7 +373,7 @@ window.actressData = {
         "吉永塔子",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-792"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-792"
     },
     {
       "id": 71418,
@@ -392,7 +392,7 @@ window.actressData = {
         "咲々原リン",
         "篠崎环奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-404"
     },
     {
       "id": 70204,
@@ -408,7 +408,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-849"
     },
     {
       "id": 71682,
@@ -424,7 +424,7 @@ window.actressData = {
       "actress": [
         "吉永塔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-332"
     },
     {
       "id": 68190,
@@ -441,7 +441,7 @@ window.actressData = {
         "吉永塔子",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-180"
     }
   ]
 };

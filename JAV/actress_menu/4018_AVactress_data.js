@@ -34,7 +34,7 @@ window.actressData = {
         "并木杏梨",
         "丸山れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-476"
     },
     {
       "id": 89532,
@@ -53,7 +53,7 @@ window.actressData = {
         "瀬崎彩音",
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-127"
     },
     {
       "id": 87505,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ILLE-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ILLE-021"
     },
     {
       "id": 86671,
@@ -87,7 +87,7 @@ window.actressData = {
         "仲间明日香",
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-091"
     },
     {
       "id": 79867,
@@ -105,7 +105,7 @@ window.actressData = {
         "椎叶みくる",
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-202"
     },
     {
       "id": 81816,
@@ -125,7 +125,7 @@ window.actressData = {
         "桃瀬さくら",
         "瀬戸真白"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-610"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-610"
     },
     {
       "id": 70392,
@@ -145,7 +145,7 @@ window.actressData = {
         "桜川かなこ",
         "并木杏梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-582"
     },
     {
       "id": 70848,
@@ -164,7 +164,7 @@ window.actressData = {
         "美咲まや",
         "近藤ユキ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-109"
     }
   ]
 };

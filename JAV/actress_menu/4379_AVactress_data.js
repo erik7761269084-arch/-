@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "篠原杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-784"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-784"
     }
   ]
 };

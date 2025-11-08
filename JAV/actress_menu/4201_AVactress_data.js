@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "滝川穂乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-183"
     },
     {
       "id": 71843,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "滝川穂乃果"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMGL-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMGL-183"
     }
   ]
 };

@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "富岡亞里沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-376"
     },
     {
       "id": 10150,
@@ -65,7 +65,7 @@ window.actressData = {
         "庵姬花",
         "富岡亞里沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-923"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-923"
     },
     {
       "id": 92027,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "富岡亞里沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-285"
     },
     {
       "id": 17179,
@@ -98,7 +98,7 @@ window.actressData = {
         "富岡亞里沙",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-740"
     },
     {
       "id": 89661,
@@ -117,7 +117,7 @@ window.actressData = {
         "泉田栞",
         "もっともあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAM-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-073"
     }
   ]
 };

@@ -54,7 +54,7 @@ window.actressData = {
         "叶川みなみ",
         "日向ひかる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMJD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMJD-005"
     },
     {
       "id": 6591,
@@ -73,7 +73,7 @@ window.actressData = {
         "渡辺まりか",
         "宮瀬夏純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRSM-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-093"
     },
     {
       "id": 9934,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "宮瀬夏純"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-645"
     }
   ]
 };

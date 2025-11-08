@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "筒井愛彩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-051"
     },
     {
       "id": 13916,
@@ -63,7 +63,7 @@ window.actressData = {
         "小田切ジュン",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRST-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-012"
     }
   ]
 };

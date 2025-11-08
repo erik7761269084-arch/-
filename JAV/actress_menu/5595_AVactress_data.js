@@ -34,7 +34,7 @@ window.actressData = {
         "浜咲恵利",
         "矢島ちえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCD-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-224"
     }
   ]
 };

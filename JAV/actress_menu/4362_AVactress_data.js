@@ -33,7 +33,7 @@ window.actressData = {
         "ゆうひ菜那",
         "园田花凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DTRS-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTRS-020"
     },
     {
       "id": 82805,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "园田花凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-373"
     }
   ]
 };

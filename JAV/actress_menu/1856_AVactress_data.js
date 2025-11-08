@@ -43,7 +43,7 @@ window.actressData = {
       "actress": [
         "沖仁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-111"
     },
     {
       "id": 1823,
@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "沖仁美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-80"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-80"
     }
   ]
 };

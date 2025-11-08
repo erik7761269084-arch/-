@@ -68,7 +68,7 @@ window.actressData = {
         "黑川纱里奈",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-266"
     },
     {
       "id": 86189,
@@ -87,7 +87,7 @@ window.actressData = {
         "希望美",
         "凪泽诗音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-055"
     },
     {
       "id": 84102,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "一色さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-570"
     },
     {
       "id": 67288,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "一色さゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-163"
     },
     {
       "id": 73015,
@@ -140,7 +140,7 @@ window.actressData = {
         "月本爱",
         "四ツ叶うらら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-191"
     }
   ]
 };

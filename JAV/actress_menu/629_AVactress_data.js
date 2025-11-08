@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "二階堂麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-116"
     },
     {
       "id": 9067,
@@ -84,7 +84,7 @@ window.actressData = {
         "二階堂麗",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-196"
     },
     {
       "id": 9015,
@@ -142,7 +142,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 9898,
@@ -159,7 +159,7 @@ window.actressData = {
         "二階堂麗",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-189"
     },
     {
       "id": 10628,
@@ -175,7 +175,7 @@ window.actressData = {
       "actress": [
         "二階堂麗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-156"
     }
   ]
 };

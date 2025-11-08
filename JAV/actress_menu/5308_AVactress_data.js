@@ -42,7 +42,7 @@ window.actressData = {
         "有坂真宵",
         "生田みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCDSS-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCDSS-024"
     },
     {
       "id": 83831,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "生田みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-435"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-435"
     }
   ]
 };

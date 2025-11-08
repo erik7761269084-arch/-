@@ -36,7 +36,7 @@ window.actressData = {
         "小泉多恵子",
         "夏下千恵子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OLM-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-079"
     }
   ]
 };

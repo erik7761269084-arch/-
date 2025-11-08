@@ -121,7 +121,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 5289,
@@ -152,7 +152,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 9015,
@@ -210,7 +210,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 15162,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KANO-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-031"
     },
     {
       "id": 101284,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-294"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-294"
     },
     {
       "id": 89466,
@@ -259,7 +259,7 @@ window.actressData = {
         "藤子未央",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVSHA-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-016"
     },
     {
       "id": 106506,
@@ -275,7 +275,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-668"
     },
     {
       "id": 91497,
@@ -291,7 +291,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BACJ-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-073"
     },
     {
       "id": 90940,
@@ -307,7 +307,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KING-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KING-194"
     },
     {
       "id": 89712,
@@ -323,7 +323,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-138"
     },
     {
       "id": 88989,
@@ -339,7 +339,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-088"
     },
     {
       "id": 90788,
@@ -355,7 +355,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-246"
     },
     {
       "id": 73538,
@@ -371,7 +371,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BABD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BABD-002"
     },
     {
       "id": 90885,
@@ -387,7 +387,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-615"
     },
     {
       "id": 107110,
@@ -403,7 +403,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-184"
     },
     {
       "id": 90888,
@@ -419,7 +419,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-357"
     },
     {
       "id": 84452,
@@ -435,7 +435,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-938"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-938"
     },
     {
       "id": 67234,
@@ -451,7 +451,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-931"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-931"
     },
     {
       "id": 87000,
@@ -467,7 +467,7 @@ window.actressData = {
       "actress": [
         "藤子未央"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-921"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-921"
     },
     {
       "id": 84434,
@@ -484,7 +484,7 @@ window.actressData = {
         "藤子未央",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-914"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-914"
     }
   ]
 };

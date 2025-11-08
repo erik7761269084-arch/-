@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "植木翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NATR-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-728"
     },
     {
       "id": 93415,
@@ -51,7 +51,7 @@ window.actressData = {
         "植木翔子",
         "宫岛优"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-064"
     },
     {
       "id": 70722,
@@ -68,7 +68,7 @@ window.actressData = {
         "山口椿",
         "植木翔子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ITSR-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ITSR-071"
     }
   ]
 };

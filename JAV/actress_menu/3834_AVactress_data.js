@@ -40,7 +40,7 @@ window.actressData = {
         "安倍亜沙美",
         "深泽祈莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-282"
     },
     {
       "id": 77409,
@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "深泽祈莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-114"
     },
     {
       "id": 81794,
@@ -73,7 +73,7 @@ window.actressData = {
         "鲛岛",
         "深泽祈莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-109"
     },
     {
       "id": 76367,
@@ -91,7 +91,7 @@ window.actressData = {
         "しみけん",
         "深泽祈莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-094"
     },
     {
       "id": 68553,
@@ -108,7 +108,7 @@ window.actressData = {
         "水谷あおい",
         "深泽祈莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-025"
     }
   ]
 };

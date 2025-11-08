@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "水野ろあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNEW-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEW-013"
     },
     {
       "id": 8849,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "水野ろあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-660"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-660"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "庄司ゆり奈",
         "新川千寻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-481"
     },
     {
       "id": 89202,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "庄司ゆり奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SYKH-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-078"
     },
     {
       "id": 85141,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "庄司ゆり奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIR-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-054"
     },
     {
       "id": 82995,
@@ -83,7 +83,7 @@ window.actressData = {
         "加藤あやの",
         "庄司ゆり奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-884"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-884"
     }
   ]
 };

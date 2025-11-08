@@ -28,13 +28,13 @@ window.actressData = {
       "type": "有码",
       "company": "IDEA POCKET",
       "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020836333333_83221_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020836333333_83221_s.webp",
       "actress": [
         "雛乃花音",
         "鲛岛",
         "ひなの花音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-736"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-736"
     }
   ]
 };

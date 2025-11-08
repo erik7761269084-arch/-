@@ -37,7 +37,7 @@ window.actressData = {
         "亜佐仓みんと",
         "长谷川葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-020"
     }
   ]
 };

@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "秋月まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-372"
     },
     {
       "id": 63437,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "秋月まりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEO-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-932"
     }
   ]
 };

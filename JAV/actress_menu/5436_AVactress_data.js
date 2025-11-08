@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "松本りおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-757"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-757"
     }
   ]
 };

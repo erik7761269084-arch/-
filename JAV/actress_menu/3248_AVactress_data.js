@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "愛瀬まりさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TCD-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-308"
     },
     {
       "id": 78554,
@@ -51,7 +51,7 @@ window.actressData = {
         "じゅうもんじ",
         "愛瀬まりさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NVH-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-035"
     },
     {
       "id": 93683,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "愛瀬まりさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OPPW-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-170"
     }
   ]
 };

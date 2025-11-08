@@ -42,7 +42,7 @@ window.actressData = {
         "小园梨央",
         "中西南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-184"
     },
     {
       "id": 76471,
@@ -60,7 +60,7 @@ window.actressData = {
         "中西南",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZMEN-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-040"
     },
     {
       "id": 74041,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "中西南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-939"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-939"
     }
   ]
 };

@@ -47,7 +47,7 @@ window.actressData = {
         "浮舟美波",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-690"
     }
   ]
 };

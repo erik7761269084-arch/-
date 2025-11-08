@@ -33,7 +33,7 @@ window.actressData = {
         "田渊正浩",
         "黒木かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-027"
     }
   ]
 };

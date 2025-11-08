@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "姉宮玲亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGOLD-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-034"
     }
   ]
 };

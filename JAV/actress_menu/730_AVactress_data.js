@@ -51,7 +51,7 @@ window.actressData = {
         "若月もあ",
         "あおい藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKN-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKN-005"
     },
     {
       "id": 3678,
@@ -70,7 +70,7 @@ window.actressData = {
         "あおい藍",
         "凪宮ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-023"
     },
     {
       "id": 5213,
@@ -90,7 +90,7 @@ window.actressData = {
         "あおい藍",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-298"
     },
     {
       "id": 74810,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "あおい藍"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-270"
     }
   ]
 };

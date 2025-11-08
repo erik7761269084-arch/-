@@ -48,7 +48,7 @@ window.actressData = {
         "逢坂瞳",
         "最上もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-252"
     },
     {
       "id": 9001,
@@ -67,7 +67,7 @@ window.actressData = {
         "月見伊織",
         "逢坂瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-194"
     },
     {
       "id": 11082,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "月見伊織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21912"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21912"
     }
   ]
 };

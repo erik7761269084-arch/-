@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "小西悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-565"
     },
     {
       "id": 100721,
@@ -71,7 +71,7 @@ window.actressData = {
         "小西悠",
         "栗原良"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-779"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-779"
     },
     {
       "id": 1591,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "小西悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=mxgs-823"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=mxgs-823"
     },
     {
       "id": 1577,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "小西悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-797"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-797"
     },
     {
       "id": 1612,
@@ -119,7 +119,7 @@ window.actressData = {
       "actress": [
         "小西悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-788"
     },
     {
       "id": 100261,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "小西悠"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-137"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "二ノ宫庆子",
         "竹内美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NXG-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-434"
     },
     {
       "id": 88146,
@@ -54,7 +54,7 @@ window.actressData = {
         "香原京香",
         "笛木さとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3355"
     },
     {
       "id": 81849,
@@ -73,7 +73,7 @@ window.actressData = {
         "二ノ宫庆子",
         "福田凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-206"
     },
     {
       "id": 77037,
@@ -91,7 +91,7 @@ window.actressData = {
         "二ノ宫庆子",
         "神崎清乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-128"
     }
   ]
 };

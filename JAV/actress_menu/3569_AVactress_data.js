@@ -39,7 +39,7 @@ window.actressData = {
         "结希玲衣（美咲礼、美咲レイ）",
         "小西沙织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-233"
     },
     {
       "id": 12420,
@@ -57,7 +57,7 @@ window.actressData = {
         "澤乃明日香",
         "真弓あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-016"
     },
     {
       "id": 105830,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "真弓あずさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YOCH-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YOCH-008"
     },
     {
       "id": 83630,
@@ -96,7 +96,7 @@ window.actressData = {
         "时任明菜",
         "东城佳苗"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGDN-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGDN-120"
     }
   ]
 };

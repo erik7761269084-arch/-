@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "光井ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-780"
     },
     {
       "id": 71140,
@@ -56,7 +56,7 @@ window.actressData = {
         "鲛岛",
         "光井ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-711"
     },
     {
       "id": 77905,
@@ -72,7 +72,7 @@ window.actressData = {
       "actress": [
         "光井ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUX-981"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-981"
     }
   ]
 };

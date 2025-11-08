@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-244"
     },
     {
       "id": 2390,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-420"
     },
     {
       "id": 3259,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-391"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-391"
     },
     {
       "id": 4030,
@@ -115,7 +115,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-376"
     },
     {
       "id": 6546,
@@ -131,7 +131,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-324"
     },
     {
       "id": 8745,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-263"
     },
     {
       "id": 13056,
@@ -163,7 +163,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-140"
     },
     {
       "id": 14740,
@@ -179,7 +179,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-074"
     },
     {
       "id": 14390,
@@ -195,7 +195,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-115"
     },
     {
       "id": 15674,
@@ -211,7 +211,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-061"
     },
     {
       "id": 16521,
@@ -227,7 +227,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-019"
     },
     {
       "id": 17186,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-989"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-989"
     },
     {
       "id": 17708,
@@ -259,7 +259,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-975"
     },
     {
       "id": 18549,
@@ -275,7 +275,7 @@ window.actressData = {
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-931"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-931"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
         "しみけん",
         "佐仓绊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-324"
     },
     {
       "id": 75895,
@@ -57,7 +57,7 @@ window.actressData = {
         "しみけん",
         "佐仓绊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-307"
     },
     {
       "id": 77864,
@@ -73,7 +73,7 @@ window.actressData = {
       "actress": [
         "佐仓绊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-297"
     },
     {
       "id": 73773,
@@ -89,7 +89,7 @@ window.actressData = {
       "actress": [
         "佐仓绊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-288"
     },
     {
       "id": 73562,
@@ -107,7 +107,7 @@ window.actressData = {
         "しみけん",
         "佐仓绊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-284"
     },
     {
       "id": 88126,
@@ -123,7 +123,7 @@ window.actressData = {
       "actress": [
         "佐仓绊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-246"
     },
     {
       "id": 76819,
@@ -140,7 +140,7 @@ window.actressData = {
         "戸川夏也",
         "佐仓绊"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-237"
     }
   ]
 };

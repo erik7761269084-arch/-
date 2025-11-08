@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "小野梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-430"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-430"
     },
     {
       "id": 5510,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "小野梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-373"
     },
     {
       "id": 9248,
@@ -88,7 +88,7 @@ window.actressData = {
         "まーち",
         "もんご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-137"
     },
     {
       "id": 10792,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "小野梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-928"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-928"
     },
     {
       "id": 14850,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "小野梨花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-653"
     },
     {
       "id": 15570,
@@ -137,7 +137,7 @@ window.actressData = {
         "小野梨花",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-631"
     }
   ]
 };

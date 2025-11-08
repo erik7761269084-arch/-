@@ -49,7 +49,7 @@ window.actressData = {
         "仓多真央",
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRIN-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRIN-044"
     },
     {
       "id": 5065,
@@ -116,7 +116,7 @@ window.actressData = {
         "蒼井朱里",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
       "id": 88873,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNOZ-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNOZ-028"
     },
     {
       "id": 102742,
@@ -149,7 +149,7 @@ window.actressData = {
         "川菜美铃",
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-172"
     },
     {
       "id": 78645,
@@ -165,7 +165,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-205"
     },
     {
       "id": 88352,
@@ -182,7 +182,7 @@ window.actressData = {
         "通野未帆",
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-116"
     },
     {
       "id": 82148,
@@ -201,7 +201,7 @@ window.actressData = {
         "三原穗香",
         "牧村柚希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-388"
     },
     {
       "id": 1675,
@@ -220,7 +220,7 @@ window.actressData = {
         "三原穗香",
         "宮村菜菜子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-617"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-617"
     },
     {
       "id": 83760,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-068"
     },
     {
       "id": 78830,
@@ -252,7 +252,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-599"
     },
     {
       "id": 78186,
@@ -270,7 +270,7 @@ window.actressData = {
         "三原穗香",
         "幸田ユマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-284"
     },
     {
       "id": 84194,
@@ -286,7 +286,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLOT-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLOT-005"
     },
     {
       "id": 74013,
@@ -304,7 +304,7 @@ window.actressData = {
         "枢木葵",
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-592"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-592"
     },
     {
       "id": 67570,
@@ -320,7 +320,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ECB-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-119"
     },
     {
       "id": 73725,
@@ -336,7 +336,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-248"
     },
     {
       "id": 74411,
@@ -353,7 +353,7 @@ window.actressData = {
         "有坂深雪",
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-495"
     },
     {
       "id": 69966,
@@ -371,7 +371,7 @@ window.actressData = {
         "凛音とうか",
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-434"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-434"
     },
     {
       "id": 106008,
@@ -387,7 +387,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-130"
     },
     {
       "id": 78179,
@@ -404,7 +404,7 @@ window.actressData = {
         "三原穗香",
         "枢木美栞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-045"
     },
     {
       "id": 76885,
@@ -420,7 +420,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-092"
     },
     {
       "id": 72295,
@@ -440,7 +440,7 @@ window.actressData = {
         "星奈爱",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-432"
     },
     {
       "id": 78046,
@@ -458,7 +458,7 @@ window.actressData = {
         "三原穗香",
         "梨々花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-486"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-486"
     },
     {
       "id": 71043,
@@ -478,7 +478,7 @@ window.actressData = {
         "宫川ありさ",
         "绫瀬みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-520"
     },
     {
       "id": 88511,
@@ -494,7 +494,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-685"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-685"
     },
     {
       "id": 71200,
@@ -515,7 +515,7 @@ window.actressData = {
         "ちなみん",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-475"
     },
     {
       "id": 82387,
@@ -531,7 +531,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-436"
     },
     {
       "id": 77061,
@@ -553,7 +553,7 @@ window.actressData = {
         "浜崎真绪",
         "枢木美栞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-180"
     },
     {
       "id": 71426,
@@ -572,7 +572,7 @@ window.actressData = {
         "二阶堂ゆり",
         "月本爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GDHH-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-095"
     },
     {
       "id": 82494,
@@ -588,7 +588,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-305"
     },
     {
       "id": 105834,
@@ -608,7 +608,7 @@ window.actressData = {
         "神木りさ",
         "水城えま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-490"
     },
     {
       "id": 87988,
@@ -625,7 +625,7 @@ window.actressData = {
         "三原穗香",
         "三岛奈津子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-359"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-359"
     },
     {
       "id": 88303,
@@ -641,7 +641,7 @@ window.actressData = {
       "actress": [
         "三原穗香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-140"
     },
     {
       "id": 88119,
@@ -658,7 +658,7 @@ window.actressData = {
         "三原穗香",
         "小野寺梨纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIGD-765"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-765"
     }
   ]
 };

@@ -38,7 +38,7 @@ window.actressData = {
         "吉冈奈々子",
         "平松恵理香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YLWN-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YLWN-283"
     },
     {
       "id": 59876,
@@ -61,7 +61,7 @@ window.actressData = {
         "远田恵未",
         "白鸟るり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5225"
     }
   ]
 };

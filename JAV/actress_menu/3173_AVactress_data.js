@@ -34,7 +34,7 @@ window.actressData = {
         "ハカー",
         "有栖花绯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-574"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-574"
     },
     {
       "id": 10612,
@@ -52,7 +52,7 @@ window.actressData = {
         "タイ",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-932"
     },
     {
       "id": 13363,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-609"
     },
     {
       "id": 13802,
@@ -88,7 +88,7 @@ window.actressData = {
         "ハカー",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-230"
     },
     {
       "id": 13993,
@@ -105,7 +105,7 @@ window.actressData = {
         "田中寧寧",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-228"
     },
     {
       "id": 13910,
@@ -122,7 +122,7 @@ window.actressData = {
         "タイ",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-233"
     },
     {
       "id": 15567,
@@ -139,7 +139,7 @@ window.actressData = {
         "赤井美希",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-611"
     },
     {
       "id": 16777,
@@ -156,7 +156,7 @@ window.actressData = {
         "松本一香",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIH-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIH-003"
     },
     {
       "id": 17006,
@@ -173,7 +173,7 @@ window.actressData = {
         "五日市芽依",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-071"
     },
     {
       "id": 17254,
@@ -190,7 +190,7 @@ window.actressData = {
         "安位薫",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-171"
     },
     {
       "id": 18034,
@@ -208,7 +208,7 @@ window.actressData = {
         "南佳也",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-008"
     },
     {
       "id": 106853,
@@ -224,7 +224,7 @@ window.actressData = {
       "actress": [
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-021"
     },
     {
       "id": 107037,
@@ -242,7 +242,7 @@ window.actressData = {
         "ハカー",
         "柏木かなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-217"
     },
     {
       "id": 88794,
@@ -258,7 +258,7 @@ window.actressData = {
       "actress": [
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-299"
     },
     {
       "id": 92309,
@@ -275,7 +275,7 @@ window.actressData = {
         "新有菜",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-413"
     },
     {
       "id": 87739,
@@ -291,7 +291,7 @@ window.actressData = {
       "actress": [
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-766"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-766"
     },
     {
       "id": 87871,
@@ -309,7 +309,7 @@ window.actressData = {
         "Qべぇ",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-133"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-133"
     },
     {
       "id": 100614,
@@ -326,7 +326,7 @@ window.actressData = {
         "鲛岛",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-688"
     },
     {
       "id": 77605,
@@ -344,7 +344,7 @@ window.actressData = {
         "弥生美月",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-365"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-365"
     },
     {
       "id": 89829,
@@ -361,7 +361,7 @@ window.actressData = {
         "北条麻妃",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-009"
     },
     {
       "id": 104476,
@@ -378,7 +378,7 @@ window.actressData = {
         "森澤佳奈",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-525"
     },
     {
       "id": 92578,
@@ -396,7 +396,7 @@ window.actressData = {
         "タイ",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-539"
     },
     {
       "id": 67654,
@@ -413,7 +413,7 @@ window.actressData = {
         "本庄鈴",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-736"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-736"
     },
     {
       "id": 106745,
@@ -429,7 +429,7 @@ window.actressData = {
       "actress": [
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-110"
     },
     {
       "id": 100592,
@@ -446,7 +446,7 @@ window.actressData = {
         "美谷朱里",
         "ハカー"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-291"
     },
     {
       "id": 106971,
@@ -465,7 +465,7 @@ window.actressData = {
         "ハカー",
         "若宫はずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-396"
     }
   ]
 };

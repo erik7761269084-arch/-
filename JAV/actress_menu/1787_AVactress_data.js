@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "芦名未帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-002"
     },
     {
       "id": 68519,
@@ -72,7 +72,7 @@ window.actressData = {
         "月本衣织",
         "铃木あいか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UPSM-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UPSM-185"
     },
     {
       "id": 78895,
@@ -89,7 +89,7 @@ window.actressData = {
         "芦名未帆",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDD-739"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-739"
     },
     {
       "id": 1919,
@@ -105,7 +105,7 @@ window.actressData = {
       "actress": [
         "芦名未帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-006"
     }
   ]
 };

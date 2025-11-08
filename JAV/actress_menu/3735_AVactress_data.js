@@ -33,7 +33,7 @@ window.actressData = {
         "姫川ゆうな",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEND-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-024"
     },
     {
       "id": 77926,
@@ -56,7 +56,7 @@ window.actressData = {
         "一条美绪",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-789"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-789"
     },
     {
       "id": 91353,
@@ -80,7 +80,7 @@ window.actressData = {
         "篠田优",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-138"
     },
     {
       "id": 90048,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRIN-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRIN-004"
     },
     {
       "id": 69498,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-115"
     },
     {
       "id": 84122,
@@ -130,7 +130,7 @@ window.actressData = {
         "浅田结梨",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-329"
     },
     {
       "id": 79440,
@@ -148,7 +148,7 @@ window.actressData = {
         "タツ",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-066"
     },
     {
       "id": 78169,
@@ -171,7 +171,7 @@ window.actressData = {
         "凉美ほのか",
         "茉莉ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-558"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-558"
     },
     {
       "id": 70952,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21332"
     },
     {
       "id": 78181,
@@ -212,7 +212,7 @@ window.actressData = {
         "五十岚かな",
         "桜庭このみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KIBD-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-232"
     },
     {
       "id": 88186,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PGD-946"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-946"
     },
     {
       "id": 77050,
@@ -244,7 +244,7 @@ window.actressData = {
       "actress": [
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PLA-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PLA-062"
     },
     {
       "id": 70268,
@@ -262,7 +262,7 @@ window.actressData = {
         "白石鈴",
         "姬川优奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-525"
     }
   ]
 };

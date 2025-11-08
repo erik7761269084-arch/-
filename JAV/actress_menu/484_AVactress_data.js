@@ -51,7 +51,7 @@ window.actressData = {
         "大石紗季",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-121"
     },
     {
       "id": 5115,
@@ -68,7 +68,7 @@ window.actressData = {
         "大石紗季",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-362"
     },
     {
       "id": 6720,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "大石紗季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-317"
     },
     {
       "id": 7334,
@@ -101,7 +101,7 @@ window.actressData = {
         "大石紗季",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-306"
     },
     {
       "id": 8088,
@@ -118,7 +118,7 @@ window.actressData = {
         "大石紗季",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-290"
     },
     {
       "id": 8800,
@@ -135,7 +135,7 @@ window.actressData = {
         "大石紗季",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-281"
     },
     {
       "id": 9766,
@@ -151,7 +151,7 @@ window.actressData = {
       "actress": [
         "大石紗季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-275"
     },
     {
       "id": 13183,
@@ -168,7 +168,7 @@ window.actressData = {
         "大石紗季",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-227"
     },
     {
       "id": 13827,
@@ -185,7 +185,7 @@ window.actressData = {
         "大石紗季",
         "ミチくん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-215"
     },
     {
       "id": 14432,
@@ -201,7 +201,7 @@ window.actressData = {
       "actress": [
         "大石紗季"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-211"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
         "新川优里",
         "広瀬うみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LABY-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-005"
     },
     {
       "id": 82944,
@@ -59,7 +59,7 @@ window.actressData = {
         "神波多一花",
         "広瀬うみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZUKO-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-119"
     },
     {
       "id": 86938,
@@ -77,7 +77,7 @@ window.actressData = {
         "広瀬うみ",
         "黒瀬萌衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-937"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-937"
     },
     {
       "id": 100135,
@@ -97,7 +97,7 @@ window.actressData = {
         "若宫はずき",
         "広瀬うみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZUKO-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-098"
     }
   ]
 };

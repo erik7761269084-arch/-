@@ -35,7 +35,7 @@ window.actressData = {
         "松永雪子",
         "秋园このえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3338"
     },
     {
       "id": 82146,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "松永雪子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3337"
     },
     {
       "id": 76043,
@@ -71,7 +71,7 @@ window.actressData = {
         "前田あこ",
         "松永雪子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-060"
     },
     {
       "id": 75765,
@@ -90,7 +90,7 @@ window.actressData = {
         "南凉",
         "松永雪子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-057"
     }
   ]
 };

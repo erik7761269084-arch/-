@@ -53,7 +53,7 @@ window.actressData = {
         "二宮桃",
         "渋谷夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOHM-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-006"
     },
     {
       "id": 61810,
@@ -77,7 +77,7 @@ window.actressData = {
         "及川莉央",
         "藤田さち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PYM-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
     },
     {
       "id": 66178,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "渋谷夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNAMH-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNAMH-019"
     },
     {
       "id": 67345,
@@ -111,7 +111,7 @@ window.actressData = {
         "依本詩織",
         "渋谷夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-058"
     },
     {
       "id": 107515,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "渋谷夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-385"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "広瀬结香",
         "京野美丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-302"
     },
     {
       "id": 93453,
@@ -55,7 +55,7 @@ window.actressData = {
         "山口珠理",
         "森美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-084"
     },
     {
       "id": 90355,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "森美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PESS-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-001"
     },
     {
       "id": 67307,
@@ -88,7 +88,7 @@ window.actressData = {
         "莲美柚香",
         "森美希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GIGL-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIGL-689"
     }
   ]
 };

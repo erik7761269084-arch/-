@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "寺西薫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-210"
     },
     {
       "id": 92101,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "寺西薫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MESU-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-112"
     }
   ]
 };

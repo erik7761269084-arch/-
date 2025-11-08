@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAAN-1072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1072"
     },
     {
       "id": 78742,
@@ -49,7 +49,7 @@ window.actressData = {
         "希咲那奈",
         "なな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4866"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4866"
     }
   ]
 };

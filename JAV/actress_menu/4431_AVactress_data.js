@@ -33,7 +33,7 @@ window.actressData = {
         "麻里梨夏",
         "あゆみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-557"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-557"
     }
   ]
 };

@@ -38,7 +38,7 @@ window.actressData = {
         "星名千聖",
         "妖湖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDC-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDC-034"
     },
     {
       "id": 90116,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "HOTARU"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-175"
     },
     {
       "id": 81935,
@@ -72,7 +72,7 @@ window.actressData = {
         "怜佳",
         "HOTARU"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QRDA-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-108"
     }
   ]
 };

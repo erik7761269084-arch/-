@@ -34,7 +34,7 @@ window.actressData = {
         "山田裕二",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-737"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-737"
     }
   ]
 };

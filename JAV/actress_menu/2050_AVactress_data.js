@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "和久井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-231"
     },
     {
       "id": 82853,
@@ -62,7 +62,7 @@ window.actressData = {
       "actress": [
         "和久井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-203"
     },
     {
       "id": 76694,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "和久井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-188"
     },
     {
       "id": 1593,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "和久井瑪麗亞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=stars-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=stars-172"
     },
     {
       "id": 74405,
@@ -112,7 +112,7 @@ window.actressData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-100"
     }
   ]
 };

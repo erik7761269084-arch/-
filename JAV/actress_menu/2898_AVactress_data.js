@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "野々花さわ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XMOM-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-089"
     },
     {
       "id": 72519,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "野々花さわ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSTU-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-004"
     },
     {
       "id": 75261,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "野々花さわ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-342"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-342"
     },
     {
       "id": 85137,
@@ -118,7 +118,7 @@ window.actressData = {
         "野々花さわ",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-088"
     }
   ]
 };

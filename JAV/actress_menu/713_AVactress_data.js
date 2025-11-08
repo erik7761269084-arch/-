@@ -56,7 +56,7 @@ window.actressData = {
         "田中奈奈實",
         "永泽ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-597"
     },
     {
       "id": 106364,
@@ -73,7 +73,7 @@ window.actressData = {
         "安西天",
         "ひむろっく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-728"
     }
   ]
 };

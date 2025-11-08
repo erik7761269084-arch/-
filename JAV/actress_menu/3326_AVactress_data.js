@@ -37,7 +37,7 @@ window.actressData = {
         "石原れみ",
         "神咲纱々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-193"
     },
     {
       "id": 66324,
@@ -56,7 +56,7 @@ window.actressData = {
         "日向みさき",
         "野春あゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-190"
     },
     {
       "id": 93204,
@@ -76,7 +76,7 @@ window.actressData = {
         "松冈香纯",
         "持田ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-179"
     },
     {
       "id": 83638,
@@ -99,7 +99,7 @@ window.actressData = {
         "森川杏奈",
         "令和れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-427"
     }
   ]
 };

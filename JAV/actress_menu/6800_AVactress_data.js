@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "森下葉月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YOCH-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YOCH-004"
     },
     {
       "id": 106466,
@@ -49,7 +49,7 @@ window.actressData = {
         "ニック",
         "森下葉月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-130"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "藤白桃羽",
         "瀬戸ののは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-080"
     },
     {
       "id": 83396,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "瀬戸ののは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1220"
     },
     {
       "id": 70596,
@@ -68,7 +68,7 @@ window.actressData = {
         "しみけん",
         "瀬戸ののは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-707"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-707"
     }
   ]
 };

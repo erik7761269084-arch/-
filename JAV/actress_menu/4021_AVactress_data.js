@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "青山葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DWD-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DWD-072"
     },
     {
       "id": 70396,
@@ -51,7 +51,7 @@ window.actressData = {
         "树花凛",
         "青山葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-591"
     },
     {
       "id": 70494,
@@ -70,7 +70,7 @@ window.actressData = {
         "青山葵",
         "葵こはる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-577"
     }
   ]
 };

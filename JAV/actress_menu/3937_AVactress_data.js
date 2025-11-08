@@ -34,7 +34,7 @@ window.actressData = {
         "水无瀬怜奈",
         "梦乃美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-620"
     },
     {
       "id": 77022,
@@ -52,7 +52,7 @@ window.actressData = {
         "枝川结衣",
         "まゆのゆま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCOP-564"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-564"
     },
     {
       "id": 69727,
@@ -71,7 +71,7 @@ window.actressData = {
         "枝川结衣",
         "夏川恵茉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YRH-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YRH-167"
     }
   ]
 };

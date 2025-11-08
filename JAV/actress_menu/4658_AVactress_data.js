@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "心乃秋奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOSS-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOSS-178"
     },
     {
       "id": 82283,
@@ -50,7 +50,7 @@ window.actressData = {
         "向理来",
         "心乃秋奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-035"
     }
   ]
 };

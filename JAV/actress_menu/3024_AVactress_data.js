@@ -33,7 +33,7 @@ window.actressData = {
         "樱井步",
         "水树りさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-123"
     }
   ]
 };

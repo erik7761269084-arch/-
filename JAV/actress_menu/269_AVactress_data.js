@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMKZ-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-156"
     },
     {
       "id": 3946,
@@ -85,7 +85,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-826"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-826"
     },
     {
       "id": 4880,
@@ -101,7 +101,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-099"
     },
     {
       "id": 5139,
@@ -118,7 +118,7 @@ window.actressData = {
         "十束流羽",
         "ロダン富士"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-973"
     },
     {
       "id": 6080,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AQSH-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-123"
     },
     {
       "id": 6279,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-709"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-709"
     },
     {
       "id": 6396,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-952"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-952"
     },
     {
       "id": 6405,
@@ -191,7 +191,7 @@ window.actressData = {
         "仓木诗织",
         "乃咲みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-813"
     },
     {
       "id": 9402,
@@ -207,7 +207,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-144"
     },
     {
       "id": 10296,
@@ -224,7 +224,7 @@ window.actressData = {
         "十束流羽",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-102"
     },
     {
       "id": 15864,
@@ -240,7 +240,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-026"
     },
     {
       "id": 16529,
@@ -256,7 +256,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-988"
     },
     {
       "id": 17057,
@@ -272,7 +272,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-967"
     },
     {
       "id": 17561,
@@ -288,7 +288,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-949"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-949"
     },
     {
       "id": 18079,
@@ -304,7 +304,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-939"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-939"
     },
     {
       "id": 18550,
@@ -320,7 +320,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-925"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-925"
     },
     {
       "id": 18865,
@@ -336,7 +336,7 @@ window.actressData = {
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-901"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-901"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "おりょう",
         "NH×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TANP-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-039"
     },
     {
       "id": 63022,
@@ -53,7 +53,7 @@ window.actressData = {
         "おりょう",
         "NH×NH"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TANP-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-037"
     }
   ]
 };

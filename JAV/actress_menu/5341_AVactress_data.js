@@ -37,7 +37,7 @@ window.actressData = {
         "田中瞳",
         "羽生みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-263"
     },
     {
       "id": 85970,
@@ -55,7 +55,7 @@ window.actressData = {
         "鲛岛",
         "羽生みずき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-060"
     }
   ]
 };

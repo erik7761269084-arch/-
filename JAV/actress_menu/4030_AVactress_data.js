@@ -42,7 +42,7 @@ window.actressData = {
         "佐野星彩",
         "森永千波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-289"
     },
     {
       "id": 8349,
@@ -61,7 +61,7 @@ window.actressData = {
         "伊達燈和",
         "井手茉涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-299"
     }
   ]
 };

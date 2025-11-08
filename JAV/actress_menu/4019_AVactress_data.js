@@ -35,7 +35,7 @@ window.actressData = {
         "树花凛",
         "青山葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-591"
     },
     {
       "id": 88174,
@@ -59,7 +59,7 @@ window.actressData = {
         "凉美ほのか",
         "一ノ瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPV-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPV-021"
     },
     {
       "id": 77120,
@@ -77,7 +77,7 @@ window.actressData = {
         "玉木玲",
         "柊木のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-103"
     }
   ]
 };

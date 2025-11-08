@@ -96,7 +96,7 @@ window.actressData = {
         "椎叶みくる",
         "弥生美月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-941"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-941"
     },
     {
       "id": 2590,
@@ -113,7 +113,7 @@ window.actressData = {
         "小栗操",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-264"
     },
     {
       "id": 60250,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-967"
     },
     {
       "id": 2967,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-723"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-723"
     },
     {
       "id": 3377,
@@ -162,7 +162,7 @@ window.actressData = {
         "小栗操",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-258"
     },
     {
       "id": 3563,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-731"
     },
     {
       "id": 4753,
@@ -197,7 +197,7 @@ window.actressData = {
         "ナイアガラ翔",
         "ダンディ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-682"
     },
     {
       "id": 5155,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-245"
     },
     {
       "id": 5315,
@@ -230,7 +230,7 @@ window.actressData = {
         "小栗操",
         "いち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-704"
     },
     {
       "id": 91175,
@@ -247,7 +247,7 @@ window.actressData = {
         "小栗操",
         "星空萌愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-631"
     },
     {
       "id": 91274,
@@ -268,7 +268,7 @@ window.actressData = {
         "岬梓沙",
         "希望美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-589"
     },
     {
       "id": 90154,
@@ -294,7 +294,7 @@ window.actressData = {
         "もなみ铃",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-837"
     },
     {
       "id": 100852,
@@ -313,7 +313,7 @@ window.actressData = {
         "小栗操",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-526"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-526"
     },
     {
       "id": 92191,
@@ -329,7 +329,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-948"
     },
     {
       "id": 88788,
@@ -345,7 +345,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-292"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-292"
     },
     {
       "id": 91379,
@@ -361,7 +361,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHUC-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-041"
     },
     {
       "id": 91345,
@@ -387,7 +387,7 @@ window.actressData = {
         "安倍亜沙美",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-136"
     },
     {
       "id": 78288,
@@ -404,7 +404,7 @@ window.actressData = {
         "市川りく",
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVCAO-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-002"
     },
     {
       "id": 87797,
@@ -420,7 +420,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKGP-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKGP-001"
     },
     {
       "id": 87171,
@@ -441,7 +441,7 @@ window.actressData = {
         "小栗操",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAGP-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAGP-283"
     },
     {
       "id": 90791,
@@ -457,7 +457,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BABM-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BABM-017"
     },
     {
       "id": 77566,
@@ -476,7 +476,7 @@ window.actressData = {
         "日森一",
         "向理来"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-250"
     },
     {
       "id": 68107,
@@ -492,7 +492,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PED-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PED-027"
     },
     {
       "id": 100525,
@@ -508,7 +508,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-106"
     },
     {
       "id": 85437,
@@ -525,7 +525,7 @@ window.actressData = {
         "小栗操",
         "岬梓沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-694"
     },
     {
       "id": 69034,
@@ -542,7 +542,7 @@ window.actressData = {
         "松本一香",
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-695"
     },
     {
       "id": 84614,
@@ -558,7 +558,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-223"
     },
     {
       "id": 66862,
@@ -574,7 +574,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-030"
     },
     {
       "id": 85747,
@@ -591,7 +591,7 @@ window.actressData = {
         "小栗操",
         "本田さとみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-680"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-680"
     },
     {
       "id": 88071,
@@ -609,7 +609,7 @@ window.actressData = {
         "小栗操",
         "枢木葵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-217"
     },
     {
       "id": 84104,
@@ -626,7 +626,7 @@ window.actressData = {
         "小栗操",
         "浜崎真绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-590"
     },
     {
       "id": 84229,
@@ -644,7 +644,7 @@ window.actressData = {
         "小栗操",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-011"
     },
     {
       "id": 86659,
@@ -662,7 +662,7 @@ window.actressData = {
         "竹田夢",
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-090"
     },
     {
       "id": 85311,
@@ -678,7 +678,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-651"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-651"
     },
     {
       "id": 86130,
@@ -695,7 +695,7 @@ window.actressData = {
         "小栗操",
         "花宫レイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-674"
     },
     {
       "id": 85638,
@@ -711,7 +711,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-510"
     },
     {
       "id": 86521,
@@ -727,7 +727,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-820"
     },
     {
       "id": 80865,
@@ -743,7 +743,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1229"
     },
     {
       "id": 81165,
@@ -763,7 +763,7 @@ window.actressData = {
         "久留木玲",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-215"
     },
     {
       "id": 85781,
@@ -780,7 +780,7 @@ window.actressData = {
         "小栗操",
         "二の宫すずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-641"
     },
     {
       "id": 84838,
@@ -799,7 +799,7 @@ window.actressData = {
         "久留木玲",
         "永濑唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-075"
     },
     {
       "id": 80776,
@@ -816,7 +816,7 @@ window.actressData = {
         "姫咲華",
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-813"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-813"
     },
     {
       "id": 80775,
@@ -832,7 +832,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-193"
     },
     {
       "id": 69866,
@@ -848,7 +848,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=USAG-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-042"
     },
     {
       "id": 84103,
@@ -866,7 +866,7 @@ window.actressData = {
         "雫月心桜",
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-331"
     },
     {
       "id": 84831,
@@ -883,7 +883,7 @@ window.actressData = {
         "小栗操",
         "水沢つぐみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-171"
     },
     {
       "id": 84580,
@@ -899,7 +899,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-100"
     },
     {
       "id": 80301,
@@ -919,7 +919,7 @@ window.actressData = {
         "八乃翼",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-659"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-659"
     },
     {
       "id": 84870,
@@ -935,7 +935,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-518"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-518"
     },
     {
       "id": 79971,
@@ -951,7 +951,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-346"
     },
     {
       "id": 79930,
@@ -967,7 +967,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-170"
     },
     {
       "id": 79929,
@@ -984,7 +984,7 @@ window.actressData = {
         "沙月芽衣",
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-488"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-488"
     },
     {
       "id": 80016,
@@ -1004,7 +1004,7 @@ window.actressData = {
         "左慈半造",
         "永濑唯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-214"
     },
     {
       "id": 79792,
@@ -1021,7 +1021,7 @@ window.actressData = {
         "小栗操",
         "久留木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-195"
     },
     {
       "id": 79528,
@@ -1038,7 +1038,7 @@ window.actressData = {
         "小栗操",
         "柳井める"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-179"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-179"
     },
     {
       "id": 88324,
@@ -1057,7 +1057,7 @@ window.actressData = {
         "及川大智",
         "香乃萌音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-281"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-281"
     },
     {
       "id": 88206,
@@ -1073,7 +1073,7 @@ window.actressData = {
       "actress": [
         "小栗操"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-113"
     },
     {
       "id": 70654,
@@ -1090,7 +1090,7 @@ window.actressData = {
         "小栗操",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDAB-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-157"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "秋本詩音",
         "阳木かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-331"
     },
     {
       "id": 76828,
@@ -53,7 +53,7 @@ window.actressData = {
         "茜はるか",
         "手岛知世"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-105"
     },
     {
       "id": 77031,
@@ -72,7 +72,7 @@ window.actressData = {
         "御坂莉亚",
         "阳木かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-433"
     },
     {
       "id": 69602,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "阳木かれん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YST-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-168"
     },
     {
       "id": 88174,
@@ -112,7 +112,7 @@ window.actressData = {
         "凉美ほのか",
         "一ノ瀬梓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPV-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPV-021"
     },
     {
       "id": 107169,
@@ -131,7 +131,7 @@ window.actressData = {
         "加贺美シュナ",
         "みづのみう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-034"
     }
   ]
 };

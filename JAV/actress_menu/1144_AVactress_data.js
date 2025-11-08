@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "宮野櫻"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGOLD-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-040"
     }
   ]
 };

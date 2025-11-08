@@ -33,7 +33,7 @@ window.actressData = {
         "橘瑪麗",
         "长瀬広臣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-363"
     },
     {
       "id": 81623,
@@ -50,7 +50,7 @@ window.actressData = {
         "宫村ななこ",
         "长瀬広臣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-351"
     },
     {
       "id": 81640,
@@ -67,7 +67,7 @@ window.actressData = {
         "山井すず",
         "长瀬広臣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-350"
     },
     {
       "id": 81699,
@@ -86,7 +86,7 @@ window.actressData = {
         "有马芳彦",
         "一彻（铃木一彻）"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-2801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2801"
     },
     {
       "id": 76191,
@@ -103,7 +103,7 @@ window.actressData = {
         "赤瀬尚子",
         "长瀬広臣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-338"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "姫宮みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TENN-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-033"
     }
   ]
 };

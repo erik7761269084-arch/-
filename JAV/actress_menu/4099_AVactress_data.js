@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "梦乃美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APGH-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-007"
     },
     {
       "id": 88326,
@@ -51,7 +51,7 @@ window.actressData = {
         "知念亜弥芽",
         "七瀬ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-241"
     },
     {
       "id": 107278,
@@ -69,7 +69,7 @@ window.actressData = {
         "桐谷奈緒",
         "梦乃美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HGOT-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-045"
     },
     {
       "id": 83062,
@@ -92,7 +92,7 @@ window.actressData = {
         "梦乃美咲",
         "一乃瀬るりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARM-834"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-834"
     },
     {
       "id": 71011,
@@ -110,7 +110,7 @@ window.actressData = {
         "水无瀬怜奈",
         "梦乃美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-620"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "有村梨沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AKA-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKA-066"
     },
     {
       "id": 87956,
@@ -51,7 +51,7 @@ window.actressData = {
         "梁井一",
         "有村梨沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DIC-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-055"
     }
   ]
 };

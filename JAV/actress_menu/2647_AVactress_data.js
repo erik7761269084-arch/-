@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "岡田奈々"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-591"
     }
   ]
 };

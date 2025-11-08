@@ -66,7 +66,7 @@ window.actressData = {
         "純白彩永",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-301"
     },
     {
       "id": 3992,
@@ -83,7 +83,7 @@ window.actressData = {
         "純白彩永",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-272"
     }
   ]
 };

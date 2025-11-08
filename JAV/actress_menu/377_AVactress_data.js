@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WO-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WO-022"
     },
     {
       "id": 5946,
@@ -74,7 +74,7 @@ window.actressData = {
         "梅川ことね",
         "戸崎めく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-386"
     },
     {
       "id": 6352,
@@ -92,7 +92,7 @@ window.actressData = {
         "一色さら",
         "栄川乃亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-388"
     },
     {
       "id": 6348,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MILK-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-244"
     },
     {
       "id": 6489,
@@ -125,7 +125,7 @@ window.actressData = {
         "一色さら",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-618"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-618"
     },
     {
       "id": 7322,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOD-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-036"
     },
     {
       "id": 8357,
@@ -157,7 +157,7 @@ window.actressData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENZ-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-042"
     },
     {
       "id": 75718,
@@ -173,7 +173,7 @@ window.actressData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OTIN-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OTIN-011"
     },
     {
       "id": 9876,
@@ -189,7 +189,7 @@ window.actressData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-184"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-184"
     },
     {
       "id": 77200,
@@ -205,7 +205,7 @@ window.actressData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GARA-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GARA-005"
     },
     {
       "id": 16485,
@@ -222,7 +222,7 @@ window.actressData = {
         "一色さら",
         "ハメ鳥の人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-601"
     },
     {
       "id": 16512,
@@ -238,7 +238,7 @@ window.actressData = {
       "actress": [
         "一色さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-572"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-572"
     }
   ]
 };

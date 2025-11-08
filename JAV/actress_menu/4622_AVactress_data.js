@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "马场のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-011"
     },
     {
       "id": 78773,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "马场のん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-042"
     }
   ]
 };

@@ -59,7 +59,7 @@ window.actressData = {
         "胎尼",
         "東雲怜弥"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSA-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSA-001"
     }
   ]
 };

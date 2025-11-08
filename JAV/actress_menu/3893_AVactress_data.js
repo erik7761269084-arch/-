@@ -34,7 +34,7 @@ window.actressData = {
         "篠原りこ",
         "碓冰莲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-994"
     },
     {
       "id": 80666,
@@ -51,7 +51,7 @@ window.actressData = {
         "沙月惠奈",
         "篠原りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-204"
     },
     {
       "id": 85665,
@@ -72,7 +72,7 @@ window.actressData = {
         "篠原りこ",
         "二の宫すずか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKD-469"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-469"
     },
     {
       "id": 86838,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "篠原りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-212"
     },
     {
       "id": 88339,
@@ -108,7 +108,7 @@ window.actressData = {
         "舞奈みく",
         "希望光"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-976"
     },
     {
       "id": 102325,
@@ -131,7 +131,7 @@ window.actressData = {
         "浅宫ちなつ",
         "月原和奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-090"
     },
     {
       "id": 69317,
@@ -149,7 +149,7 @@ window.actressData = {
         "篠原りこ",
         "弘崎ゆみな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-461"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-461"
     }
   ]
 };

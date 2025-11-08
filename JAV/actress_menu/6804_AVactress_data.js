@@ -34,7 +34,7 @@ window.actressData = {
         "浅乃ハルミ",
         "舞野まや"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-276"
     }
   ]
 };

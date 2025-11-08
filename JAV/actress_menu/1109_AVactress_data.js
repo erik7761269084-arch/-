@@ -75,7 +75,7 @@ window.actressData = {
         "水沢真树",
         "椎名绫"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-419"
     },
     {
       "id": 61905,
@@ -94,7 +94,7 @@ window.actressData = {
         "澤乃明日香",
         "山本かをり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEZ-803"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-803"
     },
     {
       "id": 7262,
@@ -114,7 +114,7 @@ window.actressData = {
         "藤宮櫻花",
         "佐伯春菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-371"
     },
     {
       "id": 74593,
@@ -134,7 +134,7 @@ window.actressData = {
         "吉原日出子",
         "间宫志乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-350"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-350"
     },
     {
       "id": 88892,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "椎名綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UKH-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UKH-029"
     },
     {
       "id": 91645,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "椎名綾"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-193"
     }
   ]
 };

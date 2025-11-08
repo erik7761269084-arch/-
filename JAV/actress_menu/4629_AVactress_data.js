@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "松本みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONE-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONE-247"
     },
     {
       "id": 88257,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "松本みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUTA-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-106"
     }
   ]
 };

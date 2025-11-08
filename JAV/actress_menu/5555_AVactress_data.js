@@ -33,7 +33,7 @@ window.actressData = {
         "秋元美織",
         "五十嵐ふゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1186"
     }
   ]
 };

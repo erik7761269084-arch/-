@@ -58,7 +58,7 @@ window.actressData = {
         "上戶真理",
         "一条美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MADM-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADM-206"
     },
     {
       "id": 66363,
@@ -76,7 +76,7 @@ window.actressData = {
         "上戶真理",
         "野上しおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOOD-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOOD-502"
     },
     {
       "id": 72008,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-285"
     },
     {
       "id": 9159,
@@ -118,7 +118,7 @@ window.actressData = {
         "工藤りおな",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-661"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-661"
     },
     {
       "id": 9855,
@@ -134,7 +134,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATYA-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-015"
     },
     {
       "id": 9830,
@@ -150,7 +150,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1360"
     },
     {
       "id": 77186,
@@ -166,7 +166,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-607"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-607"
     },
     {
       "id": 10531,
@@ -183,7 +183,7 @@ window.actressData = {
         "上戶真理",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-576"
     },
     {
       "id": 12905,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-841"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-841"
     },
     {
       "id": 92025,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-283"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-283"
     },
     {
       "id": 91316,
@@ -232,7 +232,7 @@ window.actressData = {
         "上戶真理",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DKD-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DKD-012"
     },
     {
       "id": 91184,
@@ -249,7 +249,7 @@ window.actressData = {
         "上戶真理",
         "まーち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-589"
     },
     {
       "id": 91366,
@@ -265,7 +265,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHUC-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-045"
     },
     {
       "id": 92196,
@@ -281,7 +281,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-953"
     },
     {
       "id": 90399,
@@ -297,7 +297,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPR-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPR-018"
     },
     {
       "id": 77517,
@@ -313,7 +313,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-258"
     },
     {
       "id": 91015,
@@ -329,7 +329,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-299"
     },
     {
       "id": 77595,
@@ -345,7 +345,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-211"
     },
     {
       "id": 100536,
@@ -361,7 +361,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-161"
     },
     {
       "id": 106972,
@@ -377,7 +377,7 @@ window.actressData = {
       "actress": [
         "上戶真理"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-137"
     }
   ]
 };

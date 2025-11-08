@@ -39,7 +39,7 @@ window.actressData = {
         "なつめ爱梨",
         "高城姫华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-832"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-832"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "桜井萌",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-816"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-816"
     },
     {
       "id": 82972,
@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "桜井萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-514"
     },
     {
       "id": 86235,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "桜井萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOJU-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOJU-016"
     },
     {
       "id": 86894,
@@ -91,7 +91,7 @@ window.actressData = {
         "爱华みれい",
         "桜井萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-586"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-586"
     },
     {
       "id": 77014,
@@ -112,7 +112,7 @@ window.actressData = {
         "夏目さゆり",
         "夏日风"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-047"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-047"
     },
     {
       "id": 70777,
@@ -129,7 +129,7 @@ window.actressData = {
         "鲛岛",
         "桜井萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-208"
     }
   ]
 };

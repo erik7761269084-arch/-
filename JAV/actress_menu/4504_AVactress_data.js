@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "鹫尾明美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1254"
     },
     {
       "id": 83000,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "鹫尾明美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-144"
     },
     {
       "id": 75083,
@@ -66,7 +66,7 @@ window.actressData = {
         "鹫尾明美",
         "春日部一美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3335"
     }
   ]
 };

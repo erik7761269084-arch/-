@@ -34,7 +34,7 @@ window.actressData = {
         "橘花音",
         "香坂のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-022"
     },
     {
       "id": 88379,
@@ -52,7 +52,7 @@ window.actressData = {
         "しみけん",
         "香坂のあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-207"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-207"
     }
   ]
 };

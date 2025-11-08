@@ -39,7 +39,7 @@ window.actressData = {
         "一二三铃",
         "泡沫ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-059"
     },
     {
       "id": 83694,
@@ -62,7 +62,7 @@ window.actressData = {
         "泡沫ゆうき",
         "真树凉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-116"
     },
     {
       "id": 73614,
@@ -82,7 +82,7 @@ window.actressData = {
         "七瀬もな",
         "泡沫ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NNPJ-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-356"
     },
     {
       "id": 73774,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "泡沫ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKH-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKH-002"
     },
     {
       "id": 82708,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "泡沫ゆうき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ARA-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-352"
     }
   ]
 };

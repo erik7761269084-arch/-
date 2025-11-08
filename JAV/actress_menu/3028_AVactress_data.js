@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONED-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONED-396"
     },
     {
       "id": 82506,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1514"
     },
     {
       "id": 103290,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-929"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-929"
     },
     {
       "id": 82462,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1504"
     },
     {
       "id": 82491,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1494"
     },
     {
       "id": 82476,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1464"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1464"
     },
     {
       "id": 72395,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1344"
     },
     {
       "id": 72394,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1333"
     },
     {
       "id": 106004,
@@ -162,7 +162,7 @@ window.actressData = {
         "麻美由真",
         "月野帯人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-673"
     },
     {
       "id": 72472,
@@ -178,7 +178,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1322"
     },
     {
       "id": 72465,
@@ -194,7 +194,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1312"
     },
     {
       "id": 103315,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1302"
     },
     {
       "id": 82492,
@@ -228,7 +228,7 @@ window.actressData = {
         "大岛丈",
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1267"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1267"
     },
     {
       "id": 63079,
@@ -245,7 +245,7 @@ window.actressData = {
         "しみけん",
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-594"
     },
     {
       "id": 99447,
@@ -261,7 +261,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-579"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-579"
     },
     {
       "id": 82488,
@@ -277,7 +277,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1230"
     },
     {
       "id": 82445,
@@ -293,7 +293,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1221"
     },
     {
       "id": 105847,
@@ -309,7 +309,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SOE-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-481"
     },
     {
       "id": 88316,
@@ -325,7 +325,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1126"
     },
     {
       "id": 106433,
@@ -341,7 +341,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1115"
     },
     {
       "id": 82504,
@@ -357,7 +357,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1086"
     },
     {
       "id": 107218,
@@ -373,7 +373,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-1069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1069"
     },
     {
       "id": 106429,
@@ -389,7 +389,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-973"
     },
     {
       "id": 83024,
@@ -405,7 +405,7 @@ window.actressData = {
       "actress": [
         "麻美由真"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DV-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-623"
     }
   ]
 };

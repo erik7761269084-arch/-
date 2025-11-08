@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "生驹みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-156"
     },
     {
       "id": 82770,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "生驹みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-910"
     },
     {
       "id": 82772,
@@ -65,7 +65,7 @@ window.actressData = {
         "玉木玲",
         "生驹みちる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-878"
     }
   ]
 };

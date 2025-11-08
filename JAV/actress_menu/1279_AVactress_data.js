@@ -50,7 +50,7 @@ window.actressData = {
         "白崎水麗",
         "石川陽波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-690"
     },
     {
       "id": 61736,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "石川陽波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MGMQ-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGMQ-155"
     },
     {
       "id": 61140,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "石川陽波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKK-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-096"
     },
     {
       "id": 66564,
@@ -103,7 +103,7 @@ window.actressData = {
         "爱花みちる",
         "辻めあり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-666"
     },
     {
       "id": 5775,
@@ -124,7 +124,7 @@ window.actressData = {
         "石川陽波",
         "山口由愛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-752"
     },
     {
       "id": 76770,
@@ -142,7 +142,7 @@ window.actressData = {
         "石川陽波",
         "長谷川古宵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENF-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-357"
     },
     {
       "id": 95322,
@@ -158,7 +158,7 @@ window.actressData = {
       "actress": [
         "石川陽波"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APNS-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-356"
     }
   ]
 };

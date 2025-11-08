@@ -41,7 +41,7 @@ window.actressData = {
         "奏自由",
         "星咲伶美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FAA-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAA-293"
     },
     {
       "id": 71856,
@@ -62,7 +62,7 @@ window.actressData = {
         "星咲伶美",
         "岬澪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATOM-352"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-352"
     },
     {
       "id": 88391,
@@ -78,7 +78,7 @@ window.actressData = {
       "actress": [
         "星咲伶美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-673"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-673"
     },
     {
       "id": 73355,
@@ -100,7 +100,7 @@ window.actressData = {
         "星咲伶美",
         "なつめ爱梨"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-181"
     },
     {
       "id": 70847,
@@ -119,7 +119,7 @@ window.actressData = {
         "海空花",
         "星咲伶美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-124"
     }
   ]
 };

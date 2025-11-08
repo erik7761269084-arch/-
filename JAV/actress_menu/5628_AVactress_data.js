@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "叶芽遥希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OMHD-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OMHD-031"
     },
     {
       "id": 90004,
@@ -50,7 +50,7 @@ window.actressData = {
         "鳳美優",
         "叶芽遥希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-506"
     }
   ]
 };

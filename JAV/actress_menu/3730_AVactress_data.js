@@ -36,7 +36,7 @@ window.actressData = {
         "内海みう",
         "青井いちご"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-520"
     },
     {
       "id": 67429,
@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "长谷川古宵"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-621"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-621"
     }
   ]
 };

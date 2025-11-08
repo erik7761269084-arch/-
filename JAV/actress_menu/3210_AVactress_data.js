@@ -40,7 +40,7 @@ window.actressData = {
       "actress": [
         "仁科百华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BTH-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTH-024"
     },
     {
       "id": 70401,
@@ -60,7 +60,7 @@ window.actressData = {
         "仁科百华",
         "亜希菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WSP-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-152"
     },
     {
       "id": 60568,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "仁科百华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-331"
     },
     {
       "id": 67880,
@@ -93,7 +93,7 @@ window.actressData = {
         "仁科百华",
         "北川瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-129"
     }
   ]
 };

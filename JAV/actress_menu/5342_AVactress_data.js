@@ -35,7 +35,7 @@ window.actressData = {
         "最上さゆき",
         "吉木美織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RDVHJ-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-151"
     }
   ]
 };

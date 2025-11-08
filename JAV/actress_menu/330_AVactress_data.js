@@ -93,7 +93,7 @@ window.actressData = {
         "二叶エマ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
       "id": 6842,
@@ -110,7 +110,7 @@ window.actressData = {
         "藍芽水月",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-738"
     },
     {
       "id": 7008,
@@ -128,7 +128,7 @@ window.actressData = {
         "ラビットけんと",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGOD-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-260"
     },
     {
       "id": 7146,
@@ -145,7 +145,7 @@ window.actressData = {
         "藍芽水月",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-438"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-438"
     },
     {
       "id": 14437,
@@ -163,7 +163,7 @@ window.actressData = {
         "ひょこり",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-177"
     },
     {
       "id": 16423,
@@ -180,7 +180,7 @@ window.actressData = {
         "藍芽水月",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-703"
     },
     {
       "id": 18732,
@@ -197,7 +197,7 @@ window.actressData = {
         "藍芽水月",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-773"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-773"
     },
     {
       "id": 19551,
@@ -213,7 +213,7 @@ window.actressData = {
       "actress": [
         "藍芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-767"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-767"
     }
   ]
 };

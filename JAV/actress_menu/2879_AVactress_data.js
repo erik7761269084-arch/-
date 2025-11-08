@@ -55,7 +55,7 @@ window.actressData = {
         "折原ゆかり",
         "朝雾ゆう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-319"
     },
     {
       "id": 75819,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "加山なつ子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-399"
     },
     {
       "id": 95096,
@@ -91,7 +91,7 @@ window.actressData = {
         "円城ひとみ",
         "柏木舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-145"
     },
     {
       "id": 91588,
@@ -108,7 +108,7 @@ window.actressData = {
         "加山なつ子",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-263"
     },
     {
       "id": 91605,
@@ -125,7 +125,7 @@ window.actressData = {
         "加山なつ子",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-230"
     },
     {
       "id": 88943,
@@ -151,7 +151,7 @@ window.actressData = {
         "樱井夕树",
         "北川りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-512"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-512"
     },
     {
       "id": 67146,
@@ -167,7 +167,7 @@ window.actressData = {
       "actress": [
         "加山なつ子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-135"
     },
     {
       "id": 86109,
@@ -184,7 +184,7 @@ window.actressData = {
         "加山なつ子",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-107"
     },
     {
       "id": 86095,
@@ -200,7 +200,7 @@ window.actressData = {
       "actress": [
         "加山なつ子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-097"
     },
     {
       "id": 86105,
@@ -217,7 +217,7 @@ window.actressData = {
         "加山なつ子",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-081"
     },
     {
       "id": 79220,
@@ -234,7 +234,7 @@ window.actressData = {
         "伊藤舞雪",
         "加山なつ子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-698"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-698"
     },
     {
       "id": 83475,
@@ -251,7 +251,7 @@ window.actressData = {
         "加山なつ子",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CESD-867"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-867"
     },
     {
       "id": 75588,
@@ -274,7 +274,7 @@ window.actressData = {
         "宫本纱央里",
         "竹内麻耶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-109"
     },
     {
       "id": 78055,
@@ -291,7 +291,7 @@ window.actressData = {
         "美谷朱里",
         "加山なつ子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-460"
     },
     {
       "id": 69405,
@@ -307,7 +307,7 @@ window.actressData = {
       "actress": [
         "加山なつ子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-090"
     }
   ]
 };

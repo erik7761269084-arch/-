@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "前田桃杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-091"
     },
     {
       "id": 106917,
@@ -71,7 +71,7 @@ window.actressData = {
       "actress": [
         "前田桃杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-300"
     },
     {
       "id": 88138,
@@ -88,7 +88,7 @@ window.actressData = {
         "前田桃杏",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-030"
     },
     {
       "id": 2019,
@@ -104,7 +104,7 @@ window.actressData = {
       "actress": [
         "前田桃杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-018"
     },
     {
       "id": 88113,
@@ -123,7 +123,7 @@ window.actressData = {
         "鲛岛",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-014"
     },
     {
       "id": 2039,
@@ -139,7 +139,7 @@ window.actressData = {
       "actress": [
         "前田桃杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MSFH-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-010"
     },
     {
       "id": 79136,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "前田桃杏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-926"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-926"
     }
   ]
 };

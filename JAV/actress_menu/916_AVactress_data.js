@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "石原青"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-843"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-843"
     },
     {
       "id": 67474,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "石原青"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-830"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-830"
     },
     {
       "id": 69634,
@@ -83,7 +83,7 @@ window.actressData = {
         "石原青",
         "スケザネヘイタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-821"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-821"
     },
     {
       "id": 7863,
@@ -101,7 +101,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-814"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-814"
     },
     {
       "id": 9440,
@@ -120,7 +120,7 @@ window.actressData = {
         "小田切ジュン",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-792"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-792"
     }
   ]
 };

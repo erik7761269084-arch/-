@@ -50,7 +50,7 @@ window.actressData = {
         "田中寧寧",
         "伊織羽音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRIN-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRIN-046"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "癒月うさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMRAA-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMRAA-308"
     }
   ]
 };

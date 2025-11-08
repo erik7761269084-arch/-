@@ -53,7 +53,7 @@ window.actressData = {
         "小田切ジュン",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-361"
     }
   ]
 };

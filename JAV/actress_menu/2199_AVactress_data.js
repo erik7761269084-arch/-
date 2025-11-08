@@ -46,7 +46,7 @@ window.actressData = {
       "actress": [
         "星奈茉奈花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LULU-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-370"
     },
     {
       "id": 95207,
@@ -64,7 +64,7 @@ window.actressData = {
         "星奈茉奈花",
         "加贺美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SORA-573"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-573"
     }
   ]
 };

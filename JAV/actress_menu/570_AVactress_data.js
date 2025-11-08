@@ -63,7 +63,7 @@ window.actressData = {
         "涼花くるみ",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-716"
     },
     {
       "id": 5648,
@@ -85,7 +85,7 @@ window.actressData = {
         "雙葉麗奈",
         "凉南佳奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
     },
     {
       "id": 6127,
@@ -103,7 +103,7 @@ window.actressData = {
         "葉月ひな",
         "水本葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-256"
     },
     {
       "id": 8340,
@@ -135,7 +135,7 @@ window.actressData = {
         "汐見唯",
         "加賀美真里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GNS-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     }
   ]
 };

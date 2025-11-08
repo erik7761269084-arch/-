@@ -65,7 +65,7 @@ window.actressData = {
         "杏可可",
         "夕雛エミリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-483"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-483"
     },
     {
       "id": 7389,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-230"
     },
     {
       "id": 70369,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMUS-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-095"
     },
     {
       "id": 7785,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQDE-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQDE-008"
     },
     {
       "id": 8750,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNAM-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-063"
     },
     {
       "id": 9169,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APAK-296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-296"
     },
     {
       "id": 76090,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IESM-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESM-076"
     },
     {
       "id": 76772,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNEW-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEW-004"
     },
     {
       "id": 10246,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NPJS-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-094"
     },
     {
       "id": 16909,
@@ -210,7 +210,7 @@ window.actressData = {
         "杏可可",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-191"
     },
     {
       "id": 17364,
@@ -226,7 +226,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-162"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-162"
     },
     {
       "id": 90685,
@@ -242,7 +242,7 @@ window.actressData = {
       "actress": [
         "杏可可"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OAE-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OAE-250"
     },
     {
       "id": 17934,
@@ -259,7 +259,7 @@ window.actressData = {
         "杏可可",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-168"
     },
     {
       "id": 18417,
@@ -276,7 +276,7 @@ window.actressData = {
         "杏可可",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-147"
     },
     {
       "id": 106901,
@@ -293,7 +293,7 @@ window.actressData = {
         "杏可可",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-146"
     }
   ]
 };

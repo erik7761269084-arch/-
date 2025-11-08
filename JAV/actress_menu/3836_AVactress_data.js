@@ -48,7 +48,7 @@ window.actressData = {
         "市川つばさ",
         "佐々木えな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-732"
     },
     {
       "id": 83802,
@@ -68,7 +68,7 @@ window.actressData = {
         "山口叶瑠",
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-065"
     },
     {
       "id": 83304,
@@ -87,7 +87,7 @@ window.actressData = {
         "有花萌",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-290"
     },
     {
       "id": 83820,
@@ -108,7 +108,7 @@ window.actressData = {
         "有花萌",
         "大原えりか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-288"
     },
     {
       "id": 83792,
@@ -128,7 +128,7 @@ window.actressData = {
         "山口叶瑠",
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-062"
     },
     {
       "id": 81990,
@@ -147,7 +147,7 @@ window.actressData = {
         "有花萌",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-061"
     },
     {
       "id": 83227,
@@ -166,7 +166,7 @@ window.actressData = {
         "有花萌",
         "河西乃爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIM-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-058"
     },
     {
       "id": 81898,
@@ -182,7 +182,7 @@ window.actressData = {
       "actress": [
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-094"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-094"
     },
     {
       "id": 83819,
@@ -198,7 +198,7 @@ window.actressData = {
       "actress": [
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-072"
     },
     {
       "id": 94915,
@@ -217,7 +217,7 @@ window.actressData = {
         "野々宫兰",
         "七瀬もな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-194"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-194"
     },
     {
       "id": 83064,
@@ -233,7 +233,7 @@ window.actressData = {
       "actress": [
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-125"
     },
     {
       "id": 72136,
@@ -252,7 +252,7 @@ window.actressData = {
         "若槻さくら",
         "近藤れおな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-188"
     },
     {
       "id": 69869,
@@ -268,7 +268,7 @@ window.actressData = {
       "actress": [
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-450"
     },
     {
       "id": 68562,
@@ -284,7 +284,7 @@ window.actressData = {
       "actress": [
         "有花萌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-415"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-415"
     }
   ]
 };

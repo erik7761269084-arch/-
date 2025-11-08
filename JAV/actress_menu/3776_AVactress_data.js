@@ -37,7 +37,7 @@ window.actressData = {
         "君岛美绪",
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-200"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-200"
     },
     {
       "id": 80215,
@@ -56,7 +56,7 @@ window.actressData = {
         "花宫あむ",
         "鹰宫ゆい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21650"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21650"
     },
     {
       "id": 80404,
@@ -75,7 +75,7 @@ window.actressData = {
         "若宫はずき",
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-156"
     },
     {
       "id": 81360,
@@ -92,7 +92,7 @@ window.actressData = {
         "木下日葵",
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBAN-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-336"
     },
     {
       "id": 88350,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-181"
     },
     {
       "id": 68069,
@@ -124,7 +124,7 @@ window.actressData = {
       "actress": [
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-787"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-787"
     },
     {
       "id": 81372,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-800"
     },
     {
       "id": 88478,
@@ -158,7 +158,7 @@ window.actressData = {
         "玉木玲",
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-728"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-728"
     },
     {
       "id": 76017,
@@ -176,7 +176,7 @@ window.actressData = {
         "玉木玲",
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-672"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-672"
     },
     {
       "id": 79149,
@@ -192,7 +192,7 @@ window.actressData = {
       "actress": [
         "花宫あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-439"
     }
   ]
 };

@@ -38,7 +38,7 @@ window.actressData = {
         "芹泽飞鸟",
         "水川まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIV-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIV-040"
     }
   ]
 };

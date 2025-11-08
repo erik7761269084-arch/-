@@ -33,7 +33,7 @@ window.actressData = {
         "ゆうき",
         "绫音うた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KMHR-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-085"
     }
   ]
 };

@@ -48,7 +48,7 @@ window.actressData = {
         "新田好実",
         "二叶エマ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-333"
     },
     {
       "id": 6188,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "新田好実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-313"
     },
     {
       "id": 7634,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "新田好実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-305"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-305"
     },
     {
       "id": 8350,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "新田好実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-298"
     },
     {
       "id": 9632,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "新田好実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-290"
     },
     {
       "id": 10363,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "新田好実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-287"
     },
     {
       "id": 94170,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "新田好実"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-271"
     }
   ]
 };

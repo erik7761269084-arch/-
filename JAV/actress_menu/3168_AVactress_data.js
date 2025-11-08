@@ -37,7 +37,7 @@ window.actressData = {
         "杉城かおる",
         "岛田响子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-270"
     },
     {
       "id": 89146,
@@ -54,7 +54,7 @@ window.actressData = {
         "北条麻妃",
         "伊藤まい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-223"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "安土结"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-637"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-637"
     },
     {
       "id": 103385,
@@ -49,7 +49,7 @@ window.actressData = {
         "田渊正浩",
         "安土结"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-104"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "吉田彩音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-699"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-699"
     }
   ]
 };

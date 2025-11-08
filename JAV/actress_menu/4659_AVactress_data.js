@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "桐谷しほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-602"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-602"
     },
     {
       "id": 76733,
@@ -49,7 +49,7 @@ window.actressData = {
         "岩下たろう",
         "桐谷しほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-019"
     },
     {
       "id": 83477,
@@ -68,7 +68,7 @@ window.actressData = {
         "前田いろは",
         "桐谷しほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-062"
     },
     {
       "id": 82797,
@@ -87,7 +87,7 @@ window.actressData = {
         "大岛丈",
         "桐谷しほ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-959"
     }
   ]
 };

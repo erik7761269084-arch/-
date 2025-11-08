@@ -34,7 +34,7 @@ window.actressData = {
         "イセドン内村",
         "森高かすみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FINH-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FINH-034"
     }
   ]
 };

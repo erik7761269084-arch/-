@@ -39,7 +39,7 @@ window.actressData = {
         "美织舞",
         "はないしずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RMER-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-030"
     },
     {
       "id": 85214,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "はないしずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEKO-246"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKO-246"
     },
     {
       "id": 86188,
@@ -72,7 +72,7 @@ window.actressData = {
         "はないしずく",
         "一宫みかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-104"
     },
     {
       "id": 62730,
@@ -90,7 +90,7 @@ window.actressData = {
         "はないしずく",
         "加贺美さら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNBL-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-073"
     },
     {
       "id": 97788,
@@ -112,7 +112,7 @@ window.actressData = {
         "舞咲璃",
         "佐々波エリカ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-041"
     },
     {
       "id": 80291,
@@ -128,7 +128,7 @@ window.actressData = {
       "actress": [
         "はないしずく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAHP-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAHP-097"
     }
   ]
 };

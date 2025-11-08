@@ -34,7 +34,7 @@ window.actressData = {
         "前島絵菜",
         "早川ひかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FCP-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCP-116"
     }
   ]
 };

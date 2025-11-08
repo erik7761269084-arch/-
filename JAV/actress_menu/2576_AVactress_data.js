@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "黒崎あすな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-381"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-381"
     }
   ]
 };

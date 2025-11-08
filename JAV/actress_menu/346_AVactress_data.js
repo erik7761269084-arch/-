@@ -104,7 +104,7 @@ window.actressData = {
         "安倍亜沙美",
         "もなみ铃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-933"
     },
     {
       "id": 62641,
@@ -120,7 +120,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-152"
     },
     {
       "id": 5260,
@@ -136,7 +136,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKYS-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKYS-014"
     },
     {
       "id": 5259,
@@ -152,7 +152,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSTU-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-009"
     },
     {
       "id": 3827,
@@ -169,7 +169,7 @@ window.actressData = {
         "瀬那瑠美奈",
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-380"
     },
     {
       "id": 71903,
@@ -185,7 +185,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FJIN-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-062"
     },
     {
       "id": 7861,
@@ -204,7 +204,7 @@ window.actressData = {
         "一条美緒",
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLUB-867"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-867"
     },
     {
       "id": 8656,
@@ -220,7 +220,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-460"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-460"
     },
     {
       "id": 10558,
@@ -236,7 +236,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-369"
     },
     {
       "id": 12762,
@@ -252,7 +252,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKMP-571"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-571"
     },
     {
       "id": 93684,
@@ -268,7 +268,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PED-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PED-043"
     },
     {
       "id": 88723,
@@ -284,7 +284,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WO-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WO-014"
     },
     {
       "id": 90622,
@@ -307,7 +307,7 @@ window.actressData = {
         "佐知子",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-262"
     },
     {
       "id": 107172,
@@ -323,7 +323,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-664"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-664"
     },
     {
       "id": 67414,
@@ -339,7 +339,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVSA-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-231"
     },
     {
       "id": 90876,
@@ -355,7 +355,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-236"
     },
     {
       "id": 85170,
@@ -371,7 +371,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KATU-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KATU-105"
     },
     {
       "id": 84679,
@@ -387,7 +387,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-448"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-448"
     },
     {
       "id": 85034,
@@ -403,7 +403,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-406"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-406"
     },
     {
       "id": 68935,
@@ -420,7 +420,7 @@ window.actressData = {
         "蘭華",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-538"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-538"
     },
     {
       "id": 85667,
@@ -436,7 +436,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-027"
     },
     {
       "id": 69847,
@@ -452,7 +452,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-140"
     },
     {
       "id": 86016,
@@ -468,7 +468,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-469"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-469"
     },
     {
       "id": 84697,
@@ -484,7 +484,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-402"
     },
     {
       "id": 86621,
@@ -500,7 +500,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-136"
     },
     {
       "id": 86101,
@@ -516,7 +516,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-076"
     },
     {
       "id": 85279,
@@ -532,7 +532,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-550"
     },
     {
       "id": 62247,
@@ -548,7 +548,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-926"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-926"
     },
     {
       "id": 93051,
@@ -564,7 +564,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-301"
     },
     {
       "id": 93138,
@@ -580,7 +580,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-905"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-905"
     },
     {
       "id": 91460,
@@ -597,7 +597,7 @@ window.actressData = {
         "蘭華",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-780"
     },
     {
       "id": 71115,
@@ -614,7 +614,7 @@ window.actressData = {
         "蘭華",
         "卯水咲流"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTR-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-023"
     },
     {
       "id": 1075,
@@ -630,7 +630,7 @@ window.actressData = {
       "actress": [
         "蘭華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1510"
     }
   ]
 };

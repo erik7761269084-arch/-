@@ -33,7 +33,7 @@ window.actressData = {
         "竹内梨恵",
         "林愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PAP-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAP-245"
     },
     {
       "id": 91549,
@@ -50,7 +50,7 @@ window.actressData = {
         "林愛華",
         "イッセイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-282"
     },
     {
       "id": 90682,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "林愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NUKA-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-065"
     },
     {
       "id": 92106,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "林愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAAD-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-069"
     },
     {
       "id": 107305,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "林愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JURA-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-075"
     },
     {
       "id": 91098,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "林愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JRZE-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-149"
     }
   ]
 };

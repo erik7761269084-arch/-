@@ -34,7 +34,7 @@ window.actressData = {
         "若宫はずき",
         "神咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-592"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-592"
     },
     {
       "id": 67023,
@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "神咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKDV-638"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-638"
     },
     {
       "id": 87922,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "神咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRSS-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-088"
     },
     {
       "id": 82187,
@@ -86,7 +86,7 @@ window.actressData = {
         "鹰宫ゆい",
         "加贺美まり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TUS-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUS-083"
     },
     {
       "id": 81698,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "神咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-032"
     },
     {
       "id": 76893,
@@ -124,7 +124,7 @@ window.actressData = {
         "芹泽飞鸟",
         "水川まりこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIV-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIV-040"
     },
     {
       "id": 75199,
@@ -143,7 +143,7 @@ window.actressData = {
         "タツ",
         "神咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KBI-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-026"
     }
   ]
 };

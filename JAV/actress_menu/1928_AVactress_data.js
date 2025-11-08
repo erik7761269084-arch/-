@@ -41,7 +41,7 @@ window.actressData = {
       "actress": [
         "悠木あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BASJ-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASJ-026"
     },
     {
       "id": 90090,
@@ -58,7 +58,7 @@ window.actressData = {
         "小早川怜子",
         "悠木あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RAPD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RAPD-005"
     },
     {
       "id": 83660,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "悠木あやね"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KNMD-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMD-074"
     }
   ]
 };

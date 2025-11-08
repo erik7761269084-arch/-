@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "Sumire"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YKMC-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YKMC-002"
     },
     {
       "id": 77938,
@@ -55,7 +55,7 @@ window.actressData = {
         "宫泽みほ",
         "椿くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-248"
     }
   ]
 };

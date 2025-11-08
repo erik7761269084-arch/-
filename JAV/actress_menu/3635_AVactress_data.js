@@ -38,7 +38,7 @@ window.actressData = {
         "橋本涼",
         "凰香奈芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-219"
     },
     {
       "id": 107383,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "粒楽あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-337"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-337"
     },
     {
       "id": 66782,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "粒楽あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CHN-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-219"
     },
     {
       "id": 72741,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "粒楽あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-301"
     },
     {
       "id": 87243,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "粒楽あむ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-272"
     }
   ]
 };

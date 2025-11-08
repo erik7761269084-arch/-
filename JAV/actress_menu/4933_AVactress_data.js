@@ -36,7 +36,7 @@ window.actressData = {
         "竹内夏希",
         "中条铃华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-228"
     },
     {
       "id": 79946,
@@ -55,7 +55,7 @@ window.actressData = {
         "二の宫すずか",
         "中条铃华"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTB-591"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-591"
     }
   ]
 };

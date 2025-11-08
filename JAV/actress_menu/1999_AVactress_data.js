@@ -55,7 +55,7 @@ window.actressData = {
         "逢澤理衣奈",
         "仲村りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-714"
     }
   ]
 };

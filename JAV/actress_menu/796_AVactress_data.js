@@ -44,7 +44,7 @@ window.actressData = {
         "千石もなか",
         "長谷川礼奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DHLD-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-011"
     },
     {
       "id": 93418,
@@ -60,7 +60,7 @@ window.actressData = {
       "actress": [
         "長谷川礼奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NEOS-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOS-009"
     },
     {
       "id": 77988,
@@ -78,7 +78,7 @@ window.actressData = {
         "響乃詩",
         "長谷川礼奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SW-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-956"
     },
     {
       "id": 14081,
@@ -94,7 +94,7 @@ window.actressData = {
       "actress": [
         "長谷川礼奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-306"
     },
     {
       "id": 14563,
@@ -112,7 +112,7 @@ window.actressData = {
         "響乃詩",
         "長谷川礼奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGKI-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-020"
     },
     {
       "id": 13253,
@@ -130,7 +130,7 @@ window.actressData = {
         "月乃露娜",
         "長谷川礼奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SGKI-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-023"
     },
     {
       "id": 100915,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "長谷川礼奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-481"
     }
   ]
 };

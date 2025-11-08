@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "石原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AED-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AED-221"
     },
     {
       "id": 88879,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "石原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1196"
     },
     {
       "id": 90174,
@@ -65,7 +65,7 @@ window.actressData = {
         "三云ゆり子",
         "石原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RD-1191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-1191"
     },
     {
       "id": 88808,
@@ -82,7 +82,7 @@ window.actressData = {
         "三云ゆり子",
         "石原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TMRD-1191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TMRD-1191"
     },
     {
       "id": 91577,
@@ -99,7 +99,7 @@ window.actressData = {
         "みっちー",
         "石原ゆかり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-219"
     }
   ]
 };

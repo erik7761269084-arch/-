@@ -39,7 +39,7 @@ window.actressData = {
       "actress": [
         "沢田ユカリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0690"
     },
     {
       "id": 560,
@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "沢田ユカリ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0668"
     }
   ]
 };

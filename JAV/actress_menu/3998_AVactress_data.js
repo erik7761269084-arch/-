@@ -45,7 +45,7 @@ window.actressData = {
         "黒瀬萌衣",
         "结城ありさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-476"
     },
     {
       "id": 86955,
@@ -64,7 +64,7 @@ window.actressData = {
         "宫沢ゆかり",
         "夏希みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-490"
     },
     {
       "id": 71622,
@@ -84,7 +84,7 @@ window.actressData = {
         "茅原里恋",
         "槇原爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BDSR-287"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-287"
     },
     {
       "id": 72733,
@@ -103,7 +103,7 @@ window.actressData = {
         "大岛丈",
         "夏希みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-134"
     },
     {
       "id": 70280,
@@ -122,7 +122,7 @@ window.actressData = {
         "逢沢るる",
         "夏希みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMU-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-320"
     }
   ]
 };

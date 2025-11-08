@@ -35,7 +35,7 @@ window.actressData = {
         "白川柚子",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-204"
     },
     {
       "id": 88959,
@@ -57,7 +57,7 @@ window.actressData = {
         "佐知子",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-504"
     },
     {
       "id": 91333,
@@ -80,7 +80,7 @@ window.actressData = {
         "浜崎真绪",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-130"
     },
     {
       "id": 67895,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-325"
     },
     {
       "id": 67622,
@@ -113,7 +113,7 @@ window.actressData = {
         "白桃はな",
         "中山琴叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-686"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-686"
     },
     {
       "id": 68486,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-798"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-798"
     },
     {
       "id": 66944,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-535"
     },
     {
       "id": 69940,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-112"
     },
     {
       "id": 106474,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-744"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-744"
     },
     {
       "id": 68142,
@@ -193,7 +193,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-736"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-736"
     },
     {
       "id": 85386,
@@ -209,7 +209,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-710"
     },
     {
       "id": 89727,
@@ -225,7 +225,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROOM-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-045"
     },
     {
       "id": 90251,
@@ -241,7 +241,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-680"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-680"
     },
     {
       "id": 68870,
@@ -258,7 +258,7 @@ window.actressData = {
         "タイ",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-205"
     },
     {
       "id": 66967,
@@ -274,7 +274,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-529"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-529"
     },
     {
       "id": 87536,
@@ -291,7 +291,7 @@ window.actressData = {
         "南佳也",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-193"
     },
     {
       "id": 85374,
@@ -308,7 +308,7 @@ window.actressData = {
         "松本一香",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-679"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-679"
     },
     {
       "id": 90155,
@@ -328,7 +328,7 @@ window.actressData = {
         "佐伯由美香",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-803"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-803"
     },
     {
       "id": 89726,
@@ -345,7 +345,7 @@ window.actressData = {
         "森日向子",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROOM-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-043"
     },
     {
       "id": 87313,
@@ -370,7 +370,7 @@ window.actressData = {
         "安倍亜沙美",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-115"
     },
     {
       "id": 67771,
@@ -386,7 +386,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-516"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-516"
     },
     {
       "id": 85601,
@@ -402,7 +402,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-218"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-218"
     },
     {
       "id": 85338,
@@ -418,7 +418,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-662"
     },
     {
       "id": 86614,
@@ -434,7 +434,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-180"
     },
     {
       "id": 66844,
@@ -450,7 +450,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-397"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-397"
     },
     {
       "id": 84154,
@@ -466,7 +466,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-384"
     },
     {
       "id": 84571,
@@ -483,7 +483,7 @@ window.actressData = {
         "夏树カオル",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-176"
     },
     {
       "id": 86102,
@@ -499,7 +499,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-091"
     },
     {
       "id": 85307,
@@ -516,7 +516,7 @@ window.actressData = {
         "鲛岛",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-639"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-639"
     },
     {
       "id": 85905,
@@ -532,7 +532,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-399"
     },
     {
       "id": 86204,
@@ -548,7 +548,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHKD-995"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-995"
     },
     {
       "id": 85305,
@@ -565,7 +565,7 @@ window.actressData = {
         "蓝井优太",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-609"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-609"
     },
     {
       "id": 80447,
@@ -581,7 +581,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-145"
     },
     {
       "id": 81212,
@@ -597,7 +597,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-600"
     },
     {
       "id": 81194,
@@ -613,7 +613,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-748"
     },
     {
       "id": 80984,
@@ -629,7 +629,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-149"
     },
     {
       "id": 80940,
@@ -646,7 +646,7 @@ window.actressData = {
         "タイ",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-145"
     },
     {
       "id": 85723,
@@ -662,7 +662,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-510"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-510"
     },
     {
       "id": 80832,
@@ -678,7 +678,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MEYD-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-740"
     },
     {
       "id": 84605,
@@ -694,7 +694,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-111"
     },
     {
       "id": 84126,
@@ -711,7 +711,7 @@ window.actressData = {
         "渚光希",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-331"
     },
     {
       "id": 85645,
@@ -727,7 +727,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVSD-496"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-496"
     },
     {
       "id": 85282,
@@ -743,7 +743,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-565"
     },
     {
       "id": 85304,
@@ -759,7 +759,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-551"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-551"
     },
     {
       "id": 85275,
@@ -775,7 +775,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-545"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-545"
     },
     {
       "id": 80312,
@@ -791,7 +791,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-325"
     },
     {
       "id": 80231,
@@ -807,7 +807,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-649"
     },
     {
       "id": 80051,
@@ -827,7 +827,7 @@ window.actressData = {
         "タイ",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-073"
     },
     {
       "id": 80079,
@@ -843,7 +843,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-525"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-525"
     },
     {
       "id": 90342,
@@ -860,7 +860,7 @@ window.actressData = {
         "工藤拉拉",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PIYO-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-129"
     },
     {
       "id": 79689,
@@ -876,7 +876,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-506"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-506"
     },
     {
       "id": 79659,
@@ -893,7 +893,7 @@ window.actressData = {
         "Qべぇ",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-293"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-293"
     },
     {
       "id": 77618,
@@ -914,7 +914,7 @@ window.actressData = {
         "白桃はな",
         "柏木あみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-653"
     },
     {
       "id": 86811,
@@ -930,7 +930,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BNST-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNST-030"
     },
     {
       "id": 86857,
@@ -948,7 +948,7 @@ window.actressData = {
         "Qべぇ",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-174"
     },
     {
       "id": 69395,
@@ -965,7 +965,7 @@ window.actressData = {
         "小田切ジュン",
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-788"
     },
     {
       "id": 69323,
@@ -981,7 +981,7 @@ window.actressData = {
       "actress": [
         "白桃はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-051"
     }
   ]
 };

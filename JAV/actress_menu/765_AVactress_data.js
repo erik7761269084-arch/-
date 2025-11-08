@@ -56,7 +56,7 @@ window.actressData = {
       "actress": [
         "希咲愛莉絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-599"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-599"
     },
     {
       "id": 3491,
@@ -140,7 +140,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 7764,
@@ -156,7 +156,7 @@ window.actressData = {
       "actress": [
         "希咲愛莉絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-348"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-348"
     },
     {
       "id": 9015,
@@ -214,7 +214,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 13045,
@@ -230,7 +230,7 @@ window.actressData = {
       "actress": [
         "希咲愛莉絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-259"
     },
     {
       "id": 18182,
@@ -246,7 +246,7 @@ window.actressData = {
       "actress": [
         "希咲愛莉絲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPD-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-958"
     }
   ]
 };

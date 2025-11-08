@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "白咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-29"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-29"
     },
     {
       "id": 1859,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "白咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-019"
     },
     {
       "id": 77240,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "白咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-231"
     },
     {
       "id": 1907,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "白咲舞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=S2MBD-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-011"
     }
   ]
 };

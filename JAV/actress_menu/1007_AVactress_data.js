@@ -55,7 +55,7 @@ window.actressData = {
       "actress": [
         "愛花沙也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LAFBD-02"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-02"
     },
     {
       "id": 2007,
@@ -76,7 +76,7 @@ window.actressData = {
         "菜菜瀬結衣",
         "京野七香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CWPBD-71"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-71"
     },
     {
       "id": 1738,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "愛花沙也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKBD-S28"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S28"
     },
     {
       "id": 1890,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "愛花沙也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-61"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-61"
     },
     {
       "id": 68699,
@@ -126,7 +126,7 @@ window.actressData = {
         "沢井亮",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XV-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XV-935"
     }
   ]
 };

@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "永野愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FERA-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-176"
     },
     {
       "id": 89018,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "永野愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-224"
     },
     {
       "id": 87725,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "永野愛華"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-205"
     }
   ]
 };

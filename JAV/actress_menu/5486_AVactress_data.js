@@ -33,7 +33,7 @@ window.actressData = {
         "しみけん",
         "白石みくり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KAWD-873"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAWD-873"
     }
   ]
 };

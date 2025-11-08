@@ -36,7 +36,7 @@ window.actressData = {
         "矢泽美々",
         "くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-744"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-744"
     },
     {
       "id": 78541,
@@ -54,7 +54,7 @@ window.actressData = {
         "矢泽美々",
         "橋本りこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STSK-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-079"
     },
     {
       "id": 87943,
@@ -72,7 +72,7 @@ window.actressData = {
         "苑田あゆり",
         "澄川鲇"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAR-063"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-063"
     }
   ]
 };

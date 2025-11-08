@@ -33,7 +33,7 @@ window.actressData = {
         "みおり",
         "百合園みおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2947"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2947"
     },
     {
       "id": 106573,
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "百合園みおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-086"
     },
     {
       "id": 90111,
@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "百合園みおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-078"
     },
     {
       "id": 89858,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "百合園みおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAME-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-065"
     },
     {
       "id": 90108,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "百合園みおり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBK-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-074"
     }
   ]
 };

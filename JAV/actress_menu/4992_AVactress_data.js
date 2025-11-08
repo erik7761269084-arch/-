@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "加山由衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MAD-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAD-040"
     }
   ]
 };

@@ -37,7 +37,7 @@ window.actressData = {
         "大冢千秋",
         "伊东玲美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-022"
     }
   ]
 };

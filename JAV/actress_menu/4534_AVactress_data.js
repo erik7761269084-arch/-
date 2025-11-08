@@ -33,7 +33,7 @@ window.actressData = {
         "イセドン内村",
         "七绪夕希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-170"
     },
     {
       "id": 75397,
@@ -50,7 +50,7 @@ window.actressData = {
         "小田切ジュン",
         "七绪夕希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-137"
     }
   ]
 };

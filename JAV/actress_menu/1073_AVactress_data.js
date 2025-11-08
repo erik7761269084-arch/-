@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "藤森日南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-171"
     },
     {
       "id": 67471,
@@ -67,7 +67,7 @@ window.actressData = {
         "藤森日南",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-169"
     },
     {
       "id": 7165,
@@ -84,7 +84,7 @@ window.actressData = {
         "藤森日南",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-156"
     },
     {
       "id": 8620,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "藤森日南"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-154"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-154"
     }
   ]
 };

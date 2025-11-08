@@ -39,7 +39,7 @@ window.actressData = {
         "篠崎环奈",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-038"
     },
     {
       "id": 76875,
@@ -58,7 +58,7 @@ window.actressData = {
         "豊田爱菜",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-394"
     },
     {
       "id": 82009,
@@ -77,7 +77,7 @@ window.actressData = {
         "胡桃圓",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-289"
     },
     {
       "id": 83511,
@@ -93,7 +93,7 @@ window.actressData = {
       "actress": [
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOKS-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-508"
     },
     {
       "id": 82142,
@@ -109,7 +109,7 @@ window.actressData = {
       "actress": [
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-907"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-907"
     },
     {
       "id": 83291,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKSK-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-018"
     },
     {
       "id": 71632,
@@ -141,7 +141,7 @@ window.actressData = {
       "actress": [
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-169"
     },
     {
       "id": 77917,
@@ -158,7 +158,7 @@ window.actressData = {
         "しみけん",
         "高树あすか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-942"
     }
   ]
 };

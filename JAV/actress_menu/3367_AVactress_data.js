@@ -37,7 +37,7 @@ window.actressData = {
         "しめじ",
         "マリモン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-273"
     },
     {
       "id": 9028,
@@ -58,7 +58,7 @@ window.actressData = {
         "マリモン",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-195"
     },
     {
       "id": 13637,
@@ -76,7 +76,7 @@ window.actressData = {
         "マリモン",
         "ふれんち"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-251"
     }
   ]
 };

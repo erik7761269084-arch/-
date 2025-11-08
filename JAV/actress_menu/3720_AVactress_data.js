@@ -43,7 +43,7 @@ window.actressData = {
         "うららか丽",
         "椎木くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-079"
     },
     {
       "id": 86127,
@@ -61,7 +61,7 @@ window.actressData = {
         "うららか丽",
         "凑ひめか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDMM-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-087"
     },
     {
       "id": 86971,
@@ -77,7 +77,7 @@ window.actressData = {
       "actress": [
         "うららか丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1261"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1261"
     },
     {
       "id": 81610,
@@ -94,7 +94,7 @@ window.actressData = {
         "鲛岛",
         "うららか丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-234"
     },
     {
       "id": 81789,
@@ -112,7 +112,7 @@ window.actressData = {
         "玉木玲",
         "うららか丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-107"
     }
   ]
 };

@@ -35,7 +35,7 @@ window.actressData = {
         "奏音花音",
         "结菜はるか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMD-882"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMD-882"
     },
     {
       "id": 67609,
@@ -54,7 +54,7 @@ window.actressData = {
         "结菜はるか",
         "神谷美桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-212"
     }
   ]
 };

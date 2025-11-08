@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "绪奈もえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-128"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "音咲绚"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBTD-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBTD-036"
     }
   ]
 };

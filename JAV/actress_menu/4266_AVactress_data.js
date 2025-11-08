@@ -34,7 +34,7 @@ window.actressData = {
         "织田真琴",
         "音无レナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AFS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-031"
     }
   ]
 };

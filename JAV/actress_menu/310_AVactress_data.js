@@ -70,7 +70,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-272"
     },
     {
       "id": 4011,
@@ -87,7 +87,7 @@ window.actressData = {
         "鈴村愛里",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-253"
     },
     {
       "id": 4790,
@@ -105,7 +105,7 @@ window.actressData = {
         "トイボーイ相沢",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-243"
     },
     {
       "id": 6519,
@@ -122,7 +122,7 @@ window.actressData = {
         "鈴村愛里",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-225"
     },
     {
       "id": 8717,
@@ -139,7 +139,7 @@ window.actressData = {
         "鈴村愛里",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-195"
     },
     {
       "id": 93911,
@@ -155,7 +155,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPX-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPX-016"
     },
     {
       "id": 16504,
@@ -171,7 +171,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-072"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-072"
     },
     {
       "id": 17509,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-051"
     },
     {
       "id": 18261,
@@ -212,7 +212,7 @@ window.actressData = {
         "みずき伊织",
         "今野梨乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-037"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-037"
     },
     {
       "id": 107466,
@@ -228,7 +228,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-005"
     },
     {
       "id": 88916,
@@ -254,7 +254,7 @@ window.actressData = {
         "凉森玲梦",
         "长谷川るい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
       "id": 87266,
@@ -270,7 +270,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-357"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-357"
     },
     {
       "id": 62361,
@@ -287,7 +287,7 @@ window.actressData = {
         "鈴村愛里",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-318"
     },
     {
       "id": 89691,
@@ -305,7 +305,7 @@ window.actressData = {
         "森林原人",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-308"
     },
     {
       "id": 89634,
@@ -321,7 +321,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-299"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-299"
     },
     {
       "id": 73534,
@@ -337,7 +337,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-290"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-290"
     },
     {
       "id": 87245,
@@ -353,7 +353,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-279"
     },
     {
       "id": 87260,
@@ -370,7 +370,7 @@ window.actressData = {
         "鈴村愛里",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-270"
     },
     {
       "id": 73746,
@@ -387,7 +387,7 @@ window.actressData = {
         "鈴村愛里",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-258"
     },
     {
       "id": 86657,
@@ -403,7 +403,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-155"
     },
     {
       "id": 79737,
@@ -419,7 +419,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-124"
     },
     {
       "id": 67600,
@@ -436,7 +436,7 @@ window.actressData = {
         "鈴村愛里",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-052"
     },
     {
       "id": 86658,
@@ -452,7 +452,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-040"
     },
     {
       "id": 89558,
@@ -468,7 +468,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-022"
     },
     {
       "id": 86693,
@@ -484,7 +484,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABW-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-013"
     },
     {
       "id": 86649,
@@ -500,7 +500,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-994"
     },
     {
       "id": 83452,
@@ -518,7 +518,7 @@ window.actressData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-959"
     },
     {
       "id": 81916,
@@ -534,7 +534,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPT-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPT-091"
     },
     {
       "id": 77987,
@@ -550,7 +550,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-937"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-937"
     },
     {
       "id": 71816,
@@ -568,7 +568,7 @@ window.actressData = {
         "森林原人",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-908"
     },
     {
       "id": 74398,
@@ -584,7 +584,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-897"
     },
     {
       "id": 74157,
@@ -601,7 +601,7 @@ window.actressData = {
         "鈴村愛里",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-885"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-885"
     },
     {
       "id": 73796,
@@ -617,7 +617,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-876"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-876"
     },
     {
       "id": 71881,
@@ -635,7 +635,7 @@ window.actressData = {
         "森林原人",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-838"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-838"
     },
     {
       "id": 71868,
@@ -653,7 +653,7 @@ window.actressData = {
         "森林原人",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-829"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-829"
     },
     {
       "id": 105747,
@@ -671,7 +671,7 @@ window.actressData = {
         "森林原人",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-815"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-815"
     },
     {
       "id": 73307,
@@ -689,7 +689,7 @@ window.actressData = {
         "森林原人",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-783"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-783"
     },
     {
       "id": 72152,
@@ -705,7 +705,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-662"
     },
     {
       "id": 72347,
@@ -722,7 +722,7 @@ window.actressData = {
         "鈴村愛里",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-584"
     },
     {
       "id": 75271,
@@ -740,7 +740,7 @@ window.actressData = {
         "森林原人",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-509"
     },
     {
       "id": 67045,
@@ -757,7 +757,7 @@ window.actressData = {
         "鈴村愛里",
         "服部义"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-405"
     },
     {
       "id": 19507,
@@ -773,7 +773,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-383"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-383"
     },
     {
       "id": 87972,
@@ -789,7 +789,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-371"
     },
     {
       "id": 106431,
@@ -806,7 +806,7 @@ window.actressData = {
         "鈴村愛里",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-303"
     },
     {
       "id": 67179,
@@ -822,7 +822,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-277"
     },
     {
       "id": 102743,
@@ -838,7 +838,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-210"
     },
     {
       "id": 107201,
@@ -856,7 +856,7 @@ window.actressData = {
         "森林原人",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-186"
     },
     {
       "id": 106669,
@@ -872,7 +872,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-176"
     },
     {
       "id": 67245,
@@ -888,7 +888,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-149"
     },
     {
       "id": 107202,
@@ -904,7 +904,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JBS-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBS-016"
     },
     {
       "id": 72298,
@@ -922,7 +922,7 @@ window.actressData = {
         "森林原人",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-088"
     },
     {
       "id": 100058,
@@ -938,7 +938,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-083-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-083-"
     },
     {
       "id": 106290,
@@ -954,7 +954,7 @@ window.actressData = {
       "actress": [
         "鈴村愛里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABS-224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-224"
     }
   ]
 };

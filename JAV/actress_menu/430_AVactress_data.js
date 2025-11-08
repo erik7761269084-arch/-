@@ -83,7 +83,7 @@ window.actressData = {
         "白川千织",
         "高槻れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-386"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-386"
     },
     {
       "id": 6362,
@@ -112,7 +112,7 @@ window.actressData = {
         "长瀬麻美",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-077"
     },
     {
       "id": 15290,
@@ -129,7 +129,7 @@ window.actressData = {
         "君島美緒",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENX-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-264"
     },
     {
       "id": 19235,
@@ -148,7 +148,7 @@ window.actressData = {
         "君島美緒",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-214"
     },
     {
       "id": 19360,
@@ -165,7 +165,7 @@ window.actressData = {
         "君島美緒",
         "君岛美绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-083"
     }
   ]
 };

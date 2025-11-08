@@ -40,7 +40,7 @@ window.actressData = {
         "守谷多香子",
         "横山纱江子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-110"
     },
     {
       "id": 78485,
@@ -57,7 +57,7 @@ window.actressData = {
         "久保今日子",
         "横山纱江子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RD-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-967"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
         "弘前綾香",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMGH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-011"
     },
     {
       "id": 73075,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "彩音遙菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=INSTV-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=INSTV-616"
     },
     {
       "id": 71723,
@@ -88,7 +88,7 @@ window.actressData = {
         "月野優里亞",
         "纱东みお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAPL-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAPL-026"
     },
     {
       "id": 88337,
@@ -107,7 +107,7 @@ window.actressData = {
         "彩音遙菜",
         "あゆみ翼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDES-827"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-827"
     }
   ]
 };

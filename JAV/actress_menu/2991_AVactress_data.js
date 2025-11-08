@@ -33,7 +33,7 @@ window.actressData = {
         "日向夏",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CKCK-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-012"
     },
     {
       "id": 2614,
@@ -50,7 +50,7 @@ window.actressData = {
         "依本詩織",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-736"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-736"
     },
     {
       "id": 2790,
@@ -67,7 +67,7 @@ window.actressData = {
         "山岸逢花",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRED-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-799"
     },
     {
       "id": 2959,
@@ -87,7 +87,7 @@ window.actressData = {
         "トイボーイ相沢",
         "伊崎悠人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNTRZ-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-021"
     },
     {
       "id": 2942,
@@ -105,7 +105,7 @@ window.actressData = {
         "トイボーイ相沢",
         "桐冈さつき"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROE-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-400"
     },
     {
       "id": 2930,
@@ -122,7 +122,7 @@ window.actressData = {
         "三田真鈴",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-887"
     },
     {
       "id": 2895,
@@ -143,7 +143,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-410"
     },
     {
       "id": 2894,
@@ -165,7 +165,7 @@ window.actressData = {
         "園田ひなの",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HSODA-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-091"
     },
     {
       "id": 3210,
@@ -182,7 +182,7 @@ window.actressData = {
         "黒島玲衣",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-535"
     },
     {
       "id": 3205,
@@ -201,7 +201,7 @@ window.actressData = {
         "トイボーイ相沢",
         "羽田貴史"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-576"
     },
     {
       "id": 3420,
@@ -218,7 +218,7 @@ window.actressData = {
         "早坂ひめ",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-857"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-857"
     },
     {
       "id": 3409,
@@ -230,7 +230,7 @@ window.actressData = {
       "type": "有码",
       "company": "S1",
       "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023625210210_17874_thumbnail.webp",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023625210210_17874_s.webp",
       "actress": [
         "湊羽琉",
         "トミフミ",
@@ -238,7 +238,7 @@ window.actressData = {
         "ナイアガラ翔",
         "みなと羽琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-865"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-865"
     },
     {
       "id": 3392,
@@ -256,7 +256,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-472"
     },
     {
       "id": 3390,
@@ -273,7 +273,7 @@ window.actressData = {
         "橘瑪麗",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-715"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-715"
     },
     {
       "id": 3801,
@@ -290,7 +290,7 @@ window.actressData = {
         "月城莉莉香",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-668"
     },
     {
       "id": 3744,
@@ -307,7 +307,7 @@ window.actressData = {
         "宮下華奈",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-471"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-471"
     },
     {
       "id": 62114,
@@ -323,7 +323,7 @@ window.actressData = {
       "actress": [
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-552"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-552"
     },
     {
       "id": 3969,
@@ -340,7 +340,7 @@ window.actressData = {
         "流川はる香",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-710"
     },
     {
       "id": 4123,
@@ -358,7 +358,7 @@ window.actressData = {
         "トイボーイ相沢",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFES-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-003"
     },
     {
       "id": 4790,
@@ -376,7 +376,7 @@ window.actressData = {
         "トイボーイ相沢",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-243"
     },
     {
       "id": 4516,
@@ -393,7 +393,7 @@ window.actressData = {
         "美園和花",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MNGS-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MNGS-006"
     },
     {
       "id": 4486,
@@ -410,7 +410,7 @@ window.actressData = {
         "大谷双葉",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-023"
     },
     {
       "id": 4364,
@@ -431,7 +431,7 @@ window.actressData = {
         "トイボーイ相沢",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-264"
     },
     {
       "id": 5212,
@@ -448,7 +448,7 @@ window.actressData = {
         "河合明日菜",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABF-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-239"
     },
     {
       "id": 4784,
@@ -468,7 +468,7 @@ window.actressData = {
         "小田切ジュン",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-808"
     },
     {
       "id": 4753,
@@ -487,7 +487,7 @@ window.actressData = {
         "ナイアガラ翔",
         "ダンディ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-682"
     },
     {
       "id": 4737,
@@ -504,7 +504,7 @@ window.actressData = {
         "Nia",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-695"
     },
     {
       "id": 63108,
@@ -522,7 +522,7 @@ window.actressData = {
         "佐倉陽菜",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRFK-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRFK-005"
     },
     {
       "id": 63228,
@@ -539,7 +539,7 @@ window.actressData = {
         "トイボーイ相沢",
         "蓝芽水月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-263"
     },
     {
       "id": 4994,
@@ -557,7 +557,7 @@ window.actressData = {
         "トイボーイ相沢",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-705"
     },
     {
       "id": 5036,
@@ -575,7 +575,7 @@ window.actressData = {
         "ラヴズ",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FKRU-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-011"
     },
     {
       "id": 5188,
@@ -592,7 +592,7 @@ window.actressData = {
         "吹石玲奈",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-698"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-698"
     },
     {
       "id": 63000,
@@ -610,7 +610,7 @@ window.actressData = {
         "岩下たろう",
         "仓木诗织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MRSS-168"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-168"
     },
     {
       "id": 5364,
@@ -628,7 +628,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-204"
     },
     {
       "id": 5411,
@@ -646,7 +646,7 @@ window.actressData = {
         "ラヴズ",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-114"
     },
     {
       "id": 5532,
@@ -663,7 +663,7 @@ window.actressData = {
         "藤浦惠",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-354"
     },
     {
       "id": 5529,
@@ -680,7 +680,7 @@ window.actressData = {
         "五条恋",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-748"
     },
     {
       "id": 63589,
@@ -698,7 +698,7 @@ window.actressData = {
         "じゅうもんじ",
         "青沼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-248"
     },
     {
       "id": 5646,
@@ -718,7 +718,7 @@ window.actressData = {
         "トミフミ",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-250"
     },
     {
       "id": 6298,
@@ -735,7 +735,7 @@ window.actressData = {
         "今井栞菜",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-627"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-627"
     },
     {
       "id": 6627,
@@ -752,7 +752,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-088"
     },
     {
       "id": 6614,
@@ -774,7 +774,7 @@ window.actressData = {
         "ナイアガラ翔",
         "椎叶みくる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-108"
     },
     {
       "id": 6608,
@@ -792,7 +792,7 @@ window.actressData = {
         "楓富愛",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-107"
     },
     {
       "id": 7171,
@@ -809,7 +809,7 @@ window.actressData = {
         "時田亜美",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-990"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-990"
     },
     {
       "id": 6795,
@@ -827,7 +827,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-687"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-687"
     },
     {
       "id": 6771,
@@ -844,7 +844,7 @@ window.actressData = {
         "結月莉亞",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-643"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-643"
     },
     {
       "id": 6728,
@@ -862,7 +862,7 @@ window.actressData = {
         "トイボーイ相沢",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-061"
     },
     {
       "id": 6918,
@@ -879,7 +879,7 @@ window.actressData = {
         "清宮仁愛",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-205"
     },
     {
       "id": 7066,
@@ -899,7 +899,7 @@ window.actressData = {
         "しめじ",
         "大志"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-670"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-670"
     },
     {
       "id": 7034,
@@ -916,7 +916,7 @@ window.actressData = {
         "美谷朱里",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-626"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-626"
     },
     {
       "id": 7231,
@@ -934,7 +934,7 @@ window.actressData = {
         "トイボーイ相沢",
         "稻场流花"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-204"
     },
     {
       "id": 7223,
@@ -952,7 +952,7 @@ window.actressData = {
         "瀬田一花",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-205"
     },
     {
       "id": 7165,
@@ -969,7 +969,7 @@ window.actressData = {
         "藤森日南",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FPRE-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-156"
     },
     {
       "id": 7405,
@@ -987,7 +987,7 @@ window.actressData = {
         "左慈半造",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-645"
     },
     {
       "id": 7312,
@@ -1006,7 +1006,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-594"
     },
     {
       "id": 70930,
@@ -1023,7 +1023,7 @@ window.actressData = {
         "森澤佳奈",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-220"
     },
     {
       "id": 7579,
@@ -1040,7 +1040,7 @@ window.actressData = {
         "七瀨愛麗絲",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-202"
     },
     {
       "id": 7537,
@@ -1058,7 +1058,7 @@ window.actressData = {
         "トイボーイ相沢",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAB-432"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-432"
     },
     {
       "id": 7531,
@@ -1076,7 +1076,7 @@ window.actressData = {
         "トイボーイ相沢",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-089"
     },
     {
       "id": 8525,
@@ -1093,7 +1093,7 @@ window.actressData = {
         "山下紗和",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-958"
     },
     {
       "id": 7819,
@@ -1111,7 +1111,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-725"
     },
     {
       "id": 7788,
@@ -1130,7 +1130,7 @@ window.actressData = {
         "日森一",
         "しめじ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-994"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-994"
     },
     {
       "id": 8097,
@@ -1151,7 +1151,7 @@ window.actressData = {
         "大志",
         "カワム"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-619"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-619"
     },
     {
       "id": 8056,
@@ -1168,7 +1168,7 @@ window.actressData = {
         "葵百合香",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-595"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-595"
     },
     {
       "id": 8048,
@@ -1186,7 +1186,7 @@ window.actressData = {
         "トイボーイ相沢",
         "ひょこり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-663"
     },
     {
       "id": 8264,
@@ -1203,7 +1203,7 @@ window.actressData = {
         "七草千歲",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NIMA-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-041"
     },
     {
       "id": 8246,
@@ -1221,7 +1221,7 @@ window.actressData = {
         "ラリアット黒川",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-043"
     },
     {
       "id": 69372,
@@ -1239,7 +1239,7 @@ window.actressData = {
         "ラヴズ",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FKRU-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FKRU-005"
     }
   ]
 };

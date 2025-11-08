@@ -34,7 +34,7 @@ window.actressData = {
         "水无瀬怜奈",
         "前田あこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-022"
     },
     {
       "id": 71011,
@@ -52,7 +52,7 @@ window.actressData = {
         "水无瀬怜奈",
         "梦乃美咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-620"
     }
   ]
 };

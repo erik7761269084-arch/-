@@ -63,7 +63,7 @@ window.actressData = {
         "新川ゆず",
         "高梨有纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-171"
     },
     {
       "id": 91685,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "新川ゆず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACZD-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACZD-122"
     },
     {
       "id": 91381,
@@ -96,7 +96,7 @@ window.actressData = {
         "新川ゆず",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-291"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "朝日まこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-132"
     },
     {
       "id": 90425,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "朝日まこと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PKPD-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-210"
     }
   ]
 };

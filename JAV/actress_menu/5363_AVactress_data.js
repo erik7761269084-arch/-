@@ -34,7 +34,7 @@ window.actressData = {
         "纱雾ひなた",
         "生驹みく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SETM-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-027"
     },
     {
       "id": 89136,
@@ -51,7 +51,7 @@ window.actressData = {
         "推川悠里",
         "纱雾ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WA-508"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-508"
     },
     {
       "id": 87047,
@@ -68,7 +68,7 @@ window.actressData = {
         "朝比奈かれん",
         "纱雾ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-286"
     },
     {
       "id": 91258,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "纱雾ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVEH-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-006"
     },
     {
       "id": 90899,
@@ -100,7 +100,7 @@ window.actressData = {
       "actress": [
         "纱雾ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-364"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-364"
     }
   ]
 };

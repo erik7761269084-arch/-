@@ -33,7 +33,7 @@ window.actressData = {
         "如月雪乃",
         "城沢雪乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GOJU-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOJU-221"
     }
   ]
 };

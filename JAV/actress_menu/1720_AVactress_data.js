@@ -53,7 +53,7 @@ window.actressData = {
         "尾上若叶",
         "青山はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-443"
     },
     {
       "id": 71399,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "青山はな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FTN-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTN-046"
     }
   ]
 };

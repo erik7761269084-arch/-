@@ -68,7 +68,7 @@ window.actressData = {
         "愛弓涼",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-452"
     },
     {
       "id": 4299,
@@ -86,7 +86,7 @@ window.actressData = {
         "羽田貴史",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-067"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-067"
     },
     {
       "id": 5200,
@@ -102,7 +102,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-375"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-375"
     },
     {
       "id": 5863,
@@ -121,7 +121,7 @@ window.actressData = {
         "須崎美羽",
         "宗像れな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-314"
     },
     {
       "id": 6776,
@@ -137,7 +137,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-285"
     },
     {
       "id": 68602,
@@ -153,7 +153,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-932"
     },
     {
       "id": 7361,
@@ -169,7 +169,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-034"
     },
     {
       "id": 7995,
@@ -187,7 +187,7 @@ window.actressData = {
         "高瀬りな",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-197"
     },
     {
       "id": 8864,
@@ -203,7 +203,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-060"
     },
     {
       "id": 9763,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-009"
     },
     {
       "id": 10403,
@@ -235,7 +235,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-988"
     },
     {
       "id": 91839,
@@ -252,7 +252,7 @@ window.actressData = {
         "愛弓涼",
         "隠岐玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-616"
     },
     {
       "id": 16875,
@@ -269,7 +269,7 @@ window.actressData = {
         "愛弓涼",
         "沖宮那美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-532"
     },
     {
       "id": 106113,
@@ -285,7 +285,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-482"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-482"
     },
     {
       "id": 17616,
@@ -301,7 +301,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-446"
     },
     {
       "id": 18221,
@@ -319,7 +319,7 @@ window.actressData = {
         "愛弓涼",
         "ナイアガラ翔"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-026"
     },
     {
       "id": 18587,
@@ -335,7 +335,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-380"
     },
     {
       "id": 91003,
@@ -351,7 +351,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-351"
     },
     {
       "id": 107556,
@@ -367,7 +367,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-324"
     },
     {
       "id": 104435,
@@ -383,7 +383,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-230"
     },
     {
       "id": 100610,
@@ -399,7 +399,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-208"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-208"
     },
     {
       "id": 89762,
@@ -415,7 +415,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-001"
     },
     {
       "id": 67904,
@@ -431,7 +431,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-190"
     },
     {
       "id": 107057,
@@ -447,7 +447,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URE-088"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-088"
     },
     {
       "id": 85172,
@@ -463,7 +463,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-112"
     },
     {
       "id": 69099,
@@ -480,7 +480,7 @@ window.actressData = {
         "愛弓涼",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-080"
     },
     {
       "id": 85113,
@@ -496,7 +496,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-048"
     },
     {
       "id": 68580,
@@ -512,7 +512,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-014"
     },
     {
       "id": 85118,
@@ -528,7 +528,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-983"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-983"
     },
     {
       "id": 84970,
@@ -544,7 +544,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-954"
     },
     {
       "id": 85860,
@@ -560,7 +560,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-039"
     },
     {
       "id": 80529,
@@ -576,7 +576,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-887"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-887"
     },
     {
       "id": 80399,
@@ -592,7 +592,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-793"
     },
     {
       "id": 106803,
@@ -608,7 +608,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URE-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-074"
     },
     {
       "id": 19596,
@@ -624,7 +624,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-242"
     },
     {
       "id": 81743,
@@ -640,7 +640,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-186"
     },
     {
       "id": 88383,
@@ -656,7 +656,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-155"
     },
     {
       "id": 78774,
@@ -672,7 +672,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-074"
     },
     {
       "id": 81951,
@@ -693,7 +693,7 @@ window.actressData = {
         "吉田枫",
         "铃木理子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-223"
     },
     {
       "id": 94982,
@@ -710,7 +710,7 @@ window.actressData = {
         "愛弓涼",
         "神宫寺奈绪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-021"
     },
     {
       "id": 76836,
@@ -726,7 +726,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-009"
     },
     {
       "id": 82774,
@@ -742,7 +742,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-939"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-939"
     },
     {
       "id": 74791,
@@ -759,7 +759,7 @@ window.actressData = {
         "愛弓涼",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-905"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-905"
     },
     {
       "id": 88201,
@@ -776,7 +776,7 @@ window.actressData = {
         "愛弓涼",
         "森林原人"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-197"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-197"
     },
     {
       "id": 79104,
@@ -792,7 +792,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-695"
     },
     {
       "id": 59829,
@@ -808,7 +808,7 @@ window.actressData = {
       "actress": [
         "愛弓涼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-854"
     }
   ]
 };

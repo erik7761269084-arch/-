@@ -58,7 +58,7 @@ window.actressData = {
         "うららか丽",
         "椎木くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMPB-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-079"
     },
     {
       "id": 91395,
@@ -79,7 +79,7 @@ window.actressData = {
         "莲美柚香",
         "爱実ありあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMC-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-298"
     },
     {
       "id": 81553,
@@ -96,7 +96,7 @@ window.actressData = {
         "天野弥生",
         "冴木真子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GIGL-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIGL-589"
     },
     {
       "id": 83002,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "天野弥生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OFKU-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-145"
     },
     {
       "id": 82202,
@@ -131,7 +131,7 @@ window.actressData = {
         "松永雪子",
         "秋园このえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3338"
     },
     {
       "id": 83558,
@@ -147,7 +147,7 @@ window.actressData = {
       "actress": [
         "天野弥生"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HAWA-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-204"
     },
     {
       "id": 75083,
@@ -165,7 +165,7 @@ window.actressData = {
         "鹫尾明美",
         "春日部一美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-3335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3335"
     }
   ]
 };

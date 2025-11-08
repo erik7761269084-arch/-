@@ -60,7 +60,7 @@ window.actressData = {
         "松冈香纯",
         "西内るな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YSAD-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-036"
     },
     {
       "id": 83828,
@@ -80,7 +80,7 @@ window.actressData = {
         "若宫はずき",
         "音海里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-126"
     },
     {
       "id": 71163,
@@ -101,7 +101,7 @@ window.actressData = {
         "白金れい奈",
         "豊田爱菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FIV-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-044"
     },
     {
       "id": 71493,
@@ -118,7 +118,7 @@ window.actressData = {
         "名森さえ",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-104"
     },
     {
       "id": 72224,
@@ -138,7 +138,7 @@ window.actressData = {
         "叶月雏乃",
         "一宫つばさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AFS-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-035"
     },
     {
       "id": 77956,
@@ -157,7 +157,7 @@ window.actressData = {
         "森川杏奈",
         "川口ともか"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-039"
     }
   ]
 };

@@ -57,7 +57,7 @@ window.actressData = {
         "佐藤遥希",
         "大原亞夢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-119"
     },
     {
       "id": 82936,
@@ -75,7 +75,7 @@ window.actressData = {
         "佐藤遥希",
         "夏目优希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZIZG-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-001"
     },
     {
       "id": 67930,
@@ -95,7 +95,7 @@ window.actressData = {
         "田渊正浩",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-122"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-122"
     },
     {
       "id": 1567,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "佐藤遥希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAD-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-585"
     },
     {
       "id": 72033,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "佐藤遥希"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-011"
     }
   ]
 };

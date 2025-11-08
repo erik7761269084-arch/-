@@ -48,7 +48,7 @@ window.actressData = {
         "相葉美沙子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-053"
     },
     {
       "id": 3549,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "相葉美沙子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-034"
     },
     {
       "id": 4493,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "相葉美沙子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-029"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-029"
     },
     {
       "id": 5325,
@@ -100,7 +100,7 @@ window.actressData = {
         "しめじ",
         "ラビットけんと"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-013"
     },
     {
       "id": 6071,
@@ -117,7 +117,7 @@ window.actressData = {
         "相葉美沙子",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MFYD-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-004"
     }
   ]
 };

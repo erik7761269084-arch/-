@@ -65,7 +65,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-562"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-562"
     },
     {
       "id": 3607,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-726"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-726"
     },
     {
       "id": 62113,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-554"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-554"
     },
     {
       "id": 4998,
@@ -113,7 +113,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-543"
     },
     {
       "id": 6470,
@@ -129,7 +129,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-519"
     },
     {
       "id": 7180,
@@ -145,7 +145,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-498"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-498"
     },
     {
       "id": 7533,
@@ -161,7 +161,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-676"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-676"
     },
     {
       "id": 7869,
@@ -177,7 +177,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-485"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-485"
     },
     {
       "id": 8298,
@@ -194,7 +194,7 @@ window.actressData = {
         "鈴之家鈴",
         "大岛丈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-643"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-643"
     },
     {
       "id": 8654,
@@ -210,7 +210,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-475"
     },
     {
       "id": 8841,
@@ -227,7 +227,7 @@ window.actressData = {
         "鈴之家鈴",
         "スケザネヘイタ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-642"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-642"
     },
     {
       "id": 75287,
@@ -243,7 +243,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-465"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-465"
     },
     {
       "id": 9773,
@@ -260,7 +260,7 @@ window.actressData = {
         "鈴之家鈴",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-635"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-635"
     },
     {
       "id": 10295,
@@ -278,7 +278,7 @@ window.actressData = {
         "タイ",
         "タツ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WAAA-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-450"
     },
     {
       "id": 10397,
@@ -294,7 +294,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-620"
     },
     {
       "id": 90231,
@@ -310,7 +310,7 @@ window.actressData = {
       "actress": [
         "鈴之家鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-766"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-766"
     }
   ]
 };

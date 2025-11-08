@@ -39,7 +39,7 @@ window.actressData = {
         "黑川纱里奈",
         "飞鸟りいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-269"
     },
     {
       "id": 87290,
@@ -63,7 +63,7 @@ window.actressData = {
         "安倍亜沙美",
         "飞鸟りいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-262"
     },
     {
       "id": 79519,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "飞鸟りいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-152"
     },
     {
       "id": 91454,
@@ -95,7 +95,7 @@ window.actressData = {
       "actress": [
         "飞鸟りいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-775"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-775"
     },
     {
       "id": 91445,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "飞鸟りいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-768"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-768"
     },
     {
       "id": 91449,
@@ -128,7 +128,7 @@ window.actressData = {
         "小田切ジュン",
         "飞鸟りいな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-761"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-761"
     }
   ]
 };

@@ -34,7 +34,7 @@ window.actressData = {
         "佐野葵",
         "峰ゆり香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-890"
     },
     {
       "id": 77019,
@@ -52,7 +52,7 @@ window.actressData = {
         "叶山りん",
         "峰ゆり香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OYC-225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-225"
     }
   ]
 };

@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "Unpai"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-320"
     },
     {
       "id": 4535,
@@ -91,7 +91,7 @@ window.actressData = {
         "Unpai",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-235"
     },
     {
       "id": 6864,
@@ -107,7 +107,7 @@ window.actressData = {
       "actress": [
         "Unpai"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-199"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-199"
     },
     {
       "id": 9942,
@@ -125,7 +125,7 @@ window.actressData = {
         "鲛岛",
         "タイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-975"
     },
     {
       "id": 10474,
@@ -143,7 +143,7 @@ window.actressData = {
         "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-456"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-456"
     },
     {
       "id": 13217,
@@ -160,7 +160,7 @@ window.actressData = {
         "Unpai",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-268"
     },
     {
       "id": 13802,
@@ -180,7 +180,7 @@ window.actressData = {
         "ハカー",
         "ようく"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-230"
     },
     {
       "id": 17666,
@@ -196,7 +196,7 @@ window.actressData = {
       "actress": [
         "Unpai"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-954"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-954"
     },
     {
       "id": 18242,
@@ -212,7 +212,7 @@ window.actressData = {
       "actress": [
         "Unpai"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-915"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-915"
     },
     {
       "id": 18601,
@@ -229,7 +229,7 @@ window.actressData = {
         "Unpai",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-877"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-877"
     }
   ]
 };

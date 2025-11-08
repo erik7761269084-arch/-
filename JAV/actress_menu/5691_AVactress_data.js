@@ -35,7 +35,7 @@ window.actressData = {
         "岡江みどり",
         "后藤さなえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-018"
     },
     {
       "id": 90680,
@@ -52,7 +52,7 @@ window.actressData = {
         "大岛丈",
         "岡江みどり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NYKD-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NYKD-132"
     }
   ]
 };

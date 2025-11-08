@@ -60,7 +60,7 @@ window.actressData = {
         "黒川晴美",
         "白雪麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NKKD-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-262"
     },
     {
       "id": 90870,
@@ -76,7 +76,7 @@ window.actressData = {
       "actress": [
         "白雪麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BIJN-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-223"
     },
     {
       "id": 88615,
@@ -92,7 +92,7 @@ window.actressData = {
       "actress": [
         "白雪麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DLPN-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-019"
     },
     {
       "id": 1365,
@@ -108,7 +108,7 @@ window.actressData = {
       "actress": [
         "白雪麻衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2700"
     },
     {
       "id": 88015,
@@ -125,7 +125,7 @@ window.actressData = {
         "白雪麻衣",
         "玉木玲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-774"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-774"
     }
   ]
 };

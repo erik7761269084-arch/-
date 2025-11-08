@@ -45,7 +45,7 @@ window.actressData = {
       "actress": [
         "木葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-097"
     },
     {
       "id": 1894,
@@ -61,7 +61,7 @@ window.actressData = {
       "actress": [
         "木葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-083"
     }
   ]
 };

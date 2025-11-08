@@ -57,7 +57,7 @@ window.actressData = {
         "心菜りお",
         "舞原圣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-210"
     },
     {
       "id": 88317,
@@ -74,7 +74,7 @@ window.actressData = {
         "心菜りお",
         "菊川みつ叶"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-242"
     },
     {
       "id": 81591,
@@ -97,7 +97,7 @@ window.actressData = {
         "永濑未萌",
         "藤江史帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HRV-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRV-026"
     },
     {
       "id": 88327,
@@ -114,7 +114,7 @@ window.actressData = {
         "奏音花音",
         "心菜りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-212"
     },
     {
       "id": 78180,
@@ -130,7 +130,7 @@ window.actressData = {
       "actress": [
         "心菜りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-550"
     },
     {
       "id": 73468,
@@ -146,7 +146,7 @@ window.actressData = {
       "actress": [
         "心菜りお"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-198"
     },
     {
       "id": 74436,
@@ -163,7 +163,7 @@ window.actressData = {
         "心菜りお",
         "芹沢ゆず"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-082"
     },
     {
       "id": 75140,
@@ -180,7 +180,7 @@ window.actressData = {
         "心菜りお",
         "沢井亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-869"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-869"
     }
   ]
 };

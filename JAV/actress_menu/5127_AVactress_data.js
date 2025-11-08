@@ -33,7 +33,7 @@ window.actressData = {
         "黑川堇",
         "小早川咲"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHYN-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-095"
     }
   ]
 };

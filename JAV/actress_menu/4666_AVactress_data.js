@@ -33,7 +33,7 @@ window.actressData = {
         "牧村柚希",
         "天音ゆさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HGOT-028"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-028"
     },
     {
       "id": 76806,
@@ -52,7 +52,7 @@ window.actressData = {
         "爱瀬美希",
         "天音ゆさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-394"
     }
   ]
 };

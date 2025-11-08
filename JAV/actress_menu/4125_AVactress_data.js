@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "平本めいさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-030"
     }
   ]
 };

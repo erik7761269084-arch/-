@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "菊川麻里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AED-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AED-219"
     },
     {
       "id": 66968,
@@ -49,7 +49,7 @@ window.actressData = {
         "塚田詩織",
         "菊川麻里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-126"
     },
     {
       "id": 102325,
@@ -72,7 +72,7 @@ window.actressData = {
         "浅宫ちなつ",
         "月原和奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HOKS-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-090"
     },
     {
       "id": 70511,
@@ -88,7 +88,7 @@ window.actressData = {
       "actress": [
         "菊川麻里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1180"
     },
     {
       "id": 88521,
@@ -105,7 +105,7 @@ window.actressData = {
         "倖田李梨",
         "菊川麻里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCT-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-203"
     }
   ]
 };

@@ -36,7 +36,7 @@ window.actressData = {
         "管野静香",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VSED-268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-268"
     },
     {
       "id": 62309,
@@ -55,7 +55,7 @@ window.actressData = {
         "月野ゆりね",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-015"
     },
     {
       "id": 62308,
@@ -77,7 +77,7 @@ window.actressData = {
         "しみけん",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-064"
     },
     {
       "id": 4079,
@@ -94,7 +94,7 @@ window.actressData = {
         "成宮彩葉",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EMSK-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMSK-027"
     },
     {
       "id": 61475,
@@ -111,7 +111,7 @@ window.actressData = {
         "佐久間楓",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FGAN-152"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-152"
     },
     {
       "id": 63654,
@@ -128,7 +128,7 @@ window.actressData = {
         "ひょこり",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-478"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-478"
     },
     {
       "id": 67077,
@@ -144,7 +144,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-454"
     },
     {
       "id": 7999,
@@ -168,7 +168,7 @@ window.actressData = {
         "成宫いろは",
         "SHIN"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-363"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-363"
     },
     {
       "id": 9178,
@@ -186,7 +186,7 @@ window.actressData = {
         "成宫いろは",
         "トンガ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-409"
     },
     {
       "id": 75086,
@@ -202,7 +202,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AED-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AED-234"
     },
     {
       "id": 75719,
@@ -220,7 +220,7 @@ window.actressData = {
         "夏八木彩月",
         "稲葉果織"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDVIJ-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-003"
     },
     {
       "id": 93973,
@@ -238,7 +238,7 @@ window.actressData = {
         "成宫いろは",
         "一ノ瀬あやめ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-608"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-608"
     },
     {
       "id": 13084,
@@ -258,7 +258,7 @@ window.actressData = {
         "花芽有朱",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-051"
     },
     {
       "id": 93657,
@@ -276,7 +276,7 @@ window.actressData = {
         "月岛さくら",
         "磐井玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-050"
     },
     {
       "id": 91660,
@@ -292,7 +292,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGR-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGR-045"
     },
     {
       "id": 91553,
@@ -308,7 +308,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-280"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-280"
     },
     {
       "id": 105849,
@@ -325,7 +325,7 @@ window.actressData = {
         "纱々原ゆり",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CVD-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CVD-003"
     },
     {
       "id": 106673,
@@ -341,7 +341,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-223"
     },
     {
       "id": 91242,
@@ -357,7 +357,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FBOS-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FBOS-006"
     },
     {
       "id": 91636,
@@ -374,7 +374,7 @@ window.actressData = {
         "左慈半造",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-195"
     },
     {
       "id": 89638,
@@ -391,7 +391,7 @@ window.actressData = {
         "矢澤美々",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-700"
     },
     {
       "id": 67562,
@@ -407,7 +407,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-137"
     },
     {
       "id": 66860,
@@ -423,7 +423,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-112"
     },
     {
       "id": 66764,
@@ -439,7 +439,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-098"
     },
     {
       "id": 67124,
@@ -456,7 +456,7 @@ window.actressData = {
         "タイ",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-041"
     },
     {
       "id": 85941,
@@ -474,7 +474,7 @@ window.actressData = {
         "田所百合",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RAPD-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RAPD-004"
     },
     {
       "id": 80772,
@@ -491,7 +491,7 @@ window.actressData = {
         "タイ",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NTRD-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTRD-098"
     },
     {
       "id": 79895,
@@ -507,7 +507,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOND-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-222"
     },
     {
       "id": 78723,
@@ -523,7 +523,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1411"
     },
     {
       "id": 82184,
@@ -540,7 +540,7 @@ window.actressData = {
         "大浦真奈美",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHN-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHN-044"
     },
     {
       "id": 82147,
@@ -563,7 +563,7 @@ window.actressData = {
         "相沢夏帆",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-297"
     },
     {
       "id": 81911,
@@ -579,7 +579,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSSTL-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSSTL-023"
     },
     {
       "id": 75565,
@@ -598,7 +598,7 @@ window.actressData = {
         "成宫いろは",
         "黒宫えいみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OVG-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-128"
     },
     {
       "id": 83003,
@@ -614,7 +614,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSSTH-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSSTH-036"
     },
     {
       "id": 81820,
@@ -634,7 +634,7 @@ window.actressData = {
         "成宫いろは",
         "可爱まゆ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMB-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-284"
     },
     {
       "id": 75436,
@@ -650,7 +650,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1234"
     },
     {
       "id": 83136,
@@ -674,7 +674,7 @@ window.actressData = {
         "瀬戸すみれ",
         "高瀬智香"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-605"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-605"
     },
     {
       "id": 71477,
@@ -691,7 +691,7 @@ window.actressData = {
         "加濑七穗",
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVDMS-461"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-461"
     },
     {
       "id": 72250,
@@ -707,7 +707,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AVOP-461"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-461"
     },
     {
       "id": 106985,
@@ -723,7 +723,7 @@ window.actressData = {
       "actress": [
         "成宫いろは"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-303"
     }
   ]
 };

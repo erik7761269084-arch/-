@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "武田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-556"
     },
     {
       "id": 93866,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "武田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=QBD-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QBD-097"
     },
     {
       "id": 17483,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "武田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-543"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-543"
     },
     {
       "id": 92316,
@@ -96,7 +96,7 @@ window.actressData = {
         "武田萌奈美",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-423"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-423"
     },
     {
       "id": 92292,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "武田萌奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-394"
     }
   ]
 };

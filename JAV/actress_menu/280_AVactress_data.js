@@ -63,7 +63,7 @@ window.actressData = {
         "日向夏",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CKCK-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-012"
     },
     {
       "id": 3999,
@@ -79,7 +79,7 @@ window.actressData = {
       "actress": [
         "日向夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-861"
     },
     {
       "id": 4972,
@@ -96,7 +96,7 @@ window.actressData = {
         "日向夏",
         "大村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-854"
     },
     {
       "id": 5679,
@@ -113,7 +113,7 @@ window.actressData = {
         "日向夏",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-846"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-846"
     },
     {
       "id": 6449,
@@ -130,7 +130,7 @@ window.actressData = {
         "日向夏",
         "青木りょう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-818"
     },
     {
       "id": 7208,
@@ -147,7 +147,7 @@ window.actressData = {
         "日向夏",
         "ひょたん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-809"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-809"
     },
     {
       "id": 7865,
@@ -164,7 +164,7 @@ window.actressData = {
         "日向夏",
         "ニック"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-800"
     },
     {
       "id": 8686,
@@ -183,7 +183,7 @@ window.actressData = {
         "川上しずく",
         "牧野怜奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-804"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-804"
     },
     {
       "id": 8668,
@@ -199,7 +199,7 @@ window.actressData = {
       "actress": [
         "日向夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-781"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-781"
     },
     {
       "id": 9432,
@@ -215,7 +215,7 @@ window.actressData = {
       "actress": [
         "日向夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-763"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-763"
     },
     {
       "id": 16965,
@@ -232,7 +232,7 @@ window.actressData = {
         "日向夏",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-622"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-622"
     },
     {
       "id": 18022,
@@ -249,7 +249,7 @@ window.actressData = {
         "日向夏",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-583"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-583"
     }
   ]
 };

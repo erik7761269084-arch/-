@@ -55,7 +55,7 @@ window.actressData = {
         "紗紗原百合",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-392"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-392"
     },
     {
       "id": 3810,
@@ -72,7 +72,7 @@ window.actressData = {
         "紗紗原百合",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOON-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-046"
     },
     {
       "id": 3903,
@@ -89,7 +89,7 @@ window.actressData = {
         "小那海綾",
         "紗紗原百合"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=INSTNA-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=INSTNA-005"
     },
     {
       "id": 5162,
@@ -106,7 +106,7 @@ window.actressData = {
         "紗紗原百合",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BONY-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-148"
     },
     {
       "id": 7090,
@@ -126,7 +126,7 @@ window.actressData = {
         "星空萌愛",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-285"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-285"
     },
     {
       "id": 6994,
@@ -144,7 +144,7 @@ window.actressData = {
         "ロダン富士",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-450"
     },
     {
       "id": 9661,
@@ -161,7 +161,7 @@ window.actressData = {
         "紗紗原百合",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEMD-614"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-614"
     },
     {
       "id": 9626,
@@ -178,7 +178,7 @@ window.actressData = {
         "紗紗原百合",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-400"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-400"
     },
     {
       "id": 14757,
@@ -202,7 +202,7 @@ window.actressData = {
         "纱々原ゆり",
         "朝阳えま"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-219"
     },
     {
       "id": 16309,
@@ -221,7 +221,7 @@ window.actressData = {
         "新村晶",
         "纱々原ゆり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GENU-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GENU-008"
     }
   ]
 };

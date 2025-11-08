@@ -65,7 +65,7 @@ window.actressData = {
         "六華ノア",
         "しみけん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-217"
     },
     {
       "id": 8806,
@@ -81,7 +81,7 @@ window.actressData = {
       "actress": [
         "松下莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FOCS-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-232"
     },
     {
       "id": 9494,
@@ -97,7 +97,7 @@ window.actressData = {
       "actress": [
         "松下莉子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAN-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-303"
     }
   ]
 };

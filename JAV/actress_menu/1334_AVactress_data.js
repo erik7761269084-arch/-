@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "愛名光莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUKC-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-079"
     },
     {
       "id": 88909,
@@ -76,7 +76,7 @@ window.actressData = {
         "橋本涼",
         "凰香奈芽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TRE-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-219"
     },
     {
       "id": 77755,
@@ -95,7 +95,7 @@ window.actressData = {
         "愛名光莉",
         "明美美羽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDB-953"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-953"
     },
     {
       "id": 77748,
@@ -111,7 +111,7 @@ window.actressData = {
       "actress": [
         "愛名光莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-436"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-436"
     },
     {
       "id": 99491,
@@ -127,7 +127,7 @@ window.actressData = {
       "actress": [
         "愛名光莉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-161"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-161"
     },
     {
       "id": 70960,
@@ -145,7 +145,7 @@ window.actressData = {
         "森林原人",
         "梁井一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-689"
     }
   ]
 };

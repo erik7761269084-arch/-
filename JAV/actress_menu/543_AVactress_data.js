@@ -51,7 +51,7 @@ window.actressData = {
       "actress": [
         "與田鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-060"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-060"
     },
     {
       "id": 4544,
@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "與田鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-042"
     },
     {
       "id": 5408,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "與田鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FNS-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-027"
     },
     {
       "id": 8501,
@@ -99,7 +99,7 @@ window.actressData = {
       "actress": [
         "與田鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-937"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-937"
     },
     {
       "id": 7763,
@@ -117,7 +117,7 @@ window.actressData = {
         "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-962"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-962"
     },
     {
       "id": 9281,
@@ -133,7 +133,7 @@ window.actressData = {
       "actress": [
         "與田鈴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-927"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-927"
     },
     {
       "id": 10825,
@@ -150,7 +150,7 @@ window.actressData = {
         "與田鈴",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-904"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-904"
     }
   ]
 };

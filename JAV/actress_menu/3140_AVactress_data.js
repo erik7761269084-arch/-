@@ -33,7 +33,7 @@ window.actressData = {
         "岩下たろう",
         "荒木ゆあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASS-762"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-762"
     }
   ]
 };

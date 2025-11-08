@@ -52,7 +52,7 @@ window.actressData = {
         "水瀬美弥",
         "市川七海"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-204"
     }
   ]
 };

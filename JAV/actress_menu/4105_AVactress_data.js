@@ -36,7 +36,7 @@ window.actressData = {
         "宫川ありさ",
         "绫瀬みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-520"
     },
     {
       "id": 71630,
@@ -53,7 +53,7 @@ window.actressData = {
         "桜木优希音",
         "绫瀬みなみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAPL-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAPL-042"
     }
   ]
 };

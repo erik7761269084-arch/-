@@ -35,7 +35,7 @@ window.actressData = {
         "原花音",
         "柚奈れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-209"
     },
     {
       "id": 91451,
@@ -52,7 +52,7 @@ window.actressData = {
         "小田切ジュン",
         "柚奈れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-732"
     },
     {
       "id": 76491,
@@ -70,7 +70,7 @@ window.actressData = {
         "玉木玲",
         "柚奈れい"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-099"
     }
   ]
 };

@@ -53,7 +53,7 @@ window.actressData = {
       "actress": [
         "小野琴弓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-699"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-699"
     },
     {
       "id": 18625,
@@ -69,7 +69,7 @@ window.actressData = {
       "actress": [
         "小野琴弓"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-682"
     },
     {
       "id": 18676,
@@ -87,7 +87,7 @@ window.actressData = {
         "吉村卓",
         "蓝井优太"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPX-651"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-651"
     }
   ]
 };

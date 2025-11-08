@@ -41,7 +41,7 @@ window.actressData = {
         "井上みづき",
         "渡辺もも"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-524"
     },
     {
       "id": 107169,
@@ -60,7 +60,7 @@ window.actressData = {
         "加贺美シュナ",
         "みづのみう"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDS-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-034"
     },
     {
       "id": 19617,
@@ -78,7 +78,7 @@ window.actressData = {
         "加賀美シュナ",
         "加贺美シュナ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ABP-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-171"
     }
   ]
 };

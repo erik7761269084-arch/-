@@ -70,7 +70,7 @@ window.actressData = {
         "瀬戸すみれ",
         "桥野爱琉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-459"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-459"
     },
     {
       "id": 75566,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "桑田みのり"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1225"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1225"
     }
   ]
 };

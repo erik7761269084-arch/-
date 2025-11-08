@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-885"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-885"
     },
     {
       "id": 3782,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-833"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-833"
     },
     {
       "id": 4318,
@@ -109,7 +109,7 @@ window.actressData = {
         "乃坂日和",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
     },
     {
       "id": 4766,
@@ -125,7 +125,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-793"
     },
     {
       "id": 5195,
@@ -151,7 +151,7 @@ window.actressData = {
         "金松季歩",
         "日森一"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
     },
     {
       "id": 5544,
@@ -168,7 +168,7 @@ window.actressData = {
         "明日葉三葉",
         "左慈半造"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-744"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-744"
     },
     {
       "id": 6331,
@@ -185,7 +185,7 @@ window.actressData = {
         "明日葉三葉",
         "コグレハルト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-668"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-668"
     },
     {
       "id": 6608,
@@ -203,7 +203,7 @@ window.actressData = {
         "楓富愛",
         "トイボーイ相沢"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-107"
     },
     {
       "id": 7707,
@@ -219,7 +219,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-622"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-622"
     },
     {
       "id": 8426,
@@ -235,7 +235,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-576"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-576"
     },
     {
       "id": 8873,
@@ -267,7 +267,7 @@ window.actressData = {
         "榊原萌",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-565"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
       "id": 9271,
@@ -283,7 +283,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-527"
     },
     {
       "id": 10125,
@@ -299,7 +299,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-481"
     },
     {
       "id": 12834,
@@ -315,7 +315,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-294"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-294"
     },
     {
       "id": 13554,
@@ -332,7 +332,7 @@ window.actressData = {
         "明日葉三葉",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-252"
     },
     {
       "id": 14128,
@@ -349,7 +349,7 @@ window.actressData = {
         "明日葉三葉",
         "アリト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-120"
     },
     {
       "id": 16396,
@@ -366,7 +366,7 @@ window.actressData = {
         "明日葉三葉",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-061"
     },
     {
       "id": 16903,
@@ -383,7 +383,7 @@ window.actressData = {
         "明日葉三葉",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-019"
     },
     {
       "id": 17369,
@@ -399,7 +399,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-943"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-943"
     },
     {
       "id": 17930,
@@ -416,7 +416,7 @@ window.actressData = {
         "明日葉三葉",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-868"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-868"
     },
     {
       "id": 18443,
@@ -433,7 +433,7 @@ window.actressData = {
         "明日葉三葉",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-906"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-906"
     },
     {
       "id": 90686,
@@ -449,7 +449,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OAE-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OAE-237"
     },
     {
       "id": 107484,
@@ -466,7 +466,7 @@ window.actressData = {
         "明日葉三葉",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-833"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-833"
     },
     {
       "id": 107676,
@@ -482,7 +482,7 @@ window.actressData = {
       "actress": [
         "明日葉三葉"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-818"
     }
   ]
 };

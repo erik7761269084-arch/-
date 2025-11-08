@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "葵こはる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CLO-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-033"
     },
     {
       "id": 70494,
@@ -51,7 +51,7 @@ window.actressData = {
         "青山葵",
         "葵こはる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-577"
     },
     {
       "id": 71355,
@@ -69,7 +69,7 @@ window.actressData = {
         "并木优",
         "葵こはる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZ-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-314"
     }
   ]
 };

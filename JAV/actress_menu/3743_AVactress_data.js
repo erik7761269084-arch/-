@@ -42,7 +42,7 @@ window.actressData = {
         "枫ゆかり",
         "川口叶纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCH-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-178"
     },
     {
       "id": 67609,
@@ -61,7 +61,7 @@ window.actressData = {
         "结菜はるか",
         "神谷美桜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SCPX-212"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-212"
     }
   ]
 };

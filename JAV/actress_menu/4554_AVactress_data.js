@@ -34,7 +34,7 @@ window.actressData = {
         "和久井由美子",
         "大内友花里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VNDS-5195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5195"
     },
     {
       "id": 78486,
@@ -54,7 +54,7 @@ window.actressData = {
         "狩野あき",
         "村井顺子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RUKO-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RUKO-045"
     }
   ]
 };

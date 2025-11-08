@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "花守夏歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-656"
     },
     {
       "id": 3793,
@@ -74,7 +74,7 @@ window.actressData = {
       "actress": [
         "花守夏歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-640"
     },
     {
       "id": 4781,
@@ -90,7 +90,7 @@ window.actressData = {
       "actress": [
         "花守夏歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-604"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-604"
     },
     {
       "id": 5518,
@@ -106,7 +106,7 @@ window.actressData = {
       "actress": [
         "花守夏歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-581"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-581"
     },
     {
       "id": 6294,
@@ -124,7 +124,7 @@ window.actressData = {
         "鲛岛",
         "イセドン内村"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-555"
     },
     {
       "id": 7085,
@@ -140,7 +140,7 @@ window.actressData = {
       "actress": [
         "花守夏歩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-533"
     },
     {
       "id": 7738,
@@ -157,7 +157,7 @@ window.actressData = {
         "花守夏歩",
         "南佳也"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IPZZ-518"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-518"
     }
   ]
 };

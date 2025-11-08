@@ -35,7 +35,7 @@ window.actressData = {
         "NIMO",
         "河原かえで"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=POST-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
     },
     {
       "id": 78050,
@@ -54,7 +54,7 @@ window.actressData = {
         "近藤ユキ",
         "相泽ゆりな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-070"
     },
     {
       "id": 70848,
@@ -73,7 +73,7 @@ window.actressData = {
         "美咲まや",
         "近藤ユキ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-109"
     }
   ]
 };

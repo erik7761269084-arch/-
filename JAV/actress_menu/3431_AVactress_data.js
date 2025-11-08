@@ -38,7 +38,7 @@ window.actressData = {
         "福原なつ乃",
         "鳴海まりる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-231"
     }
   ]
 };

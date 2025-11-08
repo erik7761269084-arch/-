@@ -33,7 +33,7 @@ window.actressData = {
         "柏木小夏",
         "久宝ななえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-454"
     }
   ]
 };

@@ -33,7 +33,7 @@ window.actressData = {
         "鲛岛",
         "七宫ゆりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-589"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-589"
     },
     {
       "id": 85604,
@@ -50,7 +50,7 @@ window.actressData = {
         "前乃菜菜",
         "七宫ゆりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-223"
     },
     {
       "id": 85597,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "七宫ゆりあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MISM-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-221"
     }
   ]
 };

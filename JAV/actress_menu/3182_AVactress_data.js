@@ -34,7 +34,7 @@ window.actressData = {
         "七尾神",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-782"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-782"
     },
     {
       "id": 3535,
@@ -51,7 +51,7 @@ window.actressData = {
         "夕木小彩",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-730"
     },
     {
       "id": 3869,
@@ -68,7 +68,7 @@ window.actressData = {
         "西元美紗",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-996"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-996"
     },
     {
       "id": 63025,
@@ -85,7 +85,7 @@ window.actressData = {
         "蘆名穗花",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MYBA-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-083"
     },
     {
       "id": 6678,
@@ -103,7 +103,7 @@ window.actressData = {
         "真琴",
         "东凛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-940"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-940"
     },
     {
       "id": 6888,
@@ -120,7 +120,7 @@ window.actressData = {
         "片寄しゅうか",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-320"
     },
     {
       "id": 69566,
@@ -137,7 +137,7 @@ window.actressData = {
         "月野香澄",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-694"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-694"
     },
     {
       "id": 7212,
@@ -155,7 +155,7 @@ window.actressData = {
         "イセドン内村",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-808"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-808"
     },
     {
       "id": 73641,
@@ -172,7 +172,7 @@ window.actressData = {
         "森澤佳奈",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-117"
     },
     {
       "id": 75291,
@@ -189,7 +189,7 @@ window.actressData = {
         "若宮穂乃",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JJDA-056"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-056"
     },
     {
       "id": 10443,
@@ -207,7 +207,7 @@ window.actressData = {
         "真琴",
         "笕纯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-453"
     },
     {
       "id": 10390,
@@ -225,7 +225,7 @@ window.actressData = {
         "美咲音",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MVG-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-111"
     },
     {
       "id": 91609,
@@ -242,7 +242,7 @@ window.actressData = {
         "伊织凉子",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-252"
     },
     {
       "id": 89155,
@@ -260,7 +260,7 @@ window.actressData = {
         "タイ",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-263"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-263"
     },
     {
       "id": 91058,
@@ -276,7 +276,7 @@ window.actressData = {
       "actress": [
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-530"
     },
     {
       "id": 92969,
@@ -293,7 +293,7 @@ window.actressData = {
         "一条美绪",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-652"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-652"
     },
     {
       "id": 68137,
@@ -311,7 +311,7 @@ window.actressData = {
         "真琴",
         "北川美玖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-254"
     },
     {
       "id": 67290,
@@ -327,7 +327,7 @@ window.actressData = {
       "actress": [
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-081"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-081"
     },
     {
       "id": 84481,
@@ -343,7 +343,7 @@ window.actressData = {
       "actress": [
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-377"
     },
     {
       "id": 80256,
@@ -360,7 +360,7 @@ window.actressData = {
         "真琴",
         "宫崎リン"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-369"
     },
     {
       "id": 84341,
@@ -376,7 +376,7 @@ window.actressData = {
       "actress": [
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-874"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-874"
     },
     {
       "id": 78671,
@@ -392,7 +392,7 @@ window.actressData = {
       "actress": [
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUL-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-567"
     },
     {
       "id": 82233,
@@ -409,7 +409,7 @@ window.actressData = {
         "小泉日向",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-413"
     },
     {
       "id": 82104,
@@ -426,7 +426,7 @@ window.actressData = {
         "川原かなえ",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VAGU-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-227"
     },
     {
       "id": 83458,
@@ -443,7 +443,7 @@ window.actressData = {
         "松下纱栄子",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-401"
     },
     {
       "id": 83314,
@@ -460,7 +460,7 @@ window.actressData = {
         "白葉莉子",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSNI-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-697"
     },
     {
       "id": 77241,
@@ -477,7 +477,7 @@ window.actressData = {
         "望月憧",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PRTD-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRTD-025"
     },
     {
       "id": 75694,
@@ -494,7 +494,7 @@ window.actressData = {
         "水野優香",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-905"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-905"
     },
     {
       "id": 77178,
@@ -510,7 +510,7 @@ window.actressData = {
       "actress": [
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VOSS-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOSS-174"
     },
     {
       "id": 81718,
@@ -527,7 +527,7 @@ window.actressData = {
         "真琴",
         "时田こずえ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IWAN-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IWAN-008"
     },
     {
       "id": 71035,
@@ -544,7 +544,7 @@ window.actressData = {
         "凛音とうか",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-761"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-761"
     },
     {
       "id": 76488,
@@ -562,7 +562,7 @@ window.actressData = {
         "真琴",
         "丸千香子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-116"
     },
     {
       "id": 88417,
@@ -579,7 +579,7 @@ window.actressData = {
         "波多野结衣",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIAA-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-113"
     },
     {
       "id": 70190,
@@ -596,7 +596,7 @@ window.actressData = {
         "高坂ますみ",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VENU-857"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-857"
     },
     {
       "id": 70243,
@@ -613,7 +613,7 @@ window.actressData = {
         "水野優香",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEC-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-343"
     },
     {
       "id": 71169,
@@ -630,7 +630,7 @@ window.actressData = {
         "風間由美",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HONE-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONE-237"
     },
     {
       "id": 71212,
@@ -647,7 +647,7 @@ window.actressData = {
         "凛音とうか",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-614"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-614"
     },
     {
       "id": 82650,
@@ -664,7 +664,7 @@ window.actressData = {
         "真琴",
         "宫村ななこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-587"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-587"
     },
     {
       "id": 79679,
@@ -681,7 +681,7 @@ window.actressData = {
         "真琴",
         "三岛奈津子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NDRA-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-033"
     },
     {
       "id": 72410,
@@ -698,7 +698,7 @@ window.actressData = {
         "葵司",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-005"
     },
     {
       "id": 69485,
@@ -715,7 +715,7 @@ window.actressData = {
         "橘日向",
         "真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-936"
     }
   ]
 };

@@ -50,7 +50,7 @@ window.actressData = {
         "あおい藍",
         "凪宮ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-023"
     },
     {
       "id": 5735,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "凪宮ゆきの"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-839"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-839"
     }
   ]
 };

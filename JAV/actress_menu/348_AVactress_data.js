@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "宮本留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-204"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-204"
     },
     {
       "id": 3491,
@@ -136,7 +136,7 @@ window.actressData = {
         "稻场流花",
         "叶月桃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
     },
     {
       "id": 4104,
@@ -164,7 +164,7 @@ window.actressData = {
         "有森涼",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-394"
     },
     {
       "id": 4524,
@@ -181,7 +181,7 @@ window.actressData = {
         "宮本留衣",
         "タクト"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EYAN-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-203"
     },
     {
       "id": 5347,
@@ -197,7 +197,7 @@ window.actressData = {
       "actress": [
         "宮本留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-235"
     },
     {
       "id": 5289,
@@ -228,7 +228,7 @@ window.actressData = {
         "浅田结梨",
         "高丘大空"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-388"
     },
     {
       "id": 6922,
@@ -245,7 +245,7 @@ window.actressData = {
         "宮本留衣",
         "えるる"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-209"
     },
     {
       "id": 7526,
@@ -262,7 +262,7 @@ window.actressData = {
         "宮本留衣",
         "鲛岛"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-203"
     },
     {
       "id": 8217,
@@ -279,7 +279,7 @@ window.actressData = {
         "北野未奈",
         "宮本留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-195"
     },
     {
       "id": 9061,
@@ -295,7 +295,7 @@ window.actressData = {
       "actress": [
         "宮本留衣"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-190"
     },
     {
       "id": 9015,
@@ -353,7 +353,7 @@ window.actressData = {
         "かわきためいさ",
         "安倍亜沙美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
       "id": 9925,
@@ -370,7 +370,7 @@ window.actressData = {
         "宮本留衣",
         "七尾神"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-182"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-182"
     }
   ]
 };

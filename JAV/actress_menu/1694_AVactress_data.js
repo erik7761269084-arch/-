@@ -52,7 +52,7 @@ window.actressData = {
         "七瀬美香",
         "白川莉纱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-341"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-341"
     },
     {
       "id": 72924,
@@ -71,7 +71,7 @@ window.actressData = {
         "新井爱丽",
         "鸟越乃亜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-053"
     },
     {
       "id": 1842,
@@ -87,7 +87,7 @@ window.actressData = {
       "actress": [
         "星優乃"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHD-16"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHD-16"
     }
   ]
 };

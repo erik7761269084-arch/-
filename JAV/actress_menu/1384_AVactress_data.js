@@ -54,7 +54,7 @@ window.actressData = {
         "星乃夏月",
         "桜和ことこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-978"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-978"
     },
     {
       "id": 91869,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "桜和ことこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TNIK-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TNIK-005"
     },
     {
       "id": 84371,
@@ -86,7 +86,7 @@ window.actressData = {
       "actress": [
         "桜和ことこ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DRPT-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-020"
     }
   ]
 };

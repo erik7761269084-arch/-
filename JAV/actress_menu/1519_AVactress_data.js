@@ -50,7 +50,7 @@ window.actressData = {
       "actress": [
         "桃果明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-883"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-883"
     },
     {
       "id": 90240,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "桃果明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-792"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-792"
     },
     {
       "id": 16511,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "桃果明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-849"
     },
     {
       "id": 87661,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "桃果明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-772"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-772"
     },
     {
       "id": 77598,
@@ -114,7 +114,7 @@ window.actressData = {
       "actress": [
         "桃果明里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-732"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-732"
     }
   ]
 };

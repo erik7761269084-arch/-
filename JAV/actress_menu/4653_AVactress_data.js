@@ -38,7 +38,7 @@ window.actressData = {
       "actress": [
         "堀咲りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-239"
     },
     {
       "id": 76684,
@@ -54,7 +54,7 @@ window.actressData = {
       "actress": [
         "堀咲りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSPD-103"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-103"
     },
     {
       "id": 79790,
@@ -70,7 +70,7 @@ window.actressData = {
       "actress": [
         "堀咲りあ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-487"
     }
   ]
 };

@@ -101,7 +101,7 @@ window.actressData = {
         "安倍亜沙美",
         "响りん"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
       "id": 86481,
@@ -119,7 +119,7 @@ window.actressData = {
         "水城奈緒",
         "黑川纱里奈"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUN-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUN-030"
     },
     {
       "id": 76028,
@@ -135,7 +135,7 @@ window.actressData = {
       "actress": [
         "水城奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-008"
     },
     {
       "id": 77437,
@@ -154,7 +154,7 @@ window.actressData = {
         "水城奈緒",
         "新井爱丽"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-611"
     },
     {
       "id": 73915,
@@ -171,7 +171,7 @@ window.actressData = {
         "水城奈緒",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RBD-935"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-935"
     },
     {
       "id": 73735,
@@ -187,7 +187,7 @@ window.actressData = {
       "actress": [
         "水城奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-176"
     },
     {
       "id": 73922,
@@ -203,7 +203,7 @@ window.actressData = {
       "actress": [
         "水城奈緒"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUY-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-890"
     },
     {
       "id": 69855,
@@ -221,7 +221,7 @@ window.actressData = {
         "水城奈緒",
         "三岛奈津子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-405"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-405"
     },
     {
       "id": 88483,
@@ -240,7 +240,7 @@ window.actressData = {
         "芹沢ゆうり",
         "瀬乃ひなた"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTD-157"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-157"
     },
     {
       "id": 59833,
@@ -258,7 +258,7 @@ window.actressData = {
         "水城奈緒",
         "江波りゅう（RYU)"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTMS-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTMS-100"
     }
   ]
 };

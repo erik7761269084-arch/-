@@ -40,7 +40,7 @@ window.actressData = {
         "真白兰",
         "仲川舞子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-098"
     }
   ]
 };

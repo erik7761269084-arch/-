@@ -33,7 +33,7 @@ window.actressData = {
         "井上綾子",
         "テッペイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-289"
     },
     {
       "id": 92018,
@@ -51,7 +51,7 @@ window.actressData = {
         "岩下たろう",
         "テッペイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-273"
     },
     {
       "id": 107024,
@@ -68,7 +68,7 @@ window.actressData = {
         "玉城夏帆",
         "テッペイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-703"
     },
     {
       "id": 87099,
@@ -85,7 +85,7 @@ window.actressData = {
         "宝生めい",
         "テッペイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-680"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-680"
     }
   ]
 };

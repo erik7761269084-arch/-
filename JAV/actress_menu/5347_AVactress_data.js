@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "麻宫わかな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-019"
     }
   ]
 };

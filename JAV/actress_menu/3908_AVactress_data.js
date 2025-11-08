@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "ソフィア・杏・ハサウェイ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HR-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HR-010"
     }
   ]
 };

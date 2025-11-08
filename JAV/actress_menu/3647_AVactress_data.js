@@ -35,7 +35,7 @@ window.actressData = {
         "铃木理沙",
         "辻芽爱里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-147"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-147"
     },
     {
       "id": 67646,
@@ -53,7 +53,7 @@ window.actressData = {
         "緒川春",
         "铃木理沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-143"
     },
     {
       "id": 85885,
@@ -72,7 +72,7 @@ window.actressData = {
         "铃木理沙",
         "椎木くるみ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-044"
     }
   ]
 };

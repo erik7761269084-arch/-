@@ -59,7 +59,7 @@ window.actressData = {
       "actress": [
         "佐々木ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SUWK-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-002"
     },
     {
       "id": 106516,
@@ -75,7 +75,7 @@ window.actressData = {
       "actress": [
         "佐々木ひな"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-102"
     },
     {
       "id": 73015,
@@ -96,7 +96,7 @@ window.actressData = {
         "月本爱",
         "四ツ叶うらら"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SQTE-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-191"
     }
   ]
 };

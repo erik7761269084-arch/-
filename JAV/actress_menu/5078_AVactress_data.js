@@ -32,7 +32,7 @@ window.actressData = {
       "actress": [
         "仓吉美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIHA-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIHA-027"
     },
     {
       "id": 83675,
@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "仓吉美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIST-288"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-288"
     },
     {
       "id": 82958,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "仓吉美帆"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LUXU-1214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1214"
     }
   ]
 };

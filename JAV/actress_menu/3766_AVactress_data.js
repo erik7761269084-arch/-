@@ -33,7 +33,7 @@ window.actressData = {
         "仁科百华",
         "北川瞳"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-129"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-129"
     },
     {
       "id": 92631,
@@ -53,7 +53,7 @@ window.actressData = {
         "梨杏",
         "上原海里"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MN-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MN-035"
     }
   ]
 };

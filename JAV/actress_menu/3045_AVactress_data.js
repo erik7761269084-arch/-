@@ -34,7 +34,7 @@ window.actressData = {
         "神楽アイネ",
         "竹内真琴"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GS-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-249"
     },
     {
       "id": 76806,
@@ -53,7 +53,7 @@ window.actressData = {
         "爱瀬美希",
         "天音ゆさ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SABA-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-394"
     }
   ]
 };

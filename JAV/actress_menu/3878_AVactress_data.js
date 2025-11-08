@@ -33,7 +33,7 @@ window.actressData = {
         "真白湖子",
         "望月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XRW-628"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-628"
     },
     {
       "id": 77973,
@@ -50,7 +50,7 @@ window.actressData = {
         "川上優",
         "望月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HTHD-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-159"
     },
     {
       "id": 106297,
@@ -70,7 +70,7 @@ window.actressData = {
         "望月",
         "松下美织"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VRTM-396"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-396"
     },
     {
       "id": 77889,
@@ -87,7 +87,7 @@ window.actressData = {
         "音羽美鈴",
         "望月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-439"
     },
     {
       "id": 77059,
@@ -103,7 +103,7 @@ window.actressData = {
       "actress": [
         "望月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PTS-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-414"
     },
     {
       "id": 73451,
@@ -120,7 +120,7 @@ window.actressData = {
         "三上悠亜",
         "望月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SNIS-986"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-986"
     },
     {
       "id": 86929,
@@ -138,7 +138,7 @@ window.actressData = {
         "蓝井优太",
         "望月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-277"
     },
     {
       "id": 99819,
@@ -155,7 +155,7 @@ window.actressData = {
         "初川南",
         "望月"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDE-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-180"
     }
   ]
 };

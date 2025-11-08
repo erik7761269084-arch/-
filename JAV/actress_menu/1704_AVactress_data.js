@@ -42,7 +42,7 @@ window.actressData = {
       "actress": [
         "荒木里菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-367"
     },
     {
       "id": 1926,
@@ -58,7 +58,7 @@ window.actressData = {
       "actress": [
         "荒木里菜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SMBD-97"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-97"
     }
   ]
 };

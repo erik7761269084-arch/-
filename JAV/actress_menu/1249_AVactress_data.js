@@ -47,7 +47,7 @@ window.actressData = {
       "actress": [
         "日森玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUAN-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUAN-024"
     },
     {
       "id": 14042,
@@ -63,7 +63,7 @@ window.actressData = {
       "actress": [
         "日森玲子"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-474"
     }
   ]
 };

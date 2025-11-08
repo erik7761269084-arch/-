@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "高田美沙"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SAMA-372"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-372"
     }
   ]
 };

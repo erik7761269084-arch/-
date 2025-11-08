@@ -33,7 +33,7 @@ window.actressData = {
         "タツ",
         "爱音"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GANA-2298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2298"
     }
   ]
 };

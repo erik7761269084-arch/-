@@ -48,7 +48,7 @@ window.actressData = {
       "actress": [
         "今村由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-523"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-523"
     },
     {
       "id": 4817,
@@ -64,7 +64,7 @@ window.actressData = {
       "actress": [
         "今村由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-519"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-519"
     },
     {
       "id": 5604,
@@ -80,7 +80,7 @@ window.actressData = {
       "actress": [
         "今村由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-514"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-514"
     },
     {
       "id": 7107,
@@ -96,7 +96,7 @@ window.actressData = {
       "actress": [
         "今村由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-509"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-509"
     },
     {
       "id": 6383,
@@ -112,7 +112,7 @@ window.actressData = {
       "actress": [
         "今村由美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDNM-512"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-512"
     }
   ]
 };

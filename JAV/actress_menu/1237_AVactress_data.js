@@ -50,7 +50,7 @@ window.actressData = {
         "愛瀬優里",
         "白花暖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVSHA-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-022"
     },
     {
       "id": 17522,
@@ -66,7 +66,7 @@ window.actressData = {
       "actress": [
         "白花暖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MTALL-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-095"
     },
     {
       "id": 17506,
@@ -82,7 +82,7 @@ window.actressData = {
       "actress": [
         "白花暖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-140"
     },
     {
       "id": 17869,
@@ -98,7 +98,7 @@ window.actressData = {
       "actress": [
         "白花暖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-093"
     },
     {
       "id": 90549,
@@ -116,7 +116,7 @@ window.actressData = {
         "白花暖",
         "Qべぇ"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-140"
     },
     {
       "id": 90601,
@@ -132,7 +132,7 @@ window.actressData = {
       "actress": [
         "白花暖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPPE-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-131"
     },
     {
       "id": 77518,
@@ -148,7 +148,7 @@ window.actressData = {
       "actress": [
         "白花暖"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-473"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-473"
     },
     {
       "id": 85565,
@@ -165,7 +165,7 @@ window.actressData = {
         "白花暖",
         "田渊正浩"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MOGI-068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-068"
     }
   ]
 };

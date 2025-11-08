@@ -67,7 +67,7 @@ window.actressData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-2710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2710"
     },
     {
       "id": 1118,
@@ -83,7 +83,7 @@ window.actressData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-1606"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1606"
     },
     {
       "id": 1531,
@@ -106,7 +106,7 @@ window.actressData = {
         "菅原奈緒美",
         "若林美保"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-108"
     },
     {
       "id": 408,
@@ -122,7 +122,7 @@ window.actressData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HEYZO-0481"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0481"
     },
     {
       "id": 1882,
@@ -138,7 +138,7 @@ window.actressData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-115"
     },
     {
       "id": 1887,
@@ -154,7 +154,7 @@ window.actressData = {
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-107"
     }
   ]
 };

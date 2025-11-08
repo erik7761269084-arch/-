@@ -52,7 +52,7 @@ window.actressData = {
       "actress": [
         "京香栞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-468"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-468"
     },
     {
       "id": 4295,
@@ -68,7 +68,7 @@ window.actressData = {
       "actress": [
         "京香栞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-399"
     },
     {
       "id": 5181,
@@ -84,7 +84,7 @@ window.actressData = {
       "actress": [
         "京香栞"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-046"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-046"
     }
   ]
 };
