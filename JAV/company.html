@@ -136,7 +136,7 @@ let companies = [], currentPage = 1, pageSize = 18;
 
 async function loadCompanies() {
   try {
-    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/company_all.json");
+    const res = await fetch("https://yunvgong.com/JAV/category/company_all.json");
     const data = await res.json();
     companies = data.filter(c => c.company && c.company.trim() !== "");
     renderCompanies();
