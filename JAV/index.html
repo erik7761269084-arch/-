@@ -218,7 +218,7 @@ function loadLatestAV() {
 
 /* 女优 */
 async function loadActresses() {
-  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/JAV_actress_menu_all");
+  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/actress_menu_all");
   const data = await res.json();
   const list = data.filter(a => a.img_url).slice(0,20);
   const c = document.getElementById('actressGrid');
