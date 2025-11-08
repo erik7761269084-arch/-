@@ -69,32 +69,25 @@ body {
   color: #ffa500;
   text-decoration: none;
 }
+
+.page-title {
+    text-align: center;
+}
 </style>
 </head>
 <body>
 
-<h1>频道首页</h1>
-
-<!-- 文字列表 -->
-<div class="channel-list">
-  <h2>频道首页</h2>
-  <p><a href="./CN_AV/index.html">国产AV网站</a></p>
-  <p><a href="./CN_AV/index.html">国产AV网站</a></p>
-  <p><a href="./JAV/index.html">日本AV</a></p>
-  <p><a href="./JAV/index.html">日本AV</a></p>
-  <p><a href="./福利姬频道总目录/index.html">COS福利姬图库</a></p>
-  <p><a href="./福利姬频道总目录/index.html">COS福利姬图库</a></p>
-</div>
-
+<h1 class="page-title" id="page-title">御女宫 · 分类导航</h1>
+ 
 <!-- 底部三个卡片 -->
 <div id="companyGrid"></div>
 
 <script>
 // 底部三个卡片数据
 const companyList = [
-  { company: "国产AV网站", company_url: "./CN_AV/index.html", img_url: "https://example.com/cnav.jpg" },
-  { company: "日本AV", company_url: "./JAV/index.html", img_url: "https://example.com/jav.jpg" },
-  { company: "COS福利姬图库", company_url: "./福利姬频道总目录/index.html", img_url: "https://example.com/cos.jpg" }
+  { company: "国产AV网站", company_url: "./CN_AV/index.html", img_url: "https://picmeta2024.sbs/upload/vod/20230820-1/0795de893a1526f058a7512764085c20.jpg" },
+  { company: "日本AV", company_url: "./JAV/index.html", img_url: "https://picture.yoshiclub.xyz/20250327/370cdc51-a89c-421b-ad1f-f06b8551e8bc.jpg" },
+  { company: "COS福利姬图库", company_url: "./福利姬频道总目录/index.html", img_url: "https://tutu1.space/images/2025/10/04/6b7ff4a2a8d95d22cedc3788e2f4e4af.jpg" }
 ];
 
 const container = document.getElementById("companyGrid");
