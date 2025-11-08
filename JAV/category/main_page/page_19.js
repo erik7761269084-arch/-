@@ -1,1614 +1,1619 @@
 window.PAGE_DATA = [
   {
-    "id": 106975,
-    "IDcode": "ALDN-211",
-    "title": "ガクガクにされた女 秋元美織",
+    "id": 2303,
+    "IDcode": "CAWD-881",
+    "title": "新人出道！脫下衣服驚豔52cm小蠻腰美乳身材，芭蕾天才少女 AV DEBUT ~ 清野咲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-12",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/202510020212112121_87559_thumbnail.webp",
     "actress": [
-      "秋元美織"
+      "清野咲"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-211"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-881"
   },
   {
-    "id": 106852,
-    "IDcode": "ALDN-212",
-    "title": "お義母さん、にょっ女房よりずっといいよ… 小松杏",
+    "id": 2334,
+    "IDcode": "CAWD-883",
+    "title": "青春美少女姐妹花被繼父癡漢騷擾卻不報警，爽到不想報？ ~ 靜河 北岡果林",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-26",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-212"
-  },
-  {
-    "id": 106851,
-    "IDcode": "ALDN-213",
-    "title": "同窓会の後は… 滝ゆいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-26",
-    "cover_url": "https://tutu1.space/images/2023/10/28/d8e3c2dbb6c855a63a716f8373a21d6d.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002035725392392_85045_thumbnail.webp",
     "actress": [
-      "滝ゆいな"
+      "北岡果林",
+      "静河"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-213"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-883"
   },
   {
-    "id": 66081,
-    "IDcode": "ALDN-214",
-    "title": "ALDN-214 今から妻を献上します… 初めて浮気をして帰ってきます…",
+    "id": 2218,
+    "IDcode": "CAWD-884",
+    "title": "被住在隔壁的垃圾屋裏的骯髒臭大叔瘋狂中出奸污，連續55發不拔中出搞到懷孕的清純女大學生的悲慘末路 ~ 黒島玲衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-05-15",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002021519462462_40854_thumbnail.webp",
     "actress": [
-      "鈴木真夕"
+      "黒島玲衣"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-214"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-884"
   },
   {
-    "id": 106850,
-    "IDcode": "ALDN-215",
-    "title": "全裸義母 中山穂香",
+    "id": 2224,
+    "IDcode": "CAWD-885",
+    "title": "學霸運動全能身材無敵，人生勝利組卻冷漠瞧不起人，社會老大教她做人還讓她爽翻天 ~ 月野江翠",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-26",
-    "cover_url": "https://tutu1.space/images/2023/10/28/bc8acf7db9e6f89bd7d938062aa03fcb.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002041718123123_20809_thumbnail.webp",
     "actress": [
-      "ひょこり",
-      "中山穂香"
+      "月野江翠"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-215"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-885"
   },
   {
-    "id": 106849,
-    "IDcode": "ALDN-216",
-    "title": "あなた、私みたいなおばさん興奮させて…どうするのよ… 西園寺美緒",
+    "id": 82290,
+    "IDcode": "CEAD-179",
+    "title": "不貞若妻！7 澁谷果歩",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-26",
-    "cover_url": "https://tutu1.space/images/2023/10/28/0488839676c7492a7c3d5e966532de13.jpg",
+    "company": "セレブの友",
+    "publish_date": "2016-07-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/739a6e072c5e74d29c97dfb404505eca.jpg",
     "actress": [
-      "森下美绪"
+      "澁谷果歩"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-216"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-179"
   },
   {
-    "id": 106848,
-    "IDcode": "ALDN-217",
-    "title": "やっぱりシングルマザーが最高にいいや… 若槻めぐみ",
+    "id": 86921,
+    "IDcode": "CEAD-201",
+    "title": "大槻ひびき絶対エロティシズム3SEX",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-26",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2017-01-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230326-1/274a647583f04c6fd0d229d8d203dbdc.jpg",
     "actress": [
-      "レンジャー鏑木",
-      "若槻めぐみ"
+      "波多野结衣",
+      "大槻响",
+      "川上優"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-217"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-201"
   },
   {
-    "id": 106675,
-    "IDcode": "ALDN-218",
-    "title": "たびじ 母と子のふたり旅 伊東沙蘭",
+    "id": 83518,
+    "IDcode": "CEAD-288",
+    "title": "私は快楽狂いのド淫乱オナニスト4 有村麻衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://tutu1.space/images/2023/10/30/67e44e94af1d6ad2f564efa7813d0978.jpg",
+    "company": "セレブの友",
+    "publish_date": "2020-01-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/71cfc6e9f4b6a2c45d4b12cc234c797c.jpg",
     "actress": [
-      "イッセイ"
+      "有村麻衣"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-218"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-288"
   },
   {
-    "id": 91577,
-    "IDcode": "ALDN-219",
-    "title": "母姦中出し 息子に初めて中出しされた母 石原ゆかり",
+    "id": 86827,
+    "IDcode": "CEAD-330",
+    "title": "私は快楽狂いのド淫乱オナニスト11 波多野結衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/bfb6764b47ac239d72d81f52d015332e.jpg",
+    "company": "セレブの友",
+    "publish_date": "2021-02-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/bc4181a722734898050e6f20853395f1.jpg",
     "actress": [
-      "みっちー",
-      "石原ゆかり"
+      "波多野结衣"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-219"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-330"
   },
   {
-    "id": 91610,
-    "IDcode": "ALDN-220",
-    "title": "おっさんラッキー 紗々原ゆり",
+    "id": 9159,
+    "IDcode": "CEAD-661",
+    "title": "15名女優扒開屁股爲你而自慰 Vol.4 ~ 友田彩也香 胡桃櫻花 堤芹奈 椎名心春 堀北実來 美園和花 等",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-10",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2025-01-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20250113/4167fbb7-31fd-4028-b7e1-8cab329d5511.jpg",
     "actress": [
-      "纱々原ゆり"
+      "美園和花",
+      "天月梓",
+      "胡桃櫻花",
+      "友田彩也香",
+      "堀北実来",
+      "椎名心春",
+      "上戶真理",
+      "堤芹奈",
+      "緒川春",
+      "工藤りおな",
+      "安倍亜沙美"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-220"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-661"
   },
   {
-    "id": 106682,
-    "IDcode": "ALDN-221",
-    "title": "舐め好き親父と欲求不満な嫁 小早川怜子",
+    "id": 69453,
+    "IDcode": "CEAD-674",
+    "title": "- 乳首オナニーでイク15人の女たち！Vol，3～乳首いじって個性豊かに発情・メス化するド淫乱女優ドキュメント - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-10",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/07/03/e9fa1aa70d37db1ba23a5f4d50f26e19.jpg",
     "actress": [
-      "小早川怜子",
-      "ひょこり"
+      "小坂ひまり",
+      "浜辺栞帆",
+      "三岳祐奈",
+      "堀北実来",
+      "柊有希",
+      "西村ニーナ",
+      "池田あやみ",
+      "生田望美",
+      "稲月このは",
+      "由爱可奈",
+      "安倍亜沙美"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-221"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-674"
   },
   {
-    "id": 106679,
-    "IDcode": "ALDN-222",
-    "title": "この雌漢淫獣なり 高園ゆり子",
+    "id": 4836,
+    "IDcode": "CEAD-689",
+    "title": "巨乳大屁股正妹被慾火燒身的男人猛幹內射 ~ 夏川步美",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://tutu1.space/images/2023/10/30/6a1e78de83970c25ae287a2a7898b45f.jpg",
-    "actress": [
-      "三云ゆり子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-222"
-  },
-  {
-    "id": 106673,
-    "IDcode": "ALDN-223",
-    "title": "【FANZA限定】妻が突然中出しを要求してきた理由 成宮いろは チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-11",
-    "cover_url": "https://tutu1.space/images/2023/10/30/37513ac3ea6e928bb9af3b3d7f45b222.jpg",
-    "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-223"
-  },
-  {
-    "id": 91578,
-    "IDcode": "ALDN-224",
-    "title": "やっぱりシングルマザーが最高にいいや… 陽菜りお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/83a1f5f50142bdf7ece30c988a15c21e.jpg",
-    "actress": [
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-224"
-  },
-  {
-    "id": 91602,
-    "IDcode": "ALDN-225",
-    "title": "お義母さん、にょっ女房よりずっといいよ… 彩乃ゆかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/20f248d3f3325fef67d0c72c2bf866f5.jpg",
-    "actress": [
-      "牧村彩香",
-      "左慈半造"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-225"
-  },
-  {
-    "id": 103490,
-    "IDcode": "ALDN-226",
-    "title": "辛抱堪らん 義理の娘でもおじさんは 美丘さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://tutu1.space/images/2023/11/09/01f87d089f311fae29c3ada520f81f2a.jpg",
-    "actress": [
-      "爱花みちる"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-226"
-  },
-  {
-    "id": 106575,
-    "IDcode": "ALDN-227",
-    "title": "代理出産の母 山瀬美紀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-24",
-    "cover_url": "",
-    "actress": [
-      "山瀬美紀",
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-227"
-  },
-  {
-    "id": 103494,
-    "IDcode": "ALDN-228",
-    "title": "貴方だけの為なの… 加藤ツバキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-24",
-    "cover_url": "",
-    "actress": [
-      "ひょこり",
-      "夏树カオル"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-228"
-  },
-  {
-    "id": 103495,
-    "IDcode": "ALDN-229",
-    "title": "僕が会社を辞めない理由 三田サクラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-24",
-    "cover_url": "",
-    "actress": [
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-229"
-  },
-  {
-    "id": 91605,
-    "IDcode": "ALDN-230",
-    "title": "全裸義母 加山なつこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/1e28963e2f590aba12521e8be1723f81.jpg",
-    "actress": [
-      "加山なつ子",
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-230"
-  },
-  {
-    "id": 66083,
-    "IDcode": "ALDN-231",
-    "title": "ALDN231性処理妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-05-15",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-231"
-  },
-  {
-    "id": 17878,
-    "IDcode": "ALDN-232",
-    "title": "母子的溫泉之旅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231113/2651953f-9fa2-4d5d-9790-7de52d8604df.jpg",
-    "actress": [
-      "小松杏",
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-232"
-  },
-  {
-    "id": 106363,
-    "IDcode": "ALDN-233",
-    "title": "女社長の性欲 本真ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://tutu1.space/images/2023/12/12/96cc98e99769757c44d8f8b590b3b4e0.jpg",
-    "actress": [
-      "本真友里",
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-233"
-  },
-  {
-    "id": 91606,
-    "IDcode": "ALDN-234",
-    "title": "おっさんラッキー 岬さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/ecd7f7c61b974508c0491c27b4ac4a93.jpg",
-    "actress": [
-      "岬櫻"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-234"
-  },
-  {
-    "id": 91604,
-    "IDcode": "ALDN-235",
-    "title": "辛抱堪らん 義理の娘でもおじさんは 夏川あゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/1655ef3275df6385432625d557401951.jpg",
+    "company": "セレブの友",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622101900321321_thumbnail.webp",
     "actress": [
       "夏川步美"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-235"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-689"
   },
   {
-    "id": 106509,
-    "IDcode": "ALDN-236",
-    "title": "嫁の母と俺の父 白河花清",
+    "id": 3667,
+    "IDcode": "CEAD-697",
+    "title": "一之瀨鈴 超值精選合集近5小時",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://tutu1.space/images/2023/12/19/232a0fa50ad8d09c317607776f5ba523.jpg",
+    "company": "セレブの友",
+    "publish_date": "2025-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811092957646646_85372_thumbnail.webp",
     "actress": [
-      "白河花清"
+      "一之濑铃"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-236"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-697"
   },
   {
-    "id": 91598,
-    "IDcode": "ALDN-237",
-    "title": "娘の旦那とダクあせ交尾 小林真梨香",
+    "id": 80467,
+    "IDcode": "CEMD-095",
+    "title": "痴女タクシードライバー4 合原槻羽 ～制服の下に隠した淫乱ボディでデカチン男とSEXを愉しむ痴女ドライバー！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-14",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2021-12-14",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/8ed36d682f198fa9bbe8cd3688466c8c.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-237"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-095"
   },
   {
-    "id": 91601,
-    "IDcode": "ALDN-238",
-    "title": "この雌漢淫獣なり 美原すみれ",
+    "id": 84118,
+    "IDcode": "CEMD-103",
+    "title": "朝、目覚めたら憧れの女性になっていた俺！ 朝日しずく ～憧れの朝日しずくのちっぱいとマ○コをとりあえずイタズラしてみた俺！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/4d320aab3eca1200c2a61bae371ca31e.jpg",
+    "company": "セレブの友",
+    "publish_date": "2021-12-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/1623acd7244b861bbb5f5a5264a515d6.jpg",
     "actress": [
-      "美原すみれ",
-      "ひょこり"
+      "朝日滴"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-238"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-103"
   },
   {
-    "id": 91607,
-    "IDcode": "ALDN-239",
-    "title": "お義母さん、にょっ女房よりずっといいよ… 若槻めぐみ",
+    "id": 80756,
+    "IDcode": "CEMD-125",
+    "title": "酒で暴くAV女優の本性！北野未奈 ～その仮面を剥いだ時、北野未奈の新しい一面が浮かび上がる！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/8368f32d3219761717da20bb4ed05a2b.jpg",
+    "company": "セレブの友",
+    "publish_date": "2022-02-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3a6d397c6e0a161f7adc59abdf21fcfc.jpg",
     "actress": [
-      "若槻めぐみ"
+      "森林原人"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-239"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-125"
   },
   {
-    "id": 91591,
-    "IDcode": "ALDN-240",
-    "title": "あん時のセフレは…友人の母親 花撫あや",
+    "id": 81096,
+    "IDcode": "CEMD-137",
+    "title": "涙のノンストップ激イカせSEX18 皇ゆず",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-28",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2022-03-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/351279e7505beb9fc82bc2f9da8b678f.jpg",
     "actress": [
-      "池谷佳纯"
+      "森林原人"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-240"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-137"
   },
   {
-    "id": 91603,
-    "IDcode": "ALDN-241",
-    "title": "ガクガクにされた女 田所百合",
+    "id": 84138,
+    "IDcode": "CEMD-175",
+    "title": "【FANZA限定】時間を止める力を持ったド淫乱痴女！2 さつき芽衣 パンティ付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/2c3f8dea9a1c449593dd911a60e876a1.jpg",
+    "company": "セレブの友",
+    "publish_date": "2022-05-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/0fa25d0ff443943dc006345d00ca1990.jpg",
     "actress": [
-      "田所百合"
+      "沙月芽衣",
+      "森林原人"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-241"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-175"
   },
   {
-    "id": 91593,
-    "IDcode": "ALDN-242",
-    "title": "夫に内緒で義父に頼んだ妊活 塚田詩織",
+    "id": 84137,
+    "IDcode": "CEMD-177",
+    "title": "【FANZA限定】フォロアー数7万オーバー！Iカップ美人イ○スタグラマー ドエロいコスプレSEX！ もも パンティ付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-28",
-    "cover_url": "",
-    "actress": [
-      "塚田詩織"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-242"
-  },
-  {
-    "id": 91595,
-    "IDcode": "ALDN-243",
-    "title": "あなた、私みたいなおばさん興奮させて…どうするのよ… 岡江凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-28",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2022-05-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/3ec7fcc1b86598bd515293891cd6ea6d.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-243"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-177"
   },
   {
-    "id": 91589,
-    "IDcode": "ALDN-244",
-    "title": "やっぱりシングルマザーが最高にいいや… 望月瞳",
+    "id": 87281,
+    "IDcode": "CEMD-197",
+    "title": "【FANZA限定】～溢れる性衝動に溺れるオンナ～セックス・ドンナ 三尾めぐ 激エロ・3SEX パンティ付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-11-28",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2022-07-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/2803499731730c80e38707dd2eb3fb3c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-197"
+  },
+  {
+    "id": 87284,
+    "IDcode": "CEMD-198",
+    "title": "【FANZA限定】涙のノンストップ激イカせSEX19 倉本すみれ パンティ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2022-07-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/79b0be40886883a8a6c193ae99c8718c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-198"
+  },
+  {
+    "id": 87356,
+    "IDcode": "CEMD-207",
+    "title": "【FANZA限定】「私、聞いてません！」全シーン即ハメ倒す！2 さつき芽衣 チェキとチェキキーホルダーセット",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2022-07-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/333eada83c93840b2c48452cd1a42711.jpg",
     "actress": [
-      "望月瞳",
-      "左慈半造"
+      "沙月芽衣"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-244"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-207"
   },
   {
-    "id": 106330,
-    "IDcode": "ALDN-245",
-    "title": "【FANZA限定】元彼がまさか家族に… 新村あかり チェキ付き",
+    "id": 87331,
+    "IDcode": "CEMD-209",
+    "title": "【FANZA限定】1本限りのアナルSEX復活！2 推川ゆうり チェキとチェキキーホルダーセット",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-13",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2022-07-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/93de6a1b1db6dcad957575eb98e710e9.jpg",
     "actress": [
-      "新村晶"
+      "推川悠里"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-245"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-209"
   },
   {
-    "id": 106328,
-    "IDcode": "ALDN-246",
-    "title": "【FANZA限定】新妻と義父の一週間の淡い思い出 通野未帆 チェキ付き",
+    "id": 87359,
+    "IDcode": "CEMD-214",
+    "title": "【FANZA限定】涙のノンストップ激イカせSEX20 乙アリス パンティ付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-13",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2022-08-10",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/45c817b009bec4cc4ca260764366b875.jpg",
     "actress": [
-      "通野未帆"
+      "乙愛麗絲"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-246"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-214"
   },
   {
-    "id": 91592,
-    "IDcode": "ALDN-247",
-    "title": "同窓会の後は… 夏川あゆみ",
+    "id": 87353,
+    "IDcode": "CEMD-220",
+    "title": "【FANZA限定】隣に引っ越してきた若妻痴女のドエロいパンチラ誘惑2 上坂めい パンティ付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-12",
-    "cover_url": "",
+    "company": "セレブの友",
+    "publish_date": "2022-08-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/8b2d013cce5e3e5a531e09e1640f841a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-220"
+  },
+  {
+    "id": 87330,
+    "IDcode": "CEMD-221",
+    "title": "【FANZA限定】レズSEX解禁！爆乳レズビアン 夏海さや・曖田たき …・「同時レズビアン解禁」 パンティ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2022-08-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/5d712ddca21c8d80fcb4243ee3c7f5f5.jpg",
+    "actress": [
+      "曖田たき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-221"
+  },
+  {
+    "id": 87355,
+    "IDcode": "CEMD-222",
+    "title": "【FANZA限定】涙のノンストップ激イカせSEX21 横宮七海 パンティ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2022-08-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/0d9eb003d60142644a73210873c9d44e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-222"
+  },
+  {
+    "id": 87333,
+    "IDcode": "CEMD-232",
+    "title": "【FANZA限定】青田悠華が身悶えイキ狂う！淫行・狂乱・卑劣すぎる4SEX パンティ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2022-09-14",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/8162cb8eeffe4271d156fbbed3825172.jpg",
+    "actress": [
+      "森林原人",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-232"
+  },
+  {
+    "id": 87329,
+    "IDcode": "CEMD-235",
+    "title": "感じすぎていっぱいおもらしごめんなさい…38 唯奈みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2022-09-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/f3e08f9f9fd6caae107e3eba380bcb72.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-235"
+  },
+  {
+    "id": 105839,
+    "IDcode": "CEMD-451",
+    "title": "引き篭りのボクを毎日SEXで誘惑して立ち直らせてくれた義母3 夏川あゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2023-12-26",
+    "cover_url": "https://tutu1.space/images/2024/02/23/baf93ca9391e3244223b9e051d93eed5.jpg",
     "actress": [
       "夏川步美"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-247"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-451"
   },
   {
-    "id": 91590,
-    "IDcode": "ALDN-248",
-    "title": "【FANZA限定】おっさんラッキー 戸川なみ チェキ付き",
+    "id": 10386,
+    "IDcode": "CEMD-601",
+    "title": "～幸福的近親相奸～我是全家的性處理器 3 ~ 森澤佳奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-13",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-248"
-  },
-  {
-    "id": 91596,
-    "IDcode": "ALDN-249",
-    "title": "【FANZA限定】たびじ 母と子のふたり旅 加藤ツバキ チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-13",
-    "cover_url": "",
-    "actress": [
-      "夏树カオル",
-      "イッセイ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-249"
-  },
-  {
-    "id": 106329,
-    "IDcode": "ALDN-250",
-    "title": "あがった母 中出しする息子 竹内梨恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-12",
-    "cover_url": "",
-    "actress": [
-      "竹内梨恵"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-250"
-  },
-  {
-    "id": 106332,
-    "IDcode": "ALDN-251",
-    "title": "あの時、お義母さんに誘われて… よしい美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-12",
-    "cover_url": "",
-    "actress": [
-      "しみけん",
-      "伊沢凉子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-251"
-  },
-  {
-    "id": 91609,
-    "IDcode": "ALDN-252",
-    "title": "この雌漢淫獣なり 伊織涼子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-12",
-    "cover_url": "",
-    "actress": [
-      "伊织凉子",
-      "真琴"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-252"
-  },
-  {
-    "id": 91586,
-    "IDcode": "ALDN-253",
-    "title": "辛抱堪らん 義理の娘でもおじさんは 本田かなの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-26",
-    "cover_url": "",
-    "actress": [
-      "最上もも"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-253"
-  },
-  {
-    "id": 91597,
-    "IDcode": "ALDN-254",
-    "title": "義母さんだって孕みたい。 伊東沙蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-26",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-254"
-  },
-  {
-    "id": 66082,
-    "IDcode": "ALDN-255",
-    "title": "ALDN255中出しの快楽に堕ちた妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-05-15",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-255"
-  },
-  {
-    "id": 91608,
-    "IDcode": "ALDN-256",
-    "title": "代理出産の母 豊永映美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-26",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-256"
-  },
-  {
-    "id": 106183,
-    "IDcode": "ALDN-257",
-    "title": "娘の彼と… 密会中出し続ける日々 中山穂香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-26",
-    "cover_url": "",
-    "actress": [
-      "中山穂香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-257"
-  },
-  {
-    "id": 91594,
-    "IDcode": "ALDN-258",
-    "title": "やっぱりシングルマザーが最高にいいや… 桧山ゆりか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-12-26",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-258"
-  },
-  {
-    "id": 91585,
-    "IDcode": "ALDN-259",
-    "title": "貴方だけの為なの… 美丘さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-09",
-    "cover_url": "",
-    "actress": [
-      "爱花みちる"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-259"
-  },
-  {
-    "id": 91587,
-    "IDcode": "ALDN-260",
-    "title": "【FANZA限定】おっさんラッキー 通野未帆 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-10",
-    "cover_url": "",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-260"
-  },
-  {
-    "id": 106031,
-    "IDcode": "ALDN-261",
-    "title": "【FANZA限定】町内会の集まりで 佐々木咲和 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-10",
-    "cover_url": "https://tutu1.space/images/2024/02/01/5fda91ae4554603075da8019de9c5277.jpg",
-    "actress": [
-      "佐々木咲和"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-261"
-  },
-  {
-    "id": 91583,
-    "IDcode": "ALDN-262",
-    "title": "元彼がまさか家族に… 紗々原ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/ea33a013d22f93d9d947dec3e4ba8048.jpg",
-    "actress": [
-      "纱々原ゆり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-262"
-  },
-  {
-    "id": 91588,
-    "IDcode": "ALDN-263",
-    "title": "母姦中出し 息子に初めて中出しされた母 加山なつこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-09",
-    "cover_url": "",
-    "actress": [
-      "加山なつ子",
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-263"
-  },
-  {
-    "id": 91584,
-    "IDcode": "ALDN-264",
-    "title": "この雌漢淫獣なり 翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-09",
-    "cover_url": "",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-264"
-  },
-  {
-    "id": 91569,
-    "IDcode": "ALDN-265",
-    "title": "僕が会社を辞めない理由 夏川あゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-23",
-    "cover_url": "",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-265"
-  },
-  {
-    "id": 66084,
-    "IDcode": "ALDN-266",
-    "title": "ALDN266性処理妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-05-15",
-    "cover_url": "",
-    "actress": [
-      "川上優",
-      "左慈半造",
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-266"
-  },
-  {
-    "id": 91564,
-    "IDcode": "ALDN-268",
-    "title": "たびじ 母と子のふたり旅 姫川礼子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-23",
-    "cover_url": "",
-    "actress": [
-      "姫川礼子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-268"
-  },
-  {
-    "id": 91574,
-    "IDcode": "ALDN-269",
-    "title": "娘の彼と… 密会中出し続ける日々 西園寺美緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-01-23",
-    "cover_url": "",
-    "actress": [
-      "森下美绪"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-269"
-  },
-  {
-    "id": 16318,
-    "IDcode": "ALDN-270",
-    "title": "妻子的母親和我的父親 新村朱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20240213/6a667752-842e-464c-a70c-6af0f78407d1.jpg",
-    "actress": [
-      "新村朱里",
-      "新村晶"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-270"
-  },
-  {
-    "id": 91568,
-    "IDcode": "ALDN-272",
-    "title": "辛抱堪らん 義理の娘でもおじさんは 都月るいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-13",
-    "cover_url": "",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-272"
-  },
-  {
-    "id": 16324,
-    "IDcode": "ALDN-274",
-    "title": "我想成爲你的妻子……小鬆杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20240213/c66400e9-cb0f-473c-a3ef-319345ec448a.jpg",
-    "actress": [
-      "小松杏"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-274"
-  },
-  {
-    "id": 91573,
-    "IDcode": "ALDN-275",
-    "title": "ガクガクにされた女 竹内梨恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-13",
-    "cover_url": "",
-    "actress": [
-      "竹内梨恵"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-275"
-  },
-  {
-    "id": 16323,
-    "IDcode": "ALDN-276",
-    "title": "幸運叔叔被本田瞳選中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20240213/ed28c8ca-c3bc-49ef-8bc0-3d068ccb8fcb.jpg",
-    "actress": [
-      "本田瞳"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-276"
-  },
-  {
-    "id": 91571,
-    "IDcode": "ALDN-277",
-    "title": "私は尻で近所の旦那様を誘惑してます… 翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-13",
-    "cover_url": "",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-277"
-  },
-  {
-    "id": 91572,
-    "IDcode": "ALDN-278",
-    "title": "たびじ 母と子のふたり旅 真木今日子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-27",
-    "cover_url": "",
-    "actress": [
-      "真木今日子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-278"
-  },
-  {
-    "id": 91542,
-    "IDcode": "ALDN-279",
-    "title": "元彼がまさか家族に… 三田サクラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-27",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-279"
-  },
-  {
-    "id": 91553,
-    "IDcode": "ALDN-280",
-    "title": "娘の彼と… 密会中出し続ける日々 成宮いろは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240515-1/0b0c1e590b3f03c2e65b058f7387c329.jpg",
-    "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-280"
-  },
-  {
-    "id": 91549,
-    "IDcode": "ALDN-282",
-    "title": "母姦中出し 息子に初めて中出しされた母 林愛華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-27",
-    "cover_url": "",
-    "actress": [
-      "林愛華",
-      "イッセイ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-282"
-  },
-  {
-    "id": 91551,
-    "IDcode": "ALDN-283",
-    "title": "やっぱりシングルマザーが最高にいいや… 西園寺美緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-02-27",
-    "cover_url": "",
-    "actress": [
-      "森下美绪"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-283"
-  },
-  {
-    "id": 91544,
-    "IDcode": "ALDN-296",
-    "title": "町内会の集まりで 菅日菜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-04-09",
-    "cover_url": "",
-    "actress": [
-      "菅日菜子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-296"
-  },
-  {
-    "id": 66074,
-    "IDcode": "ALDN-297",
-    "title": "ALDN297中出しの快楽に堕ちた妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-05-14",
-    "cover_url": "",
-    "actress": [
-      "堀北実来"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-297"
-  },
-  {
-    "id": 91545,
-    "IDcode": "ALDN-298",
-    "title": "お義母さん、にょっ女房よりずっといいよ… 深月ちぐさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-04-09",
-    "cover_url": "",
-    "actress": [
-      "ひょこり",
-      "深月ちぐさ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-298"
-  },
-  {
-    "id": 91543,
-    "IDcode": "ALDN-300",
-    "title": "辛抱堪らん 義理の娘でもおじさんは 桃瀬くるみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-04-09",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-300"
-  },
-  {
-    "id": 91556,
-    "IDcode": "ALDN-303",
-    "title": "【FANZA限定】おっさんラッキー 南天音 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-04-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240515-1/11af6d087c5690930be39a6101606160.jpg",
-    "actress": [
-      "南天音"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-303"
-  },
-  {
-    "id": 91554,
-    "IDcode": "ALDN-304",
-    "title": "貴方だけの為なの… 戸川なみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-04-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240515-1/dd1dc5eed34deede2e70af217f2caefa.jpg",
-    "actress": [
-      "ミチくん"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-304"
-  },
-  {
-    "id": 91546,
-    "IDcode": "ALDN-305",
-    "title": "たびじ 母と子のふたり旅 本真ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-04-23",
-    "cover_url": "",
-    "actress": [
-      "本真友里",
-      "ミチくん"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-305"
-  },
-  {
-    "id": 91547,
-    "IDcode": "ALDN-307",
-    "title": "妻友 いきなりナマがいい 翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-04-23",
-    "cover_url": "",
-    "actress": [
-      "翔田千里",
-      "左慈半造"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-307"
-  },
-  {
-    "id": 91555,
-    "IDcode": "ALDN-308",
-    "title": "やっぱりシングルマザーが最高にいいや… 伊東沙蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-04-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240515-1/26f5e0a82ee7ba28319da0ea42b096bd.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-308"
-  },
-  {
-    "id": 77841,
-    "IDcode": "ALDN-382",
-    "title": "お前の嫁って最高だな 菅日菜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-11-12",
-    "cover_url": "",
-    "actress": [
-      "菅日菜子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-382"
-  },
-  {
-    "id": 10651,
-    "IDcode": "ALDN-386",
-    "title": "嶽母偷偷和我說，她好像懷孕了....絕對不能讓妻子知道！ ~ 山瀨美紀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-11-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20241114/105d2c9c-8b7f-4e34-a707-838bd2cd2e53.jpg",
-    "actress": [
-      "山瀬美紀"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-386"
-  },
-  {
-    "id": 77370,
-    "IDcode": "ALDN-389",
-    "title": "中出しの快楽に堕ちた妻 白木優子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
+    "company": "セレブの友",
     "publish_date": "2024-11-26",
-    "cover_url": "https://tutu1.space/images/2024/12/10/a92ba3989fdcec1b8c7bfd0fd264c530.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241124/a5edbbff-8e40-4504-9a92-e6e6795426a8.jpg",
     "actress": [
-      "白木優子",
-      "ミチくん"
+      "森澤佳奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-389"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-601"
   },
   {
-    "id": 77368,
-    "IDcode": "ALDN-390",
-    "title": "たびじ 母と子のふたり旅 竹内梨恵",
+    "id": 10054,
+    "IDcode": "CEMD-608",
+    "title": "男人們請注意了！請讓我高潮！ 街頭募集素人讓我射到崩潰的性愛記錄 7 ~ 堤芹奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-11-26",
-    "cover_url": "",
-    "actress": [
-      "竹内梨恵",
-      "トンガ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-390"
-  },
-  {
-    "id": 77367,
-    "IDcode": "ALDN-391",
-    "title": "抱きたい元嫁 川嶋美雲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-11-26",
-    "cover_url": "",
-    "actress": [
-      "川嶋美雲"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-391"
-  },
-  {
-    "id": 75819,
-    "IDcode": "ALDN-399",
-    "title": "私はいつでも恋したい 加山なつこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
+    "company": "セレブの友",
     "publish_date": "2024-12-10",
-    "cover_url": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20241208/0478f2aa-ebe2-4b2c-a389-1d1020791980.jpg",
     "actress": [
-      "加山なつ子"
+      "堤芹奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-399"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-608"
   },
   {
-    "id": 9626,
-    "IDcode": "ALDN-400",
-    "title": "妻子最好的閨蜜突然想要我無套操她 ~ 紗紗原百合",
+    "id": 10060,
+    "IDcode": "CEMD-609",
+    "title": "與H罩杯辣妹一整天的海邊約會 ~ 宇佐美すい",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "セレブの友",
+    "publish_date": "2024-12-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20241208/eb3e23aa-167f-46e5-96bd-c65b8d6a9c49.jpg",
+    "actress": [
+      "宇佐美すい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-609"
+  },
+  {
+    "id": 10062,
+    "IDcode": "CEMD-611",
+    "title": "男性清掃員的強制交尾 墮入深淵成爲性奴 7 ~ 一場れいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2024-12-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20241208/5cae2592-ffff-48a1-8de4-14aaee44aed5.jpg",
+    "actress": [
+      "一場れいか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-611"
+  },
+  {
+    "id": 9663,
+    "IDcode": "CEMD-612",
+    "title": "不間斷的含淚高潮 SEX46 ~ 結城雫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
     "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241225/19dec799-8435-40cb-a3a4-39c4ccb02c75.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241222/aaef7239-4bb8-406f-a05b-73ce51e0ad5e.jpg",
+    "actress": [
+      "結城雫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-612"
+  },
+  {
+    "id": 9652,
+    "IDcode": "CEMD-613",
+    "title": "每天都用性愛來幫助我從宅男狀態中恢復過來的繼母 5 ~ 西村ニーナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2024-12-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20241221/20241221113458185185.jpg",
+    "actress": [
+      "西村ニーナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-613"
+  },
+  {
+    "id": 9661,
+    "IDcode": "CEMD-614",
+    "title": "完全沒有演技啊！害羞又喜歡的全天約會 5 ~ 紗紗原百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2024-12-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20241222/9f68fa7f-b994-4e59-ae39-a46176057d6f.jpg",
     "actress": [
       "紗紗原百合",
       "纱々原ゆり"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-400"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-614"
   },
   {
-    "id": 76085,
-    "IDcode": "ALDN-401",
-    "title": "洗脳された母 いつでも中出しさせてくれる 寺島志保",
+    "id": 76066,
+    "IDcode": "CEMD-615",
+    "title": "ノーブラ爆乳ムチムチおっぱいデート 稲月このは",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "セレブの友",
     "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/images/2025/09/07/431c188ffc79ae62d39b6220b4c675b1.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/09/3af78876/vod.jpg",
     "actress": [
-      "寺島志保",
-      "トンガ"
+      "稲月このは"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-401"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-615"
   },
   {
-    "id": 9648,
-    "IDcode": "ALDN-402",
-    "title": "果然還是別人的妻子好... 本真友裏",
+    "id": 9624,
+    "IDcode": "CEMD-617",
+    "title": "擁有世界上最強調教男人絕對的女王 4 ~ 白河花清",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "セレブの友",
     "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241223/b54f0362-9ee8-436d-a040-668ea2a7f1fe.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20241225/d0f02fbb-35ea-4c09-af35-4819f5296c1a.jpg",
     "actress": [
-      "本真友里",
-      "ミチくん"
+      "白河花清"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-402"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-617"
   },
   {
-    "id": 9645,
-    "IDcode": "ALDN-403",
-    "title": "目睹了悽慘的妻子被輪奸寢取極上FUCK而黯然無語的丈夫 ~ 谷梓",
+    "id": 9156,
+    "IDcode": "CEMD-620",
+    "title": "很抱歉感覺太好了，噴了這麼多......51 ~ 宮城理惠",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241223/29d5ae4b-d5d8-47b5-b64b-f65e364ac5f5.jpg",
-    "actress": [
-      "谷梓"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-403"
-  },
-  {
-    "id": 9627,
-    "IDcode": "ALDN-404",
-    "title": "母子溫泉亂倫之旅 ~ 白河花清",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241225/3e66184a-702e-4fce-9cef-30d9a8e8d091.jpg",
-    "actress": [
-      "白河花清",
-      "トンガ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-404"
-  },
-  {
-    "id": 75269,
-    "IDcode": "ALDN-405",
-    "title": "ガクガクにされた女 平岡里枝子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2024-12-24",
-    "cover_url": "",
-    "actress": [
-      "平冈里枝子",
-      "エニフ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-405"
-  },
-  {
-    "id": 9181,
-    "IDcode": "ALDN-406",
-    "title": "我的前男友竟然是我的親戚…… ~ 彩奈莉娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
+    "company": "セレブの友",
     "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250112/4627b771-17ef-407b-a57a-912f2509a687.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250113/549365ae-6ba8-41c6-86af-cf0f3f20bbed.jpg",
     "actress": [
-      "彩奈莉娜"
+      "宮城理惠"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-406"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-620"
   },
   {
-    "id": 9180,
-    "IDcode": "ALDN-407",
-    "title": "丈母娘，你比我老婆厲害多了…… ~ 佐久間楓",
+    "id": 9153,
+    "IDcode": "CEMD-623",
+    "title": "所有的男人！請讓我高潮！ - 被在街上挖掘素人男操的真實性愛記錄 Vol.8 ~ 足立友梨",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "セレブの友",
     "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250112/5c590dac-1524-4535-a130-593ed50e4d0e.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250113/2c20e593-7ae3-4cbf-aac2-bfa443fa598e.jpg",
     "actress": [
-      "佐久間楓",
-      "ミチくん"
+      "足立友梨"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-407"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-623"
   },
   {
-    "id": 9179,
-    "IDcode": "ALDN-408",
-    "title": "我是一個幸福的男人 ~ 菅日菜子",
+    "id": 72717,
+    "IDcode": "CEMD-636",
+    "title": "スタイル抜群の人妻と中出し不倫 まる一日とびっこ浜辺でデート 白河花清",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250112/20250112104046744744.jpg",
+    "company": "セレブの友",
+    "publish_date": "2025-02-11",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/09/53fb06f5/vod.jpg",
     "actress": [
-      "菅日菜子"
+      "白河花清"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-408"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-636"
   },
   {
-    "id": 9178,
-    "IDcode": "ALDN-409",
-    "title": "人妻和丈夫的朋友無套中出 ~ 成宮彩葉",
+    "id": 72861,
+    "IDcode": "CEMD-637",
+    "title": "涙のノンストップ激イカせSEX49 天宮かすみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250112/40db043f-9011-4a86-a5a7-1ae25b41f92f.jpg",
+    "company": "セレブの友",
+    "publish_date": "2025-02-11",
+    "cover_url": "https://tutu1.space/images/2025/08/09/b4a2f7725715de65a35ec9b25a34d7f0.jpg",
     "actress": [
-      "成宮彩葉",
-      "成宫いろは",
-      "トンガ"
+      "天宮かすみ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-409"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-637"
   },
   {
-    "id": 9177,
-    "IDcode": "ALDN-410",
-    "title": "和我女兒的男友...祕密中出的日子 ~ 藤咲紫",
+    "id": 72860,
+    "IDcode": "CEMD-638",
+    "title": "ノーブラ爆乳ムチムチおっぱいデート3 華澄結愛",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250112/b9699295-cbda-456b-a2bf-4f05dd6b7264.jpg",
+    "company": "セレブの友",
+    "publish_date": "2025-02-11",
+    "cover_url": "https://tutu1.space/images/2025/08/09/a2068f1918532c73eed97f76abe0b789.jpg",
     "actress": [
-      "藤咲紫",
-      "ミチくん"
+      "麻仓ゆあ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-410"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-638"
   },
   {
-    "id": 9176,
-    "IDcode": "ALDN-411",
-    "title": "全裸嶽母 ~ 桃井しずか",
+    "id": 69458,
+    "IDcode": "CEMD-664",
+    "title": "- アナル舐めで男をイカせる絶品ドスケベ痴女2 水川潤 - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250112/26ae5282-4814-4535-abe8-97ed566752d7.jpg",
+    "company": "セレブの友",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/03/debe3512/vod.jpg",
     "actress": [
-      "桃井しずか",
-      "ナイアガラ翔"
+      "由爱可奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-411"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-664"
   },
   {
-    "id": 9175,
-    "IDcode": "ALDN-412",
-    "title": "不知道爲什麼結婚多年的妻子今天突然要求我中出 ~ 水端麻美",
+    "id": 69380,
+    "IDcode": "CEMD-666",
+    "title": "- 涙のノンストップ激イカせSEX52 南條彩 - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-01-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20250112/48b7758f-fb9a-4768-9995-a18e3db9ca80.jpg",
+    "company": "セレブの友",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/bedb8834/vod.jpg",
     "actress": [
-      "水端麻美",
-      "ひょこり"
+      "南條彩"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-412"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-666"
   },
   {
-    "id": 72355,
-    "IDcode": "ALDN-413",
-    "title": "たびじ 母と子のふたり旅 白木優子",
+    "id": 69379,
+    "IDcode": "CEMD-668",
+    "title": "- 引き篭りのボクが毎日SEXで誘惑して中出し調教した義母 那賀崎ゆきね - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://tutu1.space/images/2025/02/20/bf19def9c98083c945f2510ffd7655a9.jpg",
+    "company": "セレブの友",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/6efa2d7e/vod.jpg",
     "actress": [
-      "白木優子",
-      "ミチくん"
+      "那賀崎雪音"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-413"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-668"
   },
   {
-    "id": 72190,
-    "IDcode": "ALDN-415",
-    "title": "あの人妻を孕ませたい 末広純",
+    "id": 6649,
+    "IDcode": "CEMD-671",
+    "title": "淚眼汪汪無間斷高潮亂交SEX53 ~ 羽月乃蒼",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://tutu1.space/images/2025/02/20/589fee359cf73056c49b506169df3d8a.jpg",
+    "company": "セレブの友",
+    "publish_date": "2025-04-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250419/20250419053812485485_thumbnail.webp",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-671"
+  },
+  {
+    "id": 6669,
+    "IDcode": "CEMD-672",
+    "title": "把柊有希灌醉後，性欲爆炸的真實SEX記錄 ~ 柊有希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-04-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/20250421104737833833_thumbnail.webp",
+    "actress": [
+      "柊有希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-672"
+  },
+  {
+    "id": 5827,
+    "IDcode": "CEMD-689",
+    "title": "無演技純真開房！害羞淪陷全天約會啪啪實錄7 ~ 虹村由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-05-24",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524011541126126_thumbnail.webp",
+    "actress": [
+      "虹村由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-689"
+  },
+  {
+    "id": 5806,
+    "IDcode": "CEMD-691",
+    "title": "無Bra美巨乳晃悠悠約會之旅 ~ 夏川步美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-05-24",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524003509680680_thumbnail.webp",
+    "actress": [
+      "夏川步美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-691"
+  },
+  {
+    "id": 5222,
+    "IDcode": "CEMD-692",
+    "title": "無止境高潮狂熱SEX56 ~ 安野由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607015223607607_thumbnail.webp",
+    "actress": [
+      "安野由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-692"
+  },
+  {
+    "id": 5221,
+    "IDcode": "CEMD-693",
+    "title": "前藝人3年B班成員在AV片場被灌醉後大亂鬥 ~ 月野ゆりね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014452600600_thumbnail.webp",
+    "actress": [
+      "月野ゆりね"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-693"
+  },
+  {
+    "id": 3830,
+    "IDcode": "CEMD-694",
+    "title": "我要的完美性愛體驗：熟女真實欲望 ~ 多田有花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014453454454_thumbnail.webp",
+    "actress": [
+      "多田有花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-694"
+  },
+  {
+    "id": 3831,
+    "IDcode": "CEMD-695",
+    "title": "撿個男人回家調教 ~ 波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014551527527_thumbnail.webp",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-695"
+  },
+  {
+    "id": 5220,
+    "IDcode": "CEMD-696",
+    "title": "無 bra 爆乳肉感大胸約會第四彈 ~ 山瀬美紀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014237659659_thumbnail.webp",
+    "actress": [
+      "山瀬美紀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-696"
+  },
+  {
+    "id": 3828,
+    "IDcode": "CEMD-697",
+    "title": "刺青正妹車震約會太刺激，首部AV超震撼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014559405405_thumbnail.webp",
+    "actress": [
+      "南河花実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-697"
+  },
+  {
+    "id": 5033,
+    "IDcode": "CEMD-699",
+    "title": "羞恥調教，街頭遙控玩具玩弄，繁華街的刺激約會32 ~ 虹村由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621072219773773_thumbnail.webp",
+    "actress": [
+      "虹村由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-699"
+  },
+  {
+    "id": 5083,
+    "IDcode": "CEMD-700",
+    "title": "完全無劇本 隨心所欲調教男人爽到爆的辣妹 ~ 椿莉香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081359506506_thumbnail.webp",
+    "actress": [
+      "椿莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-700"
+  },
+  {
+    "id": 5072,
+    "IDcode": "CEMD-701",
+    "title": "無間斷狂潮高潮SEX57 ~ 白河花清",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210759407171_thumbnail.webp",
+    "actress": [
+      "白河花清"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-701"
+  },
+  {
+    "id": 5082,
+    "IDcode": "CEMD-702",
+    "title": "爽到不行失禁了抱歉啦52 ~ 葉山小百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621072220798798_thumbnail.webp",
+    "actress": [
+      "葉山小百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-702"
+  },
+  {
+    "id": 5090,
+    "IDcode": "CEMD-703",
+    "title": "女優被灌醉後性欲徹底失控暴走的真實記錄 ~ 九井珠奈緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621075946483483_thumbnail.webp",
+    "actress": [
+      "九井珠奈緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-703"
+  },
+  {
+    "id": 5086,
+    "IDcode": "CEMD-704",
+    "title": "舔後庭把男人爽翻天的極品騷浪痴女3 ~ 吉澤友貴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621064914291291_thumbnail.webp",
+    "actress": [
+      "吉泽友贵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-704"
+  },
+  {
+    "id": 4706,
+    "IDcode": "CEMD-705",
+    "title": "三穴全開 4P狂歡 全穴內射後庭激戰 ~ 十川ありさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703235804476476_thumbnail.webp",
+    "actress": [
+      "十川ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-705"
+  },
+  {
+    "id": 4680,
+    "IDcode": "CEMD-706",
+    "title": "淚眼汪汪無間斷高潮狂歡58 ~ 小野坂唯香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705120144780780_thumbnail.webp",
+    "actress": [
+      "小野坂唯香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-706"
+  },
+  {
+    "id": 4619,
+    "IDcode": "CEMD-708",
+    "title": "舔菊高手把男人玩到崩潰的頂級騷浪痴女4 ~ 吹石玲奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707040348932932_36392_thumbnail.webp",
+    "actress": [
+      "吹石玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-708"
+  },
+  {
+    "id": 4643,
+    "IDcode": "CEMD-709",
+    "title": "無Bra爆乳肉感大胸約會之旅5 ~ 藤沢麗央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706224413456456_71510_thumbnail.webp",
+    "actress": [
+      "藤沢麗央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-709"
+  },
+  {
+    "id": 4647,
+    "IDcode": "CEMD-710",
+    "title": "豪車大屌土豪與援交妹的過夜激情約會3 ~ 優梨舞奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706105037294294_80755_thumbnail.webp",
+    "actress": [
+      "優梨舞奈",
+      "优梨まいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-710"
+  },
+  {
+    "id": 3708,
+    "IDcode": "CEMD-712",
+    "title": "恥辱，凌辱！街頭跳蛋遙控大冒險 繁華街 33 ~ 吉澤友貴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013538343343_42981_thumbnail.webp",
+    "actress": [
+      "吉泽友贵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-712"
+  },
+  {
+    "id": 4095,
+    "IDcode": "CEMD-713",
+    "title": "無 bra 熟女羞恥約會 遙控玩具玩到爽 排卵日直接中出野獸模式 ~ 白河花清",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-07-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718212847457457_45115_thumbnail.webp",
+    "actress": [
+      "白河花清"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-713"
+  },
+  {
+    "id": 4167,
+    "IDcode": "CEMD-714",
+    "title": "極品巨乳大屁股誘惑硬梆梆的壞姐姐 ~ 椿莉香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-07-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718215831604604_14769_thumbnail.webp",
+    "actress": [
+      "椿莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-714"
+  },
+  {
+    "id": 4090,
+    "IDcode": "CEMD-715",
+    "title": "無間斷狂潮高潮SEX59 ~ 花音うらら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-07-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718212848486486_86014_thumbnail.webp",
+    "actress": [
+      "花音うらら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-715"
+  },
+  {
+    "id": 3723,
+    "IDcode": "CEMD-717",
+    "title": "無止境狂潮高潮SEX60次挑戰 ~ 蘆名穗花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013743640640_88091_thumbnail.webp",
+    "actress": [
+      "蘆名穗花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-717"
+  },
+  {
+    "id": 3653,
+    "IDcode": "CEMD-718",
+    "title": "性慾炸裂！被猛男演員們幹到高潮不停歇120分鐘 ~ 藤咲紫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811095608138138_76484_thumbnail.webp",
+    "actress": [
+      "藤咲紫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-718"
+  },
+  {
+    "id": 3727,
+    "IDcode": "CEMD-719",
+    "title": "公司內的性慾處理專員秘書4 ~ 小野坂唯香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013748378378_49056_thumbnail.webp",
+    "actress": [
+      "小野坂唯香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-719"
+  },
+  {
+    "id": 3301,
+    "IDcode": "CEMD-727",
+    "title": "羞恥調教，帶著とびっこ逛鬧市，超刺激約會34 ~ 葉山小百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-08-22",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823032605956956_55700_thumbnail.webp",
+    "actress": [
+      "葉山小百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-727"
+  },
+  {
+    "id": 2523,
+    "IDcode": "CEMD-738",
+    "title": "我渴望的極致SEX 2 ～前 gravure 偶像的真實性愛慾望～ 似鳥日菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-09-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919090947811811_94998_thumbnail.webp",
+    "actress": [
+      "似鳥日菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-738"
+  },
+  {
+    "id": 2482,
+    "IDcode": "CEMD-741",
+    "title": "僅此一部的後門解禁！現場臨時談判後門玩法 ~ 森澤加奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2025-09-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919054512744744_10149_thumbnail.webp",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-741"
+  },
+  {
+    "id": 72259,
+    "IDcode": "CESD-330",
+    "title": "コスビッチ3SEX2 吹石れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2017-02-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250221-1/f0a26e70749b666ec8cf6611f3a13e99.jpg",
+    "actress": [
+      "吹石玲奈",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-330"
+  },
+  {
+    "id": 106121,
+    "IDcode": "CESD-342",
+    "title": "指名手配犯に犯された私2 推川ゆうり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2017-03-13",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/cesd342/cesd342pl.jpg",
+    "actress": [
+      "推川悠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-342"
+  },
+  {
+    "id": 82272,
+    "IDcode": "CESD-711",
+    "title": "アナル丸見え美巨尻SEX4 柚月ひまわり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2019-02-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/279dde947f94f7f4e75ad066ac335502.jpg",
+    "actress": [
+      "柚月ひまわり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-711"
+  },
+  {
+    "id": 82751,
+    "IDcode": "CESD-773",
+    "title": "神納花のエグすぎるレズ責めで岬あずさ＆葉月桃が涙を流しながら逝く！2人から責められた神納花も…噴水失禁しながらエビ反り絶頂！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2019-06-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221121-1/4d5a2c9e3ee3847966758b84f9d5592c.jpg",
+    "actress": [
+      "岬梓沙",
+      "叶月桃",
+      "管野静香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-773"
+  },
+  {
+    "id": 74565,
+    "IDcode": "CESD-774",
+    "title": "「私、輪姦願望があるんです…」たくさんの男たちに弄ばれることを妄想しながらオナニーしていた素人妻…今日、1日AV女優になります！！ かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2019-06-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/85ca43b67441f01427d149569fa6846a.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-415"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-774"
   },
   {
-    "id": 72191,
-    "IDcode": "ALDN-416",
-    "title": "やっぱりこの歳だと中出しの快楽に溺れてしまう 翔田千里",
+    "id": 74564,
+    "IDcode": "CESD-791",
+    "title": "黒人生中出しNTR 規格外のデカマラに魅せられた妻…夫に内緒で黒人チ○ポに跨がりブラックザーメン膣内射精！！ 大槻ひびき",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://tutu1.space/images/2025/02/20/78e30edeb6c536060a1089d596d005fc.jpg",
+    "company": "セレブの友",
+    "publish_date": "2019-07-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/472f0d7e85615e1638606b38b9f00187.jpg",
     "actress": [
-      "翔田千里",
-      "カゲト"
+      "大槻响"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-416"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-791"
+  },
+  {
+    "id": 82748,
+    "IDcode": "CESD-799",
+    "title": "星奈あいが柏木まいと渚みつきのオマ○コ重ねてまとめてイカせるガチレズ同性愛SEX！ド淫乱な2人も星奈あいを激しく責めて…全員エビ反り絶頂！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2019-08-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221121-1/84002a6d4bd6bff6e375d7f5ab881c78.jpg",
+    "actress": [
+      "渚光希",
+      "星奈爱",
+      "柏木まい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-799"
+  },
+  {
+    "id": 82964,
+    "IDcode": "CESD-848",
+    "title": "彼氏をチェンジする三姉妹 山井すず 波多野結衣 大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2019-12-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221204-1/806d03a73108234597f27859f42493c4.jpg",
+    "actress": [
+      "波多野结衣",
+      "大槻响",
+      "山井すず"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-848"
+  },
+  {
+    "id": 81480,
+    "IDcode": "CESD-861",
+    "title": "全身オイル×ポルチオ×エビ反り絶頂SEX 川原かなえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2020-01-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/4d5cd22311016bf109e0495a56c763fc.jpg",
+    "actress": [
+      "川原かなえ",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-861"
+  },
+  {
+    "id": 81527,
+    "IDcode": "CESD-872",
+    "title": "波多野結衣を本気で酔わせてみる1日呑んだくれAVドキュメント！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2020-02-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/8360c74c9b0350cb8eb19317934f27b5.jpg",
+    "actress": [
+      "波多野结衣",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-872"
+  },
+  {
+    "id": 81498,
+    "IDcode": "CESD-874",
+    "title": "私たち男子禁制のシェアハウスに住んでるけど男連れ込んで顔射SEXしてます みひな 波多野結衣 大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/5ed663c4be2ab450fff2b19353ea9053.jpg",
+    "actress": [
+      "波多野结衣",
+      "大槻响",
+      "佐倉陽菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-874"
+  },
+  {
+    "id": 81523,
+    "IDcode": "CESD-877",
+    "title": "星あめりを本気で酔わせてみる1日呑んだくれAVドキュメント！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/3bfc2849b662d95f27a1d6e81e0c7267.jpg",
+    "actress": [
+      "雨村梨花",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-877"
+  },
+  {
+    "id": 81522,
+    "IDcode": "CESD-880",
+    "title": "オマ○コ×アナル 男性専用ハイブリッドエステサロン 赤瀬尚子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/f6e307f63ae462b68e0fb0b1cfb0bc3d.jpg",
+    "actress": [
+      "赤瀬尚子",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-880"
+  },
+  {
+    "id": 81475,
+    "IDcode": "CESD-887",
+    "title": "永井マリア大号泣！「もうダメぇ！ごめんなさい！！」と言っても許してもらえない…快楽からの連続絶頂地獄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "セレブの友",
+    "publish_date": "2020-04-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/3a0ea66bb153e4268ddcbbcce848f9b3.jpg",
+    "actress": [
+      "永井瑪麗亞",
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-887"
+  },
+  {
+    "id": 82967,
+    "IDcode": "CHA-003",
+    "title": "バレたら完全家庭崩壊！自宅で弟チ○ポを狙うリスク無視のエロ嫁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-03-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221204-1/7788a997dc52059e8824bfef6d1871ef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHA-003"
+  },
+  {
+    "id": 81427,
+    "IDcode": "CHA-006",
+    "title": "勃起不全の最新治療はこれ！女医さん看護師さんの肉弾診察で「精子採取するわ」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-04-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/9708eca1c975864de7d8f78b821109fe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHA-006"
+  },
+  {
+    "id": 6576,
+    "IDcode": "CHC-019",
+    "title": "絕色妹子被大叔玩弄私人攝影～完全服從的羞恥性愛 ~ 音羽美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "CHC工作室",
+    "publish_date": "2025-04-26",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427003733725725_thumbnail.webp",
+    "actress": [
+      "音羽美鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-019"
+  },
+  {
+    "id": 87357,
+    "IDcode": "CHCH-022",
+    "title": "【FANZA限定】日韓ハーフ爆乳妻、セックスレス10年の時を経てAV DEBUT 晴山ひとは（42歳） パンティと写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "CHC工作室",
+    "publish_date": "2022-07-20",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/9ab7b4ac0d9d9e68a4117298c3a6c9ed.jpg",
+    "actress": [
+      "晴山ひとは"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHCH-022"
+  },
+  {
+    "id": 87358,
+    "IDcode": "CHCH-023",
+    "title": "人妻巨乳ヨガインストラクター、旦那の留守中、自宅に生徒を連れ込んで誘惑痴女レッスン。竹内まりか（31歳）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "CHC工作室",
+    "publish_date": "2022-09-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/9b886ea2002a7d34d27fe630442e1998.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHCH-023"
+  },
+  {
+    "id": 60002,
+    "IDcode": "CHERD-99",
+    "title": "「初めてがおばさんと生じゃいやかしら？」童貞くんが人妻熟女と最高の筆下ろし性交 桜井美由紀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "2025-09-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/a08c4de9/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-99"
+  },
+  {
+    "id": 105866,
+    "IDcode": "CHN-042",
+    "title": "新・絶対的美少女、お貸しします。 ACT.22 冬月かえで",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2014-06-03",
+    "cover_url": "https://tutu1.space/images/2024/02/16/8b3c95f22f1feef7bef2cd37c175480d.jpg",
+    "actress": [
+      "冬月枫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-042"
+  },
+  {
+    "id": 97292,
+    "IDcode": "CHN-059",
+    "title": "新・絶対的美少女、お貸しします。 ACT.32 北野のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2015-01-01",
+    "cover_url": "https://tutu1.space/images/2023/09/27/30bba5697fc04507b6d07e431ba8e6fe.jpg",
+    "actress": [
+      "北野望"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-059"
+  },
+  {
+    "id": 103295,
+    "IDcode": "CHN-069",
+    "title": "新・絶対的美少女、お貸しします。 37 吉川蓮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2015-04-10",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118chn069/118chn069pl.jpg",
+    "actress": [
+      "吉岡蓮美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-069"
   }
 ];

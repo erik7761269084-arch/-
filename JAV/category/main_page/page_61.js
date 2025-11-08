@@ -1,1706 +1,1535 @@
 window.PAGE_DATA = [
   {
-    "id": 92492,
-    "IDcode": "DN-383",
-    "title": "DN383被女兒男友抱緊的我篠田優。。",
+    "id": 2691,
+    "IDcode": "FSTU-014",
+    "title": "真空黑絲騷空姐的極致誘惑 ~ 永野司",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/439911eaa8959ee87f2f526959a4e89c.jpg",
+    "company": "DOGMA",
+    "publish_date": "2025-09-12",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050108624624_62905_thumbnail.webp",
+    "actress": [
+      "永野司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-014"
+  },
+  {
+    "id": 10519,
+    "IDcode": "FTAV-006",
+    "title": "「啊？！直接就插入了嗎？」入行不久還是素人的爆I罩杯，接受AV界巨屌的洗禮！突然插入的大雞巴 ~ 笹本ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-11-19",
+    "cover_url": "https://picture.yoshiclub.xyz/20241119/ad35ab6e-c907-4d40-8ad7-2bba6f59a384.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-006"
+  },
+  {
+    "id": 9825,
+    "IDcode": "FTAV-007",
+    "title": "出道來首部劇情作《巨乳老師的誘惑》，性欲極強的御姐老師，4本番巨乳誘惑正太 ~ 笹本ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-01-23",
+    "cover_url": "https://picture.yoshiclub.xyz/20241216/e58f6149-5448-4462-9cea-0923ab88a108.jpg",
+    "actress": [
+      "笹本ゆう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTAV-007"
+  },
+  {
+    "id": 67939,
+    "IDcode": "FTHT-269",
+    "title": "た～っぷり舐めてくれる【じゅぽっじゅぽっ】フェラちゅう！！【とつぜん恐縮ですがフェラチオしてもらえますか？】Episode5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/2b47524a/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DN-383"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-269"
   },
   {
-    "id": 92499,
-    "IDcode": "DN-400",
-    "title": "DN400新入社的西野小姐像是惡女一樣玩弄不受歡迎的我明里紬。。",
+    "id": 67948,
+    "IDcode": "FTHT-271",
+    "title": "＜後編＞～そのひきこもり男子！！最凶性欲モンスターにつき～ 止まらない性欲！！溢れる精子！！支援者やクラスメイトが次々にそのひきこもり男子の餌食に！？2",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "",
+    "company": "TMA",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/f09435e5/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DN-400"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHT-271"
   },
   {
-    "id": 92495,
-    "IDcode": "DN-416",
-    "title": "DN416被禁止的背德姦過於年輕的義母岬奈奈美。。",
+    "id": 63450,
+    "IDcode": "FTHTD-097",
+    "title": "接客態度の悪さを売りにして流行っているレストランの店員が度を過ぎていたのでバイト後に待ち伏せ注意（SEX）。3日で従順な接客（肉便器）になりました 宮城りえ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/1b7189f709d53b4879bdf8ade092727d.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DN-416"
-  },
-  {
-    "id": 92510,
-    "IDcode": "DN-418",
-    "title": "DN418把住同公寓的漂亮人妻抽插搞翻天的事。森澤佳奈。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DN-418"
-  },
-  {
-    "id": 92504,
-    "IDcode": "DN-424",
-    "title": "DN424週末限定，夫婦交換老婆被別人插入的夜晚大槻響岬奈奈美。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DN-424"
-  },
-  {
-    "id": 92514,
-    "IDcode": "DN-426",
-    "title": "DN426被女兒男友搞上的我。被擅自撲倒那天開始搞翻天的事件森澤佳奈。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/5c84ca5e1a5e031c6e4867fb5700cecb.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DN-426"
-  },
-  {
-    "id": 92513,
-    "IDcode": "DN-429",
-    "title": "DN429合作公司的社長很中意我的妻子作為社長秘書僱傭了她...岬奈奈美。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/f2cc4a7d2d1fcf9300cbe66c8a270d77.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DN-429"
-  },
-  {
-    "id": 74573,
-    "IDcode": "DNJR-010",
-    "title": "完全主観 貴方だけを見つめて尿道責め",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2019-08-07",
-    "cover_url": "",
-    "actress": [
-      "皆月光",
-      "岬梓沙",
-      "有栖露露",
-      "星奈爱",
-      "一条美绪",
-      "北川爱莉香",
-      "あゆみ莉花"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-010"
-  },
-  {
-    "id": 76733,
-    "IDcode": "DNJR-019",
-    "title": "搾りたて母乳M男イジメ 桐谷しほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-01-07",
-    "cover_url": "",
-    "actress": [
-      "岩下たろう",
-      "桐谷しほ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-019"
-  },
-  {
-    "id": 83071,
-    "IDcode": "DNJR-022",
-    "title": "高身長痴女のチビ男イジメ 大谷翔子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-02-07",
-    "cover_url": "",
-    "actress": [
-      "泉麻里香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-022"
-  },
-  {
-    "id": 81637,
-    "IDcode": "DNJR-024",
-    "title": "全裸聖水飲ませ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-03-07",
-    "cover_url": "",
-    "actress": [
-      "有村希",
-      "有栖露露",
-      "新垣智江",
-      "真城杏",
-      "久远れいら",
-      "富永舞",
-      "久我かのん"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-024"
-  },
-  {
-    "id": 81474,
-    "IDcode": "DNJR-025",
-    "title": "ド派手なネイルにピンクヘアー 超気合の入った漆黒ギャルMARIAちゃんのハードM男イジメ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-04-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/a42b97dacaba40d610e1a6606691bf51.jpg",
-    "actress": [
-      "MARIA"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-025"
-  },
-  {
-    "id": 77919,
-    "IDcode": "DNJR-026",
-    "title": "風呂嫌い、部屋の掃除も出来ない汚学生あいかちゃんのくさ～い体臭M男責め 宇佐木あいか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-04-07",
-    "cover_url": "",
-    "actress": [
-      "岩下たろう",
-      "宇佐木あいか"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-026"
-  },
-  {
-    "id": 81097,
-    "IDcode": "DNJR-070",
-    "title": "M男責め七変化痴女 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-03-08",
-    "cover_url": "",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-070"
-  },
-  {
-    "id": 67416,
-    "IDcode": "DNJR-078",
-    "title": "可愛い年下の男の子が大好物なド淫乱爆乳女教師のおっぱい淫語授業 浜辺ももね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-07-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/8d99840ebd81c8f6fbb04f240a1f8bd8.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-078"
-  },
-  {
-    "id": 69526,
-    "IDcode": "DNJR-081",
-    "title": "「こんなところ、誰かに見られたらやばいね。」バレたらヤバイ状況で楽しそうに射精管理してくる僕の彼女。 東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-08-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250326-1/4268ed9adfeda28495faba0c50df2d67.jpg",
-    "actress": [
-      "東條夏",
-      "タイ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-081"
-  },
-  {
-    "id": 87430,
-    "IDcode": "DNJR-082",
-    "title": "【FANZA限定】M男だ～い好き！ノリノリでマゾ男をイジメるW小悪魔女子○生 るるちゃ。 深月めい パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-08-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/4ea8356efb419cbf45ee8100b5c91166.jpg",
-    "actress": [
-      "有栖露露"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-082"
-  },
-  {
-    "id": 87410,
-    "IDcode": "DNJR-083",
-    "title": "1日1シーンずつ見進めるリアル射精管理 枢木あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-09-13",
-    "cover_url": "",
-    "actress": [
-      "枢木葵"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-083"
-  },
-  {
-    "id": 84385,
-    "IDcode": "DNJR-085",
-    "title": "【FANZA限定】M男専用 会員制逆バニー淫語BAR 新村あかり 皇ゆず パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-10-08",
-    "cover_url": "",
-    "actress": [
-      "タイ",
-      "新村晶"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-085"
-  },
-  {
-    "id": 69527,
-    "IDcode": "DNJR-086",
-    "title": "【FANZA限定】「オジサン、私と遊ぼうよ。」おっさんを罵倒してイジメ抜き楽しむのが生き甲斐の小悪魔女子○生 涼花くるみ パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-10-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250326-1/f7c6aa455aa04c1801159e988c45257c.jpg",
-    "actress": [
-      "凉南佳奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-086"
-  },
-  {
-    "id": 88597,
-    "IDcode": "DNJR-088",
-    "title": "W淫語癡女 聖水按摩 彌生美月 佐野夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-12-17",
-    "cover_url": "",
-    "actress": [
-      "弥生美月"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-088"
-  },
-  {
-    "id": 66913,
-    "IDcode": "DNJR-092",
-    "title": "朝・昼・晩、休む暇も無く大好きな彼氏をイチャラブメスイキ調教！もうお尻でしかイケないMケツマ○コ化計画！美園和花 向理来",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2023-02-21",
-    "cover_url": "",
-    "actress": [
-      "美園和花",
-      "向理来"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-092"
-  },
-  {
-    "id": 66794,
-    "IDcode": "DNJR-094",
-    "title": "フェラチオ大好きぃ～ おしゃぶりギャルのイッてもやめない小悪魔痴女フェラ 射精ホヤホヤの敏感チ●ポをしゃぶり続けて連続発射ザーメン搾り 水卜麻衣奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2023-03-11",
-    "cover_url": "",
-    "actress": [
-      "水卜麻衣奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-094"
-  },
-  {
-    "id": 100921,
-    "IDcode": "DNJR-105",
-    "title": "【FANZA限定】目覚める性癖～少女の隠れたM男強●飲尿性癖～ 花狩まい パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2023-08-16",
-    "cover_url": "https://tutu1.space/images/2023/12/02/4811d7f6e627aed3b4eb27eb90ed8449.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-105"
-  },
-  {
-    "id": 91308,
-    "IDcode": "DNJR-106",
-    "title": "1日1シーンずつ見進めるリアル射精管理 新村あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2023-08-15",
-    "cover_url": "",
-    "actress": [
-      "新村晶"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-106"
-  },
-  {
-    "id": 100913,
-    "IDcode": "DNJR-108",
-    "title": "M男クンと遊ぼう！欲望のままマゾ男をオモチャにして弄ぶ真正S女ドキュメント 二之宮りえな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2023-09-19",
-    "cover_url": "https://tutu1.space/images/2023/12/02/7019067f870e331dd595b94ae4b688f9.jpg",
-    "actress": [
-      "二之宮りえな"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-108"
-  },
-  {
-    "id": 17211,
-    "IDcode": "DNJR-113",
-    "title": "波多野結衣的球技～要害部位的徹底強姦～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2023-12-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20231217/d3424a65-7ea4-43d6-93c2-b62674ce8971.jpg",
-    "actress": [
-      "波多野结衣"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-113"
-  },
-  {
-    "id": 105837,
-    "IDcode": "DNJR-115",
-    "title": "若奥様の性癖暴露 ～M男体験ドキュメント～ 私、普通のセックスしかしたことないんです…。だけどM男に恋しちゃいました…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-01-16",
-    "cover_url": "https://tutu1.space/images/2024/02/23/2365a7d85b90230784edfbcab5a5d7b9.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-115"
-  },
-  {
-    "id": 10660,
-    "IDcode": "DNJR-131",
-    "title": "女子學校專長乳頭狩獵自慰～集體乳頭強暴～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-11-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20241110/20241110092215531531.jpg",
-    "actress": [
-      "皆月光",
-      "由良佳奈",
-      "冬愛琴音",
-      "百咲未色",
-      "夢乃陽菜",
-      "冬爱琴音"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-131"
-  },
-  {
-    "id": 77184,
-    "IDcode": "DNJR-133",
-    "title": "1日1シーンずつ見進めるリアル射精管理 月野かすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-12-10",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/69408c2c/vod.jpg",
-    "actress": [
-      "月野香澄"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-133"
-  },
-  {
-    "id": 6853,
-    "IDcode": "DNJR-138",
-    "title": "超大美尻援交妹！隨時配達，可以讓射的滿屁股都是 ~ 尾崎惠梨香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-04-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20250413/20250413113945871871.jpg",
-    "actress": [
-      "尾崎惠梨香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-138"
-  },
-  {
-    "id": 68893,
-    "IDcode": "DNJR-139",
-    "title": "【FANZA限定】やみつきハーレム顔面騎乗 天晴乃愛さんのパンティと生写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-04-16",
-    "cover_url": "",
-    "actress": [
-      "天馬唯",
-      "前田美波",
-      "市川りく",
-      "小野寺舞",
-      "廣瀬好美",
-      "木野野葉惠里香",
-      "仓木诗织"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-139"
-  },
-  {
-    "id": 6692,
-    "IDcode": "DNJR-140",
-    "title": "汗液尿液口水直衝直飲專屬店 夢幻體液治愈沙龍 ~ 天晴乃愛 前田美波 倉木詩織 廣瀬好美 市川りく",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-04-19",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250419/20250419052517567567_thumbnail.webp",
-    "actress": [
-      "前田美波",
-      "倉木詩織",
-      "天晴乃愛",
-      "市川りく",
-      "廣瀬好美",
-      "仓木诗织",
-      "ばたけ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-140"
-  },
-  {
-    "id": 6065,
-    "IDcode": "DNJR-141",
-    "title": "女學生黑絲襪的誘人氣息 美腿足技大解放 ~ 五十嵐清華 七藤優亜 有村希 青田悠華 高城なぎさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-05-17",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517110253249249_thumbnail.webp",
-    "actress": [
-      "有村希",
-      "五十嵐清華",
-      "高城なぎさ",
-      "青田悠華",
-      "七藤優亜"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-141"
-  },
-  {
-    "id": 66033,
-    "IDcode": "DNJR-142",
-    "title": "【FANZA限定】リピート率100％！ 完全会員制 男の潮吹きハーレムエステ 福田ももさんのチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-05-21",
-    "cover_url": "",
-    "actress": [
-      "幾田真知"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-142"
-  },
-  {
-    "id": 66536,
-    "IDcode": "DNJR-143",
-    "title": "【FANZA限定】若奥様の性癖暴露～M男体験ドキュメント～ 私、SMバーで女王様として働いてました…でもM男が忘れられなくて今回応募しました りおさん チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-06-11",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-143"
-  },
-  {
-    "id": 4097,
-    "IDcode": "DNJR-144",
-    "title": "一天一幕超硬核射精管理計畫 ~ 彌生美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210301486486_31835_thumbnail.webp",
-    "actress": [
-      "彌生美月",
-      "弥生美月"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-144"
-  },
-  {
-    "id": 4234,
-    "IDcode": "DNJR-145",
-    "title": "來啦…自己動手吧！被痴女姊姊們控制自慰的我 ~ 久和原聖羅 八森若菜 白石渚 美咲音 宇流木沙羅 靜河 宮城理惠 望月蕾 小野寺舞 千石もなか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210426140140_80736_thumbnail.webp",
+    "company": "FALENO TUBE",
+    "publish_date": "2025-06-26",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/29bf0213/vod.jpg",
     "actress": [
       "宮城理惠",
-      "望月蕾",
-      "静河",
-      "宇流木沙羅",
-      "千石もなか",
-      "白石渚",
-      "小野寺舞",
-      "八森若菜",
-      "久和原聖羅",
-      "美咲音"
+      "しめじ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-145"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-097"
   },
   {
-    "id": 2671,
-    "IDcode": "DNJR-147",
-    "title": "東京深喉餐廳 極致誘惑服務 ~ 天馬唯 雪代一鳳 菊池春 鬆井日奈子 五十嵐清華",
+    "id": 67722,
+    "IDcode": "FTHTD-103",
+    "title": "痴女ギャルハーレム 淫乱ビッチに囲まれ挟まれナイトプールで何度も射精させられた童貞陰キャな僕たち。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-09-12",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250913/20250913210027324324_52910_thumbnail.webp",
-    "actress": [
-      "天馬唯",
-      "松井日奈子",
-      "五十嵐清華",
-      "雪代一鳳",
-      "菊池春"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNJR-147"
-  },
-  {
-    "id": 78445,
-    "IDcode": "DNW-015",
-    "title": "ラブホテル完全盗撮 浮気ドキュメント 禁断の関係 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-01-04",
-    "cover_url": "",
-    "actress": [
-      "百合川紗羅",
-      "有賀遊空",
-      "爱乃零",
-      "佐々木れい"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-015"
-  },
-  {
-    "id": 74865,
-    "IDcode": "DNW-040",
-    "title": "彼女が制服に着替えたら。9",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2019-07-05",
-    "cover_url": "",
-    "actress": [
-      "佐倉陽菜",
-      "平花",
-      "后藤由乃",
-      "宫崎遥"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-040"
-  },
-  {
-    "id": 83477,
-    "IDcode": "DNW-062",
-    "title": "神イキ素人ガチナンパ 隠れヤリマンの生態調査 3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-01-03",
-    "cover_url": "",
-    "actress": [
-      "白咲花",
-      "须崎まどか",
-      "前田いろは",
-      "桐谷しほ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-062"
-  },
-  {
-    "id": 83473,
-    "IDcode": "DNW-063",
-    "title": "ナマ撮れ素人流出動画 09",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-01-03",
-    "cover_url": "",
-    "actress": [
-      "雾岛里绪菜",
-      "三田杏",
-      "小森美久露",
-      "タツ",
-      "久远れいら"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-063"
-  },
-  {
-    "id": 88300,
-    "IDcode": "DNW-113",
-    "title": "AV男優の電話帳 14 シロウト娘ナンパ狩り！！ 31",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2021-03-19",
-    "cover_url": "",
-    "actress": [
-      "宇流木沙羅",
-      "如月夏希",
-      "若宫はずき",
-      "真木夏芽"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-113"
-  },
-  {
-    "id": 88628,
-    "IDcode": "DNW-146",
-    "title": "DNW-146",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-01-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231024-1/3798fe587da5709731cd2b0ad2a8cdf0.jpg",
-    "actress": [
-      "沙月惠奈",
-      "有村希",
-      "优梨まいな"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DNW-146"
-  },
-  {
-    "id": 87451,
-    "IDcode": "DOA-021",
-    "title": "都合のいい爆乳おっぱいペット スタイル抜群超クビレ敏感な身体Jカップ極上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-07-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/841dab85cfed551513509178fc48b9f2.jpg",
+    "company": "FALENO TUBE",
+    "publish_date": "2025-05-22",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/30/1a346ef9/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-021"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-103"
   },
   {
-    "id": 87416,
-    "IDcode": "DOA-023",
-    "title": "ハメたがり淫乱神乳Hカップ",
+    "id": 60282,
+    "IDcode": "FTHTD-132",
+    "title": "性FALENO学園～SEXを推奨する学園で繰り広げられる禁断の授業～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-08-23",
-    "cover_url": "",
+    "company": "FALENO TUBE",
+    "publish_date": "2025-09-25",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/a0133428/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-023"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-132"
   },
   {
-    "id": 87439,
-    "IDcode": "DOA-024",
-    "title": "衝撃の巨チン 人生で最大のチ○ポ挿入！ 細身な美女のお口とマ○コにズッポリドーン！",
+    "id": 59812,
+    "IDcode": "FTHTD-144",
+    "title": "- FALENO学●強化合宿 大浴場編～男子部員の復習劇！秘密のドリンクがアへ顔のオンパレードを巻き起こす！大浴場に響き渡る女子部員20名の快楽の咆哮！～ - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-08-23",
-    "cover_url": "",
+    "company": "FALENO TUBE",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/5b90b477/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-024"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-144"
   },
   {
-    "id": 84378,
-    "IDcode": "DOA-025",
-    "title": "性欲底なしGカップキャバ嬢",
+    "id": 59811,
+    "IDcode": "FTHTD-145",
+    "title": "- 性FALENO学●強化合宿 もっと私たちにプロテイン（精子）をください！貪欲な部員たちによる酒池肉林の集団合同トレーニング！ - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-09-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/dc575d2d8207af0ea72ab9414417bdf8.jpg",
+    "company": "FALENO TUBE",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/00e8a5b2/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-025"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-145"
   },
   {
-    "id": 84372,
-    "IDcode": "DOA-026",
-    "title": "爆乳天国むちむちリラクゼーション",
+    "id": 67940,
+    "IDcode": "FTK-034",
+    "title": "「これも検査なんですか！？」「はい！立派な検査です！」真面目な顔して敬語で診察～飲尿～中出し・精飲でしつこいくらいに捕精（ほせい）検査してくる泌尿器科の極淫痴女医＃01 西野医師",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-09-24",
-    "cover_url": "",
+    "company": "TMA",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/0aee716f/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-026"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTK-034"
   },
   {
-    "id": 78602,
-    "IDcode": "DOA-085",
-    "title": "剃毛飼育 身動きとれない美女4人の陰毛を剃り恥ずかしいワレメを晒す！",
+    "id": 67941,
+    "IDcode": "FTK-035",
+    "title": "「これも検査なんですか！？」「はい！立派な検査です！」真面目な顔して敬語で診察～飲尿～中出し・精飲でしつこいくらいに捕精（ほせい）検査してくる泌尿器科の極淫痴女医＃02 石川医師",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://tutu1.space/images/2025/09/22/aa789458e37aae867024401335031e5a.jpg",
+    "company": "TMA",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/ed8f623f/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-085"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTK-035"
   },
   {
-    "id": 78562,
-    "IDcode": "DOA-086",
-    "title": "爆乳絶頂ソープ ヌルヌル柔乳でおっぱいマッサージ！4人の激カワ泡姫",
+    "id": 67943,
+    "IDcode": "FTK-036",
+    "title": "「これも検査なんですか！？」「はい！立派な検査です！」真面目な顔して敬語で診察～飲尿～中出し・精飲でしつこいくらいに捕精（ほせい）検査してくる泌尿器科の極淫痴女医＃03 皆瀬医師",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-11-26",
-    "cover_url": "",
+    "company": "TMA",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/e2bcb012/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-086"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTK-036"
   },
   {
-    "id": 73670,
-    "IDcode": "DOA-094",
-    "title": "誇り高き美人女捜査官 絶体絶命",
+    "id": 67942,
+    "IDcode": "FTK-037",
+    "title": "「これも検査なんですか！？」「はい！立派な検査です！」真面目な顔して敬語で診察～飲尿～中出し・精飲でしつこいくらいに捕精（ほせい）検査してくる泌尿器科の極淫痴女医＃04 豊岡医師",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-01-28",
-    "cover_url": "",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-094"
-  },
-  {
-    "id": 70436,
-    "IDcode": "DOA-104",
-    "title": "全身タイツFuck！！ピッタリスーツで密着擦りまくり！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-03-25",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/78480123/vod.jpg",
+    "company": "TMA",
+    "publish_date": "2025-04-25",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/5930ae5c/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-104"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTK-037"
   },
   {
-    "id": 70358,
-    "IDcode": "DOA-105",
-    "title": "股縄調教 05 敏感な股間にぎっちり食い込む！割れ目に食い込む羞恥10人",
+    "id": 5245,
+    "IDcode": "FTKD-028",
+    "title": "調教侄女敏感乳頭爽翻天，好友聽說了也來湊熱鬧連環開發",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-03-25",
-    "cover_url": "",
+    "company": "FalenoTube",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618041640729729_thumbnail.webp",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-105"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTKD-028"
   },
   {
-    "id": 70356,
-    "IDcode": "DOA-107",
-    "title": "同人AV 美人レイヤーが木馬股裂きの刑！そのまま挿入されアヘトロ昇天！！",
+    "id": 7100,
+    "IDcode": "FTNL-002",
+    "title": "小惡魔女子的手淫讓我不斷高潮",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-03-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-107"
-  },
-  {
-    "id": 5846,
-    "IDcode": "DOA-113",
-    "title": "隱匿巨乳的千金大小姐被人調教成抖M，爽到翻白眼噴泡沫昏厥抽搐高潮 ~ 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-05-24",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031434344344_thumbnail.webp",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-113"
-  },
-  {
-    "id": 5809,
-    "IDcode": "DOA-114",
-    "title": "滿身大汗溼黏黏的中出激戰 ~ 彌生美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-05-24",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525025129188188_thumbnail.webp",
-    "actress": [
-      "彌生美月"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-114"
-  },
-  {
-    "id": 5849,
-    "IDcode": "DOA-115",
-    "title": "震撼巨根 直衝子宮爽到意識飛走的黑人巨炮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-05-24",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524034815421421_thumbnail.webp",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-115"
-  },
-  {
-    "id": 63827,
-    "IDcode": "DOA-116",
-    "title": "五十路母と思春期の息子が中出し近親相姦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-05-27",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-116"
-  },
-  {
-    "id": 5742,
-    "IDcode": "DOA-117",
-    "title": "同人AV 巨乳死宅COSER被套路成功拍下超色情片",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-05-24",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529085215514514_thumbnail.webp",
-    "actress": [
-      "美園和花",
-      "森澤佳奈",
-      "吉根柚莉爱",
-      "響乃詩",
-      "夏目藍果"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-117"
-  },
-  {
-    "id": 5080,
-    "IDcode": "DOA-118",
-    "title": "浜崎真緒的隱秘性愛之旅：海邊泳池購物玩到爆，最後來場濃情蜜意啪啪啪 ~ 浜崎真緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081508536536_thumbnail.webp",
-    "actress": [
-      "浜崎真緒",
-      "浜崎真绪"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-118"
-  },
-  {
-    "id": 5037,
-    "IDcode": "DOA-119",
-    "title": "爆乳絕頂風俗泡泡浴 滑溜溜軟乳按摩爽到爆！五位超萌泡姬 ~ 辻井穗乃果 佐藤遙希 花柳杏奈 大原亞夢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081515743743_thumbnail.webp",
-    "actress": [
-      "辻井穗乃果",
-      "花柳杏奈",
-      "佐藤遥希",
-      "大原亞夢"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-119"
-  },
-  {
-    "id": 4834,
-    "IDcode": "DOA-120",
-    "title": "巨乳誘惑全裸曝光！大白天戶外放縱激戰",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621083343258258_thumbnail.webp",
-    "actress": [
-      "吉根柚莉爱",
-      "浜辺栞帆",
-      "天晴乃愛",
-      "中条りの"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-120"
-  },
-  {
-    "id": 4833,
-    "IDcode": "DOA-121",
-    "title": "三角木馬調教04！私處被撕裂的尖叫，刺激直衝雲霄忍不住高潮的妹子們",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081513707707_thumbnail.webp",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-121"
-  },
-  {
-    "id": 5027,
-    "IDcode": "DOA-122",
-    "title": "同人AV 爆乳肉感Coser被捆綁調教爽到翻天 ~ 莉莉遙香 天晴乃愛 波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081434439439_thumbnail.webp",
+    "company": "TMA",
+    "publish_date": "2025-04-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20250402/20250402105205254254.jpg",
     "actress": [
       "波多野结衣",
-      "天晴乃愛",
-      "莉莉遙香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-122"
-  },
-  {
-    "id": 4165,
-    "IDcode": "DOA-124",
-    "title": "震驚！絕世美女居然玩絲襪變臉，臉崩到不行！~ 小花暖 彌生美月 西田卡莉娜 望月綾香 前乃菜菜 河合陽菜 有賀千里 竹內夏希 桐谷鈴音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718212741129129_45173_thumbnail.webp",
-    "actress": [
-      "彌生美月",
-      "小花暖",
-      "望月綾香",
-      "前乃菜菜",
-      "佐久間楓",
-      "竹内夏希",
-      "有賀千里",
-      "桐谷すずね",
-      "河合陽菜",
-      "結城雫",
-      "西田卡莉娜",
-      "安倍亜沙美",
-      "弥生美月",
-      "河合阳菜",
-      "七世いおり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-124"
-  },
-  {
-    "id": 4251,
-    "IDcode": "DOA-125",
-    "title": "後庭娘 肛門被瘋狂突擊幹爆而無法抵抗的羞恥 ~ 祈山愛 竹內夏希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221249140140_43714_thumbnail.webp",
-    "actress": [
-      "竹内夏希",
-      "祈山愛"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-125"
-  },
-  {
-    "id": 4172,
-    "IDcode": "DOA-126",
-    "title": "豐滿巨乳 緊縛調教 特輯 四個巨乳娘監禁調教成順從性奴 ~ 清巳麗乃 乃木蛍 夏目藍果 有岡みう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220109400400_17798_thumbnail.webp",
-    "actress": [
+      "月野香澄",
+      "田中寧寧",
+      "由良佳奈",
       "有岡みう",
-      "清巳麗乃",
-      "乃木蛍",
-      "夏目藍果"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-126"
-  },
-  {
-    "id": 4243,
-    "IDcode": "DOA-127",
-    "title": "全身刺青正妹超反差！外表硬派內心超騷浪到高潮臉爽爆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718215837359359_26242_thumbnail.webp",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOA-127"
-  },
-  {
-    "id": 77218,
-    "IDcode": "DOCD-038",
-    "title": "『本当に退会しますか？』入会は容易いのにやめようと思うと簡単にはやめられないサブスクの退会手続き！退会迷路を抜け出した先に待ち受けていたのはあの手この手で退会を邪魔してくる女子社員だった！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DOC",
-    "publish_date": "2024-12-06",
-    "cover_url": "",
-    "actress": [
-      "都月楓",
-      "松井日奈子",
-      "胡桃多惠"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-038"
-  },
-  {
-    "id": 7313,
-    "IDcode": "DOCD-051",
-    "title": "偷偷帶回家素人的隱藏攝像頭SEX Vol.9 ~ 有馬美月 雫月心桜 花裏明理 逢月ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-03-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20250323/95504407-4006-4f85-855f-70ded3cea22e.jpg",
-    "actress": [
-      "逢月日葵",
-      "雫月心桜",
-      "花里明理",
-      "有馬美月"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-051"
-  },
-  {
-    "id": 7332,
-    "IDcode": "DOCD-052",
-    "title": "沒男友獨居女的性欲突破天際！！飢渴BODY勾引上門服務，誰都行快讓我爽！ ~ 黑木玲奈 若宮葉月 乃木絢愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-03-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20250322/e9333666-0a38-4d7b-8130-8d86cfcf2214.jpg",
-    "actress": [
-      "若宮葉月",
+      "水原みその",
       "黑木玲奈",
-      "乃木絢愛",
+      "碓井せりな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTNL-002"
+  },
+  {
+    "id": 66910,
+    "IDcode": "FUCK",
+    "title": "えなちゃんの爆乳ぬるテカフルコース 02-小梅惠奈。.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/efce8fc178afc1c21a6e216c88d7cb4a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUCK"
+  },
+  {
+    "id": 81644,
+    "IDcode": "FUGA-039",
+    "title": "バイト先の慰安旅行でパートのおばさんとセックスに溺れて何度も中出し 水野優香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2020-02-20",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/a4107ed5d0454f05f53790a400448b91.jpg",
+    "actress": [
+      "水野優香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-039"
+  },
+  {
+    "id": 106557,
+    "IDcode": "FUGA-056",
+    "title": "妻の親友～気持ち良い恵体を揉んで埋もれてハメまくった欲情ドストライク性交～ 赤城穂波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2022-10-13",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_086fuga056/h_086fuga056pl.jpg",
+    "actress": [
+      "赤城穂波"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-056"
+  },
+  {
+    "id": 5954,
+    "IDcode": "FUGA-061",
+    "title": "鄰居太太的緊急需求 跑來借我的小老弟啦 ~ 佐久間楓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "2025-05-22",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014403957957_thumbnail.webp",
+    "actress": [
+      "佐久間楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-061"
+  },
+  {
+    "id": 70125,
+    "IDcode": "FUGA-53",
+    "title": "家庭内炎上した近所の奥さん～浮気がバレて家を追い出された不埒妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250325-1/811a135855d9c8ea1e3502101b8ee17b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-53"
+  },
+  {
+    "id": 70126,
+    "IDcode": "FUGA-54",
+    "title": "FUGA-54",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2022-12-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250325-1/6b46e09aabe91b97102ac025926777ac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-54"
+  },
+  {
+    "id": 91218,
+    "IDcode": "FUNK-029",
+    "title": "実写版 美人教師は羞恥の虜 水川スミレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240410-1/15f0d85f82e6cc830683b36f11360ce7.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUNK-029"
+  },
+  {
+    "id": 91217,
+    "IDcode": "FUNK-036",
+    "title": "実写版 美人教師は羞恥の虜 妃ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240410-1/7634c52fb39fc48fd0ae6b4f7a725e04.jpg",
+    "actress": [
+      "妃光莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUNK-036"
+  },
+  {
+    "id": 61225,
+    "IDcode": "FW-004",
+    "title": "義父のデカチンにハマってしまった淫乱義娘。義父のためにスペシャルビデオを制作することに！言いなりの義理娘のマ〇コの中をデカチンでぐるぐるとかき混ぜながら、くっさい足を舐められ2回もイカされ…？！澄河美花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2025-07-14",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/09/b9cdab65/vod.jpg",
+    "actress": [
+      "澄河美花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FW-004"
+  },
+  {
+    "id": 58050,
+    "IDcode": "GACHI-1135",
+    "title": "怜子　−実録ガチ面接143−",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "MILK",
+    "publish_date": "2017-05-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221010-1/d990a745e93b56b178cac5cbb80da2d6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1135"
+  },
+  {
+    "id": 58172,
+    "IDcode": "GACHI-1144",
+    "title": "真由子　−スクールデイズ50−",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "MILK",
+    "publish_date": "2017-05-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221014-1/d5abadad7fead797ba41b0f62f66677b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1144"
+  },
+  {
+    "id": 58165,
+    "IDcode": "GACHI-1146",
+    "title": "祐実、カノン　−ガンシャされる女たち。12−",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "MILK",
+    "publish_date": "2017-06-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221015-1/99774bc809e0fbccdd21a842bd1abe55.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1146"
+  },
+  {
+    "id": 58164,
+    "IDcode": "GACHI-1148",
+    "title": "佳乃　−実録ガチ面接146−",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "MILK",
+    "publish_date": "2017-06-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221015-1/4f503ba6d591c71ca9a38adc0947bc3f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1148"
+  },
+  {
+    "id": 58162,
+    "IDcode": "GACHI-1150",
+    "title": "ミライ　−KURADASHI27−",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "MILK",
+    "publish_date": "2017-06-14",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221016-1/a85d61dfd376cf7eb03c6879f05f8d92.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI-1150"
+  },
+  {
+    "id": 56153,
+    "IDcode": "GACHI1151",
+    "title": "婴儿肥的美女~被无情中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "MILK",
+    "publish_date": "2017-06-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221016-1/42935837e269b5dd3b7e8efd22b7de12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHI1151"
+  },
+  {
+    "id": 58044,
+    "IDcode": "GACHIP-356",
+    "title": "オムニバス　−大放尿スペシャル 2017.GW1−",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "MILK",
+    "publish_date": "2017-04-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221007-1/24e4af09f7160d3eca439b195504a76b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHIP-356"
+  },
+  {
+    "id": 58045,
+    "IDcode": "GACHIP-359",
+    "title": "あずみ恋　−別刊マジオナ133−",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "MILK",
+    "publish_date": "2017-05-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221007-1/f61ccf5222ec67583de0019199bdf315.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GACHIP-359"
+  },
+  {
+    "id": 3237,
+    "IDcode": "GAID-026",
+    "title": "初次羞恥調教體驗 暑假被大叔們教壞的淫亂回憶 美巨乳×草帽×顏射×羞恥放尿×口爆×吞精 ~ 皐月ゆら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "FIRST STAR",
+    "publish_date": "2025-08-26",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827014338377377_85421_thumbnail.webp",
+    "actress": [
+      "皐月ゆら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAID-026"
+  },
+  {
+    "id": 5217,
+    "IDcode": "GAJK-024",
+    "title": "倉庫裡被緊縛調教的女高中生：與仰慕的叔叔重逢後墮入變態快感 ~ 八森若菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014236305305_thumbnail.webp",
+    "actress": [
+      "八森若菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAJK-024"
+  },
+  {
+    "id": 87983,
+    "IDcode": "GANA-1120",
+    "title": "海ナンパ 06 in 湘南 チームN",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2016-07-30",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/482b4c021452968c370fbfe383ef212c.jpg",
+    "actress": [
+      "伊东真绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-1120"
+  },
+  {
+    "id": 87979,
+    "IDcode": "GANA-1387",
+    "title": "コスプレカフェナンパ 23",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2017-06-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/7345f1143753b45278243dfa16d674e0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-1387"
+  },
+  {
+    "id": 87987,
+    "IDcode": "GANA-1688",
+    "title": "マジ軟派、初撮。 1059",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2018-04-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/8d53c2b7c27ed489d86b657de52dc66c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-1688"
+  },
+  {
+    "id": 74875,
+    "IDcode": "GANA-1998",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 123 ショートカットヘアーの清楚な見た目の女の子が、男の指示に従って電話をしながら電マオナニーで絶頂を迎える♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-04-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/ae81e85b27f2d00be2b10475efba923b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-1998"
+  },
+  {
+    "id": 74876,
+    "IDcode": "GANA-2051",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 122 収穫なしの合コンで消化不良気味の爆乳美少女を連れ込み！嫌がりつつも快楽に抗えずにノックアウトされて気づけばGカップおっぱいをプルンプルン揺らして悶えまくり！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-04-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/5b3f8fd5d6f84abb5fdce76c08028e18.jpg",
+    "actress": [
+      "市川润"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2051"
+  },
+  {
+    "id": 73866,
+    "IDcode": "GANA-2060",
+    "title": "マジ軟派、初撮。 1316 原宿で買い物中の純朴系雑貨屋女子を謝礼で釣ってゲット。AV撮影に乗り気じゃなかったけど、電マでオナニーしていたら気持ち良くなってきて…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-04-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/733bdab8a18f61373e7d25eae6111fa4.jpg",
+    "actress": [
+      "ゆうき",
+      "まなかかな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2060"
+  },
+  {
+    "id": 74423,
+    "IDcode": "GANA-2064",
+    "title": "マジ軟派、初撮。 1358 清楚で美形なパイスラ女子が、原宿で休憩中に突撃ナンパ！？豊満な爆乳を上下に揺らし、マン汁を溢れさせ、激しいグラインドで膣奥を擦り付ける騎乗位は必見！！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-06-16",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/181237a933ad5c4e0fa3c87e5dcb7b93.jpg",
+    "actress": [
+      "市川润",
+      "高梨ゆあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2064"
+  },
+  {
+    "id": 74012,
+    "IDcode": "GANA-2065",
+    "title": "マジ軟派、初撮。 1318 中野で見つけた専門学生。最近、彼氏に「重い！！」っと言われて別れて意気消沈。そんな彼女に身体で慰めを！？ベットの上では小悪魔に変身！たしかにちょっと重そう…。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-04-17",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/50a684195a2300aef05d344ad2ace535.jpg",
+    "actress": [
+      "岬梓沙",
+      "市川润"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2065"
+  },
+  {
+    "id": 74541,
+    "IDcode": "GANA-2081",
+    "title": "マジ軟派、初撮。 1343 顔良しノリ良しセックス良し！！ハーフ系美少女の素人ちゃんを新橋でゲット！ノリが良かったのでセックスさせてくださいと頼み込み！即OKで撮影開始！！デカチンでヨガりまくりな激エロセックスは必見！！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-05-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/1bd46a78051f9c70f91cd41af06f81e2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2081"
+  },
+  {
+    "id": 74011,
+    "IDcode": "GANA-2084",
+    "title": "マジ軟派、初撮。 1346 『オーディションやってるよ～！』の一言でホテルまでついてきちゃうのは地下アイドルの悲しい性？それとも押しに弱いだけ？ロリボイスで耳が幸せ♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-05-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/882071a8cdc37354b0dd41d8ce9c16cb.jpg",
+    "actress": [
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2084"
+  },
+  {
+    "id": 74542,
+    "IDcode": "GANA-2088",
+    "title": "マジ軟派、初撮。 1344 上野アメ横で見つけた奇抜ファッションギャル。これからバイトというところをギャラで釣ってどうにか出演してもらうことに。安心したのも束の間、下着公開から本番に至るまでジャンケンに勝ったらOKというトンデモ展開。これバラエティだっけ？AVだっけ？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-05-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/77ff53de42be509d6079a7cc5605d07d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2088"
+  },
+  {
+    "id": 74500,
+    "IDcode": "GANA-2089",
+    "title": "マジ軟派、初撮。 1347 『就活に苦戦中？斡旋してくれる人紹介しますよ！』背に腹は代えられずホテルへ！PR動画の撮影と称してパンスト破いて着衣SEX！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-05-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/7d5b5fab79fea4d83799aab5846daeab.jpg",
+    "actress": [
+      "ゆうき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2089"
+  },
+  {
+    "id": 74424,
+    "IDcode": "GANA-2090",
+    "title": "マジ軟派、初撮。 1348 高額謝礼に釣られてセックスしちゃうGカップの爆乳JD！！大きいだけじゃない！ピンク乳首の国宝級おっぱい！！おまけにフェラやパイズリご奉仕も大好きなスケベガール♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-05-30",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/143185e02dc45a5c75ed80d08d0e45b8.jpg",
+    "actress": [
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2090"
+  },
+  {
+    "id": 74539,
+    "IDcode": "GANA-2091",
+    "title": "マジ軟派、初撮。 1345 これは池袋イチの美女では？？顔もスタイルも超S級！！30分だけのインタビューを条件にホテルに移動！！ハニカミながら抵抗をする彼女にイタズラ♪「やめてぇ、濡れちゃうからぁ」ってキュンカワぁ♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-05-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/e666859a0d04bd22f1d76265a81667cb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2091"
+  },
+  {
+    "id": 74540,
+    "IDcode": "GANA-2092",
+    "title": "マジ軟派、初撮。 1350 【美人過ぎるア○メイト店員は超絶ムッツリ！】夕暮れ時の秋葉原でゲットした美少女は、1年以上もセックス無しで欲求不満？？胸も太もももアソコもお触りOKで、無毛マ○コを責めれば止まらないスプラッシュ潮吹き！エンジンかかって美味そうにチ○ポをしゃぶり、最後はリズミカルな腰使いの騎乗位で快感の向こう側へ！フタを開ければ、とんでもないムッツリ女子であった？！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-06-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/908c33a29d90f97714aa343c5a8217ab.jpg",
+    "actress": [
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2092"
+  },
+  {
+    "id": 74492,
+    "IDcode": "GANA-2109",
+    "title": "マジ軟派、初撮。 1365 女子大生の友情検証と称して二人組の女子大生をナンパ♪最近エッチした相手が同じ男w仲良し過ぎる二人のレズプレイ乱交がソソる！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-06-29",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/e9abfc69d10aa612724b94bc50cce9e9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2109"
+  },
+  {
+    "id": 74422,
+    "IDcode": "GANA-2110",
+    "title": "ジョギングナンパ 22 隠れ巨乳！ノーパンスパッツ！スポーツウェアの中に隠された魅惑のカラダ！筋トレを教えてもらいながら二人の距離は縮まっていき…？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-07-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/2ef850515a36021d3444a356b35e69d1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2110"
+  },
+  {
+    "id": 74493,
+    "IDcode": "GANA-2112",
+    "title": "マジ軟派、初撮。 1368 トリマーを目指している小動物系かわいこちゃん！おっとり系の彼女は自分をトリミングされると…？おっとり小動物がキャンキャン喘ぐ！？気持ちよすぎてド変態に変貌！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-07-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/d8f7d9e7912ad5cc23c09ed6216a94de.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2112"
+  },
+  {
+    "id": 74443,
+    "IDcode": "GANA-2113",
+    "title": "マジ軟派、初撮。 1370 ナンパ失敗続きで落ち込んでいた時、ママチャリにまたがった美人奥様が現れた！！買い物袋でパンパンに詰まった前カゴ、胸元のゆるいTシャツ、足元はサンダル。「5歳の息子と旦那がお腹を空かして待ってます…」生活感剥き出しの美人奥様は釣れるのか？？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-07-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/1b15c320a85d0f868c116d63c3ee5aa3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2113"
+  },
+  {
+    "id": 74568,
+    "IDcode": "GANA-2123",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 124 マッチングアプリで知り合ったふんわり系女子♪お家デートでイチャイチャｗカラダのマッチングはどうなのか！？強く抱き合いながら愛し合う甘々イチャラブSEX♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-07-16",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/36582cba0be1d1a4e64badce409939c5.jpg",
+    "actress": [
+      "市川润"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2123"
+  },
+  {
+    "id": 82723,
+    "IDcode": "GANA-2138",
+    "title": "プールナンパ 28 ナイトプールで女子2人組をホテルへ連れ込み！ノリノリの友達は男と別部屋でSEX！置いてけぼりの優衣ちゃんは戸惑いつつもムッツリな性格を見抜かれてしまい…？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-08-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221119-1/e511ee09cf1b2a361edb8cc51e6f4f99.jpg",
+    "actress": [
+      "富田优衣",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2138"
+  },
+  {
+    "id": 82724,
+    "IDcode": "GANA-2142",
+    "title": "ファ●ファ●スプラッシュナンパ！ 某テーマパークで行われたフェスで見つけた水着美女二人組！会場の熱気でテンションMAXだったからすんなりお持ち帰り成功！一人がトイレに立っている間にもう一人を二人がかりでエッチなイタズラを仕掛け、その勢いで4P開始♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-08-17",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221119-1/7d5bc54439177dc7c64d828397ebc117.jpg",
+    "actress": [
+      "百瀬凛花",
+      "藤白桃羽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2142"
+  },
+  {
+    "id": 67270,
+    "IDcode": "GANA-2163",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 149 甘可愛い彼女はマジで天使！キュートすぎてもうメロメロです♪色白ボディが喘いで乱れる！エロかわボイスでアン！アン！連発♪いい響き♪♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2020-02-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/728aed318171adab10727f55e600c1a6.jpg",
+    "actress": [
+      "春风光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2163"
+  },
+  {
+    "id": 87982,
+    "IDcode": "GANA-2197",
+    "title": "マジ軟派、初撮。 1417 新宿で営業中のOLさんに押せ押せSEX！イヤイヤっと断りながらも最後は喘いでます♪営業の極意は相手が折れるまで食い下がること！営業とナンパは一緒ですね♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2019-11-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/01b28700e52a2f82e011820762827fc3.jpg",
+    "actress": [
+      "藤森里穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2197"
+  },
+  {
+    "id": 67244,
+    "IDcode": "GANA-2245",
+    "title": "マジ軟派、初撮。 1451 某ヒルズ近くでゲットしたセクシーなお姉さんと欲望をぶつけ合う獣の様なセックス！ビクビクと大きく体を跳ねさせて何度も絶頂する姿がエロすぎる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2020-02-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/4acfd0c52f9cc10913a9972329bba35d.jpg",
+    "actress": [
+      "目黑惠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2245"
+  },
+  {
+    "id": 67128,
+    "IDcode": "GANA-2261",
+    "title": "マジ軟派、初撮。 1487 歌舞伎町で見つけたNo.1の実績もあるヤリ手デリヘル嬢！次の指名が入っているところ無理を言って連れてきちゃいましたwその実績は伊達じゃないと言わしめる絶品フェラテクも、敏感な乳首やアソコを攻めた時のリアクションも、延長お願いしたくなるほどヤバエロw",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2020-05-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/7ea6588da746ff8ff26d390cfd993345.jpg",
+    "actress": [
+      "なぎ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2261"
+  },
+  {
+    "id": 87981,
+    "IDcode": "GANA-2282",
+    "title": "マジ軟派、初撮。 1478 特技のマジックでハートを掴みホテルに連れ込んだ清楚系美女♪マジックと称して胸を触ったりキスをしちゃったり♪完全に信じきった美女はFカップ巨乳を乱舞させて得意の騎乗位を披露♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2020-04-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/0dd8743d574ad097fc79237e22d8c62b.jpg",
+    "actress": [
+      "みさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2282"
+  },
+  {
+    "id": 86972,
+    "IDcode": "GANA-2298",
+    "title": "マジ軟派、初撮。 1495 保険の営業ウーマンがストレス溜まってムラムラ！ストッキング破って発散セックス開始！！濃密な接触の繰り返しに敏感なスレンダーボディを震わせて絶頂を繰り返す！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2020-06-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230411-41/f8acf684a65017bfb5e2917893340b60.jpg",
+    "actress": [
+      "タツ",
+      "爱音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2298"
+  },
+  {
+    "id": 89370,
+    "IDcode": "GANA-2301",
+    "title": "マジ軟派、初撮。 1492 新宿でスイカ割りを体験募集したら、豊満なスイカップの収穫に成功！？暴れまくる美巨乳にパイパンおマ●コからイキ潮が大噴射！新鮮採れたてデカパイスレンダーボディがイキ淫れる♪♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2020-06-20",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/5df1bd76dcbe60822f8539ce4db01494.jpg",
+    "actress": [
       "若宫はずき"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-052"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2301"
   },
   {
-    "id": 69577,
-    "IDcode": "DOCD-054",
-    "title": "『お兄ちゃん…今日だけ一緒にいて…』いつもボクを見下す生意気な妹が突然べったり！？トイレもお風呂もベッドだってくっついて離れない巨乳妹の普段とのギャップに理性を保てない！",
+    "id": 89369,
+    "IDcode": "GANA-2308",
+    "title": "マジ軟派、初撮。 1498 話題のドラマにあやかって【レンタル(ほぼ)なんもしない人】と看板を掲げて、ただ待っていただけでとびっきりカワイイGALが釣れちゃった♪&quot;(ほぼ)なんもしない人&quot;に何度も潮吹かされて、何度もイカされ、企画も理性も完全崩壊♪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-04-04",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2020-07-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/6d14dc581e57715252ad91e8782b177c.jpg",
     "actress": [
-      "姫咲華",
-      "羽月果音"
+      "渚光希"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2308"
   },
   {
-    "id": 70178,
-    "IDcode": "DOCD-055",
-    "title": "部屋に連れ込んだ素人との隠し撮りSEX そのままAV発売 Vol.10",
+    "id": 89372,
+    "IDcode": "GANA-2326",
+    "title": "マジ軟派、初撮。 1518 秋葉原で出会ったボーイッシュガールを、娯楽用品の市場調査(ってテイ)でホテルへ連れ込みハメ倒す！怪しいと思いつつガードゆるゆるな彼女が、ひとたび膣へディルドーを挿れられた瞬間！トロンと蕩けた表情を浮かべながら、快感にヨガり狂うメスへと豹変する！？",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-04-18",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2020-08-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/417708af2c3667bed69f89afc3cbed6f.jpg",
+    "actress": [
+      "吉良鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2326"
+  },
+  {
+    "id": 79464,
+    "IDcode": "GANA-2533",
+    "title": "マジ軟派、初撮。 1677 恵比寿で制汗シートを配ってたらナンパできた人の良さそうで押しに弱そうなお姉さん！Eカップおっぱいの汗を拭いてあげるとまんざらでもなさそうで…抱き心地最高の色白むっちりボディを堪能！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2021-08-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/db0dc18a3e9b489f8906917286239d63.jpg",
+    "actress": [
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2533"
+  },
+  {
+    "id": 79794,
+    "IDcode": "GANA-2553",
+    "title": "マジ軟派、初撮。 1699 胸元の谷間が魅力的過ぎる黒髪少女をナンパ！ボーリング対決からの罰ゲームでスタジオ連れ込み！スレンダーな体に不釣り合いな美巨乳に興奮必死！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2021-10-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/98831e76a5b6ece27ad52b3becc04951.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2553"
   },
   {
-    "id": 70177,
-    "IDcode": "DOCD-056",
-    "title": "たちんぼ 夜の街に佇む美女に本気で交渉 Vol.4",
+    "id": 79991,
+    "IDcode": "GANA-2559",
+    "title": "マジ軟派、初撮。 1712 地下アイドルをナンパ成功！美巨乳で美尻で美脚！クビレの曲線美が光る非の打ち所なしの完璧ボディ！激かわフェイスに顔射する背徳感！未来のスターが絶頂しまくり！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-04-18",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2021-11-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/85a3da0b35ede06ad389d517275ee7f2.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2559"
   },
   {
-    "id": 67491,
-    "IDcode": "DOCD-057",
-    "title": "『予約半年待ちリピ率100％ 某メンズエステ店 密室×密着 イキ過ぎた禁断サービス 25 ～脱毛サロン編～』",
+    "id": 79607,
+    "IDcode": "GANA-2563",
+    "title": "マジ軟派、初撮。 1695 もっちり色白肌の美人女子大生をナンパでゲット！初めてのカメラに恥じらいつつも、快楽に負けてうっとり顔で喘ぎよがりまくる巨乳美少女！！！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-05-02",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/26/43108840/vod.jpg",
+    "company": "MILK",
+    "publish_date": "2021-09-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/1a580921fe26b02744b9de9f04c69ae7.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2563"
   },
   {
-    "id": 67345,
-    "IDcode": "DOCD-058",
-    "title": "ボクを下僕扱いする高飛車パワハラ女上司をリバースメンタリング（立場逆転）で教育的指導してやった。",
+    "id": 79554,
+    "IDcode": "GANA-2566",
+    "title": "マジ軟派、初撮。 1696 夜の表参道でゲットした男勝りなオシャレ美女！Sっ気強めの性格かと思いきや、酔うとドMな本性が顕に！デカ乳揺らして声を上げチ●ポ求める豹変っぷりはマジエロ！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-05-02",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2021-09-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/8de557e7c87de9c46dc5a12d35c28153.jpg",
     "actress": [
-      "天馬唯",
-      "依本詩織",
-      "渋谷夏"
+      "イセドン内村"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-058"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2566"
   },
   {
-    "id": 4626,
-    "IDcode": "DOCD-064",
-    "title": "男友就在旁邊偷拍！情侶NTR按摩店體驗 ~ 末広純 希咲那奈 真白風羽里 星宮桃",
+    "id": 80540,
+    "IDcode": "GANA-2583",
+    "title": "マジ軟派、初撮。 1724 上司の飲みに付き合ってウンザリ中のOLをナンパ！楽しく2軒目飲みしてホテルへお持ち帰り！手マンとチ●ポで大量潮吹き！半べそ声で喘ぎまくる！！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707041049377377_43357_thumbnail.webp",
-    "actress": [
-      "末広純",
-      "希咲那奈",
-      "真白風羽里",
-      "星宮桃"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-064"
-  },
-  {
-    "id": 4571,
-    "IDcode": "DOCD-065",
-    "title": "火辣瑜伽教練緊身褲爆裂，翹臀赤裸裸誘惑炸裂！忍不住直接硬上，瘋狂中出不間斷～ 北岡果林 宮本聰美 宮城理惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709031827194194_66702_thumbnail.webp",
-    "actress": [
-      "北岡果林",
-      "宮城理惠",
-      "宮本聡美"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-065"
-  },
-  {
-    "id": 62600,
-    "IDcode": "DOCD-066",
-    "title": "部屋に連れ込んだ素人との隠し撮りSEX そのままAV発売 Vol.12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-07-18",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2021-12-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/eb53ca35e16e86b85044a70fa7d04570.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-066"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2583"
   },
   {
-    "id": 62599,
-    "IDcode": "DOCD-067",
-    "title": "いつでもどこでもおま○こ一つで簡単お支払い！シン・キャッシュレス決済サービス『マンPay』がある世界。",
+    "id": 79938,
+    "IDcode": "GANA-2612",
+    "title": "【渋谷ハロウィン2021】二人組コスプレ美女をナンパ成功！エロチャイナ服を着たスレンダー美脚のお姉さんは攻めも受けも両方イケる万能選手！乳首いじりのテクもオマ●コの敏感具合もカンペキ！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-07-18",
-    "cover_url": "",
-    "actress": [
-      "美咲佳奈",
-      "泉莉音",
-      "弥生美月"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-067"
-  },
-  {
-    "id": 3519,
-    "IDcode": "DOCD-069",
-    "title": "假裝童貞撩撥正經按摩小姐姐，趁她心軟攻破防線，大屌直搗生中出大成功 ~ 似鳥日菜 天羽梨梨花 夕美紫苑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-08-14",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140405368989_24283_thumbnail.webp",
-    "actress": [
-      "夕美紫苑",
-      "似鳥日菜",
-      "天羽梨梨花"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCD-069"
-  },
-  {
-    "id": 77956,
-    "IDcode": "DOCP-039",
-    "title": "下劣な上司に性接待を強要され、夫の目の前で容赦なく何度もイカされてしまう美人貞淑妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-04-20",
-    "cover_url": "",
-    "actress": [
-      "百合川紗羅",
-      "名森さえ",
-      "森川杏奈",
-      "川口ともか"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-039"
-  },
-  {
-    "id": 88332,
-    "IDcode": "DOCP-041",
-    "title": "再婚してできたロリ可愛妹の射精管理オナ禁状態で何度も寸止めされた後に死ぬほど精液を搾られ…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-04-20",
-    "cover_url": "",
-    "actress": [
-      "栄川乃亜",
-      "あかね葵"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-041"
-  },
-  {
-    "id": 78455,
-    "IDcode": "DOCP-043",
-    "title": "「童貞卒業したい！！」としつこくお願いすると渋々受け入れてくれた姉いざ挿入してみると相性抜群だったのかアソコをヒクヒク感じまくり！しかも「感じすぎるから騎乗位はダメ！」というので試してみると更に過敏になって高速騎乗位で連続マジイキ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-05-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241122-1/b63ffc4b279d0de9eaf929727e6a098f.jpg",
-    "actress": [
-      "斎藤ミオリ",
-      "市桥惠理奈",
-      "さくらはる",
-      "西野悠"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-043"
-  },
-  {
-    "id": 78444,
-    "IDcode": "DOCP-048",
-    "title": "着衣での仕事のはずが媚薬を盛られイヤラシ汁を垂れ流すほど視姦され追い打ち媚薬で発情しイキ堕ちる清純デッサンモデル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-05-18",
-    "cover_url": "",
-    "actress": [
-      "美谷朱里",
-      "若宫はずき",
-      "仓木诗织",
-      "七海ゆあ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-048"
-  },
-  {
-    "id": 78463,
-    "IDcode": "DOCP-051",
-    "title": "「ダメ…声出ちゃうって！」声を出しちゃいけない状況でカワイイあの子の股間を陰湿イタズラ責め！スリルとドキドキ感でマ○コが爆濡れ！アヘ声を我慢しながら連続真性中出しSEX！！2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-06-01",
-    "cover_url": "",
-    "actress": [
-      "初美りん",
-      "なつめ爱梨"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-051"
-  },
-  {
-    "id": 78465,
-    "IDcode": "DOCP-056",
-    "title": "再婚相手の連れ子は美少女姉妹！！初めて皆で川の字で寝る事に…発育途中の妹の身体に欲情が抑えられず、つい手が…ふと隣を見ると漏れ出る喘ぎ声に気づいた姉が股間に手を伸ばし身体をくねらせ…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-06-15",
-    "cover_url": "",
-    "actress": [
-      "枢木葵",
-      "奏自由",
-      "凉美ほのか",
-      "菊川みつ叶"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-056"
-  },
-  {
-    "id": 80155,
-    "IDcode": "DOCP-061",
-    "title": "巨乳兄嫁の無防備な胸チラに我慢できず即ハメ！戸惑いつつも義弟のデカチン棒が気持ちよすぎて「今日だけ特別よ」と笑顔で貪りご奉仕SEX！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-07-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/6427baafbc2a7483c2b5a70fdf9a18b0.jpg",
-    "actress": [
-      "大島愛里亞",
-      "持田栞里",
-      "逢泽真里亚",
-      "宫泽アオ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-061"
-  },
-  {
-    "id": 78050,
-    "IDcode": "DOCP-070",
-    "title": "清楚でやさしい巨乳美人妻が人生初の恥じらいぬるぬるソープに挑戦！！夫婦生活がマンネリ気味な奥様が大量ローションぬるぬるソーププレイでグチョグチョになった生マ○コ素股からヌルッと挿入！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-08-03",
-    "cover_url": "",
-    "actress": [
-      "秋本詩音",
-      "篠田优",
-      "近藤ユキ",
-      "相泽ゆりな"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-070"
-  },
-  {
-    "id": 78447,
-    "IDcode": "DOCP-071",
-    "title": "娘の友達に利尿剤入りの飲み物を飲ませトイレを封鎖！ 覗かれているとも知らずジョボジョボ野ション恥じらいで興奮気味の彼女に追い討ちをかけ尻穴パックリ！ハレンチ騎乗位で大量中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-08-03",
-    "cover_url": "",
-    "actress": [
-      "桃尻かのん",
-      "桜川かなこ",
-      "ほのかりこ",
-      "中原爱子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-071"
-  },
-  {
-    "id": 87971,
-    "IDcode": "DOCP-085",
-    "title": "部活帰りJ○をガチナンパ！！汗ばみ引き締まった10代のカラダはマジ敏感！恥じらいイキッぱ早漏J○にイってもやめないガン無視ピストン！キツキツおま○こに追撃中出しSEX！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2018-09-14",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2021-11-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/45e89b12b4b82565f95875c6b2a96b6d.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-085"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2612"
   },
   {
-    "id": 78446,
-    "IDcode": "DOCP-093",
-    "title": "「私でシてたでしょ…？」一人暮らしの僕の部屋に泊まりに来た妹の数年ぶりに見るおっぱいが成長しすぎて我慢できず寝ている間にこっそりオナニーしていると背後からチ○コを掴まれ…",
+    "id": 79940,
+    "IDcode": "GANA-2613",
+    "title": "【渋谷ハロウィン2021】二人組コスプレ美女をナンパ成功！Hカップの爆乳についつい目がいってしまうエロナースは甘えたがりのヤリたがりで…おっぱいを振り乱しイキまくる姿がハッピーハロウィンすぎる！！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2018-10-05",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2021-11-14",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/e3e24fa54adfa37745b15879e3c44a14.jpg",
     "actress": [
-      "音羽美鈴",
-      "ちなみん",
-      "一宫みかり",
-      "三岛奈津子"
+      "小梅惠奈",
+      "タツ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-093"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2613"
   },
   {
-    "id": 76828,
-    "IDcode": "DOCP-105",
-    "title": "まさかノーブラ！？貧乳美人店員がコリコリに勃った乳首に気付かず働く姿に興奮してしまい…2",
+    "id": 80663,
+    "IDcode": "GANA-2643",
+    "title": "マジ軟派、初撮。 1751 昼下がりの池袋で爆乳OLをナンパ！驚愕のIカップおっぱいにマッサージと称して手を伸ばす！戸惑いつつも男優の愛撫と巨根にウットリ…円を描く乳の揺れ！恍惚の表情でイク！！！！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2018-11-16",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2022-01-30",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/620374812b1e2d6a44050bc2b1de3ba5.jpg",
     "actress": [
-      "神楽アイネ",
-      "阳木かれん",
-      "茜はるか",
-      "手岛知世"
+      "小田切ジュン"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-105"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2643"
   },
   {
-    "id": 72139,
-    "IDcode": "DOCP-111",
-    "title": "「マジ天使！？」骨折してオナニーできない僕のチ●コは我慢の限界！それを見かねた美人ナースは使命感に駆られたのか優しく手を添えてくれ…2",
+    "id": 80491,
+    "IDcode": "GANA-2655",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 友人の紹介で知り合った子を即日お持ち帰り！オモチャで遊んで負けたら罰ゲームという常套句でSEXへの道を切り開く！色白で美乳&amp;美尻のキレイな体が快感でヒクつく姿を隠しカメラで盗撮！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2018-12-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/56e3a26335d508d5e6f3ef1f1eb4ea4a.jpg",
+    "company": "MILK",
+    "publish_date": "2022-03-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/a01a2fb09228690e328b17dd9ae06a8b.jpg",
     "actress": [
-      "水原乃亜",
-      "初乃文香",
-      "七海ゆあ"
+      "佐藤明日菜"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-111"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2655"
   },
   {
-    "id": 72204,
-    "IDcode": "DOCP-121",
-    "title": "女友達に僕の部屋着を貸したら、隙間からチラ見えするこぼれそうなハミ乳に興奮してしまい…",
+    "id": 87954,
+    "IDcode": "GANA-2697",
+    "title": "マジ軟派、初撮。 1806 元地下アイドルをナンパ！軽く酔わせるとヤレる雰囲気がムンムン！ホテルへ移動しパンスト破って着衣SEX！オナニー大好き！お尻叩かれるのも首絞められるのも大好きなドスケベ娘だった！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2019-01-18",
-    "cover_url": "",
+    "company": "MILK",
+    "publish_date": "2022-06-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230826-1/b5267c40ef95ff084ac29f1e46f09fec.jpg",
     "actress": [
-      "大浦真奈美",
-      "咲々原リン",
-      "逢澤理衣奈",
-      "浅田结梨"
+      "あまね"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-121"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2697"
   },
   {
-    "id": 72141,
-    "IDcode": "DOCP-123",
-    "title": "着衣での仕事のはずが媚薬を盛られイヤラシ汁を垂れ流すほど視姦され追い打ち媚薬で発情しイキ堕ちる清純デッサンモデル2",
+    "id": 66762,
+    "IDcode": "GANA-2812",
+    "title": "マジ軟派、初撮。 2020 池袋で仕事終わりのスタイル抜群スレンダー美女をナンパ！普段は心優しきナースさん、チ●ポを咥えるとねっちょり口から離さず・・・！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2019-01-18",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/04d5ea613257cb28e35dada863441c90.jpg",
+    "company": "MILK",
+    "publish_date": "2024-03-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/59ff11689a38116c363a8c1747618f88.jpg",
     "actress": [
-      "鈴木真夕",
-      "百瀬凛花",
-      "纱々原ゆり",
-      "梨々花"
+      "しずね"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-123"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2812"
   },
   {
-    "id": 72140,
-    "IDcode": "DOCP-128",
-    "title": "SEXに悩みを持つ妹は睡眠薬で僕を眠らせ…目を覚ますと妹がチ●ポに跨り騎乗位でイキまくってる途中！！しかも中出し済！？・妹の有り余る性欲に理性が保てず連続中出しが止まらない！！",
+    "id": 66624,
+    "IDcode": "GANA-2890",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 303 色白スレンダーボディをくねらせてアンアン喘ぐ様をばっちり収めました！愛嬌たっぷりの笑顔で笑う彼女が、一変し快感に●いしれる表情はたまりません！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2019-02-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/9514dac37f1e658620618fb9997e9c2b.jpg",
+    "company": "MILK",
+    "publish_date": "2023-08-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/3b9a9037ec90389a8c71275e4b9cfb19.jpg",
     "actress": [
-      "阿部乃美久",
-      "朝比奈しの",
-      "结まきな",
-      "ふわり结爱"
+      "このみ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-128"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2890"
   },
   {
-    "id": 77948,
-    "IDcode": "DOCP-135",
-    "title": "突然離婚を言い渡されシングルファザーになった僕を不憫に思ったご近所の巨乳奥様たちが家事の手伝いをしてくれる事に！奥様の不意な胸チラとパンチラについ勃起してしまったのがバレて「奥さんと別れてからシてないんですよね…？」と誘惑され慰めの生ハメ性交！",
+    "id": 66835,
+    "IDcode": "GANA-2894",
+    "title": "マジ軟派、初撮。 1942 アコギ1本で魅せるロリ学生をナンパ！音楽と同じくらい好きなSEXにマン汁ダラダラ極小マ●コに容赦なく連続ピストン！歌ってる時よりも大きな声で喘ぎ散らす！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2019-03-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241122-1/d691aeaf893751472dcf822fa6433ad5.jpg",
+    "company": "MILK",
+    "publish_date": "2023-08-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/f630af4785b0a4236400e59a6a6c73d9.jpg",
     "actress": [
-      "铃木里美",
-      "大島愛里亞",
-      "望月理沙",
-      "三岛奈津子"
+      "なつか"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DOCP-135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2894"
+  },
+  {
+    "id": 66959,
+    "IDcode": "GANA-2900",
+    "title": "マジ軟派、初撮。 1948 みなとみらいで見つけた社長令嬢！清楚で真面目そうな雰囲気とは裏腹にガードはユルユル…！すんなりと男を受け入れペロペロ丁寧なフェラでご奉仕♪ち○ぽを挿入すれば自ら腰を動かし快感に浸ってしまうエッチなお嬢様でしたwww",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2023-08-20",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/8eea6162c223c850e7411127bc3ceef4.jpg",
+    "actress": [
+      "うみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2900"
+  },
+  {
+    "id": 66666,
+    "IDcode": "GANA-2939",
+    "title": "マジ軟派、初撮。 1985 押しに弱そうなお姉さんをホテルに連れ込み！案の定控えめな性格だが、チャットレディとして稼ぐHなこと大好きなムッツリスケベだった！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2023-10-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/d491636d11201121a013ad8a8b6ac591.jpg",
+    "actress": [
+      "みやび"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2939"
+  },
+  {
+    "id": 66667,
+    "IDcode": "GANA-2940",
+    "title": "マジ軟派、初撮。 1977 とある企業の美人秘書さんを恵比寿でナンパ！股関節が柔らかい軟体ボディ♪妖艶なフェラテクに柔軟な腰つきの騎乗位はとてつもなくエロい！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2023-10-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/460bd6de44bc481f5e055d02c955c61e.jpg",
+    "actress": [
+      "れいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2940"
+  },
+  {
+    "id": 66834,
+    "IDcode": "GANA-2951",
+    "title": "マジ軟派、初撮。 1986 おしゃれなミッドタウンで美人お姉さんをナンパ！モデル体型の超絶美脚！！！見た目とは真逆でホイホイ付いてきちゃう天然ちゃん！自分から腰を振ってしまうドエロお姉さんが、長い脚の麓から滝のような大量潮吹き！！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2023-11-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/2c3f2ca5752fbc6b438b5af0a7cdacf6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2951"
+  },
+  {
+    "id": 66696,
+    "IDcode": "GANA-2958",
+    "title": "マジ軟派、初撮。 2008 146cmのミニマム巨乳女子を代官山でゲット！いざとなると渋る巨乳ちゃんにとりあえず前戯だけ…からの激ピスSEX！挿入部をちゃんと見る女はエロい。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2024-01-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/6114175235c487144e6967cdacb8e978.jpg",
+    "actress": [
+      "しずな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2958"
+  },
+  {
+    "id": 66740,
+    "IDcode": "GANA-2989",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 333 普段は男を弄んでいる美人キャバ嬢をお持ち帰り！「もうイッてるから！！」と言ってもやめずに電マで何度も絶頂させちゃいましたw",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2024-01-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/e7592cc3fe90e5f7d3adcc37669e2f0a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2989"
+  },
+  {
+    "id": 66669,
+    "IDcode": "GANA-2991",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 332 モデル級のスタイル！新宿の服屋で働く長身スレンダーお姉さんは誘い受けのあざと女子！色白なプリ尻と美乳に勃起不可避ww",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2024-01-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/f4ac44f9b5075d446fe73aff7895d8b8.jpg",
+    "actress": [
+      "みおん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2991"
+  },
+  {
+    "id": 67103,
+    "IDcode": "GANA-3001",
+    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 344 飲み屋で出会った可愛い女子大生を持ち帰り！ノリノリでついてきちゃうホイホイガールは電マで何度もイキまくり！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2024-05-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/cee1beabcfb313f0ea9a6bb9333690fc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-3001"
+  },
+  {
+    "id": 66739,
+    "IDcode": "GANA-3005",
+    "title": "マジ軟派、初撮。 2021 「二年間彼氏がいないんです…」新宿でナンパしたアパレル店員ちゃんは欲求不満！スレンダーな身体は正直に反応して…整った顔立ちからは想像できない涎を垂らしての下品なフェラがエロい！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2024-03-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/5904ec72d31debb6ff14778082e807d8.jpg",
+    "actress": [
+      "まゆみ",
+      "白河まゆみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-3005"
+  },
+  {
+    "id": 66786,
+    "IDcode": "GANA-3014",
+    "title": "マジ軟派、初撮。 2022 シブハロでデートをドタキャンされた傷心女子をナンパ！彼氏に仕返しと言わんばかりに巨乳を揺らしながらイキまくるスレンダー美人！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2024-03-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/36379a1cbf7352f6d0b9d89ece53ffc6.jpg",
+    "actress": [
+      "りん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-3014"
+  },
+  {
+    "id": 10715,
+    "IDcode": "GARA-004",
+    "title": "丈夫欠了高利貸而被黑社會3P凌辱輪奸若妻的慘烈絕叫 ~ 本田瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2024-11-12",
+    "cover_url": "https://picture.yoshiclub.xyz/20241110/c2e1caca-3771-45d2-b918-86ca628d58f4.jpg",
+    "actress": [
+      "本田瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GARA-004"
+  },
+  {
+    "id": 9132,
+    "IDcode": "GARA-006",
+    "title": "幸福的新婚若妻被絕叫凌辱輪奸！被逃出監獄的罪犯侵犯的地獄拉致4P ~ 末広純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2025-01-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20250114/6d031e63-2624-4c71-b237-b7aca0beb79b.jpg",
+    "actress": [
+      "末広純"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GARA-006"
+  },
+  {
+    "id": 8400,
+    "IDcode": "GARA-007",
+    "title": "絕叫輪奸、女大學生噩夢般的面試輪奸、被變態性欲者僱傭的美女就職生 ~ 夏希慄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2025-02-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20250208/709d45cf-37d8-4d5a-8ed9-47ecd5370d0d.jpg",
+    "actress": [
+      "夏希栗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GARA-007"
+  },
+  {
+    "id": 67509,
+    "IDcode": "GARA-008",
+    "title": "絶叫凌●レ●プ 強●される人妻 夫に恨みを持つ男たちの復讐レ●プ！！ 媚薬で理性を狂わされた拉致3P 宮西ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2025-03-11",
+    "cover_url": "https://tutu1.space/images/2025/05/06/ce01d0979925445f3fd613d941f48a23.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GARA-008"
+  },
+  {
+    "id": 5443,
+    "IDcode": "GARA-011",
+    "title": "絕叫凌辱人妻 被迫成爲肉便器的若妻 爲了老公受盡屈辱被上司3P ~ 葉山小百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014237668668_thumbnail.webp",
+    "actress": [
+      "葉山小百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GARA-011"
+  },
+  {
+    "id": 4649,
+    "IDcode": "GARA-012",
+    "title": "尖叫凌辱人妻 為了瀕臨倒閉的工廠被侵犯的巨乳妻子 仇恨與邪慾的4P輪番大戰 ~ 若宮葉月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706105308731731_14800_thumbnail.webp",
+    "actress": [
+      "若宮葉月",
+      "若宫はずき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GARA-012"
+  },
+  {
+    "id": 78719,
+    "IDcode": "GAS-485",
+    "title": "パイズリスター誕生 みんなが待ってた爆乳アイドル姫咲はなの即抜きパイズリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GAS",
+    "publish_date": "2021-05-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/ed717221d00f543d402f6a6beeeb597f.jpg",
+    "actress": [
+      "姫咲華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAS-485"
+  },
+  {
+    "id": 7109,
+    "IDcode": "GAS-522",
+    "title": "新人出道！I罩杯現役護理師 我想體驗狂野性愛 首次亮相 AV DEBUT ~ 成実ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "GAS",
+    "publish_date": "2025-04-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20250401/9c8a15a4-c2b6-4689-9cdd-690dd504229a.jpg",
+    "actress": [
+      "成実ひまり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAS-522"
+  },
+  {
+    "id": 75790,
+    "IDcode": "GBSA-060",
+    "title": "寝取られ愛妻日記【三】 愛する妻に女の悦びを与えてください…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2020-03-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/3f3b9bc7f744d4956843e0d0a62190fa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GBSA-060"
+  },
+  {
+    "id": 5279,
+    "IDcode": "GBSA-089",
+    "title": "人妻Resort 30歲 ~ 那賀崎雪音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2025-06-14",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614095947404404_thumbnail.webp",
+    "actress": [
+      "那賀崎雪音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GBSA-089"
   }
 ];

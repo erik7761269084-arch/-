@@ -1,1546 +1,1646 @@
 window.PAGE_DATA = [
   {
-    "id": 81156,
-    "IDcode": "BLK-562",
-    "title": "パコるの最適 友達以上恋人未満ひめぴっぴ",
+    "id": 9919,
+    "IDcode": "EBWH-185",
+    "title": "「你可以試試看摸我的胸部……」會社地味後輩主動勾引我寢取 Icpu美巨乳的誘惑 ~ 雨宮響",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-03-15",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-562"
+    "company": "E-BODY",
+    "publish_date": "2024-12-17",
+    "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211072449575575.jpg",
+    "actress": [
+      "雨宮響"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-185"
   },
   {
-    "id": 84003,
-    "IDcode": "BLK-563",
-    "title": "未だに現役ヤリマンママをGET！ ヒップ90cmのデカ尻とベージュTバックで挑発！旦那がいるのに他人棒と種付けパーティーしちゃうヤバま●こ！",
+    "id": 9064,
+    "IDcode": "EBWH-186",
+    "title": "本爲無敵之人，卻爲隔壁的爆乳女大學生而生氣，讓她陷入昏迷吧，把她變成性處理器的極致交尾 ~ 雨宮響",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-03-15",
-    "cover_url": "",
+    "company": "E-BODY",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074511723723.jpg",
     "actress": [
-      "小早川怜子",
+      "雨宮響"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-186"
+  },
+  {
+    "id": 9007,
+    "IDcode": "EBWH-187",
+    "title": "新人出道！清楚系地元女大學生（前）氣象主播，整潔形象而不與任何人發生性關系。最後徹底性欲崩壞而轉向AV，超苗條巨乳美人 首次亮相 AV DEBUT ~ 逢阪希穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116072339598598.jpg",
+    "actress": [
+      "逢坂希穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-187"
+  },
+  {
+    "id": 8250,
+    "IDcode": "EBWH-188",
+    "title": "如果讓順從的年輕男友戴上貞操帶禁欲一個月，他會變成性怪獸！ ？ 立場逆戰的絕倫性愛…… ~ 七瀨愛麗絲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-02-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073924675675.jpg",
+    "actress": [
+      "七瀨愛麗絲",
+      "トミフミ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-188"
+  },
+  {
+    "id": 9898,
+    "IDcode": "EBWH-189",
+    "title": "淫亂癡女護士用媚藥代替藥物，讓一個性欲旺盛的病人服用含有媚藥的藥物，然後中出她 ~ 二階堂麗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2024-12-17",
+    "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073232220220.jpg",
+    "actress": [
+      "二階堂麗",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-189"
+  },
+  {
+    "id": 9061,
+    "IDcode": "EBWH-190",
+    "title": "被串刺輪奸、顏射12次的天使巨乳女老師，感謝你的身體（笑） ~ 宮本留衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074715258258.jpg",
+    "actress": [
+      "宮本留衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-190"
+  },
+  {
+    "id": 9078,
+    "IDcode": "EBWH-191",
+    "title": "巨乳青梅竹馬去了風俗按摩店上班，當她和上班的健康男S一起預先練習時，看着充滿激情的按摩中完全勃起的雞巴。完全主觀的自慰支持發揮到了極致 ~ 莉莉遙香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116072324432432.jpg",
+    "actress": [
+      "莉莉遙香",
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-191"
+  },
+  {
+    "id": 8218,
+    "IDcode": "EBWH-192",
+    "title": "錯過了末班電車，只能在巨乳先輩家住了…J罩杯的家居服秀出好身材，興奮的一直操到早上 ~ 清宮仁愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-02-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073111798798.jpg",
+    "actress": [
+      "清宮仁愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-192"
+  },
+  {
+    "id": 7566,
+    "IDcode": "EBWH-194",
+    "title": "被不斷揉捏玩弄搓弄開發性感 爆乳女大學生沉淪於乳控癡漢的快感 ~ 雨宮響",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083829163163.jpg",
+    "actress": [
+      "雨宮響"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-194"
+  },
+  {
+    "id": 8217,
+    "IDcode": "EBWH-195",
+    "title": "職場仲間 和性格迥異的2位巨乳同事的交替浮氣不貞 ~ 北野未奈 宮本留衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-02-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213072738953953.jpg",
+    "actress": [
+      "北野未奈",
+      "宮本留衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-195"
+  },
+  {
+    "id": 9067,
+    "IDcode": "EBWH-196",
+    "title": "妊娠確定NTR，樣貌出衆的CA愛上了資深飛行員，危險日與她發生性關系，直到她性欲耗盡的不倫中出 ~ 二階堂麗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074057956956.jpg",
+    "actress": [
+      "二階堂麗",
       "小田切ジュン"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-563"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-196"
   },
   {
-    "id": 81153,
-    "IDcode": "BLK-564",
-    "title": "肉感ムチムチ豊満ぎゃるママ 避妊リングつけてるから何発でも中出しOK",
+    "id": 8283,
+    "IDcode": "EBWH-197",
+    "title": "【你願意拍素人AV嗎】Youtuber在街頭很容易就說服了一名巨乳JD女子大生參演素人AV - 22歲 女大學生 160cm G罩杯 向往大城市",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-03-15",
-    "cover_url": "",
+    "company": "E-BODY",
+    "publish_date": "2025-02-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074250171171.jpg",
     "actress": [
-      "七草千歲"
+      "ふうかちゃん"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-564"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-197"
   },
   {
-    "id": 81152,
-    "IDcode": "BLK-565",
-    "title": "ギャルカリ 2人目 お酒と即パコ大好き巨乳ギャルとハメまくりSPECIAL！！",
+    "id": 8247,
+    "IDcode": "EBWH-198",
+    "title": "新人出道！從事美容化妝行事的細身巨乳網路紅人 在AV首秀中達到了真正的本氣高潮 首次亮相 AV DEBUT ~ 涼風憂",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-03-15",
-    "cover_url": "",
+    "company": "E-BODY",
+    "publish_date": "2025-02-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213072707292292.jpg",
     "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-565"
-  },
-  {
-    "id": 84007,
-    "IDcode": "BLK-566",
-    "title": "関西からやって来るヤァ！ヤァ！ヤァ！ WギャルJ○のチャイニーズタウン円光ツアー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-03-15",
-    "cover_url": "",
-    "actress": [
-      "枢木葵",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-566"
-  },
-  {
-    "id": 83990,
-    "IDcode": "BLK-567",
-    "title": "ヤリモクFriends 02 美人ビッチギャルがノリ良すぎ＆エロモード全開だったのでハッピーライフSEXしちゃいました！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-03-15",
-    "cover_url": "",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-567"
-  },
-  {
-    "id": 81151,
-    "IDcode": "BLK-568",
-    "title": "街で見つけた乳首ビンビンWギャルに痴女られ続ける！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-03-15",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-568"
-  },
-  {
-    "id": 84036,
-    "IDcode": "BLK-569",
-    "title": "エグい程下品な淫獣たち 北千住裏通りで見つけたイカれた肉弾ムチムチビッチと一日中ラブホに籠ってハーレム生ハメ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
-    "actress": [
-      "真木今日子",
-      "新村晶"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-569"
-  },
-  {
-    "id": 84102,
-    "IDcode": "BLK-570",
-    "title": "海外帰りのランジェリーハーフモデルと絶倫SEX！ デカ尻杭打ち騎乗位で精巣崩壊するまでヌカれる！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
-    "actress": [
-      "一色さゆり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-570"
-  },
-  {
-    "id": 84059,
-    "IDcode": "BLK-571",
-    "title": "抜かずのもう一発！肉体の娯楽ヴァギナ～名器すぎるオンナの貪りSEX12発射～ 北野未奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-571"
-  },
-  {
-    "id": 84074,
-    "IDcode": "BLK-572",
-    "title": "SNSでマン凸してきた巨乳ジャマイカンハーフをGET！デカ乳輪ヤーマンビッチがパコりたくて即決AV出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
-    "actress": [
+      "涼風憂",
       "鲛岛"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-572"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-198"
   },
   {
-    "id": 84052,
-    "IDcode": "BLK-573",
-    "title": "いつでもどこでもチ●ポをねじ込める！ハッピーフェラオナホでヌキたい放題！",
+    "id": 7565,
+    "IDcode": "EBWH-199",
+    "title": "爲了保持清純人設不能隨便開幹的女大學生氣象預報姐姐，覺得妹妹的男友會保密就用美巨乳誘惑了他 ~ 逢阪希穗",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
+    "company": "E-BODY",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084256204204.jpg",
     "actress": [
-      "吉冈ひより"
+      "逢坂希穂"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-573"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-199"
   },
   {
-    "id": 84049,
-    "IDcode": "BLK-574",
-    "title": "ギャルカリ 3人目 Iカップ爆乳ハイテンションギャルと延長ハメまくりSPECIAL！！",
+    "id": 7572,
+    "IDcode": "EBWH-200",
+    "title": "調到離島的爆乳女教師被迫穿變態泳裝上課，被學生玩弄極品身材到墮落 ~ 清宮仁愛",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
+    "company": "E-BODY",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083603859859.jpg",
     "actress": [
-      "姫咲華",
-      "タツ"
+      "清宮仁愛",
+      "伊崎悠人",
+      "エニフ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-574"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-200"
   },
   {
-    "id": 84086,
-    "IDcode": "BLK-575",
-    "title": "ドラレコ！！ ヨシザワ社長とイク高級外車デート！カネのパワーでギャルとパコりまくりドライビング！！",
+    "id": 7579,
+    "IDcode": "EBWH-202",
+    "title": "SNS粉絲破百萬的七瀨愛麗絲回復我了！用騎乘位癡女神技讓素人見識AV女優的厲害 ~ 七瀨愛麗絲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
+    "company": "E-BODY",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084520676676.jpg",
     "actress": [
-      "河南実里",
+      "七瀨愛麗絲",
+      "トイボーイ相沢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-202"
+  },
+  {
+    "id": 7526,
+    "IDcode": "EBWH-203",
+    "title": "被前男友調教成巨根狂的巨乳清純人妻美容師，今天又對着大雞巴顧客發情獻身 ~ 宮本留衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/202503130843103535.jpg",
+    "actress": [
+      "宮本留衣",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-203"
+  },
+  {
+    "id": 6918,
+    "IDcode": "EBWH-205",
+    "title": "學生時代被欺負的我長大後還是個沒用的宅男… 叫了個辣妹上門服務，竟然是當年喜歡的同班同學！ 被她超嗨態度和火辣身材玩到射爆好幾次 ~ 清宮仁愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410195720913913.jpg",
+    "actress": [
+      "清宮仁愛",
+      "トイボーイ相沢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-205"
+  },
+  {
+    "id": 7540,
+    "IDcode": "EBWH-206",
+    "title": "把網紅女友介紹給熟人學普拉提，卻被下了媚藥，穿性感運動裝高潮失禁快感墮落 ~ 涼風憂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084137781781.jpg",
+    "actress": [
+      "涼風憂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-206"
+  },
+  {
+    "id": 7582,
+    "IDcode": "EBWH-208",
+    "title": "我暗戀已久的純真文學系青梅竹馬，被我討厭的種馬前輩染指、調教，還被寢取墮落了 ~ 莉莉遙香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/202503130843253737.jpg",
+    "actress": [
+      "莉莉遙香",
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-208"
+  },
+  {
+    "id": 6922,
+    "IDcode": "EBWH-209",
+    "title": "通勤電車上乳頭被調教到噴張 巨乳女教師拋棄老公愛上癡漢神技的淫蕩身軀 ~ 宮本留衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20250410/202504101929282626.jpg",
+    "actress": [
+      "宮本留衣",
+      "えるる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-209"
+  },
+  {
+    "id": 4528,
+    "IDcode": "EBWH-210",
+    "title": "弓道美少女新人出道！全國高校弓道大賽前八強 武道鍛煉出的完美身材 全心投入肉體SEX AV DEBUT ~ 淺風唯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-07-11",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031658913913_79898_thumbnail.webp",
+    "actress": [
+      "淺風唯"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-210"
+  },
+  {
+    "id": 7528,
+    "IDcode": "EBWH-211",
+    "title": "新人出道！神奈川縣三浦市書店打工的普通女大學生驚豔身材與超強性欲 首次亮相 AV DEBUT ~ 福原美奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083849762762.jpg",
+    "actress": [
+      "福原美奈",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-211"
+  },
+  {
+    "id": 6895,
+    "IDcode": "EBWH-212",
+    "title": "莉莉遙香溼身撩心夜！大雨困同事家，禁忌不倫high到天亮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411230212260260.jpg",
+    "actress": [
+      "莉莉遙香",
+      "稻场流花",
+      "伊崎悠人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-212"
+  },
+  {
+    "id": 6919,
+    "IDcode": "EBWH-213",
+    "title": "被奶控主人精挑細選的三大神乳女僕 最色情迷人又幸福的主視角乳交服務後宮 ~ 小梅惠奈 雨宮響 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410193133589589.jpg",
+    "actress": [
+      "羽月乃蒼",
+      "雨宮響",
+      "小梅惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-213"
+  },
+  {
+    "id": 6907,
+    "IDcode": "EBWH-214",
+    "title": "新人出道！抖奶巨乳和超敏感粉嫩乳頭不拖後腿 全國級力量型攻手 制服下藏不住的健康肉感身材真運動員 初登場 AV DEBUT ~ 岡田優愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411004011322322.jpg",
+    "actress": [
+      "岡田優愛",
+      "鲛岛",
+      "小田切ジュン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-214"
+  },
+  {
+    "id": 6881,
+    "IDcode": "EBWH-216",
+    "title": "新人出道！野生癡女DJ炸場！水煙吧邂逅的纖細巨乳撩神 AV決斷出演！ 首次亮相 AV DEBUT ~ 山城三日月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20250412/20250412001406780780.jpg",
+    "actress": [
+      "山城三日月",
+      "トミフミ",
+      "タイ",
+      "タツ",
+      "ナイアガラ翔"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-216"
+  },
+  {
+    "id": 6923,
+    "IDcode": "EBWH-222",
+    "title": "新人出道！丸の內OL奶王震撼登場！素人超猛身材試水AV初亮相 AV DEBUT ~ 小椋光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410191804151151.jpg",
+    "actress": [
+      "小椋光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-222"
+  },
+  {
+    "id": 5363,
+    "IDcode": "EBWH-223",
+    "title": "我的新婚老婆竟是別人的抖M寵物 ~ 七瀨愛麗絲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060938512512_thumbnail.webp",
+    "actress": [
+      "七瀨愛麗絲",
       "大岛丈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-575"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-223"
   },
   {
-    "id": 84099,
-    "IDcode": "BLK-576",
-    "title": "いますぐファックミー 酒とチ○ポ狂いの（自称）ゴッドハンドビッチギャルとラブホでヤリまくり！！「シャフ（※）だからヨロシク～！！」 ※社会不適合者の略",
+    "id": 6924,
+    "IDcode": "EBWH-224",
+    "title": "超猛身材超爽內射高潮 把性欲爆棚的女大學生幹到崩潰的汁液滿溢無間斷SEX ~ 福原美奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-576"
-  },
-  {
-    "id": 84054,
-    "IDcode": "BLK-577",
-    "title": "TOKYOストナンプロフェッショナル 体育大生のギャラ飲み大好き20歳・エリカちゃんと弾丸即パコ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-04-19",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-577"
-  },
-  {
-    "id": 84060,
-    "IDcode": "BLK-578",
-    "title": "ジャスりにきたで！男のツボを心得た接客とテクで大人気！難波No.1マットヘルス嬢AVデビュー 花園ジャスミン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "",
+    "company": "E-BODY",
+    "publish_date": "2025-04-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410191521604604.jpg",
     "actress": [
+      "福原美奈",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-224"
+  },
+  {
+    "id": 5339,
+    "IDcode": "EBWH-226",
+    "title": "慾求不滿的辣妹迷上中出大叔 爆乳正妹與猥瑣肥宅的黏膩體液派對 ~ 清宮仁愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060020617617_thumbnail.webp",
+    "actress": [
+      "清宮仁愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-226"
+  },
+  {
+    "id": 4361,
+    "IDcode": "EBWH-230",
+    "title": "七款爆乳誘惑Cosplay，爽到腦袋空白的極致乳交 ~ 清宮仁愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-07-11",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100316588484_73972_thumbnail.webp",
+    "actress": [
+      "清宮仁愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-230"
+  },
+  {
+    "id": 5346,
+    "IDcode": "EBWH-232",
+    "title": "新人出道！只服務頂級名人的最高級私人會所裏出來的小姐姐，脫光後極品細腰大奶身材，超騷55cm小蠻腰，AV DEBUT ~ 香住南",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062613881881_thumbnail.webp",
+    "actress": [
+      "香住南",
       "鲛岛"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-578"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-232"
   },
   {
-    "id": 84070,
-    "IDcode": "BLK-579",
-    "title": "放課後オナホ倶楽部 制服ギャルに精飲＆中出しでパコり放題！ 東條なつ",
+    "id": 5369,
+    "IDcode": "EBWH-233",
+    "title": "女友的姐姐不算偷吃啦！溫泉旅行被巨乳誘惑逆NTR ~ 柏木文香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/7f0fc801c34428b373f72a763ecc61c1.jpg",
+    "company": "E-BODY",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055258882882_thumbnail.webp",
     "actress": [
-      "東條夏"
+      "柏木文香"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-579"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-233"
   },
   {
-    "id": 84062,
-    "IDcode": "BLK-580",
-    "title": "拘束ビッチルーム 身動きできない男のチクビをビンビンになるまで弄って、焦らし寸止め、最後は爆ヌキ！ 結城りの",
+    "id": 5347,
+    "IDcode": "EBWH-235",
+    "title": "年輕巨乳正妹變成我後媽，從那天起餵她媚藥調教成發情小母狗 ~ 宮本留衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "",
+    "company": "E-BODY",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062321281281_thumbnail.webp",
+    "actress": [
+      "宮本留衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-235"
+  },
+  {
+    "id": 5348,
+    "IDcode": "EBWH-236",
+    "title": "SNS粉絲破10萬！超人氣巨乳Cosplayer私下激烈戰鬥實錄 ~ 莉莉遙香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060936379379_thumbnail.webp",
+    "actress": [
+      "莉莉遙香",
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-236"
+  },
+  {
+    "id": 4505,
+    "IDcode": "EBWH-237",
+    "title": "瀬田一花 AV引退作 溫柔又色氣滿滿的最後一場真實激戰 ~ 瀬田一花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-07-11",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032244564564_66690_thumbnail.webp",
+    "actress": [
+      "瀬田一花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-237"
+  },
+  {
+    "id": 5337,
+    "IDcode": "EBWH-240",
+    "title": "蘿莉新人出道！男生超苦手，卻讓人忍不住想保護她！經驗少卻性知識爆棚，內心超想和男生開車的小可愛，H杯蘿莉制服美少女 AV DEBUT ~ 天宮鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061409459459_thumbnail.webp",
+    "actress": [
+      "天宮鈴",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-240"
+  },
+  {
+    "id": 4490,
+    "IDcode": "EBWH-242",
+    "title": "便利店小弟逆襲夜店女王，超夢幻的豔遇故事 ~ 七瀨愛麗絲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-07-11",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031541659659_66072_thumbnail.webp",
+    "actress": [
+      "七瀨愛麗絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-242"
+  },
+  {
+    "id": 3553,
+    "IDcode": "EBWH-243",
+    "title": "跟辣妹喝酒超嗨還能開葷！J杯完美身材痴女醉後瘋狂逆推M男不停高潮 ~ 清宮仁愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-08-14",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023422626626_84991_thumbnail.webp",
+    "actress": [
+      "清宮仁愛",
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-243"
+  },
+  {
+    "id": 5373,
+    "IDcode": "EBWH-244",
+    "title": "丸之內OL最狂巨乳身材，高潮到失控崩潰 ~ 小椋光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-06-13",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055729845845_thumbnail.webp",
+    "actress": [
+      "小椋光",
+      "鲛岛",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-244"
+  },
+  {
+    "id": 3606,
+    "IDcode": "EBWH-247",
+    "title": "酷熱之夜，與迷人人妻上司共處一室，汗香撩人讓我失控 ~ 柏木文香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-08-14",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023013915915_55461_thumbnail.webp",
+    "actress": [
+      "柏木文香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-247"
+  },
+  {
+    "id": 4500,
+    "IDcode": "EBWH-249",
+    "title": "內向蘿莉巨乳學生妹被逼穿超羞恥衣服直接開幹，下面夾得超緊直接高潮啦 ~ 天宮鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-07-11",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031543904904_85226_thumbnail.webp",
+    "actress": [
+      "天宮鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-249"
+  },
+  {
+    "id": 4511,
+    "IDcode": "EBWH-250",
+    "title": "去女友家玩結果發現她姐姐是我情人？！火辣巨乳姐妹花爭搶中出後宮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-07-11",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040417521521_94010_thumbnail.webp",
+    "actress": [
+      "天羽梨梨花",
+      "涼風憂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-250"
+  },
+  {
+    "id": 3591,
+    "IDcode": "EBWH-251",
+    "title": "這奶子這身體，真想立馬就和她生娃 被繼父賣身的美巨乳娘被油膩大叔們瘋狂種付 ~ 天宮鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-08-14",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030603496496_40381_thumbnail.webp",
+    "actress": [
+      "天宮鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-251"
+  },
+  {
+    "id": 3557,
+    "IDcode": "EBWH-253",
+    "title": "雖然很討厭癡漢…但發育中的H杯制服巨乳越揉就揉就越發淫蕩起來了的思春期少女 ~ 莉莉遙香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-08-14",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022825785785_17656_thumbnail.webp",
+    "actress": [
+      "莉莉遙香",
+      "田渊正浩",
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-253"
+  },
+  {
+    "id": 3596,
+    "IDcode": "EBWH-256",
+    "title": "新人出道！柔軟X筋肉的超搭融合！全國級舞者小姐姐 青春肉感H杯身材晃奶跳舞 首秀 AV DEBUT ~ 山本琴音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-08-14",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034808546546_20060_thumbnail.webp",
+    "actress": [
+      "山本琴音",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-256"
+  },
+  {
+    "id": 3573,
+    "IDcode": "EBWH-258",
+    "title": "奇跡J杯超爆乳OL出差相部屋被中年猥瑣上司幹到極致高潮，大雞巴完勝男友 ~ 小椋光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "E-BODY",
+    "publish_date": "2025-08-14",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023421500500_14814_thumbnail.webp",
+    "actress": [
+      "小椋光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-258"
+  },
+  {
+    "id": 67026,
+    "IDcode": "ECB-116",
+    "title": "早漏クン家で早漏狩り 大浦真奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "WAAP GROUP",
+    "publish_date": "2019-05-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250505-1/1b6c2b772a4878ea4f57728a23a61031.jpg",
+    "actress": [
+      "大浦真奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-116"
+  },
+  {
+    "id": 67559,
+    "IDcode": "ECB-125",
+    "title": "あぁ、男殺し 3ヵ所同時責め続け快楽漬け 麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "WAAP GROUP",
+    "publish_date": "2019-11-29",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/e48084ba1d66f0321ebc7d0474afc7f0.jpg",
+    "actress": [
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-125"
+  },
+  {
+    "id": 82534,
+    "IDcode": "ECB-131",
+    "title": "ワル騎り ーこのオンナ、男を尻に敷くタイプー 春風ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "WAAP GROUP",
+    "publish_date": "2020-02-29",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/6774718aca307307ad88723ad18c732c.jpg",
+    "actress": [
+      "春风光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-131"
+  },
+  {
+    "id": 72214,
+    "IDcode": "ECB-135",
+    "title": "M男クンのアパートの鍵、貸します。 凛音とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "WAAP GROUP",
+    "publish_date": "2020-05-29",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250223-1/d7e9d48f700335d73fdbd28039d241a1.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-135"
+  },
+  {
+    "id": 88014,
+    "IDcode": "ECB-138",
+    "title": "君が、乳首でイケますように◆ 松本いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "WAAP GROUP",
+    "publish_date": "2020-07-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230904-1/69f4c02bf2db3b9691d9be2f42bbc11e.jpg",
+    "actress": [
+      "松本一香",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-138"
+  },
+  {
+    "id": 5791,
+    "IDcode": "ECBM-011",
+    "title": "無剪輯真刀真槍！零演技零劇本！素人本色 ~ 小那海綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "HubX",
+    "publish_date": "2025-05-24",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/202505261100494848_thumbnail.webp",
+    "actress": [
+      "小那海綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECBM-011"
+  },
+  {
+    "id": 60758,
+    "IDcode": "EINAV-015",
+    "title": "コミュ障気味のド淫乱コスプレイヤーと個人撮影会♪承認欲求ガチ高め青髪●リギャルむちエロレイヤー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2025-08-15",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/15/2519dfb1/vod.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-580"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EINAV-015"
   },
   {
-    "id": 84093,
-    "IDcode": "BLK-581",
-    "title": "絶倫オフパコギャルとマッチング チクビ弄りっぱの騎乗位で精子枯渇するまで腰フリ連射",
+    "id": 72216,
+    "IDcode": "EKDV-564",
+    "title": "挑発痴女チアガール 水川スミレ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/43f5106d279146d09abfab906a58b0a0.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-581"
-  },
-  {
-    "id": 84098,
-    "IDcode": "BLK-582",
-    "title": "ひろギャル！！ ギャルAV監督がアラサーギャル素人をAVデビューさせちゃいました！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-582"
-  },
-  {
-    "id": 84077,
-    "IDcode": "BLK-583",
-    "title": "耳でイかせてあ・げ・る。 彼女がそばにいるのに彼女の妹のバイノーラル淫語ラッシュが止まらない！！ 森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-583"
-  },
-  {
-    "id": 84069,
-    "IDcode": "BLK-584",
-    "title": "ギャルカリ 4人目 顔面×スタイル×性格 SSS（トリプルSランク）ヤリマン保育士とトゥギャザーしちゃったSPECIAL！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/c95d925a68cf0a6b522da699cba34576.jpg",
-    "actress": [
-      "沙月芽衣"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-584"
-  },
-  {
-    "id": 84096,
-    "IDcode": "BLK-585",
-    "title": "ヤリモクFriends 03 メンヘラスト缶ギャルが会った瞬間から酒飲んでヘラヘラしてたのでホテルに連れ込んでハメ撮りしちゃいました！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "",
-    "actress": [
-      "日泉舞香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-585"
-  },
-  {
-    "id": 84061,
-    "IDcode": "BLK-586",
-    "title": "エゲツない大☆絶☆頂SPECIAL！！！（※ほぼノーカットVersion）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-05-17",
-    "cover_url": "",
-    "actress": [
-      "永野司"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-586"
-  },
-  {
-    "id": 84094,
-    "IDcode": "BLK-588",
-    "title": "リピ客続出！連射確定！焦らしちゅぱしこ施術で話題のハーレムギャルエステが最＆高",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-06-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/7bbf5c8068fc7ba6210f11d8ce4b9a23.jpg",
+    "company": "水晶映像",
+    "publish_date": "2019-01-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250223-1/0c30ab4d1ab2286d6fb6b74e9ff7d09f.jpg",
     "actress": [
       "水川蓳"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-588"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-564"
   },
   {
-    "id": 84104,
-    "IDcode": "BLK-590",
-    "title": "W潮吹きビッチギャルとアブナイハイテンション大乱交！！",
+    "id": 75018,
+    "IDcode": "EKDV-594",
+    "title": "射精しても射精しても終わらない隣のお姉さんの即ハメ騎乗位 八乃つばさ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-06-21",
-    "cover_url": "",
+    "company": "水晶映像",
+    "publish_date": "2019-09-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/08049f76c896d484717e532cf9df55da.jpg",
     "actress": [
-      "小栗操",
-      "浜崎真绪"
+      "八乃翼"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-590"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-594"
   },
   {
-    "id": 84073,
-    "IDcode": "BLK-591",
-    "title": "ヤリマンギャルにハードピストン強要されたボク 腰を振りまくってイキまくっているのにまたピストンを求めてくる！！ 斎藤あみり",
+    "id": 83515,
+    "IDcode": "EKDV-621",
+    "title": "親友の地味で真面目な彼女は、追撃中出し発射無制限の裏オプデリヘル嬢！！美園和花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-06-21",
-    "cover_url": "",
-    "actress": [
-      "タイ",
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-591"
-  },
-  {
-    "id": 84092,
-    "IDcode": "BLK-592",
-    "title": "ヤリモクFriends04 ギャップ萌えのくびれギャルがグイグイラブホに誘ってきたのでハメ撮りしちゃいました！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-06-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/a3c7f4e6e565644a43770b3d27059129.jpg",
-    "actress": [
-      "夏希栗"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-592"
-  },
-  {
-    "id": 88283,
-    "IDcode": "BLK-593",
-    "title": "Gカップ爆乳☆ギャル逆バニー アナタのお宅にデリバリーでヌキまくり！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-06-21",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-593"
-  },
-  {
-    "id": 84053,
-    "IDcode": "BLK-594",
-    "title": "TOKYOストナンプロフェッショナル ガルバで働く21歳 あいらちゃんを聖地SHIBUYAでギャルゲッツ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-06-21",
-    "cover_url": "",
-    "actress": [
-      "鲛岛"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-594"
-  },
-  {
-    "id": 84091,
-    "IDcode": "BLK-595",
-    "title": "東京超高樓性愛 想被超高身長婊子辣妹搞癡女玩法！ 涉谷華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-07-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/c40dd5bdf1c992dcb556e2d3b5cd65c1.jpg",
-    "actress": [
-      "渋谷華"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-595"
-  },
-  {
-    "id": 73743,
-    "IDcode": "BLK-596",
-    "title": "都合のいいタダマン オヤジ大好き欲求不満ビッチと朝までナマでパコパコ11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-07-19",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-596"
-  },
-  {
-    "id": 84075,
-    "IDcode": "BLK-597",
-    "title": "Wイカれたマ○コ 史上最ビッチな潮・尿・よだれダダ漏れスプラッシュフレンズ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-07-19",
-    "cover_url": "",
-    "actress": [
-      "乙愛麗絲",
-      "浅田结梨"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-597"
-  },
-  {
-    "id": 84071,
-    "IDcode": "BLK-598",
-    "title": "エゲツない大☆絶☆頂SPECIAL！！！（※ほぼノーカットVersion） のんちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-07-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/bcc6b20c29835fa2e5babbaa4603ef8d.jpg",
-    "actress": [
-      "森林原人"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-598"
-  },
-  {
-    "id": 73537,
-    "IDcode": "BLK-599",
-    "title": "地上最強の爆乳肉食Iカップジムトレーナーが痴女りまくりオールアウト！！ 神坂朋子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-07-19",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-599"
-  },
-  {
-    "id": 84076,
-    "IDcode": "BLK-600",
-    "title": "エグい程下品な女 門前仲町裏通りで見つけたイカれた肉弾ムチムチビッチと一日中ラブホに籠って生ハメ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-08-16",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-600"
-  },
-  {
-    "id": 84097,
-    "IDcode": "BLK-601",
-    "title": "I LOVE キメセク イカれた爆乳媚薬ビッチとガンギマNIGHT 辻井ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-08-16",
-    "cover_url": "",
-    "actress": [
-      "辻井穗乃果",
-      "鲛岛"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-601"
-  },
-  {
-    "id": 84084,
-    "IDcode": "BLK-602",
-    "title": "いきなり逆ナンハーレムビーチ ダサいオンナとSEXするならウチらとパコろうよ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-08-16",
-    "cover_url": "",
-    "actress": [
-      "乙愛麗絲",
-      "沙月芽衣"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-602"
-  },
-  {
-    "id": 84085,
-    "IDcode": "BLK-603",
-    "title": "ギャルカリ 5人目 Iカップ爆乳金髪グラマラスとブルンブルン大暴走SEX！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-08-16",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-603"
-  },
-  {
-    "id": 84100,
-    "IDcode": "BLK-604",
-    "title": "新感覚ギャルマッチング 桜井リオン、AVはじめました。 名古屋発！ブラインドタッチ関西3位！ブラインドタッチでマッチング率100％！男のチ○ポと乳首をブラインドタッチで責めまくってイカせまくっちゃうぞ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-08-16",
-    "cover_url": "",
-    "actress": [
-      "桜井リオン"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-604"
-  },
-  {
-    "id": 84083,
-    "IDcode": "BLK-605",
-    "title": "アナル舐め舐めデート 尻穴ふやけるまで舐め●すちゅぱぺろモンスター 佐藤ののか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-09-20",
-    "cover_url": "",
-    "actress": [
-      "加藤桃香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-605"
-  },
-  {
-    "id": 84048,
-    "IDcode": "BLK-606",
-    "title": "Y2KファッションのZ世代180cmギャルと渋谷デートで1日中パコろうぜ！！ 渋谷華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-09-20",
-    "cover_url": "",
-    "actress": [
-      "渋谷華"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-606"
-  },
-  {
-    "id": 84101,
-    "IDcode": "BLK-607",
-    "title": "いますぐファックミー ブラックダイヤモンドギャルとラブホカンヅメヤリまくり！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-09-20",
-    "cover_url": "",
-    "actress": [
-      "タイ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-607"
-  },
-  {
-    "id": 84051,
-    "IDcode": "BLK-608",
-    "title": "おじさん大好きすぐにイッちゃうザコマ○コ・ななみんとマッチングキメセク！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-09-20",
-    "cover_url": "",
-    "actress": [
-      "森林原人"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-608"
-  },
-  {
-    "id": 84079,
-    "IDcode": "BLK-609",
-    "title": "呼之則來揮之則去的女人 與喜歡大叔欲求不滿的婊子無套抽插到早上 12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-10-18",
-    "cover_url": "",
-    "actress": [
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-609"
-  },
-  {
-    "id": 84090,
-    "IDcode": "BLK-610",
-    "title": "乳首激弱ヤンキーギャル伝説 超敏感チクビを弄られ涙目でブチギレながら大量スプラッシュ暴走",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-10-18",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/05890c867b55576abab2d529939abf7f.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-610"
-  },
-  {
-    "id": 84087,
-    "IDcode": "BLK-611",
-    "title": "與找乾爹軟體發現到的兩位醉醺醺爆乳肉食辣妹做愛！！ 理性飛走狀態下時間與發射無限制SPECIAL！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-10-18",
-    "cover_url": "",
+    "company": "水晶映像",
+    "publish_date": "2020-03-20",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/b0fca3be7b54c005f53c8e9d01cc06c5.jpg",
     "actress": [
       "美園和花"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-611"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-621"
   },
   {
-    "id": 90884,
-    "IDcode": "BLK-612",
-    "title": "與赤羽後街發現的肉彈豐滿婊子在愛情賓館抽插中出一整天",
+    "id": 101370,
+    "IDcode": "EKDV-622",
+    "title": "我媽是AV女優 ！ 稻場流花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-11-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240226-1/4fd06a658f086438ecb6e30c2a4feb49.jpg",
+    "company": "水晶映像",
+    "publish_date": "2020-04-03",
+    "cover_url": "https://tutu1.space/images/2024/02/27/d2735f5a7ae6df766137097702c5037b.jpg",
+    "actress": [
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-622"
+  },
+  {
+    "id": 78212,
+    "IDcode": "EKDV-624",
+    "title": "ボクだけのご奉仕メイド 阿部乃みく",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2020-04-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241107-1/32eefbd9c3c783a5e544bb64b90139b3.jpg",
+    "actress": [
+      "阿部乃美久"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-624"
+  },
+  {
+    "id": 67556,
+    "IDcode": "EKDV-627",
+    "title": "ぬるぬるローション競泳水着 古賀みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2020-05-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250430-1/9764dffbe63f71a4b3b1bd17a2c0efe4.jpg",
+    "actress": [
+      "百合奈ひかる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-627"
+  },
+  {
+    "id": 91223,
+    "IDcode": "EKDV-709",
+    "title": "希望を胸にやってきた新人メイドを朝から晩まで種付け痙攣性処理調教 嫌悪しか感じない男に泣きたくなるほど犯●れて… 菜月ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2023-06-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240417-1/22edb36b2b430b833a6bc3a92e539d92.jpg",
+    "actress": [
+      "菜月光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-709"
+  },
+  {
+    "id": 17072,
+    "IDcode": "EKDV-731",
+    "title": "滿懷希望來到這裏的新女僕，從早到晚都需要被中出，還需要順從的服侍強奸女僕的人… 日墨舞花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2023-12-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20231225/aa81384c-a6e2-4832-b317-369d7c5c4286.jpg",
+    "actress": [
+      "日泉舞香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-731"
+  },
+  {
+    "id": 16625,
+    "IDcode": "EKDV-734",
+    "title": "我獨自在一個鄉村小鎮工作...被隔壁一位性欲過旺的離婚美人妻的精致身體所誘惑，不得不多次射在她體內...五日市芽依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2024-01-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20240123/61fa7076-b4f8-4dcc-9d9a-89945283d98f.jpg",
+    "actress": [
+      "五日市芽依",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-734"
+  },
+  {
+    "id": 9364,
+    "IDcode": "EKDV-766",
+    "title": "女友的姐姐是個癡女……女友不在的時候我和她發生了很多次性關系，她完全就是個婊子，我沉迷其中 ~ 小那海綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250105/8976e809-f1bf-4768-9c40-6097a4e3e444.jpg",
+    "actress": [
+      "小那海綾",
+      "佐佐波绫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-766"
+  },
+  {
+    "id": 72858,
+    "IDcode": "EKDV-768",
+    "title": "SNSで見つけた爆乳女子と初めてエッチするためラブホに来たら… 想像以上の色白絶倫ビッチで何度もイカせて何度も中出ししちゃいました のあ 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-02-11",
+    "cover_url": "https://tutu1.space/images/2025/08/09/9bfe2d5850c7c26b72023e9104ed1747.jpg",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-768"
+  },
+  {
+    "id": 7253,
+    "IDcode": "EKDV-773",
+    "title": "和賴學的美人娘獨處…孤獨少女的禁忌背德性愛 ~ 夏巳百合香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-03-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20250326/c744e70e-66b3-4b41-b451-332e676bb568.jpg",
+    "actress": [
+      "夏巳百合香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-773"
+  },
+  {
+    "id": 69452,
+    "IDcode": "EKDV-774",
+    "title": "- かわいいが過ぎるいもうとのおっぱい誘惑に毎日が困惑勃起 南日菜乃 - JAV目錄大全javmenu.com",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/8cd42bf9/vod.jpg",
+    "actress": [
+      "南日菜乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-774"
+  },
+  {
+    "id": 5829,
+    "IDcode": "EKDV-779",
+    "title": "與翹課學生獨處…孤單少女的禁忌背德激情 ~ 卯佐美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-05-24",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031443297297_thumbnail.webp",
+    "actress": [
+      "卯佐美鈴",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-779"
+  },
+  {
+    "id": 5848,
+    "IDcode": "EKDV-780",
+    "title": "新人女僕滿懷希望卻被廢柴主人從早幹到晚 調教成性處理玩物 ~ 胡桃櫻花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-05-24",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523235247132132_thumbnail.webp",
+    "actress": [
+      "胡桃櫻花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-780"
+  },
+  {
+    "id": 5466,
+    "IDcode": "EKDV-781",
+    "title": "【4K】這隻小母貓正處於發情高潮！要不要來一炮？~ 宍戶里帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013354370370_thumbnail.webp",
+    "actress": [
+      "宍戸里帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-781"
+  },
+  {
+    "id": 5215,
+    "IDcode": "EKDV-783",
+    "title": "新人女僕被主人從早到晚調教成性處理工具 被惡心男主幹的想哭 ~ 永野鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014914395395_thumbnail.webp",
+    "actress": [
+      "永野鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-783"
+  },
+  {
+    "id": 4828,
+    "IDcode": "EKDV-784",
+    "title": "【4K】這隻小騷貨正處於發情巔峰！要不要跟乙愛麗絲來一發？ ~ 乙愛麗絲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621075700154154_thumbnail.webp",
+    "actress": [
+      "乙愛麗絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-784"
+  },
+  {
+    "id": 4621,
+    "IDcode": "EKDV-785",
+    "title": "超萌妹妹的巨乳誘惑讓我天天硬到不行 ~ 鬆井日奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707040507874874_49394_thumbnail.webp",
+    "actress": [
+      "松井日奈子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-785"
+  },
+  {
+    "id": 4650,
+    "IDcode": "EKDV-786",
+    "title": "前輩託我照顧的寵物居然是個超愛被虐的M女…白皙美肌小可憐，兩天三夜的同居激情生活 ~ 一条美緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706105212264264_79447_thumbnail.webp",
+    "actress": [
+      "一条美緒",
+      "一条美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-786"
+  },
+  {
+    "id": 4235,
+    "IDcode": "EKDV-787",
+    "title": "4K 潮吹超誇張...對主人愛意爆棚慾望滿滿的黑髮清純女僕讓人慾罷不能 ~ 真白風羽里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-07-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/202507182127427171_75297_thumbnail.webp",
+    "actress": [
+      "真白風羽里",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-787"
+  },
+  {
+    "id": 2504,
+    "IDcode": "EKDV-793",
+    "title": "新家沒定下來前…從鄉下上京的姪女和我開啟肉慾同居生活！香澄那毫無防備的完美身材讓我忍無可忍 ~ 月野香澄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-09-19",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919065630895895_14880_thumbnail.webp",
+    "actress": [
+      "月野香澄",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-793"
+  },
+  {
+    "id": 2694,
+    "IDcode": "EKDV-794",
+    "title": "單身去田舍町工作…被鄰家性欲爆棚的離異美人迷得神魂顛倒，忍不住多次中出 ~ 鳳美優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "水晶映像",
+    "publish_date": "2025-09-12",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050745409409_53203_thumbnail.webp",
+    "actress": [
+      "鳳美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-794"
+  },
+  {
+    "id": 82531,
+    "IDcode": "EKW-035",
+    "title": "全身舐めほぐし◆ヒーリングリップサロン 佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2018-03-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/eccb60c5d655bf6812c45e8a6ed7da5e.jpg",
+    "actress": [
+      "佐佐木明希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-035"
+  },
+  {
+    "id": 72212,
+    "IDcode": "EKW-044",
+    "title": "土下座痴女 春原未来",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2019-02-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250223-1/2a54da44fa12fdf646e54999e0001ce4.jpg",
+    "actress": [
+      "春原未来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-044"
+  },
+  {
+    "id": 67749,
+    "IDcode": "EKW-050",
+    "title": "今日はこいつにヌカれたい。 黒川すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2019-08-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/eca70304868bba54b0e94b0a9673e61c.jpg",
+    "actress": [
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-050"
+  },
+  {
+    "id": 67410,
+    "IDcode": "EKW-051",
+    "title": "痴女る女と犯ラレル男とそれを傍観する俺ら 浅見せな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2019-08-30",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250502-1/871cdae2764e552c4981c2f13087a5d3.jpg",
+    "actress": [
+      "爱乃零"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-051"
+  },
+  {
+    "id": 66717,
+    "IDcode": "EKW-052",
+    "title": "チクビ快感伝道師 葵百合香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2019-10-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/7b8d8fabea67b2a74606bbd899d9938b.jpg",
+    "actress": [
+      "葵百合香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-052"
+  },
+  {
+    "id": 67750,
+    "IDcode": "EKW-054",
+    "title": "接吻コントロール 美咲かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2019-11-29",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250427-1/5f3d8ba338ec9b0df6246a89f2ab168c.jpg",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-054"
+  },
+  {
+    "id": 66619,
+    "IDcode": "EKW-082",
+    "title": "【FANZA限定】健全店で生殺されてアンアン言ってアピールしてたら… 三尾めぐ パンティと生写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2022-09-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250505-1/13c26ca611f24508daee30a9a6e4c829.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-082"
+  },
+  {
+    "id": 101369,
+    "IDcode": "EKW-086",
+    "title": "【FANZA限定】今日はこいつにヌカれたい。 有賀みなほ パンティと生写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "2023-04-07",
+    "cover_url": "https://tutu1.space/images/2024/02/27/828f2d2aebb25951dc1abedb9f73c957.jpg",
+    "actress": [
+      "蓝井优太",
+      "有贺みなほ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-086"
+  },
+  {
+    "id": 91221,
+    "IDcode": "EMBM-020",
+    "title": "旦那の目の前でSEXする嫁 ガチなやつ 佳乃三つ葉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-11-20",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240417-1/337750b835640254d4b46176e10b4d0f.jpg",
+    "actress": [
+      "佳乃三つ葉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBM-020"
+  },
+  {
+    "id": 59922,
+    "IDcode": "EMBM-043",
+    "title": "熟女ねっとりフェラ口内射精7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2025-09-20",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/a2bfb874/vod.jpg",
+    "actress": [
+      "月野ゆりね",
+      "鈴河めぐみ",
+      "姫川礼子",
+      "川原みづほ",
+      "藤沢ユリア",
+      "浪川ゆかり",
+      "我妻淳子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBM-043"
+  },
+  {
+    "id": 76675,
+    "IDcode": "EMBZ-197",
+    "title": "［閲覧注意］輪●レ●プ映像 ノーカット無編集・婦女強●犯罪記録 錯乱！クロロホルムとスタンガンで昏●、媚薬で欲情、おとなしい貞淑妻を暴行し崩壊す！ 北川礼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-02-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/7a5e0ccd742b8f8addda50d6a51b46ee.jpg",
+    "actress": [
+      "姫川礼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-197"
+  },
+  {
+    "id": 81694,
+    "IDcode": "EMBZ-199",
+    "title": "私の蒸れて湿ったパンスト足で弄ばれてみる？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-03-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/86acb4d37f33df3d42646cf183408d50.jpg",
+    "actress": [
+      "姫川礼子",
+      "森下美绪",
+      "薪宫沙希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-199"
+  },
+  {
+    "id": 91222,
+    "IDcode": "EMBZ-258",
+    "title": "人の嫁孕ませドキュメント「秘事」 熟れ妻の生膣に子宮内射精 安西夏海",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2022-09-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240417-1/8cd15f262be7abc122cc688d5d4d1faf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-258"
+  },
+  {
+    "id": 91247,
+    "IDcode": "EMBZ-278",
+    "title": "人の嫁孕ませドキュメント「秘事」 熟れ妻の生膣に子宮内射精 海埜ほたる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240418-1/be425ee921c23ad798148c305c40011d.jpg",
+    "actress": [
+      "森萤"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-278"
+  },
+  {
+    "id": 67341,
+    "IDcode": "EMBZ-322",
+    "title": "生他人棒で乱暴されドM覚醒した素人妻の女体に種付けしまくる 松坂つぐみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2025-05-06",
+    "cover_url": "https://tutu1.space/images/2025/06/26/1b5a1c0a80606dfec8234473cbf42c0a.jpg",
+    "actress": [
+      "羽田真子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-322"
+  },
+  {
+    "id": 63226,
+    "IDcode": "EMBZ-325",
+    "title": "［閲覧注意］輪●レ●プ映像 ノーカット無編集「婦女強●犯罪記録」 艶熟巨乳妻強●妊娠！ クロロホルムとスタンガンで昏●、媚薬で淫乱メス奴●覚醒 美しく熟れた女体は子宮の奥まで延々と犯●れ続けイキ狂う！ 藤木オリエ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2025-07-01",
+    "cover_url": "https://tutu1.space/images/2025/07/01/b11aebe9e70e6e9e165c9a1ec9ebe966.jpg",
+    "actress": [
+      "SHIN"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-325"
+  },
+  {
+    "id": 67152,
+    "IDcode": "EMOT-002",
+    "title": "完全主観で楽しむ羽生ありさとの新婚生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-05-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250504-1/174523725727e4d65530dac02050244f.jpg",
+    "actress": [
+      "羽生ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOT-002"
+  },
+  {
+    "id": 76752,
+    "IDcode": "EMOT-006",
+    "title": "完全主観で楽しむ南梨央奈との新婚生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2019-12-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/9cbce7528b9f784f0ddea0206d02e0b7.jpg",
+    "actress": [
+      "南梨央奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOT-006"
+  },
+  {
+    "id": 67151,
+    "IDcode": "EMOT-009",
+    "title": "完全主観で楽しむ紺野ひかるとの新婚生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2020-05-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250504-1/16c5655b5981bd43a6d539cb905e4270.jpg",
+    "actress": [
+      "绀野光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOT-009"
+  },
+  {
+    "id": 67223,
+    "IDcode": "EMOT-010",
+    "title": "完全主観で楽しむ弥生みづきとの新婚生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2020-07-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/9b2300698a139059257efbc2844dc2da.jpg",
     "actress": [
       "弥生美月"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-612"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOT-010"
   },
   {
-    "id": 67279,
-    "IDcode": "BLK-613",
-    "title": "拘束婊子房間 動彈不得的男人被玩弄乳頭到激凸、挑逗剎車、最後爆射！ 一條美緒",
+    "id": 67846,
+    "IDcode": "EMOT-016",
+    "title": "EMOT-016",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-11-11",
-    "cover_url": "",
+    "company": "TMA",
+    "publish_date": "2021-04-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250425-1/fc7be5fbbabe53a48acc9ae5ad37baee.jpg",
     "actress": [
-      "一条美绪"
+      "藤森里穂"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-613"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOT-016"
   },
   {
-    "id": 90885,
-    "IDcode": "BLK-615",
-    "title": "放學後自慰套倶樂部 讓巨乳辣妹舔精舔弄＆中出抽插到爽 ！",
+    "id": 80162,
+    "IDcode": "EMOT-018",
+    "title": "完全主観で楽しむ朝倉ここなとの新婚生活",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-12-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240227-1/42f7d9bd5ceb2f3bc71a4d482a4f3b1f.jpg",
-    "actress": [
-      "藤子未央"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-615"
-  },
-  {
-    "id": 67246,
-    "IDcode": "BLK-616",
-    "title": "肉感抽插辣妹媽媽 老公出差中就是肉食周！窩在愛情賓館抽插懷孕完了！ 推川悠里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2022-12-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/91f578fef2bc96f3dab930065745af86.jpg",
-    "actress": [
-      "推川悠里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-616"
-  },
-  {
-    "id": 90886,
-    "IDcode": "BLK-618",
-    "title": "HEY君！トゥクトゥクでパコろうよ！ねぇ？ギャルとハーレムかまさない？おち●ぽバカアゲトリップファック！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2023-02-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240227-1/612c8a681d3e33c4f6a7f4915004cde3.jpg",
-    "actress": [
-      "松本一香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-618"
-  },
-  {
-    "id": 67309,
-    "IDcode": "BLK-619",
-    "title": "BLK-619",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2023-01-13",
-    "cover_url": "",
+    "company": "TMA",
+    "publish_date": "2021-12-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/00086593c09d55008d917dd76ee9bee0.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-619"
-  },
-  {
-    "id": 90887,
-    "IDcode": "BLK-621",
-    "title": "絶倫の僕でも音を上げるW性欲モンスターギャルと巣ごもりハーレム生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2023-04-18",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240227-1/1ee2af04913a4b9fbac222034c21569e.jpg",
-    "actress": [
-      "森日向子",
-      "朝比奈かれん"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-621"
-  },
-  {
-    "id": 90893,
-    "IDcode": "BLK-623",
-    "title": "隣のゴミ部屋男に苦情を言ったら陰キャのくせに性欲モンスター化！異臭の中で媚薬を盛られてキメセク監禁！ 天川そら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2023-05-16",
-    "cover_url": "",
-    "actress": [
-      "天川空",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-623"
-  },
-  {
-    "id": 100786,
-    "IDcode": "BLK-629",
-    "title": "童貞の僕をフェラチオでいじめる小悪魔ギャル。でも初体験までさせてくれてもっと僕をイジメてくれた 松本いちか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2023-08-15",
-    "cover_url": "",
-    "actress": [
-      "松本一香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-629"
-  },
-  {
-    "id": 100787,
-    "IDcode": "BLK-630",
-    "title": "最近ギャルデビューをした妹がSEXの練習に選んだのが兄の僕。性の知識がまだあまりない二人のW暴走ピストン 倉本すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2023-08-15",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-630"
-  },
-  {
-    "id": 18305,
-    "IDcode": "BLK-633",
-    "title": "隔壁屋的變態垃圾男人，强奸了我，還每天給我吃媚藥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2023-10-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20231017/06eaadba-06bf-4263-a729-191ae426e5ef.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-633"
-  },
-  {
-    "id": 101105,
-    "IDcode": "BLK-636",
-    "title": "「元気？今日泊めてくんない？」飲み会で終電を逃した元同級生のギャルから電話が来て一晩一緒に過ごす事に。朝日が昇っても更に中出ししまくった絶倫性交！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2023-12-19",
-    "cover_url": "https://tutu1.space/images/2024/01/12/e9d065b01642d35b01ac83f4a1e0e101.jpg",
-    "actress": [
-      "天川空"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-636"
-  },
-  {
-    "id": 10639,
-    "IDcode": "BLK-646",
-    "title": "上門派送的野獸系GAL母狗女優 ~ 黑咲花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2024-11-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114085341360360.jpg",
-    "actress": [
-      "黒咲華",
-      "大村"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-646"
-  },
-  {
-    "id": 7563,
-    "IDcode": "BLK-647",
-    "title": "現役辣妹護士舔幹吃光超癡女護理 ~ 黑咲華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-03-18",
-    "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083954457457.jpg",
-    "actress": [
-      "黒咲華",
-      "日森一",
-      "青沼"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-647"
-  },
-  {
-    "id": 74174,
-    "IDcode": "BLK-648",
-    "title": "黒ギャルビッチの本領発揮！ビーチで逆ナン！即持ち帰りヤリたい放題チ〇ポ狩り！！ 黒咲華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-01-21",
-    "cover_url": "",
-    "actress": [
-      "黒咲華"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-648"
-  },
-  {
-    "id": 9917,
-    "IDcode": "BLK-649",
-    "title": "「中出，心情、場景、氣氛都OK」我在約炮APP上認識的女孩，是一個簡單直接、無與倫比的癡女！Vol.7 ~ 有星青理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2024-12-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211075005857857.jpg",
-    "actress": [
-      "有星青理"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-649"
-  },
-  {
-    "id": 6094,
-    "IDcode": "BLK-652",
-    "title": "超愛口交的抖M小麥肌辣妹在情趣旅館即刻開戰3P亂鬥",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-05-16",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515092548430430_thumbnail.webp",
-    "actress": [
-      "那津乃千奈美",
-      "ニック"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-652"
-  },
-  {
-    "id": 5331,
-    "IDcode": "BLK-653",
-    "title": "超騷辣妹亂交Party ~ 齋藤亞美裏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-06-13",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612072843346346_thumbnail.webp",
-    "actress": [
-      "齋藤亞美里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-653"
-  },
-  {
-    "id": 5343,
-    "IDcode": "BLK-654",
-    "title": "超下流辣妹！黃金町小巷撿到的瘋狂肉彈騷貨，一整天窩在情趣酒店生猛內射 ~ 花宮京子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-06-13",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120626184848_thumbnail.webp",
-    "actress": [
-      "花宮京子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-654"
-  },
-  {
-    "id": 4464,
-    "IDcode": "BLK-655",
-    "title": "曬成古銅色的誘人大奶 SM風俗店頭牌辣妹女王 隱藏抖M真面目被調教成廢柴小騷貨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-07-11",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710033058896896_94352_thumbnail.webp",
-    "actress": [
-      "西野絵美",
-      "タイ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-655"
-  },
-  {
-    "id": 60997,
-    "IDcode": "BLK-655SM",
-    "title": "风俗店指名No.1辣妹女 -西野絵美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-08-11",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-655SM"
-  },
-  {
-    "id": 3543,
-    "IDcode": "BLK-656",
-    "title": "忍不住了！精液爆射 纖細苗條身體，小惡魔騷話連發榨汁的辣妹癡女回春按摩 ~ 齋藤亞美裏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-08-14",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034347744744_87662_thumbnail.webp",
-    "actress": [
-      "齋藤亞美里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-656"
-  },
-  {
-    "id": 3534,
-    "IDcode": "BLK-658",
-    "title": "無劇本無套路！意外就是刺激！H罩杯騷汁狂噴辣妹一鏡到底！巨乳蕩婦性欲徹底解放不停歇亂交 ~ 北野未奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-08-14",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040424680680_86608_thumbnail.webp",
-    "actress": [
-      "北野未奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-658"
-  },
-  {
-    "id": 3583,
-    "IDcode": "BLK-659",
-    "title": "潤滑液狂抹寸止挑逗，爽到爆的高潮天堂！天使臉蛋小惡魔心機的射精折磨 北岡果林",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-08-14",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040312862862_51019_thumbnail.webp",
-    "actress": [
-      "北岡果林",
-      "いち"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-659"
-  },
-  {
-    "id": 4462,
-    "IDcode": "BLK-661",
-    "title": "風騷GAL女教師的致命誘惑 ~ 黑咲華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-07-11",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032245513513_29001_thumbnail.webp",
-    "actress": [
-      "黒咲華"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-661"
-  },
-  {
-    "id": 3555,
-    "IDcode": "BLK-663",
-    "title": "超騷超賤的極品妹子 神保町小巷撿到的瘋批巨乳細腰碧池 一整天窩在情趣酒店無套中出 ~ 新井裏真",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-08-14",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023418666666_49664_thumbnail.webp",
-    "actress": [
-      "新井里真"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-663"
-  },
-  {
-    "id": 4463,
-    "IDcode": "BLK-664",
-    "title": "獨家轉籍！超高規級美體 苗條纖細身體卻有着極上美巨乳超色情完美GAL 汗液口水愛液尿液體液舔舐癡女三本番 ~ 新井裏真",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-07-11",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032538574574_18458_thumbnail.webp",
-    "actress": [
-      "新井里真",
-      "ナイアガラ翔"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-664"
-  },
-  {
-    "id": 3572,
-    "IDcode": "BLK-666",
-    "title": "汗液愛液滿身塗！難波騷貨潮吹噴射爽到爆的中出FUCK ~ 月野江翠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2025-08-14",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034807157157_43350_thumbnail.webp",
-    "actress": [
-      "月野江翠"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLK-666"
-  },
-  {
-    "id": 75759,
-    "IDcode": "BLKW-002",
-    "title": "＃はーと＃ズッ友だよ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2019-12-27",
-    "cover_url": "",
-    "actress": [
-      "稻场流花",
-      "森本つぐみ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLKW-002"
-  },
-  {
-    "id": 75700,
-    "IDcode": "BLKW-003",
-    "title": "＃すこすこ＃mjk（まじか）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2020-01-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLKW-003"
-  },
-  {
-    "id": 81482,
-    "IDcode": "BLKW-004",
-    "title": "＃めっかわ＃やばたん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "KIRAKIRA",
-    "publish_date": "2020-02-28",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLKW-004"
-  },
-  {
-    "id": 83539,
-    "IDcode": "BLOR-064",
-    "title": "田舎育ちのGカップ元気印少女 巨根に貫かれ涙目でガチイキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2016-06-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/618998598a003fe55f63bb6b2f308b15.jpg",
-    "actress": [
-      "月本爱"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-064"
-  },
-  {
-    "id": 75793,
-    "IDcode": "BLOR-135",
-    "title": "趣味サバゲの男前女子 責め好きなのに寸止めされまくって限界チ●ポ乞い…巨根にドハマりしトロトロ汗だくアクメ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2019-12-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-135"
-  },
-  {
-    "id": 75766,
-    "IDcode": "BLOR-137",
-    "title": "デカチン欲しさに現場に来たムチムチドスケベOL 限界まで挿入ジラされ切ないメス顔になった後、巨根ブチ込まれアヘ顔イキ狂い！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-01-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/4a5610fc5950b3a8c1e298fda24a4530.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-137"
-  },
-  {
-    "id": 81490,
-    "IDcode": "BLOR-138",
-    "title": "インドア文系女子ハメ堕ち！性に淡白な女子がねっとり愛撫でトロトロにされ巨根で絶叫イキさせられた！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-01-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-138"
-  },
-  {
-    "id": 81486,
-    "IDcode": "BLOR-139",
-    "title": "一見ウブな天然女子ですが『趣味・チ●ポの研究』のとんでもないスケベビッチでした！巨根、スパンキング、首絞めセックスで痙攣トロトロ絶頂！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-02-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-139"
-  },
-  {
-    "id": 81514,
-    "IDcode": "BLOR-140",
-    "title": "さっぱりした女子が性感マッサージと巨根でヨダレ垂らしてメス堕ちするまで",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2020-02-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-140"
-  },
-  {
-    "id": 84056,
-    "IDcode": "BLOR-194",
-    "title": "【FANZA限定】ショートカット、引き締まったスポーツ体型、性格もサバサバしてる女の子 絶倫チ●ポでメス化！大量潮吹き散らしてイキ狂う！ パンティと写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-05-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-194"
-  },
-  {
-    "id": 87288,
-    "IDcode": "BLOR-198",
-    "title": "「んほぉぉチ●ポしゅごぉぉ」 さっきまで野球とかゲームとか熱く語ってたのに…性欲強すぎオタク女子が貪るようなケダモノ交尾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-07-26",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-198"
-  },
-  {
-    "id": 87301,
-    "IDcode": "BLOR-199",
-    "title": "ちょいギャルっぽい歯科助手さん めちゃ性格よくてちょいクズ味もある隠れドスケベ 凄テクでイカされ全身ガクガク震わせチ●ポ堕ち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-07-26",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-199"
-  },
-  {
-    "id": 87306,
-    "IDcode": "BLOR-200",
-    "title": "【FANZA限定】ナチュラル可愛いハンバーガーショップの店員さん 飄々とした感じだけど巨根突きでイクイク連発 しっかりチ●ポで堕とされた パンティと写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-08-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/1c4ded5d64a5e9aac5856ab8c9417124.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-200"
-  },
-  {
-    "id": 87294,
-    "IDcode": "BLOR-201",
-    "title": "人懐っこくて可愛い洋食屋の店員さん チャキチャキしてるけど実はめちゃくちゃされたいドM 顔真っ赤にしてイキまくりチ●ポ堕ち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2022-08-23",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-201"
-  },
-  {
-    "id": 78565,
-    "IDcode": "BLOR-256",
-    "title": "純朴でムチムチな巨乳ギャル 実は感度良すぎの敏感スケベ体質… 絶倫チ●ポでガン突き喰らってオホ声上げてイキ散らかす！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-11-26",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-256"
-  },
-  {
-    "id": 78564,
-    "IDcode": "BLOR-257",
-    "title": "サバサバした性格の関西女子はGカップ巨乳でした！ 最初余裕見せてたけど、巨根でキャラ崩壊… 気持ち良すぎてウルウル半泣き！メス声上げてイカされまくる！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-11-26",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-257"
-  },
-  {
-    "id": 9693,
-    "IDcode": "BLOR-258",
-    "title": "她迷人、開朗、笑容可愛！遊戲店的美人店員被無與倫比的雞巴操……背後突然被插入，像野獸一樣淫叫。~ 鬆丸香澄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20241222/20241222020245125125.jpg",
-    "actress": [
-      "松丸香澄"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-258"
-  },
-  {
-    "id": 76072,
-    "IDcode": "BLOR-259",
-    "title": "レトロ喫茶の隠れ巨乳ウエイトレスさん！ 愛嬌ある関西弁可愛すぎ！ 性感マッサージで照れ笑いが引きつってくる…常連客に可愛がられてる看板娘が巨根のバコ突きくらってチ●ポ堕ち！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-12-24",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-259"
-  },
-  {
-    "id": 70440,
-    "IDcode": "BLOR-264",
-    "title": "とにかく明るいハイテンション娘 爆笑した直後に寄り目オホイキ！ハメ潮ビュービュー吹かされガチ恋セックスでチ●ポ堕ち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-03-25",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/09/fe988864/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-264"
-  },
-  {
-    "id": 70388,
-    "IDcode": "BLOR-265",
-    "title": "クールな巨乳エステティシャン…中身は超インドアオタクおねえさん 性感マッサージと凄チ●ポで徹底的にイカされ半泣きに…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-03-25",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/09/79f8a6fe/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-265"
-  },
-  {
-    "id": 70184,
-    "IDcode": "BLOR-266",
-    "title": "関西弁のチャキチャキ美人おねえさん 余裕あるいい女がアヘ顔ドM堕ち 絶倫巨根で足腰立たなくなるまでイカされる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-04-22",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-266"
-  },
-  {
-    "id": 68472,
-    "IDcode": "BLOR-267",
-    "title": "街の洋食屋で働く看板娘 ニコニコ性格いい娘が潮吹かされ白目むいて半泣き絶頂 絶倫デカチンにハメ堕とされる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-04-22",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/b96644af/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-267"
-  },
-  {
-    "id": 63644,
-    "IDcode": "BLOR-270",
-    "title": "生真面目な性格の学習塾講師おねえさん 丁寧な受け答えだけどパンツには本気ジミベットリ…巨根のガン突きくらって理性ぶっ飛び 下品なイグイグ絶叫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-06-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/8ee69640/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-270"
-  },
-  {
-    "id": 63643,
-    "IDcode": "BLOR-271",
-    "title": "コミュ力全開！一緒に飲んだら最高楽しい！服の下は美巨乳ドエロボディでした！…奥で何回もイカされヨダレ垂らしてチ●ポ堕ち！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2025-06-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/4e4aeaae/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BLOR-271"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMOT-018"
   }
 ];

@@ -1,1677 +1,1574 @@
 window.PAGE_DATA = [
   {
-    "id": 84822,
-    "IDcode": "HUNTB-349",
-    "title": "滑り込み初体験！『学校を卒業するまでには処女を捨てたい』『童貞を卒業したい』と思う幼馴染同士のウィンウィンSEX！卒業まであとわずか。ヤバい",
+    "id": 79242,
+    "IDcode": "SDNM-293",
+    "title": "元モデルの日系アメリカ人奥様は今では町内会の人気者 シゲモリ・アヤ 30歳 最終章 旦那への罪悪感も快楽には勝てず許してしまった生中出し",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/b63e21bac12dfe97c4e97adae7ab4136.jpg",
+    "company": "SOD",
+    "publish_date": "2021-07-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/202ab530b3b9af65cffe494097623ade.jpg",
+    "actress": [
+      "小田切ジュン",
+      "市川润"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-293"
+  },
+  {
+    "id": 79271,
+    "IDcode": "SDNM-294",
+    "title": "毎日元気いっぱいにお年寄りの世話をする美人ヘルパー 栗田みゆ 28歳 最終章 露出・拘束・放尿…旦那から遠く離れた旅先だから心おきなく本当の欲望をさらけ出す一泊温泉旅行",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-07-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/67591e1a1fa4970e47da3205e425179d.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-349"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-294"
   },
   {
-    "id": 67914,
-    "IDcode": "HUNTB-353",
-    "title": "3人の美人母娘の家に居候することになったボク。「ママとお姉ちゃんには内緒だよ」「妹とママには内緒だからね」「娘たちには絶対内緒よ」と近くに家族が…",
+    "id": 81116,
+    "IDcode": "SDNM-303",
+    "title": "何でも出来るって思われる…でも本当は甘えたい時もあるんです 末永愛理 29歳 第2章 もう清純ないい妻ではいられない！今までにない快感と快楽で意識が遠のき7人の男を相手に腰が砕けるまで性に溺れた2日間",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-09-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250420-1/45c20300fa3d5d6cd82a000986c5e44d.jpg",
+    "company": "SOD",
+    "publish_date": "2021-10-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/92101e5fc52d652f0a0f60e79099fea4.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-353"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-303"
   },
   {
-    "id": 87487,
-    "IDcode": "HUNTB-356",
-    "title": "「ぶっちゃけエッチの方が得意なんだよね」掃除は苦手だけどセックスは出来るギャルメイド家政婦がやって来た！メイド家事代行サービスを頼んだら…",
+    "id": 79894,
+    "IDcode": "SDNM-305",
+    "title": "お爺ちゃんお婆ちゃんが大好きで介護士になったニコニコ奥さん 坂井千晴 30歳 第2章 1本だけの出演から10カ月ぶり伝説の人妻さんと奇跡の再会！仕事着でSEX・人生初3Pで何度も何度も大絶頂！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-09-13",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2021-10-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/4e32cd23941b03de1ba038f6f0f79fe4.jpg",
+    "actress": [
+      "坂井千晴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-305"
+  },
+  {
+    "id": 80854,
+    "IDcode": "SDNM-311",
+    "title": "何でも出来るって思われる…でも本当は甘えたい時もあるんです 末永愛理 29歳 第3章 浜松の自宅にお邪魔します 旦那の出張中…一人きりの愛の巣に他人がお泊まりほろ酔い不倫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-11-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/96221ffbe13d49956f8b9332ab5ff39c.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-356"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-311"
   },
   {
-    "id": 87489,
-    "IDcode": "HUNTB-360",
-    "title": "「何で勝手に中出しするの？」「私の精子だから返して！」日替わりでボクにエッチを求める2人の義妹！1人に中出しすると…ボクの精子の奪い合いに！",
+    "id": 80375,
+    "IDcode": "SDNM-320",
+    "title": "阪井千晴 30歳 第4章 老公、家事、工作。全都忘記只隨著快樂。1泊2日自拍性愛溫泉旅行",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-09-13",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2021-12-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/32ed01d3982b209c51da44063aab7f03.jpg",
+    "actress": [
+      "坂井千晴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-320"
+  },
+  {
+    "id": 86255,
+    "IDcode": "SDNM-333",
+    "title": "沢山出る母乳で3児を育てるママさんバレーガチ勢の島人 玉城夏帆 29歳 地元沖縄でAV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-03-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/7902fc81435a23f2491c796e6a3db091.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-360"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-333"
   },
   {
-    "id": 69139,
-    "IDcode": "HUNTB-388",
-    "title": "拒絕穿上制服！口氣也最爛最悪！不過既溫柔工作也超有禮！父親的看護是淫蕩辣妹過頭讓我…",
+    "id": 81020,
+    "IDcode": "SDNM-337",
+    "title": "ついに現れた超大物─レーベル史上No.1の圧倒的美しさ 葉月涼子 32歳 最終章 旦那が外出している隙に自宅で不倫… 夫婦の家で大量ザーメンまみれ 他人男と中出し11発乱交",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-10-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250328-1/bacda032e9a98319b3ae0737f1883334.jpg",
-    "actress": [
-      "夏希栗",
-      "蘭々"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-388"
-  },
-  {
-    "id": 106971,
-    "IDcode": "HUNTB-396",
-    "title": "誰都能繳費盡情抽插到飽！溫泉旅館編 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-11-08",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/huntb396/huntb396pl.jpg",
-    "actress": [
-      "大空七海",
-      "タツ",
-      "ハカー",
-      "若宫はずき"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-396"
-  },
-  {
-    "id": 107094,
-    "IDcode": "HUNTB-421",
-    "title": "發現時已經成了大亂交！初次就讀大學的內向女大生們之中藏有一位肉食女！被肉食女子步調捲入的內向女大學生們…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-12-13",
-    "cover_url": "",
-    "actress": [
-      "宫泽千春",
-      "天然美月",
-      "白鸟すわん"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-421"
-  },
-  {
-    "id": 106403,
-    "IDcode": "HUNTB-431",
-    "title": "肉食金髪辣妹VS客訴絶倫大叔 絶對沒有交集的兩人居然是鄰居！發生糾紛爭吵的結果居然搞起性愛戰鬥！2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-12-23",
-    "cover_url": "",
-    "actress": [
-      "川菜美铃",
-      "浜崎真绪"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-431"
-  },
-  {
-    "id": 67633,
-    "IDcode": "HUNTB-443",
-    "title": "HUNTB-443",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-01-06",
-    "cover_url": "",
-    "actress": [
-      "佐伯由美香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-443"
-  },
-  {
-    "id": 68803,
-    "IDcode": "HUNTB-452",
-    "title": "「キスだけ。それ以上はダメ…」兄に隠れて兄嫁とキスだけの約束のはずが…。舌が絡み合う情熱的なキスに燃え上がってしまった2人は我慢しきれず…。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-01-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250327-1/4bcea46c3aeb83bfb058267f09bfa55b.jpg",
+    "company": "SOD",
+    "publish_date": "2022-03-10",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/d679ae9120bdbda24b4084e360102eca.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-452"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-337"
   },
   {
-    "id": 67306,
-    "IDcode": "HUNTB-461",
-    "title": "HUNTB-461",
+    "id": 80760,
+    "IDcode": "SDNM-338",
+    "title": "旦那の夕食と従業員のまかないとオナニーのおかずを考えて1日が終わってしまう、新婚さん 椿こはる 26歳 最終章「最後にずっと忘れられないような、エッチがしたいです」 旦那への背徳と快楽の狭間で受け入れた避妊具なしのSEX 人生最絶頂 初生中出しの記録",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-01-20",
-    "cover_url": "",
-    "actress": [
-      "有村希",
-      "白鸟すわん"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-461"
-  },
-  {
-    "id": 66882,
-    "IDcode": "HUNTB-465",
-    "title": "HUNTB-465",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-01-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/fdeefedb413a285dc3f235576e4c2ed2.jpg",
-    "actress": [
-      "前乃菜菜"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-465"
-  },
-  {
-    "id": 67068,
-    "IDcode": "HUNTB-500",
-    "title": "だれとでも定額挿れ放題！中古車販売店編 月々定額料金さえ支払えば、中古車販売店内のどんな者種（女子）にも乗り放題！発射し放題！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-03-10",
-    "cover_url": "",
-    "actress": [
-      "岩下たろう"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-500"
-  },
-  {
-    "id": 69325,
-    "IDcode": "HUNTB-501",
-    "title": "- 「見せてあげようか？じゃ～ん！残念！乳首は見せません！www」泡風呂でおっぱいギリ見せ！大人の女性に成長した姪っ子三姉妹が泡風呂で大ハシャギ - JAV目錄大全javmenu.com",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [
-      "木下日葵",
-      "姫咲華"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-501"
-  },
-  {
-    "id": 88638,
-    "IDcode": "HUNTB-502",
-    "title": "腰が痛いフリして介護士を呼んだら超ウブで超献身的な美人介護士がやってきた！おっぱい触ったりお尻触ったり髪の毛の匂い嗅いだり抱きついたり…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-03-10",
-    "cover_url": "",
-    "actress": [
-      "タツ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-502"
-  },
-  {
-    "id": 69236,
-    "IDcode": "HUNTB-518",
-    "title": "登校拒否児で童貞だったボクの人生が一変！突然出来た超優しい3人の巨乳義姉はボクを王様扱い！好きな時に好きなだけヤラせてくれるボク専用ヤリマン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-03-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250406-1/2f19dad843ed4e179aea1778caba751c.jpg",
+    "company": "SOD",
+    "publish_date": "2022-02-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/78180159d522781db23de91d7ec37dca.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-518"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-338"
   },
   {
-    "id": 107358,
-    "IDcode": "HUNTB-523",
-    "title": "裸エプロンをしながら掃除をしてくれる出張家事代行サービス！料金はお高いが巨乳・巨尻の家政婦さんが掃除してくれてチ○ポも掃除！でハメ放題！",
+    "id": 106723,
+    "IDcode": "SDNM-358",
+    "title": "区役所勤務7年目 真面目一筋の奥さんは実はレーベル史上最高のドM体質 望月瞳 33歳 AV DEBUT",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-03-24",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2022-09-08",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sdnm358/1sdnm358pl.jpg",
     "actress": [
-      "美園和花",
-      "望月綾香"
+      "望月瞳",
+      "森林原人"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-523"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-358"
   },
   {
-    "id": 107541,
-    "IDcode": "HUNTB-593",
-    "title": "開始早々秒でエッチ！いきなりアクセル全開AV！！即挿入＆連続爆イキ！無責任な親のせいで超エッチな3人の性獣巨乳義姉とボクとの4人だけで同居…",
+    "id": 86228,
+    "IDcode": "SDNM-365",
+    "title": "望月瞳 33歳 最終章 給我肉棒不要按摩棒 不館懷上陌生男人小孩的風險持續懇求無套中出的不貞媽媽",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
+    "company": "SOD",
+    "publish_date": "2022-11-10",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/eb07824e63b7c55b46385a19c9b1bb16.jpg",
+    "actress": [
+      "望月瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-365"
+  },
+  {
+    "id": 77613,
+    "IDcode": "SDNM-370",
+    "title": "夫婦2人で小料理屋を切り盛りする東北育ちの素朴な奥さん 大槻りょう 28歳 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-02-07",
+    "cover_url": "https://tutu1.space/images/2023/03/16/6dfbdd273990f54b8f15a84a22a86b66.jpg",
+    "actress": [
+      "南佳也",
+      "大槻りょう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-370"
+  },
+  {
+    "id": 107516,
+    "IDcode": "SDNM-380",
+    "title": "銀座デパ地下の和菓子屋さんで働く優しそうな奥さんの本性は”発情牝妻” 小橋由希 35歳 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-07-20",
+    "cover_url": "https://tutu1.space/images/2023/09/02/0f50e0e931a16398792fc2d44a5a1764.jpg",
+    "actress": [
+      "小橋由希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-380"
+  },
+  {
+    "id": 107515,
+    "IDcode": "SDNM-385",
+    "title": "娘が保育園の間だけ女に戻る明るいチャキチャキママ 渋谷なつ 32歳 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-07-11",
+    "cover_url": "https://tutu1.space/images/2023/09/02/b09152c95c13a1e05c46461d2b3e95a0.jpg",
+    "actress": [
+      "渋谷夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-385"
+  },
+  {
+    "id": 107514,
+    "IDcode": "SDNM-386",
+    "title": "本物人妻レーベルからデビューした奥様たちが1本限りの同窓会 本物人妻3人が豪華共演！旦那に内緒の温泉旅行で酒池肉林の大乱交 高嶋桜 白河花清 望月瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://tutu1.space/images/2023/09/02/42fb04c1151a072ac28e1a7d6fa4d0da.jpg",
+    "actress": [
+      "白河花清",
+      "望月瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-386"
+  },
+  {
+    "id": 107513,
+    "IDcode": "SDNM-387",
+    "title": "なんと恋愛経験ほぼなし！引っ込み思案な美人保育士さん 伊吹玲奈 28歳 第3章 園児と旦那の顔が浮かび罪悪感に揺れる心 押しに弱い保育士奥さんは欲望に流され生中出しを受け入れた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-06-20",
+    "cover_url": "https://tutu1.space/images/2023/09/02/b548aa2a2a3794f425c3c83c999821e7.jpg",
+    "actress": [
+      "伊吹玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-387"
+  },
+  {
+    "id": 107301,
+    "IDcode": "SDNM-389",
+    "title": "いまは夫婦でカフェバー経営 人懐っこい笑顔で地元客に愛される元気奥さん 小林沙良 29歳 最終章 「明日から普通の妻に戻ります…だから一生忘れられないSEXで狂いたい!」ノンストップピストンで膣内ガクガク震わせ大量中出し!それでも足りない快楽を求めて淫らに乱れるオンナとして最後の1日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-08-24",
+    "cover_url": "https://tutu1.space/images/2023/09/06/289dc3ed221269fd79dfd9676b45d47f.jpg",
+    "actress": [
+      "小林沙良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-389"
+  },
+  {
+    "id": 107300,
+    "IDcode": "SDNM-391",
+    "title": "4人の子どもはわんぱく盛り。学校がある日、ママはオンナになってきます。片岡恵美 36歳 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-08-24",
+    "cover_url": "https://tutu1.space/images/2023/09/06/43b3e0360cab7387299a9e7e37296b87.jpg",
+    "actress": [
+      "片岡恵美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-391"
+  },
+  {
+    "id": 107299,
+    "IDcode": "SDNM-393",
+    "title": "なんと恋愛経験ほぼなし！引っ込み思案の美人保育士さん 伊吹玲奈 29歳 最終章 旦那の出張中に初めて嘘をつき内緒のお泊まり旅行 旅先の温泉旅館でず―っと生中出しセックスに明け暮れた1泊デート",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
     "publish_date": "2023-07-25",
-    "cover_url": "https://tutu1.space/images/2023/08/23/21233da330539b4ccf20464e66b988a1.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-593"
-  },
-  {
-    "id": 107542,
-    "IDcode": "HUNTB-605",
-    "title": "社員旅行で美人女子社員たちと男はボク1人の夢の王様ゲームで大乱交！日常を離れ、温泉宿でまさかの激エロ体験出来ちゃいました！アラサー女子社員…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-07-25",
-    "cover_url": "https://tutu1.space/images/2023/08/23/50c09392b84e8a9d89bc055491716350.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-605"
-  },
-  {
-    "id": 107355,
-    "IDcode": "HUNTB-630",
-    "title": "男女8人ワケ有り即席大家族。～家庭内セックスをしまくる血の繋がっていない私たち～離婚再婚を繰り返し血の繋がりがない兄妹・親子でセックスを…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-08",
-    "cover_url": "https://tutu1.space/images/2023/09/02/4176c0b60f82208dce5466d808382120.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-630"
-  },
-  {
-    "id": 107026,
-    "IDcode": "HUNTB-631",
-    "title": "校内合宿中の女子陸上部員と中出ししまくり夢のハーレム乱交！ストレス解消はただ1人の男子部員のボクの絶倫デカチ○ポだけ！女子は練習漬け禁欲生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-22",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-631"
-  },
-  {
-    "id": 107087,
-    "IDcode": "HUNTB-634",
-    "title": "僕にハーレムセフレができた理由2 弄んでくれるセフレギャルから【オナ禁】指令-実写版- 美園和花 水原みその 姫咲はな 宝田もなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-22",
-    "cover_url": "https://tutu1.space/images/2023/09/27/ec45b9518f19cb729d40c2a52892da2d.jpg",
+    "cover_url": "https://tutu1.space/images/2023/09/06/6f7df6ee732ba1fe8879b9e9b1c6590c.jpg",
     "actress": [
-      "美園和花",
-      "姫咲華"
+      "伊吹玲奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-634"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-393"
   },
   {
-    "id": 107354,
-    "IDcode": "HUNTB-641",
-    "title": "「そんな恰好するなよ！」●校時代のボクのジャージ＋セクシーな下着で家をうろつく義姉。中途半端にエロい格好をされるとエロすぎてフル勃起！しかも",
+    "id": 106369,
+    "IDcode": "SDNM-398",
+    "title": "病院でおチンチンを見ると騎乗位で元気にさせたくなっちゃう関西弁のナースママ 西野芹那 27歳 地元大阪でAV DEBUT",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-08",
-    "cover_url": "https://tutu1.space/images/2023/09/02/62e3fb662cff04a9c9ef38effcb7c482.jpg",
+    "company": "SOD",
+    "publish_date": "2023-11-23",
+    "cover_url": "https://tutu1.space/images/2023/12/12/57bc7ec6726a4818bbb43888502dc723.jpg",
     "actress": [
-      "ニック",
-      "タイ",
-      "ナイアガラ翔"
+      "西野芹那"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-641"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-398"
   },
   {
-    "id": 100826,
-    "IDcode": "HUNTB-659",
-    "title": "『これ見ても私たちとエッチしたいと思わないの？本当は我慢してるんでしょう？』ボクとエッチしたがる超絶可愛い清楚系ヤリマンビッチの幼馴染たち2",
+    "id": 14392,
+    "IDcode": "SDNM-446",
+    "title": "努力撫養孩子的母親，喜歡在周末去美食廣場，與比她大兩歲的中年男人偷情 ~ 真白りま 26歲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://tutu1.space/images/2023/11/19/af7534c1f2cf65f04e1289f03a421940.jpg",
+    "company": "SOD",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240528/41d8d52d-73da-45c4-bbc0-8b22c31b0437.jpg",
+    "actress": [
+      "真白りま"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-446"
+  },
+  {
+    "id": 13749,
+    "IDcode": "SDNM-452",
+    "title": "真白りま，26 歲，一位努力撫養孩子並喜歡在周末去美食廣場的母親。 第3章：盡管兒子剛學會走路，她還是允許其它男人內射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20240625/723fa678-0f75-41d6-b0bf-b02fdd0f354a.jpg",
+    "actress": [
+      "真白りま"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-452"
+  },
+  {
+    "id": 14552,
+    "IDcode": "SDNM-454",
+    "title": "來自長崎的32 歲優雅人妻，即使在喧囂的大城市中也脫穎而出，最終章 消除了焦慮和抵抗的大雞巴剝奪了理智，第一次與丈夫外的男人中出 ~ 足立友梨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240521/bc631528-90d8-4b6e-850a-cc12c209d1d1.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-659"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-454"
   },
   {
-    "id": 106649,
-    "IDcode": "HUNTB-660",
-    "title": "若妻だらけの料理教室に参加したら男はボク1人でハーレム状態！実習そっちのけで超欲求不満の若妻たちにボクのデカチンが料理されまくり！旦那の…",
+    "id": 14216,
+    "IDcode": "SDNM-455",
+    "title": "小谷舞花，29歲，身高170cm，身材比例精致，對性充滿好奇的美人妻。 第4章：爲成爲丈夫的驕傲妻子而訓練出來的美麗裸體，同樣被其他男人玩弄隨心所欲地舔舐性愛，不忠的妻子，有着不可阻擋的欲望",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-10-31",
-    "cover_url": "https://tutu1.space/images/2023/11/25/db2908ee10980dbaf5ab50b762d158bf.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-660"
-  },
-  {
-    "id": 106664,
-    "IDcode": "HUNTB-667",
-    "title": "『それどうやって使うの？使う所見せて！』『だったらお前がオカズになってよ！』童貞のボクがオナホを持ってるのを知ったクラスメイト女子がボクの…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-09-26",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240604/a0b85764-8ab2-44d1-b7ed-93ad30884dbf.jpg",
     "actress": [
-      "ひょこり"
+      "小谷舞花"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-667"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-455"
   },
   {
-    "id": 107223,
-    "IDcode": "HUNTB-669",
-    "title": "「いつも勃たないくせに何で今日は勃ってんの？」エアコンがない真夏のボクの部屋で制服を脱ぎ下着姿で涼む幼馴染と女友達に勃起がバレて汗だく3P",
+    "id": 14044,
+    "IDcode": "SDNM-461",
+    "title": "新人報到！30 歲的人妻媽媽，她不再和丈夫做愛，每天晚上在浴缸裏自慰 首次亮相 AV DEBUT ~ 鹿野愛萌",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-22",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-669"
-  },
-  {
-    "id": 106663,
-    "IDcode": "HUNTB-681",
-    "title": "妊活兄嫁が種無し旦那の代わりにボクの精子を求めてきた！1回の中出しでは許してくれず、抜かしてももらえず追撃種付けピストンで精子が枯れるまで…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-09-26",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2024-07-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240611/75edfc3f-1f67-4b41-be88-5302aad96d7b.jpg",
     "actress": [
-      "望月綾香",
-      "椎叶みくる"
+      "鹿野愛萌"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-681"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-461"
   },
   {
-    "id": 107353,
-    "IDcode": "HUNTB-686",
-    "title": "「おっぱいで洗ってあげるね！」「じゃあ私はお尻で洗ってあげるね！」「だってもっとお兄ちゃんと仲良くなりたいんだもん！」いきなり風呂凸義姉妹！",
+    "id": 14548,
+    "IDcode": "SDNM-468",
+    "title": "開朗人妻是媽媽朋友團的心情制造者 宮多裏奈 29 歲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-08",
-    "cover_url": "https://tutu1.space/images/2023/09/02/49c0e37c27355a76079828775c7a1f0d.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-686"
-  },
-  {
-    "id": 106618,
-    "IDcode": "HUNTB-697",
-    "title": "『そんな声出したら彼氏にバレちゃうよ』甘えた声で彼氏と電話中の義姉に怒りの寝バック鬼ピストンでチ○ポ堕ち！「ふざけんな！」とキレかけた義姉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-10-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-697"
-  },
-  {
-    "id": 105874,
-    "IDcode": "HUNTB-712",
-    "title": "会員制高級メンズエステ！2人のS級極上BODYエステティシャンの凄テクトリートメントで疲れも性欲も解消！2人の巨乳エステティシャンが最高級の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-02-13",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-712"
-  },
-  {
-    "id": 105835,
-    "IDcode": "HUNTB-727",
-    "title": "夫婦円満の秘訣はスワッピング！？結婚生活も長くセックスレスになってしまった倦怠期の夫婦が仲良し夫婦に誘われて夫婦交換スワッピングにハマって…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://tutu1.space/images/2024/02/23/772448fdeb470ac4947324ff8227cd3d.jpg",
+    "company": "SOD",
+    "publish_date": "2024-05-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240521/f9524a71-959d-4085-980c-974e3fcfebba.jpg",
     "actress": [
-      "本田瞳"
+      "宮多里奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-727"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-468"
   },
   {
-    "id": 101222,
-    "IDcode": "HUNTB-732",
-    "title": "『私たちがエッチな事するから見てて…その代わり勃起したら見せて』ボクの童貞チ○ポがフニャチンから勃起するまでの一部始終を見たがる2人の幼馴染",
+    "id": 13752,
+    "IDcode": "SDNM-469",
+    "title": "小谷舞花，29歲170釐米，身材精致，對性充滿好奇的美麗人妻。第五章 忙碌的體育教練妻子在工作和家務之餘沉迷於不正當的性行爲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-01-23",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-732"
-  },
-  {
-    "id": 106647,
-    "IDcode": "HUNTB-736",
-    "title": "2人の巨乳＆デカ尻女上司のレズ行為を覗き見してしまったボク！勃起チ○ポをディルド代わりに巨乳デカ尻サンドのダブルピストンで抜かれまくり！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-10-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-736"
-  },
-  {
-    "id": 10408,
-    "IDcode": "HUNTC-126",
-    "title": "去看一部很想看的電影，整個電影院只有我一個人，然後走進來了一個漂亮的女人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003333742742.jpg",
+    "company": "SOD",
+    "publish_date": "2024-07-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20240625/035d41b1-7cdd-4787-a053-4736ab12b61b.jpg",
     "actress": [
-      "椿莉香",
-      "蘭々",
-      "NATSUKA",
-      "有星青理",
-      "宫名初季"
+      "小谷舞花"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-126"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-469"
   },
   {
-    "id": 95065,
-    "IDcode": "HUNTC-136",
-    "title": "【修学旅行の思い出は初めての乱交】背伸びしたがるメスガキたちが修学旅行でハメ外しまくりヤリまくり乱交！中出ししまくりの修学旅行は最高の思い出",
+    "id": 14553,
+    "IDcode": "SDNM-470",
+    "title": "藤原真帆，30歲，最終章——還是想成爲讓孩子們引以爲傲的微笑媽媽！今天是最後一次AV拍攝，最後一次中出！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240521/5e239bcf-bcaa-4f71-aa86-149e84912221.jpg",
     "actress": [
-      "皆月光"
+      "藤原真帆"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-136"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-470"
   },
   {
-    "id": 62554,
-    "IDcode": "HUNTC-140",
-    "title": "『彼氏との普通のエッチじゃ全く感じないの！』大好きなお姉ちゃんの彼氏を寝取らないと興奮しない変態妹！",
+    "id": 13880,
+    "IDcode": "SDNM-471",
+    "title": "爲家人奉獻了一生大部分時間的溫柔媽媽，野上しおり，36歲，AV出道",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-07-22",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-140"
-  },
-  {
-    "id": 95319,
-    "IDcode": "HUNTC-144",
-    "title": "女子更衣室に潜入したら呆気なく男とバレて人生終わった…と思ったらボクの勃起したチ○ポに女子たちは興味津々でまさかのハーレム展開に！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-12",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-144"
-  },
-  {
-    "id": 8361,
-    "IDcode": "HUNTC-145",
-    "title": "啊，你一直在偷看我，喜歡的話那就請....沒關系。 被大嫂的巨乳誘惑 ~ 辻井ほのか 足立るい 若宮葉月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206081012629629.jpg",
+    "company": "SOD",
+    "publish_date": "2024-07-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240618/2cfd09d2-1c4a-4f3e-b8bd-31c0dd50345f.jpg",
     "actress": [
-      "辻井穗乃果",
-      "有岡みう",
-      "若宮葉月",
-      "足立るい"
+      "野上しおり"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-145"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-471"
   },
   {
-    "id": 7638,
-    "IDcode": "HUNTC-146",
-    "title": "姐姐的朋友太色了！姐姐就在旁邊她卻用巨乳貼身誘惑我還允許中出！結果連姐姐都暗自發情加入近親相奸追擊戰！ ~ 通野未帆 咲野瑞希 泉莉音 安部藍",
+    "id": 13884,
+    "IDcode": "SDNM-472",
+    "title": "開朗人妻是媽媽團的好心情制造者 宮田裏奈 29 歲 AV DEBUT",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-03-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305125417653653.jpg",
+    "company": "SOD",
+    "publish_date": "2024-05-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240618/461d83c5-4b5b-4c2d-abec-0ba75c828616.jpg",
     "actress": [
-      "通野未帆",
-      "泉莉音",
-      "咲野瑞希",
-      "安部藍"
+      "宮多里奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-472"
   },
   {
-    "id": 4567,
-    "IDcode": "HUNTC-149",
-    "title": "兩個巨乳美人娘同性戀自己玩！好久沒試男人了有點想！醒來發現巨乳蕾絲上司互撩，偷看被抓後直接被撲倒 ~ 辻井穗乃果 星空萌愛 咲野瑞希 岬梓沙",
+    "id": 94151,
+    "IDcode": "SDNM-473",
+    "title": "いつまでも私を求めて欲しいから美意識だけは忘れたくない 河野純香 44歳 AV DEBUT",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703073418789789_thumbnail.webp",
+    "company": "SOD",
+    "publish_date": "2024-06-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241022-1/08bdb45817c5b09b02e8a6bbb2bd9136.jpg",
     "actress": [
-      "辻井穗乃果",
-      "岬梓沙",
-      "咲野瑞希",
-      "星空萌愛"
+      "河野純香"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-149"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-473"
   },
   {
-    "id": 95064,
-    "IDcode": "HUNTC-151",
-    "title": "親に隠れてこっそり近親レズする変態姉妹！だけどボクにバレて口封じ3P！親が再婚して出来た義姉2人は実はデキていた！やけに仲はいいなと思って…",
+    "id": 14042,
+    "IDcode": "SDNM-474",
+    "title": "在撫養孩子之前……我希望被視爲一個女性並閃耀，即使只是片刻。 日森玲子 28歳",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2024-03-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240611/3a92a141-992b-488a-b604-78c30d38d6ad.jpg",
     "actress": [
-      "有村希",
-      "二宮桃",
-      "凉南佳奈"
+      "日森玲子"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-151"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-474"
   },
   {
-    "id": 8045,
-    "IDcode": "HUNTC-161",
-    "title": "“請！今天就射進我的體內吧！欲求不滿的妻子在丈夫外出 60 分鍾時發生了一段激情外遇 ~ 夏白麻矢 藤井蕾菈 優䔧舞奈 美園和花 山本蓮加",
+    "id": 13465,
+    "IDcode": "SDNM-475",
+    "title": "野上しおり，36歲，溫柔的媽媽。把一生的大部分時間都奉獻給了家人。 第2章：客廳、浴室、臥室……窺探她的日常生活已婚人妻一邊做家務，一邊被雞巴包圍 大規模集體家庭性行爲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094226471471.jpg",
+    "company": "SOD",
+    "publish_date": "2024-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20240709/f8a39719-a18f-495d-b4ce-741392648fd7.jpg",
     "actress": [
-      "美園和花",
-      "優梨舞奈",
-      "藤井蕾菈",
-      "夏白麻矢",
-      "山本蓮加"
+      "野上しおり"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-161"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-475"
   },
   {
-    "id": 68460,
-    "IDcode": "HUNTC-197",
-    "title": "『キモイんだよ！』『早く挿れろよ！』『奥まで挿れるなよ！』超絶不仲な義妹が大嫌いなボクのチ○ポで膣痙攣イキ10連発！したら超可愛くなった件",
+    "id": 13133,
+    "IDcode": "SDNM-476",
+    "title": "想要永遠記住我美麗的樣子盡管我快要失去它了，再不好，我也要最後瘋一把，10年來第一次被丈夫外的男人中出 最終章~ 河野純香 44歲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
+    "company": "SOD",
+    "publish_date": "2024-07-23",
+    "cover_url": "https://picture.yoshiclub.xyz/20240723/8e197102-1f4a-4671-89be-d22366101162.jpg",
+    "actress": [
+      "河野純香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-476"
+  },
+  {
+    "id": 13467,
+    "IDcode": "SDNM-477",
+    "title": "新人出道！對總是微笑着傾聽我說話的美麗人妻發泄溢出的性欲 ~ 相良明裏 32 歲 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20240709/6d655ff6-8acf-401b-b44c-ae6ea960995b.jpg",
+    "actress": [
+      "相良明里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-477"
+  },
+  {
+    "id": 13051,
+    "IDcode": "SDNM-478",
+    "title": "170cm高身長，29歲身材比例精致，對性充滿向往的美人妻的最終章：踏上開往丈夫新工作城市的新幹前最後一次AV經歷 ~ 小谷舞花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-30",
+    "cover_url": "https://picture.yoshiclub.xyz/20240730/e0f1ba92-b7c8-48f3-9ed5-8da7e7c92993.jpg",
+    "actress": [
+      "小谷舞花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-478"
+  },
+  {
+    "id": 13050,
+    "IDcode": "SDNM-479",
+    "title": "一位已有孩子的26歲人妻母親，喜歡周末去溫泉過夜，釋放欲望，忘記煩惱 ~ 真白りま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-30",
+    "cover_url": "https://picture.yoshiclub.xyz/20240730/91ef2e48-e23a-4f68-acf3-12b01431470c.jpg",
+    "actress": [
+      "真白りま"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-479"
+  },
+  {
+    "id": 12887,
+    "IDcode": "SDNM-480",
+    "title": "爲家人奉獻了大半生的36歲溫柔人妻媽媽 最終章：我想讓我的陰道感受更多！ ~ 野上しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-09-12",
+    "cover_url": "https://picture.yoshiclub.xyz/20240806/0e679f10-562a-403d-9ec6-5def6ba972bd.jpg",
+    "actress": [
+      "野上しおり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-480"
+  },
+  {
+    "id": 13273,
+    "IDcode": "SDNM-482",
+    "title": "灰原かほ，36 歲，中1學生的母親，在不知不覺中炫耀自己的性感 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-07-16",
+    "cover_url": "https://picture.yoshiclub.xyz/20240716/2aa4cfc2-ac3c-4a44-a008-e6ad32b004dc.jpg",
+    "actress": [
+      "灰原かほ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-482"
+  },
+  {
+    "id": 10027,
+    "IDcode": "SDNM-492",
+    "title": "神祕的極品美人最終章：神祕人妻的淫蕩外表被揭開，1泊2日的不倫溫泉之旅 ~ 加藤あゆ香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-01-09",
+    "cover_url": "https://picture.yoshiclub.xyz/20241210/20241210015235794794.jpg",
+    "actress": [
+      "加藤あゆ香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-492"
+  },
+  {
+    "id": 9818,
+    "IDcode": "SDNM-493",
+    "title": "對丈夫來說都絕對是祕密的性癖。來自古都京都的34歲受虐M女人妻，第3章：和年輕男人家一日做愛生活 ~ 三池小春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-01-23",
+    "cover_url": "https://picture.yoshiclub.xyz/20241217/bd62c559-13ca-49fc-9343-9176a347de6d.jpg",
+    "actress": [
+      "三池小春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-493"
+  },
+  {
+    "id": 9633,
+    "IDcode": "SDNM-496",
+    "title": "優等家庭的幸福人妻 32歲 最終章 在超市，在自己家，在當地的情人酒店...人妻在生活圈5km範圍內偷情,沉溺於危險而又刺激的性愛中的不倫密會 ~ 早瀨文乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-12-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20241224/9fb702a7-34b8-4e0d-9c82-6bd87c2aaa4a.jpg",
+    "actress": [
+      "早瀬文乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-496"
+  },
+  {
+    "id": 8348,
+    "IDcode": "SDNM-500",
+    "title": "我絕對不會把這事讓我丈夫知道。來自古都京都的34歲M人妻主婦 最終章，想要感覺人生最美好的高潮的潮吹無套生中出 ~ 三池小春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-03-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20250211/30f6d176-2a2f-462c-be19-708e47f5b970.jpg",
+    "actress": [
+      "三池小春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-500"
+  },
+  {
+    "id": 7446,
+    "IDcode": "SDNM-501",
+    "title": "新人出道！晚歸不只是因爲加班…可能還有別的哦 36歲 素人人妻首次亮相 AV DEBUT ~ 川崎奈々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-04-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317231201858858.jpg",
+    "actress": [
+      "川崎奈々"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-501"
+  },
+  {
+    "id": 8940,
+    "IDcode": "SDNM-502",
+    "title": "新人出道！有愛心喜歡幫忙別人，長期在幼稚園院食堂擔任義工。擅長料理的30歲人妻 首次亮相 AV DEBUT ~ 足立美緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20250121/5f2742f6-ab32-48c2-8fd3-ed1361ec92a0.jpg",
+    "actress": [
+      "足立美緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-502"
+  },
+  {
+    "id": 8347,
+    "IDcode": "SDNM-503",
+    "title": "新人出道！優雅氣質與母愛滿滿的職場媽媽，工作與家庭都很完美 35歲 首次亮相 AV DEBUT ~ 常葉遙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-03-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20250211/d2ebd030-cfa7-48c2-8ded-9d5623dbf003.jpg",
+    "actress": [
+      "常葉遥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-503"
+  },
+  {
+    "id": 7786,
+    "IDcode": "SDNM-504",
+    "title": "給每個孩子買一臺遊戲機是不是太寵溺了？34歲 最終章 首次多人玩法高潮過頭痙攣失控 ~ 桃井ゆづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-04-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20250303/4783838e-a3ae-45b7-94cc-4ebe08c5a61f.jpg",
+    "actress": [
+      "桃井ゆづき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-504"
+  },
+  {
+    "id": 6663,
+    "IDcode": "SDNM-505",
+    "title": "加班晚歸可不只是工作原因啦！36歲人妻的隱秘約會 ~ 川崎奈々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
     "publish_date": "2025-04-22",
-    "cover_url": "",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/6c707a0c-2d8c-4f3f-bd3f-6d87ef04d815_thumbnail.webp",
+    "actress": [
+      "川崎奈々"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-505"
+  },
+  {
+    "id": 7107,
+    "IDcode": "SDNM-509",
+    "title": "新人出道！天生開朗的34歲人妻繪畫教師初登AV 笑容滿溢變騷亂狂舞 AV DEBUT ~ 今村由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-05-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20250401/6cf178ba-26cb-44f6-b913-c172a5058169.jpg",
+    "actress": [
+      "今村由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-509"
+  },
+  {
+    "id": 5984,
+    "IDcode": "SDNM-510",
+    "title": "加班晚歸不只是工作問題啦！36歲人妻的終極幻想，10個陌生男的狂野顏射讓職場女王美臉全是精華 ~ 川崎奈々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-05-20",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519215923823823_thumbnail.webp",
+    "actress": [
+      "川崎奈々"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-510"
+  },
+  {
+    "id": 6383,
+    "IDcode": "SDNM-512",
+    "title": "天生樂觀的畫師天天笑聲不斷 34歲人妻今村由美第二章 6小時不停歇狂轟猛炸高潮連連 老公回家前趕回家的淫蕩人妻 ~ 今村由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-05-06",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/410cfa6d-be35-4b32-a3d7-5195b6e06ddd_thumbnail.webp",
+    "actress": [
+      "今村由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-512"
+  },
+  {
+    "id": 5604,
+    "IDcode": "SDNM-514",
+    "title": "性格開朗滿屋笑聲 34歲熟女的第三章 讓我隨心所欲吧 完美契合的年下男被蒙眼捆綁調教的癡女約會 ~ 今村由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-06-03",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602202854456456_thumbnail.webp",
+    "actress": [
+      "今村由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-514"
+  },
+  {
+    "id": 2380,
+    "IDcode": "SDNM-517",
+    "title": "SNS粉絲2萬！SOD發掘史上最敏感辣媽 玉井晴香 33歲 AV出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-09-29",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929210847874874_29093_thumbnail.webp",
+    "actress": [
+      "玉井晴香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-517"
+  },
+  {
+    "id": 4817,
+    "IDcode": "SDNM-519",
+    "title": "天生開朗的畫室小姐姐笑容滿面 34歲人妻第四章 白天家裏客廳潮吹噴水爽翻天 禁忌自宅拍攝 ~ 今村由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-07-01",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630233214504504_thumbnail.webp",
+    "actress": [
+      "今村由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-519"
+  },
+  {
+    "id": 4399,
+    "IDcode": "SDNM-520",
+    "title": "都內保險公司F杯少婦理財師上班偷情高潮不停 ~ 三上咲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-07-15",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714221016411411_66350_thumbnail.webp",
+    "actress": [
+      "三上咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-520"
+  },
+  {
+    "id": 3860,
+    "IDcode": "SDNM-523",
+    "title": "天生樂觀派畫室小姐姐笑容滿滿 34歲今村由美 第五章 拋開老公和繁瑣無聊的生活在按摩中徹底放鬆 忍不住直接中出啦 ~ 今村由美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-08-04",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/5a793523-e3ea-4afd-9a89-68dae02062bd_thumbnail.webp",
+    "actress": [
+      "今村由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-523"
+  },
+  {
+    "id": 74040,
+    "IDcode": "SDNT-004",
+    "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case3 専業主婦・広瀬麻里 26歳 AVデビュー 東京都多摩市在住 主人のためにネトラレます",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2019-07-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/5dbf974c78a0e2d3e9a9778b0e4c2ae0.jpg",
+    "actress": [
+      "吉乃桃果"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-004"
+  },
+  {
+    "id": 1627,
+    "IDcode": "SDNT-005",
+    "title": "再現 真正的素人已婚婦女，為了勾引她的丈夫而被迫出現 案例 2 全職家庭主婦 藤谷沙希 26 歲 住在千葉縣富津市 生平第一次赤裸裸的性行為 12 個陌生人' 為她的丈夫Netorare Masu 提供雞巴和總共18 次大量體內射精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "SOD",
+    "publish_date": "2019-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20230403/20230403052416223223.jpg",
+    "actress": [
+      "藤谷咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-005"
+  },
+  {
+    "id": 1559,
+    "IDcode": "SDNT-007",
+    "title": "被想戴綠帽子的丈夫偽裝成真實素人人妻案例5 營業員寺山明里・愛乃零（仮名）30歳 神奈川県相模原市在住",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "SOD",
+    "publish_date": "2019-09-12",
+    "cover_url": "https://picture.yoshiclub.xyz/20230330/cdd93177-20f3-4cfd-a721-93c54ed9c48d.webp",
+    "actress": [
+      "兼咲美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-007"
+  },
+  {
+    "id": 1661,
+    "IDcode": "SDNT-008",
+    "title": "被玩弄的素人人妻 小学校教師・加濑七穗 27歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "SOD",
+    "publish_date": "2019-09-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20230403/1c02f538-a317-49f3-b2e9-748367c71ba8.jpg",
+    "actress": [
+      "加濑七穗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-008"
+  },
+  {
+    "id": 1620,
+    "IDcode": "SDNT-009",
+    "title": "真正的素人已婚婦女，為了勾引她的丈夫，被迫出現。案例7 女裝銷售員田中麻由美（化名） 27歲 同意輪姦和中出 住在埼玉縣川口市 Netorare為她服務丈夫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "SOD",
+    "publish_date": "2019-10-10",
+    "cover_url": "https://picture.yoshiclub.xyz/20230403/524bec6d-eadf-4fa9-8586-6bd347da6ccf.jpg",
+    "actress": [
+      "鈴木真夕"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-009"
+  },
+  {
+    "id": 77131,
+    "IDcode": "SDNT-016",
+    "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case14 看護師・川瀬知子（仮名） 32歳 愛知県名古屋市在住 輪●中出し了承 主人のためにネトラレます",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-01-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/e108b54aa2d3bbea7d9cec6262f01e2c.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-016"
+  },
+  {
+    "id": 81957,
+    "IDcode": "SDNT-018",
+    "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case15 エステ勤務・大友京香（仮名）30歳 東京都在住 AVデビュー 主人のためにネトラレます",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2020-02-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/1cd9dce4a312494de21590af072ab766.jpg",
+    "actress": [
+      "市川润",
+      "大友京香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-018"
+  },
+  {
+    "id": 92854,
+    "IDcode": "SDSS-014",
+    "title": "SDSS014鄰家的巨乳美女大姐姐葵用我的身體來練習騎乘位完全主管性愛小野夕子。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "Luxury TV",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/f44efd3a63b99a87e0e089d4dcdc280d.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-197"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-014"
   },
   {
-    "id": 76269,
-    "IDcode": "HUNTC-198",
-    "title": "総イキ回数120回以上！『チンコでかいの？』『隠してないで見せなよ！』ボクのデカチンが二人の酔った巨乳上司にバレた！欲求不満の性欲モンスター2匹",
+    "id": 92753,
+    "IDcode": "SDSS-057",
+    "title": "女教師だってガマンできない DX7",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/8590c30b/vod.jpg",
+    "company": "Luxury TV",
+    "publish_date": "2006-04-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/045007baaa7f2281f439c13467427d69.jpg",
     "actress": [
-      "永野司"
+      "桃宮もも",
+      "春日峰子",
+      "山口智美",
+      "藤井さやか"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-057"
   },
   {
-    "id": 8073,
-    "IDcode": "HUNTC-201",
-    "title": "很羞恥，別看啊（其實我真的很飢渴……）要是沒人看見，那就沒什麼可羞恥的了！地味害羞青梅竹馬的本性太淫蕩了！ ~ 夢川りあ 小野寺舞 五十嵐美月 宇流木沙羅",
+    "id": 92853,
+    "IDcode": "SDSS-110",
+    "title": "MEGAグラマラス 100cm Gカップ 豊田じゅんな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094554133133.jpg",
+    "company": "Luxury TV",
+    "publish_date": "2008-03-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/d75506277e14b151fbd6678de3832ff2.jpg",
     "actress": [
-      "宇流木沙羅",
-      "小野寺舞",
-      "五十嵐美月",
-      "夢川りあ"
+      "豊田じゅんな"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-201"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-110"
   },
   {
-    "id": 4806,
-    "IDcode": "HUNTC-202",
-    "title": "不愛穿內衣的貧乳妹妹乳頭超敏感！無防備晃蕩被哥哥玩弄到主動求高潮 ~ 桐谷すずね 五十嵐美月 水瀬りた 愛野ひなた",
+    "id": 92758,
+    "IDcode": "SDSS-259",
+    "title": "SDSS259想射精了就呼叫我哦！用口交給病人最棒的關懷唾液和愛液濕潤的護士橋本有菜。。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
+    "company": "Luxury TV",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/0897a1fac31d89b60a2b3c179d4ea1ca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-259"
+  },
+  {
+    "id": 92755,
+    "IDcode": "SDSS-283LuxurySoap",
+    "title": "SDSS283LuxurySoap用禮貌的淫語和打樁的騎乘位款待。天使萌。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "Luxury TV",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/15f4bc4ef1cafdf71f74ee40e377fdba.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-283LuxurySoap"
+  },
+  {
+    "id": 92850,
+    "IDcode": "SDSS-376",
+    "title": "SDSS376極上快感服務！射精無限制的ASIAN回春沙龍橋本有菜。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "Luxury TV",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/4e89ce3dd6f3bdbc055ea3cdcb281f55.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-376"
+  },
+  {
+    "id": 92849,
+    "IDcode": "SDSS-408",
+    "title": "SDSS408家庭教師在學習時的耳邊淫語玩弄乳頭這樣好像會更學不進去...橋本有菜。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "Luxury TV",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/9b14f63080d023e29af234c1e784c2c8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-408"
+  },
+  {
+    "id": 79555,
+    "IDcode": "SDTH-006",
+    "title": "喉奥でドMに豹変する 低音ボイスのむっつり上京娘 東京 板橋区 ■■商店街 看護師1年目 イラマ大好き白石なずなさん（仮名・21歳）夜勤明けに東京観光×AVデビューで中出しまで人生初体験！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2021-08-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/2326c6b778612974fb0901269c47e263.jpg",
+    "actress": [
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-006"
+  },
+  {
+    "id": 67580,
+    "IDcode": "SDTH-017",
+    "title": "エゴマゾ変態ぽちゃ巨乳は首絞めエッチでストレス発散 昼はベビーシッター 子供の笑顔が大好きだけどお酒とHはもっと好き 東京都江戸川区 ■■商店街 シッター3年目七瀬乃愛(仮名・23歳) 仕事終わりに中出しシ放題 AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-06-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250423-1/9f9eeeb69a7595fecba871ed942a0519.jpg",
+    "actress": [
+      "七瀬乃愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-017"
+  },
+  {
+    "id": 86249,
+    "IDcode": "SDTH-024",
+    "title": "これで見納め!?某ショークラブダンサー・愛咲きららクン「最後は思いっきりシたい!」SEXしたくて、有名になりたくてAVに来たザーメン大好きメチャエロ素人ギャルクン!最後は青空の下でSEXもしちゃってエロ詰め込みまくりザーメン出しきり3本番!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-08-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/f58085c66130dd094c563762822d8e3d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-024"
+  },
+  {
+    "id": 67194,
+    "IDcode": "SDTH-027",
+    "title": "スーツを脱いだらメス丸出し。アクメまでがチョロい早漏デカ尻ヤリマン姉さん。 東京都新宿区■■百貨店・宝石販売員 出し尽くすまで潮を吹く遠山まきさん(仮名・28歳)仕事終わりに1週間密着AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2022-09-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250414-1/8a12a60872d570eb79acb67a117cfacf.jpg",
+    "actress": [
+      "遠山まき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-027"
+  },
+  {
+    "id": 107570,
+    "IDcode": "SDTH-037",
+    "title": "大量中出しの翌日も元気に出社♪ 東京都新宿区■■駅南口でよく路上ライブしている会社員とシンガーソングライター二足の草鞋を履く夏花さん(仮名・21歳) 痙攣ビクビク!感極まってナマ挿入をおねだりし、初めての中出しをしてしまった",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2023-04-20",
+    "cover_url": "https://tutu1.space/images/2023/05/17/7e4b9d3bc3b12ff746f616a547d51549.jpg",
+    "actress": [
+      "夏花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-037"
+  },
+  {
+    "id": 2372,
+    "IDcode": "SDTH-042",
+    "title": "嘴裏含着精液慢慢品味！羣馬最溫柔的吞精素人小妹初登場 ~ 園田すい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2025-09-29",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250930/20250930223124950950_46569_thumbnail.webp",
+    "actress": [
+      "園田すい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-042"
+  },
+  {
+    "id": 5096,
+    "IDcode": "SDZS-005",
+    "title": "軟體妊娠啦啦隊 美尻編 ~ 涼宮るな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "豊彥",
     "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/2025061909223233_thumbnail.webp",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622051736544544_thumbnail.webp",
     "actress": [
-      "五十嵐美月",
-      "桐谷すずね",
-      "水瀬りた",
-      "愛野ひなた"
+      "涼宮るな",
+      "伊吹ちな"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-202"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDZS-005"
   },
   {
-    "id": 76081,
-    "IDcode": "HUNTC-213",
-    "title": "超イケてる部活女子たちと入れ喰い数珠繋ぎFUCK状態！2 男は学校にボク1人しかいないからモテてます！部室でサボってるだけでラクロス部、陸上部",
+    "id": 81575,
+    "IDcode": "SE-158",
+    "title": "素人援交生中出し 158",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "",
+    "company": "TMA",
+    "publish_date": "2013-06-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/911e28a219691b307f5de9c72385215c.jpg",
     "actress": [
-      "五十嵐美月"
+      "矢部ひまり"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-213"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SE-158"
   },
   {
-    "id": 7951,
-    "IDcode": "HUNTC-214",
-    "title": "每日中出任務！在學校，我們有一個中出任務系統，女孩們每天輪流讓你中出她們，可以在上課期間進行無限制的中出性愛！ ~ 夢川りあ 雅子里菜 広瀬みつき 美澄玲衣 市川りく",
+    "id": 83212,
+    "IDcode": "SENN-002",
+    "title": "美人看護師が痴女になって患者の性癖分析するために密着中出し性交！ 大浦真奈美",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093833467467.jpg",
+    "company": "SOD",
+    "publish_date": "2019-12-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/f4bdcf557c3d173fe87ca89fdbf08d45.jpg",
     "actress": [
-      "美澄玲衣",
-      "雅子裡菜",
-      "市川りく",
-      "広瀬みつき",
-      "夢川りあ"
+      "大浦真奈美"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-214"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-002"
   },
   {
-    "id": 8805,
-    "IDcode": "HUNTC-217",
-    "title": "當脫掉衣服時，她看起來棒極了！ 我的青梅竹馬，印象裏一直是個小女孩，居然變成了身材拔羣的巨乳女子，都不好意思說我已經完全勃起了！ ~ 有村希 前田美波 椿りか 百仁花",
+    "id": 83213,
+    "IDcode": "SENN-003",
+    "title": "爆乳看護師が不妊で悩む既婚男性患者を治療するために中出し性交 三島奈津子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074703276276.jpg",
+    "company": "SOD",
+    "publish_date": "2019-12-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/22f1f3e39586b3c7b6db49ff01346a92.jpg",
     "actress": [
-      "椿莉香",
-      "有村希",
-      "前田美波",
-      "百仁花"
+      "三岛奈津子"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-217"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-003"
   },
   {
-    "id": 7948,
-    "IDcode": "HUNTC-219",
-    "title": "小惡魔女子校生挑逗處男，將他逼到失去童貞的邊緣，中間僅隔1釐米！ 被戲弄的你再也忍不住了…… ~ 雫月心桜 川栄結愛 千石もなか 今井惠美 葵美玲",
+    "id": 83214,
+    "IDcode": "SENN-004",
+    "title": "ベテラン看護師が患者の命を救うために中出し性交！家族が見守る中、即フェラ、即ハメ騎乗位で懸命に腰を振り続ける！ 水谷あおい",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094454501501.jpg",
+    "company": "SOD",
+    "publish_date": "2019-12-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/e44d6556109ddd0d1a0a0dba91f0f735.jpg",
     "actress": [
-      "千石もなか",
-      "雫月心桜",
-      "今井惠美",
-      "葵美玲",
-      "川栄結愛"
+      "水谷あおい"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-219"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-004"
   },
   {
-    "id": 10078,
-    "IDcode": "HUNTC-223",
-    "title": "附近的雞巴都慢慢的靠近因跑步而興奮的巨乳若妻 ~ 藤井蕾菈 若宮葉月 中丸未來",
+    "id": 83220,
+    "IDcode": "SENN-008",
+    "title": "綺麗な美尻の看護師さんのお尻を揉みっぱなしで治療が受けられる尻フェチ特化性交！ 黒川すみれ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205100833865865.jpg",
+    "company": "SOD",
+    "publish_date": "2020-01-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/de99fcd83f88b8c5a4bfab8c3b5f9c04.jpg",
     "actress": [
-      "若宮葉月",
-      "藤井蕾菈",
-      "中丸未来"
+      "黑川堇"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-223"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-008"
   },
   {
-    "id": 8070,
-    "IDcode": "HUNTC-224",
-    "title": "和M氣質的2位繼妹練習深喉口交時，她們內褲都溼透了！不停着要我快點操她們 ~ 伊織雛乃 皆月光 泉莉音 美園和花 加賀美さら 美澄玲衣",
+    "id": 83370,
+    "IDcode": "SENN-009",
+    "title": "騎乗位特化性交 蓮実看護師 蓮実クレア",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094810604604.jpg",
+    "company": "SOD",
+    "publish_date": "2020-02-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/805116d26d590759ec924ee358089312.jpg",
     "actress": [
-      "美園和花",
-      "皆月光",
-      "美澄玲衣",
-      "泉莉音",
-      "伊織雛乃",
-      "加賀美さら"
+      "蓮実クレア"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-224"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-009"
   },
   {
-    "id": 61750,
-    "IDcode": "HUNTC-225",
-    "title": "ギャル女子○生のたまり場と化したボクの部屋でギャルたちと川の字数珠つなぎFUCK！ボクの部屋をたまり場として利用しているギャルたちはボクを男として意識していないので余裕でお泊り！一緒に川の字で寝てると寝相が超悪く服がかなりはだけて派手な下着が見えたり…",
+    "id": 82029,
+    "IDcode": "SENN-012",
+    "title": "アマゾネス second episode",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-08-12",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/16ad6853/vod.jpg",
+    "company": "SOD",
+    "publish_date": "2020-03-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/3a784f1078d156d90bf9f4c28fb865dc.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-225"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-012"
   },
   {
-    "id": 8780,
-    "IDcode": "HUNTC-228",
-    "title": "「S男這麼變態的嗎？」風俗按摩店氣弱新人被S男操到頂 ~ 二宮桃 美波汐裏 音羽美鈴 川上麗亞",
+    "id": 69018,
+    "IDcode": "SENN-019",
+    "title": "お受験ママが勉強に集中できなくなったショタ息子に性教育 通野未帆",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075750408408.jpg",
+    "company": "SOD",
+    "publish_date": "2020-07-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250409-1/af701285d0891be66462ee9129c6eb51.jpg",
     "actress": [
-      "美波汐里",
-      "二宮桃",
-      "音羽美鈴",
-      "川上麗亞"
+      "通野未帆"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-228"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-019"
   },
   {
-    "id": 4805,
-    "IDcode": "HUNTC-233",
-    "title": "怎麼這麼硬了？惡霸女同學把我這處男給調教得服服帖帖！ ~ 藍瀬ミナ 雫月心桜 皆瀨明裏 日向ひかげ 真白みのり 市川りく",
+    "id": 1554,
+    "IDcode": "SENN-020",
+    "title": "姊姊的女性朋友們是淫蕩正太控 被惡作劇的我",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092038592592_thumbnail.webp",
+    "type": "无码",
+    "company": "SOD",
+    "publish_date": "2020-07-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20230329/20230329041321320320.jpg",
     "actress": [
-      "皆瀨明里",
-      "市川りく",
-      "日向ひかげ",
-      "雫月心桜",
-      "真白みのり",
-      "藍瀬ミナ"
+      "葵玲奈",
+      "安部未華子"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-233"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-020"
   },
   {
-    "id": 4801,
-    "IDcode": "HUNTC-234",
-    "title": "出租我的小窩當情趣酒店 ~ 夏白麻矢 柏木小夏 皆瀨明裏 綾瀬ひまり 星仲ここみ",
+    "id": 65016,
+    "IDcode": "SEON",
+    "title": "偷拍露出臀部的野身姿的女生12名300分-有贺美奈穗。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091747494494_thumbnail.webp",
-    "actress": [
-      "柏木小夏",
-      "皆瀨明里",
-      "星仲ここみ",
-      "夏白麻矢",
-      "綾瀬ひまり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-234"
-  },
-  {
-    "id": 63895,
-    "IDcode": "HUNTC-236",
-    "title": "モテないボクたちの文化祭の模擬店は…脱衣ツイ〇ターゲーム！偏差値低めのボクたちが考えた文化祭の出し物。それは…体が超密着するツイ〇ターゲーム",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-27",
-    "cover_url": "",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240811-1/47d5a1251c0562b22132554377682a9a.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-236"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEON"
   },
   {
-    "id": 10427,
-    "IDcode": "HUNTC-237",
-    "title": "和女孩子的共租生活！超可能無防備！處男也無法不動心！ ~ 五十嵐清華 咲野瑞希 千石もなか",
+    "id": 1647,
+    "IDcode": "SERO-0025",
+    "title": "我要跟秋月麗奈一起去！混浴露天巴士之旅",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122010324628628.jpg",
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "2010-06-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20230404/4221c89c-e57b-42da-937f-c76fd6c3590a.jpg",
     "actress": [
-      "千石もなか",
-      "五十嵐清華",
-      "咲野瑞希"
+      "秋月玲奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-237"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-0025"
   },
   {
-    "id": 67215,
-    "IDcode": "HUNTC-238",
-    "title": "セックス狂いのバツ1アラサー叔母2人がボクのチ〇コをロックオン！母に隠れてボクを問答無用で犯しまくり！実家に帰ってきた叔母2人は毎日欲求不満",
+    "id": 1545,
+    "IDcode": "SERO-0037",
+    "title": "我要跟野波麻衣一起去！混浴露天巴士之旅 野波舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "2010-09-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20230331/22ebee2a-f71f-4f26-908b-a99a27027f97.jpg",
+    "actress": [
+      "絵色千佳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-0037"
+  },
+  {
+    "id": 1615,
+    "IDcode": "SERO-0047",
+    "title": "素人男優挖角in渋谷 「想不想用我的身體來嘗試你的技巧？」 繪色千佳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "2010-11-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20230331/8e89f00c-542c-441b-9b31-6bd3299703f0.jpg",
+    "actress": [
+      "絵色千佳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-0047"
+  },
+  {
+    "id": 95105,
+    "IDcode": "SERO-170",
+    "title": "入国審査で脱がされた女子大生 愛沢有紗",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-04-22",
-    "cover_url": "",
+    "company": "TMA",
+    "publish_date": "2013-03-22",
+    "cover_url": "https://tutu1.space/images/2024/11/17/dd143753aef7c14141833098e4937f6e.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-238"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-170"
   },
   {
-    "id": 69463,
-    "IDcode": "HUNTC-240",
-    "title": "- どこへでもドア「キャー、エッチ！何でここにいるの？早く出てってよ！」そのドアを使うとどこへでも行けるんです！そしてどこででもイケるんです！3 - JAV目錄大全javmenu.com",
+    "id": 94265,
+    "IDcode": "SETM-024",
+    "title": "スタンガン感電ショック003",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2024-08-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/24c1a3df5adbf1f5c2c2ddbb3025b2db.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-240"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-024"
   },
   {
-    "id": 66651,
-    "IDcode": "HUNTC-241",
-    "title": "「今日からいっぱい甘えていいからね」父が2度目の離婚！ボクは若くて美人で巨乳な義母に引き取られる事に！超エロいので同居生活が楽しみ！",
+    "id": 94244,
+    "IDcode": "SETM-028",
+    "title": "カップル○襲催○ガスNTR記録映像集4組284分",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-13",
-    "cover_url": "https://tutu1.space/images/2025/06/15/6417f7d32204139b81f61902665a1367.jpg",
+    "company": "SOD",
+    "publish_date": "2024-07-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/a0e04f134c0ebb7243b513aee9216f90.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-241"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-028"
   },
   {
-    "id": 72797,
-    "IDcode": "HUNTC-243",
-    "title": "下着メーカーに就職したら男はボク1人！勤務時間はほぼ女性社員たちとエッチしまくり数珠繋ぎSEX！勃起しなくなるまで中出しSEX！",
+    "id": 13879,
+    "IDcode": "SETM-029",
+    "title": "入院前健康檢查 ~ 望実かなえ 甘井くるみ 空野きら",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "",
+    "company": "SOD",
+    "publish_date": "2024-07-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240618/6664cc96-83ac-454d-8f38-d2c0396a7e05.jpg",
+    "actress": [
+      "甘井くるみ",
+      "望実かなえ",
+      "空野きら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-029"
+  },
+  {
+    "id": 94270,
+    "IDcode": "SETM-030",
+    "title": "カップル〇襲 催〇ガスNTR記録映像集4組246分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "2024-08-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/b9bb17196da276227fc2574885db74b4.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-243"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-030"
   },
   {
-    "id": 76158,
-    "IDcode": "HUNTC-245",
-    "title": "『お兄ちゃんの大きいおちんちん挿れて！』彼女には大き過ぎて入らなかったデカチンを喜んで受け入れイキまくる義妹！デカチン過ぎて彼女にフラれて…",
+    "id": 14063,
+    "IDcode": "SEVEN-001",
+    "title": "我的淫蕩色情體驗......在海濱別墅遇到了一個可愛淫蕩的GAL店員，在女友洗澡的時候她偷偷摸摸地約我出去 ~ 乙愛麗絲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "",
+    "company": "BOTAN",
+    "publish_date": "2024-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035802546546.jpg",
+    "actress": [
+      "乙愛麗絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEVEN-001"
+  },
+  {
+    "id": 12900,
+    "IDcode": "SEVEN-002",
+    "title": "夏日裏的愛麗絲。我初戀的情感色情物語..... ~ 乙愛麗絲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "BOTAN",
+    "publish_date": "2024-09-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240804/20240804223444110110.jpg",
+    "actress": [
+      "乙愛麗絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEVEN-002"
+  },
+  {
+    "id": 13507,
+    "IDcode": "SEVEN-003",
+    "title": "我的幸運約炮體驗，在約炮APP上約了位咖啡店的美女店員，做愛後才發現她是個性變態 ~ 美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "BOTAN",
+    "publish_date": "2024-08-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240707/202407070351276161.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEVEN-003"
+  },
+  {
+    "id": 11120,
+    "IDcode": "SEVEN-007",
+    "title": "婚禮上遇到的非常色情的婚外故事 ~ 波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "BOTAN",
+    "publish_date": "2024-11-15",
+    "cover_url": "https://picture.yoshiclub.xyz/20241020/202410202224538282.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEVEN-007"
+  },
+  {
+    "id": 64150,
+    "IDcode": "SEX-28",
+    "title": "【租借阿姨】只要求她就可以偷偷中出SEX28-花井滴。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240830-1/06b9546553f52cc93c2b05c848188006.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-245"
-  },
-  {
-    "id": 69444,
-    "IDcode": "HUNTC-246",
-    "title": "- 親に隠れて妹とキスだけの約束の生活。「キスだけ…兄妹なんだから…」大人になった妹とキスだけの約束のはずが我慢できず…。久しぶりに帰省したら… - JAV目錄大全javmenu.com",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-246"
-  },
-  {
-    "id": 8828,
-    "IDcode": "HUNTC-247",
-    "title": "沒關系……今天射在我體內也可以…… 她的情人是她的丈夫的弟弟，無法抗拒自己的本能，陷入了不倫和對性的貪婪之中 ~ 戶川奈美 有村希 咲野瑞希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073535689689.jpg",
-    "actress": [
-      "有村希",
-      "戶川奈美",
-      "咲野瑞希"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-247"
-  },
-  {
-    "id": 4804,
-    "IDcode": "HUNTC-252",
-    "title": "學妹和老師都在這裏兼職？廢棄體育倉庫裏的祕密回春按摩店，課後無限爽到爆 ~ 岡本莉裏 桃木結愛 岬梓沙 美澄玲衣 乃木ちはる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091935996996_thumbnail.webp",
-    "actress": [
-      "美澄玲衣",
-      "岡本莉里",
-      "岬梓沙",
-      "乃木ちはる",
-      "桃木結愛"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-252"
-  },
-  {
-    "id": 8779,
-    "IDcode": "HUNTC-256",
-    "title": "爲什麼我這麼粗俗？發自心底的聲音！超內氣繼妹被我每天操，她變的非常敏感早漏體質！3變態女子編 ~ 泉莉音 前田美波 小島美子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/202501230753342020.jpg",
-    "actress": [
-      "前田美波",
-      "泉莉音",
-      "小島美子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-256"
-  },
-  {
-    "id": 78588,
-    "IDcode": "HUNTC-259",
-    "title": "ゴミ屋敷清掃員パートの若妻たちがボクのため込んだ大量のオナティッシュから漂うザーメン臭に大興奮！ゴミ山に隠れてSEX三昧！部屋もキンタマ…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "",
-    "actress": [
-      "辻井穗乃果"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-259"
-  },
-  {
-    "id": 10423,
-    "IDcode": "HUNTC-262",
-    "title": "把無家可歸的神待少女帶回家後立即推倒操她 ~ 藍瀬ミナ 柏木小夏 菊池春 五十嵐美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/2024112200555066.jpg",
-    "actress": [
-      "柏木小夏",
-      "菊池春",
-      "五十嵐美月",
-      "藍瀬ミナ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-262"
-  },
-  {
-    "id": 3324,
-    "IDcode": "HUNTC-263",
-    "title": "思春期騷動 不管誰插都能讓我爽到爆！ ~ 雫月心桜 柏木小夏 五十嵐清華 千石もなか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024949632632_55364_thumbnail.webp",
-    "actress": [
-      "柏木小夏",
-      "千石もなか",
-      "五十嵐清華",
-      "雫月心桜",
-      "マサムー"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-263"
-  },
-  {
-    "id": 76069,
-    "IDcode": "HUNTC-268",
-    "title": "触れられた瞬間、溜まりに溜まった性欲が大暴発！ケガで両手が使えない（オナニーもできない）ボクのために日直女子がオシッコの手伝いを…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/22595de7/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-268"
-  },
-  {
-    "id": 4595,
-    "IDcode": "HUNTC-270",
-    "title": "天啊…我咋能露出這麼色情的表情？溫柔又膽小的義姐被我天天玩弄乳頭後，變成敏感小騷貨瘋狂高潮 ~ 葉月ひな 木下日葵 宮西光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/202507030838219393_thumbnail.webp",
-    "actress": [
-      "木下日葵",
-      "宮西光",
-      "葉月ひな"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-270"
-  },
-  {
-    "id": 63826,
-    "IDcode": "HUNTC-273",
-    "title": "『中に出していいよ！』『他に出す所ある？』『どうする？我慢できる？』ロングスカート内でこっそり挿入しちゃう小悪魔女子は夜行バス、電車、…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-27",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-273"
-  },
-  {
-    "id": 69455,
-    "IDcode": "HUNTC-274",
-    "title": "- 妻の女友達2人とヤッては寝て…を繰り返すだけの狂った三日間。ボクの妻が帰省中に妻の友達と浮気セックスしまくりのヤリ部屋となったボクと妻の寝室 - JAV目錄大全javmenu.com",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/d45fc7e5/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-274"
-  },
-  {
-    "id": 76157,
-    "IDcode": "HUNTC-276",
-    "title": "マジックミラーNTRマッサージ「本当に向こうから見えてないですか？」彼氏が隣にいるのに我慢できず大量潮吹きするほど感じまくる女子○生！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "",
-    "actress": [
-      "藤田梢"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-276"
-  },
-  {
-    "id": 8469,
-    "IDcode": "HUNTC-277",
-    "title": "我不知道我能堅持多久 我的青梅竹馬是女同，她和她的女友都想被我操 ~ 藤田柚 天馬唯 雅子裡菜 千石もなか 五十嵐美月 加賀美さら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080354780780.jpg",
-    "actress": [
-      "天馬唯",
-      "千石もなか",
-      "雅子裡菜",
-      "藤田柚",
-      "五十嵐美月",
-      "加賀美さら"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-277"
-  },
-  {
-    "id": 63866,
-    "IDcode": "HUNTC-279",
-    "title": "見逃さないで！ヤリたがりのサイン。言葉なんていらない！やたらと視線を合わせてくる美女は100％ヤれる！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-27",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/03/b18343ed/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-279"
-  },
-  {
-    "id": 66650,
-    "IDcode": "HUNTC-283",
-    "title": "「そんなに乳首いじられたら、おち○ちん欲しくなっちゃう…」上司の娘をチクビハラスメントで敏感早漏体質に仕立てあげ何度もチクビイキさせまくり！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-13",
-    "cover_url": "https://tutu1.space/images/2025/06/15/ca2576608d114995aacef6d1b7c06838.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-283"
-  },
-  {
-    "id": 72814,
-    "IDcode": "HUNTC-284",
-    "title": "すごい…しゃぶりつきたい…ボクの朝勃ちチ〇ポで欲情した兄嫁が即尺！何度射精しようが追撃バキュームフェラで何度も何度も搾り尽くされました！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/07/15fe84a4/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-284"
-  },
-  {
-    "id": 8360,
-    "IDcode": "HUNTC-285",
-    "title": "我們這樣學習正經嗎? 復習累了的女同學們，開始釋放她們的性欲了... ~ 乙羽あむ 泉莉音 市井結夏 宇流木沙羅 市川りく 泉田栞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080953584584.jpg",
-    "actress": [
-      "宇流木沙羅",
-      "泉莉音",
-      "市川りく",
-      "市井結夏",
-      "乙羽あむ",
-      "泉田栞"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-285"
-  },
-  {
-    "id": 10786,
-    "IDcode": "HUNTC-291",
-    "title": "學校公認！插入率100%！每個月的7日是幸運日！校內將舉辦激烈的大亂交活動！與高規格女孩做愛吧！ ~ 本田瞳 王十嵐清華 愛瀨優裏 小野寺舞 千鶴えま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20241108/20241108045851607607.jpg",
-    "actress": [
-      "本田瞳",
-      "五十嵐清華",
-      "愛瀬優里",
-      "小野寺舞",
-      "千鶴えま"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-291"
-  },
-  {
-    "id": 10111,
-    "IDcode": "HUNTC-295",
-    "title": "如果有大雞巴犒勞的話，我們一定好好練習！ 女子田徑合宿我的雞巴根本沒有喘息的機會!！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20241206/20241206065355719719.jpg",
-    "actress": [
-      "皆月光",
-      "由良佳奈",
-      "有栖舞衣",
-      "五十嵐清華",
-      "泉莉音",
-      "愛瀬優里",
-      "市川りく",
-      "乙羽あむ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-295"
-  },
-  {
-    "id": 10463,
-    "IDcode": "HUNTC-296",
-    "title": "會讀心術的電車癡漢！第2作！ 請不要，不要停！ 癡漢完全聽到了被害者女性心裏真正的想法 ~ 藤井蕾菈 椿りか 宮西光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122002624892892.jpg",
-    "actress": [
-      "椿莉香",
-      "宮西光",
-      "藤井蕾菈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-296"
-  },
-  {
-    "id": 76147,
-    "IDcode": "HUNTC-297",
-    "title": "だれとでも定額挿れ放題！零細企業編 月々定額料金さえ支払えば、社内に出入りする女性であれば誰でも、出前の配達員でも清掃員でも…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/images/2025/09/12/29b72147473de58495cd82fe994025e4.jpg",
-    "actress": [
-      "椿莉香",
-      "宮城理惠",
-      "五十嵐美月"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-297"
-  },
-  {
-    "id": 8804,
-    "IDcode": "HUNTC-298",
-    "title": "「我們是不是很有魅力？」巨乳女子們爭搶我的雞巴 ~ 清巳麗乃 愛瀨里裏 花柳杏奈 千鶴えま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075623148148.jpg",
-    "actress": [
-      "清巳麗乃",
-      "愛瀬優里",
-      "花柳杏奈",
-      "千鶴えま"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-298"
-  },
-  {
-    "id": 10076,
-    "IDcode": "HUNTC-302",
-    "title": "就站在樓道上的風俗若妻！1.5K如何？可以在我家做，不需要花酒店錢！大久保公園的援交若妻最近被嚴厲鎮取締 ~ 堀北実來",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205100917414414.jpg",
-    "actress": [
-      "本田瞳",
-      "葵百合香",
-      "堀北実来",
-      "真木今日子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-302"
-  },
-  {
-    "id": 8064,
-    "IDcode": "HUNTC-303",
-    "title": "隨時隨地隨便操！町工場編 。爲了挽救瀕臨破產的工廠，只要每個月付點錢，廠裏的女性員工包括社長夫在在內都可以隨便操！ Vol.2 ~ 乙愛麗絲 椎菜える 藤井蕾菈 瀬那瑠美奈 高橋ほなみ 由良佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093745721721.jpg",
-    "actress": [
-      "乙愛麗絲",
-      "由良佳奈",
-      "藤井蕾菈",
-      "瀬那瑠美奈",
-      "高橋ほなみ",
-      "椎菜える"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-303"
-  },
-  {
-    "id": 71231,
-    "IDcode": "HUNTC-304",
-    "title": "エロ漫画の様な被害者女性の心の声が聞こえる電車痴●！！＆時間停止×心の声ver特別収録！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-03-11",
-    "cover_url": "https://tutu1.space/images/2025/07/26/85b787832b4a9de676f3b1dc4129633a.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-304"
-  },
-  {
-    "id": 8767,
-    "IDcode": "HUNTC-306",
-    "title": "任何人都可以插入！老虎機編！ 定額制的老虎機店，如果你贏了，店裏的女人都可以插 ~ 美木雛乃 雅子裡菜 五十嵐清華 星七奈奈美 白石なぎさ 宇佐美みおん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073229643643.jpg",
-    "actress": [
-      "五十嵐清華",
-      "白石渚",
-      "雅子裡菜",
-      "美木雛乃",
-      "星七奈奈美",
-      "宇佐美みおん"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-306"
-  },
-  {
-    "id": 8059,
-    "IDcode": "HUNTC-307",
-    "title": "什麼東西？別藏起來！給我看看！公司旅行中，巨乳女同事發現了我的大雞巴並且開始爭搶它！ ~ 藤井蕾菈 星七奈奈美 美丘さとみ 天宮かすみ 沙優七羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093334783783.jpg",
-    "actress": [
-      "藤井蕾菈",
-      "美丘さとみ",
-      "星七奈奈美",
-      "天宮かすみ",
-      "沙優七羽"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-307"
-  },
-  {
-    "id": 76268,
-    "IDcode": "HUNTC-308",
-    "title": "巨乳ばかりのシェアハウスに入居したら…その日に即童貞喪失！初めてなのに一日に5人の巨乳美女とSEX！でも一度では満足してもらえず…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/6daa990d/vod.jpg",
-    "actress": [
-      "永野司"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-308"
-  },
-  {
-    "id": 69570,
-    "IDcode": "HUNTC-310",
-    "title": "えっ！？80％？なにこの数字？ヤレる確率が可視化されてボクだけに見える世界！オフィス編 なんだその頭の上に見えてる数字は！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-04-08",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/76dae883/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-310"
-  },
-  {
-    "id": 8771,
-    "IDcode": "HUNTC-311",
-    "title": "3年C組的文化祭模擬店 時間停止 3。隨時停止！時間停止咖啡館隨時允許插入 ~ 藤田柚 天美めあ 川栄結愛 雅子裏菜 星七奈奈美 宮崎玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073114732732.jpg",
-    "actress": [
-      "雅子裡菜",
-      "星七奈奈美",
-      "藤田梢",
-      "天美めあ",
-      "藤田柚",
-      "川栄結愛",
-      "宮崎玲"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-311"
-  },
-  {
-    "id": 8770,
-    "IDcode": "HUNTC-312",
-    "title": "潮噴女生宿舍！從早上就開始噴！被關在女生宿舍裏，裏面擠滿了欲求不滿的姐姐 ~ 桐香悠裡 天晴乃愛 前田美波 星空萌愛 咲野瑞希 鬆井日奈子 上阪芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/202501230739531212.jpg",
-    "actress": [
-      "前田美波",
-      "松井日奈子",
-      "天晴乃愛",
-      "桐香悠裡",
-      "上坂芽衣",
-      "咲野瑞希",
-      "星空萌愛"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-312"
-  },
-  {
-    "id": 67214,
-    "IDcode": "HUNTC-313",
-    "title": "確変モテ期突入！2週間の教育実習でモテすぎたボクは教え子たちと学校中でこっそりエッチしまくり！ボクの精子を巡って赤ちゃん作り競争勃発！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-04-22",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-313"
-  },
-  {
-    "id": 76065,
-    "IDcode": "HUNTC-314",
-    "title": "「えっ！？コレが実習？」エステ専門学校に入学したら男はボク1人！実習はタオル1枚の女子の体を触りまくり！ボクの股間は触られまくりでフル勃起6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/ddb06851/vod.jpg",
-    "actress": [
-      "前乃菜菜",
-      "冬爱琴音"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-314"
-  },
-  {
-    "id": 8363,
-    "IDcode": "HUNTC-315",
-    "title": "修學旅行，與10名可愛女同學進行200％親密後宮亂交！ 2 ~ 川栄結愛 乙葉らぶ 有棲舞衣 愛瀬優裏 泉莉音 等",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080232110110.jpg",
-    "actress": [
-      "有栖舞衣",
-      "宇流木沙羅",
-      "泉莉音",
-      "愛瀬優里",
-      "市川りく",
-      "小島美子",
-      "市井結夏",
-      "五十嵐美月",
-      "川栄結愛",
-      "乙葉らぶ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-315"
-  },
-  {
-    "id": 72822,
-    "IDcode": "HUNTC-319",
-    "title": "えっ！？80％？なにこの数字？ヤレる確率が可視化されてボクだけに見える世界！2 なんだその頭の上に見えてる数字は！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-319"
-  },
-  {
-    "id": 69568,
-    "IDcode": "HUNTC-320",
-    "title": "学校公認！女子トイレちょんの間！旧校舎の女子トイレに男子生徒が行列！帰る前にサクッと一発！ホテル代もかからずSEXは校内！交渉次第では…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-04-08",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-320"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEX-28"
   }
 ];

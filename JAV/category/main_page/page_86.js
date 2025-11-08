@@ -1,1402 +1,1605 @@
 window.PAGE_DATA = [
   {
-    "id": 115132,
-    "IDcode": "FC2-3550700",
-    "title": "拥有一半印度尼西亚血统F罩杯女孩",
+    "id": 79986,
+    "IDcode": "JUFE-348",
+    "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 伊東める",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/dca99eef/vod.jpg",
+    "company": "FITCH",
+    "publish_date": "2021-11-16",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ad50910b88657ad0a01e70727e4a6f16.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3550700"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-348"
   },
   {
-    "id": 115127,
-    "IDcode": "FC2-3553045",
-    "title": "短发美丽偶像型女孩",
+    "id": 80232,
+    "IDcode": "JUFE-350",
+    "title": "立場逆転で性感帯を3点同時責め！巨乳の義妹達に絶倫童貞チ○ポを犯●れ続ける強●ハーレムSEX 三舩みすず 朝倉ここな 美園和花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/a0b562b7/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3553045"
+    "company": "FITCH",
+    "publish_date": "2021-12-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/ed71bd3dbef694c25d53ead6a109f9e9.jpg",
+    "actress": [
+      "美園和花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-350"
   },
   {
-    "id": 115152,
-    "IDcode": "FC2-3553768",
-    "title": "无法摆脱债务新婚妻子",
+    "id": 80230,
+    "IDcode": "JUFE-351",
+    "title": "コンドームが破れて生ハメになった途端に激しくなる快感とピストン！欲求不満な爆乳むっちり妻の汗だく中出し肉弾交尾 推川ゆうり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/56bd37f9/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3553768"
+    "company": "FITCH",
+    "publish_date": "2021-12-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/7d360ea76ad1d3c7d5b64134aa83bb55.jpg",
+    "actress": [
+      "推川悠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-351"
   },
   {
-    "id": 115128,
-    "IDcode": "FC2-3554052",
-    "title": "完全看不出40多岁的超窈窕美人妻",
+    "id": 84887,
+    "IDcode": "JUFE-352",
+    "title": "悩める僕らのココロとチ○ポを気持ち良く癒してくれるバブみが強い爆乳管理人さん！ 桃園怜奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/2584433c/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3554052"
+    "company": "FITCH",
+    "publish_date": "2021-12-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230116-1/b7fe8b789405363566a6c51dc016464f.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-352"
   },
   {
-    "id": 115133,
-    "IDcode": "FC2-3557713",
-    "title": "看起来比实际年龄大五岁的混血时装模特",
+    "id": 84906,
+    "IDcode": "JUFE-361",
+    "title": "美しい人妻のねっとり甘い接吻と高級ランジェリーSEX 田舎育ちの僕を誘惑する都会暮らしの叔父の妻 蜜美杏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3557713"
+    "company": "FITCH",
+    "publish_date": "2022-01-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230116-1/b3b8221ed0c62bdc7b7521d56edb20ce.jpg",
+    "actress": [
+      "藤井蘭々",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-361"
   },
   {
-    "id": 115138,
-    "IDcode": "FC2-3568366",
-    "title": "韩国偶像团体",
+    "id": 85025,
+    "IDcode": "JUFE-363",
+    "title": "Icup爆乳ザーメン便器 教師と生徒に輪●され堕ちて行く教育実習生 宝田もなみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3568366"
+    "company": "FITCH",
+    "publish_date": "2022-01-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/e0de358d73006c971514f5fa5bfe838f.jpg",
+    "actress": [
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-363"
   },
   {
-    "id": 115143,
-    "IDcode": "FC2-3573442",
-    "title": "笑容灿烂的G罩杯女大学生",
+    "id": 85049,
+    "IDcode": "JUFE-365",
+    "title": "出張先の旅館でまさかの相部屋！大嫌いな上司に死ぬほどイカされて… ～巨根でゲスな地方テレビ局の部長編～ 優里なお",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "",
+    "company": "FITCH",
+    "publish_date": "2022-02-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/94b3c0d20835a74d6981d7de465a3e98.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3573442"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-365"
   },
   {
-    "id": 115139,
-    "IDcode": "FC2-3575183",
-    "title": "美丽的模特",
+    "id": 80951,
+    "IDcode": "JUFE-372",
+    "title": "立場逆転で性感帯を3点同時責め！巨乳の義妹達に絶倫童貞チ○ポを犯●れ続ける強●ハーレムSEX さつき芽衣 稲場るか 結城りの",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3575183"
+    "company": "FITCH",
+    "publish_date": "2022-03-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/fddd8310bb2407eb1b09940621980e8b.jpg",
+    "actress": [
+      "沙月芽衣",
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-372"
   },
   {
-    "id": 115161,
-    "IDcode": "FC2-3575791",
-    "title": "大受欢迎的好女孩",
+    "id": 81143,
+    "IDcode": "JUFE-376",
+    "title": "新人 敏感過ぎるGカップ現役女子大生 花柳杏奈19歳AVデビュー",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "",
+    "company": "FITCH",
+    "publish_date": "2022-03-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/558a9aa6df9ff51bd0ed3a6bc9254159.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3575791"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-376"
   },
   {
-    "id": 115163,
-    "IDcode": "FC2-3576367",
-    "title": "不成熟的E罩杯",
+    "id": 81168,
+    "IDcode": "JUFE-378",
+    "title": "美しい人妻のねっとり甘い接吻と高級ランジェリーSEX 田舎育ちの僕を誘惑する都会暮らしの叔父の妻 篠田ゆう",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3576367"
+    "company": "FITCH",
+    "publish_date": "2022-03-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/59abe95f26dc9c9c919adba4abba6955.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-378"
   },
   {
-    "id": 115129,
-    "IDcode": "FC2-3577715",
-    "title": "白上咲花无码流出JK制服清纯美女",
+    "id": 85031,
+    "IDcode": "JUFE-381",
+    "title": "保險套都幹破了激情快感抽插！欲求不滿爆乳肉感妻子的流汗中出肉彈交尾 田中寧寧",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3577715"
+    "company": "FITCH",
+    "publish_date": "2022-04-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/a2405f3824e9244e0cc37f21fce60554.jpg",
+    "actress": [
+      "田中寧寧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-381"
   },
   {
-    "id": 115148,
-    "IDcode": "FC2-3582381",
-    "title": "拥有八头身清纯少女",
+    "id": 84983,
+    "IDcode": "JUFE-383",
+    "title": "祝・桃園怜奈 共演解禁！ W天然爆乳美女に挟み込まれる逆3P快感密着メンズエステ 本真ゆり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/e25b9930/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3582381"
+    "company": "FITCH",
+    "publish_date": "2022-04-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/6d0f26740567ac242a1351af2bccb00c.jpg",
+    "actress": [
+      "本真友里",
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-383"
   },
   {
-    "id": 115347,
-    "IDcode": "FC2-3582507",
-    "title": "我真的非常需要钱",
+    "id": 85003,
+    "IDcode": "JUFE-393",
+    "title": "人生初の中出し解禁！ 常に若女将が密着つきっきりで丁寧に貴方の肉棒をもてなす最高の射精旅館 伊織羽音",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/9503afaf/vod.jpg",
+    "company": "FITCH",
+    "publish_date": "2022-06-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/aac4189e116233c39cde78406be723a1.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3582507"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-393"
   },
   {
-    "id": 115157,
-    "IDcode": "FC2-3582546",
-    "title": "我发现我朋友的女朋友在外面做爱",
+    "id": 85028,
+    "IDcode": "JUFE-398",
+    "title": "不想讓家人知道掌握住大嫂弱點的我一面展現討厭臉蛋一面對柔嫩白虎小穴中出… 新村晶",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/81d6c42b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3582546"
+    "company": "FITCH",
+    "publish_date": "2022-06-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/3bb14cfe73ad8a547da07ce72498e355.jpg",
+    "actress": [
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-398"
   },
   {
-    "id": 115159,
-    "IDcode": "FC2-3582556",
-    "title": "女优级别的美艳前女友",
+    "id": 100649,
+    "IDcode": "JUFE-400",
+    "title": "巨乳癡女淫語射精管理究極自慰指令 北野未奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/86f6c88d/vod.jpg",
+    "company": "FITCH",
+    "publish_date": "2022-08-02",
+    "cover_url": "https://tutu1.space/images/2023/04/23/ee1419764b067d5243f684b13b3c8783.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3582556"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-400"
   },
   {
-    "id": 115135,
-    "IDcode": "FC2-3582569",
-    "title": "她丰满的乳房在猛烈的撞击下颤抖",
+    "id": 85026,
+    "IDcode": "JUFE-407",
+    "title": "【FANZA限定】究極のフェラチオ！！男性器をおクチ診療するバキューム吸引クリニック 新村あかり 川原りま 生写真5枚付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-04",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3582569"
+    "company": "FITCH",
+    "publish_date": "2022-07-20",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/d655eb465640f0a8e48e7a67c3c48c24.jpg",
+    "actress": [
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-407"
   },
   {
-    "id": 115123,
-    "IDcode": "FC2-3592213",
-    "title": "毛茸茸的阴户的艺术",
+    "id": 84977,
+    "IDcode": "JUFE-410",
+    "title": "彼女が家に来ているときに限って… ブリンブリンなノーパン巨尻を擦りつけて僕の精子を根こそぎ搾り出す幼馴染 瀬田一花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-06",
-    "cover_url": "https://tutu1.space/images/2025/09/05/7c61f912b78d68e0b33ba64945036a18.jpg",
+    "company": "FITCH",
+    "publish_date": "2022-08-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/1ce628222ece58c08598e78b7d2bc0c7.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3592213"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-410"
   },
   {
-    "id": 115294,
-    "IDcode": "FC2-3595097",
-    "title": "看一看就明白",
+    "id": 85002,
+    "IDcode": "JUFE-418",
+    "title": "髪を切りに行ったらこんな衣装で接客されてガチ勃起不可避！大事なとこだけ全部丸出しのむっちり可愛い逆バニーがいる美容室 瀬田一花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/835e943c/vod.jpg",
+    "company": "FITCH",
+    "publish_date": "2022-09-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/95f5e6e42a2c603f274472aa027b1d2d.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3595097"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-418"
   },
   {
-    "id": 115316,
-    "IDcode": "FC2-3595278",
-    "title": "女人兴奋的视频",
+    "id": 85007,
+    "IDcode": "JUFE-421",
+    "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 宝田もなみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/dd46409d/vod.jpg",
+    "company": "FITCH",
+    "publish_date": "2022-09-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/a37c67bae252d098b683fc030bdc86c3.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3595278"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-421"
   },
   {
-    "id": 115685,
-    "IDcode": "FC2-3596827",
-    "title": "拥有G罩杯美胸的Kana酱",
+    "id": 106892,
+    "IDcode": "JUFE-425",
+    "title": "俺をムショ送りにした君へ媚薬と堪りまくったザーメンを届けに行くね 美ボディOL復讐レ●プドキュメント 天川そら",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-27",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3596827"
+    "company": "FITCH",
+    "publish_date": "2022-09-20",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jufe425/jufe425pl.jpg",
+    "actress": [
+      "天川空"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-425"
   },
   {
-    "id": 115328,
-    "IDcode": "FC2-3600389",
-    "title": "美丽的婚礼策划师",
+    "id": 85005,
+    "IDcode": "JUFE-426",
+    "title": "【FANZA限定】美しい人妻のねっとり甘い接吻と高級ランジェリーSEX 田舎育ちの僕を誘惑する都会暮らしの叔父の妻 佐山愛 生写真5枚付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3600389"
+    "company": "FITCH",
+    "publish_date": "2022-10-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/1c6c3db6b191273c6fd6defa68e51760.jpg",
+    "actress": [
+      "佐山爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-426"
   },
   {
-    "id": 115329,
-    "IDcode": "FC2-3601449",
-    "title": "超可爱的女神突然降临",
+    "id": 85027,
+    "IDcode": "JUFE-427",
+    "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 綾瀬こころ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3601449"
+    "company": "FITCH",
+    "publish_date": "2022-10-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/9a96cbaea4233153b68e273facec966c.jpg",
+    "actress": [
+      "绫濑心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-427"
   },
   {
-    "id": 115352,
-    "IDcode": "FC2-3601531",
-    "title": "在厕所遇到一个女孩",
+    "id": 106893,
+    "IDcode": "JUFE-429",
+    "title": "想要嘗試最舒服的性愛 憧憬AV女優應募而來親切笑臉可愛的肉感現役女大生 亞乃音未來19歳AV出道！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3601531"
+    "company": "FITCH",
+    "publish_date": "2022-10-19",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jufe429/jufe429pl.jpg",
+    "actress": [
+      "あのね未来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-429"
   },
   {
-    "id": 115308,
-    "IDcode": "FC2-3601855",
-    "title": "带着一位美丽的已婚妇女来到我的房间",
+    "id": 85001,
+    "IDcode": "JUFE-430",
+    "title": "気弱なオタクの童貞チ○ポが想像以上に凄すぎて… 天然Icupを揺らしながらトロけたメスの顔して何度もイッちゃう爆乳ギャル 桃園怜奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3601855"
+    "company": "FITCH",
+    "publish_date": "2022-10-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/a9e1d5a5c321486cf58811e04af53ed4.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-430"
   },
   {
-    "id": 115296,
-    "IDcode": "FC2-3601984",
-    "title": "金融行业超级淫荡职业女性",
+    "id": 85030,
+    "IDcode": "JUFE-434",
+    "title": "爆乳キメセク潮吹き絶頂 彼氏が居るすぐ隣で整体師に寝取られて… 松本菜奈実",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/e10ba600/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3601984"
+    "company": "FITCH",
+    "publish_date": "2022-11-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/d6ed917740b122c09be2717272640d46.jpg",
+    "actress": [
+      "松本菜奈実",
+      "森林原人",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-434"
   },
   {
-    "id": 115330,
-    "IDcode": "FC2-3602845",
-    "title": "素颜超可爱超过60万粉丝网红",
+    "id": 67436,
+    "IDcode": "JUFE-435",
+    "title": "叫傳播妹結果來的是公司同事…這女的今天起就是我的無套抽插爆乳玩具 桃園怜奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3602845"
+    "company": "FITCH",
+    "publish_date": "2022-11-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250420-1/06a68c5a5fb10ec2b8b5b35993ff94f3.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-435"
   },
   {
-    "id": 115301,
-    "IDcode": "FC2-3602875",
-    "title": "你可以把它放进去",
+    "id": 68133,
+    "IDcode": "JUFE-437",
+    "title": "泊りに行ったらこんな衣装で接客されてガチ勃起不可避！大事なとこだけ全部丸出しのむっちり綺麗な逆バニーがいる民宿 佐山愛",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3602875"
+    "company": "FITCH",
+    "publish_date": "2022-11-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250413-1/369cc9a49406846e1e360ecfe5f9f396.jpg",
+    "actress": [
+      "佐山爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-437"
   },
   {
-    "id": 115349,
-    "IDcode": "FC2-3603505",
-    "title": "整洁纯真的大学生",
+    "id": 104378,
+    "IDcode": "JUFE-461",
+    "title": "【FANZA限定】色気が溢れる大人の女に耳舐めされながら甘い吐息で囁かれる下品な淫語責め 森沢かな 生写真付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3603505"
+    "company": "FITCH",
+    "publish_date": "2023-04-05",
+    "cover_url": "https://tutu1.space/images/2023/04/15/fd012ec0934cf9c6503641d58e052094.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-461"
   },
   {
-    "id": 115298,
-    "IDcode": "FC2-3603565",
-    "title": "高潮女王",
+    "id": 77589,
+    "IDcode": "JUFE-462",
+    "title": "【FANZA限定】透けパン巨尻で無自覚に誘惑！近隣の男達を青春勃起させてしまいデカチン鬼ピストンで何度も中出しされちゃう天然奥さん 滝ゆいな 生写真2枚付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/5ccec2d6/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3603565"
+    "company": "FITCH",
+    "publish_date": "2023-04-19",
+    "cover_url": "https://tutu1.space/images/2023/05/09/d431d43a7e5290d96d5ffa77413ce6ac.jpg",
+    "actress": [
+      "滝ゆいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-462"
   },
   {
-    "id": 115343,
-    "IDcode": "FC2-3603893",
-    "title": "她代替男友偷偷拍摄了一部现实版NTR",
+    "id": 77518,
+    "IDcode": "JUFE-473",
+    "title": "【FANZA限定】俺をナメてるメスガキ姪っ子の生意気マ○コに大人の激ピス種付けFUCKで分からせてやった！ ガキのくせに発育しきったHcupのJ系 白花のん 生写真2枚付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/011ba910/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3603893"
+    "company": "FITCH",
+    "publish_date": "2023-07-19",
+    "cover_url": "https://tutu1.space/images/2023/08/12/c0543d24a87e085304d784b9930bb0c8.jpg",
+    "actress": [
+      "白花暖"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-473"
   },
   {
-    "id": 115333,
-    "IDcode": "FC2-3604108",
-    "title": "舔舐技巧超群的巨乳人妻",
+    "id": 107636,
+    "IDcode": "JUFE-478",
+    "title": "五年重逢的青梅竹馬，竟成為合租屋性愛偶像！ ！ 〜我很沮喪，但我因中出性愛而失去了童貞〜",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3604108"
+    "company": "FITCH",
+    "publish_date": "2023-07-18",
+    "cover_url": "https://tutu1.space/images/2023/08/12/456749d664f62c00e059fd1bd0153adc.jpg",
+    "actress": [
+      "桃園怜奈",
+      "大村",
+      "七尾神",
+      "じゅうもんじ",
+      "ナイアガラ翔"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-478"
   },
   {
-    "id": 115314,
-    "IDcode": "FC2-3610008",
-    "title": "开朗素人遭受性骚扰并大量中出",
+    "id": 107327,
+    "IDcode": "JUFE-500",
+    "title": "【FANZA限定】匂いたつむっちりボディは欲情まみれでいつも汗だく！ オチ○ポ大好き肉感未亡人のベロ舐め誘惑 瀬田一花 生写真付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/37520de1/vod.jpg",
+    "company": "FITCH",
+    "publish_date": "2023-08-16",
+    "cover_url": "https://tutu1.space/images/2023/09/04/5004b243ac478f372ac54eeb3106a0f0.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3610008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-500"
   },
   {
-    "id": 115341,
-    "IDcode": "FC2-3610539",
-    "title": "在保育院打工的可爱妹子",
+    "id": 18291,
+    "IDcode": "JUFE-502",
+    "title": "為了保護心愛的男友……巨乳兼職女工在店長的指揮下淪為性奴隸，並在接受春藥內射精訓練後陷入高潮。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/8a17244b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3610539"
+    "company": "FITCH",
+    "publish_date": "2023-10-17",
+    "cover_url": "https://picture.yoshiclub.xyz/20231017/20231017022616906906.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-502"
   },
   {
-    "id": 115350,
-    "IDcode": "FC2-3611004",
-    "title": "爱笑萝莉妹",
+    "id": 18012,
+    "IDcode": "JUFE-507",
+    "title": "為了懷孕,我努力了一個月..卻被姐姐用她的巨乳奪走了本來應該屬於我的精子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3611004"
+    "company": "FITCH",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105074324863863.jpg",
+    "actress": [
+      "北野未奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-507"
   },
   {
-    "id": 115332,
-    "IDcode": "FC2-3612356",
-    "title": "涩谷附近的大学生",
+    "id": 106962,
+    "IDcode": "JUFE-510",
+    "title": "復活3周年記念作品 1か月間じっくり焦らされ我慢を重ねた感度爆上げ爆乳ボディとドロドロの性欲を一気に解き放つ！人生で初めて禁欲を命じられて本能剥き出し大絶頂ノンストップSEX 桃園怜奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3612356"
+    "company": "FITCH",
+    "publish_date": "2023-09-19",
+    "cover_url": "https://tutu1.space/images/2023/10/24/a0e507da53a7db25cc4e8c538d4eed35.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-510"
   },
   {
-    "id": 115325,
-    "IDcode": "FC2-3613098",
-    "title": "拥有可爱G罩杯胸围的苗条美女",
+    "id": 18288,
+    "IDcode": "JUFE-512",
+    "title": "【FANZA限定】究極口交！ ！ 治療男性生殖器的口交診所",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3613098"
+    "company": "FITCH",
+    "publish_date": "2023-10-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20231017/20231017023528788788.jpg",
+    "actress": [
+      "有岡みう",
+      "椎叶みくる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-512"
   },
   {
-    "id": 115293,
-    "IDcode": "FC2-3613160",
-    "title": "他用大屌插进她娇小无力的小穴",
+    "id": 103458,
+    "IDcode": "JUFE-515",
+    "title": "- えっ？こんな場所で！？美ボディを露出する逆ナンパ痴女のM男くん狩り強●射精 天川そら - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3613160"
+    "company": "FITCH",
+    "publish_date": "2023-09-19",
+    "cover_url": "https://tutu1.space/images/2023/10/11/9f9e8bf6983bc6055fac3cabd5662acd.jpg",
+    "actress": [
+      "天川空",
+      "ハメ鳥の人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-515"
   },
   {
-    "id": 115354,
-    "IDcode": "FC2-3616756",
-    "title": "终结庇护少女",
+    "id": 17732,
+    "IDcode": "JUFE-523",
+    "title": "結婚祝賀NTR 豐滿的妻子在公司組織的活動中沉浸在快樂之中",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3616756"
+    "company": "FITCH",
+    "publish_date": "2023-11-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20231119/20231119033422757757.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-523"
   },
   {
-    "id": 115302,
-    "IDcode": "FC2-3616894",
-    "title": "只需被插入就能瞬间达到高潮",
+    "id": 18287,
+    "IDcode": "JUFE-526",
+    "title": "【FANZA限定】射精控制極其緩慢。 一個性感的淫婦小心翼翼地玩弄著她的雞巴寵物。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3616894"
+    "company": "FITCH",
+    "publish_date": "2023-10-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20231017/20231017023619975975.jpg",
+    "actress": [
+      "大槻响",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-526"
   },
   {
-    "id": 115295,
-    "IDcode": "FC2-3620562",
-    "title": "移居东京的故事",
+    "id": 18017,
+    "IDcode": "JUFE-527",
+    "title": "脫下來的時候真是太棒了！ 公司後輩有著變態大奶子的日下部加奈在我的大雞巴下呻吟",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/59295a8b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3620562"
+    "company": "FITCH",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231105/a519e936-c2d8-4bf0-9a5d-8c5f597b4430.jpg",
+    "actress": [
+      "日下部加奈",
+      "小田切ジュン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-527"
   },
   {
-    "id": 115351,
-    "IDcode": "FC2-3620773",
-    "title": "因为太在乎你而约你出去",
+    "id": 18018,
+    "IDcode": "JUFE-528",
+    "title": "操城裡回鄉下的侄女 誰讓她看不起我這個叔叔",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3620773"
+    "company": "FITCH",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231104/20231104090019767767.jpg",
+    "actress": [
+      "有栖舞衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-528"
   },
   {
-    "id": 115291,
-    "IDcode": "FC2-3621927",
-    "title": "同年级最可爱的女孩",
+    "id": 17734,
+    "IDcode": "JUFE-531",
+    "title": "放蕩人妻的授精溫泉之旅，丈夫从未体验的骚货嘴脸享受淫荡性爱。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3621927"
+    "company": "FITCH",
+    "publish_date": "2023-11-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20231119/20231119033204856856.jpg",
+    "actress": [
+      "新村朱里",
+      "新村晶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-531"
   },
   {
-    "id": 115305,
-    "IDcode": "FC2-3623053",
-    "title": "来自农村的18岁纯真少女",
+    "id": 17735,
+    "IDcode": "JUFE-533",
+    "title": "射精控制極其緩慢。一個性感的蕩婦小心翼翼地玩弄著她的雞雞寵物。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3623053"
+    "company": "FITCH",
+    "publish_date": "2023-11-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20231119/20231119032719723723.jpg",
+    "actress": [
+      "波多野结衣",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-533"
   },
   {
-    "id": 115331,
-    "IDcode": "FC2-3623636",
-    "title": "小胸老婆",
+    "id": 18020,
+    "IDcode": "JUFE-534",
+    "title": "出差居然和討厭的老闆住一個房間！ 老闆這個臭名昭著的性虐狂內射我到死!!!",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3623636"
+    "company": "FITCH",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231105/78d3dd2a-0b11-4a42-812a-1c5c58c5a822.jpg",
+    "actress": [
+      "都月楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-534"
   },
   {
-    "id": 115344,
-    "IDcode": "FC2-3623639",
-    "title": "满足的少女",
+    "id": 17452,
+    "IDcode": "JUFE-536",
+    "title": "出差時竟然在旅館共住一個房間！ 討厭的部長要把我射死了…",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/9a921fce/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3623639"
+    "company": "FITCH",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231203/ff5dde7b-a578-462c-b54e-22094bcb4cee.jpg",
+    "actress": [
+      "川上麗亞",
+      "渡辺杏奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-536"
   },
   {
-    "id": 115195,
-    "IDcode": "FC2-3624540",
-    "title": "如果能见面我就帮她还债",
+    "id": 17464,
+    "IDcode": "JUFE-537",
+    "title": "終極口暴！ ！ 治療男性生殖器的全裸服務診所",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3624540"
+    "company": "FITCH",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231202/ff26e822-48e8-41bd-ac75-e61a375f1ea4.jpg",
+    "actress": [
+      "月乃露娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-537"
   },
   {
-    "id": 115183,
-    "IDcode": "FC2-3627028",
-    "title": "渴望受孕的美女用最高的阴道压力挤出精液",
+    "id": 17465,
+    "IDcode": "JUFE-538",
+    "title": "噁心的哥哥用我的把柄威脅我，用媚藥和下流挑逗讓我反覆高潮變成肉便器",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3627028"
+    "company": "FITCH",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231202/3878640a-54e7-40f7-aa47-972d2c81b1fb.jpg",
+    "actress": [
+      "五日市芽依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-538"
   },
   {
-    "id": 115188,
-    "IDcode": "FC2-3628058",
-    "title": "拥有巨大H杯乳房并喜欢口交的美丽女孩",
+    "id": 16950,
+    "IDcode": "JUFE-539",
+    "title": "即將退休的老師，正在進行最後一次修學旅行……三天兩夜，平時在學校裏很安靜的皮膚白皙、奶子很大的可愛學生，在一次夜間探訪中勾引射精",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3628058"
+    "company": "FITCH",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060602893893.jpg",
+    "actress": [
+      "逢月日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-539"
   },
   {
-    "id": 115176,
-    "IDcode": "FC2-3629170",
-    "title": "没修剪的阴毛很可爱",
+    "id": 17253,
+    "IDcode": "JUFE-542",
+    "title": "在丈夫面前輪姦我！虐待我，刺激的影片！春藥，失禁高潮體內射精墜落",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/bbfff145/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3629170"
+    "company": "FITCH",
+    "publish_date": "2023-12-20",
+    "cover_url": "https://picture.yoshiclub.xyz/20231215/ba059886-7f8f-47e3-973e-9fb931873a8c.jpg",
+    "actress": [
+      "森澤佳奈",
+      "朝日奈みお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-542"
   },
   {
-    "id": 115211,
-    "IDcode": "FC2-3629276",
-    "title": "在男人工作场所工作的变态女人",
+    "id": 16773,
+    "IDcode": "JUFE-551",
+    "title": "有着可愛天真笑容的戲劇社的女孩，是一個放學後想要通過做愛來感覺良好的豐滿巨乳女孩",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3629276"
+    "company": "FITCH",
+    "publish_date": "2024-01-23",
+    "cover_url": "https://picture.yoshiclub.xyz/20240113/20240113064716387387.jpg",
+    "actress": [
+      "星乃夏月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-551"
   },
   {
-    "id": 115191,
-    "IDcode": "FC2-3629280",
-    "title": "与山口县乡村重逢并拍摄了粘稠的POV",
+    "id": 10637,
+    "IDcode": "JUFE-568",
+    "title": "黑人解禁！人妻裸模NTR - 巨乳人妻被過激衝擊而差點死掉 ~ 鬆本梨穂",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3629280"
+    "company": "FITCH",
+    "publish_date": "2024-11-19",
+    "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114092102119119.jpg",
+    "actress": [
+      "松本梨穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-568"
   },
   {
-    "id": 115430,
-    "IDcode": "FC2-3629284",
-    "title": "误以为只要吃东西就能得到零花钱",
+    "id": 9922,
+    "IDcode": "JUFE-570",
+    "title": "黑人解禁！英語會話NTR 美巨乳人妻沉迷於與極太黑雞巴的性愛 ~ 都月楓",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3629284"
+    "company": "FITCH",
+    "publish_date": "2024-12-17",
+    "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064957573573.jpg",
+    "actress": [
+      "都月楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-570"
   },
   {
-    "id": 115181,
-    "IDcode": "FC2-3630070",
-    "title": "被3Q团队操哭的小姐姐",
+    "id": 8621,
+    "IDcode": "JUFE-571",
+    "title": "傳說中的MCUP女優限定復活！美人妻黏黏的甜蜜溼吻性愛。城裏的高級人妻嬸嬸勾引來自農村的我 ~ 西條瑠璃",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3630070"
+    "company": "FITCH",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080700410410.jpg",
+    "actress": [
+      "西條琉璃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-571"
   },
   {
-    "id": 115208,
-    "IDcode": "FC2-3630640",
-    "title": "法国男人想要按摩",
+    "id": 9890,
+    "IDcode": "JUFE-572",
+    "title": "老男人的奇聞趣事記錄 - 流汗的性交美餐與豐富、粘稠的體液 ~ 浜辺栞帆",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/9a5f093b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3630640"
+    "company": "FITCH",
+    "publish_date": "2024-12-17",
+    "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211074218854854.jpg",
+    "actress": [
+      "浜辺栞帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-572"
   },
   {
-    "id": 115170,
-    "IDcode": "FC2-3632411",
-    "title": "梦想成为小学老师的纯真善良的大一新生",
+    "id": 9420,
+    "IDcode": "JUFE-573",
+    "title": "戀乳癖專用！H罩杯爆乳J系的乳交調教 ~ 羽月乃蒼",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3632411"
+    "company": "FITCH",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102082820976976.jpg",
+    "actress": [
+      "羽月乃蒼",
+      "しょーと"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-573"
   },
   {
-    "id": 115712,
-    "IDcode": "FC2-3632480",
-    "title": "超淫荡口交技术高超",
+    "id": 9025,
+    "IDcode": "JUFE-575",
+    "title": "豐滿超胸L罩杯人氣風俗娘想要變態淫水淋漓的無套原始性愛絕頂中毒 ~ 白雪美月",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-27",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3632480"
+    "company": "FITCH",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075047694694.jpg",
+    "actress": [
+      "白雪美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-575"
   },
   {
-    "id": 115172,
-    "IDcode": "FC2-3635199",
-    "title": "清纯人妻赴酒店约会",
+    "id": 8690,
+    "IDcode": "JUFE-577",
+    "title": "緊縛解禁！色白緊致的肌膚被繩子緊緊綁住 ~ 宮西光",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3635199"
+    "company": "FITCH",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/202501300756386767.jpg",
+    "actress": [
+      "宮西光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-577"
   },
   {
-    "id": 115190,
-    "IDcode": "FC2-3637609",
-    "title": "美丽的小天使",
+    "id": 9050,
+    "IDcode": "JUFE-579",
+    "title": "老頭奇聞趣事偷拍 汗流浹背的濃厚性交 ~ 北岡果林",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3637609"
+    "company": "FITCH",
+    "publish_date": "2025-01-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116073638952952.jpg",
+    "actress": [
+      "北岡果林"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-579"
   },
   {
-    "id": 115179,
-    "IDcode": "FC2-3637653",
-    "title": "拥有丰满的潮吹和淋漓的性爱",
+    "id": 6434,
+    "IDcode": "JUFE-585",
+    "title": "老男人的自拍紀錄片 黏糊糊的濃烈纏綿 滿身汗水的狂野性愛 ~ 靜河",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/0326d5ff/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3637653"
+    "company": "FITCH",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042352807807_thumbnail.webp",
+    "actress": [
+      "静河"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-585"
   },
   {
-    "id": 115184,
-    "IDcode": "FC2-3639563",
-    "title": "怀孕7个月的18岁绝色主妇",
+    "id": 6453,
+    "IDcode": "JUFE-587",
+    "title": "黑人解禁！被隔壁煩人老外誤認成風俗妹，沉迷於老公比不了的大肉棒，肉感人妻徹底墮落 ~ 二葉惠麻",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3639563"
+    "company": "FITCH",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044950584584_thumbnail.webp",
+    "actress": [
+      "二葉惠麻",
+      "二叶エマ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-587"
   },
   {
-    "id": 115442,
-    "IDcode": "FC2-3640002",
-    "title": "与真正的巨乳写真偶像的POV",
+    "id": 3162,
+    "IDcode": "JUFE-589",
+    "title": "黑人初體驗！英文課NTR 巨乳人妻淪陷超粗黑棒 ~ 北野未奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/298cee344e5f0c3f2a0354a5cbdf044c.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3640002"
+    "company": "FITCH",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828024015953953_61371_thumbnail.webp",
+    "actress": [
+      "北野未奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-589"
   },
   {
-    "id": 115441,
-    "IDcode": "FC2-3640125",
-    "title": "电动按摩器弱潮吹Ana酱",
+    "id": 4973,
+    "IDcode": "JUFE-591",
+    "title": "終於解禁黑人玩法！被偷偷來旅遊的黑人運動員強行奪愛，沉迷於那老公根本無法比擬的巨物，肉感十足的墮落酒店女將 ~ 末広純",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3640125"
+    "company": "FITCH",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031329381381_thumbnail.webp",
+    "actress": [
+      "末広純"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-591"
   },
   {
-    "id": 115186,
-    "IDcode": "FC2-3642898",
-    "title": "用她纤细的身材诱惑男人",
+    "id": 3167,
+    "IDcode": "JUFE-592",
+    "title": "猥瑣老頭的自拍實錄 粘着瘋狂開幹 體液滿溢汗流浹背的激烈性愛 ~ 黒島玲衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3642898"
+    "company": "FITCH",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023657133133_38335_thumbnail.webp",
+    "actress": [
+      "黒島玲衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-592"
   },
   {
-    "id": 115182,
-    "IDcode": "FC2-3643924",
-    "title": "美女人妻极度淫荡养成",
+    "id": 2304,
+    "IDcode": "JUFE-593",
+    "title": "被變態老頭輪⬤！媚藥精華中出25連發NTR，引以爲傲的巨乳美妻被村民瘋狂侵犯 ~ 黑島玲衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3643924"
+    "company": "FITCH",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002022834960960_34927_thumbnail.webp",
+    "actress": [
+      "黒島玲衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-593"
   },
   {
-    "id": 115198,
-    "IDcode": "FC2-3645103",
-    "title": "长着明星脸的美女被骗发生性关系",
+    "id": 3181,
+    "IDcode": "JUFE-594",
+    "title": "變態大叔的異常怪癖 爆乳美人娘被狂舔猛啃的粘着交尾 ~ 福原美奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/14b7fff4/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3645103"
+    "company": "FITCH",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030051555555_25481_thumbnail.webp",
+    "actress": [
+      "福原美奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-594"
   },
   {
-    "id": 115206,
-    "IDcode": "FC2-3645620",
-    "title": "法国男人说他很享受3P",
+    "id": 2755,
+    "IDcode": "JUFE-595",
+    "title": "肌肉猛男狂頂軟萌美女深處！爆乳晃動站立後入輪流上場 ~ 宍戸里帆",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/7bd1aaa3/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3645620"
+    "company": "FITCH",
+    "publish_date": "2025-09-11",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014935715715_85374_thumbnail.webp",
+    "actress": [
+      "宍戸里帆",
+      "ラリアット黒川"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-595"
   },
   {
-    "id": 115174,
-    "IDcode": "FC2-3647506",
-    "title": "纤细的少女小樱被男人诱惑",
+    "id": 2217,
+    "IDcode": "JUFE-598",
+    "title": "變態大叔的扭曲愛戀 爆乳狂熱痴迷黏糊糊的私拍記錄 ~ 西條琉璃",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/19aa7d34/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3647506"
+    "company": "FITCH",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002021517369369_18177_thumbnail.webp",
+    "actress": [
+      "西條琉璃",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-598"
   },
   {
-    "id": 115167,
-    "IDcode": "FC2-3650524",
-    "title": "满足你对超激烈性爱的要求",
+    "id": 2164,
+    "IDcode": "JUFE-599",
+    "title": "麻繩初體驗！白嫩爆乳人妻被油縛調教 按摩師的SM狂熱教育 ~ 希咲愛莉絲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-09-03",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3650524"
+    "company": "FITCH",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002041232514514_80078_thumbnail.webp",
+    "actress": [
+      "希咲愛莉絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-599"
   },
   {
-    "id": 115423,
-    "IDcode": "FC2-3651208",
-    "title": "吞咽精液后肛交中出",
+    "id": 76799,
+    "IDcode": "JUKF-032",
+    "title": "み○ょぱみたいな読モになりたくて上京した【パパ活】専門学校生GAL ひなちゃん 七瀬ひな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3651208"
+    "company": "JUMP",
+    "publish_date": "2019-12-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241209-1/175fcb0619a2b94675339bf713892f2e.jpg",
+    "actress": [
+      "七海雛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-032"
   },
   {
-    "id": 115402,
-    "IDcode": "FC2-3654841",
-    "title": "两个年轻漂亮的俄罗斯女孩",
+    "id": 75738,
+    "IDcode": "JUKF-033",
+    "title": "近親相姦兄妹 親の目を盗み3日に1回はセックスしてると言い放つ異常性愛者のキ○ガイ兄妹 河北はるな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3654841"
+    "company": "JUMP",
+    "publish_date": "2019-12-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/ce0462254bf1e833d625fd9daf01aed5.jpg",
+    "actress": [
+      "河北春菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-033"
   },
   {
-    "id": 115404,
-    "IDcode": "FC2-3656550",
-    "title": "模特级别脸部",
+    "id": 81740,
+    "IDcode": "JUKF-039",
+    "title": "某AV事務所で働く美人女子マネージャーがクライアント相手に肉体接待 「お仕事のためなら何でも言う事を聞きます…」 水谷さん 水谷あおい",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3656550"
+    "company": "JUMP",
+    "publish_date": "2020-03-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221101-1/62ca697def121370a6bcc21fce9ca8da.jpg",
+    "actress": [
+      "水谷あおい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-039"
   },
   {
-    "id": 115434,
-    "IDcode": "FC2-3656568",
-    "title": "初中三年级的澪终于摆脱了处女之身",
+    "id": 85029,
+    "IDcode": "JUKF-088",
+    "title": "【FANZA限定】噂の女子校生地下アイドル おっさんのファンと小遣い稼ぎの個人営業 ほたるちゃん 乃木蛍 パンティと生写真付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/4208b08dbcf5a0858b03de1a4c2da500.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3656568"
+    "company": "JUMP",
+    "publish_date": "2022-08-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/f16a376d546d4e0152f99cd185bd05a0.jpg",
+    "actress": [
+      "乃木蛍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-088"
   },
   {
-    "id": 115401,
-    "IDcode": "FC2-3656935",
-    "title": "年轻稚嫩的学生",
+    "id": 85006,
+    "IDcode": "JUKF-090",
+    "title": "【FANZA限定】美少女専科・レンタル彼女 まおちゃん 浜崎真緒 パンティと生写真付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3656935"
+    "company": "JUMP",
+    "publish_date": "2022-08-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/e8989c33990e4a8dfcd00d98a1e57f97.jpg",
+    "actress": [
+      "浜崎真绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-090"
   },
   {
-    "id": 115372,
-    "IDcode": "FC2-3657207",
-    "title": "与不习惯性爱的纯真乡下女孩重逢",
+    "id": 95082,
+    "IDcode": "JUKF-124",
+    "title": "【FANZA限定】某AV事務所で働く巨乳女子マネージャーがクライアント相手に肉体接待 「社長の言う通りにしたら本当にお仕事いただけますか？」 香澄さん 香澄せな 生写真とパンティ付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3657207"
+    "company": "JUMP",
+    "publish_date": "2024-11-23",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/ea155e12/vod.jpg",
+    "actress": [
+      "香澄せな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-124"
   },
   {
-    "id": 115415,
-    "IDcode": "FC2-3661098",
-    "title": "性压抑的20岁女孩",
+    "id": 4228,
+    "IDcode": "JUKF-127",
+    "title": "大阪地下偶像的黑暗兼職 小雛的私密交易 ~ 美木雛乃",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/7c24e36c/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3661098"
+    "company": "JUMP",
+    "publish_date": "2025-07-20",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250720/20250720023442651651_19134_thumbnail.webp",
+    "actress": [
+      "美木雛乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-127"
   },
   {
-    "id": 115393,
-    "IDcode": "FC2-3662447",
-    "title": "一个拥有无比美丽阴部的女大学生",
+    "id": 71130,
+    "IDcode": "JUL-005",
+    "title": "母の友人 青木玲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/9ba47fe2/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3662447"
+    "company": "MADONNA",
+    "publish_date": "2019-10-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/f4cc2e7232580b7ea8abe575206feed1.jpg",
+    "actress": [
+      "青木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-005"
   },
   {
-    "id": 115417,
-    "IDcode": "FC2-3662746",
-    "title": "他忘不了抱着151cm小胸偶像练习生的感觉",
+    "id": 69888,
+    "IDcode": "JUL-014",
+    "title": "赤瀬尚子 最初で最高のアナル解禁！！ もう私、アナル以外愛せない…。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/08f7cab4/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3662746"
+    "company": "MADONNA",
+    "publish_date": "2019-10-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/8265eeb80ee8fef83ff758af9e472f0a.jpg",
+    "actress": [
+      "赤瀬尚子",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-014"
   },
   {
-    "id": 115437,
-    "IDcode": "FC2-3663565",
-    "title": "向隔壁美女投诉",
+    "id": 78479,
+    "IDcode": "JUL-016",
+    "title": "Madonnaがひと目惚れした人妻 初凌辱作品！！ 抱かれたくない男に死にたくなるほどイカされて… 妃ひかり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/63d8b80227134895b0e1b5f87fc5c3aa.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3663565"
+    "company": "MADONNA",
+    "publish_date": "2019-10-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/949de8e46be1fe281bc3ca6e81f01c87.jpg",
+    "actress": [
+      "妃光莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-016"
   },
   {
-    "id": 115383,
-    "IDcode": "FC2-3663615",
-    "title": "鬼畜巨乳",
+    "id": 107085,
+    "IDcode": "JUL-018",
+    "title": "讓任性年輕社長更生的知性淫語吊帶襪秘書 大島優香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
+    "company": "MADONNA",
+    "publish_date": "2019-10-25",
+    "cover_url": "https://tutu1.space/images/2025/07/24/07846d43d4000e7c2735ec164b3242b7.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3663615"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-018"
   },
   {
-    "id": 115368,
-    "IDcode": "FC2-3665333",
-    "title": "清纯可爱妹子爱笑白虎小萝莉",
+    "id": 70101,
+    "IDcode": "JUL-030",
+    "title": "マドンナ専属『飯山香織』遂に中出し解禁！！ 夫がゴルフに行く月末、セフレを自宅に招いて中出しセックスに溺れる人妻。 「長男も次男も、アナタの子じゃないの…そして今度生まれる三男も…。」",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/46d9aed5/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3665333"
+    "company": "MADONNA",
+    "publish_date": "2019-11-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/64d0ab68d8f1be6e5f7e973b4ed3645f.jpg",
+    "actress": [
+      "饭山香织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-030"
   },
   {
-    "id": 115367,
-    "IDcode": "FC2-3665727",
-    "title": "与拥有天使般微笑的超级可爱女孩再次相见",
+    "id": 78211,
+    "IDcode": "JUL-033",
+    "title": "羞恥に濡れた、ランジェリー。 遥あやね",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/ce876387/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3665727"
+    "company": "MADONNA",
+    "publish_date": "2019-11-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/d2c88a4471eaf68c9e5402bd340e46e2.jpg",
+    "actress": [
+      "遥彩音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-033"
   },
   {
-    "id": 115374,
-    "IDcode": "FC2-3665859",
-    "title": "和遍布全身性感带的顺从女孩回到山中进行户外性爱",
+    "id": 69887,
+    "IDcode": "JUL-034",
+    "title": "永遠に終わらない、中出し輪姦の日々。 青木玲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3665859"
+    "company": "MADONNA",
+    "publish_date": "2019-11-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/a84e4a44f6adc38b027384fda57deae5.jpg",
+    "actress": [
+      "青木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-034"
   },
   {
-    "id": 115395,
-    "IDcode": "FC2-3665860",
-    "title": "和情趣酒店里一个已婚打工妹搞上了关系",
+    "id": 70701,
+    "IDcode": "JUL-038",
+    "title": "Madonnaがひと目惚れした人妻 初痴女作品！！ 身動きの出来ない密室でスケベな言葉を囁かれて何度も射精してしまった僕。-女上司のささやき誘惑逆NTR- 妃ひかり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/b89e1528/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3665860"
+    "company": "MADONNA",
+    "publish_date": "2019-11-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/7c5c290b78a74b9863008f5c4ffecb84.jpg",
+    "actress": [
+      "妃光莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-038"
   },
   {
-    "id": 115382,
-    "IDcode": "FC2-3667792",
-    "title": "现就职于妓院的JD",
+    "id": 70895,
+    "IDcode": "JUL-039",
+    "title": "マドンナ専属 第2弾！！中出し解禁！！ 猛暑で理性が狂った母子の、汗だく中出し帰省相姦。 南条亜美菜",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3667792"
+    "company": "MADONNA",
+    "publish_date": "2019-11-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/fd4aa8ad7b0915a79e3b20380b98027a.jpg",
+    "actress": [
+      "小田切ジュン",
+      "南条亜美菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-039"
   },
   {
-    "id": 115616,
-    "IDcode": "FC2-3668755",
-    "title": "她人生中第一次颜射和第一次中出",
+    "id": 93065,
+    "IDcode": "JUL-047",
+    "title": "ごっくん解禁！！中出し輪姦町内旅行 ～女に飢えた男どもの濃厚精液を言いなり精飲する人妻～ 赤瀬尚子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-27",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3668755"
+    "company": "MADONNA",
+    "publish_date": "2019-11-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241006-1/1dffff2078d0474cd31ce714d94dfd6c.jpg",
+    "actress": [
+      "赤瀬尚子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-047"
   },
   {
-    "id": 115400,
-    "IDcode": "FC2-3669730",
-    "title": "咖啡馆员工",
+    "id": 70702,
+    "IDcode": "JUL-048",
+    "title": "出張先のビジネスホテルでずっと憧れていた女上司とまさかまさかの相部屋宿泊 向井藍",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3669730"
+    "company": "MADONNA",
+    "publish_date": "2019-11-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/e68fe38af71a5304f6bdc28308927928.jpg",
+    "actress": [
+      "向井藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-048"
   },
   {
-    "id": 115389,
-    "IDcode": "FC2-3669755",
-    "title": "高潮无数次的纯洁的日本长黑发女性",
+    "id": 70700,
+    "IDcode": "JUL-050",
+    "title": "凌辱シリーズ再始動！！人気美顔女優マドンナ初登場！！ 夫の遺影の前で犯されて、気が狂うほど絶頂した私。 望月あられ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/30b87446/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3669755"
+    "company": "MADONNA",
+    "publish_date": "2019-11-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/17606305a436cd8a3594f7c9569cb741.jpg",
+    "actress": [
+      "望月憧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-050"
   },
   {
-    "id": 115394,
-    "IDcode": "FC2-3669846",
-    "title": "被邀请去拜访妻子的朋友",
+    "id": 70845,
+    "IDcode": "JUL-051",
+    "title": "働き方改革NTR 働き方改革で部下に残業させる事が出来なくなった、中小企業の社長である私は人手不足を補うために、 家に帰らず一人オフィスで残業していたのですが、部下は定時で上がり、私の妻を抱いていました…。 大島優香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/6957cdc8/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3669846"
+    "company": "MADONNA",
+    "publish_date": "2019-11-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/f3eaffebc8f77f3646f80e39aeff3081.jpg",
+    "actress": [
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-051"
   },
   {
-    "id": 115403,
-    "IDcode": "FC2-3670097",
-    "title": "男士美容院",
+    "id": 78431,
+    "IDcode": "JUL-055CN",
+    "title": "JUL055CN 脱がしたくなるイイオンナ。 新人 元ミセスモデルの8頭身人妻 佐野栞 32歳 初脱ぎ解禁AVデビュー！！.",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
+    "company": "MADONNA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/efdca698ecee00bc5ac165f8a6f4288e.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3670097"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-055CN"
   },
   {
-    "id": 115429,
-    "IDcode": "FC2-3670101",
-    "title": "脱掉裤子的精致漂亮女孩",
+    "id": 95014,
+    "IDcode": "JUL-056",
+    "title": "港区在住、都心を眺望できる高層タワーマンション36階に住む 美人妻 水川愛絆34歳 中出しAVデビュー！！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3670101"
+    "company": "MADONNA",
+    "publish_date": "2019-12-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/e5a39610bd3089f9b0ac2d1440fed81c.jpg",
+    "actress": [
+      "イセドン内村",
+      "水川爱绊"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-056"
   },
   {
-    "id": 115432,
-    "IDcode": "FC2-3671967",
-    "title": "用动漫声音舔苗条美女的脚",
+    "id": 76794,
+    "IDcode": "JUL-061",
+    "title": "転職先の女上司に勤務中ずっと弄ばれ続けている新人の僕 甘乃つばき",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3671967"
+    "company": "MADONNA",
+    "publish_date": "2019-12-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241209-1/b19eeea86a514ae1e6b30753b672a923.jpg",
+    "actress": [
+      "甘乃つばき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-061"
   },
   {
-    "id": 115435,
-    "IDcode": "FC2-3671970",
-    "title": "在摩天轮上插入被发现",
+    "id": 95012,
+    "IDcode": "JUL-063CN",
+    "title": "JUL063CN 新居探し新婚NTR 妻が密かに寝取られた【胸糞】内見記録。 《専属》新人第三弾！！初寝取られ中出しドラマ作品。 大城雪乃.",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/4a9ba3e7cfb6f20160b50256e54605a5.jpg",
+    "company": "MADONNA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/dae715be4e18581b8dac024f348667f5.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3671970"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-063CN"
   },
   {
-    "id": 115431,
-    "IDcode": "FC2-3672223",
-    "title": "奇迹般美丽的乳房",
+    "id": 99809,
+    "IDcode": "JUL-066",
+    "title": "夫の上司に犯され続けて7日目、私は理性を失った…。 根尾あかり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3672223"
+    "company": "MADONNA",
+    "publish_date": "2019-12-07",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jul066/jul066pl.jpg",
+    "actress": [
+      "根尾朱里",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-066"
   },
   {
-    "id": 115658,
-    "IDcode": "FC2-3674964",
-    "title": "无名男出品极品清纯偶像JK妹子",
+    "id": 70846,
+    "IDcode": "JUL-067",
+    "title": "会社も、妻も、奪われた―。社長夫人NTR 北条麻妃",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-27",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/9ac59afb/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3674964"
+    "company": "MADONNA",
+    "publish_date": "2019-12-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/89c1a74ec5383d4e6e1798d894027e4f.jpg",
+    "actress": [
+      "北条麻妃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-067"
   },
   {
-    "id": 115380,
-    "IDcode": "FC2-3675355",
-    "title": "性感店员",
+    "id": 70699,
+    "IDcode": "JUL-069",
+    "title": "男子生徒を虜にする新任女教師誘惑筆下ろし性指導 遥あやね",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3675355"
+    "company": "MADONNA",
+    "publish_date": "2019-12-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/c1aea92b1dca08ccec9ee8a0fcf3a57c.jpg",
+    "actress": [
+      "遥彩音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-069"
   },
   {
-    "id": 115438,
-    "IDcode": "FC2-3676310",
-    "title": "名人的长相",
+    "id": 95011,
+    "IDcode": "JUL-072",
+    "title": "美魔女という言葉が最も似合う人妻 流川千穂 47歳 AVDebut！！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/dc303a244d58ceebea78d047e0011676.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3676310"
+    "company": "MADONNA",
+    "publish_date": "2019-12-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/5571fc05cabb7342e0666f6367e4c72b.jpg",
+    "actress": [
+      "流川千穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-072"
   },
   {
-    "id": 115398,
-    "IDcode": "FC2-3678417",
-    "title": "禁止打工",
+    "id": 78958,
+    "IDcode": "JUL-073",
+    "title": "- 某有名ドラマ出演―。元子役タレントの人妻 谷花紗耶32歳 AV Debut！！ - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3678417"
+    "company": "MADONNA",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/d7ef62fe706e2cd21c56693ba6b06095.jpg",
+    "actress": [
+      "しみけん",
+      "谷花纱耶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-073"
   },
   {
-    "id": 115428,
-    "IDcode": "FC2-3680908",
-    "title": "在鬼屋般的废弃场所秘密实施强行作案的计划",
+    "id": 78283,
+    "IDcode": "JUL-078",
+    "title": "暴風雨 息子の嫁と二人だけの夜 八神さおり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3680908"
+    "company": "MADONNA",
+    "publish_date": "2019-12-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/d76cf94ac7f5eccdd5cc9e09053e841c.jpg",
+    "actress": [
+      "八神沙織",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-078"
   },
   {
-    "id": 115412,
-    "IDcode": "FC2-3682022",
-    "title": "彻底沦陷的荡妇",
+    "id": 78428,
+    "IDcode": "JUL-081",
+    "title": "恥辱の不妊治療 孕ませオイルエステに溺れた人妻 南条亜美菜",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/b6a343ef/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3682022"
+    "company": "MADONNA",
+    "publish_date": "2019-12-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/e6371a4c6919dcd8a5e9b577b28fbef8.jpg",
+    "actress": [
+      "南条亜美菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-081"
   },
   {
-    "id": 115397,
-    "IDcode": "FC2-3682193",
-    "title": "自从被我的闺蜜勾引的那天起",
+    "id": 70941,
+    "IDcode": "JUL-085",
+    "title": "妻の浮気を知った日から、目の前でSEXをさせるまでの寝取らせ記録映像―01。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FC2-3682193"
+    "company": "MADONNA",
+    "publish_date": "2019-12-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/ecedbbdc62266fc5025be99b5d171fb5.jpg",
+    "actress": [
+      "河北春菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-085"
   }
 ];

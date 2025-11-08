@@ -1,1577 +1,1645 @@
 window.PAGE_DATA = [
   {
-    "id": 67178,
-    "IDcode": "ALDN-087",
-    "title": "女社長的性欲 川上優",
+    "id": 67602,
+    "IDcode": "CAWD-441",
+    "title": "隣人の制服少女が中年の僕の自宅に入り浸るようになり無防備な姿につい我慢出来ず… 日向なつ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-11-05",
-    "cover_url": "",
-    "actress": [
-      "川上優"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-087"
-  },
-  {
-    "id": 90676,
-    "IDcode": "ALDN-088",
-    "title": "無能夫婦的被寢取計劃 末廣純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-11-05",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2022-11-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250424-1/3688844c6994d57ba0d47af2fea84e36.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-441"
   },
   {
-    "id": 67291,
-    "IDcode": "ALDN-089",
-    "title": "旅途中再見熟繼母 設樂亞里沙",
+    "id": 68048,
+    "IDcode": "CAWD-442",
+    "title": "極上ホスピタリティ＆シコリティ保証 中出し解禁！元アイドル千石もなかのエロス解放！風俗コンシェルジュ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-11-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250428-1/b34d9ffa1b71c26340bcd237eae1f5c5.jpg",
+    "company": "KAWAII",
+    "publish_date": "2022-11-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250422-1/cbcf0c3f4ad3da7f2a32387b6fed1fbd.jpg",
     "actress": [
-      "日森一",
-      "设楽アリサ"
+      "千石もなか"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-089"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-442"
   },
   {
-    "id": 66879,
-    "IDcode": "ALDN-090",
-    "title": "同學會之後… 美丘里美",
+    "id": 66886,
+    "IDcode": "CAWD-449",
+    "title": "CAWD-449",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-11-22",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-02-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250505-1/e0bf582ed4308c58d1371ae24a4b50b3.jpg",
     "actress": [
-      "爱花みちる"
+      "沙月惠奈",
+      "テツロー"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-449"
   },
   {
-    "id": 67590,
-    "IDcode": "ALDN-091",
-    "title": "比起再婚對象還是熟前妻好啊… 伊織涼子",
+    "id": 66885,
+    "IDcode": "CAWD-507",
+    "title": "声の出せない状況でモジモジ…ビクビク… 敏感乳首をひたすらこねくり廻されるチクイキ性交 設楽ゆうひ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-11-22",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-03-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250425-1/b4febb655fa873b50d3ea0d9e5ae5f86.jpg",
     "actress": [
-      "伊织凉子"
+      "設樂夕日"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-507"
   },
   {
-    "id": 90677,
-    "IDcode": "ALDN-092",
-    "title": "這個雌漢成為淫獸 吉井美希",
+    "id": 91049,
+    "IDcode": "CAWD-510",
+    "title": "初めてのデカチン性交で華奢なカラダが絶頂覚醒する羞恥アクメ53回！ドッキドキAV体験 ゆめ莉りか",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-11-22",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-03-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240311-1/2c6f4c6ca4b104d63c45265bb4848cc3.jpg",
     "actress": [
-      "しみけん",
-      "伊沢凉子"
+      "夢莉梨花"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-092"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-510"
   },
   {
-    "id": 67645,
-    "IDcode": "ALDN-093",
-    "title": "母姦中出 兒子初次中出媽媽 京野美沙",
+    "id": 91054,
+    "IDcode": "CAWD-514",
+    "title": "「経費削減！萌華んち来なよ」 終電逃した新人マネージャーの僕を泊めてくれたけど… 無防備すぎる部屋着で挑発！？ アイドルの性欲処理玩具にされ一晩中モウレツに痴女られた… 円井萌華",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-11-22",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-03-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240312-1/d27576db420e386a427797919bf3b6ab.jpg",
+    "actress": [
+      "円井萌華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-514"
+  },
+  {
+    "id": 91051,
+    "IDcode": "CAWD-517",
+    "title": "アルバイト（地下アイドル）の密着キス誘惑に負けた僕は、年甲斐もなく密会ゲス不倫セックスに溺れてしまった…。 千石もなか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-03-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240312-1/81cbebab43f2613f0fe9b2fcbf81765f.jpg",
+    "actress": [
+      "千石もなか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-517"
+  },
+  {
+    "id": 91055,
+    "IDcode": "CAWD-518",
+    "title": "隣人のゴミ部屋で異臭中年おやじに抜かずの連撃中出し51発で孕まされた制服女子の末路… 倉本すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-03-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240312-1/ca21632bf6377b1d768f06a905bbae8c.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-093"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-518"
   },
   {
-    "id": 67404,
-    "IDcode": "ALDN-094",
-    "title": "搞到嶽母發情性慾超強繼子 高園百合子",
+    "id": 91050,
+    "IDcode": "CAWD-519",
+    "title": "舌先じゅるじゅるツバだっくだく伊藤舞雪とトロトロにとろけるイク直前～射精してもなお止めない濃厚接吻",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-11-22",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-04-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240312-1/e5f542273b6a9a4435b4a25c4f3ffac8.jpg",
     "actress": [
-      "三云ゆり子"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-094"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-519"
   },
   {
-    "id": 107317,
-    "IDcode": "ALDN-095",
-    "title": "婆婆你比老婆還要棒… 花井百合",
+    "id": 91053,
+    "IDcode": "CAWD-520",
+    "title": "中年教師のボクは大人しい文学少女に簡単に童貞を奪われアナル開発で変態ドMに覚醒させられ厳しい射精管理のマゾ調教の日々を送ってます… 日向なつ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-13",
-    "cover_url": "",
-    "actress": [
-      "左慈半造"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-095"
-  },
-  {
-    "id": 66687,
-    "IDcode": "ALDN-097",
-    "title": "幸運大叔 鈴木真夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-13",
-    "cover_url": "",
-    "actress": [
-      "鈴木真夕"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-097"
-  },
-  {
-    "id": 66764,
-    "IDcode": "ALDN-098",
-    "title": "妻子的母親與我的父親 成宮彩葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/207a704d2284418a84e6bd026816eb84.jpg",
-    "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-098"
-  },
-  {
-    "id": 67588,
-    "IDcode": "ALDN-099",
-    "title": "代理孕母 加藤椿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-13",
-    "cover_url": "",
-    "actress": [
-      "夏树カオル"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-099"
-  },
-  {
-    "id": 66671,
-    "IDcode": "ALDN-100",
-    "title": "全裸義母 翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/93a24160e33dd3e42029f468c7d0c74a.jpg",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-100"
-  },
-  {
-    "id": 66914,
-    "IDcode": "ALDN-101",
-    "title": "あなた、私みたいなおばさん興奮させて…どうするのよ… 伊織涼子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-24",
-    "cover_url": "",
-    "actress": [
-      "伊织凉子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-101"
-  },
-  {
-    "id": 66821,
-    "IDcode": "ALDN-103",
-    "title": "【FANZA限定】おっさんラッキー 伊東沙蘭 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-24",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-03-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240312-1/b4b0b722c657e73934e1d1a4422330aa.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-103"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-520"
   },
   {
-    "id": 67243,
-    "IDcode": "ALDN-104",
-    "title": "たびじ 母と子のふたり旅 小林真梨香",
+    "id": 91052,
+    "IDcode": "CAWD-522",
+    "title": "出張先の相部屋で巨漢上司に何度も中出しプレスされて…部長の粘着質な愛撫と濃厚SEXに溺れた巨乳新人OL 千石もなか",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250428-1/30bfeb01a438e81d4fb9a7040b3aa713.jpg",
+    "company": "KAWAII",
+    "publish_date": "2023-05-02",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240312-1/b0c70ee771b43d42703e8b7c587f1590.jpg",
+    "actress": [
+      "千石もなか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-522"
+  },
+  {
+    "id": 18725,
+    "IDcode": "CAWD-559",
+    "title": "【無碼破解】瘋狂變態的著衣做愛 幾乎全裸的下體",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20230913/20230913041636437437.jpg",
+    "actress": [
+      "設樂夕日",
+      "小田切ジュン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-559"
+  },
+  {
+    "id": 18482,
+    "IDcode": "CAWD-570",
+    "title": "當我脫掉一個看起來平平無奇的女下屬衣服時…身材驚人，從那天起，我就一直操她",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002221424418418.jpg",
+    "actress": [
+      "設樂夕日"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-570"
+  },
+  {
+    "id": 104299,
+    "IDcode": "CAWD-572",
+    "title": "世界を目指したフィギュアスケーター知花しおん 未開発アスリートボディを粘着ピストンでイカされっぱなし限界アクメ性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://tutu1.space/images/2023/10/17/d0e5f488781fa992fbb0389362ad1bff.jpg",
+    "actress": [
+      "知花しおん",
+      "ハメ鳥の人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-572"
+  },
+  {
+    "id": 107108,
+    "IDcode": "CAWD-574",
+    "title": "チ●ポお掃除 三種の神器＜お口・おま●こ・ちっぱい＞で精子空っぽになるまで全力シコシコ性処理ロリメイド絶倫中出しハーレム 倉本すみれ 冬愛ことね 春日えな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://tutu1.space/images/2023/10/17/5cfd86af0486b4e51feecffbc3813300.jpg",
+    "actress": [
+      "冬爱琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-574"
+  },
+  {
+    "id": 107107,
+    "IDcode": "CAWD-575",
+    "title": "長期出張で離れ離れになるエッチ大好き彼女と誓い合った3ヶ月の禁欲 待ち焦がれた再会直後のSEX中毒になるほど没入した人生で最高に気持ちよかった絶倫無双中出しSEX 小花のん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://tutu1.space/images/2023/10/17/a8dfc100dff6934915534267ace9f381.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-104"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-575"
   },
   {
-    "id": 67584,
-    "IDcode": "ALDN-105",
-    "title": "近所の清楚な人妻 新垣なつみ",
+    "id": 18481,
+    "IDcode": "CAWD-577",
+    "title": "高身長！ 腰細腰窄！ 漂亮的腿！ 穿著色情可愛的暴露服裝的苗條秘書們！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250424-1/900f81f3a9191e00320f19dad8e9273e.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-105"
-  },
-  {
-    "id": 66766,
-    "IDcode": "ALDN-107",
-    "title": "同じマンションの人妻がエロ過ぎて… 森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2022-12-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250504-1/815652497e34c8017b10ab95f1be495c.jpg",
+    "company": "KAWAII",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002222127738738.jpg",
     "actress": [
-      "森澤佳奈"
+      "胡桃櫻花",
+      "齋藤亞美里",
+      "星宮菜奈",
+      "斋藤亚美里"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-107"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-577"
   },
   {
-    "id": 66615,
-    "IDcode": "ALDN-108",
-    "title": "【FANZA限定】お義母さん、にょっ女房よりずっといいよ… 伊東沙蘭 チェキ付き",
+    "id": 18022,
+    "IDcode": "CAWD-583",
+    "title": "柔弱溫馴的日向なつ每次喝醉的時候就會以騎乘式的姿勢跨坐在我身上",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-07",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-108"
-  },
-  {
-    "id": 67421,
-    "IDcode": "ALDN-109",
-    "title": "再婚相手より前の年増な女房がやっぱいいや… 中山穂香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-07",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231105/2389c46d-c374-45aa-b3b9-89bff45f12d1.jpg",
     "actress": [
-      "左慈半造",
-      "中山穂香"
+      "日向夏",
+      "小田切ジュン"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-109"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-583"
   },
   {
-    "id": 67050,
-    "IDcode": "ALDN-110",
-    "title": "【FANZA限定】母姦中出し 息子に初めて中出しされた母 伊織涼子 チェキ付き",
+    "id": 18023,
+    "IDcode": "CAWD-584",
+    "title": "十年後再次相遇的我的初戀情人和兒時好友，她在風俗業工作",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250428-1/320fdd1dddd34bb7372569726fd183bb.jpg",
+    "company": "KAWAII",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231104/20231104084445158158.jpg",
     "actress": [
-      "伊织凉子"
+      "設樂夕日"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-584"
   },
   {
-    "id": 67054,
-    "IDcode": "ALDN-111",
-    "title": "全裸義母 美原すみれ",
+    "id": 18479,
+    "IDcode": "CAWD-588",
+    "title": "純白G罩杯 kawaii*専屬 乳房劇烈搖晃及中出解禁",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/13893508e1d272befa006caf431a8a9d.jpg",
+    "company": "KAWAII",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002222931685685.jpg",
     "actress": [
-      "美原すみれ"
+      "愛寶鈴"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-111"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-588"
   },
   {
-    "id": 66860,
-    "IDcode": "ALDN-112",
-    "title": "抱きたい元嫁 成宮いろは",
+    "id": 17469,
+    "IDcode": "CAWD-589",
+    "title": "在醫院病房裡瞥見了傳聞可愛、巨乳、性感的夜班護士伊藤舞雪 她每天晚上都拿著手電筒巡視性治療患者…",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/6d18e3aa9103a234310a42012483f580.jpg",
+    "company": "KAWAII",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231202/7eab3b1f-af15-4d6b-a690-447c75f6f402.jpg",
     "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-112"
-  },
-  {
-    "id": 67259,
-    "IDcode": "ALDN-113",
-    "title": "【FANZA限定】憧れの先輩は…・・ 鈴木真夕 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-07",
-    "cover_url": "",
-    "actress": [
-      "鈴木真夕",
-      "タイ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-113"
-  },
-  {
-    "id": 67113,
-    "IDcode": "ALDN-115",
-    "title": "【FANZA限定】あん時のセフレは…友人の母親 小松杏 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-115"
-  },
-  {
-    "id": 67189,
-    "IDcode": "ALDN-116",
-    "title": "ALDN-116",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-21",
-    "cover_url": "",
-    "actress": [
-      "池谷佳純",
+      "伊藤舞雪",
       "日森一"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-116"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-589"
   },
   {
-    "id": 67040,
-    "IDcode": "ALDN-117",
-    "title": "ALDN-117",
+    "id": 17476,
+    "IDcode": "CAWD-590",
+    "title": "JK女孩被鄰居拖入滿是垃圾的房間裡慘遭連續51次內射而懷孕了！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-21",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231202/56e4b687-b963-4e39-af7f-3a5e1e46213d.jpg",
     "actress": [
-      "本真友里",
-      "まーち"
+      "設樂夕日"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-590"
   },
   {
-    "id": 67863,
-    "IDcode": "ALDN-118",
-    "title": "ALDN-118",
+    "id": 18025,
+    "IDcode": "CAWD-592",
+    "title": "我屈服於兼職女學生的巨乳誘惑，沉迷於和愛寶すず的性愛中",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-21",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231104/20231104083348960960.jpg",
     "actress": [
-      "翔田千里"
+      "愛寶鈴"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-118"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-592"
   },
   {
-    "id": 66848,
-    "IDcode": "ALDN-119",
-    "title": "ALDN-119",
+    "id": 18029,
+    "IDcode": "CAWD-594",
+    "title": "絕倫限定選爸爸活動! 扮演爸爸與巨乳女大學生3P操到早上",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-21",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231105/b026a4f7-8fb4-4223-956c-4100ccba828b.jpg",
+    "actress": [
+      "小花暖",
+      "明日見未来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-594"
+  },
+  {
+    "id": 16569,
+    "IDcode": "CAWD-595",
+    "title": "隔壁青梅竹馬的一香，因爲熱水器壞了，來洗澡，受不了出汗的皮膚，受不了洗發水的味道，受不了那小小凸出的乳房，我與她發生了爆炸性的青春性行爲。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-10-03",
+    "cover_url": "https://picture.yoshiclub.xyz/20240128/20240127234737382382.jpg",
+    "actress": [
+      "松本一香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-595"
+  },
+  {
+    "id": 17455,
+    "IDcode": "CAWD-596",
+    "title": "被兩個美女同時壓著，三人盡情享受在東京每天都沒羞沒燥的日子，心情複雜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231203/1afdf18d-a5f4-4dec-a598-3864f8ed8ba9.jpg",
+    "actress": [
+      "愛寶鈴",
+      "天川空",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-596"
+  },
+  {
+    "id": 18030,
+    "IDcode": "CAWD-600",
+    "title": "現役偶像明星xAV女優! 西元美紗移籍Kawaii 60天後首部作品!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-11-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20231104/202311040817346161.jpg",
+    "actress": [
+      "西元美紗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-600"
+  },
+  {
+    "id": 16961,
+    "IDcode": "CAWD-602",
+    "title": "有着燦爛的笑容和美妙的高潮！奇跡般的OL觀月愛菜的第一次體驗 絕頂高潮 3 本番",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/202401020443227070.jpg",
+    "actress": [
+      "觀月愛菜",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-602"
+  },
+  {
+    "id": 16959,
+    "IDcode": "CAWD-606",
+    "title": "治療過程中，乳房被觸摸，陰蒂被玩弄，我愛上了猥褻的脊椎按摩師",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044523830830.jpg",
+    "actress": [
+      "設樂夕日"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-606"
+  },
+  {
+    "id": 16462,
+    "IDcode": "CAWD-608",
+    "title": "和女兒發生肉體關系已經三年了，今年又到了瞞着老婆去泡溫泉的季節",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205005659372372.jpg",
+    "actress": [
+      "松岡美桜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-608"
+  },
+  {
+    "id": 16962,
+    "IDcode": "CAWD-610",
+    "title": "野阪志保裏. [官方] 2024年1月2日正式出道 人生第一次衝動，全力以赴。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/202401020442586565.jpg",
+    "actress": [
+      "野坂志保里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-610"
+  },
+  {
+    "id": 17448,
+    "IDcode": "CAWD-612",
+    "title": "実寫版 下著傾盆大雨的夏天 濕透全身的女學生被中年陌生人強姦！ 原文：安野美咲 發行量：95,000張。 同人合作電影版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231203/a19086f0-91b8-430a-bbf6-ac5d733808d9.jpg",
+    "actress": [
+      "花柳杏奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-612"
+  },
+  {
+    "id": 17478,
+    "IDcode": "CAWD-613",
+    "title": "來打工的西元美紗又活潑又可愛 我超喜歡她 沉迷於和她的秘密戀情和中出性愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231202/2eb3ed2c-b179-438a-9ee4-74c4f2d7dcf9.jpg",
+    "actress": [
+      "西元美紗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-613"
+  },
+  {
+    "id": 16463,
+    "IDcode": "CAWD-621",
+    "title": "不倫、嫉妬、急躁……我想再次抱住我的妻子。三年沒有做愛的日子讓我們的關系重新燃起，我們一遍又一遍地做愛，就像我們剛開始約會時一樣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-02-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205005622645645.jpg",
+    "actress": [
+      "伊藤舞雪",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-621"
+  },
+  {
+    "id": 16965,
+    "IDcode": "CAWD-622",
+    "title": "「童貞的味道很危險！我離家出走了。」我被臭妹妹的搞的煩死了，青春期警報不停地響着，我一次又一次地和妹妹做愛亂倫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044005135135.jpg",
+    "actress": [
+      "日向夏",
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-622"
+  },
+  {
+    "id": 16963,
+    "IDcode": "CAWD-624",
+    "title": "「我可以來洗個澡嗎？」末班車開走了，我去了同事家……我對她毫無防備的胸部和裸露的雙腿感到興奮，我整夜操了她",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044222717717.jpg",
+    "actress": [
+      "天川空"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-624"
+  },
+  {
+    "id": 16964,
+    "IDcode": "CAWD-627",
+    "title": "公司出差，和女同事合住一個房間！晚上，我作爲一個很正常的男人沉迷於這幾個辣妹，被大奶子吞噬。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-01-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044054256256.jpg",
+    "actress": [
+      "乙愛麗絲",
+      "齋藤亞美里",
+      "沙月芽衣",
+      "斋藤亚美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-627"
+  },
+  {
+    "id": 10288,
+    "IDcode": "CAWD-758",
+    "title": "JK少女在隔壁鄰居家的垃圾房裏被骯髒惡臭的中年男人連續中出38次強奸 ~ 月野江翠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2024-12-03",
+    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128092619270270.jpg",
+    "actress": [
+      "月野江翠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-758"
+  },
+  {
+    "id": 9438,
+    "IDcode": "CAWD-762",
+    "title": "當童貞處男學生遇到浮華GAL系家教老師時......合體的反應太大了，危險！小心陷入無套中出沼澤 ~ 伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/202501020742008383.jpg",
+    "actress": [
+      "伊藤舞雪",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-762"
+  },
+  {
+    "id": 9432,
+    "IDcode": "CAWD-763",
+    "title": "已經23歲了卻還要被逼去當女童泳裝模特，比裸體還尷尬，因爲我長着一張娃娃臉…… ~ 日向夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102075902404404.jpg",
+    "actress": [
+      "日向夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-763"
+  },
+  {
+    "id": 9426,
+    "IDcode": "CAWD-764",
+    "title": "看上去清純可人的女友實際上是她們地方上有名的公用肉便器 ~ 設樂夕日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/202501020824387979.jpg",
+    "actress": [
+      "設樂夕日",
+      "タクト",
+      "すぱいく",
+      "はるま"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-764"
+  },
+  {
+    "id": 9451,
+    "IDcode": "CAWD-778",
+    "title": "SNS Buzz File01 超棒素人美女！很可愛，皮膚白皙，身材苗條。在一所著名的私立大學工作。我們在她的家鄉拍攝對她深度採訪。她喝醉後，開始潮吹和中出，太騷了。注意！這是未經允許流出的AV視頻！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102075146705705.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-119"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-778"
   },
   {
-    "id": 90691,
-    "IDcode": "ALDN-120",
-    "title": "ALDN-120",
+    "id": 8681,
+    "IDcode": "CAWD-780",
+    "title": "8年來再次看到妻子穿JK...靦腆的樣子讓我興奮不已，純純的性愛打破無性婚姻，重新喚醒青春！ ~ 伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-01-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240129-1/319a080cf3f39d39f1583a0dac97928f.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130075454929929.jpg",
     "actress": [
-      "新村晶"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-120"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-780"
   },
   {
-    "id": 67141,
-    "IDcode": "ALDN-122",
-    "title": "ALDN-122",
+    "id": 8668,
+    "IDcode": "CAWD-781",
+    "title": "噪音騷擾狂暴強奸。隔壁惡心的肥宅男一直在看AV，聲音很大。當我敲了他的門後... 連續3日3夜不間斷的騎在我身上操我 ~ 日向夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-14",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080308303303.jpg",
     "actress": [
-      "みっちー"
+      "日向夏"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-122"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-781"
   },
   {
-    "id": 62356,
-    "IDcode": "ALDN-124",
-    "title": "舐め好き親父と欲求不満な嫁 加藤ツバキ",
+    "id": 9445,
+    "IDcode": "CAWD-786",
+    "title": "發育途中思期期的叛逆女生逃學，被老頭子用嫺熟的性技巧玩弄的淫猥性交 ~ 宮瀨流花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250422-1/f834398739e08b52bc1fd6cbcc5893b8.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102085343662662.jpg",
     "actress": [
-      "夏树カオル"
+      "宮瀨流花"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-124"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-786"
   },
   {
-    "id": 66919,
-    "IDcode": "ALDN-125",
-    "title": "ALDN-125",
+    "id": 9440,
+    "IDcode": "CAWD-792",
+    "title": "新人出道！ 20歲的前偶像，現在在家鄉書店打工的普通女孩似乎是離AV女優最遠的清純女大學生，卻擁有對AV很重要的身材和敏感度 首次亮相 AV DEBUT ~ 石原青",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-14",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102073758543543.jpg",
     "actress": [
-      "塚田詩織"
+      "石原青",
+      "鲛岛",
+      "小田切ジュン",
+      "日森一"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-125"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-792"
   },
   {
-    "id": 67186,
-    "IDcode": "ALDN-126",
-    "title": "ALDN-126",
+    "id": 8549,
+    "IDcode": "CAWD-793",
+    "title": "新人出道！九州某私立初中現任音樂教師 同學眼裏嫺靜優雅的老師居然這麼淫蕩 首次亮相 AV DEBUT ~ 茅野華",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-14",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/202501300753536161.jpg",
     "actress": [
-      "真木今日子"
+      "茅野華"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-126"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-793"
   },
   {
-    "id": 67592,
-    "IDcode": "ALDN-128",
-    "title": "やっぱりシングルマザーが最高にいいや… 秋元美織",
+    "id": 9400,
+    "IDcode": "CAWD-794",
+    "title": "初中出……超濃密的過夜約會。微笑、親吻和精液，沉浸在只屬於我們兩個的世界中 ~ 桃瀨日葵",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-28",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-01-07",
+    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102081114993993.jpg",
     "actress": [
-      "秋元美織"
+      "桃瀨日葵"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-128"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-794"
   },
   {
-    "id": 67271,
-    "IDcode": "ALDN-129",
-    "title": "全裸義母 奈良崎みづき",
+    "id": 7842,
+    "IDcode": "CAWD-795",
+    "title": "想上大學就要被我們操… 想找後門入學的中介教師拍攝的猥褻輪奸視頻 ~ 宍戸裏帆",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/7ae772f641b045cd40705e4fbd447780.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227071137485485.jpg",
+    "actress": [
+      "宍戸里帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-795"
+  },
+  {
+    "id": 8707,
+    "IDcode": "CAWD-796",
+    "title": "被臭烘烘的中年男人關在鄰居家的垃圾房裏調教……被連續56次中出而懷孕的女學生的命運…… ~ 逢澤美優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130075848344344.jpg",
+    "actress": [
+      "逢澤美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-796"
+  },
+  {
+    "id": 7903,
+    "IDcode": "CAWD-797",
+    "title": "在鄰居的垃圾房間裏被臭烘烘的中年大叔狂揉大奶『乳頭硬邦邦』連擊中出し52發搞懷孕的認真新卒OL ~ 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227065906732732.jpg",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-797"
+  },
+  {
+    "id": 7906,
+    "IDcode": "CAWD-799",
+    "title": "超愛精子！伊藤舞雪 ~ 初次顏射解禁 臉蛋被超濃稠白濁黏液精液浴淹沒到窒息",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227065937714714.jpg",
+    "actress": [
+      "伊藤舞雪",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-799"
+  },
+  {
+    "id": 7865,
+    "IDcode": "CAWD-800",
+    "title": "「日向夏，你是我的知道嗎！」爲安全選擇了和男生合租 自戀室友卻把我當成了他的女友來控制 趕走後他怒闖復仇強暴 ~ 日向夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227071913334334.jpg",
+    "actress": [
+      "日向夏",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-800"
+  },
+  {
+    "id": 7889,
+    "IDcode": "CAWD-801",
+    "title": "「我的小穴太嫩了真害羞」 調戲柔弱少女的敏感私處 羞恥失禁交歡 ~ 設樂夕日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227071602174174.jpg",
+    "actress": [
+      "設樂夕日",
+      "コグレハルト"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-801"
+  },
+  {
+    "id": 8652,
+    "IDcode": "CAWD-802",
+    "title": "每天早上7點23分，在第三節車廂的後座，那個對我着迷的色狼竟然是我的老師 ~ 桃瀨日葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080253938938.jpg",
+    "actress": [
+      "桃瀨日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-802"
+  },
+  {
+    "id": 8670,
+    "IDcode": "CAWD-803",
+    "title": "前寫真偶像AV出道前的祕藏映像：她還是寫真偶像時的祕密溫泉之旅 ~ 天羽梨梨花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130082210427427.jpg",
+    "actress": [
+      "天羽梨梨花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-803"
+  },
+  {
+    "id": 8686,
+    "IDcode": "CAWD-804",
+    "title": "2年經驗的化妝師 牧野憐奈 20歲 第2章 現役女優們必須遵守的無理指令讓她們絕對高潮！！全身開發特輯 Special ~ 牧野憐奈 川上しずく 望月蕾 日向夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080430541541.jpg",
+    "actress": [
+      "望月蕾",
+      "日向夏",
+      "川上しずく",
+      "牧野怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-804"
+  },
+  {
+    "id": 8677,
+    "IDcode": "CAWD-807",
+    "title": "我無法抗拒她年輕、白皙、柔軟、美麗的身體......就像自慰一樣隨便的操朋友的漂亮制服女兒，中出爽爆 ~ 設樂夕日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-02-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130081856287287.jpg",
+    "actress": [
+      "設樂夕日"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-807"
+  },
+  {
+    "id": 7212,
+    "IDcode": "CAWD-808",
+    "title": "女用風俗潛入！伊藤舞雪被超強指技搞得神魂顛倒 本番NG卻忍不住偷偷開幹的私密偷拍×自拍映像 ~ 伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-04-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327081350250250.jpg",
+    "actress": [
+      "伊藤舞雪",
+      "イセドン内村",
+      "真琴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-808"
+  },
+  {
+    "id": 7208,
+    "IDcode": "CAWD-809",
+    "title": "班長被白濁玷污～制服美少女變態妄想精液恍惚～濃稠黏稠大量精液狂野羣交顏射59發 ~ 日向夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-04-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327081419331331.jpg",
+    "actress": [
+      "日向夏",
+      "ひょたん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-809"
+  },
+  {
+    "id": 7843,
+    "IDcode": "CAWD-811",
+    "title": "被執拗詭異的氛圍壓倒無奈乳交後… 裸照威脅下巨乳護士淪爲聽命的肉玩具 ~ 桃瀨日葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227073129109109.jpg",
+    "actress": [
+      "桃瀨日葵",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-811"
+  },
+  {
+    "id": 7850,
+    "IDcode": "CAWD-812",
+    "title": "讓人欲罷不能的極致華奢F杯美體【汗×潮噴×媚藥潤滑】妖豔絕頂躍動！ ~ 天羽梨梨花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227070209789789.jpg",
+    "actress": [
+      "天羽梨梨花",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-812"
+  },
+  {
+    "id": 7863,
+    "IDcode": "CAWD-814",
+    "title": "在故鄉小鎮首次無套中出大冒險！家裏『還有』回憶滿滿的情人旅館都被精液灌滿啦 ~ 石原青",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/202502270659509090.jpg",
+    "actress": [
+      "石原青",
+      "鲛岛",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-814"
+  },
+  {
+    "id": 7836,
+    "IDcode": "CAWD-815",
+    "title": "【私人拍攝】前女友·一花 21歲 她劈腿了我就曝光她 ※注意隨時可能停售",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-03-04",
+    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227073008316316.jpg",
     "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-129"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-815"
   },
   {
-    "id": 67226,
-    "IDcode": "ALDN-130",
-    "title": "あなた、私みたいなおばさん興奮させて…どうするのよ… 高園ゆり子",
+    "id": 6485,
+    "IDcode": "CAWD-817",
+    "title": "超爽！伊藤舞雪街頭逆搭訕素人男一夜激戰 越做越上頭最後喊來AV男優醉後狂歡串場性愛 ~ 伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/049feaad2fed086df36f628c11eccd2f.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501041657967967_thumbnail.webp",
     "actress": [
-      "三云ゆり子"
+      "伊藤舞雪",
+      "日森一"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-130"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-817"
   },
   {
-    "id": 67164,
-    "IDcode": "ALDN-131",
-    "title": "義母さんだって孕みたい。 宝田もなみ",
+    "id": 6449,
+    "IDcode": "CAWD-818",
+    "title": "女用風俗狂熱愛好者潛入體驗！常客獨家玩法大公開 本番NG卻忍不住瘋狂開幹 私密偷拍×自拍映像 ~ 日向夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-28",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-131"
-  },
-  {
-    "id": 90703,
-    "IDcode": "ALDN-132",
-    "title": "同窓会の後は… 水端あさみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-02-28",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-132"
-  },
-  {
-    "id": 66723,
-    "IDcode": "ALDN-133",
-    "title": "【FANZA限定】お義母さん、にょっ女房よりずっといいよ… 通野未帆 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-11",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043411279279_thumbnail.webp",
     "actress": [
-      "通野未帆",
+      "日向夏",
+      "青木りょう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-818"
+  },
+  {
+    "id": 7213,
+    "IDcode": "CAWD-820",
+    "title": "請原諒我，我將我的寫真偶像女友獻給你...抓住弱點，強暴現實生活中的芸能偶像操到懷孕的NTR中出 ~ 天羽梨梨花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-04-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083644614614.jpg",
+    "actress": [
+      "天羽梨梨花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-820"
+  },
+  {
+    "id": 7222,
+    "IDcode": "CAWD-823",
+    "title": "新人出道！從山形來玩的無垢田舍娘被街頭色色採訪套路成功！強引說服她出演 首次亮相 AV DEBUT ~ 平山羽那",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-04-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084014364364.jpg",
+    "actress": [
+      "平山羽那"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-823"
+  },
+  {
+    "id": 5732,
+    "IDcode": "CAWD-827",
+    "title": "號稱童貞獵手的我！卻被絕倫童貞小哥哥反殺，瘋狂中出讓我徹底淪陷 ~ 伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075738738738_thumbnail.webp",
+    "actress": [
+      "伊藤舞雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-827"
+  },
+  {
+    "id": 6450,
+    "IDcode": "CAWD-828",
+    "title": "新人出道！從地下偶像到性感解放：青春熱舞換來鏡頭前淫亂綻放 首次亮相 AV DEBUT ~ 時藤結菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042251941941_thumbnail.webp",
+    "actress": [
+      "時藤結菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-828"
+  },
+  {
+    "id": 6478,
+    "IDcode": "CAWD-829",
+    "title": "巨乳女學生被監禁調教中出し嗑藥亂交爽到爆 ~ 天羽梨梨花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043143758758_thumbnail.webp",
+    "actress": [
+      "天羽梨梨花",
+      "いち",
+      "七尾神",
+      "しめじ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-829"
+  },
+  {
+    "id": 70027,
+    "IDcode": "CAWD-831",
+    "title": "酔うと9割9分9厘ヤれる…。プロ野球中継のカメラに抜かれたG●美少女と優勝潮吹きがけ、顔射精子まみれ、大量中出しアクメとち狂い乱交 宅飲みハメ撮り映像。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-04-01",
+    "cover_url": "https://tutu1.space/images/2025/07/17/6b2692cd5ccc71b75fab4049603c6816.jpg",
+    "actress": [
+      "ラヴズ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-831"
+  },
+  {
+    "id": 6486,
+    "IDcode": "CAWD-832",
+    "title": "新人出道！初脫女大學生 東京都W大學3年生 20歲清純可人 首次亮相 AV DEBUT ~ 月丘紅羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043142613613_thumbnail.webp",
+    "actress": [
+      "月丘紅羽",
+      "えるる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-832"
+  },
+  {
+    "id": 6492,
+    "IDcode": "CAWD-833",
+    "title": "火辣自拍引爆的人氣網紅 - 超騷便利店小妹 AV初登場",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044756992992_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-833"
+  },
+  {
+    "id": 5714,
+    "IDcode": "CAWD-835",
+    "title": "老婆跑了！欠了黑幫高利貸的爸爸被逼用寶貝女兒來償債 ~ 設樂夕日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171918184184_thumbnail.webp",
+    "actress": [
+      "設樂夕日"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-835"
+  },
+  {
+    "id": 5715,
+    "IDcode": "CAWD-838",
+    "title": "新人出道！頂級原石新人發現！超辣正統派 顛覆常識的絕美少女 AV DEBUT ~ 青葉春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075828805805_s.webp",
+    "actress": [
+      "青葉春",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-838"
+  },
+  {
+    "id": 5735,
+    "IDcode": "CAWD-839",
+    "title": "新人出道！羣馬縣最騷的美發妹子，脫衣驚現隱匿巨乳，悶騷外表下超愛大屌，壓力大就靠性愛釋放，鄉下玩不開欲求不滿，AV拍攝徹底放飛 AV DEBUT ~ 凪宮ゆきの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171318119119_thumbnail.webp",
+    "actress": [
+      "凪宮ゆきの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-839"
+  },
+  {
+    "id": 5716,
+    "IDcode": "CAWD-840",
+    "title": "新人出道！IQ140 科學系學霸姐姐 23歲現役名校理工大學生 完美主義研究生拋開一切瘋狂本能性愛高潮不斷的日子 AV DEBUT ~ 涼音留衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529080035174174_thumbnail.webp",
+    "actress": [
+      "涼音留衣",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-840"
+  },
+  {
+    "id": 5725,
+    "IDcode": "CAWD-841",
+    "title": "新人出道！以枕營業換飯吃的獻身系偶像，超欲怪物上線 AV DEBUT ~ 橘伊織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075739468468_thumbnail.webp",
+    "actress": [
+      "橘伊織"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-841"
+  },
+  {
+    "id": 5708,
+    "IDcode": "CAWD-843",
+    "title": "惡劣寢取按摩被偷拍曝光！某縣某市女學生慘遭鹹豬手 ~ 石原青",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171918309309_thumbnail.webp",
+    "actress": [
+      "石原青"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-843"
+  },
+  {
+    "id": 4977,
+    "IDcode": "CAWD-845",
+    "title": "換妻酒吧NTR 我那清純美麗的女友被陌生男人喚醒了淫亂本性 ~ 伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031042382382_thumbnail.webp",
+    "actress": [
+      "伊藤舞雪",
+      "大村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-845"
+  },
+  {
+    "id": 5679,
+    "IDcode": "CAWD-846",
+    "title": "別叫我廢柴，小賤貨！繼父用巨根把你這小穴狠狠調教，讓你知道誰才是老大 ~ 日向夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171529192192_thumbnail.webp",
+    "actress": [
+      "日向夏",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-846"
+  },
+  {
+    "id": 5663,
+    "IDcode": "CAWD-847",
+    "title": "東京W大學三年級考古系才女月丘小姐20歲 平凡校園生活無法滿足的極致快感 生插內射初體驗爽到暈厥 ~ 月丘紅羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173135614614_thumbnail.webp",
+    "actress": [
+      "月丘紅羽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-847"
+  },
+  {
+    "id": 3961,
+    "IDcode": "CAWD-848",
+    "title": "靠！清純女友原來是陌生男人的小母狗 ~ 設樂夕日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "2025-08-01",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093943346346_97091_thumbnail.webp",
+    "actress": [
+      "設樂夕日",
       "左慈半造"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-848"
   },
   {
-    "id": 67146,
-    "IDcode": "ALDN-135",
-    "title": "あん時のセフレは…友人の母親 加山なつこ",
+    "id": 4965,
+    "IDcode": "CAWD-849",
+    "title": "獻身系偶像非我莫屬！綑綁中出4P隨便搞都沒問題 ~ 橘伊織",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250428-1/6e4d0a05e7ca8acfba1ae0fd9e172aea.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032727694694_thumbnail.webp",
     "actress": [
-      "加山なつ子"
+      "橘伊織",
+      "羽田貴史",
+      "ニック"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-849"
   },
   {
-    "id": 66961,
-    "IDcode": "ALDN-136",
-    "title": "貴方だけの為なの… 伊東沙蘭",
+    "id": 4947,
+    "IDcode": "CAWD-850",
+    "title": "IQ140 23歲科學系小姐姐，自製媚藥親自試驗爽翻天 ~ 涼音留衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-14",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-136"
-  },
-  {
-    "id": 67562,
-    "IDcode": "ALDN-137",
-    "title": "【FANZA限定】夫に内緒で義父に頼んだ妊活 成宮いろは チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-11",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032410511511_thumbnail.webp",
     "actress": [
-      "成宫いろは"
+      "涼音留衣",
+      "日森一",
+      "じゅうもんじ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-137"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-850"
   },
   {
-    "id": 67640,
-    "IDcode": "ALDN-138",
-    "title": "たびじ 母と子のふたり旅 西園寺美緒",
+    "id": 3959,
+    "IDcode": "CAWD-853",
+    "title": "把這人妻姐姐徹底幹服，夫妻關系和小穴我都要毀掉 ~ 伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-11",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-08-01",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085248238238_77364_thumbnail.webp",
     "actress": [
-      "森下美绪",
-      "みっちー"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-138"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-853"
   },
   {
-    "id": 90705,
-    "IDcode": "ALDN-139",
-    "title": "おっさんラッキー 桃井しずか",
+    "id": 4972,
+    "IDcode": "CAWD-854",
+    "title": "敢搶老娘的男人，復仇輪奸計劃狠狠幹翻小三 ~ 日向夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-28",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-139"
-  },
-  {
-    "id": 90706,
-    "IDcode": "ALDN-140",
-    "title": "母姦中出し 息子に初めて中出しされた母 秋元美織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-28",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031333937937_thumbnail.webp",
     "actress": [
-      "秋元美織"
+      "日向夏",
+      "大村"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-140"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-854"
   },
   {
-    "id": 90704,
-    "IDcode": "ALDN-141",
-    "title": "童貞中出し 初めては兄嫁で中出し 中山穂香",
+    "id": 4966,
+    "IDcode": "CAWD-855",
+    "title": "新人出道！如果能夠幫助到大家，那拍A片也是積功德吧！善良的義工妹子 下海拍片支援宅男 AV DEBUT ~ 七瀨穗香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-25",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031628796796_thumbnail.webp",
     "actress": [
-      "みっちー",
-      "中山穂香"
+      "七瀨穗花"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-141"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-855"
   },
   {
-    "id": 90708,
-    "IDcode": "ALDN-142",
-    "title": "ガクガクにされた女 翔田千里",
+    "id": 4993,
+    "IDcode": "CAWD-856",
+    "title": "東京練●區大●町的悲慘少女K子：從母女情深到被賣身調教再淪爲國際性奴 ~ 月丘紅羽",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-25",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626033213354354_thumbnail.webp",
     "actress": [
-      "翔田千里",
-      "左慈半造"
+      "月丘紅羽"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-142"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-856"
   },
   {
-    "id": 90710,
-    "IDcode": "ALDN-143",
-    "title": "性処理妻 小早川怜子",
+    "id": 4995,
+    "IDcode": "CAWD-858",
+    "title": "新人出道！來自世谷區的千金大小姐想要做賤貨！首演AV就狂接37發顏射洗禮 AV DEBUT ~ 桃美久",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-25",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-06-27",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031330724724_s.webp",
     "actress": [
-      "小早川怜子"
+      "桃美久"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-143"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-858"
   },
   {
-    "id": 90707,
-    "IDcode": "ALDN-144",
-    "title": "代理出産の母 大島未華子",
+    "id": 59931,
+    "IDcode": "CAWD-860",
+    "title": "‘伊藤舞雪’史上、超エグい痴女ー ペニバン解禁・鞭攻め・水中蹂躙・咀嚼プレイ・男潮イカせ等…M男を楽しく犯●まくるメスイキ調教ヤリ過ぎお姉さん！ （ブルーレイディスク）",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-144"
-  },
-  {
-    "id": 90711,
-    "IDcode": "ALDN-145",
-    "title": "この人妻に貪られる 高園ゆり子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-03-28",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-09-02",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/87bb1a4c/vod.jpg",
     "actress": [
-      "三云ゆり子"
+      "伊藤舞雪",
+      "ナイアガラ翔"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-145"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-860"
   },
   {
-    "id": 90713,
-    "IDcode": "ALDN-146",
-    "title": "お義母さん、にょっ女房よりずっといいよ… 竹内梨恵",
+    "id": 3999,
+    "IDcode": "CAWD-861",
+    "title": "爲我還債而被迫淪爲黑幫大佬的肉奴 女友被玩弄後竟沉迷AV拍攝 ~ 日向夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240202-1/eeb79dbb48dd0b8da12bc3a3cec2f742.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-08-01",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093948766766_79453_thumbnail.webp",
     "actress": [
-      "竹内梨恵",
-      "みっちー"
+      "日向夏"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-861"
   },
   {
-    "id": 90709,
-    "IDcode": "ALDN-147",
-    "title": "【FANZA限定】元彼がまさか家族に… 通野未帆 チェキ付き",
+    "id": 3955,
+    "IDcode": "CAWD-862",
+    "title": "143cm小只馬AV出道後犯校規被立即開除！…慘遭大量顔射深刻反省求回教育實習的可憐蘿莉實習生 ～ 小阪環奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-12",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-08-01",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093944217217_51225_thumbnail.webp",
     "actress": [
-      "通野未帆"
+      "小坂環奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-147"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-862"
   },
   {
-    "id": 90749,
-    "IDcode": "ALDN-149",
-    "title": "【FANZA限定】舐め好き親父と欲求不満な嫁 新村あかり チェキ付き",
+    "id": 3200,
+    "IDcode": "CAWD-866",
+    "title": "新人出道！京都室町 老鋪和服店千金小姐初下海 AV DEBUT ~ 塚本さや",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-12",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023659315315_83625_thumbnail.webp",
     "actress": [
-      "新村晶"
+      "塚本沙耶"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-149"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-866"
   },
   {
-    "id": 90746,
-    "IDcode": "ALDN-150",
-    "title": "あん時のセフレは…友人の母親 中野真子",
+    "id": 3207,
+    "IDcode": "CAWD-870",
+    "title": "放學後和穿着JK制服的女學生激情做愛，我是最差勁的老師 ~ 青葉春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-11",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-150"
-  },
-  {
-    "id": 90750,
-    "IDcode": "ALDN-151",
-    "title": "やっぱりシングルマザーが最高にいいや… 田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-11",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023851182182_87268_thumbnail.webp",
     "actress": [
-      "田所百合",
-      "左慈半造"
+      "青葉春",
+      "大岛丈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-151"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-870"
   },
   {
-    "id": 90745,
-    "IDcode": "ALDN-152",
-    "title": "全裸義母 高園ゆり子",
+    "id": 3208,
+    "IDcode": "CAWD-873",
+    "title": "在鄰居堆滿垃圾的房間裏被臭氣薰天的大叔監禁強⬤調教，被連續中出43發直到懷孕的JK制服妹子的末路 ~ 日向由奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-11",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023847898898_20871_thumbnail.webp",
     "actress": [
-      "三云ゆり子"
+      "日向由奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-152"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-873"
   },
   {
-    "id": 90747,
-    "IDcode": "ALDN-153",
-    "title": "おっさんラッキー 末広純",
+    "id": 2306,
+    "IDcode": "CAWD-878",
+    "title": "純情少女迷戀羞恥高潮 纖弱敏感身軀淪陷潮噴不停 ~ 青葉春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-153"
-  },
-  {
-    "id": 90748,
-    "IDcode": "ALDN-155",
-    "title": "辛抱堪らん 義理の娘でもおじさんは 水端あさみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-25",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-155"
-  },
-  {
-    "id": 90744,
-    "IDcode": "ALDN-156",
-    "title": "許して…この婿の子供が欲しい… 翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-25",
-    "cover_url": "",
+    "company": "KAWAII",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002022834483483_69196_thumbnail.webp",
     "actress": [
-      "翔田千里"
+      "青葉春",
+      "鲛岛",
+      "羽田貴史"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-156"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-878"
   },
   {
-    "id": 90742,
-    "IDcode": "ALDN-157",
-    "title": "夫に内緒で義父に頼んだ妊活 花撫あや",
+    "id": 2183,
+    "IDcode": "CAWD-879",
+    "title": "新人出道！kawaii史上最害羞的女主角 脫了！ AV DEBUT ~ 谷村凪咲",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-04-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240204-1/88368c649ce82d0f7c263670b8ce8720.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-10-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002021214546546_46046_thumbnail.webp",
     "actress": [
-      "池谷佳纯"
+      "谷村凪咲"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-157"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-879"
   },
   {
-    "id": 90741,
-    "IDcode": "ALDN-159",
-    "title": "【FANZA限定】貴方だけの為なの… 通野未帆 チェキ付き",
+    "id": 3209,
+    "IDcode": "CAWD-880",
+    "title": "新人出道！來自山梨縣的田舍純情少女初下海，渴望被大叔狠狠開發！ AV DEBUT ~ 柊美織",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240204-1/f6dc3dbd49114c3fa35655645f80684b.jpg",
+    "company": "KAWAII",
+    "publish_date": "2025-08-28",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828022304487487_38332_thumbnail.webp",
     "actress": [
-      "通野未帆"
+      "柊美織"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-159"
-  },
-  {
-    "id": 90740,
-    "IDcode": "ALDN-161",
-    "title": "おっさんラッキー 宝田もなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240204-1/71fc9010d57052bb09f36b694e718233.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-161"
-  },
-  {
-    "id": 90743,
-    "IDcode": "ALDN-162",
-    "title": "性処理妻 伊東沙蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240204-1/d1e2d62bbd29b0cd2473b8bc6473a3d1.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-162"
-  },
-  {
-    "id": 90775,
-    "IDcode": "ALDN-163",
-    "title": "妻が突然中出しを要求してきた理由 吉根ゆりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-09",
-    "cover_url": "",
-    "actress": [
-      "吉根柚莉爱",
-      "左慈半造"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-163"
-  },
-  {
-    "id": 90771,
-    "IDcode": "ALDN-165",
-    "title": "おっさんラッキー 本真ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-23",
-    "cover_url": "",
-    "actress": [
-      "本真友里"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-165"
-  },
-  {
-    "id": 90776,
-    "IDcode": "ALDN-166",
-    "title": "抱きたい元嫁 紗々原ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-23",
-    "cover_url": "",
-    "actress": [
-      "左慈半造",
-      "纱々原ゆり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-166"
-  },
-  {
-    "id": 90772,
-    "IDcode": "ALDN-167",
-    "title": "ガクガクにされた女 よしい美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-23",
-    "cover_url": "",
-    "actress": [
-      "しみけん",
-      "みっちー"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-167"
-  },
-  {
-    "id": 90774,
-    "IDcode": "ALDN-168",
-    "title": "やっぱりシングルマザーが最高にいいや… 美原すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-23",
-    "cover_url": "",
-    "actress": [
-      "美原すみれ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-168"
-  },
-  {
-    "id": 90773,
-    "IDcode": "ALDN-169",
-    "title": "再婚相手より前の年増な女房がやっぱいいや… 入山やよい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-23",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-169"
-  },
-  {
-    "id": 90768,
-    "IDcode": "ALDN-170",
-    "title": "出前先の叔母さんの誘惑 高園ゆり子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-05-23",
-    "cover_url": "",
-    "actress": [
-      "左慈半造",
-      "三云ゆり子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-170"
-  },
-  {
-    "id": 91641,
-    "IDcode": "ALDN-173",
-    "title": "出前先の叔母さんの誘惑 中山穂香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-06-13",
-    "cover_url": "",
-    "actress": [
-      "中山穂香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-173"
-  },
-  {
-    "id": 91643,
-    "IDcode": "ALDN-176",
-    "title": "母姦中出し 息子に初めて中出しされた母 黒川珠美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-06-13",
-    "cover_url": "",
-    "actress": [
-      "黒川珠美"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-176"
-  },
-  {
-    "id": 66079,
-    "IDcode": "ALDN-177",
-    "title": "ALDN-177 性処理妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2025-05-15",
-    "cover_url": "",
-    "actress": [
-      "田所百合"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-177"
-  },
-  {
-    "id": 91642,
-    "IDcode": "ALDN-179",
-    "title": "娘の旦那とダクあせ交尾 姫川礼子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-06-27",
-    "cover_url": "",
-    "actress": [
-      "姫川礼子",
-      "みっちー"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-179"
-  },
-  {
-    "id": 91650,
-    "IDcode": "ALDN-180",
-    "title": "あん時のセフレは…友人の母親 野咲美桜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240522-1/a9f6bbe80c928b3ab000271be6b968b5.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-180"
-  },
-  {
-    "id": 91653,
-    "IDcode": "ALDN-183",
-    "title": "【FANZA限定】お義母さん、にょっ女房よりずっといいよ… 花撫あや チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240522-1/16c2aed83a8d49e33fcaf4b2f16b9d80.jpg",
-    "actress": [
-      "左慈半造",
-      "池谷佳纯"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-183"
-  },
-  {
-    "id": 91652,
-    "IDcode": "ALDN-184",
-    "title": "【FANZA限定】女社長の性欲 谷あづさ チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240522-1/55c45e695e84914353deadb04f53132b.jpg",
-    "actress": [
-      "谷梓",
-      "左慈半造"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-184"
-  },
-  {
-    "id": 91654,
-    "IDcode": "ALDN-185",
-    "title": "【FANZA限定】辛抱堪らん 義理の娘でもおじさんは 佐々木咲和 チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240522-1/10fe9bfccf80f582fdb4d62101489d11.jpg",
-    "actress": [
-      "佐々木咲和"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-185"
-  },
-  {
-    "id": 91655,
-    "IDcode": "ALDN-186",
-    "title": "やっぱりシングルマザーが最高にいいや… 桃井しずか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240522-1/656d8a50542a7efb7040729e0074b99e.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-186"
-  },
-  {
-    "id": 91656,
-    "IDcode": "ALDN-187",
-    "title": "母姦中出し 息子に初めて中出しされた母 岡江凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-11",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-187"
-  },
-  {
-    "id": 107561,
-    "IDcode": "ALDN-190",
-    "title": "本当は前から好きだった兄の奥さん 高園ゆり子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-25",
-    "cover_url": "",
-    "actress": [
-      "左慈半造",
-      "三云ゆり子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-190"
-  },
-  {
-    "id": 107631,
-    "IDcode": "ALDN-191",
-    "title": "保険屋の叔母さんの誘惑 上島美都子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-25",
-    "cover_url": "",
-    "actress": [
-      "左慈半造",
-      "上岛美都子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-191"
-  },
-  {
-    "id": 91651,
-    "IDcode": "ALDN-192",
-    "title": "あなた、私みたいなおばさん興奮させて…どうするのよ… 嶋崎かすみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240522-1/5af7c5699ef09078321dd970c603039a.jpg",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-192"
-  },
-  {
-    "id": 91645,
-    "IDcode": "ALDN-193",
-    "title": "全裸義母 若菜綾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-07-25",
-    "cover_url": "",
-    "actress": [
-      "椎名綾"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-193"
-  },
-  {
-    "id": 91637,
-    "IDcode": "ALDN-194",
-    "title": "義母さんだって孕みたい。 川上ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-08",
-    "cover_url": "",
-    "actress": [
-      "川上優",
-      "左慈半造"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-194"
-  },
-  {
-    "id": 91636,
-    "IDcode": "ALDN-195",
-    "title": "女社長の性欲 成宮いろは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-08",
-    "cover_url": "",
-    "actress": [
-      "左慈半造",
-      "成宫いろは"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-195"
-  },
-  {
-    "id": 91657,
-    "IDcode": "ALDN-196",
-    "title": "抱きたい元嫁 新村あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-08",
-    "cover_url": "",
-    "actress": [
-      "新村晶"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-196"
-  },
-  {
-    "id": 91638,
-    "IDcode": "ALDN-197",
-    "title": "辛抱堪らん 義理の娘でもおじさんは 彩奈リナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-08",
-    "cover_url": "",
-    "actress": [
-      "彩奈莉娜"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-197"
-  },
-  {
-    "id": 106863,
-    "IDcode": "ALDN-198",
-    "title": "同じマンションの人妻がエロ過ぎて… 永野つかさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-08",
-    "cover_url": "",
-    "actress": [
-      "永野司"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-198"
-  },
-  {
-    "id": 91647,
-    "IDcode": "ALDN-199",
-    "title": "全裸義母 よしい美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-08",
-    "cover_url": "",
-    "actress": [
-      "しみけん"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-199"
-  },
-  {
-    "id": 106859,
-    "IDcode": "ALDN-200",
-    "title": "【FANZA限定】舐め好き親父と欲求不満な嫁 谷あづさ チェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-23",
-    "cover_url": "",
-    "actress": [
-      "谷梓",
-      "左慈半造"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-200"
-  },
-  {
-    "id": 91639,
-    "IDcode": "ALDN-201",
-    "title": "町内会の集まりで 塚田詩織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-22",
-    "cover_url": "",
-    "actress": [
-      "塚田詩織",
-      "ひょこり"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-201"
-  },
-  {
-    "id": 91658,
-    "IDcode": "ALDN-202",
-    "title": "性処理妻 真木今日子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-22",
-    "cover_url": "",
-    "actress": [
-      "真木今日子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-202"
-  },
-  {
-    "id": 106870,
-    "IDcode": "ALDN-203",
-    "title": "私は尻で近所の旦那様を誘惑してます… 田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-22",
-    "cover_url": "https://tutu1.space/images/2023/10/05/d84c9da580622167c6291c913c250041.jpg",
-    "actress": [
-      "田所百合"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-203"
-  },
-  {
-    "id": 91659,
-    "IDcode": "ALDN-204",
-    "title": "母さんに乳房を揉んでとせがまれて… 京野美沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-08-22",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-204"
-  },
-  {
-    "id": 106952,
-    "IDcode": "ALDN-207",
-    "title": "夫に内緒で義父に頼んだ妊活 伊東沙蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-12",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-207"
-  },
-  {
-    "id": 106951,
-    "IDcode": "ALDN-208",
-    "title": "おっさんラッキー 森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-12",
-    "cover_url": "",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-208"
-  },
-  {
-    "id": 106950,
-    "IDcode": "ALDN-209",
-    "title": "義母さんだって孕みたい。 加藤ツバキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-12",
-    "cover_url": "",
-    "actress": [
-      "左慈半造",
-      "夏树カオル"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-209"
-  },
-  {
-    "id": 106949,
-    "IDcode": "ALDN-210",
-    "title": "母姦中出し 息子に初めて中出しされた母 石川芙美乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-09-12",
-    "cover_url": "",
-    "actress": [
-      "ひょこり",
-      "石川芙美乃"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-210"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-880"
   }
 ];

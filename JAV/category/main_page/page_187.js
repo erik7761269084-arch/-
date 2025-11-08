@@ -1,1645 +1,1581 @@
 window.PAGE_DATA = [
   {
-    "id": 18403,
-    "IDcode": "JUQ-400",
-    "title": "在工作的旅館偶遇曾經性騷擾我的變態老師 從此我注定變成他的玩物",
+    "id": 80158,
+    "IDcode": "URKK-054",
+    "title": "最低10発はヌクッ！！巨乳を震わせながらヌキまくる何発でも中出しOKの巨乳媚薬サロン 希咲アリス",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20231009/202310090029339292.jpg",
-    "actress": [
-      "天川空"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-400"
+    "company": "UNFINISHED",
+    "publish_date": "2022-02-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/db2096ba42b5dd99daab05f29ef6fd3f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-054"
   },
   {
-    "id": 91703,
-    "IDcode": "JUQ-402",
-    "title": "妻の妊娠中、オナニーすらも禁じられた僕は上京してきた義母・かんなさんに何度も種付けSEXをしてしまった…。 藤かんな",
+    "id": 68802,
+    "IDcode": "URKK-060",
+    "title": "隔壁變態房東每天搓揉胸部侵犯 星川舞",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/fa0a4079eef9918258c363a788bcd768.jpg",
-    "actress": [
-      "藤環奈",
-      "ニック"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-402"
+    "company": "UNFINISHED",
+    "publish_date": "2022-06-14",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250405-1/9bc5c31d963a9dfdd98b1ba8d26dc02e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-060"
   },
   {
-    "id": 18405,
-    "IDcode": "JUQ-403",
-    "title": "中出輪姦的日子永遠不會結束",
+    "id": 89543,
+    "IDcode": "URKK-064",
+    "title": "【FANZA限定】最低10発はヌクッ！！巨乳を震わせながらイキまくる何発でも中出しOKの巨乳媚薬サロン 中条りの チェキ付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20231009/20231009001154344344.jpg",
-    "actress": [
-      "多田有花",
-      "Qべぇ",
-      "みっちー"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-403"
+    "company": "UNFINISHED",
+    "publish_date": "2022-08-10",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231230-1/ed2ab298ff9433b55ac23d83490c109d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-064"
   },
   {
-    "id": 18407,
-    "IDcode": "JUQ-404",
-    "title": "裸模NTR震撼出軌視頻，老闆和妻子陷入恥辱",
+    "id": 88964,
+    "IDcode": "URKK-084",
+    "title": "【FANZA限定】隣の変態大家におっぱいを揉まれ毎日犯●れてます 逢月ひまり チェキ付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
+    "company": "UNFINISHED",
+    "publish_date": "2023-06-14",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/a25c2c124d1e01f6e2ca327abb7ace90.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-084"
+  },
+  {
+    "id": 88986,
+    "IDcode": "URKK-086",
+    "title": "最低10発はヌクッ！！巨乳を震わせながらイキまくる何発でも中出しOKの巨乳媚薬サロン 星乃夏月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2023-07-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/61fdf0daa265ee00ec3e206687cf4b92.jpg",
+    "actress": [
+      "星乃夏月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-086"
+  },
+  {
+    "id": 88989,
+    "IDcode": "URKK-088",
+    "title": "【FANZA限定】最低10発はヌクッ！！巨乳を震わせながらイキまくる何発でも中出しOKの巨乳媚薬サロン 藤子みお チェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2023-08-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/de92c77a14adec092f9d61c1670eaec4.jpg",
+    "actress": [
+      "藤子未央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-088"
+  },
+  {
+    "id": 88967,
+    "IDcode": "URKK-090",
+    "title": "隣の変態大家におっぱいを揉まれ毎日犯●れてます 綾瀬こころ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2023-09-12",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/ada6b17b0069129036e3d6ce04aa79b0.jpg",
+    "actress": [
+      "绫濑心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-090"
+  },
+  {
+    "id": 88965,
+    "IDcode": "URKK-092",
+    "title": "【FANZA限定】事故で頭を打ってから妄想が現実に！おっぱい丸出しで誘惑して何度も僕の精子をヌイてくるW神乳美女 弥生みづき・流川莉央 流川莉央さんのチェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
     "publish_date": "2023-10-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20231009/202310090004327575.jpg",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/3360b183be3745369c340a9acc6a1991.jpg",
     "actress": [
-      "葉山小百合",
-      "左慈半造",
+      "弥生美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-092"
+  },
+  {
+    "id": 17869,
+    "IDcode": "URKK-093",
+    "title": "隔壁的變態鄰居每天都要強迫搓揉白花のん的奶子然後強姦....",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2023-11-14",
+    "cover_url": "https://picture.yoshiclub.xyz/20231113/8087adfe-2c11-4cde-bd08-3844a3f71838.jpg",
+    "actress": [
+      "白花暖"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-093"
+  },
+  {
+    "id": 88966,
+    "IDcode": "URKK-094",
+    "title": "おっぱいで癒される！至れり尽くせり爆乳美少女メイドリフレ館 弓乃りむ・水原みその",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2023-11-14",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/acba84e17587dcaf69a7f3657a0080d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-094"
+  },
+  {
+    "id": 17325,
+    "IDcode": "URKK-095",
+    "title": "隔壁變態房東天天揉胸操我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2023-12-13",
+    "cover_url": "https://picture.yoshiclub.xyz/20231211/085122be-f8f8-4915-8709-1eda05e1731a.jpg",
+    "actress": [
+      "優梨舞奈",
+      "优梨まいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-095"
+  },
+  {
+    "id": 16338,
+    "IDcode": "URKK-097",
+    "title": "夏川步美的大奶子每天都被隔壁的變態房東揉搓和操弄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2024-02-13",
+    "cover_url": "https://picture.yoshiclub.xyz/20240213/5d5c93b5-0a7e-4227-9393-f45218c4a717.jpg",
+    "actress": [
+      "夏川步美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-097"
+  },
+  {
+    "id": 10689,
+    "IDcode": "URKK-107",
+    "title": "流出映像！足球俱樂部合宿NTR ~ 柏木小夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2024-11-13",
+    "cover_url": "https://picture.yoshiclub.xyz/20241111/99e8df47-532a-4362-955b-6c475e207668.jpg",
+    "actress": [
+      "柏木小夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-107"
+  },
+  {
+    "id": 8416,
+    "IDcode": "URKK-110",
+    "title": "大人氣的足球節目的美女主持，是我小時候青梅竹馬的好友。從小就喜歡她，但她實際上是個人就可以上淫女 ~ 靜河",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2025-02-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20250208/c92a2e18-6acf-462e-8f79-8c2b73f0b278.jpg",
+    "actress": [
+      "静河"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-110"
+  },
+  {
+    "id": 6224,
+    "IDcode": "URKK-113",
+    "title": "頂級服侍！誘惑內褲走光性感女僕大放送 ~ 倉木詩織 小那海綾 胡桃櫻花 木下日葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2025-05-10",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052100471471_thumbnail.webp",
+    "actress": [
+      "胡桃櫻花",
+      "木下日葵",
+      "小那海綾",
+      "倉木詩織",
+      "佐佐波绫",
+      "仓木诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-113"
+  },
+  {
+    "id": 5467,
+    "IDcode": "URKK-114",
+    "title": "鄉下新搬來的情侶檔，女友被隔壁不良大佬輪流調教 ~ 宮城理惠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013358832832_thumbnail.webp",
+    "actress": [
+      "宮城理惠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-114"
+  },
+  {
+    "id": 4634,
+    "IDcode": "URKK-115",
+    "title": "大學生女友沉迷牛郎欠下巨債被迫肉償淪陷新宿歌舞伎町 ~ 皆濑明里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2025-07-05",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707033455751751_21088_thumbnail.webp",
+    "actress": [
+      "皆瀨明里",
+      "トミフミ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-115"
+  },
+  {
+    "id": 3688,
+    "IDcode": "URKK-116",
+    "title": "無限發射！美少女JK風俗店秘密打工 ~ 柏木小夏 沙月惠奈 皆瀨明里 松井日奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "UNFINISHED",
+    "publish_date": "2025-08-08",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809011605760760_84686_thumbnail.webp",
+    "actress": [
+      "柏木小夏",
+      "沙月惠奈",
+      "皆瀨明里",
+      "松井日奈子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-116"
+  },
+  {
+    "id": 3443,
+    "IDcode": "URKN-004",
+    "title": "頂級身材美女+爆乳少女+透白G杯美少女集結！無套生中視角3小時超長特輯 ~ 都月楓 白橋里帆 白石渚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "Urakin",
+    "publish_date": "2025-08-10",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820121228523523_96156_thumbnail.webp",
+    "actress": [
+      "都月楓",
+      "白石渚",
+      "白橋里帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKN-004"
+  },
+  {
+    "id": 2558,
+    "IDcode": "URKN-005",
+    "title": "狂熱連續射精特輯！性感辣妹+大奶騷貨+翹臀甜妹齊聚！超濃烈性愛4小時大合集 ~ 天月梓 あおい藍 若月もあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "Urakin",
+    "publish_date": "2025-09-12",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914051309736736_98604_thumbnail.webp",
+    "actress": [
+      "天月梓",
+      "若月もあ",
+      "あおい藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKN-005"
+  },
+  {
+    "id": 2401,
+    "IDcode": "URKN-802",
+    "title": "極品性感美巨乳美女再戰！4連射連續升天 ~ 都月楓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "Urakin",
+    "publish_date": "2025-09-26",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/ab44ab90/vod.jpg",
+    "actress": [
+      "都月楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKN-802"
+  },
+  {
+    "id": 77947,
+    "IDcode": "URLH-012",
+    "title": "おっぱいで超誘惑してくる新人セクキャバ嬢 生野ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2019-12-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241120-1/46a84e155ea3a1e0cdc1100c02f58c9f.jpg",
+    "actress": [
+      "生野光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URLH-012"
+  },
+  {
+    "id": 78043,
+    "IDcode": "URLH-012CN",
+    "title": "URLH012CN 巨乳誘惑新人風俗妹 生野光.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241120-1/2b507733baf7740951dd3553bcfeaaab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URLH-012CN"
+  },
+  {
+    "id": 73054,
+    "IDcode": "URLH-018",
+    "title": "おっぱいで超誘惑してくる新人セクキャバ嬢 稲場るか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-08-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/ecefd2da5d308b261d0b139443d7a8f4.jpg",
+    "actress": [
+      "稻场流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URLH-018"
+  },
+  {
+    "id": 82842,
+    "IDcode": "USAG-007",
+    "title": "「乳首が感じない男ってつまんな～い！」っていう、男の乳首を責めるのが大好きな私の女友達がAVに出たがってたので出演してもらいました。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2020-02-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/bcbabd2341f98cdcd7da7f1ed05e0c05.jpg",
+    "actress": [
+      "日向咲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-007"
+  },
+  {
+    "id": 79365,
+    "IDcode": "USAG-037",
+    "title": "超爆乳 Jカップレイヤー 地方在住・個撮 「田舎じゃ楽しいこと何もないんです。上京したいけど勇気なくて。」地方在住ロリ巨乳の地味娘と1日中コスハメセックス。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2021-09-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/12c3c3ab36384698ae62eb51c51f30b6.jpg",
+    "actress": [
+      "凪沙雪乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-037"
+  },
+  {
+    "id": 69866,
+    "IDcode": "USAG-042",
+    "title": "子宮堕ち、初体験。 桃花ちゃん（19） ロリ系/剛毛/スレンダー/十代/美少女/小悪魔/4P/2本番/M男君好き/人生初ハードセックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2022-01-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/f606f2b2b39e2fbc97a5b1213175073e.jpg",
+    "actress": [
+      "小栗操"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-042"
+  },
+  {
+    "id": 68424,
+    "IDcode": "USAG-048",
+    "title": "お下劣破廉恥動画で炎上中バカッター巨乳看護師りの ＃職場エロテロ撮影 ＃体液祭り ＃鬼騎乗位 ＃中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2022-10-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250406-1/b6de19234e71bbf84520e964cc14c451.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-048"
+  },
+  {
+    "id": 88987,
+    "IDcode": "USAG-055",
+    "title": "エゲツナイ性欲と鉄マンで海の漢を奮い勃たせてきた漁師の娘みやこ 【急募】容赦ない激ピス要求に見合うチ○ポが小樽にはもうありません…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2023-06-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/9e7a266863f9d5f37b3353c3e2368120.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-055"
+  },
+  {
+    "id": 88963,
+    "IDcode": "USAG-056",
+    "title": "隠匿スケベ女子2名確保「クール女子装ってますけど毎日エロ妄想しかしてないマ●コです」 ～ポケット突っ込みコソオナ書道師範痴女まいな/ツンデレヤンキーは「ごめんなさい」イキ連呼オナホM女もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2023-07-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/742fba1901f5ac3231829f59d6e5a2af.jpg",
+    "actress": [
+      "优梨まいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-056"
+  },
+  {
+    "id": 88937,
+    "IDcode": "USAG-059",
+    "title": "「ここで舐めるの？」リスキーエリアでチ●ポどちゃ嬲り パパ活ペロフェッショナルなJcup司法書士みうさん精子10発搾取 有岡みう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2023-10-24",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/979fe6fcdf4a514a2db14512bde00def.jpg",
+    "actress": [
+      "椎叶みくる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-059"
+  },
+  {
+    "id": 61077,
+    "IDcode": "USAG-078",
+    "title": "バレたらヤバイ！授業を抜け出してトイレで即尺フェラチオ！たっぷり舌上発射編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "2025-08-12",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/f5ce9a7c/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USAG-078"
+  },
+  {
+    "id": 69959,
+    "IDcode": "USBA-007",
+    "title": "媚薬BDSM 清楚な若妻が淫乱なケダモノになっていく記録 有坂深雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2019-06-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/f8af1d082afeefa442c15f7123a8a596.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-007"
+  },
+  {
+    "id": 72765,
+    "IDcode": "USBA-020",
+    "title": "制服緊縛 伯父に調教されています...性奴●にされた私…。 星乃マミ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2020-10-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/64d4562ab3ec34fc3decfa2648abb8f9.jpg",
+    "actress": [
+      "星乃麻美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-020"
+  },
+  {
+    "id": 106819,
+    "IDcode": "USBA-032",
+    "title": "不倫ディスタンス 学生時代のコーチに犯●れて、快楽漬け調教で羞恥と屈辱の中でマゾで痴女に堕ちていった人妻 藤森里穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2021-09-07",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/usba032/usba032pl.jpg",
+    "actress": [
+      "藤森里穂",
       "大岛丈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-404"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-032"
   },
   {
-    "id": 18406,
-    "IDcode": "JUQ-405",
-    "title": "鎮上的NTR露營地 - 我的妻子在帳篷內多次被射精的視頻 [觀看警告]",
+    "id": 106583,
+    "IDcode": "USBA-044",
+    "title": "小悪魔美少女にねっとり調教された中年教師 工藤ララ パンティと生写真とデジタル写真集付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20231009/20231009000042435435.jpg",
+    "company": "妄想族",
+    "publish_date": "2022-05-11",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/usba044/usba044pl.jpg",
     "actress": [
-      "明里紬",
-      "明里䌷"
+      "工藤拉拉"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-405"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-044"
   },
   {
-    "id": 18408,
-    "IDcode": "JUQ-406",
-    "title": "我不能讓我先生知道公公在上次溫泉旅行時強姦我了還懷了孕",
+    "id": 88990,
+    "IDcode": "USBA-064",
+    "title": "制服緊縛 お仕置き緊縛で縄の悦を覚えた清純な体 上坂めい",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20231009/20231008222417382382.jpg",
+    "company": "妄想族",
+    "publish_date": "2023-06-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/e26055638548c7d6ee2b1f648d17bd35.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-064"
+  },
+  {
+    "id": 88991,
+    "IDcode": "USBA-065",
+    "title": "いつでもヤレるむっちり肉感ギャルのひめちゃんは、チ○ポ大好きド淫乱極上セフレ！ 白雪ひめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2023-07-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/15f457847c286565ee5263dd4f499437.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-065"
+  },
+  {
+    "id": 7258,
+    "IDcode": "USBA-082",
+    "title": "媚藥油按摩爽到停不下來的超淫蕾絲癡女 ~ 椿莉香 水川潤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2025-03-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20250326/56ac9ab7-b3b9-4768-95af-c0680b562b1f.jpg",
     "actress": [
-      "橘京花"
+      "椿莉香",
+      "水川潤",
+      "由爱可奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-406"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-082"
   },
   {
-    "id": 18222,
-    "IDcode": "JUQ-408",
-    "title": "這是100 年來最大的獨家節目之一!! 與我的丈夫發生性關係並生下孩子後，我的岳父不斷地在我體內射精...",
+    "id": 6219,
+    "IDcode": "USBA-083",
+    "title": "特別搜查官緊縛調教 巨乳女搜查官淪陷於麻繩快感 ~ 椿りか",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022032259294294.jpg",
+    "company": "妄想族",
+    "publish_date": "2025-05-10",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052527786786_thumbnail.webp",
     "actress": [
-      "沖宮那美"
+      "椿莉香"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-408"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-083"
   },
   {
-    "id": 18227,
-    "IDcode": "JUQ-409",
-    "title": "【FANZA限定】人妻秘書，滿身汗水的對社長室內中出性交 麥當娜專屬Premium 秘書就任!",
+    "id": 88988,
+    "IDcode": "USYW-002",
+    "title": "初撮り美人書道家AV堕ち 柿本雪花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022025326864864.jpg",
+    "company": "TMA",
+    "publish_date": "2023-06-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/40b6222ea009845cdab75529b2761ab2.jpg",
     "actress": [
-      "竹内有紀"
+      "岡西友美"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-409"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USYW-002"
   },
   {
-    "id": 91706,
-    "IDcode": "JUQ-410",
-    "title": "専属第3弾！！100cmOVERの肉感バストに酔い痴れるー！！ 彼女に振られた俺は昼間から、隣の専業主婦に丸ごと包まれて何度も、何度も、中出ししたー。 藤沢麗央",
+    "id": 10387,
+    "IDcode": "UZU-019",
+    "title": "時間停止的世界 ~ 小那海綾",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "",
+    "company": "妄想族",
+    "publish_date": "2024-11-26",
+    "cover_url": "https://picture.yoshiclub.xyz/20241124/20241124034230801801.jpg",
     "actress": [
-      "藤沢麗央",
-      "日森一"
+      "小那海綾",
+      "佐佐波绫"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-410"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UZU-019"
   },
   {
-    "id": 17896,
-    "IDcode": "JUQ-411",
-    "title": "處男第一次來東京卻將自己的童貞交給了一個網路上認識的人妻",
+    "id": 5805,
+    "IDcode": "UZU-029",
+    "title": "時間停止神技 醫院裡的性感護士被玩弄於股掌之間 ~ 美咲佳奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
+    "company": "妄想族",
+    "publish_date": "2025-05-24",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523234825460460_thumbnail.webp",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UZU-029"
+  },
+  {
+    "id": 4827,
+    "IDcode": "UZU-030",
+    "title": "時間靜止的奇幻世界：巨乳姊姊的私密調教 ~ 姫咲華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "2025-06-21",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621064906304304_thumbnail.webp",
+    "actress": [
+      "姫咲華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UZU-030"
+  },
+  {
+    "id": 70129,
+    "IDcode": "VAGU-220",
+    "title": "文学系の母親が息子の友達を抵抗できないように拘束して中出しさせるじわじわねっちょり淫語たっぷりセックス 君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "2019-11-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/4507ae22802e1bcc2d4bf45a2c174001.jpg",
+    "actress": [
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-220"
+  },
+  {
+    "id": 74589,
+    "IDcode": "VAGU-222",
+    "title": "近親相姦中出しソープ 初めての熟女風俗、指名したら母ちゃんだった 三浦恵理子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "2019-12-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/92c6d5c04cecbf79770fbe72a8f523de.jpg",
+    "actress": [
+      "三浦恵理子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-222"
+  },
+  {
+    "id": 82080,
+    "IDcode": "VAGU-226",
+    "title": "最愛の夫のため…マネキンになって出荷された妻～麗しのマネキン夫人外伝～ 川崎紀里恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "2020-04-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221107-1/817eb6876ddf213e7b580e53b3d1da2d.jpg",
+    "actress": [
+      "川崎纪里恵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-226"
+  },
+  {
+    "id": 82104,
+    "IDcode": "VAGU-227",
+    "title": "中出しご奉仕爆尻ソープ 川原かなえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "2020-04-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221107-1/624c5aa16060564da93f09188385d9a6.jpg",
+    "actress": [
+      "川原かなえ",
+      "真琴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-227"
+  },
+  {
+    "id": 70076,
+    "IDcode": "VAGU-244",
+    "title": "甘え上手な人妻がラブラブご奉仕 恋人気分で中出しソープ 白木優子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "2022-03-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/6e7ec8cee8b94f7e13c8dca601885511.jpg",
+    "actress": [
+      "白木優子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-244"
+  },
+  {
+    "id": 86517,
+    "IDcode": "VAGU-245",
+    "title": "クレーム処理のため自らマネキンになった女上司～麗しのマネキン夫人外伝～ 児玉れな （ブルーレイディスク） （BOD）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "VENUS",
+    "publish_date": "2022-05-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/437de0d5836d3f6d7f7860f90ecbeec3.jpg",
+    "actress": [
+      "儿玉玲奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-245"
+  },
+  {
+    "id": 89155,
+    "IDcode": "VAGU-263",
+    "title": "恥辱のマネキン夫人～部下に裏切られた夫、夫に裏切られた妻～ 白木優子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "VENUS",
     "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/93ef2a89-bf59-4090-a348-1839ebcc84e9.jpg",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231212-1/cb1f57f15fe6f26a16645c7c116568c6.jpg",
     "actress": [
-      "一乃葵"
+      "白木優子",
+      "タイ",
+      "真琴"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-411"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-263"
   },
   {
-    "id": 18226,
-    "IDcode": "JUQ-412",
-    "title": "丈夫不在5天 我陷入了鬥爭，公公對我進行了身體和精神上的雙重訓練",
+    "id": 89153,
+    "IDcode": "VAGU-264",
+    "title": "おっパブ、ソープ、メンズエステ…どの店に行っても息子を溺愛する母親が抜きにくる風俗フルコース相姦 森沢かな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022030534619619.jpg",
+    "company": "VENUS",
+    "publish_date": "2023-11-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231212-1/19d06eb833338898824022cb2ae55851.jpg",
     "actress": [
-      "篠田優",
-      "大岛丈",
-      "篠田优"
+      "森澤佳奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-412"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-264"
   },
   {
-    "id": 18228,
-    "IDcode": "JUQ-414",
-    "title": "客人投訴並要挾寢取了妻子 商業夥伴對人妻的NTR",
+    "id": 9905,
+    "IDcode": "VAGU-278",
+    "title": "酒吧、泡泡浴、男士美容院……無論去哪家店，寵愛兒子的媽媽都會來找你的 ~ 都月楓",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022025054173173.jpg",
+    "company": "VENUS",
+    "publish_date": "2024-12-17",
+    "cover_url": "https://picture.yoshiclub.xyz/20241214/ff8c7800-604b-4325-8074-a580b5a186d5.jpg",
     "actress": [
-      "向井藍"
+      "都月楓"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-414"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-278"
   },
   {
-    "id": 18229,
-    "IDcode": "JUQ-415",
-    "title": "妻子的妹妹瞧不起我 我狠狠的強姦了她",
+    "id": 6047,
+    "IDcode": "VAGU-280",
+    "title": "末班車上露底褲的嫂子發現我硬了開始勾引我 ~ 森沢かな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022024559127127.jpg",
+    "company": "VENUS",
+    "publish_date": "2025-05-16",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515095316596596_thumbnail.webp",
     "actress": [
-      "栗山莉緒",
-      "栗山莉绪"
+      "森澤佳奈",
+      "ばたけ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-415"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-280"
   },
   {
-    "id": 18230,
-    "IDcode": "JUQ-416",
-    "title": "麥當娜獨家NO 2 中出禁令解除！ ！ 我被丈夫最好的朋友操懷孕了",
+    "id": 3731,
+    "IDcode": "VAGU-282",
+    "title": "末班電車上不小心露底的大姨子發現我硬了開始撩我 ~ 宮西光",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022024242947947.jpg",
+    "company": "VENUS",
+    "publish_date": "2025-08-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/202508070343132626_66246_thumbnail.webp",
     "actress": [
-      "木村玲衣"
+      "宮西光"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-416"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-282"
   },
   {
-    "id": 17621,
-    "IDcode": "JUQ-417",
-    "title": "傲慢的女上司水戶香奈代替丈夫卻向客戶道歉，卻遭到了恥辱的侵犯",
+    "id": 2716,
+    "IDcode": "VAGU-284",
+    "title": "電車癡漢內射～巨乳人妻沉迷恐懼與快感～ 柳可憐",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/32fcc571-ee1f-4dd4-846e-52fd246967ad.jpg",
-    "actress": [
-      "水户香奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-417"
-  },
-  {
-    "id": 17619,
-    "IDcode": "JUQ-418",
-    "title": "和儿子朋友制御不能的絶倫交尾内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/87f78ed7-06e9-4275-8100-e44fb5f57e25.jpg",
-    "actress": [
-      "大島優香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-418"
-  },
-  {
-    "id": 91738,
-    "IDcode": "JUQ-419",
-    "title": "新人 遠野夏生 38歳 AV DEBUT 某有名高級ブランド店で働く、魔性の色気を放つイイオンナ―。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-09-12",
-    "cover_url": "",
-    "actress": [
-      "遠野夏生"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-419"
-  },
-  {
-    "id": 106718,
-    "IDcode": "JUQ-420",
-    "title": "オトナの色香が溢れ出る人妻！！Madonna専属第3弾！！ 主人の居ない昼下がり 私は毎日、義父との熱い口づけに溺れています…。 久野和咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "",
-    "actress": [
-      "久野和咲"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-420"
-  },
-  {
-    "id": 106715,
-    "IDcode": "JUQ-421",
-    "title": "今日も義父がヤリモクで勤務先まで迎えに来て…。 柳かれん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "",
+    "company": "VENUS",
+    "publish_date": "2025-09-11",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911022137611611_40784_thumbnail.webp",
     "actress": [
       "柳可憐"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-421"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-284"
   },
   {
-    "id": 90974,
-    "IDcode": "JUQ-422",
-    "title": "合鍵をもらった人妻が、男子学生が卒業するまで中出しされた一人暮らし部屋。 並木あいな",
+    "id": 10888,
+    "IDcode": "VAIAV-003",
+    "title": "[3.1D] AI人妻精油按摩，全身塗滿精油的淫蕩浮氣妻",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-09-26",
-    "cover_url": "",
+    "company": "BOTAN",
+    "publish_date": "2024-11-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20241103/20241103044804371371.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-003"
+  },
+  {
+    "id": 6385,
+    "IDcode": "VAIAV-009",
+    "title": "【3.1次元】 AI異世界 精靈限定風俗館等你來嗨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "BOTAN",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/20250506022234779779_s.webp",
     "actress": [
-      "並木愛奈",
-      "左慈半造"
+      "@Alinya（アリーニャ）"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-422"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-009"
   },
   {
-    "id": 91735,
-    "IDcode": "JUQ-423",
-    "title": "あの大人気‘学園ドラマ’に出演していた―。 元芸能人の人妻 月野ゆりね 42歳 AV DEBUT",
+    "id": 5433,
+    "IDcode": "VAIAV-011",
+    "title": "【3.1次元】AI異世界NTR風俗樂園 ~ Mel",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-09-26",
-    "cover_url": "",
+    "company": "BOTAN",
+    "publish_date": "2025-06-06",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/202506092148307373_s.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-011"
+  },
+  {
+    "id": 6386,
+    "IDcode": "VAIAV-012",
+    "title": "【3.1次元】 AI拳擊寶貝的枕交易(援交) ~ 星奈めぐみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "BOTAN",
+    "publish_date": "2025-05-02",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/202505060222257272_thumbnail.webp",
     "actress": [
-      "月野ゆりね"
+      "@星奈めぐみ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-423"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-012"
   },
   {
-    "id": 18409,
-    "IDcode": "JUQ-425",
-    "title": "若女將 恥辱中出 肉體接待 被中年男子擺佈成性奴的三天",
+    "id": 5999,
+    "IDcode": "VAIAV-013",
+    "title": "3.1次元 AI肉感寵物奶牛娘 胸部揉揉奶子擠擠",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20231009/20231008221518662662.jpg",
+    "company": "BOTAN",
+    "publish_date": "2025-05-16",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519214810265265_thumbnail.webp",
     "actress": [
-      "前田美波"
+      "@牛娘メイ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-425"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-013"
   },
   {
-    "id": 106726,
-    "IDcode": "JUQ-426",
-    "title": "従順で押しに弱い保険外交員の人妻はセクハラ整体師の肉オナホにさせられています…。 森沢かな",
+    "id": 4182,
+    "IDcode": "VAIAV-015",
+    "title": "3.1次元 AI精靈 異世界風俗地下激戰篇 ~ Mana",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://tutu1.space/images/2023/11/25/08ea49f832f375b87acd6da91cbb0f36.jpg",
+    "company": "BOTAN",
+    "publish_date": "2025-07-18",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722225611198198_57745_thumbnail.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-015"
+  },
+  {
+    "id": 3904,
+    "IDcode": "VAIAV-017",
+    "title": "3.1次元 放課後宅男的致命誘惑 @リズ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "BOTAN",
+    "publish_date": "2025-08-01",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804003845656656_79901_s.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-017"
+  },
+  {
+    "id": 92949,
+    "IDcode": "VAJ-518",
+    "title": "VAJ518極品痴女藤森里穂接近射精前低速自慰扭腰挑逗不斷用力抽插在快射時追擊改變速度用騎乘位讓人射3次藤森里穂。。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240912-1/7685ca9400d219d2b43d7a34759f13b4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAJ-518"
+  },
+  {
+    "id": 95591,
+    "IDcode": "VDD-111",
+    "title": "秘書 in… ［脅迫套房］ 香澄果穗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "2016-01-08",
+    "cover_url": "https://tutu1.space/images/2024/10/22/5893668554904b1b19de037bdd640596.jpg",
     "actress": [
-      "森澤佳奈"
+      "香澄果穗"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-426"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-111"
   },
   {
-    "id": 17898,
-    "IDcode": "JUQ-427",
-    "title": "我不能讓丈夫知道我懷上了公公的孩子!一泊兩日的溫泉之旅中，我被公公一次又一次的內射!",
+    "id": 72908,
+    "IDcode": "VDD-168",
+    "title": "受付嬢in...（脅迫スイートルーム） 桐山結羽",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111072633349349.jpg",
+    "company": "DREAMTICKET",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/9cecf9d00a1d79d7862e78b014136d32.jpg",
     "actress": [
-      "吉泽友贵"
+      "桐香悠裡"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-427"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-168"
   },
   {
-    "id": 90971,
-    "IDcode": "JUQ-428",
-    "title": "愛する夫の為に、身代わり週末肉便器。 超絶倫極悪オヤジに、孕むまで何度も中出しされ続けて…。 流川はる香",
+    "id": 104088,
+    "IDcode": "VDD-173",
+    "title": "VDD-173",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "",
+    "company": "DREAMTICKET",
+    "publish_date": "2023-01-02",
+    "cover_url": "https://tutu1.space/images/2023/02/15/c250f06af61d6263c490cc935c37e7c1.jpg",
     "actress": [
-      "流川はる香",
-      "Qべぇ"
+      "妃月るい"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-428"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-173"
   },
   {
-    "id": 18410,
-    "IDcode": "JUQ-429",
-    "title": "「我想讓你的妻子冒充我的情人…」我最好的朋友求我借出我心愛的妻子",
+    "id": 89154,
+    "IDcode": "VDD-177",
+    "title": "【FANZA限定】秘書in...（脅迫スイートルーム） 高瀬りな パンティと生写真付き",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20231008/20231008221437905905.jpg",
+    "company": "DREAMTICKET",
+    "publish_date": "2023-08-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231212-1/da180b0b4f761cc4c6beeb4f5b39336c.jpg",
     "actress": [
-      "遠野夏生",
-      "ニック"
+      "高瀬りな"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-429"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-177"
   },
   {
-    "id": 106714,
-    "IDcode": "JUQ-430",
-    "title": "元芸能人の人妻Madonna専属第2弾！！初ドラマ作品！！ 卒業式の後に…大人になった君へ義母からの贈り物―。 月野ゆりね",
+    "id": 16588,
+    "IDcode": "VDD-179",
+    "title": "祕書沙月芽衣被迫被多位同事SM虐待",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "",
+    "company": "DREAMTICKET",
+    "publish_date": "2024-02-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240127/e122093e-bd9f-4ee8-80c6-fdf7f0c07b3c.jpg",
     "actress": [
-      "月野ゆりね"
+      "沙月芽衣"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-430"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-179"
   },
   {
-    "id": 17901,
-    "IDcode": "JUQ-431",
-    "title": "曝光已婚人妻 公開記錄了一個外表貞潔，內心卻是變態的人妻。",
+    "id": 15720,
+    "IDcode": "VDD-180",
+    "title": "女醫生被捆綁在房間 小鬆杏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111072425650650.jpg",
+    "company": "DREAMTICKET",
+    "publish_date": "2024-04-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401021300262262.jpg",
     "actress": [
-      "椎名由奈"
+      "小松杏"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-431"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-180"
   },
   {
-    "id": 90982,
-    "IDcode": "JUQ-432",
-    "title": "ヌードモデルNTR 上司と羞恥に溺れた妻の衝撃的浮気映像 松本翔子",
+    "id": 5670,
+    "IDcode": "VDD-193",
+    "title": "女醫in...酒店密室調教 ~ 黒木奈美",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240308-1/b9763e0ba76d41df4948d9e0c11c276e.jpg",
+    "company": "DREAMTICKET",
+    "publish_date": "2025-05-30",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171325248248_thumbnail.webp",
     "actress": [
-      "松本翔子"
+      "黒木奈美",
+      "鲛岛"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-432"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-193"
   },
   {
-    "id": 17849,
-    "IDcode": "JUQ-433",
-    "title": "魔性的魅力 Madonna専屬 第3弾。 難忘的夏日戀情，熱情地親吻和做愛。",
+    "id": 4808,
+    "IDcode": "VDD-194",
+    "title": "祕書in.... (脅迫調教套房) ~ 足立友梨",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/9c7becea-4a63-4abe-92b6-101e709f5d44.jpg",
+    "company": "DREAMTICKET",
+    "publish_date": "2025-06-28",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224425201201_thumbnail.webp",
     "actress": [
-      "遠野夏生"
+      "足立友梨"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-433"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-194"
   },
   {
-    "id": 17850,
-    "IDcode": "JUQ-434",
-    "title": "我的NTR故事。 為了考驗愛情，我安排後輩同事和太太單獨相處了3個小時。",
+    "id": 86945,
+    "IDcode": "VEC-152",
+    "title": "人妻教師痴漢電車 七草ちとせ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111080213452452.jpg",
+    "company": "VENUS",
+    "publish_date": "2015-05-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230403-20/df5b95272b57fe19841026c4b6332974.jpg",
     "actress": [
-      "明里紬",
-      "明里䌷",
-      "日森一"
+      "七草千歲"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-434"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-152"
   },
   {
-    "id": 17848,
-    "IDcode": "JUQ-435",
-    "title": "傲慢的商業夥伴總裁不断中出公司指定招待陪同他的藤かんな ~ 専属美女",
+    "id": 73051,
+    "IDcode": "VEC-332",
+    "title": "母の親友 有坂深雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/abfa9725-89d0-4fdf-8c9c-1a1955d57b34.jpg",
+    "company": "VENUS",
+    "publish_date": "2018-11-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/97931ca64438593d971aafadd6a9dec0.jpg",
     "actress": [
-      "藤環奈"
+      "有坂深雪"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-435"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-332"
   },
   {
-    "id": 17888,
-    "IDcode": "JUQ-436",
-    "title": "當女老闆發現我休息的時候去風俗店！ 口交就是對我最好的懲罰！",
+    "id": 70243,
+    "IDcode": "VEC-343",
+    "title": "母の親友 水野優香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/3309bcc6-d952-45fa-8409-b1759a1a8797.jpg",
+    "company": "VENUS",
+    "publish_date": "2019-02-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/4c95ee43dee7ff8039c72324fcc3fa91.jpg",
     "actress": [
-      "北条麻妃"
+      "水野優香",
+      "真琴"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-436"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-343"
   },
   {
-    "id": 17893,
-    "IDcode": "JUQ-437",
-    "title": "我在短期兼职時與天真的大胸人妻發生性關係，渾身都是汗水和愛情汁液。",
+    "id": 70245,
+    "IDcode": "VEC-362",
+    "title": "性欲が強すぎる母（浮気癖あり）に、愛する彼氏を寝取られた。 篠崎かんな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/e62cd017-d76f-4538-9289-b1ddc4fb72be.jpg",
+    "company": "VENUS",
+    "publish_date": "2019-06-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/7b9c8572fcd7c932c2526ed059f7b828.jpg",
     "actress": [
-      "上羽絢"
+      "篠崎环奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-437"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-362"
   },
   {
-    "id": 90981,
-    "IDcode": "JUQ-438",
-    "title": "毎晩響く隣の奥さんの喘ぎ声が気になった僕は…～欲求不満な人妻と汗だくになってヤリまくった昼下がり～ 多田有花",
+    "id": 70244,
+    "IDcode": "VEC-384",
+    "title": "息子のクラスメイトに犯され続けてプライドを失った母親 有坂深雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240308-1/81664eca9cbdf48d3ab5b522b7cd280f.jpg",
+    "company": "VENUS",
+    "publish_date": "2019-10-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/f0c75a58df4a2a8052f515255a07482f.jpg",
     "actress": [
-      "多田有花"
+      "有坂深雪"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-438"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-384"
   },
   {
-    "id": 17890,
-    "IDcode": "JUQ-439",
-    "title": "妻子怀孕期间，我连自慰都被禁止！和丈母娘葉山さゆり不伦的性关系...",
+    "id": 104226,
+    "IDcode": "VEC-390",
+    "title": "母の親友 桜樹玲奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/2912280b-821f-4480-8f98-760ee54f2f62.jpg",
+    "company": "VENUS",
+    "publish_date": "2019-11-01",
+    "cover_url": "https://tutu1.space/images/2023/03/05/1f33e9875648db1078390ac3a43c891c.jpg",
     "actress": [
-      "葉山小百合",
-      "ニック"
+      "桜树玲奈"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-439"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-390"
   },
   {
-    "id": 91746,
-    "IDcode": "JUQ-440",
-    "title": "一人暮らしの様子を見にきた豊満叔母のデカ尻誘惑に負けて、生中出しで搾り取られまくった僕…。 風間ゆみ",
+    "id": 75691,
+    "IDcode": "VEC-397",
+    "title": "一度きりの浮気のはずが…抱かれてはいけなかった夫の部下と裏切りの逢瀬 澤村レイコ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240528-1/cc042080f45b8e8bde47a96fe5bcc596.jpg",
+    "company": "VENUS",
+    "publish_date": "2020-01-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/4384637bf8dcd49e6f0c696dca8599e1.jpg",
     "actress": [
-      "風間由美",
-      "Qべぇ"
+      "高坂ますみ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-440"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-397"
   },
   {
-    "id": 91745,
-    "IDcode": "JUQ-441",
-    "title": "人妻秘書、汗と接吻に満ちた社長室中出し性交 知的な美貌と熟した色香…美熟女の完成形。 月野ゆりね",
+    "id": 83853,
+    "IDcode": "VEC-399",
+    "title": "寝取られおっぱいNTR 自慢の巨乳嫁が俺の友達に揉みまくられて中出しまでされていた 風間ゆみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240528-1/e8cc261d474d58fc2b9d62b8d02451ea.jpg",
-    "actress": [
-      "月野ゆりね"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-441"
-  },
-  {
-    "id": 17617,
-    "IDcode": "JUQ-442",
-    "title": "中出輪姦的日子永遠不會結束 ~ 栗山莉緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/dd6841b0-743e-4180-b143-152d67180541.jpg",
-    "actress": [
-      "栗山莉緒",
-      "栗山莉绪"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-442"
-  },
-  {
-    "id": 90986,
-    "IDcode": "JUQ-443",
-    "title": "妻には口が裂けても言えません、義母さんを孕ませてしまったなんて…。-1泊2日の温泉旅行で、我を忘れて中出ししまくった僕。- 沖宮那美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "",
-    "actress": [
-      "沖宮那美"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-443"
-  },
-  {
-    "id": 91752,
-    "IDcode": "JUQ-444",
-    "title": "卒業式の後に…大人になった君へ義母からの贈り物―。 久野和咲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "",
-    "actress": [
-      "久野和咲"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-444"
-  },
-  {
-    "id": 17618,
-    "IDcode": "JUQ-445",
-    "title": "W豊満搾精 當我回到鄉下老家时 开始被那些无聊的农村人妻压榨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/cc83885c-90d2-4406-8dc4-070de035dcc9.jpg",
-    "actress": [
-      "藤沢麗央",
-      "赤井美希",
-      "日森一"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-445"
-  },
-  {
-    "id": 17616,
-    "IDcode": "JUQ-446",
-    "title": "麥當娜頂級G罩杯美熟女泡泡浴秀！身心完美契合的兩個人 「感情」與「嘴唇」重疊的濃稠接吻泡泡浴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/da6d31c4-4684-4322-9b8d-9e4f485ffc37.jpg",
-    "actress": [
-      "愛弓涼"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-446"
-  },
-  {
-    "id": 17615,
-    "IDcode": "JUQ-447",
-    "title": "悲傷的未亡人，被公公以趕出家門威脅而被每晚侵犯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/522942e1-66ad-458c-9d69-a58a5626f9ee.jpg",
-    "actress": [
-      "向井藍"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-447"
-  },
-  {
-    "id": 91755,
-    "IDcode": "JUQ-448",
-    "title": "高級ソープに行く為、お金と精子を溜めて1ヶ月後―。巨乳むっちり淫乱寮母に理性が崩壊して精子が枯れ果てるまで生ハメしまくった！！ 佐田茉莉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "",
-    "actress": [
-      "佐田茉莉子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-448"
-  },
-  {
-    "id": 17614,
-    "IDcode": "JUQ-449",
-    "title": "當怎樣與丈夫做愛都無法懷孕後，公公開始不斷的中出我。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/e2bf5286-5202-4227-bf6d-650f6d662cc8.jpg",
-    "actress": [
-      "篠田優",
-      "篠田优"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-449"
-  },
-  {
-    "id": 17612,
-    "IDcode": "JUQ-450",
-    "title": "村内露营活动NTR 人妻在帳篷裡令人震驚的被中出視頻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231125/873a8b27-eb65-43f5-87cb-7d7e41f7b786.jpg",
-    "actress": [
-      "竹内有紀",
-      "大村"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-450"
-  },
-  {
-    "id": 17613,
-    "IDcode": "JUQ-451",
-    "title": "女教師NTR 我心愛的妻子被不良學生帶走了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231125/2a30d9bf-6f98-4763-b876-241a26d6ae7b.jpg",
-    "actress": [
-      "木村玲衣",
-      "ニック"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-451"
-  },
-  {
-    "id": 17332,
-    "IDcode": "JUQ-452",
-    "title": "復仇NTR 我所仰慕的姐姐，曾經告訴我她愛我，現在卻嫁給了另一個男人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/1888f191-4a7b-4e5a-bca8-af8aeb34d293.jpg",
-    "actress": [
-      "一乃葵",
-      "日森一"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-452"
-  },
-  {
-    "id": 17100,
-    "IDcode": "JUQ-453",
-    "title": "現場雙人NTR - 隔着薄布對人妻進行猥褻處理達到高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231224/32eaae45-0142-424e-b27e-eb6a14c05347.jpg",
-    "actress": [
-      "水户香奈",
-      "左慈半造"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-453"
-  },
-  {
-    "id": 17104,
-    "IDcode": "JUQ-454",
-    "title": "大奶子的宿舍管理员被我幹了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224010038212212.jpg",
-    "actress": [
-      "大島優香",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-454"
-  },
-  {
-    "id": 17110,
-    "IDcode": "JUQ-455",
-    "title": "我什至不能告訴我的妻子我讓我丈母娘懷孕了...... -我在溫泉之旅中度過了兩天一夜，我迷失了自我並在丈母娘體內射精。 ——月野ゆりね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231223/18566b36-de26-4713-a61d-a4c74709c163.jpg",
-    "actress": [
-      "月野ゆりね",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-455"
-  },
-  {
-    "id": 18232,
-    "IDcode": "JUQ-456",
-    "title": "接待員NTR～獨自工作時被傲慢老闆戴綠帽一週的妻子～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/202310220236432828.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-456"
-  },
-  {
-    "id": 91763,
-    "IDcode": "JUQ-457",
-    "title": "AM10:45 NRT発 明日を迎えれば、離れ離れ―。 海外赴任してる主人と、半年ぶりに蕩け合う子作りセックス24H 通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-09-26",
-    "cover_url": "",
-    "actress": [
-      "通野未帆",
-      "みっちー"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-457"
-  },
-  {
-    "id": 17892,
-    "IDcode": "JUQ-458",
-    "title": "老婆出差期間，我被嫂子神宫寺奈緒勾引，激烈的做爱掏空了我积攒30多天的精子..",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111074344752752.jpg",
-    "actress": [
-      "神宫寺奈緒",
-      "神宫寺奈绪"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-458"
-  },
-  {
-    "id": 17656,
-    "IDcode": "JUQ-460",
-    "title": "打排球的性感熟女橘瑪麗被人轮奸！人妻接受猥褻訓練",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231125/b20b5281-4cc9-47d8-bb52-1ad0d25f9789.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-460"
-  },
-  {
-    "id": 91756,
-    "IDcode": "JUQ-461",
-    "title": "アナウンサー試験に合格したが変態過ぎてAVを選んだ人妻 清巳れの 28歳 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "",
-    "actress": [
-      "清巳麗乃"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-461"
-  },
-  {
-    "id": 17609,
-    "IDcode": "JUQ-462",
-    "title": "新人出道！ 28歲 好女孩沙月文乃！ 小心能夠讓男人依戀的妻子 首次亮相 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231125/6b6b8961-1b6c-4ba0-b2f9-ebf087fc1af9.jpg",
-    "actress": [
-      "沙月文乃"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-462"
-  },
-  {
-    "id": 17337,
-    "IDcode": "JUQ-464",
-    "title": "裸模NTR震撼出軌視頻，老闆和妻子陷入恥辱 北条麻妃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/53e8adc9-8852-4f47-81a0-43c7bc0afce6.jpg",
-    "actress": [
-      "北条麻妃",
-      "大岛丈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-464"
-  },
-  {
-    "id": 91760,
-    "IDcode": "JUQ-465",
-    "title": "Madonna専属《木下凛々子》 MONROE専属《友田真希》レーベルを越えて初共演！！ W人妻ランジェリー販売員 熟れ乳挟み撃ち中出し誘惑セールス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-31",
-    "cover_url": "",
-    "actress": [
-      "友田真希",
-      "木下凛凛子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-465"
-  },
-  {
-    "id": 17333,
-    "IDcode": "JUQ-466",
-    "title": "滿頭大汗的人妻那压倒性的臀部摇晃扭动让我不用动就可以内射她",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/05d63e82-9080-4f3c-a3e4-97338e00054f.jpg",
-    "actress": [
-      "藤環奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-466"
-  },
-  {
-    "id": 17331,
-    "IDcode": "JUQ-467",
-    "title": "令×班家長抓狂的PTA「小惡魔」老婆木下凛々子，變身混蛋家長教師會",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/4c1ded6e-8375-499c-b741-e8c9ef72e036.jpg",
-    "actress": [
-      "木下凜々子",
-      "木下凛凛子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-467"
-  },
-  {
-    "id": 17340,
-    "IDcode": "JUQ-468",
-    "title": "房地產小姐用內褲和猥褻耳語勾引来看法的中年男人 反向NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/64a7d829-73b5-4ce8-af0c-0a9dfe0f441c.jpg",
-    "actress": [
-      "多田有花",
-      "大岛丈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-468"
-  },
-  {
-    "id": 17330,
-    "IDcode": "JUQ-469",
-    "title": "《復活》人氣系列以最美熟女重啟。特寫性愛～同學聚會師生突然親密…不忠關係甦醒～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/cf42a942-f84a-407b-ab99-67e572e53561.jpg",
-    "actress": [
-      "椎名由奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-469"
-  },
-  {
-    "id": 17344,
-    "IDcode": "JUQ-470",
-    "title": "新婚蜜月旅行的妻子在美容院被調教中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/1df2ff3a-3362-45fd-b122-9c3bd7a7ba5d.jpg",
-    "actress": [
-      "葉山小百合",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-470"
-  },
-  {
-    "id": 17341,
-    "IDcode": "JUQ-471",
-    "title": "上门才发现预约的客人竟然是学生时代性骚扰我的老师。從那天起，我就注定成為了一隻性寵物…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/ca779fb0-4abf-4b50-9e17-a8cd4ffafabb.jpg",
-    "actress": [
-      "明里紬",
-      "明里䌷"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-471"
-  },
-  {
-    "id": 106212,
-    "IDcode": "JUQ-472",
-    "title": "妻の妊娠中、オナニーすらも禁じられた僕は上京してきた義母・翔子さんに何度も種付けSEXをしてしまった…。 松本翔子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "",
-    "actress": [
-      "松本翔子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-472"
-  },
-  {
-    "id": 17336,
-    "IDcode": "JUQ-473",
-    "title": "被公司降职后回农村散心 和田舎柔乳妻满身是汗絶倫性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/7dd22ac7-e7e1-4637-9de8-292b2b8ca705.jpg",
-    "actress": [
-      "白石茉莉奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-473"
-  },
-  {
-    "id": 106224,
-    "IDcode": "JUQ-474",
-    "title": "普段は潔癖でお堅い看護師の叔母は夜勤明けに毎回ストレス発散のオナニーをこっそりしている。 風間ゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "",
+    "company": "VENUS",
+    "publish_date": "2020-01-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/c2d503ca422b4aef0f4a2e42af3caa09.jpg",
     "actress": [
       "風間由美"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-474"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-399"
   },
   {
-    "id": 17329,
-    "IDcode": "JUQ-475",
-    "title": "四六時中、丰蕴犹存的婆婆勾引自己的女婿",
+    "id": 76678,
+    "IDcode": "VEC-403",
+    "title": "息子のクラスメイトに犯●れ続けてプライドを失った母親 岩沢香代",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/5feec6e5-b651-4c03-b66c-f6a64c77a00c.jpg",
+    "company": "VENUS",
+    "publish_date": "2020-02-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/d43b59e1ca74eae524b43b4fb0a3f483.jpg",
     "actress": [
-      "上羽絢"
+      "岩沢香代"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-475"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-403"
   },
   {
-    "id": 17335,
-    "IDcode": "JUQ-476",
-    "title": "我的NTR故事 對妻子愚蠢的考驗 妻子和我找來的同事單獨呆了三個小時的多次中出內射",
+    "id": 82078,
+    "IDcode": "VEC-411",
+    "title": "母の親友 向井藍",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/e6a367b6-9c55-45ab-8b11-64e5d8103412.jpg",
+    "company": "VENUS",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221107-1/ff0400b82ff8eab1ace3b91ef0e69d70.jpg",
     "actress": [
-      "水川蓳",
-      "左慈半造"
+      "向井藍"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-476"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-411"
   },
   {
-    "id": 17338,
-    "IDcode": "JUQ-477",
-    "title": "容姿端麗、頭脳明晰差距巨大的超級變態人妻專用第2卷！！關於NTR事業夥伴的性騷擾經理戴綠帽的故事抱怨和他的妻子",
+    "id": 82099,
+    "IDcode": "VEC-412",
+    "title": "夫の前で痴●に絶頂（いか）された妻 八木あずさ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/24e790c0-49fb-4529-8495-c3b1a69974d2.jpg",
+    "company": "VENUS",
+    "publish_date": "2020-04-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221107-1/52b9a6aecbc8741a08e4d67427c32251.jpg",
     "actress": [
-      "清巳麗乃"
+      "樱井夕树"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-477"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-412"
   },
   {
-    "id": 17894,
-    "IDcode": "JUQ-478",
-    "title": "電撃移籍 Madonna専属 H cup大奶前写真偶像明星 满头大汗的做爱三本番",
+    "id": 77634,
+    "IDcode": "VEC-425",
+    "title": "フロントホックブラと小さいパンティーで童貞の僕を挑発する女教師 織田真子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111074102681681.jpg",
+    "company": "VENUS",
+    "publish_date": "2020-06-13",
+    "cover_url": "https://tutu1.space/images/2024/03/08/ca71208fcd5c54ce976994f2ca542b3d.jpg",
     "actress": [
-      "黑木玲奈"
+      "織田真子"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-478"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-425"
   },
   {
-    "id": 17095,
-    "IDcode": "JUQ-479",
-    "title": "NTR：老婆在帳篷裏多次被中出的出軌視頻【觀看警告】",
+    "id": 73100,
+    "IDcode": "VEC-455",
+    "title": "「立派なオチ○ポしてるわね」友達の母親は性欲モンスター！童貞を奪われた僕 上条つばさ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231224/202312240009309595.jpg",
+    "company": "VENUS",
+    "publish_date": "2020-12-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/0db85d6f9e5d35d1a08b7c5d72c6e5fd.jpg",
     "actress": [
-      "天川空",
-      "大村"
+      "上条つばさ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-479"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-455"
   },
   {
-    "id": 16869,
-    "IDcode": "JUQ-480",
-    "title": "遊泳部顧問一乃葵老師每天被迫成爲不良學生的中出的寵物……",
+    "id": 78672,
+    "IDcode": "VEC-474",
+    "title": "バイト先で働く美しい人妻を家に連れ込み中出しセックス 希のぞみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106061655786786.jpg",
+    "company": "VENUS",
+    "publish_date": "2021-05-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/20d3775bbbab6fe37adc63ecbb7c1572.jpg",
     "actress": [
-      "一乃葵"
+      "希望美"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-480"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-474"
   },
   {
-    "id": 90959,
-    "IDcode": "JUQ-481",
-    "title": "卒業式の後に…大人になった君へ義母からの贈り物―。 流川はる香",
+    "id": 79148,
+    "IDcode": "VEC-482",
+    "title": "- 友人の母親と2人だけの秘密。おばさんに無理矢理中出しセックスしたことは…。 九条みちる - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240308-1/f268f03dcb1e2ee41a83aa95426be61e.jpg",
-    "actress": [
-      "流川はる香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-481"
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/032bbdad2f1a97d69405151117ce8c9b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-482"
   },
   {
-    "id": 106113,
-    "IDcode": "JUQ-482",
-    "title": "慰安旅行NTR ～性欲を持て余した会社の上司どもに妻が輪●された…～ 愛弓りょう",
+    "id": 79055,
+    "IDcode": "VEC-492",
+    "title": "- バイト先で働く美しい人妻を家に連れ込み中出しセックス 松本菜奈実 - JAV目錄大全javmenu.com",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "",
+    "company": "VENUS",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9f9af4eebcaca073d907e6683f0ca0ab.jpg",
     "actress": [
-      "愛弓涼"
+      "松本菜奈実"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-482"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-492"
   },
   {
-    "id": 17114,
-    "IDcode": "JUQ-483",
-    "title": "聽着甜食，我迷失了，我已經結婚了，我是一名大學二年級學生。慄山莉緒",
+    "id": 89540,
+    "IDcode": "VEC-496",
+    "title": "浮気がバレた絶倫ヤリチン夫を説教しにきた嫁の親友 弘川れいな （ブルーレイディスク） （BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231223/add413fc-e999-4358-8b6c-791c6cdd761c.jpg",
-    "actress": [
-      "栗山莉緒",
-      "栗山莉绪"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-483"
+    "company": "VENUS",
+    "publish_date": "2021-09-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231230-1/604d42374ddc9e4a96df70980aee66ee.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-496"
   },
   {
-    "id": 90963,
-    "IDcode": "JUQ-484",
-    "title": "夫の身代わりになった高慢女上司、恥辱のクレーム対応ー。悪質男に固定バイブを強●されて謝罪と絶頂を繰り返す人妻ー。 佐田茉莉子",
+    "id": 86542,
+    "IDcode": "VEC-503",
+    "title": "「お願い、先っぽだけ挿れさせて！」…と言いながら結局根元まで挿れちゃう欲求不満な友達のママ 根尾あかり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "",
+    "company": "VENUS",
+    "publish_date": "2021-11-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/3dac489a4feeda2924c1e61509ca3304.jpg",
     "actress": [
-      "佐田茉莉子"
+      "根尾朱里"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-484"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-503"
   },
   {
-    "id": 17111,
-    "IDcode": "JUQ-485",
-    "title": "傲慢的商業夥伴總裁不斷中出她的出差娛樂女。專屬肉便器，衝宮奈美",
+    "id": 80159,
+    "IDcode": "VEC-518",
+    "title": "母親NTR姦察 地味で大人しい母さんの素顔は家族の留守中に中出しされてイキまくる清楚ビッチでした 川西千帆",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231223/bc9df184-9d83-4598-a34f-309a7e5ebcd5.jpg",
-    "actress": [
-      "沖宮那美"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-485"
+    "company": "VENUS",
+    "publish_date": "2022-02-08",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/72378eba76f782ff32e174dc199f38cd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-518"
   },
   {
-    "id": 90961,
-    "IDcode": "JUQ-486",
-    "title": "0秒で準備万端いつでもSEX出来る都合が良いムチムチ愛人 藤沢麗央",
+    "id": 86513,
+    "IDcode": "VEC-519",
+    "title": "母の親友 希咲アリス",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "",
-    "actress": [
-      "藤沢麗央"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-486"
+    "company": "VENUS",
+    "publish_date": "2022-02-15",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/a0dfa284701706a92a64bd22492988ce.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-519"
   },
   {
-    "id": 17116,
-    "IDcode": "JUQ-487",
-    "title": "我兒子的朋友無法控制的性交讓他不斷射精.... 赤井美希",
+    "id": 69597,
+    "IDcode": "VEC-533",
+    "title": "浮気がバレた絶倫ヤリチン夫を説教しにきた嫁の親友 朝日りん",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231223/82809b14-3996-4a8a-88c2-22d3cbbb248f.jpg",
-    "actress": [
-      "赤井美希"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-487"
+    "company": "VENUS",
+    "publish_date": "2022-06-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250331-1/850847f9807866ffc1f0456fe8df717f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-533"
   },
   {
-    "id": 17115,
-    "IDcode": "JUQ-488",
-    "title": "與我的丈夫發生性關系生孩子後，我的公公不斷地中出我.....沙月文乃",
+    "id": 86537,
+    "IDcode": "VEC-537",
+    "title": "先輩の奥さんと即ハメW不倫 最高の浮気相手と時間の許す限りフルでまぐわう会ったらヤルだけ中出しセックス 田中なな実 （ブルーレイディスク） （BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231223/6d57d592-df13-45fa-ac12-2e5d5caf771a.jpg",
-    "actress": [
-      "沙月文乃"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-488"
+    "company": "VENUS",
+    "publish_date": "2022-07-05",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/11f5651dc7fed30635927b56717a1eb2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-537"
   },
   {
-    "id": 16669,
-    "IDcode": "JUQ-490",
-    "title": "一次溫泉之旅，整個部門繼續輪奸一名職業生涯中期的已婚女員工大島優香，直到她變成一個肉便池。",
+    "id": 86514,
+    "IDcode": "VEC-539",
+    "title": "友人の母親と2人だけの秘密。おばさんに無理矢理中出しセックスしたことは…。 桃園梨花 （ブルーレイディスク） （BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121031712710710.jpg",
-    "actress": [
-      "大島優香",
-      "日森一"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-490"
+    "company": "VENUS",
+    "publish_date": "2022-07-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/162b724d80e74ae1de4a491b6885e150.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-539"
   },
   {
-    "id": 17895,
-    "IDcode": "JUQ-491",
-    "title": "可愛的學生和情人讓我二選一？ 笨蛋才做選擇題，我全要！ 操她們操到早上！",
+    "id": 89544,
+    "IDcode": "VEC-540",
+    "title": "浮気がバレた絶倫ヤリチン夫を説教しにきた嫁の親友 吉岡ひより （ブルーレイディスク） （BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/11dc6b99-e655-4cf3-aacb-6e147168dae0.jpg",
+    "company": "VENUS",
+    "publish_date": "2022-07-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231230-1/a30faae49419447d95f4fc5c27f59863.jpg",
     "actress": [
-      "胡桃櫻花",
-      "乃木絢愛"
+      "吉冈ひより"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-491"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-540"
   },
   {
-    "id": 17334,
-    "IDcode": "JUQ-492",
-    "title": "我不能讓我老公知道，公公讓我懷孕了！ 在那次一泊兩日的溫泉之旅中，我被公公一次又一次的中出",
+    "id": 86538,
+    "IDcode": "VEC-543",
+    "title": "バイト先で働く美しい人妻を家に連れ込み中出しセックス 君島みお",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/cd122f06-ce94-469e-ae6b-0588bd819a7e.jpg",
+    "company": "VENUS",
+    "publish_date": "2022-08-16",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/042a8346aecd15c0e33e400226210f1c.jpg",
     "actress": [
-      "黑木玲奈"
+      "君岛美绪"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-492"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-543"
   },
   {
-    "id": 17103,
-    "IDcode": "JUQ-493",
-    "title": "中出輪奸的日子永遠不會結束。",
+    "id": 69670,
+    "IDcode": "VEC-554",
+    "title": "母の親友 北川美玖",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224004920722722.jpg",
+    "company": "VENUS",
+    "publish_date": "2022-09-30",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/d808746cd3f09009ac7197dc3836245d.jpg",
     "actress": [
-      "久野和咲",
-      "輝大",
-      "みっちー"
+      "タイ",
+      "北川美玖"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-493"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-554"
   },
   {
-    "id": 17099,
-    "IDcode": "JUQ-494",
-    "title": "麥當娜震撼獨家 小花暖 失去理智，沉浸在纏綿的舌吻 和 體內射精中",
+    "id": 86541,
+    "IDcode": "VEC-556",
+    "title": "先輩の奥さんと即ハメW不倫 最高の浮気相手と時間の許す限りフルでまぐわう会ったらヤルだけ中出しセックス 白木優子 （ブルーレイディスク） （BOD）",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224001302536536.jpg",
+    "company": "VENUS",
+    "publish_date": "2022-10-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/b84e786f5f8e1f88033fc5a92472432f.jpg",
     "actress": [
-      "小花暖"
+      "白木優子"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-494"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-556"
   },
   {
-    "id": 17339,
-    "IDcode": "JUQ-495",
-    "title": "新人出道！！性標準70+的高學歷菁英人妻松莉乃 首次亮相 AV DEBUT",
+    "id": 106990,
+    "IDcode": "VEC-558",
+    "title": "上朋友他媽 聖璃冬亞",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/abe85c24-fe3c-4948-9767-ba12d05e57ed.jpg",
+    "company": "VENUS",
+    "publish_date": "2022-11-01",
+    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/vec558/vec558pl.jpg",
     "actress": [
-      "松莉乃"
+      "露梨あやせ"
     ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-495"
-  },
-  {
-    "id": 17096,
-    "IDcode": "JUQ-496",
-    "title": "我愛我的繼父勝過愛我的丈夫...",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224001055724724.jpg",
-    "actress": [
-      "木村玲衣"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-496"
-  },
-  {
-    "id": 16666,
-    "IDcode": "JUQ-497",
-    "title": "NTR 令人震驚的妻子在帳篷裏多次被中出的戴綠帽子視頻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20240120/20240120062831632632.jpg",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-497"
-  },
-  {
-    "id": 17610,
-    "IDcode": "JUQ-498",
-    "title": "曾經喜歡我的青梅竹馬，現在已經進化成性感的大奶人妻，我要操她，直到精尽人亡…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231125/ab493005-7ff3-4077-b5c0-7b48778aba2f.jpg",
-    "actress": [
-      "九井珠奈緒"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-498"
-  },
-  {
-    "id": 17343,
-    "IDcode": "JUQ-500",
-    "title": "接待員NTR～獨自工作時被傲慢老闆戴綠帽一週的妻子～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231210/b62ae663-4616-4c1d-9aaf-0989b8c04f33.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-500"
-  },
-  {
-    "id": 17097,
-    "IDcode": "JUQ-502",
-    "title": "在這個月最有可能懷孕的一天……我把我心愛的妻子帶到我哥哥那裏一整天，讓他直接給她授精。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224001355314314.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-502"
-  },
-  {
-    "id": 91772,
-    "IDcode": "JUQ-503",
-    "title": "マドンナ激推し専属×『中出し温泉』シリーズ 妻には口が裂けても言えません、義母さんを孕ませてしまったなんて…。-1泊2日の温泉旅行で、我を忘れて中出ししまくった僕。- 木村玲衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-23",
-    "cover_url": "",
-    "actress": [
-      "木村玲衣"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-503"
-  },
-  {
-    "id": 16868,
-    "IDcode": "JUQ-504",
-    "title": "我被這個極其邪惡的老男人一遍又一遍地內射，直到我懷孕了......爲我心愛的丈夫，她成了放债人的周末肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106061726418418.jpg",
-    "actress": [
-      "藤環奈"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-504"
-  },
-  {
-    "id": 17102,
-    "IDcode": "JUQ-505",
-    "title": "我老板的妻子是一位肥臀女士，可以看到她的肛門，可以無限量的體內射精。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224004843814814.jpg",
-    "actress": [
-      "篠田優",
-      "篠田优"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-505"
-  },
-  {
-    "id": 16871,
-    "IDcode": "JUQ-506",
-    "title": "我是一名大學生，每天晚上都操阿姨操後醒來……我忘記了一切，並沉迷於持續的中出性交。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106061540838838.jpg",
-    "actress": [
-      "北条麻妃"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-506"
-  },
-  {
-    "id": 106191,
-    "IDcode": "JUQ-507",
-    "title": "四六時中、娘婿のデカチ○ポが欲しくて堪らない義母の誘い 松本翔子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-09",
-    "cover_url": "",
-    "actress": [
-      "松本翔子"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-507"
-  },
-  {
-    "id": 16668,
-    "IDcode": "JUQ-508",
-    "title": "已婚人妻在脫衣舞劇院跳舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-30",
-    "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121031650736736.jpg",
-    "actress": [
-      "流川はる香"
-    ],
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUQ-508"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-558"
   }
 ];
