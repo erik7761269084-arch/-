@@ -158,7 +158,7 @@ fetch('header.html')
   .catch(e => console.warn('无法加载 header.html:', e));
 
 /* ========== 加载底部 footer.html ========== */
-fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
+fetch('https://yunvgong.com/footer.html')  // 修改这里
   .then(r => r.text())
   .then(html => document.getElementById('footer-placeholder').innerHTML = html)
   .catch(e => console.warn('无法加载 footer.html:', e));
