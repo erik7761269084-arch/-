@@ -216,21 +216,55 @@ function loadLatestAV() {
   document.body.appendChild(script);
 }
 
-/* 女优 */
-async function loadActresses() {
-  const res = await fetch("https://yunvgong.com/JAV/category/actress_menu_all");
-  const data = await res.json();
-  const list = data.filter(a => a.img_url).slice(0,20);
+/* 女优（读取本地分页 JS） */
+async function loadActresses(page = 1) {
+
+  // 最大页（根据你的资源情况修改）
+  const MAX_PAGE = 52;
+  if(page < 1) page = 1;
+  if(page > MAX_PAGE) page = MAX_PAGE;
+
+  // 清空原列表
   const c = document.getElementById('actressGrid');
-  c.innerHTML = '';
-  list.forEach(a => {
-    const card = document.createElement('div'); card.className = 'actress-card';
-    card.innerHTML = `<img src="${a.img_url}" alt="${a.name}">
-      <div class="card-title2">${a.name}</div>
-      <div class="card-info">${a.zodiac?`🌟 ${a.zodiac}<br>`:''}${a.height?`📏 ${a.height}<br>`:''}${a.measurements?`💃 ${a.measurements}`:''}</div>`;
-    card.onclick = () => { if(a.actress_url) window.location.href = a.actress_url; };
-    c.appendChild(card);
-  });
+  c.innerHTML = '<p style="color:#aaa;text-align:center;">加载中...</p>';
+
+  // 加载分页 JS
+  const script = document.createElement('script');
+  script.src = `https://yunvgong.com/JAV/category/actress_page/page_${page}.js${page>1 ? '?pages='+page : ''}`;
+
+  script.onload = () => {
+    if(typeof window.PAGE_DATA === 'undefined'){
+      c.innerHTML = '<p style="color:#f66;text-align:center;">数据加载失败</p>';
+      return;
+    }
+
+    // 取前 20 个
+    const list = window.PAGE_DATA.filter(a => a.img_url).slice(0,20);
+    c.innerHTML = '';
+
+    list.forEach(a => {
+      const card = document.createElement('div');
+      card.className = 'actress-card';
+      card.innerHTML = `
+        <img src="${a.img_url}" alt="${a.name}">
+        <div class="card-title2">${a.name}</div>
+        <div class="card-info">
+          ${a.zodiac ? `🌟 ${a.zodiac}<br>` : ''}
+          ${a.height ? `📏 ${a.height}<br>` : ''}
+          ${a.measurements ? `💃 ${a.measurements}` : ''}
+        </div>
+      `;
+      card.onclick = () => { if(a.actress_url) location.href = a.actress_url; };
+      c.appendChild(card);
+    });
+
+  };
+
+  script.onerror = () => {
+    c.innerHTML = '<p style="color:#f66;text-align:center;">分页文件加载失败</p>';
+  };
+
+  document.body.appendChild(script);
 }
 
 /* 厂商 */
