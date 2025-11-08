@@ -251,27 +251,38 @@ async function loadCompanyList() {
 
 /* 国产AV专区 */
 async function loadChinaDramas() {
-  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/drama_export.json");
-  const dramas = await res.json();
-  const list = dramas.slice(0,30);
   const target = document.getElementById('chinaGrid');
-  target.innerHTML = '';
-  list.forEach(d => {
-    const card = document.createElement('div'); card.className='drama-card';
-    const actressStr = Array.isArray(d.actress) ? d.actress.join('、') : (d.actress || '');
-    card.innerHTML = `<div style="position:relative;"><img src="${d.cover_url||''}" alt="${d.title||''}">
-        <div class="actor">${actressStr}</div>
-        <div class="card-type">${d.type||''}</div>
-      </div>
-      <div class="drama-info">
-        <div class="idcode">${d.IDcode||''}</div>
-        <div class="title">${d.title||''}</div>
-        <div class="meta"><span>📅 ${d.publish_date||''}</span><span>⭐ ${d.rating||''}</span></div>
-      </div>`;
-    card.onclick = ()=> { if(d.title_play_url) window.location.href = d.title_play_url; };
-    target.appendChild(card);
-  });
+  target.innerHTML = ''; // 清空原有内容
+
+  const script = document.createElement('script');
+  script.src = 'https://yunvgong.com/JAV/category/main_page/page_1.js';
+  script.onload = () => {
+    if (typeof window.PAGE_DATA !== 'undefined') {
+      const list = window.PAGE_DATA.slice(0, 30); // 取前30条
+      list.forEach(d => {
+        const card = document.createElement('div');
+        card.className = 'drama-card';
+        const actressStr = Array.isArray(d.actress) ? d.actress.join('、') : (d.actress || '');
+        card.innerHTML = `<div style="position:relative;">
+            <img src="${d.cover_url||''}" alt="${d.title||''}">
+            <div class="actor">${actressStr}</div>
+            <div class="card-type">${d.type||''}</div>
+          </div>
+          <div class="drama-info">
+            <div class="idcode">${d.IDcode||''}</div>
+            <div class="title">${d.title||''}</div>
+            <div class="meta"><span>📅 ${d.publish_date||''}</span><span>⭐ ${d.rating||''}</span></div>
+          </div>`;
+        card.onclick = () => { if(d.title_play_url) window.location.href = d.title_play_url; };
+        target.appendChild(card);
+      });
+    } else {
+      console.error("page_1.js 未定义 window.PAGE_DATA");
+    }
+  };
+  document.body.appendChild(script);
 }
+
 
 document.addEventListener('DOMContentLoaded', () => {
   loadCategories();
