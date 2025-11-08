@@ -158,11 +158,17 @@ fetch('header.html')
     document.body.appendChild(s);
   });
 
-/* 加载底部 footer.html */
+/* 加载底部 footer.html（正确版本 + 加粗标题）*/
 fetch('https://yunvgong.com/footer.html')
   .then(r => r.text())
-  .then(html => document.getElementById('footer-placeholder').innerHTML)
+  .then(html => {
+    const footer = document.createElement('div');
+    footer.innerHTML = html
+      .replace(/御女宫/g, '<b>御女宫</b>');  // 加粗标题关键词
+    document.body.appendChild(footer);
+  })
   .catch(e => console.warn('无法加载 footer.html:', e));
+
 
 /* 分类网格 */
 async function loadCategories() {
