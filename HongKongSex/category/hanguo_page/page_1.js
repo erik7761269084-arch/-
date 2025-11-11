@@ -1,4 +1,4 @@
-[
+window.PAGE_DATA = [
   {
     "id": 444,
     "title": "上流的社会",
@@ -716,4 +716,4 @@
     "actress": [],
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=447"
   }
-]
+];
