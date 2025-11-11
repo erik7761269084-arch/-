@@ -110,7 +110,7 @@ body {
 <section>
   <div class="section-title-row">
     <div class="section-title">🔥 最新发布A片</div>
-    <a href="https://yunvgong.com/JAV/newAV" class="more-link" target="_blank">看更多 ›</a>
+    <a href="https://yunvgong.com/HongKongSex/newAV" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="grid-5" id="latestGrid"></div>
 </section>
@@ -119,7 +119,7 @@ body {
 <section>
   <div class="section-title-row">
     <div class="section-title">💃 AV女优选片</div>
-    <a href="https://yunvgong.com/JAV/actress" class="more-link" target="_blank">看更多 ›</a>
+    <a href="https://yunvgong.com/HongKongSex/actress" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="actress-grid" id="actressGrid"></div>
 </section>
@@ -128,7 +128,7 @@ body {
 <section>
   <div class="section-title-row">
     <div class="section-title">🏭 AV影片厂商</div>
-    <a href="https://yunvgong.com/JAV/company" class="more-link" target="_blank">看更多 ›</a>
+    <a href="https://yunvgong.com/HongKongSex/company" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="company-wrap">
     <div class="grid-5" id="companyGrid"></div>
@@ -139,7 +139,7 @@ body {
 <section>
   <div class="section-title-row">
     <div class="section-title">🎬 日本AV专区</div>
-    <a href="https://yunvgong.com/JAV/main" class="more-link" target="_blank">看更多 ›</a>
+    <a href="https://yunvgong.com/HongKongSex/main" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="drama-grid" id="chinaGrid"></div>
 </section>
@@ -172,7 +172,7 @@ fetch('https://yunvgong.com/footer.html')
 
 /* 分类网格 */
 async function loadCategories() {
-  const res = await fetch("https://yunvgong.com/JAV/category/new_cover.json");
+  const res = await fetch("https://yunvgong.com/HongKongSex/category/new_cover.json");
   const data = await res.json();
   const container = document.getElementById('categoryGrid');
   container.innerHTML = '';
@@ -188,7 +188,7 @@ async function loadCategories() {
 /* 最新发布A片 - 加载 latest_100.js */
 function loadLatestAV() {
   const script = document.createElement('script');
-  script.src = 'https://yunvgong.com/JAV/category/latest_100.js';
+  script.src = 'https://yunvgong.com/HongKongSex/category/latest_100.js';
   script.onload = () => {
     if (typeof window.PAGE_DATA !== 'undefined') {
       const dramas = window.PAGE_DATA.slice(0, 30);
@@ -236,7 +236,7 @@ async function loadActresses(page = 1) {
 
   // 加载分页 JS
   const script = document.createElement('script');
-  script.src = `https://yunvgong.com/JAV/category/actress_page/page_${page}.js${page>1 ? '?pages='+page : ''}`;
+  script.src = `https://yunvgong.com/HongKongSex/category/actress_page/page_${page}.js${page>1 ? '?pages='+page : ''}`;
 
   script.onload = () => {
     if(typeof window.PAGE_DATA === 'undefined'){
@@ -275,7 +275,7 @@ async function loadActresses(page = 1) {
 
 /* 厂商 */
 async function loadCompanyList() {
-  const res = await fetch("https://yunvgong.com/JAV/category/company_all.json");
+  const res = await fetch("https://yunvgong.com/HongKongSex/category/company_all.json");
   const data = await res.json();
   const companies = data.filter(c=>c.company).slice(0,20);
   const target = document.getElementById('companyGrid');
@@ -295,7 +295,7 @@ async function loadChinaDramas() {
   target.innerHTML = ''; // 清空原有内容
 
   const script = document.createElement('script');
-  script.src = 'https://yunvgong.com/JAV/category/main_page/page_1.js';
+  script.src = 'https://yunvgong.com/HongKongSex/category/main_page/page_1.js';
   script.onload = () => {
     if (typeof window.PAGE_DATA !== 'undefined') {
       const list = window.PAGE_DATA.slice(0, 30); // 取前30条
