@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>御女宫网站分类</title>
+<style>
+/* 全局 */
+body {
+  margin: 0;
+  font-family: "微软雅黑", sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+  padding-top: 70px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 固定 header */
+#header-placeholder {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
+/* 页面标题 */
+.page-title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: #ffa500;
+  margin: 20px 0 30px;
+}
+.section-title {
+  font-size: 22px;
+  font-weight: bold;
+  color: #ffa500;
+  margin: 30px 0 16px 20px;
+}
+
+/* 标题 + 看更多按钮 */
+.section-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 30px 20px 16px;
+}
+.section-title-row .section-title { margin: 0; }
+.more-link {
+  color: #ffa500;
+  font-size: 15px;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.more-link:hover { color: #ff6600; text-decoration: underline; }
+
+/* 网格 */
+.grid-3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 20px; padding: 0 20px; }
+.grid-5 { display: grid; grid-template-columns: repeat(5,1fr); gap: 18px; padding: 0 20px; }
+
+/* 卡片 */
+.card {
+  background:#1a1a1a; border-radius:10px; overflow:hidden; position:relative;
+  cursor:pointer; aspect-ratio:16/9;
+  transition: transform .22s ease, box-shadow .22s ease;
+}
+.card img { width:100%; height:100%; object-fit:cover; opacity:0.6; transition:opacity .22s; }
+.card:hover { transform:scale(1.03); box-shadow:0 6px 18px rgba(255,255,255,0.08); }
+.card:hover img { opacity:0.3; }
+.card .card-title { position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); color:#fff; font-weight:700; font-size:18px; text-align:center; }
+
+/* 女优 */
+.actress-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:18px; padding:0 20px 20px; }
+.actress-card { background:#1a1a1a; border-radius:8px; overflow:hidden; cursor:pointer; transition:transform .2s; }
+.actress-card img { width:100%; height:220px; object-fit:cover; background:#222; }
+.card-title2 { padding:10px; font-size:15px; text-align:center; color:#eee; }
+.card-info { font-size:13px; color:#ccc; text-align:center; padding-bottom:10px; line-height:1.5; }
+
+/* 国产AV 卡片 */
+.drama-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:20px; padding:0 20px 40px; }
+.drama-card { background:#1a1a1a; border-radius:8px; overflow:hidden; cursor:pointer; transition:transform .18s; }
+.drama-card img { width:100%; aspect-ratio:16/9; object-fit:cover; }
+.drama-card .actor { position:absolute; bottom:8px; left:8px; background:rgba(0,0,0,.5); padding:2px 6px; border-radius:4px; font-size:12px; color:#fff; }
+.drama-card .card-type { position:absolute; bottom:8px; right:8px; background:#ff3b3b; padding:2px 6px; border-radius:4px; font-size:12px; font-weight:700; color:#fff; }
+.drama-info { padding:8px 10px; }
+.drama-info .idcode { color:#ffcc00; font-weight:700; font-size:12px; }
+.drama-info .title { color:#fff; font-size:14px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.drama-info .meta { margin-top:6px; display:flex; justify-content:space-between; color:#ccc; font-size:12px; }
+
+/* 响应式 */
+@media (max-width: 992px) { .grid-5 { grid-template-columns: repeat(3,1fr); } .grid-3 { grid-template-columns: repeat(2,1fr); } }
+@media (max-width: 600px) { .grid-5, .grid-3 { grid-template-columns: 1fr; } .actress-grid { grid-template-columns: repeat(auto-fill,minmax(140px,1fr)); } }
+</style>
+</head>
+<body>
+
+<!-- 固定顶部 header -->
+<div id="header-placeholder"></div>
+
+<div class="page-title">御女宫网站分类</div>
+
+<!-- 分类 -->
+<section>
+  <div class="grid-3" id="categoryGrid"></div>
+</section>
+
+<!-- 最新发布 -->
+<section>
+  <div class="section-title-row">
+    <div class="section-title">🔥 最新发布A片</div>
+    <a href="https://yunvgong.com/JAV/newAV" class="more-link" target="_blank">看更多 ›</a>
+  </div>
+  <div class="grid-5" id="latestGrid"></div>
+</section>
+
+<!-- 女优 -->
+<section>
+  <div class="section-title-row">
+    <div class="section-title">💃 AV女优选片</div>
+    <a href="https://yunvgong.com/JAV/actress" class="more-link" target="_blank">看更多 ›</a>
+  </div>
+  <div class="actress-grid" id="actressGrid"></div>
+</section>
+
+<!-- 厂商 -->
+<section>
+  <div class="section-title-row">
+    <div class="section-title">🏭 AV影片厂商</div>
+    <a href="https://yunvgong.com/JAV/company" class="more-link" target="_blank">看更多 ›</a>
+  </div>
+  <div class="company-wrap">
+    <div class="grid-5" id="companyGrid"></div>
+  </div>
+</section>
+
+<!-- 国产AV -->
+<section>
+  <div class="section-title-row">
+    <div class="section-title">🎬 日本肉番动漫专区</div>
+    <a href="https://yunvgong.com/JAV/main" class="more-link" target="_blank">看更多 ›</a>
+  </div>
+  <div class="drama-grid" id="chinaGrid"></div>
+</section>
+
+<!-- 底部 footer -->
+<div id="footer-placeholder"></div>
+
+<script>
+/* 加载顶部 header.html + header.js */
+fetch('header.html')
+  .then(r => r.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+    const s = document.createElement('script');
+    s.src = 'header.js';
+    document.body.appendChild(s);
+  });
+
+/* 加载底部 footer.html（正确版本 + 加粗标题）*/
+fetch('https://yunvgong.com/footer.html')
+  .then(r => r.text())
+  .then(html => {
+    const footer = document.createElement('div');
+    footer.innerHTML = html
+      .replace(/御女宫/g, '<b>御女宫</b>');  // 加粗标题关键词
+    document.body.appendChild(footer);
+  })
+  .catch(e => console.warn('无法加载 footer.html:', e));
+
+
+/* 分类网格 */
+async function loadCategories() {
+  const res = await fetch("https://yunvgong.com/JAV/category/new_cover.json");
+  const data = await res.json();
+  const container = document.getElementById('categoryGrid');
+  container.innerHTML = '';
+  data.slice(0,3).forEach(it => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `<img src="${it.img_url}" alt=""><div class="card-title">${it.company||it.name||''}</div>`;
+    card.onclick = () => { if(it.company_url) window.location.href = it.company_url; };
+    container.appendChild(card);
+  });
+}
+
+/* 最新发布A片 - 加载 latest_100.js */
+function loadLatestAV() {
+  const script = document.createElement('script');
+  script.src = 'https://yunvgong.com/JAV/category/latest_100.js';
+  script.onload = () => {
+    if (typeof window.PAGE_DATA !== 'undefined') {
+      const dramas = window.PAGE_DATA.slice(0, 30);
+      const target = document.getElementById('latestGrid');
+      target.innerHTML = '';
+      dramas.forEach(d => {
+        const card = document.createElement('div');
+        card.className = 'drama-card';
+        const actressStr = Array.isArray(d.actress) ? d.actress.join('、') : (d.actress || '');
+        card.innerHTML = `
+          <div style="position:relative;">
+            <img src="${d.cover_url||''}" alt="${d.title||''}">
+            <div class="actor">${actressStr}</div>
+            <div class="card-type">${d.type||''}</div>
+          </div>
+          <div class="drama-info">
+            <div class="idcode">${d.IDcode||''}</div>
+            <div class="title">${d.title||''}</div>
+            <div class="meta">
+              <span>📅 ${d.publish_date||''}</span>
+              <span>⭐ ${d.rating||''}</span>
+            </div>
+          </div>`;
+        card.onclick = () => { if(d.title_play_url) window.location.href = d.title_play_url; };
+        target.appendChild(card);
+      });
+    } else {
+      console.error("latest_100.js 未定义 window.PAGE_DATA");
+    }
+  };
+  document.body.appendChild(script);
+}
+
+/* 女优（读取本地分页 JS） */
+async function loadActresses(page = 1) {
+
+  // 最大页（根据你的资源情况修改）
+  const MAX_PAGE = 52;
+  if(page < 1) page = 1;
+  if(page > MAX_PAGE) page = MAX_PAGE;
+
+  // 清空原列表
+  const c = document.getElementById('actressGrid');
+  c.innerHTML = '<p style="color:#aaa;text-align:center;">加载中...</p>';
+
+  // 加载分页 JS
+  const script = document.createElement('script');
+  script.src = `https://yunvgong.com/JAV/category/actress_page/page_${page}.js${page>1 ? '?pages='+page : ''}`;
+
+  script.onload = () => {
+    if(typeof window.PAGE_DATA === 'undefined'){
+      c.innerHTML = '<p style="color:#f66;text-align:center;">数据加载失败</p>';
+      return;
+    }
+
+    // 取前 20 个
+    const list = window.PAGE_DATA.filter(a => a.img_url).slice(0,20);
+    c.innerHTML = '';
+
+    list.forEach(a => {
+      const card = document.createElement('div');
+      card.className = 'actress-card';
+      card.innerHTML = `
+        <img src="${a.img_url}" alt="${a.name}">
+        <div class="card-title2">${a.name}</div>
+        <div class="card-info">
+          ${a.zodiac ? `🌟 ${a.zodiac}<br>` : ''}
+          ${a.height ? `📏 ${a.height}<br>` : ''}
+          ${a.measurements ? `💃 ${a.measurements}` : ''}
+        </div>
+      `;
+      card.onclick = () => { if(a.actress_url) location.href = a.actress_url; };
+      c.appendChild(card);
+    });
+
+  };
+
+  script.onerror = () => {
+    c.innerHTML = '<p style="color:#f66;text-align:center;">分页文件加载失败</p>';
+  };
+
+  document.body.appendChild(script);
+}
+
+/* 厂商 */
+async function loadCompanyList() {
+  const res = await fetch("https://yunvgong.com/JAV/category/company_all.json");
+  const data = await res.json();
+  const companies = data.filter(c=>c.company).slice(0,20);
+  const target = document.getElementById('companyGrid');
+  target.innerHTML = '';
+  companies.forEach(c => {
+    const card = document.createElement('div'); card.className='card';
+    const img = c.cover || c.img_url || "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
+    card.innerHTML = `<img src="${img}" alt="${c.company}"><div class="card-title">${c.company}</div>`;
+    card.onclick = () => { if(c.company_url) window.location.href = c.company_url; };
+    target.appendChild(card);
+  });
+}
+
+/* 国产AV专区 */
+async function loadChinaDramas() {
+  const target = document.getElementById('chinaGrid');
+  target.innerHTML = ''; // 清空原有内容
+
+  const script = document.createElement('script');
+  script.src = 'https://yunvgong.com/JAV/category/main_page/page_1.js';
+  script.onload = () => {
+    if (typeof window.PAGE_DATA !== 'undefined') {
+      const list = window.PAGE_DATA.slice(0, 30); // 取前30条
+      list.forEach(d => {
+        const card = document.createElement('div');
+        card.className = 'drama-card';
+        const actressStr = Array.isArray(d.actress) ? d.actress.join('、') : (d.actress || '');
+        card.innerHTML = `<div style="position:relative;">
+            <img src="${d.cover_url||''}" alt="${d.title||''}">
+            <div class="actor">${actressStr}</div>
+            <div class="card-type">${d.type||''}</div>
+          </div>
+          <div class="drama-info">
+            <div class="idcode">${d.IDcode||''}</div>
+            <div class="title">${d.title||''}</div>
+            <div class="meta"><span>📅 ${d.publish_date||''}</span><span>⭐ ${d.rating||''}</span></div>
+          </div>`;
+        card.onclick = () => { if(d.title_play_url) window.location.href = d.title_play_url; };
+        target.appendChild(card);
+      });
+    } else {
+      console.error("page_1.js 未定义 window.PAGE_DATA");
+    }
+  };
+  document.body.appendChild(script);
+}
+
+
+document.addEventListener('DOMContentLoaded', () => {
+  loadCategories();
+  loadLatestAV();    // 这里改为加载 latest_100.js
+  loadActresses();
+  loadCompanyList();
+  loadChinaDramas();
+});
+</script>
+</body>
+</html>
