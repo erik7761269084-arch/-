@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>国产AV公司目录大全</title>
+<style>
+/* ======= 全局样式 ======= */
+body {
+  margin: 0;
+  font-family: "微软雅黑", sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding-top: 60px; /* 顶部栏高度 */
+}
+
+/* ======= 顶部栏占位 ======= */
+#header-placeholder { position: fixed; top: 0; left: 0; width: 100%; z-index: 9999; }
+
+/* ======= 主内容 ======= */
+#mainContent {
+  flex: 1;
+  padding: 20px;
+}
+
+/* ======= 卡片网格 ======= */
+#companyGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 25px;
+  justify-items: center;
+}
+
+/* ======= 公司卡片 ======= */
+.card {
+  background-color: #1a1a1a;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.3s;
+  text-align: center;
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  max-width: 400px;
+  position: relative;
+}
+.card:hover { transform: scale(1.05); box-shadow: 0 4px 12px rgba(255,255,255,0.2); }
+.card:active { transform: scale(0.96); opacity: 0.8; }
+
+.card-img-wrapper { position: relative; width: 100%; height: 100%; background-color: #222; overflow: hidden; }
+.card img { width: 100%; height: 100%; object-fit: cover; opacity: 0.5; transition: opacity 0.3s; }
+.card:hover img { opacity: 0.3; }
+
+.card-overlay { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; }
+.card-title { color: #fff; font-size: 20px; font-weight: bold; text-shadow: 0 0 8px rgba(0,0,0,0.8); margin-bottom: 4px; }
+.card-info { font-size: 12px; color: #ccc; opacity: 0.9; }
+
+/* ======= 分页 ======= */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 15px 10px;
+  background-color: #111;
+  border-top: 1px solid #222;
+  flex-wrap: wrap;
+}
+.pagination button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.pagination button:hover { background-color: #555; }
+.pagination button:disabled { background-color: #222; color: #666; cursor: not-allowed; }
+.pagination span { font-size:14px; }
+
+/* 页面淡出动画 */
+.fade-out { opacity: 0; transition: opacity 0.3s ease-out; }
+</style>
+</head>
+<body>
+
+<!-- ======= 顶部导航栏 ======= -->
+<div id="header-placeholder"></div>
+
+<!-- ======= 主内容 ======= -->
+<div id="mainContent">
+  <div id="companySection">
+    <div id="companyGrid"></div>
+    <div class="pagination" id="companyPagination"></div>
+  </div>
+</div>
+
+<script>
+/* ======= 动态加载 header.html 并加载 header.js ======= */
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+
+    // 动态加载 header.js
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+    };
+    document.body.appendChild(script);
+  })
+  .catch(err => console.error('加载 header 失败:', err));
+
+/* ========== 加载底部 footer.html ========== */ 
+fetch('https://yunvgong.com/footer.html')
+  .then(r => r.text())
+  .then(html => {
+    // 动态创建底部容器并插入页面
+    let footer = document.getElementById('footer-placeholder');
+    if (!footer) {
+      footer = document.createElement('div');
+      footer.id = 'footer-placeholder';
+      document.body.appendChild(footer);
+    }
+    footer.innerHTML = html;
+  })
+  .catch(e => console.warn('无法加载 footer.html:', e));
+
+/* ======= 加载公司数据 ======= */
+let companies = [], currentPage = 1, pageSize = 18;
+
+async function loadCompanies() {
+  try {
+    const res = await fetch("https://yunvgong.com/JAV/category/company_all.json");
+    const data = await res.json();
+    companies = data.filter(c => c.company && c.company.trim() !== "");
+    renderCompanies();
+  } catch (e) {
+    console.error("加载公司数据失败:", e);
+    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>无法加载公司数据，请稍后再试。</p>";
+  }
+}
+
+function renderCompanies() {
+  const container = document.getElementById('companyGrid');
+  container.innerHTML = '';
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  companies.slice(start, end).forEach(c => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.onclick = () => {
+      if (c.company_url && c.company_url.trim()) {
+        document.body.classList.add('fade-out');
+        setTimeout(() => { window.location.href = c.company_url; }, 300);
+      } else {
+        alert('该公司暂无详情页');
+      }
+    };
+    const img = "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
+    card.innerHTML = `
+      <div class="card-img-wrapper">
+        <img src="${img}" alt="${c.company}">
+        <div class="card-overlay">
+          <div class="card-title">${c.company}</div>
+          <div class="card-info">  ${c.works_count || 0} 部作品</div>
+        </div>
+      </div>`;
+    container.appendChild(card);
+  });
+  renderPagination();
+}
+
+function renderPagination() {
+  const pagination = document.getElementById('companyPagination');
+  pagination.innerHTML = '';
+  const totalPages = Math.ceil(companies.length / pageSize);
+
+  const prev = document.createElement('button');
+  prev.textContent = "上一页";
+  prev.disabled = currentPage === 1;
+  prev.onclick = () => { if(currentPage>1){ currentPage--; renderCompanies(); } };
+  pagination.appendChild(prev);
+
+  const span = document.createElement('span');
+  span.textContent = ` 第 ${currentPage} / ${totalPages} 页 `;
+  pagination.appendChild(span);
+
+  const next = document.createElement('button');
+  next.textContent = "下一页";
+  next.disabled = currentPage === totalPages;
+  next.onclick = () => { if(currentPage<totalPages){ currentPage++; renderCompanies(); } };
+  pagination.appendChild(next);
+}
+
+// === 初始加载 ===
+loadCompanies();
+</script>
+
+</body>
+</html>
