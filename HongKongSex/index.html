@@ -109,7 +109,7 @@ body {
 <!-- 最新发布 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">🔥 最新发布A片</div>
+    <div class="section-title">最新发布A片</div>
     <a href="https://yunvgong.com/HongKongSex/newAV" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="grid-5" id="latestGrid"></div>
@@ -118,7 +118,7 @@ body {
 <!-- 女优 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">💃 AV女优选片</div>
+    <div class="section-title">AV女优选片</div>
     <a href="https://yunvgong.com/HongKongSex/actress" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="actress-grid" id="actressGrid"></div>
@@ -127,7 +127,7 @@ body {
 <!-- 厂商 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">🏭 AV影片厂商</div>
+    <div class="section-title">AV影片厂商</div>
     <a href="https://yunvgong.com/HongKongSex/company" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="company-wrap">
@@ -138,26 +138,25 @@ body {
 <!-- 香港三级专区 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">🎬 香港三级专区</div>
+    <div class="section-title">香港三级专区</div>
     <a href="https://yunvgong.com/HongKongSex/HongKong" class="more-link" target="_blank">看更多 ›</a>
   </div>
-  <div class="drama-grid" id="chinaGrid"></div>
+  <div class="drama-grid" id="hongkongGrid"></div> <!-- ✅ 改了 id -->
 </section>
-
 
 <!-- 日本三级 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">🍡 日本三级专区</div>
+    <div class="section-title">日本三级专区</div>
     <a href="https://yunvgong.com/HongKongSex/Japan" class="more-link" target="_blank">看更多 ›</a>
   </div>
-  <div class="drama-grid" id="chinaGrid"></div>
+  <div class="drama-grid" id="japanGrid"></div> <!-- ✅ 改了 id -->
 </section>
 
 <!-- 韩国三级 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">🌙 韩国三级专区</div>
+    <div class="section-title">韩国三级专区</div>
     <a href="https://yunvgong.com/HongKongSex/Korea" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="drama-grid" id="koreaGrid"></div>
@@ -227,7 +226,7 @@ function loadLatestAV() {
             <div class="idcode">${d.IDcode||''}</div>
             <div class="title">${d.title||''}</div>
             <div class="meta">
-              <span>📅 ${d.publish_date||''}</span>
+              <span>������ ${d.publish_date||''}</span>
               <span>⭐ ${d.rating||''}</span>
             </div>
           </div>`;
@@ -274,9 +273,9 @@ async function loadActresses(page = 1) {
         <img src="${a.img_url}" alt="${a.name}">
         <div class="card-title2">${a.name}</div>
         <div class="card-info">
-          ${a.zodiac ? `🌟 ${a.zodiac}<br>` : ''}
-          ${a.height ? `📏 ${a.height}<br>` : ''}
-          ${a.measurements ? `💃 ${a.measurements}` : ''}
+          ${a.zodiac ? `������ ${a.zodiac}<br>` : ''}
+          ${a.height ? `������ ${a.height}<br>` : ''}
+          ${a.measurements ? `������ ${a.measurements}` : ''}
         </div>
       `;
       card.onclick = () => { if(a.actress_url) location.href = a.actress_url; };
@@ -309,15 +308,14 @@ async function loadCompanyList() {
 }
 
 /* 国产AV专区 */
-async function loadChinaDramas() {
-  const target = document.getElementById('chinaGrid');
-  target.innerHTML = ''; // 清空原有内容
-
+async function loadHongKongSexDramas() {
+  const target = document.getElementById('hongkongGrid'); // ✅ 改为 hongkongGrid
+  target.innerHTML = '';
   const script = document.createElement('script');
   script.src = 'https://yunvgong.com/HongKongSex/category/HongKongSex_page/page_1.js';
   script.onload = () => {
     if (typeof window.PAGE_DATA !== 'undefined') {
-      const list = window.PAGE_DATA.slice(0, 30); // 取前30条
+      const list = window.PAGE_DATA.slice(0, 30);
       list.forEach(d => {
         const card = document.createElement('div');
         card.className = 'drama-card';
@@ -330,25 +328,87 @@ async function loadChinaDramas() {
           <div class="drama-info">
             <div class="idcode">${d.IDcode||''}</div>
             <div class="title">${d.title||''}</div>
-            <div class="meta"><span>📅 ${d.publish_date||''}</span><span>⭐ ${d.rating||''}</span></div>
+
           </div>`;
         card.onclick = () => { if(d.title_play_url) window.location.href = d.title_play_url; };
         target.appendChild(card);
       });
-    } else {
-      console.error("page_1.js 未定义 window.PAGE_DATA");
     }
   };
   document.body.appendChild(script);
 }
 
+/* 日本三级专区 */
+async function loadJapanSexDramas() {
+  const target = document.getElementById('japanGrid'); // ✅ 改为 japanGrid
+  target.innerHTML = '';
+  const script = document.createElement('script');
+  script.src = 'https://yunvgong.com/HongKongSex/category/Japan_page/page_1.js';
+  script.onload = () => {
+    if (typeof window.PAGE_DATA !== 'undefined') {
+      const list = window.PAGE_DATA.slice(0, 30);
+      list.forEach(d => {
+        const card = document.createElement('div');
+        card.className = 'drama-card';
+        const actressStr = Array.isArray(d.actress) ? d.actress.join('、') : (d.actress || '');
+        card.innerHTML = `<div style="position:relative;">
+            <img src="${d.cover_url||''}" alt="${d.title||''}">
+            <div class="actor">${actressStr}</div>
+            <div class="card-type">${d.type||''}</div>
+          </div>
+          <div class="drama-info">
+            <div class="idcode">${d.IDcode||''}</div>
+            <div class="title">${d.title||''}</div>
 
+          </div>`;
+        card.onclick = () => { if(d.title_play_url) window.location.href = d.title_play_url; };
+        target.appendChild(card);
+      });
+    }
+  };
+  document.body.appendChild(script);
+}
+
+/* 韩国三级专区 */
+async function loadKoreaSexDramas() {
+  const target = document.getElementById('koreaGrid'); // ✅ 改为 koreaGrid
+  target.innerHTML = '';
+  const script = document.createElement('script');
+  script.src = 'https://yunvgong.com/HongKongSex/category/Korea_page/page_1.js';
+  script.onload = () => {
+    if (typeof window.PAGE_DATA !== 'undefined') {
+      const list = window.PAGE_DATA.slice(0, 30);
+      list.forEach(d => {
+        const card = document.createElement('div');
+        card.className = 'drama-card';
+        const actressStr = Array.isArray(d.actress) ? d.actress.join('、') : (d.actress || '');
+        card.innerHTML = `<div style="position:relative;">
+            <img src="${d.cover_url||''}" alt="${d.title||''}">
+            <div class="actor">${actressStr}</div>
+            <div class="card-type">${d.type||''}</div>
+          </div>
+          <div class="drama-info">
+            <div class="idcode">${d.IDcode||''}</div>
+            <div class="title">${d.title||''}</div>
+
+          </div>`;
+        card.onclick = () => { if(d.title_play_url) window.location.href = d.title_play_url; };
+        target.appendChild(card);
+      });
+    }
+  };
+  document.body.appendChild(script);
+}
+
+/* 初始化 */
 document.addEventListener('DOMContentLoaded', () => {
   loadCategories();
-  loadLatestAV();    // 这里改为加载 latest_100.js
+  loadLatestAV();
   loadActresses();
   loadCompanyList();
-  loadChinaDramas();
+  loadHongKongSexDramas();
+  loadJapanSexDramas();
+  loadKoreaSexDramas();
 });
 </script>
 </body>
