@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e4b1a3276de039d319a54.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e4b1a3276de039d319a54.m3u8",
+    "线路2": "https://v8.qrssuv.com/wjv8/202310/06/18UKztmDTi1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 200,

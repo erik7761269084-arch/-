@@ -1,7 +1,10 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/673e5f563276de039d31a307.m3u8",
-    "线路2": "https://m3u8.cdn202511.com/movie/auto/673e5ec53276de039d31a2ce.m3u8"
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/673e5ec53276de039d31a2ce.m3u8",
+    "线路3": "https://play.modujx15.com/20240819/ToKjH3az/index.m3u8",
+    "线路4": "https://vip1.lz-cdn.com/20220917/33091_abc5295d/index.m3u8",
+    "线路5": "https://vip1.lz-cdn.com/20220917/33092_4db9bdea/index.m3u8"
   },
   "seriesInfo": {
     "id": 357,

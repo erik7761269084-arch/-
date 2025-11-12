@@ -1,14 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e474b3276de039d3198ae.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f43094b74ce1033690fe.m3u8",
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/673d46192c1c92ed2c45a387.m3u8",
+    "线路3": "https://m3u8.cdn202511.com/movie/auto/673e474b3276de039d3198ae.m3u8",
+    "线路4": "https://vip1.lz-cdn1.com/20220516/5775_36eacadc/index.m3u8",
+    "线路5": "https://v8.qrssuv.com/wjv8/202310/09/6FnT1gEfrp1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 186,
-    "title": "金瓶梅2008",
+    "title": "金瓶梅1-2008",
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://img.cdn202511.com/videos/202411/21/673e474b3276de039d3198ae/cover.webp",
     "background_img": "",

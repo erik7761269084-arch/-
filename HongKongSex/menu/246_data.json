@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e556e3276de039d319e99.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e556e3276de039d319e99.m3u8",
+    "线路2": "https://vip1.lz-cdn1.com/20220328/671_9a4a913e/index.m3u8"
   },
   "seriesInfo": {
     "id": 246,
@@ -8,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://img.cdn202511.com/videos/202411/21/673e556e3276de039d319e99/cover.webp",
     "background_img": "",

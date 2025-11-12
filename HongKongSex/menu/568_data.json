@@ -1,10 +1,11 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673c869b2c1c92ed2c458f59.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673c869b2c1c92ed2c458f59.m3u8",
+    "线路2": "https://s1.bfllvip.com/video/mitaochengshushi33D/HD中字/index.m3u8"
   },
   "seriesInfo": {
     "id": 568,
-    "title": "蜜桃成熟时33D",
+    "title": "蜜桃成熟时33D-吴晴晴",
     "publish_date": "",
     "type": "有码",
     "company": "",

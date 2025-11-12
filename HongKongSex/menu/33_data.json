@@ -2,15 +2,19 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f30bf514c41c435e77ef.m3u8",
     "线路2": "https://m3u8.cdn202511.com/movie/auto/673d20a99db76f8179627d44.m3u8",
-    "线路3": "https://m3u8.cdn202511.com/movie/auto/673e5fc43276de039d31a33d.m3u8"
+    "线路3": "https://m3u8.cdn202511.com/movie/auto/673e4eb53276de039d319bcc.m3u8",
+    "线路4": "https://m3u8.cdn202511.com/movie/auto/673e5fc43276de039d31a33d.m3u8",
+    "线路5": "https://jpzy01.com/20211119/NtQWIiUx/index.m3u8"
   },
   "seriesInfo": {
     "id": 33,
-    "title": "蜜桃成熟时",
+    "title": "蜜桃成熟时1-93李丽珍",
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://img.cdn202511.com/videos/202411/21/673e5fc43276de039d31a33d/cover.webp",
     "background_img": "",

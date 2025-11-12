@@ -1,15 +1,19 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f1ddf514c41c435e776b.m3u8",
-    "线路2": "https://m3u8.cdn202511.com/movie/auto/673e57b93276de039d319f9a.m3u8"
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/68b8cf11d640eb31dfab4334.m3u8",
+    "线路3": "https://m3u8.cdn202511.com/movie/auto/673e57b93276de039d319f9a.m3u8",
+    "线路4": "https://v6.yuglf.com/202309/16/gSwRtDducD1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 48,
-    "title": "玉蒲团之玉女心经",
+    "title": "玉蒲团Ⅱ之玉女心经",
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://img.cdn202511.com/videos/202411/21/673e57b93276de039d319f9a/cover.webp",
     "background_img": "",

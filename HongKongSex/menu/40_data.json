@@ -1,14 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f275f514c41c435e77ae.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f275f514c41c435e77ae.m3u8",
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/673e470d3276de039d319893.m3u8",
+    "线路3": "https://vip1.lz-cdn1.com/20220602/7247_71485294/index.m3u8",
+    "线路4": "https://1080p.huyall.com/play/zbq3o2ep/index.m3u8"
   },
   "seriesInfo": {
     "id": 40,
-    "title": "聊斋艳谭4聊斋荷花三娘子",
+    "title": "聊斋艳谭5聊斋荷花三娘子",
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://img.cdn202511.com/videos/202411/17/6739f275f514c41c435e77ae/poster2.webp",
     "background_img": "",

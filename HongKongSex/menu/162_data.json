@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e45ce3276de039d31980c.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e45ce3276de039d31980c.m3u8",
+    "线路2": "https://vip1.lz-cdn1.com/20220328/626_7443ed99/index.m3u8"
   },
   "seriesInfo": {
     "id": 162,

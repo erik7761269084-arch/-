@@ -1,7 +1,8 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/6739efe994b74ce103369065.m3u8",
-    "线路2": "https://m3u8.cdn202511.com/movie/auto/673e54863276de039d319e2b.m3u8"
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/673e54863276de039d319e2b.m3u8",
+    "线路3": "https://s1.bfllvip.com/video/bukouniudenvhai/HD中字/index.m3u8"
   },
   "seriesInfo": {
     "id": 74,
@@ -9,7 +10,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://img.cdn202511.com/videos/202411/18/6739efe994b74ce103369065/poster2.webp",
     "background_img": "",

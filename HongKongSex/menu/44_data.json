@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f231f514c41c435e7792.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f231f514c41c435e7792.m3u8",
+    "线路2": "https://s1.bfllvip.com/video/zubenyuputuan/中字/index.m3u8"
   },
   "seriesInfo": {
     "id": 44,

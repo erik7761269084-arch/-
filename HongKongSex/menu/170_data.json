@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e49043276de039d319972.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e49043276de039d319972.m3u8",
+    "线路2": "https://1080p.huyall.com/play/neg5MD9b/index.m3u8"
   },
   "seriesInfo": {
     "id": 170,

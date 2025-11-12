@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f05a94b74ce10336909b.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f05a94b74ce10336909b.m3u8",
+    "线路2": "https://jpzy01.com/20211222/ATvnssRm/index.m3u8"
   },
   "seriesInfo": {
     "id": 68,
