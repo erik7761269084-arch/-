@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>频道首页</title>
+<style>
+body {
+  margin: 0;
+  font-family: "微软雅黑", sans-serif;
+  background: #0d0d0d;
+  color: #fff;
+  padding: 20px;
+}
+
+/* 卡片布局 */
+#companyGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+/* 卡片 */
+.card {
+  background: #1a1a1a;
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  aspect-ratio: 16 / 9;
+  position: relative;
+  transition: transform .25s, box-shadow .25s;
+}
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(255,255,255,.25);
+}
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: .55;
+  transition: opacity .3s;
+}
+.card:hover img {
+  opacity: .25;
+}
+.card-overlay {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.card-title {
+  font-size: 22px;
+  font-weight: bold;
+  text-shadow: 0 0 10px rgba(0,0,0,.8);
+}
+
+/* 文字列表 */
+.channel-list {
+  margin-top: 20px;
+}
+.channel-list p {
+  margin: 6px 0;
+}
+.channel-list a {
+  color: #ffa500;
+  text-decoration: none;
+}
+
+.page-title {
+    text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1 class="page-title" id="page-title">御女宫 · 分类导航</h1>
+ 
+<!-- 底部三个卡片 -->
+<div id="companyGrid"></div>
+
+<script>
+// 底部三个卡片数据
+const companyList = [
+  { company: "国产AV网站", company_url: "./CN_AV/index.html", img_url: "https://picmeta2024.sbs/upload/vod/20230820-1/0795de893a1526f058a7512764085c20.jpg" },
+  { company: "日本AV", company_url: "./JAV/index.html", img_url: "https://picture.yoshiclub.xyz/20250327/370cdc51-a89c-421b-ad1f-f06b8551e8bc.jpg" },
+  { company: "COS福利姬图库", company_url: "./福利姬频道总目录/index.html", img_url: "https://tutu1.space/images/2025/10/04/6b7ff4a2a8d95d22cedc3788e2f4e4af.jpg" }
+];
+
+const container = document.getElementById("companyGrid");
+companyList.forEach(item => {
+  const div = document.createElement("div");
+  div.className = "card";
+  div.onclick = () => window.location.href = item.company_url;
+  div.innerHTML = `
+    <img src="${item.img_url}" alt="${item.company}">
+    <div class="card-overlay">
+      <div class="card-title">${item.company}</div>
+    </div>
+  `;
+  container.appendChild(div);
+});
+</script>
+
+</body>
+</html>
