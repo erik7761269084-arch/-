@@ -35,7 +35,7 @@ body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; colo
 
 <script>
 // 最大页数
-const MAX_PAGE = 1;
+const MAX_PAGE = 113;
 
 // 加载头部和底部
 fetch('header.html').then(r=>r.text()).then(html=>{
@@ -125,7 +125,7 @@ renderPagination(pageNumber);
 
 // 动态加载对应页 JS
 const script = document.createElement('script');
-script.src = `https://yunvgong.com/HongKongSex/category/Japan_page/page_${pageNumber}.js`;
+script.src = `https://yunvgong.com/CN_SELFIE/category/SexSlave_page/page_${pageNumber}.js`;
 script.onload = ()=>{
   if(typeof window.PAGE_DATA !== 'undefined'){
     renderAll(window.PAGE_DATA);
