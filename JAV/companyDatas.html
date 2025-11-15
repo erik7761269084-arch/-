@@ -212,7 +212,7 @@ function getCompanyName() {
 }
 function loadCompanyData(companyName) {
   const script = document.createElement('script');
-  script.src = `CN_company_menu/${companyName}_company_data.js`;
+  script.src = `company_menu/${companyName}_company_data.js`;
   script.onload = () => {
     if (window.companyData) initPage(window.companyData);
     else alert("companyData 未定义，请检查数据文件。");
