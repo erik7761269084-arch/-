@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>国产AV - 影片列表</title>
+<style>
+body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; color:#fff; padding-top:60px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:20px; padding:20px; }
+.card { position:relative; background:#1a1a1a; border-radius:8px; overflow:hidden; cursor:pointer; transition:transform .2s ease,box-shadow .2s ease; display:flex; flex-direction:column; }
+.card:hover { transform:scale(1.05); box-shadow:0 4px 12px rgba(255,255,255,.2); }
+.card img { width:100%; aspect-ratio:16/9; object-fit:cover; }
+.card-type { position:absolute; bottom:8px; right:8px; font-size:12px; font-weight:bold; color:#fff; background:#ff0000; padding:2px 6px; border-radius:4px; }
+.actor { position:absolute; bottom:8px; left:8px; background:rgba(0,0,0,0.5); padding:2px 6px; border-radius:4px; font-size:12px; }
+.card-info { padding:8px 10px; display:flex; flex-direction:column; gap:6px; }
+.card-info-top { display:flex; align-items:center; gap:6px; overflow:hidden; }
+.idcode { color:#ffcc00; font-weight:bold; font-size:12px; white-space:nowrap; }
+.title { font-size:14px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; flex-grow:1; }
+.card-info-bottom { display:flex; justify-content:space-between; font-size:12px; color:#ccc; }
+.star { color:gold; }
+.date { display:flex; align-items:center; gap:4px; }
+.date::before { content:"📅"; }
+.pagination { display:flex; justify-content:center; align-items:center; gap:10px; padding:20px 0; }
+.pagination button { padding:6px 12px; background:#333; color:#fff; border:none; border-radius:4px; cursor:pointer; }
+.pagination button:hover:not(:disabled) { background:#555; }
+.pagination button:disabled { opacity:.4; cursor:not-allowed; }
+.pagination input { width:50px; padding:4px; background:#222; border:1px solid #555; color:#fff; text-align:center; border-radius:4px; }
+</style>
+</head>
+<body>
+
+<div id="header-placeholder"></div>
+<div class="grid" id="dramaGrid"></div>
+<div class="pagination" id="pagination"></div>
+
+<script>
+// 最大页数
+const MAX_PAGE = 102;
+
+// 加载头部和底部
+fetch('header.html').then(r=>r.text()).then(html=>{
+  document.getElementById('header-placeholder').innerHTML = html;
+  const s=document.createElement('script'); s.src='header.js'; document.body.appendChild(s);
+});
+fetch('https://yunvgong.com/footer.html').then(r=>r.text()).then(html=>{
+  const footer=document.createElement('div'); footer.innerHTML = html; document.body.appendChild(footer);
+});
+
+// 点击播放
+function goPlay(url){
+  localStorage.setItem('dramaScroll', window.scrollY);
+  location.href = url;
+}
+
+// 渲染全部影片
+function renderAll(data){
+  const box = document.getElementById('dramaGrid');
+  box.innerHTML = '';
+  data.forEach(d=>{
+    const a = Array.isArray(d.actress)?d.actress.join("、"):(d.actress||'未知');
+    box.innerHTML += `
+      <div class="card" onclick="goPlay('${d.title_play_url}')">
+        <div style="position:relative;">
+          <img src="${d.cover_url || 'https://via.placeholder.com/320x180?text=No+Cover'}">
+          <div class="actor">${a}</div>
+          <div class="card-type">${d.type||'未知'}</div>
+        </div>
+        <div class="card-info">
+          <div class="card-info-top">
+            <span class="idcode">${d.IDcode}</span>
+            <span class="title">${d.title}</span>
+          </div>
+          <div class="card-info-bottom">
+            <div class="star">⭐⭐⭐⭐⭐</div>
+            <div class="date">${d.publish_date}</div>
+          </div>
+        </div>
+      </div>
+    `;
+  });
+
+  // 恢复滚动位置
+  const savedScroll = parseInt(localStorage.getItem('dramaScroll'));
+  if(savedScroll) window.scrollTo(0,savedScroll);
+}
+
+// 获取 URL 参数 ?pages=N，并限制范围 1~MAX_PAGE
+function getPageFromURL(){
+  const params = new URLSearchParams(window.location.search);
+  let pages = parseInt(params.get('pages'));
+  if(!pages || pages < 1) pages = 1;
+  if(pages > MAX_PAGE) pages = MAX_PAGE;
+  return pages;
+}
+
+// 渲染分页控件
+function renderPagination(currentPage){
+  const pagination = document.getElementById('pagination');
+  pagination.innerHTML = `
+    <button ${currentPage===1?'disabled':''} onclick="changePage(${currentPage-1})">上一页</button>
+    <span>第 <input id="jumpPage" type="number" min="1" max="${MAX_PAGE}" value="${currentPage}"> 页 / ${MAX_PAGE} 页</span>
+    <button onclick="jumpToPage()">跳转</button>
+    <button ${currentPage===MAX_PAGE?'disabled':''} onclick="changePage(${currentPage+1})">下一页</button>
+  `;
+}
+
+// 跳转到指定页
+function jumpToPage(){
+  let p = parseInt(document.getElementById('jumpPage').value);
+  if(!p || p < 1) p = 1;
+  if(p > MAX_PAGE) p = MAX_PAGE;
+  location.href = `${window.location.pathname}?pages=${p}`;
+}
+
+// 上下页切换
+function changePage(p){
+  if(p < 1) p = 1;
+  if(p > MAX_PAGE) p = MAX_PAGE;
+  location.href = `${window.location.pathname}?pages=${p}`;
+}
+
+// 初始化
+const pageNumber = getPageFromURL();
+renderPagination(pageNumber);
+
+// 动态加载对应页 JS
+const script = document.createElement('script');
+script.src = `https://yunvgong.com/CN_SELFIE/category/Tanhua_page/page_${pageNumber}.js`;
+script.onload = ()=>{
+  if(typeof window.PAGE_DATA !== 'undefined'){
+    renderAll(window.PAGE_DATA);
+  } else {
+    console.error(`page_${pageNumber}.js 未定义 window.PAGE_DATA`);
+  }
+};
+document.body.appendChild(script);
+</script>
+
+</body>
+</html>
