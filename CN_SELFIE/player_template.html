@@ -322,7 +322,7 @@ function getSeriesName() {
 }
 
 function loadSeriesData(seriesName) {
-    const dataUrl = `https://yunvgong.com/HongKongSex/menu/${seriesName}_data.json`;
+    const dataUrl = `https://yunvgong.com/CN_SELFIE/menu/${seriesName}_data.json`;
     fetch(dataUrl)
     .then(res => {
         if(!res.ok) throw new Error(`HTTP ${res.status}`);
