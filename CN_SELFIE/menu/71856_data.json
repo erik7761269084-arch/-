@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e77e63276de039d31ad77.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e77e63276de039d31ad77.m3u8",
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/673e77e63276de039d31ad77.m3u8"
   },
   "seriesInfo": {
     "id": 71856,
@@ -10,7 +11,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "/upload/vod/20250715-7/ecbe4719d194d8d2e00cfcace30c215f.webp",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=71856",
     "actresses": []

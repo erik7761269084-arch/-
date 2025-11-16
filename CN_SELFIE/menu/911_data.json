@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/673a54adf514c41c435e8778.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673a54adf514c41c435e8778.m3u8",
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/673a54adf514c41c435e8778.m3u8"
   },
   "seriesInfo": {
     "id": 911,
@@ -10,7 +11,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-16/1a0db02b364e4dce80a78dd4a8f81dfb.webp",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=911",
     "actresses": []

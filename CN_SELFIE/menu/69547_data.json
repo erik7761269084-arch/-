@@ -1,7 +1,9 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/673c390b9db76f8179621d05.m3u8",
-    "线路2": "https://lsbbf2.com/20230907/EbaNviNx/index.m3u8"
+    "线路2": "https://lsbbf2.com/20230907/EbaNviNx/index.m3u8",
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/673c390b9db76f8179621d05.m3u8",
+    "线路4": "https://voddadaizi.com:52866/movie/auto/68f58dc97de28f4ede99df06.m3u8"
   },
   "seriesInfo": {
     "id": 69547,

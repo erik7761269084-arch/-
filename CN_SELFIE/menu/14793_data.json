@@ -1,7 +1,8 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202410/25/CY8ev6nJZi1/video/index.m3u8",
-    "线路2": "https://m3u8.cdn202511.com/movie/auto/673d44192c1c92ed2c45a2a2.m3u8"
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/673d44192c1c92ed2c45a2a2.m3u8",
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/673d44192c1c92ed2c45a2a2.m3u8"
   },
   "seriesInfo": {
     "id": 14793,
@@ -11,7 +12,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241101-1/15611c8d12f8e6ec974218a9cbc30e8b.jpg",
+    "cover_url": "/upload/vod/20250715-8/5f9c2564e2ed090a6d2536f67602dd51.webp",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=14793",
     "actresses": []

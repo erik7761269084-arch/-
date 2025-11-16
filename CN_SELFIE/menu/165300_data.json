@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/movie/auto/68cc457c31a2714f1c15f4e5.m3u8"
+    "主线路": "https://voddadaizi.com:52866/movie/auto/68cc457c31a2714f1c15f4e5.m3u8",
+    "线路2": "https://yutubf.lsbbf3.com/20250608/BbnlaDdZ/index.m3u8",
+    "线路3": "https://lsbbf5.com/20250608/BbnlaDdZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 165300,

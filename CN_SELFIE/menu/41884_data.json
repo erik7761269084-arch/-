@@ -1,7 +1,8 @@
 {
   "episodes": {
     "主线路": "https://fqm3u8.com/20250601/N6pgvcai/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202506/05/mvmK5fyJjj2/video/index.m3u8"
+    "线路2": "https://bf3.qrtuv.com/smv1/202506/05/mvmK5fyJjj2/video/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202508/13/689c970655337d7f7bf500fe/7704e4/index.m3u8"
   },
   "seriesInfo": {
     "id": 41884,
@@ -11,7 +12,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/13/689c970655337d7f7bf500fe/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=41884",
     "actresses": []

@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202502/13/67ad6b09846149d7bcfe767e/c5bc3a/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202502/13/67ad6b09846149d7bcfe767e/c5bc3a/index.m3u8",
+    "线路2": "https://yutubf.lsbbf3.com/20250922/5D7gyXTj/index.m3u8",
+    "线路3": "https://lsbbf5.com/20250922/5D7gyXTj/index.m3u8"
   },
   "seriesInfo": {
     "id": 152473,

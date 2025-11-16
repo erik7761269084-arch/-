@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://fqm3u8.com/20241111/lOMiixpr/index.m3u8"
+    "主线路": "https://fqm3u8.com/20241111/lOMiixpr/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68d6b5d552c12b4e681d26be.m3u8"
   },
   "seriesInfo": {
     "id": 36285,
@@ -10,7 +11,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241215-1/4236395bb3f9b237c4338b269846983f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6b5d552c12b4e681d26be/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=36285",
     "actresses": []

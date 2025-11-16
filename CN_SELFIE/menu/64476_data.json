@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://b.gg155gg1.com/20250625/l0RBtTU6/index.m3u8"
+    "主线路": "https://b.gg155gg1.com/20250625/l0RBtTU6/index.m3u8",
+    "线路2": "https://yutubf.lsbbf3.com/20250505/D7SE2H1u/index.m3u8",
+    "线路3": "https://lsbbf5.com/20250505/D7SE2H1u/index.m3u8"
   },
   "seriesInfo": {
     "id": 64476,
@@ -10,7 +12,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250625-1/a2ded8ac1a2dff7eaf55206f5f701dc0.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/863b0e7ad8600e324956f4085ec433c8.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=64476",
     "actresses": []

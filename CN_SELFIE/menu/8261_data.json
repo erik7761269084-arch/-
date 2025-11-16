@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202405/16/nAv0hT8Ak11/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202405/16/nAv0hT8Ak11/video/index.m3u8",
+    "线路2": "https://lsbbf2.com/20230921/4LnNl64P/index.m3u8"
   },
   "seriesInfo": {
     "id": 8261,
@@ -10,7 +11,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240905-1/d76c2d866dcbe172257b725668f3083e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/ed79a9151b272d01a2db4b002507318d.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=8261",
     "actresses": []

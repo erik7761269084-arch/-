@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20231104/w8ahhX9u/index.m3u8"
+    "主线路": "https://lsbbf5.com/20231104/w8ahhX9u/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202505/04/68178765361668305aa84bad/3bf506/index.m3u8"
   },
   "seriesInfo": {
     "id": 139436,
@@ -10,7 +11,7 @@
     "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231105-1/d4b73762337207ca0ce3a32257811fca.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/04/68178765361668305aa84bad/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139436",
     "actresses": []
