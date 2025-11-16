@@ -13,24 +13,39 @@
   font-family: "微软雅黑", sans-serif;
 }
 
-/* Logo 固定左侧 */
-.headerbar .logo {
+/* 单独 logo 固定左侧 */
+.headerbar > .logo {
   font-weight: bold;
   font-size: 18px;
   color: #ffcc00;
   text-decoration: none;
-  float: left;                 /* ⭐固定左侧，不参与换行 */
+  float: left;
   margin-right: 20px;
-  line-height: 60px;           /* 与顶部高度对齐 */
+  line-height: 60px;
+}
+
+/* 包含两个链接的区域：强制换行 */
+.logo-wrap {
+  float: left;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.logo-wrap a {
+  display: block;
+  color: #ffcc00;
+  font-weight: bold;
+  text-decoration: none;
+  line-height: 26px;
 }
 
 /* 菜单容器 */
 .headerbar nav {
   display: flex;
-  flex-wrap: wrap;             /* ⭐允许换行 */
+  flex-wrap: wrap;
   justify-content: center;
   gap: 8px;
-  margin-left: 150px;          /* ⭐避免压到 logo，可调整 */
+  margin-left: 10px;
   padding-top: 10px;
 }
 
@@ -43,10 +58,11 @@
   border-radius: 5px;
   font-size: 14px;
   white-space: nowrap;
-  flex: 1 0 calc(9.09% - 8px); /* ⭐ 100% / 11 = 9.09% */
+  flex: 1 0 calc(9.09% - 8px); /* 100 / 11 = 9.09% */
   text-align: center;
   transition: 0.25s;
 }
+
 .headerbar nav a:hover {
   color: #ffcc00;
   background: rgba(255,204,0,0.18);
@@ -86,7 +102,7 @@
   }
 
   .headerbar nav a {
-    flex: 1 0 100%;   /* 手机单列显示 */
+    flex: 1 0 100%;
     font-size: 16px;
     padding: 8px 0;
   }
@@ -98,4 +114,5 @@
     line-height: normal;
     margin: 8px 0;
   }
+
 }
