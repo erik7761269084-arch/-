@@ -106,31 +106,31 @@ body {
   <div class="grid-3" id="categoryGrid"></div>
 </section>
 
-<!-- 探花系列 -->
+<!-- 探花系列 → 国产探花 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">探花系列</div>
+    <div class="section-title">国产探花</div>
     <a href="https://yunvgong.com/CN_SELFIE/Tanhua" class="more-link" target="_blank">看更多 ›</a>
   </div>
-  <div class="drama-grid" id="hongkongGrid"></div> <!-- ✅ 改了 id -->
+  <div class="drama-grid" id="Tanhua"></div>
 </section>
 
-<!-- 性奴调教 -->
+<!-- 性奴调教 → 调教合集 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">性奴调教</div>
+    <div class="section-title">调教合集</div>
     <a href="https://yunvgong.com/CN_SELFIE/SexSlave" class="more-link" target="_blank">看更多 ›</a>
   </div>
-  <div class="drama-grid" id="japanGrid"></div> <!-- ✅ 改了 id -->
+  <div class="drama-grid" id="SexSlave"></div>
 </section>
 
-<!-- 韩国三级 -->
+<!-- 明星换脸 → AI换脸专区 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">韩国三级专区</div>
-    <a href="https://yunvgong.com/CN_SELFIE/Korea" class="more-link" target="_blank">看更多 ›</a>
+    <div class="section-title">AI换脸专区</div>
+    <a href="https://yunvgong.com/CN_SELFIE/AIstar" class="more-link" target="_blank">看更多 ›</a>
   </div>
-  <div class="drama-grid" id="koreaGrid"></div>
+  <div class="drama-grid" id="AIstar"></div>
 </section>
 
 <!-- 底部 footer -->
@@ -283,12 +283,12 @@ async function loadCompanyList() {
   });
 }
 
-/* 国产AV专区 */
-async function loadCN_SELFIEDramas() {
-  const target = document.getElementById('hongkongGrid'); // ✅ 改为 hongkongGrid
+/* 探花系列 */
+async function loadTanhuaDramas() {
+  const target = document.getElementById('Tanhua');  
   target.innerHTML = '';
   const script = document.createElement('script');
-  script.src = 'https://yunvgong.com/CN_SELFIE/category/CN_SELFIE_page/page_1.js';
+  script.src = 'https://yunvgong.com/CN_SELFIE/category/Tanhua_page/page_1.js';
   script.onload = () => {
     if (typeof window.PAGE_DATA !== 'undefined') {
       const list = window.PAGE_DATA.slice(0, 30);
@@ -314,12 +314,12 @@ async function loadCN_SELFIEDramas() {
   document.body.appendChild(script);
 }
 
-/* 日本三级专区 */
-async function loadJapanSexDramas() {
-  const target = document.getElementById('japanGrid'); // ✅ 改为 japanGrid
+/* 性奴调教 */
+async function loadSexSlaveDramas() {
+  const target = document.getElementById('SexSlave'); 
   target.innerHTML = '';
   const script = document.createElement('script');
-  script.src = 'https://yunvgong.com/CN_SELFIE/category/Japan_page/page_1.js';
+  script.src = 'https://yunvgong.com/CN_SELFIE/category/SexSlave_page/page_1.js';
   script.onload = () => {
     if (typeof window.PAGE_DATA !== 'undefined') {
       const list = window.PAGE_DATA.slice(0, 30);
@@ -345,12 +345,12 @@ async function loadJapanSexDramas() {
   document.body.appendChild(script);
 }
 
-/* 韩国三级专区 */
-async function loadKoreaSexDramas() {
-  const target = document.getElementById('koreaGrid'); // ✅ 改为 koreaGrid
+/* 明星换脸 */
+async function loadAIstarDramas() {
+  const target = document.getElementById('AIstar');  
   target.innerHTML = '';
   const script = document.createElement('script');
-  script.src = 'https://yunvgong.com/CN_SELFIE/category/Korea_page/page_1.js';
+  script.src = 'https://yunvgong.com/CN_SELFIE/category/AIstar_page/page_1.js';
   script.onload = () => {
     if (typeof window.PAGE_DATA !== 'undefined') {
       const list = window.PAGE_DATA.slice(0, 30);
@@ -382,9 +382,9 @@ document.addEventListener('DOMContentLoaded', () => {
   loadLatestAV();
   loadActresses();
   loadCompanyList();
-  loadCN_SELFIEDramas();
-  loadJapanSexDramas();
-  loadKoreaSexDramas();
+  loadTanhuaDramas();
+  loadSexSlaveDramas();
+  loadAIstarDramas();
 });
 </script>
 </body>
