@@ -169,12 +169,12 @@ fetch('header.html')
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
-    // 动态加载 header.js
+    // 加载 header.js 文件
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
       if (typeof initHeaderMenu === 'function') initHeaderMenu();
-      if (typeof setActiveMenu === 'function') setActiveMenu('menu-company');
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
     };
     document.body.appendChild(script);
   });
