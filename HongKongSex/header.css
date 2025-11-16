@@ -66,25 +66,41 @@
 
 /* 手机模式 */
 @media (max-width: 992px) {
-  .nav-wrapper {
-    justify-content: flex-start; /* 手机下靠左 */
+  .hamburger {
+    display: block;
   }
 
+  .headerbar {
+    padding-bottom: 10px;
+  }
+
+  /* 导航隐藏，点击显示 */
   .headerbar nav {
     display: none;
-    flex-direction: column;
+    flex-wrap: wrap;          /* 允许换行 */
     width: 100%;
-    background: #1a1a1a;
-    position: absolute;
-    top: 60px;
-    left: 0;
+    margin-left: 0;
+    margin-top: 8px;
   }
 
   .headerbar nav.show {
     display: flex;
   }
 
-  .hamburger {
-    display: block;
+  /* 手机端每行4个 */
+  .headerbar nav a {
+    flex: 1 0 25%;            /* 每行4个 */
+    font-size: 16px;
+    padding: 8px 0;
+    text-align: center;
+  }
+
+  /* Logo 居中显示 */
+  .logo {
+    float: none;
+    width: 100%;
+    text-align: center;
+    line-height: normal;
+    margin: 8px 0;
   }
 }
