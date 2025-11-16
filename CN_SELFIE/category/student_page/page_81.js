@@ -1,138 +1,831 @@
 window.PAGE_DATA = [
   {
-    "id": 83345,
-    "title": "焦点jdsy-178骚货留学生野外偷吃大鸡巴",
+    "id": 30539,
+    "title": "大学生情侣泄密我是奔著结婚才在一起的全程有对话洋气学生妹与男友开房露脸性爱自拍被",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "国产自拍",
+      "黑料泄密",
+      "情侣做爱",
       "学生系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250317-1/eacd5c2f66509b5bdbbcdc19f28b7c2f.jpg",
+    "cover_url": "https://fqjpg4.top/upload/vod/20240926-1/88ae740c71b76e70ed19dd5b993fdfad.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=83345"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=30539"
   },
   {
-    "id": 83237,
-    "title": "焦点jdsy-185骚货留学生激情车震",
+    "id": 157020,
+    "title": "大学生情侣的激情同居生活",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "情侣做爱",
       "学生系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250322-1/36411965d330def57227cfdd76cccdda.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/09/68e7bfeb631cc64eb5a3ba29/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=83237"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=157020"
   },
   {
-    "id": 80777,
-    "title": "焦点jdsy-239家庭女教师和学生的不伦之恋",
+    "id": 130163,
+    "title": "大学生情侣自拍深情吃鸡激情爱爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-3/78f555fe6495cfc26e76500d08f5e5e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=80777"
-  },
-  {
-    "id": 80856,
-    "title": "焦点jdsy-247诱骗女留学生拍AV",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-3/cfe8fc6d4698499e2513f8a4f9b8356d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=80856"
-  },
-  {
-    "id": 78986,
-    "title": "焦点jdsy-322家教老师教育援交学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/f9b28540f89d91a5a5eb8bfc57b1a782.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=78986"
-  },
-  {
-    "id": 78056,
-    "title": "焦点jdsy-345醉酒校花惨遭舔狗迷奸",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "迷奸",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/27/c70209a3bab04a05322c88fde8416f3b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=78056"
-  },
-  {
-    "id": 78441,
-    "title": "焦点jdsy-357家访老师诱奸女学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/08/0e41326a15a03ddf7eae52daaa91dc3e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=78441"
-  },
-  {
-    "id": 75971,
-    "title": "焦点jdsy-417饥渴巨乳大学生约炮19公分大屌男",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "约炮系列",
+      "情侣做爱",
       "学生系列",
-      "巨乳"
+      "口交"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/07/3ba0c4af45205f3aa0c577b278f37a56.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250722-1/d0e29b0bbd3a75d0bfa3c9c13888cefb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=75971"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=130163"
   },
   {
-    "id": 65866,
-    "title": "熊孩子偷拍老师，正在上课的老师被偷拍",
+    "id": 148658,
+    "title": "大学生情侣酒店啪啪自拍视频流出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "情侣做爱",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/dd9cb41094627f065360550252f67655.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=148658"
+  },
+  {
+    "id": 67438,
+    "title": "大学生情侣酒店啪啪被渣男分手后曝光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-13/c4ffa4cde5207ed3eeefdaaf60d1fe9c.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67438"
+  },
+  {
+    "id": 328247,
+    "title": "大学生情侣露脸口交后入，对白淫荡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "后入",
+      "情侣做爱",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/888766.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=328247"
+  },
+  {
+    "id": 158755,
+    "title": "大学生情路酒店开房自拍妹子奶子漂亮逼毛茂密性感喜欢被后入",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "后入",
+      "情趣诱惑",
+      "学生系列",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251012-1/614de01fa3ab8fc2771a8aa8262744c5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=158755"
+  },
+  {
+    "id": 147931,
+    "title": "大学生想要老外巨根",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-8/0a7455ee6b42730cf3fb2399603d3979.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=147931"
+  },
+  {
+    "id": 121073,
+    "title": "大学生户外擦边直播露屌赚生活费",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主播",
+      "主播网红",
+      "学生系列",
+      "直播"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250528-1/23fa035c1c4bf611fb7e2f055541900a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=121073"
+  },
+  {
+    "id": 114885,
+    "title": "大学生抠逼还网贷沉鱼落雁闭月羞花楚楚可怜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250527-1/f7002e3172b8fceef6debfa2d8baf2ee.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=114885"
+  },
+  {
+    "id": 314016,
+    "title": "大学生换上黑丝副业就成了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "情趣诱惑"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/792434.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=314016"
+  },
+  {
+    "id": 25882,
+    "title": "大学生探花约炮清纯细腰美臀校花学妹玩操三小时干好几炮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "约炮系列",
+      "探花系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20240914-7/35e112ca05c83df87da5c898a5223934.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=25882"
+  },
+  {
+    "id": 27800,
+    "title": "大学生援交约炮漂亮兼职女学生在沙发上后入嫩逼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "约炮系列",
+      "后入"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250224-1/212d8be787c89e4ee2efdc0f1267124e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=27800"
+  },
+  {
+    "id": 330568,
+    "title": "大学生操的也太爽了，疯狂打桩机（完整版全集看下面简阶免费看）.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/1014689.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=330568"
+  },
+  {
+    "id": 91465,
+    "title": "大学生教室没人直接干上了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/08/30/50b4705b140d33a2e358405141d7d291.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=91465"
+  },
+  {
+    "id": 91029,
+    "title": "大学生校园后山茶园打野战",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d5614b1572686be75d4133/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=91029"
+  },
+  {
+    "id": 67359,
+    "title": "大学生校园小仙女被金主找朋友来一起3p",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多人淫乱",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-13/9f26729b96b0bc4632fe8ebd78b772e8.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67359"
+  },
+  {
+    "id": 37995,
+    "title": "大学生欠了网贷20多万还不起只能肉尝了被大哥们轮奸爆草",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20241229-1/31690bdbe86788c90bba1cc61b59e35d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=37995"
+  },
+  {
+    "id": 40035,
+    "title": "大学生欠了网贷20多万，还不起只能肉尝了，被大哥们轮奸爆草",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250528-1/e0eb2d5bec9570875ac69f3ac47390ac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=40035"
+  },
+  {
+    "id": 331405,
+    "title": "大学生母狗疯狂被操，高潮叫床可射（简解精彩）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/1032949.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=331405"
+  },
+  {
+    "id": 324687,
+    "title": "大学生母狗被主人调教系列（三）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/946628.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=324687"
+  },
+  {
+    "id": 318735,
+    "title": "大学生母狗被主人调教系列（二）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/946279.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=318735"
+  },
+  {
+    "id": 318752,
+    "title": "大学生母狗被主人调教系列（五）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/947320.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=318752"
+  },
+  {
+    "id": 324706,
+    "title": "大学生母狗被主人调教系列（四）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/946980.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=324706"
+  },
+  {
+    "id": 319887,
+    "title": "大学生母狗！叫声太好听了（有完整版全集~）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/1000384.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=319887"
+  },
+  {
+    "id": 48740,
+    "title": "大学生沦陷4P美女大学生马上沦陷全程露脸4女同时露脸出境刚来的小妹妹就被迫营业了骚逼少妇跟小妹轮流被草好刺激",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多人淫乱",
+      "女同",
+      "人妻系列",
+      "学生系列",
+      "乱伦系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20250418-1/1012b908951e75b3bfe9b331b85214b6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=48740"
+  },
+  {
+    "id": 115134,
+    "title": "大学生泄密深圳某传媒大学生喝男友激情",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/e337787f4ee11bdfd35faf6df93125db.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=115134"
+  },
+  {
+    "id": 234483,
+    "title": "大学生泡妞达人约操女仆制服诱惑穿黑丝袜的小美女激情啪啪白嫖技术博主",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "约炮系列",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250722-1/14151ffcea88b0e9f6fc934706252f5f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=234483"
+  },
+  {
+    "id": 154177,
+    "title": "大学生洗澡撸射合集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250527-1/a40ca172f62589931fc7f732276e8cf6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154177"
+  },
+  {
+    "id": 130162,
+    "title": "大学生活好反差大学生与男友性爱自拍白虎嫩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "反差婊",
+      "情侣做爱",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250722-1/b84346f4738ec5134940ae24cbf03608.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=130162"
+  },
+  {
+    "id": 326845,
+    "title": "大学生活好深喉学妹内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "内射",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/802204.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=326845"
+  },
+  {
+    "id": 154176,
+    "title": "大学生活就是美好性福啊_",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250527-1/e4d46bb84263e7dd8cc87fcae6fff4b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154176"
+  },
+  {
+    "id": 165227,
+    "title": "大学生清纯嫩妹跟男友啪啪自拍小特别配合听话的小母狗绝美容颜颜值党褔利清纯唯美的脸蛋满足一切性幻想",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "学生系列",
+      "情侣做爱",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68daa8fcd6fbef4e90d1616a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=165227"
+  },
+  {
+    "id": 158751,
+    "title": "大学生清纯嫩妹跟男友啪啪自拍特别配合听话的小母狗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "学生系列",
+      "情侣做爱",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251012-1/8003f6858ec0d459baee307641b23657.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=158751"
+  },
+  {
+    "id": 114469,
+    "title": "大学生清纯水灵大三学生酒店开房自拍曝光校园疯传",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250722-1/a791bf21cb747d5eec01177206750df8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=114469"
+  },
+  {
+    "id": 313759,
+    "title": "大学生爱健身被她的私教操了（下面看免费她的全集完整版和私人联系方式）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/789622.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=313759"
+  },
+  {
+    "id": 79008,
+    "title": "大学生特殊治疗-樱空桃桃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250806-1/361f4e176338c4fa1fbfc55e595cd1b9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=79008"
+  },
+  {
+    "id": 154178,
+    "title": "大学生狐狸耳朵小仙女来了大三骚学妹下海全裸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250527-1/6e34d05fdb6c3dc0aee8e87b0d1439b4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154178"
+  },
+  {
+    "id": 20082,
+    "title": "大学生猎艳企划 女大学生暑假上门援交 纤长玉腿窈窕身材 后入激怼直呼受不了 斯文禽兽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "后入"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=20082"
+  },
+  {
+    "id": 133360,
+    "title": "大学生白丝双马尾女孩做暑假兼职日结家政被雇主强干无套内射网红糖糖.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主播网红",
+      "学生系列",
+      "情侣做爱",
+      "内射",
+      "无套系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250207-1/53ce0ff8ca52c022dd29ca35f14f508f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=133360"
+  },
+  {
+    "id": 75937,
+    "title": "大学生的特殊考核训练-汐梦瑶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/06/a4314dedb70ff7d19f7b1fb649c7121a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=75937"
+  },
+  {
+    "id": 319922,
+    "title": "大学生真会玩与学妹干柴烈火疯狂亲嘴！爆操【后续完整版已上传简界】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/1001950.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=319922"
+  },
+  {
+    "id": 326455,
+    "title": "大学生真会玩！全程高能做爱被操到彻底高潮【点击简界免费看完整版】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/1007902.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=326455"
+  },
+  {
+    "id": 334507,
+    "title": "大学生真会玩！宿舍疯狂自慰高潮迭起准备纸巾撸射必看",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "自慰"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/1091168.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=334507"
+  },
+  {
+    "id": 327839,
+    "title": "大学生真的很好看（此大学生完整版共8部已上传简届免费看可约可聊）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/867787.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=327839"
+  },
+  {
+    "id": 334601,
+    "title": "大学生真骚 一边和网友语音一边吃着鸡巴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/1092664.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=334601"
+  },
+  {
+    "id": 148091,
+    "title": "大学生眼镜表弟不好好上学偷了家里钱泡了个商场售货员开房穿着裙子开干",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "野外",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2f76233fb02eaf6b10b37e995d730ebc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=148091"
+  },
+  {
+    "id": 114471,
+    "title": "大学生破处实录正在图书馆写论文被小伙淫语挑逗到酒店强行破处第一次疼的嗷嗷叫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "处女"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250722-1/7da09701368942701937ac7d836134b4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=114471"
+  },
+  {
+    "id": 26339,
+    "title": "大学生社会实践嫖J偷拍实录约身材不错的丸子头艺校小美眉",
     "year": "",
     "country": "",
     "genre": "",
@@ -144,1111 +837,84 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250212-1/ede4afedb69ab3d807993c7017bf54c2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=65866"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=26339"
   },
   {
-    "id": 114085,
-    "title": "熟女少妇风韵犹存丛林里的野战嫂子包养的皮肤状态如翡翠般翠丽无套内射爽呆了",
+    "id": 104531,
+    "title": "大学生租房风波与房东的激情性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/18/47744c9c97474d236bbdb4a11a28f4ec.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=104531"
+  },
+  {
+    "id": 325633,
+    "title": "大学生穿jk裙和老师偷情！干柴烈火疯狂输出做爱【完整版已上传下面简】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "学生系列",
-      "人妻系列"
+      "偷情系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250906-1/a17ee9c92476a516b9e2401a01955fd0.jpg",
+    "cover_url": "https://img.ml0987.com/thumb/972328.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=114085"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=325633"
   },
   {
-    "id": 110988,
-    "title": "熟女阿姨勾引大学生上门草她没干过瘾自己自慰起来",
+    "id": 317740,
+    "title": "大学生穿黑丝被按倒劈叉直接插到底 【这个大学生可以约，看下面的简阶】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "自慰",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250906-1/8b6edcc29b88a200a4637c373a0d26e3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=110988"
-  },
-  {
-    "id": 113787,
-    "title": "燥热高中生教学楼暴露无毛肉棒大量喷射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251011-1/c85177fa69d710eb27dc736bba40abd1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=113787"
-  },
-  {
-    "id": 155060,
-    "title": "爆乳健身教练约炮健身房学生啪啪.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "约炮系列",
-      "学生系列",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8e124d155d6f1c3f100a5cbba7bda441.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=155060"
-  },
-  {
-    "id": 105149,
-    "title": "爆乳女学生兼职外围被班主任抓个正着",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-12/a4eaaaf9b981898e99dfd079c8075772.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=105149"
-  },
-  {
-    "id": 109301,
-    "title": "爆乳学妹为钱下海拍片",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/1b4582259ce413b81bca62ce3f276907.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=109301"
-  },
-  {
-    "id": 153880,
-    "title": "爆乳学生喜欢找刺激和男友开着门做爱萝莉学生可爱白虎自慰",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "自慰",
-      "学生系列",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/08b4014ac206d73a859efc95b45aba87.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=153880"
-  },
-  {
-    "id": 67236,
-    "title": "爆乳校花情趣酒店约炮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "巨乳",
-      "学生系列",
-      "约炮系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67236"
-  },
-  {
-    "id": 108689,
-    "title": "爆乳留学生接受大洋屌的爆射调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "巨乳",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/b53e4eb906816e417dee59fd4ed0eca6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=108689"
-  },
-  {
-    "id": 131728,
-    "title": "爆乳肥穴网红女神学生护士情趣装",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "情趣诱惑",
-      "学生系列",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/475a5a3d8de73d77afed31fd7f26e904.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=131728"
-  },
-  {
-    "id": 77151,
-    "title": "爆乳豹纹无毛学生是你喜欢的小表姐吗-桃桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "学生系列",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/28/4731766386384a3f95b48ac15b7735a3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=77151"
-  },
-  {
-    "id": 153888,
-    "title": "爆乳音乐老师边唱歌弹钢琴边和学生性爱出门公厕野战为人师表却喜欢对学生下手",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/696cfc1b4af82a0243f2c3f5b2a50f55.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=153888"
-  },
-  {
-    "id": 151089,
-    "title": "爆干大长腿白虎校花极品炮架子.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/19/68541faa3ed39b57c0a63eb8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=151089"
-  },
-  {
-    "id": 5047,
-    "title": "爆插JK母狗学妹高潮不断 毒龙颜射和小骚逼内射~",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "性奴调教",
-      "情趣诱惑",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=5047"
-  },
-  {
-    "id": 152761,
-    "title": "爆操00小淫娃学妹做一半还让我把套摘了内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/25/6794bb6289def9b1b8377206/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=152761"
-  },
-  {
-    "id": 132590,
-    "title": "爆操03年白虎学妹下集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250402-1/f2630d41fced323a17318e43628d45e5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=132590"
-  },
-  {
-    "id": 18172,
-    "title": "爆操05年漫展学生妹 内射傻白甜白虎穴 少女萌主",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=18172"
-  },
-  {
-    "id": 148640,
-    "title": "爆操170大二学生妹肤白貌美大腿长",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d30d6900c993486751d25f7711301f9c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=148640"
-  },
-  {
-    "id": 103697,
-    "title": "爆操170大二学生妹肤白貌美大腿长-杏吧老王",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-16/476c8f5f3b4ace29621834f25cfb20be.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=103697"
-  },
-  {
-    "id": 18171,
-    "title": "爆操内射刚同居 偷偷自慰的学妹 锅锅酱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "自慰"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=18171"
-  },
-  {
-    "id": 106570,
-    "title": "爆操内射刚同居偷偷自慰的学妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "自慰",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/80cf0adde8ecb2b1869e0189f0897b18.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=106570"
-  },
-  {
-    "id": 57069,
-    "title": "爆操内射刚同居，偷偷自慰的学妹！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "自慰"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2023/04/k2hfbjulyn5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=57069"
-  },
-  {
-    "id": 131720,
-    "title": "爆操制服学生妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/33856b67ce4273252b8e93f83b965051.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=131720"
-  },
-  {
-    "id": 70371,
-    "title": "爆操制服开档黑丝学妹，说她要尿了~青春的肉体紧实饱满线条流畅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=70371"
-  },
-  {
-    "id": 98551,
-    "title": "爆操妖娆学姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-4/d190cdd437b7a3c54206dcf9fe0b7e83.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=98551"
-  },
-  {
-    "id": 87148,
-    "title": "爆操学妹菊花-91渣男",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "91系列",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240925-1/e9ad05fd762ffa07abb4b13e4500424c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=87148"
-  },
-  {
-    "id": 18462,
-    "title": "爆操性感留学生 骚穴被肉棒塞满淫叫不断 樱花小猫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=18462"
-  },
-  {
-    "id": 79398,
-    "title": "爆操日本留学生享受跪式服务为国争光-渣男",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/5a186d14559c38e7f6b41a501cdd4dbc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=79398"
-  },
-  {
-    "id": 73175,
-    "title": "爆操束缚洛丽塔极品学生妹JK大神 完全沦为精液肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
       "学生系列",
       "情趣诱惑"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://img.ml0987.com/thumb/878958.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73175"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=317740"
   },
   {
-    "id": 73496,
-    "title": "爆操极品大奶学妹 最后射肚子上（完整版）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "巨乳",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73496"
-  },
-  {
-    "id": 152845,
-    "title": "爆操淫娃学妹做一半还让我把套摘了内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/25/6794f1c6c179ffb1dbb01bf4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=152845"
-  },
-  {
-    "id": 102591,
-    "title": "爆操清纯玲珑小学妹-小飞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-18/9f3281ee3d4f80dbf925168fc1d62e31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=102591"
-  },
-  {
-    "id": 106514,
-    "title": "爆操白丝美艳学姐淫语不断-cola酱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/f9a3ffb3b7f32c011996f6576e73f643.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=106514"
-  },
-  {
-    "id": 78270,
-    "title": "爆操符文战神高颜值留学生小麦色健身女很内敛的留学女-渣男",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/02/7f52f732b92f2de348b65540973b08ce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=78270"
-  },
-  {
-    "id": 152817,
-    "title": "爆操舞蹈生学妹蜜桃臀+双马尾=母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/25/6794d02789def9b1b8377280/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=152817"
-  },
-  {
-    "id": 97237,
-    "title": "爆操苗条大学学妹-91LOVElolita",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "91系列",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-6/c8822bd4baddcd679fa03dc5c5342394.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=97237"
-  },
-  {
-    "id": 110322,
-    "title": "爆操馒头逼学妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-1/bd7c877d9095737adda148320a603183.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=110322"
-  },
-  {
-    "id": 158979,
-    "title": "爆料投稿云南财经职业学院05年学妹祝微棋因欠钱在宿舍给债主拍自慰视频被曝",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "自慰",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/e7b3ee1745c3cfce227479918da49abe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=158979"
-  },
-  {
-    "id": 68619,
-    "title": "爆炸新事件浙江舞蹈协会学生集体下海 妹子全程大胆露脸泛黄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=68619"
-  },
-  {
-    "id": 68430,
-    "title": "爆肏暗恋自己的校花极露脸小妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=68430"
-  },
-  {
-    "id": 144567,
-    "title": "爆肏极品卫衣学生妹 斯文禽兽 爆裂巴黎世家究极炮架 想主人的肉棒插逼 特写怒射湿嫩无毛蜜鲍1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231016-1/8397a98520ceaed72e4609442c655bb3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=144567"
-  },
-  {
-    "id": 134767,
-    "title": "爆肏极品卫衣学生妹 斯文禽兽 爆裂巴黎世家究极炮架 想主人的肉棒插逼 特写怒射湿嫩无毛蜜鲍。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240516-1/969d36b7b0f2c30eb93420c12828d6a6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=134767"
-  },
-  {
-    "id": 10440,
-    "title": "爆肏极品巨乳JK学生妹 JK大神 全自动嫩穴服务 玩弄蜜壶直呼求饶 快慢交替痒的不行小母狗求射",
+    "id": 39958,
+    "title": "大学生精神小妹乱伦幻想，绿帽男友看她巨乳晃荡高潮喷水！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
-      "情趣诱惑",
-      "性奴调教",
-      "极品尤物",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250324-1/b6cf76aa3992cef17f944ae2bc19a36c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=10440"
-  },
-  {
-    "id": 20101,
-    "title": "爆肏连体开档丝袜极品小骚货 冉冉学姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "学生系列",
-      "极品尤物"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=20101"
-  },
-  {
-    "id": 22078,
-    "title": "爆肏连体开档丝袜极品小骚货 口活一级棒-口交 无套中出 冉冉学姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "情趣诱惑",
-      "学生系列",
-      "极品尤物"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=22078"
-  },
-  {
-    "id": 104004,
-    "title": "爆肏连体开档丝袜极品小骚货-冉冉学姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "情趣诱惑",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-15/edc64dae954753001393754595d32b3f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=104004"
-  },
-  {
-    "id": 2115,
-    "title": "爆肏逃课出来约会的反差女大学生，被干的高潮不断尖叫不停",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "反差婊",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=2115"
-  },
-  {
-    "id": 11079,
-    "title": "爆艹侄女爆艹极品校花学生制服侄女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "极品尤物"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240929-1/b3445e4ff7ab05bc5727cd53f5648c9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=11079"
-  },
-  {
-    "id": 61126,
-    "title": "爆艹双马尾制服学妹，解锁无限射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241020-1/13b943fbee27e1fffdc9596beebc7ad9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=61126"
-  },
-  {
-    "id": 154887,
-    "title": "爆艹双马尾制服学妹，解锁无限射精...",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/c1cab5f47c0a6b07e54ecdd2b029bb93.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154887"
-  },
-  {
-    "id": 142851,
-    "title": "爆艹双马尾制服学妹，解锁无限射精1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231020-1/d3acc5a7a2671f27c23d11caa1895e78.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=142851"
-  },
-  {
-    "id": 122429,
-    "title": "爆艹双马尾制服学妹，解锁无限射精。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240516-1/57f81cd2b3766d06e587f8f4395c273c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=122429"
-  },
-  {
-    "id": 136404,
-    "title": "爆艹双马尾制服学妹，解锁无限射精的!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240211-1/85d8d32112bdcc5292b434679cc91a84.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=136404"
-  },
-  {
-    "id": 1745,
-    "title": "爆艹巨乳JK淫奴学生妹 白嫩酮体调教性爱 激臀晃乳高潮迭起 内射起飞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳",
-      "情趣诱惑",
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=1745"
-  },
-  {
-    "id": 69159,
-    "title": "爆草杭州师范学院高颜值学生妹 3000块身材性感粉穴超紧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "学生系列",
-      "情趣诱惑",
-      "高颜值"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=69159"
-  },
-  {
-    "id": 64823,
-    "title": "爆草极品学生妹第一段.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "极品尤物"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250226-1/e07aa1a56652a7d770fdfe222894a57d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=64823"
-  },
-  {
-    "id": 138512,
-    "title": "爆草极品学生妹，第一段！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/23/6830769b8c4b3b91d7604c59/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=138512"
-  },
-  {
-    "id": 131746,
-    "title": "爆草高颜值小柠檬学生装泳装老师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/fb35a10e9dc3f2a7b5d88d53fb074a82.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=131746"
-  },
-  {
-    "id": 81120,
-    "title": "爆裂网丝蜜臀学妹插入瞬间窒息-唐伯虎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/aabdce1f0c4123dc9082313be0d81cb7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=81120"
-  },
-  {
-    "id": 79107,
-    "title": "爱丁堡的翘臀留学生给我提供了一流的口活服务让我后入内射在她的屁股里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "后入",
-      "学生系列",
-      "口交"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/faf7a4fed4be6e188ac4ebece384115b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=79107"
-  },
-  {
-    "id": 112284,
-    "title": "爱丝袜女神vivian姐2022最新定制黑丝袜JK学生装诱惑怼操内射制服女孩.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "情趣诱惑",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250130-1/52177b00bf24e3ac86fb2f377f50b8a6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=112284"
-  },
-  {
-    "id": 45022,
-    "title": "爱可可抖音网红被实锤包养榜一大哥泄漏7分钟完整视频都是为了奶粉钱啊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250303-1/7e6239d801875f936f46074447c6fdfa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=45022"
-  },
-  {
-    "id": 131909,
-    "title": "爱吃大洋屌的19岁留学生最喜欢被当作小母狗暴力抽插",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "情侣做爱",
+      "淫妻系列",
+      "乱伦系列",
       "学生系列",
-      "性奴调教"
+      "乱伦"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250509-1/4edb1563caef28a839f7dd5c95bd22fb.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=131909"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=39958"
   },
   {
-    "id": 159105,
-    "title": "爱吃小布丁G奶校花下课宿舍直播自慰揉奶反差母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "自慰",
-      "直播",
-      "巨乳",
-      "反差婊",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250926-1/b815d707293c37e5d6809243bc07f69e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=159105"
-  },
-  {
-    "id": 138531,
-    "title": "爱吃肉的猫,大学学妹叫我帮忙补课,结果补到了床上",
+    "id": 130164,
+    "title": "大学生经不住金钱诱惑上了床",
     "year": "",
     "country": "",
     "genre": "",
@@ -1258,49 +924,46 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231129-1/3f2215bce9adef2321e7adec0a29c7d2.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250722-1/caf4b4ff5df854fcaa8c2ec5bfb9a45e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=138531"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=130164"
   },
   {
-    "id": 159042,
-    "title": "爱吃鸡巴的高颜值学生妹",
+    "id": 67386,
+    "title": "大学生美女和男友啪啪私密视频流出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "极品尤物",
       "学生系列",
-      "口交"
+      "黑料泄密"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250930-1/c116b6e30cd52f6141e51196f41e00dc.jpg",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-13/f9fbd22dff4634bdb044a3ec935ee4b7.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=159042"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67386"
   },
   {
-    "id": 134673,
-    "title": "爱吃鸡鸡的高颜值校花的!",
+    "id": 314569,
+    "title": "大学生美女娇喘不断，精彩对白(进群可约)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "极品尤物",
-      "学生系列",
-      "口交"
+      "学生系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240521-1/d9f2d08894c80e72b36176cee05142a7.jpg",
+    "cover_url": "https://img.ml0987.com/thumb/798924.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=134673"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=314569"
   },
   {
-    "id": 153899,
-    "title": "爱哭的少女学生一",
+    "id": 139725,
+    "title": "大学生美女宣宝宝和前男友啪啪自拍那时逼逼还很嫩啊",
     "year": "",
     "country": "",
     "genre": "",
@@ -1311,193 +974,30 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250714-1/cfe881ab24e9bbbd733c40b0b2e2a4f2.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231029-1/76fd484bf9cc8d8918c8360e482e89b2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=153899"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139725"
   },
   {
-    "id": 98745,
-    "title": "爱情故事01-23吃完宵夜继续操大学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-3/a1058cbf96a3f377a112dcd4a86abb9c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=98745"
-  },
-  {
-    "id": 98744,
-    "title": "爱情故事01-23约会大学生浴缸共浴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-3/ff2b81624286aa97c09bd8e36ff1b62d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=98744"
-  },
-  {
-    "id": 99123,
-    "title": "爱情故事02-07大四学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-2/818ce911a4fcfe3c8990dccd9e24cb33.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=99123"
-  },
-  {
-    "id": 99124,
-    "title": "爱情故事02-07大四学生第二场",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-2/c7f266cafb6f26d915c3ab9f51496ba8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=99124"
-  },
-  {
-    "id": 99125,
-    "title": "爱情故事02-07大四学生要回家了再操一下",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-2/4d68d53ef00cb479604f668defa5d91a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=99125"
-  },
-  {
-    "id": 154307,
-    "title": "爱情海学妹两个学生妹淫乱派对各种啪啪颜射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "口交",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250509-1/e4414fd5b1cd6e79ce7486a64575a137.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154307"
-  },
-  {
-    "id": 149928,
-    "title": "爱我小面包青春期萝莉小学妹_大屌无套啪啪狂操",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68da80b0631cc64eb58afb9a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=149928"
-  },
-  {
-    "id": 160729,
-    "title": "爱睡觉的学妹清纯可爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/31ef6f813b3a48f43a3b82d63b21d26a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=160729"
-  },
-  {
-    "id": 89606,
-    "title": "爱神传媒EMTC021同城约啪操了学校保健室小姐姐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240327-1/4eec628062d8379a96de678956c911d7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=89606"
-  },
-  {
-    "id": 108284,
-    "title": "爱穿风骚内衣的老师被学生强暴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/7e09f253606c9ef03bfe9b7009db1b26.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=108284"
-  },
-  {
-    "id": 3789,
-    "title": "爱豆传媒 ID5310 农村小媳妇偷情大学生 - 灵枝",
+    "id": 323780,
+    "title": "大学生自慰自录完整版看简介",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "学生系列",
-      "偷情系列",
-      "情侣做爱"
+      "自慰"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://img.cdn202511.com/videos/202509/26/68d5dcdcc1740d4b9bfd1781/cover.jpg",
+    "cover_url": "https://img.ml0987.com/thumb/911488.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=3789"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=323780"
   },
   {
-    "id": 105967,
-    "title": "爱豆传媒ID5219被包养的女大学生",
+    "id": 322904,
+    "title": "大学生舞蹈老师，真的是炮架子【这个女的绝对可以约，看下面的简阶】",
     "year": "",
     "country": "",
     "genre": "",
@@ -1507,13 +1007,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/81591fd5940dd9d42ddb6e0bab57cdfb.jpg",
+    "cover_url": "https://img.ml0987.com/thumb/886983.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=105967"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=322904"
   },
   {
-    "id": 106472,
-    "title": "爱豆传媒ID5243合租学姐的性福生理课-刘小珊",
+    "id": 322366,
+    "title": "大学生舞蹈老师，真的是炮架子（完整版78分钟共6部已上传简届免费自取",
     "year": "",
     "country": "",
     "genre": "",
@@ -1523,47 +1023,327 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/0a3b586ec2d621cf7e42b0a6f56b9036.jpg",
+    "cover_url": "https://img.ml0987.com/thumb/850914.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=106472"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=322366"
   },
   {
-    "id": 106499,
-    "title": "爱豆传媒ID5247舔狗的逆袭黑丝学姐主动投怀送抱",
+    "id": 329546,
+    "title": "大学生良家高颜值模特身材大三兼职妹各种姿势草 【简阶免费看续集3部】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "学生系列"
+      "学生系列",
+      "人妻系列",
+      "极品尤物"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/994982025fc78f5a5561dab718abff18.jpg",
+    "cover_url": "https://img.ml0987.com/thumb/988160.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=106499"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=329546"
   },
   {
-    "id": 106768,
-    "title": "爱豆传媒ID5259师生乱伦寂寞女教师约炮自己的学生",
+    "id": 160406,
+    "title": "大学生表妹婷婷寄居在表哥家被内射",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "乱伦系列",
+      "内射",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250704-1/5fd74651beac6a6d344c3bf157f115eb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=160406"
+  },
+  {
+    "id": 160400,
+    "title": "大学生表妹寄居在表哥家被内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "内射",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250704-1/3dbebd2e94182fd35303b2f46b5372ba.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=160400"
+  },
+  {
+    "id": 110138,
+    "title": "大学生表妹的嫩逼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/https://tutu1.space/images/2023/12/23/908097cf97b03165cfb82f34937208cf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=110138"
+  },
+  {
+    "id": 66940,
+    "title": "大学生表妹，寄居在表哥家被内射，身材好，细屁股大",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "内射",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=66940"
+  },
+  {
+    "id": 132471,
+    "title": "大学生被干爹包养爆操",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/decd91645b1f8dbceb2786ed00c4c2dc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=132471"
+  },
+  {
+    "id": 32463,
+    "title": "大学生被金主包养找来朋友一起3P整一个大学生3P杂交派对",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多人淫乱",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20241107-1/79947a74fb7d6467ce27faee497a8f48.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=32463"
+  },
+  {
+    "id": 89921,
+    "title": "大学生被黑大屌从厨房操到床上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20240225-1/25192472c9e802a0a15e8fa8f2daa276.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=89921"
+  },
+  {
+    "id": 130161,
+    "title": "大学生贱卖初夜给开奔驰的大叔",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "处女"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250722-1/fa43154ef1fe31ada8939711c76a14ab.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=130161"
+  },
+  {
+    "id": 127395,
+    "title": "大学生超美小姐姐给炮友口交浴室洗澡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "乱伦系列",
+      "约炮系列",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/05/67a2fdfacf22ae3e04a9cdae/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=127395"
+  },
+  {
+    "id": 236432,
+    "title": "大学生超美小姐姐！黑丝美腿！搔首弄姿诱惑，假屌磨蹭多毛骚逼，抓着炮友JB一顿舔，很喜欢吃屌",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "约炮系列",
+      "情趣诱惑",
+      "乱伦系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682b42bee7e672bea5f3450a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=236432"
+  },
+  {
+    "id": 151571,
+    "title": "大学生超美小姐姐！齐逼牛仔短裤！白嫩贫乳小奶  抓着屌给炮友口交 浴室洗澡 假屌磨蹭骚逼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "乱伦系列",
+      "约炮系列",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f798fcf22ae3e049b46b4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=151571"
+  },
+  {
+    "id": 4591,
+    "title": "大学生超美小姐姐！齐逼牛仔短裤！白嫩贫乳小奶，抓着屌给炮友口交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "乱伦系列",
+      "约炮系列",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/30/6839b11015dec3d802a2d4d7/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=4591"
+  },
+  {
+    "id": 53881,
+    "title": "大学生返校前约出来，女上乘骑位爽翻了，啪啪技术一流",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/1ta22gv5f4n.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=53881"
+  },
+  {
+    "id": 146495,
+    "title": "大学生酒店开房",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-7/8feeac92ecba1b0d11374bbab49b8071.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=146495"
+  },
+  {
+    "id": 237212,
+    "title": "大学生隔离在家做瑜伽，自慰大潮吹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "自慰"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/06/67a470fa4e7d663df45c3501/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=237212"
+  },
+  {
+    "id": 27807,
+    "title": "大学生集资约操外围名媛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "约炮系列",
       "学生系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/58021104de285207ad64d4d19cd0343b.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250224-1/8dc42f4b32925ac412602a7b9d64b41a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=106768"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=27807"
   },
   {
-    "id": 87798,
-    "title": "爱豆传媒ID5278家教老师对学生家长的性爱辅导",
+    "id": 158761,
+    "title": "大学生风骚好姐妹双女百合互舔揉奶玩逼抱在一起舌吻好骚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "多女后宫"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251012-1/fc53ca0bb2ce933ce27bf93cccb61d0a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=158761"
+  },
+  {
+    "id": 77543,
+    "title": "大学生首次下海肉体赚钱还贷-Mini肉",
     "year": "",
     "country": "",
     "genre": "",
@@ -1573,13 +1353,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/dce051a388735d66b2341506741583bf.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/23/f536f4fa/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=87798"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=77543"
   },
   {
-    "id": 107079,
-    "title": "爱豆传媒ID5281骚穴女大学生色诱富有房东",
+    "id": 132472,
+    "title": "大学生骄傲的说自己非常骚全程日语叫床呻吟丝毫不输AV女优",
     "year": "",
     "country": "",
     "genre": "",
@@ -1589,13 +1369,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/d897f016cf2c27e811f2ad7164f5c4bf.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/04e4edd209da8d2e62df72c7fa439733.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=107079"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=132472"
   },
   {
-    "id": 107831,
-    "title": "爱豆传媒ID5304资助女大学生变性交易-小薇",
+    "id": 154170,
+    "title": "大学生骚牛宿舍自娱自乐",
     "year": "",
     "country": "",
     "genre": "",
@@ -1605,65 +1385,244 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/e0ca4cd3f6e1b0f4dfee254b8807f3f6.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250527-1/7d2f0c278bce25819d7108a0e7f9d658.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=107831"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154170"
   },
   {
-    "id": 108008,
-    "title": "爱豆传媒ID5310农村小媳妇偷情大学生-灵枝",
+    "id": 324186,
+    "title": "大学生骚货的连体黑丝（一）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "情趣诱惑"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/925916.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=324186"
+  },
+  {
+    "id": 139718,
+    "title": "大学生骚货颜值身材逆天哪个男人不秒射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231029-1/a82eb61b1def1ff8f3cb6684e898cf28.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139718"
+  },
+  {
+    "id": 126555,
+    "title": "大学生骚逼让小哥轮着玩淫声荡语揉奶玩逼浪叫呻吟不止",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d58bed4e7d663df4f2a2dc/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=126555"
+  },
+  {
+    "id": 111320,
+    "title": "大学生高端外围",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250722-1/28aa4bf14e0a6e8e4e2c2bb4c26dbb24.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=111320"
+  },
+  {
+    "id": 108550,
+    "title": "大学生麻衣学姐口交蜜穴侍奉老板-冉冉学姐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/08/23/846c556cd1ddfba2fa78c932d1d6b1b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=108550"
+  },
+  {
+    "id": 330127,
+    "title": "大学生！主动张开双腿挨操（完整版87分钟全集8部免费看）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.ml0987.com/thumb/1001048.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=330127"
+  },
+  {
+    "id": 151579,
+    "title": "大学生（已成年）在家为爱鼓掌激情互吻啪啪爱爱~精彩刺激！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680df8905b6f25c1692ec48d/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=151579"
+  },
+  {
+    "id": 66531,
+    "title": "大学生，一夜情约到酒店，啪啪喷水共浴，香艳劲爆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-14/fbfbe5ba475826085add9461c5099b01.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=66531"
+  },
+  {
+    "id": 65692,
+    "title": "大学疫情封校 小情侣当众啪啪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "国产自拍",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-15/7ca6b91a67d4f7ecab289313b0f5c86b.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=65692"
+  },
+  {
+    "id": 243285,
+    "title": "大学的性福生活野性骚动日日榨精-周卿卿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a6bef390a7f22d70ea0c438685c116fd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=243285"
+  },
+  {
+    "id": 240490,
+    "title": "大学的性福生活野性骚动日日榨精-周卿卿。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240504-1/90ac20f5595642abba6f86c0d0ce15b5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=240490"
+  },
+  {
+    "id": 237940,
+    "title": "大学的性福生活野性骚动日日榨精周卿卿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250717-1/b54dad0af980d888afda3a03c269d937.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=237940"
+  },
+  {
+    "id": 69251,
+    "title": "大学眼镜妹出门兼职 男友打电话查岗差点露馅",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "偷情系列",
-      "情侣做爱",
       "学生系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/ef2d4c6b0a5fe12454d0ca8603140b18.jpg",
+    "cover_url": "/upload/vod/20250715-11/594654ea59b25029437ec459a39d2202.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=108008"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=69251"
   },
   {
-    "id": 107702,
-    "title": "爱豆传媒ID5311离异人妻包养初体验-莉娜",
+    "id": 154442,
+    "title": "大学眼镜妹炮友周末约出来酒店做爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "学生系列",
-      "人妻系列"
+      "约炮系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/29e325caec9b82565dcd36aa9a539326.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/9b2a8a1ec03831a5bb3bf8ad2ecae8db.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=107702"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154442"
   },
   {
-    "id": 110171,
-    "title": "爱豆传媒ID5374同学聚会再操已为人妻的学妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "人妻系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-1/91ddc17252efd966e348bdcfaf99380c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=110171"
-  },
-  {
-    "id": 89814,
-    "title": "爱豆传媒IDG5407傲娇校花在我的跨下呻吟",
+    "id": 52930,
+    "title": "大学研究生田丽娜，清纯小仙女竟被渣男无情曝光！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1673,25 +1632,78 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240309-1/2e6dfa608ff1b663ba62405d0fa52546.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=89814"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=52930"
   },
   {
-    "id": 89436,
-    "title": "爱豆传媒IDG5418大学生异地寻欢",
+    "id": 139726,
+    "title": "大学美女假期回家和闺蜜男友偷情啪啪,淫叫好大,快插我,救我!",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "学生系列",
-      "探花系列"
+      "偷情系列",
+      "多女后宫",
+      "学生系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240413-1/acc2003610d5516757b105b4dc66c6ee.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231029-1/3e01c7d598d22dafee9fbc2e74f8e77b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=89436"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=139726"
+  },
+  {
+    "id": 136881,
+    "title": "大学美女假期回家和闺蜜男友偷情啪啪,淫叫好大,快插我,救我!!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "偷情系列",
+      "多女后宫",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/5d007a3cbf197a58fca2909b8e027a71.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=136881"
+  },
+  {
+    "id": 145967,
+    "title": "大学美女和学长啪啪外流",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-1/2bfc3d524745410cbf74666dc8035e36.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=145967"
+  },
+  {
+    "id": 131464,
+    "title": "大学美女和男友偷偷同居性爱自拍分手后流出没想到如此淫骚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "学生系列",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250527-1/5a9b9360647cc5233c1daa8dcdd26945.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=131464"
   }
 ];

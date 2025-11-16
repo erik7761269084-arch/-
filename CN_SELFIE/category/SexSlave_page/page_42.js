@@ -1,29 +1,69 @@
 window.PAGE_DATA = [
   {
-    "id": 82615,
-    "title": "凌辱操哭极品美少妇",
+    "id": 47238,
+    "title": "【诱导侵犯】漫展少女约拍私房 被摄影师诱导捆绑强奸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "强奸",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=47238"
+  },
+  {
+    "id": 20293,
+    "title": "【诱导侵犯】漫展少女约拍私房 被摄影师诱导捆绑强奸 Tame凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "强奸",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=20293"
+  },
+  {
+    "id": 21462,
+    "title": "【调教JK】巨乳楠楠学姐 鞭打一遍操逼一遍捅嘴 叫声巨骚 黑椒盖饭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "情趣诱惑",
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21462"
+  },
+  {
+    "id": 34586,
+    "title": "【调教JK】白月光女神 沙发一字马狂操淫语不断！曹长卿",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "极品尤物",
-      "人妻系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250419-1/dbc6ebab8e493ac164691fede56f89d5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=82615"
-  },
-  {
-    "id": 53778,
-    "title": "凌辱欠钱的精神小妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "情趣诱惑",
+      "高颜值",
       "性奴调教"
     ],
     "type": "无码",
@@ -31,120 +71,66 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=53778"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=34586"
   },
   {
-    "id": 77826,
-    "title": "凌辱母亲传统女人的防线各种淫荡姿态和言语",
+    "id": 155913,
+    "title": "【调教】1-15(全)牛逼大神00年亲姨表妹！第一次就见红！，露脸，颜射！内射！的啊",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "口交",
       "乱伦系列",
+      "内射",
       "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/20/d1e8f8a8481e9ca69e1d403702febaa6.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240530-1/260096818f0ec10ded77b0ea133d593e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=77826"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=155913"
   },
   {
-    "id": 44986,
-    "title": "凌辱调.教指.奸肛.门_爆肏淫.靡精油蜜.臀_鲍鱼榨.汁太上头.了",
+    "id": 165738,
+    "title": "【调教】21岁美乳少女被皮鞭捆绑调教",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=44986"
-  },
-  {
-    "id": 34854,
-    "title": "凌辱调.教指奸.肛门_爆肏淫.靡精油.蜜臀_鲍鱼榨.汁太上.头了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241204-1/db324916b7c88afceba6d349d47e492c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=34854"
-  },
-  {
-    "id": 18582,
-    "title": "凌辱调教极品女仆母狗校花 粉嫩美乳黑丝性玩物 尽情蹂躏爆肏 Make性专家",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "性奴调教",
-      "学生系列",
+      "情侣做爱",
       "巨乳",
-      "极品尤物"
+      "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f2635e4e7d663df48e87d6/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=18582"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=165738"
   },
   {
-    "id": 1098,
-    "title": "凌辱调教极品女仆母狗校花 粉嫩美乳黑丝性玩物 尽情蹂躏爆肏 内射抽搐蜜穴淫液",
+    "id": 21648,
+    "title": "【调教】Make性专家-内射极品骚母狗 全程指挥做爱 还想要外卖小哥一起操嫩穴",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "情趣诱惑",
-      "性奴调教",
-      "学生系列",
-      "巨乳",
-      "极品尤物"
+      "内射",
+      "极品尤物",
+      "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=1098"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21648"
   },
   {
-    "id": 50287,
-    "title": "凌辱调教极品女仆母狗校花，粉嫩美乳黑丝性玩物",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "性奴调教",
-      "学生系列",
-      "巨乳",
-      "极品尤物"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=50287"
-  },
-  {
-    "id": 165855,
-    "title": "凌辱调教母狗",
+    "id": 335581,
+    "title": "【调教】塞入肛塞，淫语猛草",
     "year": "",
     "country": "",
     "genre": "",
@@ -154,13 +140,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/31/67e96c6a4e7d663df45ba861/cover.jpg",
+    "cover_url": "https://img.ml0987.com/thumb/1112116.webp",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=165855"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=335581"
   },
   {
-    "id": 703,
-    "title": "凌辱调教高颜值肉便器，富人圈玩小母狗",
+    "id": 52689,
+    "title": "【调教】超级经典的大神调教高颜值女神，被大屌爆操，全程高能呻吟，淫语不断全程完美露脸！",
     "year": "",
     "country": "",
     "genre": "",
@@ -174,17 +160,53 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=703"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=52689"
   },
   {
-    "id": 73726,
-    "title": "凤鸣鸟唱系列22-秀人网豪乳嫩模李梓熙与猥琐眼镜摄影师玩SM捆绑啪啪第2部流出",
+    "id": 21567,
+    "title": "【调教中出】圣诞特辑2被束缚的芭芭拉沦为飞机杯 首次尝试SM受虐体验 Yuzukitty柚子猫",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "黑料泄密",
-      "凤鸣鸟唱系列",
+      "福利姬",
+      "性奴调教",
+      "柚子猫"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21567"
+  },
+  {
+    "id": 24475,
+    "title": "【调教人妻】再次约操素质良家微胖美女，女上位疯狂输出 91大神",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "91系列",
+      "约炮系列",
+      "性奴调教",
+      "女上位",
+      "人妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=24475"
+  },
+  {
+    "id": 20292,
+    "title": "【调教公狗】偷盗的代价 被抓到后到惩罚 香菜强势调教小贱狗 桥本香菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "性奴调教"
     ],
     "type": "无码",
@@ -192,320 +214,195 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73726"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=20292"
   },
   {
-    "id": 111740,
-    "title": "出差外地的母狗晚上两点也要跑过来被爹操生怕猛一跑了直接用逼锁住",
+    "id": 41553,
+    "title": "【调教公狗索精】 寂寞空虚人妻 引诱外卖小哥 抽打调教 疯狂榨精索取 情深叉喔",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "性奴调教",
+      "人妻系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=41553"
+  },
+  {
+    "id": 21461,
+    "title": "【调教内射】兔子警官 开着房间门被操整个楼道都听见淫叫 今天被你操的可舒服了 黑椒盖饭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "野外",
+      "性奴调教",
+      "内射"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21461"
+  },
+  {
+    "id": 46415,
+    "title": "【调教内射】小母牛骚奶兔化身奶牛被大肉棒无套猛插",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "内射",
+      "无套系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=46415"
+  },
+  {
+    "id": 21321,
+    "title": "【调教内射】小母牛骚奶兔化身奶牛被大肉棒无套猛插 奶桃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "内射",
+      "无套系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21321"
+  },
+  {
+    "id": 21566,
+    "title": "【调教勾引】不良少年特殊惩罚 坏孩子就要被阿姨调教 桥本香菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
       "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250522-1/84515655e58ad55c3ca6417f5618d933.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=111740"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21566"
   },
   {
-    "id": 79029,
-    "title": "出差小姨子发骚被我操得喷水小母狗越来越淫荡",
+    "id": 35170,
+    "title": "【调教双马尾清纯小妹】口交大鸡巴乖巧可爱全程露脸，揉奶玩逼各种舔弄大鸡巴，淫声荡语撩骚狼友按摩棒玩逼逼",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "乱伦系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/c5cceaa93ede941bcf85aedf43289a27.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=79029"
-  },
-  {
-    "id": 166240,
-    "title": "出租屋的年轻小情侣自拍，捆绑调教扣逼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "性奴调教",
+      "口交",
       "情侣做爱",
-      "性奴调教"
+      "大保健"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b85b314e7d663df48862b2/cover.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250503-1/421a8dfb3d65024c37aca68d47433873.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166240"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=35170"
   },
   {
-    "id": 48525,
-    "title": "出租屋调教母狗女友全套超过瘾",
+    "id": 51974,
+    "title": "【调教吞精】留学生淫乱圈-20岁上海籍平模调教吞精 星星子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "性奴调教",
-      "情侣做爱"
+      "学生系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250417-1/92a122b0354a0e9461fc95655f652d4b.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250728-1/c8385ccc888f71ab96bd396c511bfda3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=48525"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=51974"
   },
   {
-    "id": 75093,
-    "title": "出租屋里调教母狗女友,全套流程超过瘾,母狗就是该这么调教",
+    "id": 124469,
+    "title": "【调教嫂子110】 别墅露台爆操骚嫂子对着隔壁大喊找人3P}",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "性奴调教",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=75093"
-  },
-  {
-    "id": 108981,
-    "title": "出軌之後被老公凌辱調教油亮的大屁股-NAna",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/10a551c8fa239ff0fbdd92f01ed494c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=108981"
-  },
-  {
-    "id": 85712,
-    "title": "出轨后被老公凌辱调教油亮的大屁股内射中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷情系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20241215-1/10344f7cddeb8bc86dcf345c1c23bcf4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=85712"
-  },
-  {
-    "id": 67395,
-    "title": "出轨后被老公凌辱调教油亮的大屁股，手指弄镜子，最后内射中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "偷情系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67395"
-  },
-  {
-    "id": 68215,
-    "title": "出轨少妇一顿淫语调教猛插，骚货直呼太爽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "多人淫乱",
       "人妻系列",
-      "偷情系列",
       "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/18/68a2ebf1d7791f9273fc6ed5/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=68215"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=124469"
   },
   {
-    "id": 50107,
-    "title": "出轨日记NRT绿帽Mrs.Unique娇妻跪下去就立马变成臣服于主人的骚贱小母狗最大限度的撅着屁股被后入",
+    "id": 24799,
+    "title": "【调教学妹】女高放学后的淫荡时刻 口爆主人肉棒满嘴流精 蜜穴侍奉内射中出 小橘妹妹",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "性奴调教",
-      "后入",
-      "淫妻系列",
-      "偷情系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250429-1/256210ffaf2045f7f2df56e84cc1bb82.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=50107"
-  },
-  {
-    "id": 119579,
-    "title": "出轨泄密娇妻跪下去立马变成主人的骚贱母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "黑料泄密",
-      "偷情系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/07/67a5a9ae4e7d663df45cd5db/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=119579"
-  },
-  {
-    "id": 76676,
-    "title": "分享小母狗-紫祈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/18/5097be895fc8086957868b3a7fccc253.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=76676"
-  },
-  {
-    "id": 73837,
-    "title": "分享调教非常听话又单纯的花季美少女妞妞边拍边用语言调教屋里干完又玩个野战对白清晰",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73837"
-  },
-  {
-    "id": 115118,
-    "title": "分手后被曝光不雅视频人前女神私下母狗随便操",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250413-1/2de1585ddc963431a1c507553ae28584.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=115118"
-  },
-  {
-    "id": 150609,
-    "title": "刘玥系列-骚母狗新年夜被同学内射...！}",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/17/68a1b7f3d41c35925d0c2445/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=150609"
-  },
-  {
-    "id": 166282,
-    "title": "刚下海的腼腆兼职小姐姐，被风月老将肆意调教啪啪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "内射",
+      "学生系列",
+      "口交",
       "乱伦系列",
       "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/14/67aece93db8c77d79b9549d3/cover.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166282"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=24799"
   },
   {
-    "id": 16992,
-    "title": "刚下课就来勾引主人打炮 许木学长",
+    "id": 23343,
+    "title": "【调教学生妹】后入深插椰乳学生妹 穿着裤子猛操 操软在床呻吟不停 泰迪约啪",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "性奴调教"
+      "性奴调教",
+      "学生系列",
+      "后入"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=16992"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=23343"
   },
   {
-    "id": 99022,
-    "title": "刚下课就来勾引主人打炮-许木学长",
+    "id": 50444,
+    "title": "【调教学生母狗合集】小编收集十几位母狗学生，都被大神玩烂了调教成性奴母狗",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240119-3/b8cfeee880969e88f561ffd73724038d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=99022"
-  },
-  {
-    "id": 67349,
-    "title": "刚从学校带出来的反差母狗，饥渴太久床上可骚了超多",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "反差婊",
       "性奴调教",
       "学生系列"
     ],
@@ -514,87 +411,221 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67349"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=50444"
   },
   {
-    "id": 39477,
-    "title": "刚成年18极品小萝莉被两大汉调教",
+    "id": 49965,
+    "title": "【调教实录】 极品小女仆含着鸡巴跪着走 无套内射 D先生",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "情侣做爱",
+      "性奴调教",
       "极品尤物",
-      "性奴调教"
+      "内射",
+      "口交",
+      "无套系列",
+      "情趣诱惑"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250105-1/a5f4b36ed7014f38edde93ce9841fb3e.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=39477"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=49965"
   },
   {
-    "id": 126886,
-    "title": "刚成年少女初下海被双鸡巴玩弄调教刺激尖叫",
+    "id": 30462,
+    "title": "【调教实录】05年浙江师范大学洛丽塔学生妹 鸡巴贴脸口交 淫语对白 卡卡西",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "情侣做爱",
-      "性奴调教"
+      "口交",
+      "性奴调教",
+      "学生系列"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/23/67bb354dcf22ae3e04ecbc79/cover.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=126886"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=30462"
   },
   {
-    "id": 10443,
-    "title": "刚毕业情侣捆绑打炮",
+    "id": 66084,
+    "title": "【调教小女友】苗条贫乳粉嫩小姐姐 乳夹项圈自舔手指",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "情侣做爱",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-7/db551be34288a55955bbcbb73f676351.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=10443"
-  },
-  {
-    "id": 64834,
-    "title": "刚毕业的高中妹妹 你的女神我的母狗 砸钱内射骚穴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "极品尤物",
+      "性奴调教",
       "乱伦系列",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-15/f5b2576ca0fb991562210ddad5dff5c9.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=66084"
+  },
+  {
+    "id": 35210,
+    "title": "【调教小母狗】00后高颜值模特调教的一脸兴奋骚样",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "极品尤物",
+      "高颜值",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250503-1/011d4d7819d9bd00d4cc006790e529de.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=35210"
+  },
+  {
+    "id": 235900,
+    "title": "【调教快乐奶牛】内射顶级炮架黑丝大奶妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "性奴调教",
+      "情趣诱惑",
+      "内射"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7801d79f1ac4ec459f080/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=235900"
+  },
+  {
+    "id": 33355,
+    "title": "【调教搜查官】 M字开腿捆绑束缚AV棒阳具调教 爆插湿嫩小穴 费爵娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=33355"
+  },
+  {
+    "id": 24362,
+    "title": "【调教新人】变态继兄弟猛烈抨击韩国女学生嫩穴 ElleLee",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250125-1/b571119e6b34922f77638c9741a4dac0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=24362"
+  },
+  {
+    "id": 39453,
+    "title": "【调教日记】寂寞情深超会玩 多具自慰炮击插逼喷水后 调教男公狗止寸射精玩弄 主动骑乘榨精被公狗内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "自慰",
+      "内射",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=39453"
+  },
+  {
+    "id": 20291,
+    "title": "【调教日记】寂寞情深超会玩 多具自慰炮击插逼喷水后 调教男公狗止寸射精玩弄 主动骑乘榨精被公狗内射 情深叉喔",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "自慰",
+      "内射",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=20291"
+  },
+  {
+    "id": 23342,
+    "title": "【调教束缚】端午节的肉粽 极品尤物捆绑束缚被疯狂蹂躏内射 萌之乖乖",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内射",
+      "极品尤物",
       "性奴调教",
       "高颜值"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250718-1/ce48bb91660d320064646d4f57acbf03.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=64834"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=23342"
   },
   {
-    "id": 1078,
-    "title": "刚结婚没多久的的前女友找我偷吃被我肛交毒龙给我舔脚",
+    "id": 46398,
+    "title": "【调教束缚】调教开档黑丝骚女友骑在肉棒上自己动被经典姿势操浪叫不停",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "性奴调教",
+      "情侣做爱",
+      "情趣诱惑"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=46398"
+  },
+  {
+    "id": 16614,
+    "title": "【调教束缚】黑色情趣绳衣性爱一边做一边用手机自拍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "国产自拍",
+      "情趣诱惑",
       "情侣做爱"
     ],
     "type": "无码",
@@ -602,415 +633,227 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=1078"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=16614"
   },
   {
-    "id": 3141,
-    "title": "刚被分手的母狗失去大屌狂扣骚逼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=3141"
-  },
-  {
-    "id": 1944,
-    "title": "刚高考完的女高小妹妹释放压力，让主人爸爸戴上项圈狗链调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=1944"
-  },
-  {
-    "id": 130224,
-    "title": "初中学生张婉莹萝莉的日常自摸调教戴上眼镜好看吗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250720-1/8b54ebd5da604e952e8ac35a54f41353.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=130224"
-  },
-  {
-    "id": 68222,
-    "title": "初中母狗生爱玩SM，被主人玩哭几次！字幕完整版",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=68222"
-  },
-  {
-    "id": 160800,
-    "title": "初体验换妻俱乐部刺激调教互操老婆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻系列",
-      "情侣做爱",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250407-1/3df5cad616362e3659e010103ef26b4a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=160800"
-  },
-  {
-    "id": 158868,
-    "title": "初次精选学妹成为我的小母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/0602fdcc904e9d415e8bab6cf7fdb401.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=158868"
-  },
-  {
-    "id": 69520,
-    "title": "初次调教大一学妹3p、舔脚、喝尿内部露脸版，3P肛塞，两根一起舔，毒龙，舔脚吃脚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多人淫乱",
-      "性奴调教",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=69520"
-  },
-  {
-    "id": 160436,
-    "title": "初次调教嫂子羞耻做爱手铐捆绑内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250701-1/949d0772b0be294a368695fb6e22914e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=160436"
-  },
-  {
-    "id": 131541,
-    "title": "初毛受四肢被捆绑打桩无法挣扎被操的直喊疼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250523-1/d31952880054395386f4de2044005fcc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=131541"
-  },
-  {
-    "id": 134330,
-    "title": "初音未来cos自慰#二次元#母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "自慰",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240708-1/e2055a9f1a7e2eb530f8b86147840997.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=134330"
-  },
-  {
-    "id": 51085,
-    "title": "别人母狗被我调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250512-1/d79cc56cd4ce250f2867867abe4957e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=51085"
-  },
-  {
-    "id": 164248,
-    "title": "制服反差母狗小萝莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "反差婊",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251012-1/5ab3367874595323ea09dedfa2e54f1b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=164248"
-  },
-  {
-    "id": 166640,
-    "title": "制服女战士系列—捆绑折磨被逮到的女战士，调教至同",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/21/678f3c83f9a2e9b1d4bb2453/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166640"
-  },
-  {
-    "id": 144276,
-    "title": "制服女特工炮机调教小穴1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231017-1/feeec4a76bc6b5c54096f537d7d466a5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=144276"
-  },
-  {
-    "id": 135025,
-    "title": "制服女特工炮机调教小穴。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/f8bf12cd148af46ba0735f6d3dad1c92.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=135025"
-  },
-  {
-    "id": 3395,
-    "title": "制服女神被调教成骚货贱母狗 先灌肠清洗肛门 然后用大鸡巴肛交抽插爆菊直接内射满满精液到菊花内",
+    "id": 400351,
+    "title": "【调教极品母狗】大佬鹿与玫瑰海圈养2条极品小母狗",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "极品尤物",
-      "高颜值",
       "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://img.cdn202511.com/videos/202510/10/68e8f69455001e4ba8f3404f/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690b3ebe2ca07a2826dc7cee/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=3395"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=400351"
   },
   {
-    "id": 152908,
-    "title": "制服学生妹 精液收集 主人的小母狗",
+    "id": 53451,
+    "title": "【调教极品白虎空姐】全程露脸3P，SM，啪啪，网爆大瓜！重磅核弹！与金主淫乱，舔脚放尿多P群交骚逼快被玩烂了！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/21/678fba1a2a47ebb1a8d15064/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=152908"
-  },
-  {
-    "id": 158218,
-    "title": "制服捆绑调教黑丝自摸阴户抓着头发使劲捅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/02/67c44a6ccf22ae3e04173b37/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=158218"
-  },
-  {
-    "id": 473,
-    "title": "制服调教小学妹 可爱性奴小母狗羞耻凌辱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "情趣诱惑",
       "性奴调教",
-      "学生系列"
+      "多人淫乱",
+      "极品尤物",
+      "黑料泄密"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=473"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=53451"
   },
   {
-    "id": 110722,
-    "title": "制服骚母狗吃鸡伺候狼友上位坐骑榨汁",
+    "id": 141857,
+    "title": "【调教母狗】太顶了~火力全开~双通三假屌~人体马桶喝尿",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/e1553b7f27c0e0e9153ef2c585cbff28.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=141857"
+  },
+  {
+    "id": 156343,
+    "title": "【调教母狗】太顶了~火力全开~双通三假屌~人体马桶喝尿的!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240408-1/7d572708bd2573453c11b8e175d4ba29.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=156343"
+  },
+  {
+    "id": 15484,
+    "title": "【调教母狗】调教极品骚母狗 强制深喉 后入深插猛干 口爆吞精 不浪费每一滴精液",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "极品尤物",
+      "口交",
+      "后入"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=15484"
+  },
+  {
+    "id": 31988,
+    "title": "【调教母狗】调教极品骚母狗 强制深喉 后入深插猛干 口爆吞精 不浪费每一滴精液1 今朝SM",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "极品尤物",
+      "口交",
+      "后入"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=31988"
+  },
+  {
+    "id": 16613,
+    "title": "【调教母狗】黑丝JK嫩穴 抽打玩弄强制高潮 后入深插猛操",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "后入",
+      "情趣诱惑",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=16613"
+  },
+  {
+    "id": 46416,
+    "title": "【调教母狗】黑丝JK嫩穴抽打玩弄强制高潮后入深插猛操",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "后入",
+      "情趣诱惑",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=46416"
+  },
+  {
+    "id": 152071,
+    "title": "【调教母狗学生】口爆吞精接着继续内射！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "内射",
+      "学生系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/13/67d2dee3cf22ae3e0437e754/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=152071"
+  },
+  {
+    "id": 165879,
+    "title": "【调教淫妻】各种道具SM深喉乳夹捆绑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
       "口交",
       "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251012-1/891d086b2ddce3daf630dea82ede9cf5.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/29/67e80d8e4e7d663df448fa25/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=110722"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=165879"
   },
   {
-    "id": 158828,
-    "title": "刺激-双飞姐妹花大合集表面上都是娇嫩淑女到了床上都是骚逼母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多女后宫",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/c72a984264eb039db90640275cd2b601.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=158828"
-  },
-  {
-    "id": 67970,
-    "title": "刺青反差婊骚母狗被富二代爆操喷水",
+    "id": 115939,
+    "title": "【调教淫贱骚母狗】全程露脸情趣装，道具双插逼逼和菊花草着小嘴，淫声荡语舔脚舔蛋蛋，母狗爬行抽打骚臀刺激1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "性奴调教",
-      "反差婊"
+      "情趣诱惑",
+      "肛交"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240805-1/2e76297a53d14306ff80859233fd9125.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67970"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=115939"
   },
   {
-    "id": 4700,
-    "title": "前凸后翘九头身母狗尤物一日女友，调教成功案例！",
+    "id": 161214,
+    "title": "【调教淫贱骚母狗】全程露脸情趣装，道具双插逼逼和菊花草着小嘴，淫声荡语舔脚舔蛋蛋，母狗爬行抽打骚臀刺激。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "性奴调教",
-      "极品尤物",
-      "高颜值",
-      "情侣做爱"
+      "情趣诱惑",
+      "肛交"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/f37d94f2926cccc230154ee0385b7cc3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=4700"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=161214"
   },
   {
-    "id": 87754,
-    "title": "前同事居然是妓发泄兽欲强制调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-12/b968e56338e5dee0f2f0d51fe8a9c3b4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=87754"
-  },
-  {
-    "id": 4478,
-    "title": "前同事居然是妓女发泄兽欲强制调教",
+    "id": 39532,
+    "title": "【调教男奴】两个萝莉女王调教怪蜀黍，玉足玩弄大鸡巴呻吟挑逗",
     "year": "",
     "country": "",
     "genre": "",
@@ -1022,168 +865,414 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=4478"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=39532"
   },
   {
-    "id": 10063,
-    "title": "前性感女团成员被金主包养大玩SM性爱3P",
+    "id": 50902,
+    "title": "【调教白虎】小萝莉户外公园调教露出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "野外",
+      "性奴调教",
+      "露出"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=50902"
+  },
+  {
+    "id": 116179,
+    "title": "【调教空姐】 真实调教高冷空姐黑丝套头跪地舔屌爬行",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "情趣诱惑",
-      "学生系列",
-      "性奴调教",
-      "多人淫乱"
+      "性奴调教"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20240921-1/4544e2c0bf7676420dccf52947ab58fb.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240625-1/f6e1a0b1f14de594f46eaa50de40b22e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=10063"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=116179"
   },
   {
-    "id": 286,
-    "title": "前舞院校花毕业当上人民教师 极品美腿巨乳4p被轮 全程求饶享受！顶级反差小母狗",
+    "id": 20942,
+    "title": "【调教精奴】 束缚捆绑 塞着肛塞被我操 乳夹都被操掉了 黑宫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=20942"
+  },
+  {
+    "id": 51933,
+    "title": "【调教英国豪乳留学生】这奶子真是极品，喜欢被掐着脖子操",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "学生系列",
+      "极品尤物",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250728-1/aeb714c98c3e65dca697b3e6ec5006de.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=51933"
+  },
+  {
+    "id": 23586,
+    "title": "【调教萝莉】极品少女被驯服调教牙刷插穴全程露脸 黑糖",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情侣做爱",
+      "极品尤物",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=23586"
+  },
+  {
+    "id": 67503,
+    "title": "【调教萝莉小母狗】边给男友打电话边口交！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "偷情系列",
+      "口交",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-13/f53137226deeb379b6e274b6a2c09d9a.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=67503"
+  },
+  {
+    "id": 35151,
+    "title": "【调教萝莉泄密】3P调教极品萝莉，表情羞涩，娇喘声好淫荡！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多人淫乱",
+      "性奴调教",
+      "黑料泄密",
+      "极品尤物"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=35151"
+  },
+  {
+    "id": 48664,
+    "title": "【调教贱奴绿帽狗】胯下口舌舔交合处伺候爱爱 跪舔屁眼舔脚崇拜女神 事后清理 女主亲自把做爱后的套套灌进绿奴嘴里。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻系列",
+      "极品尤物",
+      "肛交",
+      "高颜值",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=48664"
+  },
+  {
+    "id": 35189,
+    "title": "【调教风骚大奶子女友】颜值高又很骚各种口交大鸡巴舔弄揉着骚奶子爆草抽插",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "性奴调教",
+      "情侣做爱",
+      "巨乳",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250503-1/17a050fd47be37d6d7c81c0c888a56c6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=35189"
+  },
+  {
+    "id": 43526,
+    "title": "【调教风骚小母狗】露脸SM情趣玩弄，小乳夹捆绑跳蛋吸奶头蹂躏逼逼，口交大鸡巴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "情趣诱惑",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=43526"
+  },
+  {
+    "id": 23425,
+    "title": "【调教骚穴】内射性感骚秘书 深喉骑乘 抓着胳膊后入猛干内射 Yui Peachpie",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "后入",
+      "内射",
+      "口交",
+      "性奴调教",
+      "情趣诱惑"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=23425"
+  },
+  {
+    "id": 23423,
+    "title": "【调教骚穴】美乳以欣激情口爆 轻调白虎穴深插 表情都被操扭曲了 DEMOASIC",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "巨乳",
       "性奴调教",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=23423"
+  },
+  {
+    "id": 39550,
+    "title": "【调教高颜值清纯反差嫩妹】掌掴母狗跪地按头深喉 后入圆润翘臀 M属性满满下贱至极",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "后入",
       "反差婊",
-      "学生系列",
-      "极品尤物",
-      "多人淫乱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=286"
-  },
-  {
-    "id": 11173,
-    "title": "剎那的凌辱拷问_被捆绑调教怒操后臣服",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250329-1/23c7b54a695a292d7c275fc2bdb1bcef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=11173"
-  },
-  {
-    "id": 6908,
-    "title": "剧情主人好棒啊啊受不了了快点射给我被多姿势无套输出内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250224-1/a614926355c297164d8311d0fa751d8c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=6908"
-  },
-  {
-    "id": 160635,
-    "title": "剧情家庭乱伦大事件母狗小姨子勾引姐夫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/f303e9c767835cd05cfb58ed12f1b80e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=160635"
-  },
-  {
-    "id": 114228,
-    "title": "剧情推荐调教老婆玩群p没想",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250818-1/4d615a97279b46dfbd5ebe4cfce85aa4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=114228"
-  },
-  {
-    "id": 54473,
-    "title": "剧情演绎母女互玩SM女人何必难为女人终于可以打妈妈的PP了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/sgmh1db0lvh.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=54473"
-  },
-  {
-    "id": 132155,
-    "title": "剧情老师抑郁自杀老公不哀反喜给尸体换丝袜舔脚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/74c35f16581eb3482530b915f200bf7d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=132155"
-  },
-  {
-    "id": 943,
-    "title": "办公室被主人爸爸蹂躏调教，小萝莉的蜜桃小屁股 爱反差",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
+      "高颜值",
       "性奴调教",
-      "反差婊"
+      "口交",
+      "极品尤物"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=943"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=39550"
   },
   {
-    "id": 2121,
-    "title": "办公室跳蛋调教玩弄女下属调教成小母狗，掀起裙子直接后入",
+    "id": 53578,
+    "title": "【调教高颜值清纯反差嫩妹】掌掴母狗跪地按头深喉 后入圆润翘臀 M属性满满下贱至极~",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "后入",
+      "反差婊",
+      "高颜值",
+      "性奴调教",
+      "口交",
+      "极品尤物"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899ede96ccb447f8c841ca6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=53578"
+  },
+  {
+    "id": 134142,
+    "title": "【调教黑丝小母狗】全程露脸无毛骚逼黑丝微SM情趣诱惑，道具玩弄口交大鸡巴，各种体位爆草抽插1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "口交",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240805-1/541fc8e5712da0e33f3c026ed8a29721.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=134142"
+  },
+  {
+    "id": 235422,
+    "title": "【调教黑丝小母狗】全程露脸无毛骚逼黑丝微SM情趣诱惑，道具玩弄口交大鸡巴，各种体位爆草抽插。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "性奴调教",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241113-1/51a15db9913aeb94e5fcd1c5d64dca23.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=235422"
+  },
+  {
+    "id": 46018,
+    "title": "【豹纹小恶魔】双洞开发自我调教到高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=46018"
+  },
+  {
+    "id": 16612,
+    "title": "【豹纹母狗】乳夹自我调教 气垫梳抽打蜜臀 淫穴等你来插",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=16612"
+  },
+  {
+    "id": 42556,
+    "title": "【贝拉】学生装情趣黑丝淫奴女友调教猛艹口爆 骑乘位自己动，抬腿爆草，美臀狠狠干",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "口交",
+      "情侣做爱",
+      "情趣诱惑",
+      "学生系列",
+      "女上位"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=42556"
+  },
+  {
+    "id": 23585,
+    "title": "【超乖母狗】miuzxc穿粉色情趣内裤主动帮主人射精 扇脸深喉 好想让主人的大鸡巴把我塞满 小米",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "情趣诱惑",
+      "性奴调教",
+      "口交"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=23585"
+  },
+  {
+    "id": 37733,
+    "title": "【超市老板娘】逼里塞跳蛋看店，骚话连篇，想要被大鸡巴狠狠的干",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=37733"
+  },
+  {
+    "id": 37727,
+    "title": "【超敏感母狗肛门扩张训练】自慰淫水四溅 最后直接翻白眼喷潮了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "自慰"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=37727"
+  },
+  {
+    "id": 46020,
+    "title": "【超爽正妹】淫欲小母狗 超强口技施展术 后入深插 被操瘫在床",
     "year": "",
     "country": "",
     "genre": "",
@@ -1196,499 +1285,254 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=2121"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=46020"
   },
   {
-    "id": 37765,
-    "title": "加加喵2024年新作流出最新調教捆綁調教聽從主人的安排滿足你的要求",
+    "id": 20289,
+    "title": "【超爽正妹】淫欲小母狗 超强口技施展术 后入深插 被操瘫在床 派大星",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "性奴调教",
-      "黑料泄密"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241227-1/384f11470b26a7b1456a20309973c159.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=37765"
-  },
-  {
-    "id": 85596,
-    "title": "加加喵清纯人气模特酒店里捆绑调教，极限扩张强制抽插浑身通红！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20241215-1/1f8aaafd2bcf5031692dfc0aeae3027f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=85596"
-  },
-  {
-    "id": 62462,
-    "title": "劲爆 骚母狗自拍福利，全裸奶子很挺自拍做爱 让人看着热血沸腾",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "国产自拍",
-      "情侣做爱"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250125-1/1037646cb8dc925783012e0395db3ce4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=62462"
-  },
-  {
-    "id": 69951,
-    "title": "劲爆事件苏州反差婊母狗学生酒店被继父爆菊花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "反差婊",
-      "学生系列"
+      "后入"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=69951"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=20289"
   },
   {
-    "id": 74913,
-    "title": "劲爆全网的台湾巨乳cos母狗口交自拍视频曝光",
+    "id": 37741,
+    "title": "【超甜两姐妹】极品姐妹花 道具调教~捆绑~群P啪啪~超刺激",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "性奴调教",
-      "口交",
-      "国产自拍",
-      "情侣做爱",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=74913"
-  },
-  {
-    "id": 5494,
-    "title": "劲爆反差 清纯艺术生反差小母狗 揉骚逼自慰私拍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "反差婊",
-      "性奴调教",
-      "自慰"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=5494"
-  },
-  {
-    "id": 161888,
-    "title": "劲爆家庭乱伦_废物哥哥满足不了嫂子_却被我调教成泄欲性奴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "人妻系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/16/67b1a3b44e7d663df47e172b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=161888"
-  },
-  {
-    "id": 24879,
-    "title": "劲爆新料盘点最新流出的中学女孩们见网友的乱伦的被老师诱惑调教的女同学",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "女同",
-      "黑料泄密",
-      "学生系列",
-      "乱伦系列",
-      "乱伦"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240914-5/226365881158411f7bcff269f140d58c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=24879"
-  },
-  {
-    "id": 2498,
-    "title": "劲爆朋友圈美术系巨乳石高慧,被肥猪教授PUA甘愿做性奴母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "巨乳"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=2498"
-  },
-  {
-    "id": 3060,
-    "title": "劲爆母狗 反差 这是谁的女朋友在偷情",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "情侣做爱",
-      "反差婊",
-      "偷情系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=3060"
-  },
-  {
-    "id": 119217,
-    "title": "劲爆独家黑料 极品精厕留学生 乳钉爆乳母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "黑料泄密",
-      "巨乳",
       "极品尤物",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/01/67c2d91a4e7d663df4bde8d8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=119217"
-  },
-  {
-    "id": 47782,
-    "title": "劲爆猛料地质大学保研陈洁莹人前学霸人后母狗户外调教吞精扩阴吃屎喝尿一路高能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20250408-1/27b4193cd1912222b40761bc9e2f96f4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=47782"
-  },
-  {
-    "id": 31449,
-    "title": "劲爆萝莉少女小恩VIP定制完美露脸捆绑调教私拍视频流出白虎小穴极度湿嫩阳具抽插血脉喷张",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
+      "多人淫乱",
       "性奴调教",
-      "黑料泄密"
+      "多女后宫"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241021-1/0f764122dfde753d2ba08daec6cbc5df.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=31449"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=37741"
   },
   {
-    "id": 154402,
-    "title": "勾搭公司同事微信聊骚调教开房高潮喷水",
+    "id": 56477,
+    "title": "【超美颜值❤️秀人核弹】超人气女神『杨晨晨』最新高价定制剧情 爆裂黑丝露BB 捆绑强操后入 超OK女神 高清1080P版",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250419-1/bb538f6189c87e9b57239a4800706d1a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=154402"
-  },
-  {
-    "id": 29043,
-    "title": "勾搭表妹淫荡乱伦大哥在线教学习答表妹利自己做爱调教小母狗吃鸡巴无套内射萝莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "口交",
-      "乱伦系列",
-      "乱伦"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20240914-14/66796414edaa041a88cdb847eea03845.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=29043"
-  },
-  {
-    "id": 166306,
-    "title": "勾搭高挑学生妹，跳蛋调教被操的路都走不动",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/11/67ab3b53846149d7bcaf29db/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166306"
-  },
-  {
-    "id": 164668,
-    "title": "包养曝光广州某职业技术学院极品反差婊母狗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "反差婊",
       "极品尤物",
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250401-1/58f6124ead58a0116af3746b9b03d3c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=164668"
-  },
-  {
-    "id": 164542,
-    "title": "包养校花级大学生经过几天的调教现在很听话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/1501edcfb40601e5eb08d4079bea82eb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=164542"
-  },
-  {
-    "id": 73393,
-    "title": "包养玩肏高质量外围绿茶婊没啥正事除了打炮就是打炮使劲霍霍淫语调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
       "性奴调教",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=73393"
-  },
-  {
-    "id": 18415,
-    "title": "包养的04年傻白甜校花 指挥调教无套中出 被操的连喊爸爸 少女萌主",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦系列",
-      "情侣做爱",
-      "性奴调教",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=18415"
-  },
-  {
-    "id": 3019,
-    "title": "包养的女大学生 白嫩大屁股 非常骚的一条母狗 居家性爱自拍 口交 自慰",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情侣做爱",
-      "国产自拍",
-      "性奴调教",
-      "口交",
-      "自慰",
-      "学生系列"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=3019"
-  },
-  {
-    "id": 152492,
-    "title": "包养的母狗被带出去车震深喉爆操干到喷尿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "口交",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/13/67ad8827846149d7bc049dbf/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=152492"
-  },
-  {
-    "id": 166452,
-    "title": "包养的肥臀小母狗！大屁股SP调教臀肉乱颤淫叫不止",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "学生系列",
-      "性奴调教"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/20/678e7c342a47ebb1a8ce5a29/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166452"
-  },
-  {
-    "id": 32662,
-    "title": "北京.通州.税务师.反差母狗.三洞已.开跟母狗..性经.历27岁已.经玩过20多.个男人了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "反差婊"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241110-1/eb51a0d48b4f855475edb3bb24397db5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=32662"
-  },
-  {
-    "id": 69936,
-    "title": "北京航空学院大四实习空姐杨萌被机长潜规则成性奴视频女神级别",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "情趣诱惑",
-      "性奴调教",
+      "后入",
       "高颜值",
-      "极品尤物",
-      "黑料泄密"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=69936"
-  },
-  {
-    "id": 36021,
-    "title": "北京通.州税务师.反差母.狗三.洞已开跟母狗.聊性经历.27岁已经.玩过20.个男人了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "反差婊"
-    ],
-    "type": "无码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fqjpg4.top/upload/vod/20241213-1/58d75d9e977136b9315ccbe46c251c7f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=36021"
-  },
-  {
-    "id": 4331,
-    "title": "北京长腿反差美女，顶级超模级别美女 穿上情趣装被当母狗调教对待真是让人欲罢不能 ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "性奴调教",
-      "反差婊",
+      "强奸",
       "情趣诱惑"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/03/fiw1uotgb3g.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=4331"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=56477"
   },
   {
-    "id": 164663,
-    "title": "北京高颜值素质母狗",
+    "id": 58078,
+    "title": "【超顶抖音❤️新瓜】新沂市特色八大碗喜剧传媒✨ 主人公蔡二哥网红小晴晴酒店啪啪流出 公狗腰火力输出甚是淫乱精彩 (1)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "主播网红",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/07/1zzbyyrezkq.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=58078"
+  },
+  {
+    "id": 58079,
+    "title": "【超顶抖音❤️新瓜】新沂市特色八大碗喜剧传媒✨ 主人公蔡二哥网红小晴晴酒店啪啪流出 公狗腰火力输出甚是淫乱精彩 (2)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "主播网红",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/07/fiafexzfhyw.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=58079"
+  },
+  {
+    "id": 58080,
+    "title": "【超顶抖音❤️新瓜】新沂市特色八大碗喜剧传媒✨ 主人公蔡二哥网红小晴晴酒店啪啪流出 公狗腰火力输出甚是淫乱精彩 (3)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "主播网红",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/07/oatggmf1mgd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=58080"
+  },
+  {
+    "id": 58081,
+    "title": "【超顶抖音❤️新瓜】新沂市特色八大碗喜剧传媒✨ 主人公蔡二哥网红小晴晴酒店啪啪流出 公狗腰火力输出甚是淫乱精彩 (4)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "主播网红",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/07/egmqg1nul4c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=58081"
+  },
+  {
+    "id": 58082,
+    "title": "【超顶抖音❤️新瓜】新沂市特色八大碗喜剧传媒✨ 主人公蔡二哥网红小晴晴酒店啪啪流出 公狗腰火力输出甚是淫乱精彩 (5)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "主播网红",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/07/4jxdumjqpeh.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=58082"
+  },
+  {
+    "id": 58083,
+    "title": "【超顶抖音❤️新瓜】新沂市特色八大碗喜剧传媒✨ 主人公蔡二哥网红小晴晴酒店啪啪流出 公狗腰火力输出甚是淫乱精彩 (6)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑料泄密",
+      "主播网红",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/07/xv53lrostfo.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=58083"
+  },
+  {
+    "id": 21408,
+    "title": "【足交乱伦】我的主人是舅妈，家庭聚餐过后在酒店被舅妈调教，最后寸止射精 NANA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "足交",
+      "乱伦系列",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21408"
+  },
+  {
+    "id": 21488,
+    "title": "【足交潮吹】暴力调教玩弄黑丝抖M骚嫩穴 边操边蹂躏阴蒂 最后吞了爸爸精液 小欣奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "足交",
+      "情趣诱惑",
+      "乱伦系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21488"
+  },
+  {
+    "id": 21563,
+    "title": "【足射】酒会后的激情 调教恋足的同事反被操到呻吟不停 最后还被内射了 饼干姐姐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦系列",
+      "内射",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21563"
+  },
+  {
+    "id": 75181,
+    "title": "【足控推荐】易直播网红美女胆胆，完美露脸高价定制，高颜值美女丝足玉足舔脚足交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主播",
+      "极品尤物",
+      "足交",
+      "高颜值",
+      "主播网红",
+      "直播",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250714-2/2d67cef51b97425de73a033ef7181774.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=75181"
+  },
+  {
+    "id": 166570,
+    "title": "【足控福利】极品御姐肉丝美脚调教男奴",
     "year": "",
     "country": "",
     "genre": "",
@@ -1699,33 +1543,176 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250402-1/1ca8d158dce09724b2907ada7e8000e1.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/21/678f1b0e89def9b1b826100c/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=164663"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=166570"
   },
   {
-    "id": 3026,
-    "title": "北大学院最骚的女奴事件，校园高冷女神，床上极度反差骚母狗，深喉吞精口爆多人",
+    "id": 68115,
+    "title": "【足控福利】高颜值美女剧情丝足玉足舔脚合集",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "极品尤物",
+      "高颜值",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avxq104.cc/upload/vod/20250715-12/ff3452c901b83147f1819e711cf00e5a.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=68115"
+  },
+  {
+    "id": 113581,
+    "title": "【足浴店调教女奴】—步步开发少妇女技师，一起舔脚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "足交",
+      "人妻系列",
+      "性奴调教",
+      "探花系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/02/679e50c04e7d663df44d24a4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=113581"
+  },
+  {
+    "id": 21562,
+    "title": "【跪下！含朕龙根】无套内射极品小骚逼 一直想要主人操 掰腿求插 精液射满她的骚穴 Make性专家",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "极品尤物",
+      "内射",
+      "无套系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=21562"
+  },
+  {
+    "id": 23341,
+    "title": "【跳蛋调教】 车震被干到腿软连续高潮 魏乔安",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "野外"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=23341"
+  },
+  {
+    "id": 19126,
+    "title": "【车震精神小妹】“你想做大哥的女人吗？”涉世未深的精神小妹被社会大哥哄骗到车上疯狂调教，手指插进嫩穴里都快被捅烂了，真没拿小妹当人在操！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "野外",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=19126"
+  },
+  {
+    "id": 50211,
+    "title": "【车震系列】把母狗秘书骗到地下车库调教_骚逼内裤里还塞着跳蛋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "野外"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=50211"
+  },
+  {
+    "id": 16610,
+    "title": "【轮操女大】 前后夹击被操的连喊“救命” 超喜欢被轮奸的感觉 渴望被捆绑操逼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "学生系列"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=16610"
+  },
+  {
+    "id": 6342,
+    "title": "【软萌兔兔酱】双马尾可爱小萝莉被大鸡巴主人调教成肉便器",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250203-1/98bc5ea31446ec131f84f8697863cb3c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=6342"
+  },
+  {
+    "id": 20372,
+    "title": "【轻度SM】轻调粉嫩骚护士 深喉滴蜡 激情后入内射精液流出 淫叫不停 小熊奈奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "后入",
+      "内射",
       "口交",
       "性奴调教",
-      "反差婊",
-      "极品尤物",
-      "高颜值"
+      "情趣诱惑",
+      "黑料泄密"
     ],
     "type": "无码",
     "company": "",
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=3026"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=20372"
   },
   {
-    "id": 18121,
-    "title": "医生足穴调教男贱狗 淫穴取精液要榨干最后一滴精液 applecptv",
+    "id": 16609,
+    "title": "【轻度SM】魏先生专调翘臀 超辣身材翘臀妹 暴力调教BM猛抽蜜桃臀",
     "year": "",
     "country": "",
     "genre": "",
@@ -1737,6 +1724,93 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=18121"
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=16609"
+  },
+  {
+    "id": 43812,
+    "title": "【辛尤莉】粉乳嫩穴梦幻芭比反差女神跟网友的第一次约会就被下CY药捆绑调教",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "反差婊",
+      "极品尤物",
+      "高颜值",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=43812"
+  },
+  {
+    "id": 47051,
+    "title": "【辛尤里】3个圣诞性奴掀开我的被子爬上我的床",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=47051"
+  },
+  {
+    "id": 43797,
+    "title": "【辛尤里】万众瞩目极品露脸SS级女神私拍作品，金主圈养小母狗日常淫荡打卡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "极品尤物",
+      "高颜值",
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=43797"
+  },
+  {
+    "id": 402016,
+    "title": "【辛尤里】乖乖牌邻家女孩的女友居然在晚上那么母狗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教",
+      "偷情系列",
+      "情侣做爱"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fe29a5dd88d14f0655dfe7/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=402016"
+  },
+  {
+    "id": 24357,
+    "title": "【辛尤里】人生首次大潮吹！AV棒凌辱自调教（定价12元）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "性奴调教"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250125-1/c9d23c592a2c4ac07539ad16f5ef6054.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/CN_SELFIE/player_template.html?series=24357"
   }
 ];
