@@ -37,11 +37,21 @@ body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; colo
 // 最大页数
 const MAX_PAGE = 196;
 
-// 加载头部和底部
-fetch('header.html').then(r=>r.text()).then(html=>{
-  document.getElementById('header-placeholder').innerHTML = html;
-  const s=document.createElement('script'); s.src='header.js'; document.body.appendChild(s);
-});
+/* ========== 加载顶部 header.html + header.js ========== */
+fetch('header.html')
+  .then(r => r.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+    const s = document.createElement('script');
+    s.src = 'header.js';
+    s.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-home');
+    };
+    document.body.appendChild(s);
+  });
+
+
 fetch('https://yunvgong.com/footer.html').then(r=>r.text()).then(html=>{
   const footer=document.createElement('div'); footer.innerHTML = html; document.body.appendChild(footer);
 });
