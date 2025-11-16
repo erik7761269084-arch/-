@@ -148,14 +148,20 @@ body {
 <div id="footer-placeholder"></div>
 
 <script>
-/* 加载顶部 header.html + header.js */
+/* ======= 加载 header.html + header.js ======= */
 fetch('header.html')
-  .then(r => r.text())
+  .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
-    const s = document.createElement('script');
-    s.src = 'header.js';
-    document.body.appendChild(s);
+
+    // 加载 header.js 文件
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
+    };
+    document.body.appendChild(script);
   });
 
 /* 加载底部 footer.html（正确版本 + 加粗标题）*/
