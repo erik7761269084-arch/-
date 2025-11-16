@@ -94,12 +94,18 @@
     text-align: center;
   }
 
-  /* Logo 居中显示 */
+  .logo-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;  /* 居中 */
+    gap: 20px;                /* logo 之间间距 */
+    margin: 8px 0;
+  }
+
   .logo {
     float: none;
-    width: 100%;
+    width: auto;              /* 取消占满整行 */
     text-align: center;
     line-height: normal;
-    margin: 8px 0;
   }
 }
