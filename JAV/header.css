@@ -9,7 +9,7 @@
   color: #fff;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between; /* 三个区块分开 */
   padding: 0 20px;
   box-sizing: border-box;
   z-index: 9999;
@@ -17,17 +17,27 @@
   font-family: "微软雅黑", sans-serif;
 }
 
-/* Logo */
+/* 左侧 logo */
+.logo-wrapper {
+  display: flex;
+  gap: 20px;       /* 御女宫 和 日本AV区 间距 */
+  flex-shrink: 0;  /* 避免压缩 */
+}
+
 .headerbar .logo {
   font-weight: bold;
   font-size: 18px;
   color: #ffcc00;
-  position: absolute;
-  left: 20px;
   text-decoration: none; /* 去掉下划线 */
 }
 
-/* 菜单 */
+/* 中间导航菜单 */
+.nav-wrapper {
+  flex: 1;                 /* 占满剩余空间 */
+  display: flex;
+  justify-content: center; /* 导航居中 */
+}
+
 .headerbar nav {
   display: flex;
   gap: 20px;
@@ -45,33 +55,52 @@
   color: #ffcc00;
 }
 
-/* 汉堡图标 */
+/* 右侧汉堡按钮 */
 .hamburger {
   display: none;
   font-size: 26px;
   color: #fff;
   cursor: pointer;
-  position: absolute;
-  right: 20px;
+  flex-shrink: 0;
 }
 
 /* 手机模式 */
 @media (max-width: 992px) {
+  .hamburger {
+    display: block;
+  }
+
+  .headerbar {
+    padding-bottom: 10px;
+  }
+
+  /* 导航隐藏，点击显示 */
   .headerbar nav {
     display: none;
-    flex-direction: column;
+    flex-wrap: wrap;          /* 允许换行 */
     width: 100%;
-    background: #1a1a1a;
-    position: absolute;
-    top: 60px;
-    left: 0;
+    margin-left: 0;
+    margin-top: 8px;
   }
 
   .headerbar nav.show {
     display: flex;
   }
 
-  .hamburger {
-    display: block;
+  /* 手机端每行4个 */
+  .headerbar nav a {
+    flex: 1 0 25%;            /* 每行4个 */
+    font-size: 16px;
+    padding: 8px 0;
+    text-align: center;
+  }
+
+  /* Logo 居中显示 */
+  .logo {
+    float: none;
+    width: 100%;
+    text-align: center;
+    line-height: normal;
+    margin: 8px 0;
   }
 }
