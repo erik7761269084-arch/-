@@ -4,7 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>女优详情</title>
+
 <style>
+  :root {
+    --page-padding: 50px 80px;
+  }
+
   body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -14,13 +19,12 @@
     min-height: 100vh;
     overflow-x: hidden;
     background-color: #000;
-    padding-top: 60px; /* 给 header 留空间 */
+    padding-top: 60px;
   }
 
   body::before {
     content: "";
-    position: fixed;
-    top:0; left:0;
+    position: fixed; top:0; left:0;
     width:100%; height:100%;
     background: var(--bg-url) center center / cover no-repeat;
     filter: brightness(0.3);
@@ -31,51 +35,167 @@
   .container {
     width: 100%;
     min-height: 100vh;
-    padding: 50px 80px;
+    padding: var(--page-padding);
     background: rgba(0,0,0,0.6);
     box-sizing: border-box;
   }
 
-  /* === 演员信息样式 === */
-  .profile { display: flex; gap: 20px; flex-wrap: wrap; }
-  .profile img { width: 350px; border-radius: 10px; }
-  .info { flex: 1; }
+  /* ===== 演员信息 ===== */
+  .profile {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  .profile img {
+    width: 350px;
+    max-width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+
+  .info {
+    flex: 1;
+    min-width: 250px;
+  }
+
   .info h1 { margin:0; font-size:28px; }
-  .features span { display:inline-block; background:#ff9800; color:#000; padding:2px 8px; margin:2px; border-radius:4px; font-size:12px; }
+
+  .features span {
+    display:inline-block;
+    background:#ff9800; color:#000;
+    padding:2px 8px; margin:2px;
+    border-radius:4px; font-size:12px;
+  }
 
   .description { margin-top: 40px; }
 
-  .gallery { margin-top: 30px; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap:10px; }
-  .gallery img { width:100%; border-radius:6px; display:block; }
+  /* ===== 图集 ===== */
+  .gallery {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px,1fr));
+    gap:10px;
+  }
 
+  .gallery img {
+    width:100%;
+    border-radius:6px;
+    display:block;
+  }
+
+  /* ===== 作品卡片 ===== */
   .related-dramas { margin-top:50px; }
   .related-dramas h2 { font-size:24px; margin-bottom:20px; }
-  .related-dramas .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap:15px; }
-  .related-dramas .card { position:relative; background-color:#1a1a1a; border-radius:8px; overflow:hidden; cursor:pointer; display:flex; flex-direction:column; transition: transform 0.2s ease, box-shadow 0.2s ease;}
-  .related-dramas .card:hover { transform: scale(1.05); box-shadow:0 4px 12px rgba(255,255,255,0.2);}
-  .related-dramas .card img { width:100%; aspect-ratio:16/9; object-fit:cover; }
-  .card-type { position:absolute; bottom:8px; right:8px; font-size:12px; font-weight:bold; color:#fff; border:1px solid #ff0000; padding:2px 6px; border-radius:4px; background-color:#ff0000;}
-  .card-info { padding:8px 10px; display:flex; flex-direction:column; gap:6px;}
-  .card-info-top { display:flex; align-items:center; gap:6px; overflow:hidden;}
-  .card-info-top .idcode { color:#ffcc00; font-weight:bold; font-size:12px; white-space:nowrap; flex-shrink:0;}
-  .card-info-top .title { font-size:14px; color:#fff; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; flex-grow:1;}
-  .actor { position:absolute; bottom:8px; left:8px; background-color: rgba(0,0,0,0.5); padding:2px 6px; border-radius:4px; font-size:12px;}
-  .card-info-bottom { display:flex; justify-content:space-between; align-items:center; font-size:12px; color:#ccc;}
+
+  .related-dramas .grid {
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px,1fr));
+    gap:15px;
+  }
+
+  .related-dramas .card {
+    position:relative;
+    background-color:#1a1a1a;
+    border-radius:8px;
+    overflow:hidden;
+    cursor:pointer;
+    display:flex;
+    flex-direction:column;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .related-dramas .card:hover {
+    transform: scale(1.05);
+    box-shadow:0 4px 12px rgba(255,255,255,0.2);
+  }
+
+  .related-dramas .card img {
+    width:100%;
+    aspect-ratio:16/9;
+    object-fit:cover;
+  }
+
+  .card-type {
+    position:absolute; bottom:8px; right:8px;
+    font-size:12px; font-weight:bold; color:#fff;
+    border:1px solid #ff0000;
+    padding:2px 6px; border-radius:4px;
+    background-color:#ff0000;
+  }
+
+  .card-info { padding:8px 10px; display:flex; flex-direction:column; gap:6px; }
+
+  .card-info-top {
+    display:flex; align-items:center; gap:6px; overflow:hidden;
+  }
+  .card-info-top .idcode {
+    color:#ffcc00; font-weight:bold; font-size:12px;
+    white-space:nowrap; flex-shrink:0;
+  }
+  .card-info-top .title {
+    font-size:14px; color:#fff;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+    flex-grow:1;
+  }
+  .actor {
+    position:absolute; bottom:8px; left:8px;
+    background-color: rgba(0,0,0,0.5);
+    padding:2px 6px; border-radius:4px; font-size:12px;
+  }
+
+  .card-info-bottom {
+    display:flex; justify-content:space-between;
+    align-items:center; font-size:12px; color:#ccc;
+  }
+
   .date { display:flex; align-items:center; gap:4px; font-size:12px; }
 
-  .pagination { margin-top:10px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;}
-  .pagination button { padding:4px 8px; background:#333; color:#fff; border:none; border-radius:4px; cursor:pointer;}
-  .pagination button.active { background:red;}
-  .pagination input { width:40px; padding:2px; border-radius:4px; border:1px solid #555; background:#222; color:#fff; text-align:center;}
+  /* ===== 翻页 ===== */
+  .pagination {
+    margin-top:10px;
+    display:flex; align-items:center;
+    gap:6px; flex-wrap:wrap;
+  }
+  .pagination button {
+    padding:4px 8px; background:#333; color:#fff;
+    border:none; border-radius:4px; cursor:pointer;
+  }
+  .pagination button.active { background:red; }
+  .pagination input {
+    width:40px; padding:2px;
+    border-radius:4px; border:1px solid #555;
+    background:#222; color:#fff; text-align:center;
+  }
+
+  /************** 📱 Mobile Responsive **************/
+  @media(max-width: 1024px){
+    :root { --page-padding: 40px; }
+  }
+
+  @media(max-width: 768px){
+    :root { --page-padding: 20px; }
+    .info h1 { font-size:22px; }
+    .gallery { grid-template-columns: repeat(auto-fill, minmax(150px,1fr)); }
+    .related-dramas .grid { grid-template-columns: repeat(auto-fill, minmax(150px,1fr)); }
+  }
+
+  @media(max-width: 480px){
+    .profile { flex-direction: column; align-items: center; text-align:center; }
+    .features span { font-size:11px; }
+    .info p { font-size:14px; }
+    .gallery { grid-template-columns: repeat(auto-fill, minmax(120px,1fr)); }
+    .related-dramas .grid { grid-template-columns: repeat(auto-fill, minmax(120px,1fr)); }
+  }
 </style>
 </head>
 <body>
 
-<!-- ====== header 占位 ====== -->
 <div id="header-placeholder"></div>
 
 <div class="container">
-  <!-- === 演员信息 === -->
+  <!-- ===== 演员信息 ===== -->
   <div class="profile">
     <img id="profile-img" src="" alt="">
     <div class="info">
@@ -107,13 +227,11 @@
 </div>
 
 <script>
-/* ======= 加载 header.html + header.js ======= */
+/*** 加载 header.html + header.js ***/
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
-
-    // 动态加载 header.js
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
@@ -122,12 +240,11 @@ fetch('header.html')
     };
     document.body.appendChild(script);
   });
-  
-/* ========== 加载底部 footer.html ========== */ 
+
+/*** 加载 footer.html ***/
 fetch('https://yunvgong.com/footer.html')
   .then(r => r.text())
   .then(html => {
-    // 动态创建底部容器并插入页面
     let footer = document.getElementById('footer-placeholder');
     if (!footer) {
       footer = document.createElement('div');
@@ -138,10 +255,10 @@ fetch('https://yunvgong.com/footer.html')
   })
   .catch(e => console.warn('无法加载 footer.html:', e));
 
-// ==== 原有页面逻辑 ====
+
+/* 原有页面逻辑 */
 function getSeriesName() {
-  const params = new URLSearchParams(window.location.search);
-  return params.get('series') || '1';
+  return new URLSearchParams(window.location.search).get('series') || '1';
 }
 
 function loadSeriesData(seriesName) {
@@ -156,53 +273,52 @@ function loadSeriesData(seriesName) {
   document.body.appendChild(script);
 }
 
-function initPage(actressData) {
-  if (!actressData) return;
-  if (actressData.background_img) document.body.style.setProperty('--bg-url', `url('${actressData.background_img}')`);
+function initPage(data) {
+  if (!data) return;
+  if (data.background_img) document.body.style.setProperty('--bg-url', `url('${data.background_img}')`);
 
-  document.getElementById("profile-img").src = actressData.img_url || "";
-  document.getElementById("profile-img").alt = actressData.name || "";
-
-  document.getElementById("name").textContent = actressData.name || "";
-  document.getElementById("age").textContent = actressData.age || "";
-  document.getElementById("birthday").textContent = actressData.birthday_date || "";
-  document.getElementById("zodiac").textContent = actressData.zodiac || "";
-  document.getElementById("height").textContent = actressData.height || "";
-  document.getElementById("measurements").textContent = actressData.measurements || "";
-  document.getElementById("cup").textContent = actressData.cup || "";
-  document.getElementById("works_count").textContent = actressData.works_count || 0;
-  document.getElementById("description").textContent = actressData.description || "";
+  document.getElementById("profile-img").src = data.img_url || "";
+  document.getElementById("name").textContent = data.name || "";
+  document.getElementById("age").textContent = data.age || "";
+  document.getElementById("birthday").textContent = data.birthday_date || "";
+  document.getElementById("zodiac").textContent = data.zodiac || "";
+  document.getElementById("height").textContent = data.height || "";
+  document.getElementById("measurements").textContent = data.measurements || "";
+  document.getElementById("cup").textContent = data.cup || "";
+  document.getElementById("works_count").textContent = data.works_count || 0;
+  document.getElementById("description").textContent = data.description || "";
 
   const featuresDiv = document.getElementById("features");
   featuresDiv.innerHTML = "";
-  if (Array.isArray(actressData.features)) {
-    actressData.features.forEach(f => {
+  if (Array.isArray(data.features)) {
+    data.features.forEach(f => {
       const span = document.createElement("span");
       span.textContent = f;
       featuresDiv.appendChild(span);
     });
   }
 
-  document.getElementById("aliases").textContent = Array.isArray(actressData.aliases)
-    ? actressData.aliases.join(", ")
-    : (actressData.aliases || "");
+  document.getElementById("aliases").textContent = Array.isArray(data.aliases)
+    ? data.aliases.join(", ")
+    : (data.aliases || "");
 
   const galleryDiv = document.getElementById("gallery");
   galleryDiv.innerHTML = "";
-  if (Array.isArray(actressData.gallery)) {
-    actressData.gallery.forEach(url => {
+  if (Array.isArray(data.gallery)) {
+    data.gallery.forEach(url => {
       const img = document.createElement("img");
       img.src = url;
-      img.alt = "写真图集";
       img.onerror = () => img.style.display = 'none';
       galleryDiv.appendChild(img);
     });
   }
 
-  initRelatedDramas(actressData.related_dramas);
+  initRelatedDramas(data.related_dramas);
 }
 
-let relatedDramas = [], relatedFiltered = [], relatedCurrentPage = 1, relatedPageSize = 12;
+/********************************/
+let relatedDramas = [], relatedFiltered = [];
+let relatedCurrentPage = 1, relatedPageSize = 12;
 
 function renderRelatedPage(page) {
   const container = document.getElementById('relatedDramasGrid');
@@ -241,33 +357,33 @@ function renderRelatedPage(page) {
 
   const prevBtn = document.createElement('button');
   prevBtn.textContent = '上一页';
-  prevBtn.disabled = relatedCurrentPage === 1;
-  prevBtn.onclick = () => { if(relatedCurrentPage>1){ relatedCurrentPage--; renderRelatedPage(relatedCurrentPage); } };
+  prevBtn.disabled = (page === 1);
+  prevBtn.onclick = () => { relatedCurrentPage--; renderRelatedPage(relatedCurrentPage); };
   pagination.appendChild(prevBtn);
 
   const pageInfo = document.createElement('span');
-  pageInfo.innerHTML = `第 <input type="number" min="1" max="${totalPages}" value="${relatedCurrentPage}" id="jumpRelatedPage"> 页 / 共 ${totalPages} 页`;
+  pageInfo.innerHTML = `第 <input type="number" min="1" max="${totalPages}" value="${page}" id="jumpRelatedPage"> 页 / 共 ${totalPages} 页`;
   pagination.appendChild(pageInfo);
 
   const jumpBtn = document.createElement('button');
   jumpBtn.textContent = '跳转';
   jumpBtn.onclick = () => {
     const val = parseInt(document.getElementById('jumpRelatedPage').value);
-    if(val>=1 && val<=totalPages) { relatedCurrentPage = val; renderRelatedPage(relatedCurrentPage); }
+    if(val>=1 && val<=totalPages) { relatedCurrentPage = val; renderRelatedPage(val); }
   };
   pagination.appendChild(jumpBtn);
 
   const nextBtn = document.createElement('button');
   nextBtn.textContent = '下一页';
-  nextBtn.disabled = relatedCurrentPage === totalPages;
-  nextBtn.onclick = () => { if(relatedCurrentPage<totalPages){ relatedCurrentPage++; renderRelatedPage(relatedCurrentPage); } };
+  nextBtn.disabled = (page === totalPages);
+  nextBtn.onclick = () => { relatedCurrentPage++; renderRelatedPage(relatedCurrentPage); };
   pagination.appendChild(nextBtn);
 }
 
 function initRelatedDramas(dramas) {
-  if(Array.isArray(dramas) && dramas.length>0) {
+  if (Array.isArray(dramas) && dramas.length > 0) {
     relatedDramas = dramas;
-    relatedFiltered = relatedDramas;
+    relatedFiltered = dramas;
     renderRelatedPage(relatedCurrentPage);
   } else {
     document.getElementById('relatedDramasGrid').innerHTML = "<p>暂无相关影片</p>";
