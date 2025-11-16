@@ -1,3 +1,5 @@
+/* header.css */
+
 /* 顶部栏 */
 .headerbar {
   position: fixed;
@@ -9,7 +11,7 @@
   color: #fff;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; /* 主要内容居中 */
   padding: 0 20px;
   box-sizing: border-box;
   z-index: 9999;
@@ -17,14 +19,29 @@
   font-family: "微软雅黑", sans-serif;
 }
 
-/* Logo */
-.headerbar .logo {
-  font-weight: bold;
-  font-size: 18px;
-  color: #ffcc00;
+/* logo 容器，垂直排列，靠左 */
+.headerbar .logo-wrap {
+  display: flex;
+  flex-direction: column;   /* 上下排列 */
+  justify-content: center;  /* 垂直居中 */
+  align-items: flex-start;  /* 左对齐 */
   position: absolute;
   left: 20px;
-  text-decoration: none; /* 去掉下划线 */
+  top: 0;
+  bottom: 0;
+}
+
+/* 每个 logo 样式 */
+.headerbar .logo-wrap .logo,
+.headerbar .logo-wrap a.logo {
+  display: block;
+  text-align: left;
+  margin: 2px 0;
+  font-weight: bold;
+  color: #ffcc00;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 1.2;
 }
 
 /* 菜单 */
@@ -41,6 +58,7 @@
   font-size: 14px;
   padding: 5px 0;
 }
+
 .headerbar nav a:hover {
   color: #ffcc00;
 }
@@ -65,6 +83,7 @@
     position: absolute;
     top: 60px;
     left: 0;
+    padding: 10px 0;
   }
 
   .headerbar nav.show {
