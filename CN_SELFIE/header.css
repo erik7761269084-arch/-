@@ -34,7 +34,7 @@
   padding-top: 10px;
 }
 
-/* 菜单链接，每行固定8个 */
+/* 菜单链接，每行固定11个 */
 .headerbar nav a {
   color: #fff;
   text-decoration: none;
@@ -43,11 +43,10 @@
   border-radius: 5px;
   font-size: 14px;
   white-space: nowrap;
-  flex: 1 0 calc(12.5% - 8px); /* ⭐ 100% / 8 = 12.5% */
+  flex: 1 0 calc(9.09% - 8px); /* ⭐ 100% / 11 = 9.09% */
   text-align: center;
   transition: 0.25s;
 }
-
 .headerbar nav a:hover {
   color: #ffcc00;
   background: rgba(255,204,0,0.18);
