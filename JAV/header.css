@@ -1,4 +1,3 @@
-/* 顶部栏 */
 .headerbar {
   position: fixed;
   top: 0;
@@ -9,35 +8,32 @@
   color: #fff;
   display: flex;
   align-items: center;
-  justify-content: space-between; /* 三个区块分开 */
+  justify-content: center; /* 中间 nav 居中 */
   padding: 0 20px;
   box-sizing: border-box;
   z-index: 9999;
   box-shadow: 0 2px 5px rgba(0,0,0,0.3);
   font-family: "微软雅黑", sans-serif;
+  position: relative; /* 必须有，给 logo 和汉堡做参考 */
 }
 
 /* 左侧 logo */
-.logo-wrapper {
+.logo-wrap {
+  position: absolute;
+  left: 20px;
   display: flex;
-  gap: 20px;       /* 御女宫 和 日本AV区 间距 */
-  flex-shrink: 0;  /* 避免压缩 */
+  gap: 20px;
+  align-items: center;
 }
 
-.headerbar .logo {
+.logo {
   font-weight: bold;
   font-size: 18px;
   color: #ffcc00;
-  text-decoration: none; /* 去掉下划线 */
+  text-decoration: none;
 }
 
-/* 中间导航菜单 */
-.nav-wrapper {
-  flex: 1;                 /* 占满剩余空间 */
-  display: flex;
-  justify-content: center; /* 导航居中 */
-}
-
+/* 中间菜单 */
 .headerbar nav {
   display: flex;
   gap: 20px;
@@ -51,17 +47,21 @@
   font-size: 14px;
   padding: 5px 0;
 }
+
 .headerbar nav a:hover {
   color: #ffcc00;
 }
 
-/* 右侧汉堡按钮 */
+/* 汉堡按钮 */
 .hamburger {
   display: none;
   font-size: 26px;
   color: #fff;
   cursor: pointer;
-  flex-shrink: 0;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 /* 手机模式 */
@@ -70,37 +70,18 @@
     display: block;
   }
 
-  .headerbar {
-    padding-bottom: 10px;
-  }
-
-  /* 导航隐藏，点击显示 */
   .headerbar nav {
     display: none;
-    flex-wrap: wrap;          /* 允许换行 */
+    flex-direction: column;
     width: 100%;
-    margin-left: 0;
-    margin-top: 8px;
+    background: #1a1a1a;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    padding: 10px 0;
   }
 
   .headerbar nav.show {
     display: flex;
-  }
-
-  /* 手机端每行4个 */
-  .headerbar nav a {
-    flex: 1 0 25%;            /* 每行4个 */
-    font-size: 16px;
-    padding: 8px 0;
-    text-align: center;
-  }
-
-  /* Logo 居中显示 */
-  .logo {
-    float: none;
-    width: 100%;
-    text-align: center;
-    line-height: normal;
-    margin: 8px 0;
   }
 }
