@@ -85,6 +85,23 @@ body {
 #footer-placeholder {
   margin-top: auto;
 }
+
+/* 手机模式：小屏幕卡片一行一个 */
+@media (max-width: 992px) {
+  #companyGrid {
+    grid-template-columns: 1fr; /* 每行一个 */
+    gap: 20px;
+  }
+
+  .card {
+    aspect-ratio: 16 / 9;  /* 可以保持长宽比，也可以改成 4/3 更大 */
+    width: 100%;
+  }
+
+  .card img {
+    object-fit: cover;
+  }
+}
 </style>
 </head>
 <body>

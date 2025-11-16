@@ -1,121 +1,84 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AV公司目录</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>频道首页</title>
 <style>
 body {
   margin: 0;
   font-family: "微软雅黑", sans-serif;
-  background-color: #0d0d0d;
+  background: #0d0d0d;
   color: #fff;
+  padding: 20px;
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-  padding-top: 70px; /* 顶部 header 高度预留 */
+  min-height: 100vh; /* 让 footer 靠底 */
 }
 
 /* 页面标题 */
 .page-title {
-  text-align: center;
-  font-size: 28px;
-  font-weight: bold;
-  color: #ffa500; /* 橙黄色 */
-  margin-bottom: 30px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffa500;
+    margin-bottom: 40px;
 }
 
-/* 主内容 */
-#mainContent {
-  flex: 1;
-  padding: 0 20px 20px;
-}
-
-/* 网格布局，每行3个，占满宽度 */
+/* 卡片布局 */
 #companyGrid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 25px;
-  justify-items: stretch;
+  grid-template-columns: repeat(3, 1fr); /* 一行三张最大化显示 */
+  gap: 20px;
+  margin-bottom: 40px;
 }
 
-/* 卡片样式 */
+/* 卡片 */
 .card {
-  background-color: #1a1a1a;
+  background: #1a1a1a;
   border-radius: 12px;
   overflow: hidden;
   cursor: pointer;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-  text-align: center;
-  width: 100%;
   aspect-ratio: 16 / 9;
   position: relative;
+  transition: transform .25s, box-shadow .25s;
 }
 .card:hover {
   transform: scale(1.05);
-  box-shadow: 0 6px 16px rgba(255,255,255,0.2);
+  box-shadow: 0 6px 16px rgba(255,255,255,.25);
 }
-
-.card-img-wrapper {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  background-color: #222;
-  overflow: hidden;
-}
-
 .card img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  opacity: 0.6;
-  transition: opacity 0.3s;
+  opacity: .55;
+  transition: opacity .3s;
 }
-
 .card:hover img {
-  opacity: 0.3;
+  opacity: .25;
 }
-
 .card-overlay {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 50%; left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
 }
-
 .card-title {
-  color: #fff;
   font-size: 22px;
   font-weight: bold;
-  text-shadow: 0 0 8px rgba(0,0,0,0.8);
-  margin-bottom: 6px;
+  text-shadow: 0 0 10px rgba(0,0,0,.8);
 }
 
-.card-info {
-  font-size: 14px;
-  color: #ccc;
+/* 文字列表 */
+.channel-list {
+  margin-top: 20px;
 }
-
-/* 响应式调整：手机端每行1-2个 */
-@media (max-width: 992px) {
-  #companyGrid {
-    grid-template-columns: repeat(2, 1fr);
-  }
+.channel-list p {
+  margin: 6px 0;
 }
-@media (max-width: 600px) {
-  #companyGrid {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* 固定 header 占位 */
-#header-placeholder {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 999;
+.channel-list a {
+  color: #ffa500;
+  text-decoration: none;
 }
 
 /* 底部 footer */
@@ -126,83 +89,43 @@ body {
 </head>
 <body>
 
-<!-- 顶部 header -->
-<div id="header-placeholder"></div>
-
-<!-- 页面标题 -->
-<div class="page-title">御女宫网站分类</div>
-
-<div id="mainContent">
-  <div id="companySection">
-    <div id="companyGrid"></div>
-  </div>
-</div>
+<h1 class="page-title" id="page-title">御女宫 · 分类导航</h1>
+ 
+<!-- 底部三个卡片 -->
+<div id="companyGrid"></div>
 
 <!-- 底部 footer -->
-<div id="footer-placeholder"></div>
+<div id="footer-placeholder"></div> 
 
 <script>
-/* ========== 加载顶部 header.html + header.js ========== */
-fetch('header.html')
-  .then(r => r.text())
-  .then(html => {
-    document.getElementById('header-placeholder').innerHTML = html;
-    const s = document.createElement('script');
-    s.src = 'header.js';
-    s.onload = () => {
-      if (typeof initHeaderMenu === 'function') initHeaderMenu();
-      if (typeof setActiveMenu === 'function') setActiveMenu('menu-home');
-    };
-    document.body.appendChild(s);
-  })
-  .catch(e => console.warn('无法加载 header.html:', e));
+// 底部三个卡片数据
+const companyList = [
+  { company: "国产AV网站", company_url: "./CN_AV/index.html", img_url: "https://picmeta2024.sbs/upload/vod/20230820-1/0795de893a1526f058a7512764085c20.jpg" },
+  { company: "日本AV", company_url: "./JAV/index.html", img_url: "https://picture.yoshiclub.xyz/20250327/370cdc51-a89c-421b-ad1f-f06b8551e8bc.jpg" },
+  { company: "香港三级片区", company_url: "./HongKongSex/index.html", img_url: "https://img.cdn202511.com/videos/202509/04/68b8cf11d640eb31dfab4334/cover.jpg" },
+  { company: "国产自拍区", company_url: "./CN_SELFIE/index.html", img_url: "https://img1.souavzy.org/upload/vod/20250507-1/15edb2fc0410e2937af444c2c7443e7d.jpg" },
+  { company: "COS福利姬图库", company_url: "./福利姬频道总目录/index.html", img_url: "https://tutu1.space/images/2025/10/04/6b7ff4a2a8d95d22cedc3788e2f4e4af.jpg" }
+];
 
-/* ========== 加载底部 footer.html ========== */
-fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
+const container = document.getElementById("companyGrid");
+companyList.forEach(item => {
+  const div = document.createElement("div");
+  div.className = "card";
+  div.onclick = () => window.location.href = item.company_url;
+  div.innerHTML = `
+    <img src="${item.img_url}" alt="${item.company}">
+    <div class="card-overlay">
+      <div class="card-title">${item.company}</div>
+    </div>
+  `;
+  container.appendChild(div);
+});
+
+// 加载底部 footer.html
+fetch('https://yunvgong.com/footer.html')
   .then(r => r.text())
   .then(html => document.getElementById('footer-placeholder').innerHTML = html)
   .catch(e => console.warn('无法加载 footer.html:', e));
-
-/* 公司列表加载 */
-async function loadCompanies() {
-  try {
-    const res = await fetch("https://yunvgong.com/category_net.json");
-    const data = await res.json();
-    const companies = data.filter(c => c.company && c.company.trim() !== "");
-    renderCompanies(companies);
-  } catch (e) {
-    console.error("加载公司数据失败:", e);
-    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>无法加载公司数据，请稍后重试。</p>";
-  }
-}
-
-function renderCompanies(companies) {
-  const container = document.getElementById('companyGrid');
-  container.innerHTML = '';
-  companies.forEach(c => {
-    const card = document.createElement('div');
-    card.className = 'card';
-    card.onclick = () => {
-      if (c.company_url && c.company_url.trim()) {
-        window.location.href = c.company_url;
-      } else {
-        alert('暂无链接可访问');
-      }
-    };
-    const img = c.img_url || "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
-    card.innerHTML = `
-      <div class="card-img-wrapper">
-        <img src="${img}" alt="${c.company}">
-        <div class="card-overlay">
-          <div class="card-title">${c.company}</div>
-        </div>
-      </div>`;
-    container.appendChild(card);
-  });
-}
-
-// 初始化加载
-loadCompanies();
 </script>
 
 </body>
