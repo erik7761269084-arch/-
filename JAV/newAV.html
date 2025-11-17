@@ -20,6 +20,14 @@ body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; colo
 .star { color:gold; }
 .date { display:flex; align-items:center; gap:4px; }
 .date::before { content:"📅"; }
+/* 固定 header */
+#header-placeholder {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
 </style>
 </head>
 <body>
