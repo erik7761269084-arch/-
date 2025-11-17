@@ -124,24 +124,25 @@ body {
   <div class="actress-grid" id="actressGrid"></div>
 </section>
 
-<!-- 厂商 -->
+ 
+
+<!-- 国产AV -->
 <section>
   <div class="section-title-row">
     <div class="section-title">日本动漫</div>
     <a href="https://yunvgong.com/EcchiAnime/JapanHentai" class="more-link" target="_blank">看更多 ›</a>
   </div>
-  <div class="company-wrap">
-    <div class="grid-5" id="companyGrid"></div>
-  </div>
+  <div class="drama-grid" id="JapanAnime"></div>
 </section>
 
-<!-- 国产AV -->
+
+<!-- 3D动漫 -->
 <section>
   <div class="section-title-row">
     <div class="section-title">3D</div>
     <a href="https://yunvgong.com/EcchiAnime/3D" class="more-link" target="_blank">看更多 ›</a>
   </div>
-  <div class="drama-grid" id="chinaGrid"></div>
+  <div class="drama-grid" id="3Danime"></div>
 </section>
 
 <!-- 底部 footer -->
@@ -289,9 +290,9 @@ async function loadCompanyList() {
   });
 }
 
-/* 国产AV专区 */
+/* 3D动漫专区 */
 async function loadChinaDramas() {
-  const target = document.getElementById('chinaGrid');
+  const target = document.getElementById('3Danime');
   target.innerHTML = ''; // 清空原有内容
 
   const script = document.createElement('script');
@@ -324,12 +325,50 @@ async function loadChinaDramas() {
 }
 
 
+/* 日本动漫专区 */
+async function loadJapanAnimeDramas() {
+  const target = document.getElementById('JapanAnime');
+  target.innerHTML = ''; // 清空原有内容
+
+  const script = document.createElement('script');
+  script.src = 'https://yunvgong.com/EcchiAnime/category/JapanHentai_page/page_1.js';
+  script.onload = () => {
+    if (typeof window.PAGE_DATA !== 'undefined') {
+      const list = window.PAGE_DATA.slice(0, 30); // 取前30条
+      list.forEach(d => {
+        const card = document.createElement('div');
+        card.className = 'drama-card';
+        const actressStr = Array.isArray(d.actress) ? d.actress.join('、') : (d.actress || '');
+        card.innerHTML = `<div style="position:relative;">
+            <img src="${d.cover_url||''}" alt="${d.title||''}">
+            <div class="actor">${actressStr}</div>
+            <div class="card-type">${d.type||''}</div>
+          </div>
+          <div class="drama-info">
+            <div class="idcode">${d.IDcode||''}</div>
+            <div class="title">${d.title||''}</div>
+            <div class="meta"><span>📅 ${d.publish_date||''}</span><span>⭐ ${d.rating||''}</span></div>
+          </div>`;
+        card.onclick = () => { if(d.title_play_url) window.location.href = d.title_play_url; };
+        target.appendChild(card);
+      });
+    } else {
+      console.error("page_1.js 未定义 window.PAGE_DATA");
+    }
+  };
+  document.body.appendChild(script);
+}
+
+
+
 document.addEventListener('DOMContentLoaded', () => {
   loadCategories();
   loadLatestAV();    // 这里改为加载 latest_100.js
   loadActresses();
   loadCompanyList();
   loadChinaDramas();
+  loadJapanAnimeDramas();
+  
 });
 </script>
 </body>
