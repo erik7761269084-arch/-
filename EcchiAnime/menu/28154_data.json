@@ -1,8 +1,9 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/68ecfa9c55001e4ba83adb15.m3u8",
-    "线路2": "https://voddadaizi.com:52866/videos/202503/13/67d2da80cf22ae3e0437b9c5/fb268c/index.m3u8",
-    "线路3": "https://lsbbf5.com/20251029/YI6lOwEq/index.m3u8"
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/68ecfa9c55001e4ba83adb15.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202503/13/67d2da80cf22ae3e0437b9c5/fb268c/index.m3u8",
+    "线路4": "https://lsbbf5.com/20251029/YI6lOwEq/index.m3u8"
   },
   "seriesInfo": {
     "id": 28154,

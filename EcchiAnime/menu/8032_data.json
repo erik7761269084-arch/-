@@ -1,8 +1,9 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/68e8ca12c1740d4b9b5a01a7.m3u8",
-    "线路2": "https://voddadaizi.com:52866/videos/202505/14/6823e76766c0176549f89baa/f947c8/index.m3u8",
-    "线路3": "https://voddadaizi.com:52866/videos/202503/05/67c8589e29ca3a5aed92b13a/efa236/index.m3u8"
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/68e8ca12c1740d4b9b5a01a7.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202505/14/6823e76766c0176549f89baa/f947c8/index.m3u8",
+    "线路4": "https://voddadaizi.com:52866/videos/202503/05/67c8589e29ca3a5aed92b13a/efa236/index.m3u8"
   },
   "seriesInfo": {
     "id": 8032,
