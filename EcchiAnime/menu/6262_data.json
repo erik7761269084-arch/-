@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/13/eda7310e/index.m3u8"
+    "主线路": "https://b.gg155gg1.com/20241217/yeCR3Es2/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/09/13/eda7310e/index.m3u8",
+    "线路3": "https://lsbbf2.com/20231009/S1WTEKVp/index.m3u8"
   },
   "seriesInfo": {
     "id": 6262,
     "title": "肉体転移第一章",
     "publish_date": "2025-05-19",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",

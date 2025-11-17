@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/02/681421a5361668305a95ba43/57bd4a/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/02/681421a5361668305a95ba43/57bd4a/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/05/67c8573d29ca3a5aed92558b/b28ce2/index.m3u8"
   },
   "seriesInfo": {
     "id": 8260,
     "title": "催眠☆学园4",
-    "publish_date": "",
+    "publish_date": "2024-07-17",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/02/681421a5361668305a95ba43/cover.jpg",

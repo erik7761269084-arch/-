@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220812/7yjg4TMJ/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220812/7yjg4TMJ/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/EFO82fsf/index.m3u8"
   },
   "seriesInfo": {
     "id": 3228,
     "title": "InjuuSeisen：TwinAngels3＆4",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/kudmv5c5shu.jpg",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20230915/xCNtSV15/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/23/680877484e7d663df42cf8af/f947c1/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/20/67b749e34e7d663df4885e81/189e64/index.m3u8",
+    "线路3": "https://lsbbf2.com/20230915/xCNtSV15/index.m3u8"
   },
   "seriesInfo": {
     "id": 24110,
     "title": "都市传说系列4",
-    "publish_date": "",
+    "publish_date": "2017-01-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8bc0cc77125b8c8361c43eae3ead844f.jpg",

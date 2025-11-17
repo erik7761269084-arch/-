@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/movie/auto/6901f645958ac04f275a6100.m3u8"
+    "主线路": "https://thm3u8.com/20250327/uHpfitYX/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/6901f645958ac04f275a6100.m3u8"
   },
   "seriesInfo": {
     "id": 7197,
-    "title": "中文字幕-探索欢爱新境界2",
+    "title": "探索欢爱新境界2",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/29/6901f645958ac04f275a6100/poster2.jpg",

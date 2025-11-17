@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://voddadaizi.com:52866/videos/202504/25/680b26874e7d663df43690d3/669101/index.m3u8",
-    "线路2": "https://lsbbf2.com/20230915/zYD6vmDn/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cf6ae2a47ebb1a8cae1ce/2a6bb9/index.m3u8",
+    "线路3": "https://lsbbf2.com/20230915/zYD6vmDn/index.m3u8"
   },
   "seriesInfo": {
     "id": 8393,
     "title": "工作一族的恋爱故事",
-    "publish_date": "",
+    "publish_date": "2016-12-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/dcb720b24dbc4edcef0d35e19c8fbccf.jpg",

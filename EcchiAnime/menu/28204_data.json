@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20251028/OUtpxVzO/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/23/680876714e7d663df42cf870/bf9ba1/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/23/67e025254e7d663df42000da/9510af/index.m3u8",
+    "线路3": "https://lsbbf5.com/20251028/OUtpxVzO/index.m3u8"
   },
   "seriesInfo": {
     "id": 28204,
     "title": "催眠性指导6",
-    "publish_date": "",
+    "publish_date": "2022-03-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/ca3d9f924b0af3af055b6c89527d1d48.jpg",

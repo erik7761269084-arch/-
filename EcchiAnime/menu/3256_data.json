@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220812/JhFr2Z2I/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220812/JhFr2Z2I/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/4usoVR0h/index.m3u8"
   },
   "seriesInfo": {
     "id": 3256,
     "title": "G-テイスト3-G-Taste3",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",

@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://voddadaizi.com:52866/videos/202505/06/681a18d023f3367fd31c98d9/195cdg/index.m3u8",
-    "线路2": "https://lsbbf5.com/20251109/IbE8b2pO/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678c9354c179ffb1dba284c1/6bcc9b/index.m3u8",
+    "线路3": "https://lsbbf5.com/20251109/IbE8b2pO/index.m3u8"
   },
   "seriesInfo": {
     "id": 8195,
     "title": "对魔忍雪风1",
-    "publish_date": "",
+    "publish_date": "2013-11-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/4b3933ae493e886f2c7dc5d261318767.jpg",

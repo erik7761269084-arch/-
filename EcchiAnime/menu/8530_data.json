@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/19/68032d91cf22ae3e0457b040/6gebd0/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/19/68032d91cf22ae3e0457b040/6gebd0/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/27/67e4312ccf22ae3e04829009/3b9682/index.m3u8"
   },
   "seriesInfo": {
     "id": 8530,
-    "title": "好色上班族2 第2話",
-    "publish_date": "",
+    "title": "好色上班族2第2話",
+    "publish_date": "2022-12-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/19/68032d91cf22ae3e0457b040/cover.jpg",

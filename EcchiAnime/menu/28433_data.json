@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20251019/1HuoBoA2/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/22/680707214e7d663df4240fe9/89a8be/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/26/67e36262cf22ae3e04778570/159e7b/index.m3u8",
+    "线路3": "https://lsbbf5.com/20251019/1HuoBoA2/index.m3u8"
   },
   "seriesInfo": {
     "id": 28433,
     "title": "便利商店少女Z4",
-    "publish_date": "",
+    "publish_date": "2022-08-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/7b3440a95655681bc336d50e584e6f42.jpg",

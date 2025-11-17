@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20240219/9hRjWuvz/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/25/6832be9035d00134fb84fa2e/0537d4/index.m3u8",
+    "线路2": "https://play.modujx10.com/20240219/9hRjWuvz/index.m3u8"
   },
   "seriesInfo": {
     "id": 38512,
     "title": "巫女神大人",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/29/297051.avif?1751099865",

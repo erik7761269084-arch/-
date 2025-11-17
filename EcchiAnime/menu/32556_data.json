@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20231009/CkRWLKby/index.m3u8"
+    "主线路": "https://lsbbf2.com/20231009/CkRWLKby/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/7RMhnAQY/index.m3u8"
   },
   "seriesInfo": {
     "id": 32556,
     "title": "3DProductions5",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/8e0cd8bac6afb7cb321aa77ad3ccb046.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/03/6815911f361668305a9c71ac/06gebc/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/03/6815911f361668305a9c71ac/06gebc/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cf1b6c179ffb1dba28b02/14e27d/index.m3u8"
   },
   "seriesInfo": {
     "id": 8237,
-    "title": "鬼父 3.",
-    "publish_date": "",
+    "title": "鬼父3.",
+    "publish_date": "2016-12-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/03/6815911f361668305a9c71ac/cover.jpg",

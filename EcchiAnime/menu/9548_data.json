@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202502/21/67b86f0ecf22ae3e04d7ddf6/c754e8/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202502/21/67b86f0ecf22ae3e04d7ddf6/c754e8/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678c9222c179ffb1dba2847f/9855a9/index.m3u8"
   },
   "seriesInfo": {
     "id": 9548,
-    "title": "2017.4-天使与恶魔的榨精大战～2",
-    "publish_date": "",
+    "title": "天使与恶魔的榨精大战～2",
+    "publish_date": "2017-04-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b86f0ecf22ae3e04d7ddf6/cover.jpg",

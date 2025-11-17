@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202501/19/678c87a8c179ffb1dba283ed/33094b/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202501/19/678c87a8c179ffb1dba283ed/33094b/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678c9ec4c179ffb1dba285c1/f7a262/index.m3u8"
   },
   "seriesInfo": {
     "id": 9735,
-    "title": "2013.7-JK与兽人兵团～被恶猪鬼凌虐的圣女学",
-    "publish_date": "",
+    "title": "JK与兽人兵团～被恶猪鬼凌虐的圣女学",
+    "publish_date": "2013-07-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/19/678c87a8c179ffb1dba283ed/cover.jpg",

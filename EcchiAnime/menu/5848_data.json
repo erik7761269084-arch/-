@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/68665e85aec0eb1d4bba42a7.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/68665e85aec0eb1d4bba42a7.m3u8",
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/68665e85aec0eb1d4bba42a7.m3u8"
   },
   "seriesInfo": {
     "id": 5848,
-    "title": "纳希莫夫合集 ，猫猫太淘气了 那就得狠狠用肉棒惩罚！",
+    "title": "纳希莫夫合集，猫猫太淘气了那就得狠狠用肉棒惩罚！",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "3D动漫"
     ],

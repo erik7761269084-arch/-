@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20230715/ld8OkobR/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202506/17/tLn3DN7r102/video/index.m3u8",
+    "线路2": "https://play.modujx10.com/20230715/ld8OkobR/index.m3u8"
   },
   "seriesInfo": {
     "id": 39236,
     "title": "STAIRS放學後的相簿",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/301600.avif?1751099503",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/23/680873844e7d663df42cf818/07888a/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/23/680873844e7d663df42cf818/07888a/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/22/67de553d4e7d663df40e3e95/e23bee/index.m3u8"
   },
   "seriesInfo": {
     "id": 8444,
     "title": "爸爸喝骂！1",
-    "publish_date": "",
+    "publish_date": "2021-12-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/23/680873844e7d663df42cf818/cover.jpg",

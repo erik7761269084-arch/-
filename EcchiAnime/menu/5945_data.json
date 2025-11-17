@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/681703e4362b08f5db84b3b1.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/681703e4362b08f5db84b3b1.m3u8",
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/681703e4362b08f5db84b3b1.m3u8"
   },
   "seriesInfo": {
     "id": 5945,
-    "title": "哥布林的巢穴 第一集 巡礼者",
+    "title": "哥布林的巢穴第一集巡礼者",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "日本里番"
     ],

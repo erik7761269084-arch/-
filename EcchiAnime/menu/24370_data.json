@@ -1,14 +1,17 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20230915/iLe2lTx9/index.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/68ce6191c1740d4b9b873e0e.m3u8",
+    "线路2": "https://lsbbf2.com/20230915/iLe2lTx9/index.m3u8"
   },
   "seriesInfo": {
     "id": 24370,
     "title": "与魅魔的同居生活1",
     "publish_date": "",
     "type": "无码",
-    "company": "",
-    "genres": [],
+    "company": "[]",
+    "genres": [
+      "日本里番"
+    ],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f2c77cfce34a4a1a160e291a51050c3f.jpg",
     "background_img": "",

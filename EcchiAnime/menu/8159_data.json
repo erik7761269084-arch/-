@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://voddadaizi.com:52866/videos/202505/08/681c9a4a23f3367fd32c4695/7d3673/index.m3u8",
-    "线路2": "https://lsbbf5.com/20251027/m381T5wF/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678c8ad1c179ffb1dba28408/b154e9/index.m3u8",
+    "线路3": "https://lsbbf5.com/20251027/m381T5wF/index.m3u8"
   },
   "seriesInfo": {
     "id": 8159,
     "title": "纯情少女系1",
-    "publish_date": "",
+    "publish_date": "2013-08-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/50d763cc520c9fa1dab8c7c3c949ddbb.jpg",

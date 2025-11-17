@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/07/67f377935ccf0747528d47ad/c063e0/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/07/67f377935ccf0747528d47ad/c063e0/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250510/6eIlNYN5/index.m3u8"
   },
   "seriesInfo": {
     "id": 8828,
-    "title": "2023.8-这份恋情望你察觉",
-    "publish_date": "",
+    "title": "这份恋情望你察觉",
+    "publish_date": "2023-08-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f377935ccf0747528d47ad/cover.jpg",

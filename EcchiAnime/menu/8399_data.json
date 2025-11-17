@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/25/680b2f46cf22ae3e0483a303/20gga1/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/25/680b2f46cf22ae3e0483a303/20gga1/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/21/67b8899f4e7d663df48c18ca/6fda29/index.m3u8"
   },
   "seriesInfo": {
     "id": 8399,
     "title": "精神不稳定歩理的无止尽强求2",
-    "publish_date": "",
+    "publish_date": "2017-08-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/25/680b2f46cf22ae3e0483a303/cover.jpg",

@@ -1,14 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20240723/dlOam2Wr/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20240723/dlOam2Wr/index.m3u8",
+    "线路2": "https://b.gg155gg1.com/20241223/6jlGAls0/index.m3u8",
+    "线路3": "https://lsbbf2.com/20231009/miU57HNd/index.m3u8"
   },
   "seriesInfo": {
     "id": 3776,
-    "title": "IF VALIANT SIN FAY",
+    "title": "IFVALIANTSINFAY",
     "publish_date": "",
     "type": "无码",
-    "company": "",
-    "genres": [],
+    "company": "[]",
+    "genres": [
+      "3D动漫"
+    ],
     "description": "",
     "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
     "background_img": "",

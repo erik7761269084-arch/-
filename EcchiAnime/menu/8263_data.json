@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/02/6814203d361668305a95ba01/258d0f/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/02/6814203d361668305a95ba01/258d0f/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cf1532a47ebb1a8cae1aa/4dea62/index.m3u8"
   },
   "seriesInfo": {
     "id": 8263,
     "title": "从今以后我……2",
-    "publish_date": "",
+    "publish_date": "2016-12-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/02/6814203d361668305a95ba01/cover.jpg",

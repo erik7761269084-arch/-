@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20251023/ryUi0e6W/index.m3u8"
+    "主线路": "https://lsbbf5.com/20251023/ryUi0e6W/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250510/Q3bMcuJ5/index.m3u8"
   },
   "seriesInfo": {
     "id": 28347,
     "title": "惩戒2第3话",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/0c4b2afdf1722c3664d94e9c3baa8369.jpg",

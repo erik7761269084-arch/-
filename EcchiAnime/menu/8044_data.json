@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/14/6823e40c9ed5b270bc9640b1/be30f3/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/14/6823e40c9ed5b270bc9640b1/be30f3/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/09/67cd8ce8cf22ae3e042990d1/fgaae2/index.m3u8"
   },
   "seriesInfo": {
     "id": 8044,
     "title": "露妮的药房～蒂亚娜岛上的药剂师～4",
-    "publish_date": "",
+    "publish_date": "2019-12-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/14/6823e40c9ed5b270bc9640b1/cover.jpg",

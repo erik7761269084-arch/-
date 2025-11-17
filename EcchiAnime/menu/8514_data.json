@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/20/680475764e7d663df4129c5a/degd0f/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/20/680475764e7d663df4129c5a/degd0f/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/21/67b8873ccf22ae3e04db4f77/g4g058/index.m3u8"
   },
   "seriesInfo": {
     "id": 8514,
     "title": "欢迎光临！水龙敬乐园1",
-    "publish_date": "",
+    "publish_date": "2017-08-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/20/680475764e7d663df4129c5a/cover.jpg",

@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202505/24/ZZ405WHR042/video/index.m3u8",
-    "线路2": "https://play.modujx10.com/20230708/1IWyvwQH/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202502/21/67b86f11cf22ae3e04d7ddf7/487g91/index.m3u8",
+    "线路3": "https://play.modujx10.com/20230708/1IWyvwQH/index.m3u8"
   },
   "seriesInfo": {
     "id": 1520,
     "title": "我和美咲老師",
-    "publish_date": "",
+    "publish_date": "2017-04-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/301951.avif?1751099463",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20230915/kNm07ZLr/index.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/68e8ca1355001e4ba8ad1e89.m3u8",
+    "线路2": "https://lsbbf2.com/20230915/kNm07ZLr/index.m3u8"
   },
   "seriesInfo": {
     "id": 24369,
     "title": "一求乳魂4",
-    "publish_date": "",
+    "publish_date": "2024-07-17",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e7bde7059892fb48b8da0bb975afbd8c.jpg",

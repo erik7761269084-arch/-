@@ -1,14 +1,17 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250721/3dVt4tRy/index.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/68c3d978b871272cc3a2a793.m3u8",
+    "线路2": "https://thm3u8.com/20250721/3dVt4tRy/index.m3u8"
   },
   "seriesInfo": {
     "id": 2420,
     "title": "勇者姬米莉娅2",
     "publish_date": "",
     "type": "无码",
-    "company": "",
-    "genres": [],
+    "company": "[]",
+    "genres": [
+      "日本里番"
+    ],
     "description": "",
     "cover_url": "",
     "background_img": "",

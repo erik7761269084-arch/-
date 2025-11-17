@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20251025/JeP5aMud/index.m3u8"
+    "主线路": "https://lsbbf5.com/20251025/JeP5aMud/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250511/AZyUpLbk/index.m3u8"
   },
   "seriesInfo": {
     "id": 28300,
     "title": "初恋时间4",
-    "publish_date": "",
+    "publish_date": "2024-01-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/9003b6ce22cd43a6b1924b4d749c54c4.jpg",

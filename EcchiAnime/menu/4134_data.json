@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://b.gg155gg2.com/20240929/wdNoPoeR/index.m3u8"
+    "主线路": "https://b.gg155gg2.com/20240929/wdNoPoeR/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/09/17/e3f403b8/index.m3u8"
   },
   "seriesInfo": {
     "id": 4134,
-    "title": "[Green Bunny] 夜が来る！ 第1夜 双つの月",
-    "publish_date": "",
+    "title": "夜が来る！第1夜双つの月",
+    "publish_date": "2025-05-19",
     "type": "无码",
-    "company": "",
+    "company": "[\"Green Bunny\"]",
     "genres": [],
     "description": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20240930-1/1f144582f9cd07791f008bb27fa4ec8c.jpg",

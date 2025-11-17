@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20250917/r1K2v24j/index.m3u8"
+    "主线路": "https://lsbbf5.com/20250917/r1K2v24j/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/nQN4GqXo/index.m3u8"
   },
   "seriesInfo": {
     "id": 15811,
     "title": "Tinderbox2",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250918-1/3acf5c86222bc3a9418f0a3098dfa853.jpg",

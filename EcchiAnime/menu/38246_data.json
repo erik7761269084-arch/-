@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20230714/kIBLrNem/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202506/16/cgAB9fxPFF2/video/index.m3u8#第02集$https://bf3.qrtuv.com/smv1/202506/16/LsEtgXrgQ02/video/index.m3u8#第03集$https://bf3.qrtuv.com/smv1/202506/16/T16rD3pVSc2/video/index.m3u8",
+    "线路2": "https://play.modujx10.com/20230714/kIBLrNem/index.m3u8"
   },
   "seriesInfo": {
     "id": 38246,
     "title": "WAVER～SM的錯綜～",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/301654.avif?1751098536",

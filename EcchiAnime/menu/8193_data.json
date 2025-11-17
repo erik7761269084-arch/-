@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://voddadaizi.com:52866/videos/202505/06/681a1a2b23f3367fd31c98f3/a6gaaa/index.m3u8",
-    "线路2": "https://lsbbf5.com/20251111/pJEZtuPJ/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202503/05/67c857a429ca3a5aed92723b/5ggcf8/index.m3u8",
+    "线路3": "https://lsbbf5.com/20251111/pJEZtuPJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 8193,
     "title": "发情开关1",
-    "publish_date": "",
+    "publish_date": "2018-10-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/03be87a4837fd81aa57ad78a56bb9299.jpg",

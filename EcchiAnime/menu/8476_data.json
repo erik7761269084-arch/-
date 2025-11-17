@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/21/6805976ccf22ae3e04689b93/80d9b4/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/21/6805976ccf22ae3e04689b93/80d9b4/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/21/67dd70773037aaed4ff425fc/53b7f2/index.m3u8"
   },
   "seriesInfo": {
     "id": 8476,
     "title": "于是我就被叔叔给……4",
-    "publish_date": "",
+    "publish_date": "2021-11-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/21/6805976ccf22ae3e04689b93/cover.jpg",

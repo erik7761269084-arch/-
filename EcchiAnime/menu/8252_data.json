@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/02/68142363c57e2706695b432f/1f5ac8/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/02/68142363c57e2706695b432f/1f5ac8/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cf0ca89def9b1b81a3630/bf23a5/index.m3u8"
   },
   "seriesInfo": {
     "id": 8252,
     "title": "都市传说系列3.",
-    "publish_date": "",
+    "publish_date": "2016-11-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/02/68142363c57e2706695b432f/cover.jpg",

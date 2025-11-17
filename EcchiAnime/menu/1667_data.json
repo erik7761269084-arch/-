@@ -2,14 +2,15 @@
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202505/26/5Lt93StcPU2/video/index.m3u8",
     "线路2": "https://voddadaizi.com:52866/videos/202505/02/68141fe9361668305a95b9f6/ca1d5b/index.m3u8",
-    "线路3": "https://play.modujx10.com/20230709/GXFOIFxQ/index.m3u8"
+    "线路3": "https://voddadaizi.com:52866/videos/202501/19/678cefd289def9b1b81a336c/fgc5g1/index.m3u8",
+    "线路4": "https://play.modujx10.com/20230709/GXFOIFxQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 1667,
     "title": "不可以的事情",
-    "publish_date": "",
+    "publish_date": "2016-08-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/301871.avif?1751099474",

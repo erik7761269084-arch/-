@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20231009/MH87djBQ/index.m3u8"
+    "主线路": "https://lsbbf2.com/20231009/MH87djBQ/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/4uP16g60/index.m3u8"
   },
   "seriesInfo": {
     "id": 21417,
     "title": "PINKERTONVOL.3［モノリノ］",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/6853e59f4fb6192ceba51c0aa7f07b25.jpg",

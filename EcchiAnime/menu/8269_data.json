@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/01/6812efdf5b6f25c1695e26f0/g2cg15/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/01/6812efdf5b6f25c1695e26f0/g2cg15/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/28/67c12edd92a51c76e42fc1d9/c9c186/index.m3u8"
   },
   "seriesInfo": {
     "id": 8269,
     "title": "JK的避雨强制1",
-    "publish_date": "",
+    "publish_date": "2018-06-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/01/6812efdf5b6f25c1695e26f0/cover.jpg",

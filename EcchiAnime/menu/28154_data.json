@@ -1,14 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20251029/YI6lOwEq/index.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/68ecfa9c55001e4ba83adb15.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/13/67d2da80cf22ae3e0437b9c5/fb268c/index.m3u8",
+    "线路3": "https://lsbbf5.com/20251029/YI6lOwEq/index.m3u8"
   },
   "seriesInfo": {
     "id": 28154,
     "title": "村又小姐的秘密1",
-    "publish_date": "",
+    "publish_date": "2020-07-01",
     "type": "无码",
-    "company": "",
-    "genres": [],
+    "company": "[]",
+    "genres": [
+      "日本里番"
+    ],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/4bb9effe649851e0472269fa24f0d57c.jpg",
     "background_img": "",

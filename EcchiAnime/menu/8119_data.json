@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/11/682032c2c7cb4ba33f6d2a93/93617c/index.m3u8"
+    "主线路": "https://thm3u8.com/20250605/wglu8tlw/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202505/11/682032c2c7cb4ba33f6d2a93/93617c/index.m3u8"
   },
   "seriesInfo": {
     "id": 8119,
     "title": "魅魔再教育物語1",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/11/682032c2c7cb4ba33f6d2a93/cover.jpg",

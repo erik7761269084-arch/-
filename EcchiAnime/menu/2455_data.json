@@ -1,16 +1,17 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250727/8XJ4FxAd/index.m3u8"
+    "主线路": "https://thm3u8.com/20250727/8XJ4FxAd/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/18/678bf6d1f9a2e9b1d4b7481f/28gd01/index.m3u8"
   },
   "seriesInfo": {
     "id": 2455,
-    "title": "甜蜜日子 ～我与女友的七天",
-    "publish_date": "",
+    "title": "甜蜜日子～我与女友的七天",
+    "publish_date": "2012-03-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678bf6d1f9a2e9b1d4b7481f/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2455",
     "actresses": []

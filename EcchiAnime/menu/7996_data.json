@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/16/68269cc4130ac02b58831154/97d85c/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/16/68269cc4130ac02b58831154/97d85c/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/21/67b87beecf22ae3e04d7de3e/c48c5c/index.m3u8"
   },
   "seriesInfo": {
     "id": 7996,
     "title": "妻中寝3第2话",
-    "publish_date": "",
+    "publish_date": "2017-06-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/16/68269cc4130ac02b58831154/cover.jpg",

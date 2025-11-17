@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/15/6825477e130ac02b587cafe1/79991g/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/15/6825477e130ac02b587cafe1/79991g/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/05/67c84ec44e7d663df4d4606e/5712f7/index.m3u8"
   },
   "seriesInfo": {
     "id": 8023,
-    "title": "魔界骑士英格丽德：Re 1",
-    "publish_date": "",
+    "title": "魔界骑士英格丽德：Re1",
+    "publish_date": "2018-11-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/15/6825477e130ac02b587cafe1/cover.jpg",

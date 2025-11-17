@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202505/22/huxexNJ8ez2/video/index.m3u8#第02集$https://bf3.qrtuv.com/smv1/202505/22/UkhWDZKcLW2/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202505/22/huxexNJ8ez2/video/index.m3u8#第02集$https://bf3.qrtuv.com/smv1/202505/22/UkhWDZKcLW2/video/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/18/678bf87af9a2e9b1d4b74857/0d2319/index.m3u8"
   },
   "seriesInfo": {
     "id": 1432,
     "title": "妹天堂！2",
-    "publish_date": "",
+    "publish_date": "2012-04-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250523-1/3c039ae692b10cae35f84c0580f6c6ad.jpg",

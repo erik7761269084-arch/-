@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/03/68158f76361668305a9c712f/3b8720/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/03/68158f76361668305a9c712f/3b8720/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/17/67d7f917c48a66ed3695e406/96ab8c/index.m3u8"
   },
   "seriesInfo": {
     "id": 8231,
     "title": "对魔忍浅葱～被捕获的活人傀儡～1",
-    "publish_date": "",
+    "publish_date": "2020-10-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/03/68158f76361668305a9c712f/cover.jpg",

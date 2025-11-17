@@ -1,16 +1,17 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250611/CHhiiE10/index.m3u8"
+    "主线路": "https://thm3u8.com/20250611/CHhiiE10/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cc64c89def9b1b819bb9e/72g6f7/index.m3u8"
   },
   "seriesInfo": {
     "id": 943,
-    "title": "疏忽大意 2",
-    "publish_date": "",
+    "title": "疏忽大意2",
+    "publish_date": "2015-02-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/19/678cc64c89def9b1b819bb9e/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=943",
     "actresses": []

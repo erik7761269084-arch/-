@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://b.v155p.com/20250704/dqXsRldu/index.m3u8"
+    "主线路": "https://b.v155p.com/20250704/dqXsRldu/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/AfbcsVH0/index.m3u8"
   },
   "seriesInfo": {
     "id": 5474,
-    "title": "姉恋スキ・キライ・ダイスキ＃1。",
+    "title": "姉恋スキ・キライ・ダイスキ＃1",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20250704-1/85e226a75b11ac9afcf96587f268f5a9.jpg",

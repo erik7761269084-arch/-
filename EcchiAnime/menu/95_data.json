@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/685f72df6aa81b1d4311669a.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/685f72df6aa81b1d4311669a.m3u8",
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/685f72df6aa81b1d4311669a.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202503/25/67e28b073037aaed4f00f009/31aac7/index.m3u8"
   },
   "seriesInfo": {
     "id": 95,
-    "title": "炼精术士克莱特的H榨精物语 1",
-    "publish_date": "",
+    "title": "炼精术士克莱特的H榨精物语1",
+    "publish_date": "2022-10-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "日本里番"
     ],

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6909f45f8f8f6730c14f8f8c.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6909f45f8f8f6730c14f8f8c.m3u8",
+    "线路2": "https://thm3u8.com/20250207/NJfnNHiw/index.m3u8"
   },
   "seriesInfo": {
     "id": 5,
     "title": "极限痴汉特异点3",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "日本里番"
     ],

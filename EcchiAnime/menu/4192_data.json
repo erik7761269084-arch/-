@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://b.gg155gg2.com/20241025/PDg5ktJ1/index.m3u8"
+    "主线路": "https://b.gg155gg2.com/20241025/PDg5ktJ1/index.m3u8",
+    "线路2": "https://lsbbf2.com/20230908/hI4uGtqG/index.m3u8"
   },
   "seriesInfo": {
     "id": 4192,
-    "title": "殻ノ少女 第2話",
+    "title": "殻ノ少女第2話",
     "publish_date": "",
     "type": "无码",
-    "company": "MS-Pictures",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",

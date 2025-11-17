@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/28/680f38555b6f25c16934848f/96461f/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/28/680f38555b6f25c16934848f/96461f/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cec1d89def9b1b81a28cc/7e447g/index.m3u8"
   },
   "seriesInfo": {
     "id": 8336,
     "title": "魔将的祭品3第1话",
-    "publish_date": "",
+    "publish_date": "2016-06-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f38555b6f25c16934848f/cover.jpg",

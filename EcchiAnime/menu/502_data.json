@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250330/3wnu1YM3/index.m3u8"
+    "主线路": "https://thm3u8.com/20250330/3wnu1YM3/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/18/67d955043037aaed4f47c09b/8b0327/index.m3u8"
   },
   "seriesInfo": {
     "id": 502,
     "title": "与魅魔的同居生活",
-    "publish_date": "",
+    "publish_date": "2020-12-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250331-1/f0dded30a4b8da4b3b6aa24802be845d.jpg",

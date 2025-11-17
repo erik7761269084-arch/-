@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20231009/QZk7OOH2/index.m3u8"
+    "主线路": "https://lsbbf2.com/20231009/QZk7OOH2/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/zlGKbMwW/index.m3u8"
   },
   "seriesInfo": {
     "id": 22336,
     "title": "なまLOReふらちものTHEANIMATION",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/bda5823cc42de1d30e7c30f97886e8ac.jpg",

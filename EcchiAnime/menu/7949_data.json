@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/18/68299305ae3235deaa25c170/e1ff71/index.m3u8",
-    "线路2": "https://play.modujx10.com/20240219/ioIEmnkG/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202505/16/8NXmVinybz2/video/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202505/18/68299305ae3235deaa25c170/e1ff71/index.m3u8",
+    "线路3": "https://play.modujx10.com/20240219/ioIEmnkG/index.m3u8"
   },
   "seriesInfo": {
     "id": 7949,
     "title": "獸娘通信～鳥娘露琵亞～",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/29/297062.avif?1751100269",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/09/67f68316cf22ae3e04fa7ea7/49g610/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/09/67f68316cf22ae3e04fa7ea7/49g610/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250510/52OcL4xz/index.m3u8"
   },
   "seriesInfo": {
     "id": 8764,
-    "title": "2023.2-青春抢夺1",
-    "publish_date": "",
+    "title": "青春抢夺1",
+    "publish_date": "2023-02-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/09/67f68316cf22ae3e04fa7ea7/cover.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/28/680f38605b6f25c169348497/35b4gf/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/28/680f38605b6f25c169348497/35b4gf/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/21/67dd7577cf22ae3e045e810d/eec4e9/index.m3u8"
   },
   "seriesInfo": {
     "id": 8333,
     "title": "母爱成瘾1",
-    "publish_date": "",
+    "publish_date": "2021-11-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/28/680f38605b6f25c169348497/cover.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/14/6823e5149ed5b270bc964a21/c0ac4d/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/14/6823e5149ed5b270bc964a21/c0ac4d/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cccd389def9b1b819cea3/db2g17/index.m3u8"
   },
   "seriesInfo": {
     "id": 8041,
     "title": "漫画咖啡厅的艳遇危机3",
-    "publish_date": "",
+    "publish_date": "2015-07-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/14/6823e5149ed5b270bc964a21/cover.jpg",

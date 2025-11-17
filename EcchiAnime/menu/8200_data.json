@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/04/6816fd04c57e2706696aa0fb/0191dd/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/04/6816fd04c57e2706696aa0fb/0191dd/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/08/67cc2f554e7d663df4da41c4/df3805/index.m3u8"
   },
   "seriesInfo": {
     "id": 8200,
     "title": "回到童年干回去！！！2",
-    "publish_date": "",
+    "publish_date": "2019-09-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/04/6816fd04c57e2706696aa0fb/cover.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/movie/auto/690732f0e264e6282dfc7c72.m3u8"
+    "主线路": "https://voddadaizi.com:52866/movie/auto/690732f0e264e6282dfc7c72.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/19/67da93f04e7d663df406dc3a/0a0dd5/index.m3u8"
   },
   "seriesInfo": {
     "id": 7168,
-    "title": "中文字幕—田径部女子是我的真人飞机杯2",
-    "publish_date": "",
+    "title": "田径部女子是我的真人飞机杯2",
+    "publish_date": "2021-05-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/02/690732f0e264e6282dfc7c72/poster2.jpg",

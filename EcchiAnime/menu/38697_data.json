@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20240101/kCX41aTX/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202501/19/678be7a9478d611da775fb43/b88a84/index.m3u8",
+    "线路2": "https://play.modujx10.com/20240101/kCX41aTX/index.m3u8"
   },
   "seriesInfo": {
     "id": 38697,
     "title": "虛擬侵蝕被邪惡浸染之時",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/29/297281.avif?1751099848",

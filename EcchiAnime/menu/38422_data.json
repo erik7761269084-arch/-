@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20230708/Y7rhATUz/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202505/24/uwHpeEcZpe2/video/index.m3u8",
+    "线路2": "https://play.modujx10.com/20230708/Y7rhATUz/index.m3u8"
   },
   "seriesInfo": {
     "id": 38422,
     "title": "鬼父2Harvest",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/301974.avif?1751098499",

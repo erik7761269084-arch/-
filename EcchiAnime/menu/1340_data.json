@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202506/03/CFnZkA2ZEs2/video/index.m3u8#第02集$https://bf3.qrtuv.com/smv1/202506/03/hCQzkfndaS2/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202506/03/CFnZkA2ZEs2/video/index.m3u8#第02集$https://bf3.qrtuv.com/smv1/202506/03/hCQzkfndaS2/video/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/3RH3rXBQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 1340,
     "title": "School",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250604-1/5a7f84bbce10bf3bb7177b71de29c63e.jpg",

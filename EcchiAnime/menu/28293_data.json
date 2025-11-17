@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20251025/93kYfCPd/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202506/09/3MZ6c1MrUp2/video/index.m3u8#第02集$https://bf3.qrtuv.com/smv1/202506/09/0PJmiBSWcA2/video/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251025/93kYfCPd/index.m3u8"
   },
   "seriesInfo": {
     "id": 28293,
     "title": "初犬2",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/301258.avif?1751099931",

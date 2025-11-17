@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/08/681c9ad623f3367fd32c4697/8bdfd2/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/08/681c9ad623f3367fd32c4697/8bdfd2/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678c8585c179ffb1dba28379/b8fc35/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/19/678c8ff0c179ffb1dba2845a/c75ae5/index.m3u8"
   },
   "seriesInfo": {
     "id": 8158,
     "title": "催眠术1",
-    "publish_date": "",
+    "publish_date": "2024-07-17",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681c9ad623f3367fd32c4697/cover.jpg",

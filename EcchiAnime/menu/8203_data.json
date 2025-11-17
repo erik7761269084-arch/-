@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/04/6817027bc57e2706696aa19f/gb89c2/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/04/6817027bc57e2706696aa19f/gb89c2/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cd2d2c179ffb1dba28a6b/fd37c7/index.m3u8"
   },
   "seriesInfo": {
     "id": 8203,
     "title": "对魔忍浅葱2第1话&第2话",
-    "publish_date": "",
+    "publish_date": "2015-10-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/04/6817027bc57e2706696aa19f/cover.jpg",

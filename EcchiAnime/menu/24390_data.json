@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20230915/uq3MreZ4/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/28/680f37cf5b6f25c16934847f/597ae8/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/23/67e025b84e7d663df42000dc/855e8f/index.m3u8",
+    "线路3": "https://lsbbf2.com/20230915/uq3MreZ4/index.m3u8"
   },
   "seriesInfo": {
     "id": 24390,
     "title": "秘密的基地2",
-    "publish_date": "",
+    "publish_date": "2022-03-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e43cd6a5c49b1e77cd1f7943a5c6d929.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/68577c21e04b7a6e9cafd0c8.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/68577c21e04b7a6e9cafd0c8.m3u8",
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/68577c21e04b7a6e9cafd0c8.m3u8"
   },
   "seriesInfo": {
     "id": 5964,
-    "title": "少女突击2 ，纯纯的爱情使他们身体交融在一起",
+    "title": "少女突击2，纯纯的爱情使他们身体交融在一起",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "日本里番"
     ],

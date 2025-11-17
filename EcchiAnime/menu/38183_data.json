@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20240520/an5d6c49/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202506/26/saMtU5BLdT2/video/index.m3u8",
+    "线路2": "https://play.modujx10.com/20240520/an5d6c49/index.m3u8"
   },
   "seriesInfo": {
     "id": 38183,
     "title": "MarkYourKiss",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/29/296289.avif?1751099830",

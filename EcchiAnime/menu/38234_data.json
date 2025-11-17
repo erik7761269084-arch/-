@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20230703/81CRkiQw/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202505/16/ZMPnaNZh2S2/video/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202504/30/6812200f5b6f25c1695b571f/4adcg6/index.m3u8",
+    "线路3": "https://play.modujx10.com/20230703/81CRkiQw/index.m3u8"
   },
   "seriesInfo": {
     "id": 38234,
     "title": "獸娘通信～牛娘貝爾～",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/302233.avif?1751098693",

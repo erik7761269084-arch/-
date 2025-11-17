@@ -1,14 +1,17 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202505/15/USPSxHkGTZ2/video/index.m3u8#第02集$https://bf3.qrtuv.com/smv1/202505/15/bHNSA6g7sE2/video/index.m3u8",
-    "线路2": "https://lsbbf2.com/20230915/QU3XabUt/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202504/24/6809c4e6cf22ae3e047ea4fc/6agb42/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202503/24/67e1087ccf22ae3e0473bf83/a2ed1d/index.m3u8",
+    "线路4": "https://lsbbf5.com/20250509/nQXQ89QE/index.m3u8",
+    "线路5": "https://lsbbf2.com/20230915/QU3XabUt/index.m3u8"
   },
   "seriesInfo": {
     "id": 1125,
     "title": "好色上班族2",
-    "publish_date": "",
+    "publish_date": "2022-05-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/302270.avif?1751099414",

@@ -1,17 +1,18 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/673993f7f514c41c435e6233.m3u8",
-    "线路2": "https://m3u8.cdn2025.life/movie/auto/673993f7f514c41c435e6233.m3u8"
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/673993f7f514c41c435e6233.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/19/678cc82b89def9b1b819c0fb/0b7813/index.m3u8"
   },
   "seriesInfo": {
     "id": 5952,
-    "title": "悦乐之胤 1",
-    "publish_date": "",
+    "title": "悦乐之胤1",
+    "publish_date": "2015-04-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/19/678cc82b89def9b1b819c0fb/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5952",
     "actresses": []

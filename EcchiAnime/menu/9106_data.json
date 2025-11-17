@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202503/22/67de51fc4e7d663df40e3d08/a9900g/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202503/22/67de51fc4e7d663df40e3d08/a9900g/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250509/XHBpggy8/index.m3u8"
   },
   "seriesInfo": {
     "id": 9106,
-    "title": "2021.6-小真的开发日记1",
-    "publish_date": "",
+    "title": "小真的开发日记1",
+    "publish_date": "2021-06-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/22/67de51fc4e7d663df40e3d08/cover.jpg",

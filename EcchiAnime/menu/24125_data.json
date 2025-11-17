@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20230915/QaTGn0uI/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202501/19/678ce8db89def9b1b81a1f6f/0fgfda/index.m3u8",
+    "线路2": "https://lsbbf2.com/20230915/QaTGn0uI/index.m3u8"
   },
   "seriesInfo": {
     "id": 24125,
     "title": "放课后1",
-    "publish_date": "",
+    "publish_date": "2016-06-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0edd635bd3ace19e10ac61180e0aacc6.jpg",

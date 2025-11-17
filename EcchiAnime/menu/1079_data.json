@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250630/ih10dKoZ/index.m3u8"
+    "主线路": "https://thm3u8.com/20250510/ZGprxjJy/index.m3u8",
+    "线路2": "https://thm3u8.com/20250630/ih10dKoZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 1079,
     "title": "风纪委员与风俗活动",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "",

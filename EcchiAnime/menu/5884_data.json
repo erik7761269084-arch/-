@@ -1,17 +1,18 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/6739946df514c41c435e6268.m3u8",
-    "线路2": "https://m3u8.cdn2025.life/movie/auto/6739946df514c41c435e6268.m3u8"
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/6739946df514c41c435e6268.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/19/678ca9b289def9b1b8196928/b268a3/index.m3u8"
   },
   "seriesInfo": {
     "id": 5884,
-    "title": "日募不动产还有空房 1",
-    "publish_date": "",
+    "title": "日募不动产还有空房1",
+    "publish_date": "2014-04-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/19/678ca9b289def9b1b8196928/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5884",
     "actresses": []

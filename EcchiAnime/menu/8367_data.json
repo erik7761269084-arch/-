@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/27/680d45dccf22ae3e048fcf04/1fd20f/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/27/680d45dccf22ae3e048fcf04/1fd20f/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678ceb0c89def9b1b81a25b3/4ge1a3/index.m3u8"
   },
   "seriesInfo": {
     "id": 8367,
     "title": "兰斯01寻找小光第4话",
-    "publish_date": "",
+    "publish_date": "2016-06-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d45dccf22ae3e048fcf04/cover.jpg",

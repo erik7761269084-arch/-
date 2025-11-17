@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20231009/SJgo7A7z/index.m3u8"
+    "主线路": "https://lsbbf2.com/20231009/6pR3EbrL/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/SJgo7A7z/index.m3u8"
   },
   "seriesInfo": {
     "id": 22204,
     "title": "メルティス・クエスト#2",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/ab60b6702ee3d066b9c7483c2ab46569.jpg",

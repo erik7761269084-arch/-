@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6905013f8f8f6730c1b99343.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6905013f8f8f6730c1b99343.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202504/01/67eb862f4e7d663df461e117/924ed7/index.m3u8"
   },
   "seriesInfo": {
     "id": 8,
-    "title": "好色精灵探访记 2",
-    "publish_date": "",
+    "title": "好色精灵探访记2",
+    "publish_date": "2023-07-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "日本里番"
     ],

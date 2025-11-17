@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/15/68254e6a130ac02b587cd211/844622/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/15/68254e6a130ac02b587cd211/844622/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cb9a9c179ffb1dba28834/1b6032/index.m3u8"
   },
   "seriesInfo": {
     "id": 8014,
     "title": "魔法少女在亲吻后变身1.",
-    "publish_date": "",
+    "publish_date": "2014-08-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/15/68254e6a130ac02b587cd211/cover.jpg",

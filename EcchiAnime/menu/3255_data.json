@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220812/2oCcLCK1/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220812/2oCcLCK1/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/N4mQ0oqc/index.m3u8"
   },
   "seriesInfo": {
     "id": 3255,
     "title": "G-テイスト2-G-Taste2",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",

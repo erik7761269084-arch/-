@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/19/68032effcf22ae3e0457b0a6/ag1313/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/19/68032effcf22ae3e0457b0a6/ag1313/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/25/67e28aef3037aaed4f00ecdb/175a5b/index.m3u8"
   },
   "seriesInfo": {
     "id": 8539,
-    "title": "雷光神姬眾神的魔法大戰 1",
-    "publish_date": "",
+    "title": "雷光神姬眾神的魔法大戰1",
+    "publish_date": "2022-10-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/19/68032effcf22ae3e0457b0a6/cover.jpg",

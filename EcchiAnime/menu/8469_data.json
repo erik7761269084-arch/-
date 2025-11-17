@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/22/680704a44e7d663df4240fb5/feg099/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/22/680704a44e7d663df4240fb5/feg099/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/20/67b74ed6cf22ae3e04d7d203/af7b2e/index.m3u8"
   },
   "seriesInfo": {
     "id": 8469,
     "title": "一年后的你",
-    "publish_date": "",
+    "publish_date": "2017-03-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/22/680704a44e7d663df4240fb5/cover.jpg",

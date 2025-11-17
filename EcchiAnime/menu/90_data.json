@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6897274daec0eb1d4bc8f3dc.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6897274daec0eb1d4bc8f3dc.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/17/67d7f99ac48a66ed3695f7ba/9gda81/index.m3u8"
   },
   "seriesInfo": {
     "id": 90,
-    "title": "图书室的女朋友 1",
-    "publish_date": "",
+    "title": "图书室的女朋友1",
+    "publish_date": "2020-10-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "日本里番"
     ],

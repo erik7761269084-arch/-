@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20230702/F7m9PZ3l/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/04/67ef4b364e7d663df47a49e7/9160g2/index.m3u8",
+    "线路2": "https://play.modujx10.com/20230702/F7m9PZ3l/index.m3u8"
   },
   "seriesInfo": {
     "id": 38206,
     "title": "迷情2",
-    "publish_date": "",
+    "publish_date": "2023-02-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/30/302268.avif?1751099801",

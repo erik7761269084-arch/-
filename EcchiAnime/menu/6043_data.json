@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6876dd58d640eb31df930075.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6876dd58d640eb31df930075.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/28/67c12e1492a51c76e42fa8cb/131381/index.m3u8"
   },
   "seriesInfo": {
     "id": 6043,
-    "title": "令人心动的小小的房东小姐 1",
-    "publish_date": "",
+    "title": "令人心动的小小的房东小姐1",
+    "publish_date": "2018-05-01",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "日本里番"
     ],

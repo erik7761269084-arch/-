@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx10.com/20240131/vPYgjTcz/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/29/683766d4d6dba3457523e841/b938dg/index.m3u8",
+    "线路2": "https://play.modujx10.com/20240131/vPYgjTcz/index.m3u8"
   },
   "seriesInfo": {
     "id": 38606,
     "title": "爸爸活三明治",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [],
     "description": "",
     "cover_url": "https://ptt.co/images/node/29/297102.avif?1751100266",

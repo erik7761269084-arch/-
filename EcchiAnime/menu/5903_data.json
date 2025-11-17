@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/685f71c36aa81b1d430ff9f7.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/685f71c36aa81b1d430ff9f7.m3u8",
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/685f71c36aa81b1d430ff9f7.m3u8"
   },
   "seriesInfo": {
     "id": 5903,
-    "title": "我交到砲友的理由 1",
+    "title": "我交到砲友的理由1",
     "publish_date": "",
     "type": "无码",
-    "company": "",
+    "company": "[]",
     "genres": [
       "日本里番"
     ],
