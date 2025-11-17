@@ -37,11 +37,21 @@ body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; colo
 // 最大页数
 const MAX_PAGE = 10;
 
-// 加载头部和底部
-fetch('header.html').then(r=>r.text()).then(html=>{
-  document.getElementById('header-placeholder').innerHTML = html;
-  const s=document.createElement('script'); s.src='header.js'; document.body.appendChild(s);
-});
+/* ======= 加载 header.html + header.js ======= */
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+
+    // 加载 header.js 文件
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
+    };
+    document.body.appendChild(script);
+  });
 fetch('https://yunvgong.com/footer.html').then(r=>r.text()).then(html=>{
   const footer=document.createElement('div'); footer.innerHTML = html; document.body.appendChild(footer);
 });
