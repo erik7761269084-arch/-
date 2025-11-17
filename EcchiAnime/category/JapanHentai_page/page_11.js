@@ -1,5 +1,165 @@
 window.PAGE_DATA = [
   {
+    "id": 36657,
+    "title": "DreamNote",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301492.avif?1751099873",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36657"
+  },
+  {
+    "id": 40409,
+    "title": "DreamNote-第1集",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301492.avif?1751099873",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40409"
+  },
+  {
+    "id": 40410,
+    "title": "DreamNote-第2集",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301492.avif?1751099873",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40410"
+  },
+  {
+    "id": 19472,
+    "title": "DreamNote1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250531-1/a9d319898a976bc01cc45dc6bab0ec10.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19472"
+  },
+  {
+    "id": 19475,
+    "title": "DreamNote2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250531-1/ddab32b591d3555840a78b2a39f3f985.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19475"
+  },
+  {
+    "id": 21430,
+    "title": "DreamNote第一话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/e526f0059a0061d8a841772b92de48bf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21430"
+  },
+  {
+    "id": 21363,
+    "title": "DreamNote第二话「堕落家族、乱交开始！」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/85f07e1ab94dda218dca3346920c5149.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21363"
+  },
+  {
+    "id": 36579,
+    "title": "DropOut",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301933.avif?1751098728",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36579"
+  },
+  {
+    "id": 40253,
+    "title": "DropOut-第1集",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301933.avif?1751098728",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40253"
+  },
+  {
+    "id": 40254,
+    "title": "DropOut-第2集",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301933.avif?1751098728",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40254"
+  },
+  {
     "id": 19477,
     "title": "DropOut1",
     "year": "",
@@ -454,8 +614,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -471,8 +631,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -569,8 +729,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -578,22 +738,6 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250602-1/842e4061810607daad51989d6244136a.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19453"
-  },
-  {
-    "id": 21197,
-    "title": "EmGáiTựSướngởNhàCùngBạn",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/58cd74a92d45e1dff5098a07241e7d55.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21197"
   },
   {
     "id": 19450,
@@ -730,8 +874,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1027,22 +1171,6 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250604-1/6f98430469ba591ec85945c8c90729cd.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19424"
-  },
-  {
-    "id": 19425,
-    "title": "esk这就是你烦恼的地方吗蒂法-FF7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250604-1/b7f1ffb6d1558ba1b91450ec19d8c2e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19425"
   },
   {
     "id": 19418,
@@ -1475,133 +1603,5 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250605-1/17a6a8d86e9f7aa619c9f65636286a50.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19403"
-  },
-  {
-    "id": 19396,
-    "title": "Fatcat17Ciri小屋麻烦第1部分-重复",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250605-1/042287f9c1fbbe010d419cf2ceb622e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19396"
-  },
-  {
-    "id": 19391,
-    "title": "Fatcat17舍瓦贸易协议",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250605-1/9b36b7cca91a374cd74afd9b000622ee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19391"
-  },
-  {
-    "id": 41891,
-    "title": "FateGrandCarnivalOVA-第1集",
-    "year": "2021",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/115606.avif?1751114904",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41891"
-  },
-  {
-    "id": 41892,
-    "title": "FateGrandCarnivalOVA-第2集",
-    "year": "2021",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/115606.avif?1751114904",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41892"
-  },
-  {
-    "id": 19406,
-    "title": "FATParta女教师诗织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250605-1/ac1215a4cd43e387c5a851081b872d8f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19406"
-  },
-  {
-    "id": 19407,
-    "title": "FAT秘書",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250605-1/941b7f77796ec96e0a1f352e0fdafd7d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19407"
-  },
-  {
-    "id": 19404,
-    "title": "FAT绫香之恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250605-1/da6bbea3a9b7aba1dbfaeb8d0657b0de.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19404"
-  },
-  {
-    "id": 1178,
-    "title": "Fault!!",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301491.avif?1751099523",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1178"
   }
 ];

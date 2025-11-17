@@ -6,7 +6,6 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
       "MMD"
     ],
     "type": "无码",
@@ -23,7 +22,6 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
       "MMD"
     ],
     "type": "无码",
@@ -50,14 +48,31 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17034"
   },
   {
+    "id": 17031,
+    "title": "崩坏3琪亚娜极乐净土次世代卡通渲染",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "MMD",
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251016-1/8006ea83d45d1977d126c395888527bf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17031"
+  },
+  {
     "id": 28553,
     "title": "崩坏幽兰黛尔精品MMD",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "MMD"
+      "MMD",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -67,14 +82,48 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28553"
   },
   {
+    "id": 27794,
+    "title": "恶堕之路Part0-薇塔崩坏3rd",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "MMD",
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/04785b3f1ffd0b4264e7bdd7e8928611.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27794"
+  },
+  {
+    "id": 27974,
+    "title": "明星棒球队长我的服装爱好者北川怜音HD无尽第1部分动画外风3DMMD爱情卡AMVMAD最佳女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "MMD",
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/59e1d7fd7633396c83a086617ed30b82.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27974"
+  },
+  {
     "id": 28588,
     "title": "本古古MMD原神移动你的身体",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "MMD"
+      "MMD",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -90,8 +139,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "MMD"
+      "MMD",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",

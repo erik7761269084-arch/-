@@ -1,5 +1,181 @@
 window.PAGE_DATA = [
   {
+    "id": 21444,
+    "title": "DEMON-AND-MAID-COWGIRL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"ANIME\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/ed95515dde01e8d40f57b89039173145.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21444"
+  },
+  {
+    "id": 4448,
+    "title": "DEMONANDMAIDCOWGIRL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"ANIME\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20241226-1/81b33b47353141abdb10abf99a5c691f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4448"
+  },
+  {
+    "id": 19558,
+    "title": "DemonBusters",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301934.avif?1751098505",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19558"
+  },
+  {
+    "id": 19555,
+    "title": "DemonBusters1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250526-1/c9f5d95c6529726349b3b24fd3ca4065.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19555"
+  },
+  {
+    "id": 19552,
+    "title": "DEMONION外传2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250526-1/7c6330a409d0ad895875d741cab611f3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19552"
+  },
+  {
+    "id": 19553,
+    "title": "DEMONION外传第1话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250526-1/8c70db9686a7a2f2fd7071afd001d0c7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19553"
+  },
+  {
+    "id": 19546,
+    "title": "DEMONION外传第2话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250526-1/dc96aac57a00d76770d69b1806a55344.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19546"
+  },
+  {
+    "id": 1803,
+    "title": "DEMONION～外傳～",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301877.avif?1751099568",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1803"
+  },
+  {
+    "id": 41351,
+    "title": "DEMONION～外傳～-第1集",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301877.avif?1751099568",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41351"
+  },
+  {
+    "id": 41352,
+    "title": "DEMONION～外傳～-第2集",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301877.avif?1751099568",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41352"
+  },
+  {
+    "id": 21764,
+    "title": "DemonWorshipCorruption",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/7a15cd4ae96609246bfc156653806a80.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21764"
+  },
+  {
     "id": 20975,
     "title": "DemonWorshipepisodeLeiFang",
     "year": "",
@@ -22,8 +198,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -39,8 +215,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -600,8 +776,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -953,8 +1129,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -970,8 +1146,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1043,22 +1219,6 @@ window.PAGE_DATA = [
     "cover_url": "",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=994"
-  },
-  {
-    "id": 19510,
-    "title": "DoggyAnalFuckWithFuta生化危机4重制版中的阿什利格雷厄姆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250529-1/c5a881f9e80f3a10f3fc07c0d9b2b5b9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19510"
   },
   {
     "id": 19504,
@@ -1147,8 +1307,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1164,9 +1324,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[\"Collaborationworks\"]",
@@ -1182,8 +1342,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1447,165 +1607,5 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250531-1/7e62f3966b50a32cc183dd29525c762e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19479"
-  },
-  {
-    "id": 36657,
-    "title": "DreamNote",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301492.avif?1751099873",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36657"
-  },
-  {
-    "id": 40409,
-    "title": "DreamNote-第1集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301492.avif?1751099873",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40409"
-  },
-  {
-    "id": 40410,
-    "title": "DreamNote-第2集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301492.avif?1751099873",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40410"
-  },
-  {
-    "id": 19472,
-    "title": "DreamNote1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250531-1/a9d319898a976bc01cc45dc6bab0ec10.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19472"
-  },
-  {
-    "id": 19475,
-    "title": "DreamNote2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250531-1/ddab32b591d3555840a78b2a39f3f985.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19475"
-  },
-  {
-    "id": 21430,
-    "title": "DreamNote第一话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/e526f0059a0061d8a841772b92de48bf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21430"
-  },
-  {
-    "id": 21363,
-    "title": "DreamNote第二话「堕落家族、乱交开始！」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/85f07e1ab94dda218dca3346920c5149.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21363"
-  },
-  {
-    "id": 36579,
-    "title": "DropOut",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301933.avif?1751098728",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36579"
-  },
-  {
-    "id": 40253,
-    "title": "DropOut-第1集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301933.avif?1751098728",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40253"
-  },
-  {
-    "id": 40254,
-    "title": "DropOut-第2集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301933.avif?1751098728",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40254"
   }
 ];

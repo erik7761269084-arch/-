@@ -32,6 +32,23 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24229"
   },
   {
+    "id": 1016,
+    "title": "混血与蒂法都市大战恶魔",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫",
+      "真人coser"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1016"
+  },
+  {
     "id": 23820,
     "title": "爱丽丝疯狂吸深",
     "year": "",
@@ -62,6 +79,40 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/34963209ad92105f94a25e4f00ee1969.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24109"
+  },
+  {
+    "id": 5528,
+    "title": "百看不厌的画面后入蒂法最终幻想",
+    "year": "",
+    "country": "",
+    "genre": "3D动漫",
+    "genres": [
+      "3D动漫",
+      "真人coser"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/e3dabbe3500032b40ed637596b01b66b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5528"
+  },
+  {
+    "id": 18429,
+    "title": "穿着紫色连衣裙的蒂法",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫",
+      "真人coser"
+    ],
+    "type": "无码",
+    "company": "[\"Nagoonimation\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250727-1/27efbaf338390fa89783b35cae7b5bc5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18429"
   },
   {
     "id": 24133,
@@ -118,6 +169,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "3D动漫",
       "真人coser"
     ],
     "type": "无码",
@@ -134,6 +186,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
+      "3D动漫",
       "真人coser"
     ],
     "type": "无码",

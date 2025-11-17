@@ -6,8 +6,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "无码",
-      "日本里番"
+      "日本里番",
+      "无码"
     ],
     "type": "无码",
     "company": "[]",
@@ -55,8 +55,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"opiumud\"]",
@@ -120,8 +120,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"魔人\"]",
@@ -137,8 +137,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"魔人\"]",
@@ -196,14 +196,30 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=9048"
   },
   {
+    "id": 11385,
+    "title": "1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=11385"
+  },
+  {
     "id": 7808,
     "title": "1000萬就可以喔叔叔動態漫畫版",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -219,8 +235,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -710,6 +726,56 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21668"
   },
   {
+    "id": 9738,
+    "title": "1（2）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "日本肉番"
+    ],
+    "type": "无码",
+    "company": "[\"恋骑士\"]",
+    "publish_date": "2013-07-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/19/678c87b62a47ebb1a8cade2e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=9738"
+  },
+  {
+    "id": 9736,
+    "title": "1（3）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "日本肉番"
+    ],
+    "type": "无码",
+    "company": "[\"恋骑士\"]",
+    "publish_date": "2013-07-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/19/678c8886c179ffb1dba28401/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=9736"
+  },
+  {
+    "id": 15919,
+    "title": "2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=15919"
+  },
+  {
     "id": 20199,
     "title": "2018年度守望先Pi锋Gu精彩集锦有声音",
     "year": "",
@@ -740,38 +806,6 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/72687695e8d49540136cd091f53dc7b3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19977"
-  },
-  {
-    "id": 20200,
-    "title": "2019守望先锋最佳合集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/1d897a87b0a7b2c9801bcafc285e9c83.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20200"
-  },
-  {
-    "id": 20194,
-    "title": "2019年8月最佳高品质守望先锋动画",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/525699075916f33a63d173cfe5b4b62c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20194"
   },
   {
     "id": 20195,
@@ -812,8 +846,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -829,8 +863,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -878,8 +912,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -991,8 +1025,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1008,8 +1042,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1089,8 +1123,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1106,8 +1140,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1123,8 +1157,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1140,8 +1174,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1581,37 +1615,5 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202504/22/68070b594e7d663df4241047/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8459"
-  },
-  {
-    "id": 14262,
-    "title": "300円のおつきあい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14262"
-  },
-  {
-    "id": 12600,
-    "title": "300円のおつきあいAnimeEdition",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/e545f9d08520b7e9b732271e0dcce6e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12600"
   }
 ];

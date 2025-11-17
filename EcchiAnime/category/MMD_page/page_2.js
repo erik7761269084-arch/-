@@ -586,8 +586,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "MMD"
+      "MMD",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -826,7 +826,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 18611,
-    "title": "MMDR-18GenshinImpact-MonaLAMB",
+    "title": "MMDR-18-MonaLAMB",
     "year": "",
     "country": "",
     "genre": "",
@@ -1092,8 +1092,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "MMD"
+      "MMD",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1158,7 +1158,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD"
+      "MMD",
+      "VAM"
     ],
     "type": "无码",
     "company": "[]",
@@ -1542,7 +1543,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 5518,
-    "title": "MMD原神GenshinImpactGENTLEMAN-八重",
+    "title": "MMD原神GENTLEMAN-八重",
     "year": "",
     "country": "",
     "genre": "3D动漫",
@@ -1556,40 +1557,6 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/ccdb5f1691d43aeaf1cd9d37ed5d6f63.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5518"
-  },
-  {
-    "id": 5517,
-    "title": "MMD原神GenshinImpact性之诱惑-雷电将军",
-    "year": "",
-    "country": "",
-    "genre": "3D动漫",
-    "genres": [
-      "MMD",
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[\"GenshinImpact\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/46014c4840a431b423d8651c0fa9c293.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5517"
-  },
-  {
-    "id": 5516,
-    "title": "MMD原神GenshinImpact极楽浄土-八重",
-    "year": "",
-    "country": "",
-    "genre": "3D动漫",
-    "genres": [
-      "MMD",
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[\"GenshinImpact\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/b17e70978d53e45d897420958b25f637.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5516"
   },
   {
     "id": 5523,
@@ -1623,5 +1590,38 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250724-1/1c96dbcab6663aa809d92b3eabdfd71a.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18487"
+  },
+  {
+    "id": 5573,
+    "title": "MMD原神全明星多人淫啪乱交恋活",
+    "year": "",
+    "country": "",
+    "genre": "3D动漫",
+    "genres": [
+      "MMD",
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/0cf1d54e701a1fb1e5e371a5e29e6474.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5573"
+  },
+  {
+    "id": 18500,
+    "title": "MMD原神八重神子-YaeMiko新年舞蹈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "MMD"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250724-1/d67be38e215c7eb0737dd47360c8b3a1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18500"
   }
 ];

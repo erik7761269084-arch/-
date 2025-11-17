@@ -1,13 +1,45 @@
 window.PAGE_DATA = [
   {
+    "id": 21329,
+    "title": "IMMORAL下巻「校内調教のススメ」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/aea325575feccd8f97e0702be61b3db9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21329"
+  },
+  {
+    "id": 19143,
+    "title": "IMMORAL第1话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250620-1/5926a5550b46578f065c46326162a5f9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19143"
+  },
+  {
     "id": 19145,
     "title": "IMMORAL第2卷校内培训建议",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -39,8 +71,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -296,8 +328,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -377,8 +409,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -394,8 +426,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -411,8 +443,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -428,8 +460,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -477,8 +509,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -494,8 +526,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -511,8 +543,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -528,8 +560,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -753,8 +785,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -770,8 +802,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -787,8 +819,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1581,37 +1613,5 @@ window.PAGE_DATA = [
     "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3230"
-  },
-  {
-    "id": 12637,
-    "title": "JKとエロコンビニ天狗2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/db3769909c5568e91eac3565b181d40f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12637"
-  },
-  {
-    "id": 3231,
-    "title": "JKとエロコンビニ天狗2-JKtoEroKonbiniTenchou2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/pp3aga5roe0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3231"
   }
 ];

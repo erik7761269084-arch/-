@@ -1,5 +1,53 @@
 window.PAGE_DATA = [
   {
+    "id": 5693,
+    "title": "[WhiteBear]デモニオ外伝后",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5693"
+  },
+  {
+    "id": 22072,
+    "title": "[WhiteBear]新生ふたなりアイドルでかたま系",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/b234a3b59ae2685715bd8f16a765774f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22072"
+  },
+  {
+    "id": 21918,
+    "title": "[WhiteBear]新生ふたなりアイドルでかたま系！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/03b2fbbc4cda15bb0eb99899c7623a69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21918"
+  },
+  {
     "id": 22076,
     "title": "[WORLDPGANIMATION]女騎士レティシア-TheMotionAnime-.wmv",
     "year": "",
@@ -214,9 +262,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -264,8 +312,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -281,8 +329,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -330,8 +378,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -347,9 +395,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -365,8 +413,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -527,8 +575,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"ひまじん\"]",
@@ -544,8 +592,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"ひまじん\"]",
@@ -642,9 +690,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[\"PoRO\"]",
@@ -756,8 +804,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -853,9 +901,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -871,8 +919,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -888,9 +936,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -906,9 +954,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -924,9 +972,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -974,8 +1022,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1103,8 +1151,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -1112,22 +1160,6 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202507/08/686c935c43d6972716e90858/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7264"
-  },
-  {
-    "id": 7357,
-    "title": "[动画纪念作]恋爱纪念日2：禁忌圣夜突入！肉感碰撞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6865513443d6972716a3199f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7357"
   },
   {
     "id": 7369,
@@ -1270,9 +1302,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -1360,22 +1392,6 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202507/06/6869f41b3ed39b57c082ea6c/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7318"
-  },
-  {
-    "id": 7363,
-    "title": "[恋骑士]エルシア淫堕实录激吻交尾动画版蜜壶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6865522943d6972716a31a08/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7363"
   },
   {
     "id": 7512,
@@ -1540,22 +1556,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12510"
   },
   {
-    "id": 952,
-    "title": "[生化危机]爱丽丝白丝美腿足交抽插嫩穴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=952"
-  },
-  {
     "id": 7271,
     "title": "[第二集]渴求之光丽萨丝中枢深入攻略～淫欲核心完",
     "year": "",
@@ -1597,7 +1597,7 @@ window.PAGE_DATA = [
       "日本里番"
     ],
     "type": "无码",
-    "company": "[\"Milky\", \"Milky蜜\"]",
+    "company": "[\"Milky蜜\", \"Milky\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8750755d1501a91bfbf2890cf1fa0505.jpg",
     "actress": [],
@@ -1613,7 +1613,7 @@ window.PAGE_DATA = [
       "日本里番"
     ],
     "type": "无码",
-    "company": "[\"Milky\", \"Milky蜜\"]",
+    "company": "[\"Milky蜜\", \"Milky\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/72ac347dc04e8962f6bcbfe43f1496c0.jpg",
     "actress": [],

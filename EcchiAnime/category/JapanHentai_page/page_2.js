@@ -1,13 +1,45 @@
 window.PAGE_DATA = [
   {
+    "id": 14262,
+    "title": "300円のおつきあい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14262"
+  },
+  {
+    "id": 12600,
+    "title": "300円のおつきあいAnimeEdition",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/e545f9d08520b7e9b732271e0dcce6e6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12600"
+  },
+  {
     "id": 20184,
     "title": "300日元关系动画版",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -39,8 +71,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -56,8 +88,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -345,8 +377,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "MMD"
+      "MMD",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
@@ -602,9 +634,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[\"PoRO\"]",
@@ -620,9 +652,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -654,9 +686,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[\"魔人\"]",
@@ -672,9 +704,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "桜都字幕组",
+      "中文字幕",
       "日本里番",
-      "中文字幕"
+      "桜都字幕组"
     ],
     "type": "无码",
     "company": "[]",
@@ -706,8 +738,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"PoRO\"]",
@@ -717,8 +749,24 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21979"
   },
   {
-    "id": 21640,
-    "title": "[Animopron]LaraWithHorse2Episode3",
+    "id": 7363,
+    "title": "[]エルシア淫堕实录激吻交尾动画版蜜壶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"恋骑士\"]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6865522943d6972716a31a08/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7363"
+  },
+  {
+    "id": 7357,
+    "title": "[]恋爱纪念日2：禁忌圣夜突入！肉感碰撞",
     "year": "",
     "country": "",
     "genre": "",
@@ -728,9 +776,9 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/38b2b0ce27d3fee968202200212723a6.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6865513443d6972716a3199f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21640"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7357"
   },
   {
     "id": 20901,
@@ -1107,8 +1155,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"nur（ニュル）\"]",
@@ -1140,8 +1188,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"nur（ニュル）\"]",
@@ -1157,8 +1205,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"nur（ニュル）\"]",
@@ -1174,8 +1222,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"nur（ニュル）\"]",
@@ -1191,8 +1239,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "中文字幕",
+      "日本里番"
     ],
     "type": "无码",
     "company": "[\"nur（ニュル）\"]",
@@ -1568,53 +1616,5 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/dbcb1709e0664240d53935f1e8931e6f.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21022"
-  },
-  {
-    "id": 5693,
-    "title": "[WhiteBear]デモニオ外伝后",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5693"
-  },
-  {
-    "id": 22072,
-    "title": "[WhiteBear]新生ふたなりアイドルでかたま系",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/b234a3b59ae2685715bd8f16a765774f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22072"
-  },
-  {
-    "id": 21918,
-    "title": "[WhiteBear]新生ふたなりアイドルでかたま系！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/03b2fbbc4cda15bb0eb99899c7623a69.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21918"
   }
 ];
