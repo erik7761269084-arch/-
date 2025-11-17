@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250515/GionBbui/index.m3u8"
+    "主线路": "https://thm3u8.com/20250515/GionBbui/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231009/urtOvrlE/index.m3u8"
   },
   "seriesInfo": {
     "id": 755,
@@ -10,7 +11,7 @@
     "company": "[]",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/06bc495d9a585521c8d2762a4f6a9376.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=755",
     "actresses": []
