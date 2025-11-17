@@ -118,8 +118,8 @@ body {
 <!-- 女优 -->
 <section>
   <div class="section-title-row">
-    <div class="section-title">MMD</div>
-    <a href="https://yunvgong.com/EcchiAnime/MMD" class="more-link" target="_blank">看更多 ›</a>
+    <div class="section-title">女优</div>
+    <a href="https://yunvgong.com/EcchiAnime/actress" class="more-link" target="_blank">看更多 ›</a>
   </div>
   <div class="actress-grid" id="actressGrid"></div>
 </section>
@@ -144,6 +144,16 @@ body {
   </div>
   <div class="drama-grid" id="3Danime"></div>
 </section>
+
+<!-- MMD -->
+<section>
+  <div class="section-title-row">
+    <div class="section-title">MMD</div>
+    <a href="https://yunvgong.com/EcchiAnime/MMD" class="more-link" target="_blank">看更多 ›</a>
+  </div>
+  <div class="drama-grid" id="MMD"></div>
+</section>
+
 
 <!-- 底部 footer -->
 <div id="footer-placeholder"></div>
@@ -290,8 +300,43 @@ async function loadCompanyList() {
   });
 }
 
+/* MMD专区 */
+async function loadMMDDramas() {
+  const target = document.getElementById('MMD');
+  target.innerHTML = ''; // 清空原有内容
+
+  const script = document.createElement('script');
+  script.src = 'https://yunvgong.com/EcchiAnime/category/MMD_page/page_1.js';
+  script.onload = () => {
+    if (typeof window.PAGE_DATA !== 'undefined') {
+      const list = window.PAGE_DATA.slice(0, 30); // 取前30条
+      list.forEach(d => {
+        const card = document.createElement('div');
+        card.className = 'drama-card';
+        const actressStr = Array.isArray(d.actress) ? d.actress.join('、') : (d.actress || '');
+        card.innerHTML = `<div style="position:relative;">
+            <img src="${d.cover_url||''}" alt="${d.title||''}">
+            <div class="actor">${actressStr}</div>
+            <div class="card-type">${d.type||''}</div>
+          </div>
+          <div class="drama-info">
+            <div class="idcode">${d.IDcode||''}</div>
+            <div class="title">${d.title||''}</div>
+            <div class="meta"><span>📅 ${d.publish_date||''}</span><span>⭐ ${d.rating||''}</span></div>
+          </div>`;
+        card.onclick = () => { if(d.title_play_url) window.location.href = d.title_play_url; };
+        target.appendChild(card);
+      });
+    } else {
+      console.error("page_1.js 未定义 window.PAGE_DATA");
+    }
+  };
+  document.body.appendChild(script);
+}
+
+
 /* 3D动漫专区 */
-async function loadChinaDramas() {
+async function load3DanimeDramas() {
   const target = document.getElementById('3Danime');
   target.innerHTML = ''; // 清空原有内容
 
@@ -366,9 +411,9 @@ document.addEventListener('DOMContentLoaded', () => {
   loadLatestAV();    // 这里改为加载 latest_100.js
   loadActresses();
   loadCompanyList();
-  loadChinaDramas();
+  load3DanimeDramas();
   loadJapanAnimeDramas();
-  
+  loadMMDDramas();
 });
 </script>
 </body>
