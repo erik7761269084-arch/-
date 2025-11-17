@@ -1,41 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 24547,
-    "title": "受胎岛2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2015-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/af971a4ae991942e9e7506284e7bd180.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24547"
-  },
-  {
-    "id": 241,
-    "title": "受胎岛上下卷一口气剪完__巨乳女人好好享受肉棒带来得快感吧",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "中文字幕"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250215-1/2441913954567dcdeff35fe030cefb39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=241"
-  },
-  {
-    "id": 1799,
-    "title": "受胎島",
-    "year": "2000",
+    "id": 1365,
+    "title": "和明菜一起在溫泉做愛吧",
+    "year": "2007",
     "country": "",
     "genre": "",
     "genres": [
@@ -44,61 +11,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302033.avif?1751098715",
+    "cover_url": "https://ptt.co/images/node/30/301400.avif?1751099530",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1799"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1365"
   },
   {
-    "id": 40563,
-    "title": "受胎島-第1集",
-    "year": "2000",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302033.avif?1751098715",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40563"
-  },
-  {
-    "id": 40564,
-    "title": "受胎島-第2集",
-    "year": "2000",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302033.avif?1751098715",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40564"
-  },
-  {
-    "id": 19494,
-    "title": "受被掐住腰无法逃脱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"DoubleP\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250530-1/95ef1784f11a96551e8a0728461ff27e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19494"
-  },
-  {
-    "id": 28459,
-    "title": "变川东方知识",
+    "id": 23965,
+    "title": "和朋友一起去援交的悠西援交少女",
     "year": "",
     "country": "",
     "genre": "",
@@ -108,13 +27,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/f7ef4b633e6d891301de8d576ae8be70.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/55b670283f87d4f67d22d91a2efd6aed.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28459"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23965"
   },
   {
-    "id": 28484,
-    "title": "变川十六夜咲也第5部分",
+    "id": 7505,
+    "title": "和服少女茶艺研习：轮流侍奉の淫乱研修日记[THEA",
     "year": "",
     "country": "",
     "genre": "",
@@ -124,13 +43,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/e3b2bc47115d947f96c189d0b63959d8.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/27/685d8a7c43d697271642ef6f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28484"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7505"
   },
   {
-    "id": 7539,
-    "title": "变态医生被强制调教！白大褂紧身裙护士的惩罚室",
+    "id": 7625,
+    "title": "和清纯学妹夏川ひな的甜蜜性爱♥内射中出超刺激",
     "year": "",
     "country": "",
     "genre": "",
@@ -140,13 +59,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685ae7e73ed39b57c0e6565d/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/17/685131d743d6972716cc6180/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7539"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7625"
   },
   {
-    "id": 7530,
-    "title": "变态医生诊室实录：实习护士的性爱诊疗调教日记",
+    "id": 23923,
+    "title": "和火辣的护士发生关系",
     "year": "",
     "country": "",
     "genre": "",
@@ -156,13 +75,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c3b773ed39b57c0f1c20b/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7be9e86be8402d2156b2e3ed52986352.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7530"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23923"
   },
   {
-    "id": 24226,
-    "title": "变态的乌贼",
+    "id": 8580,
+    "title": "和爸爸捉迷藏",
     "year": "",
     "country": "",
     "genre": "",
@@ -172,13 +91,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4075e040e4f34d5c131599f6f62fa751.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/17/67ffd8bd4e7d663df4f24d7f/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24226"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8580"
   },
   {
-    "id": 6131,
-    "title": "变态的性行为",
+    "id": 23783,
+    "title": "和男友玩痴汉游戏",
     "year": "",
     "country": "",
     "genre": "",
@@ -188,13 +107,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/20/48e8103cd52a4fec6390bb026cdb3861.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a354feb1db71750c3c3362e957f6306c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6131"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23783"
   },
   {
-    "id": 6142,
-    "title": "变态许可证1-没有人帮助我",
+    "id": 8622,
+    "title": "和粉絲米娜桑的攝影會[水手服].",
     "year": "",
     "country": "",
     "genre": "",
@@ -204,13 +123,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/21/41f3bb948d804233fb1a36d973105eef.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/16/67feb4c5cf22ae3e0438ef04/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6142"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8622"
   },
   {
-    "id": 6141,
-    "title": "变态许可证2-我不能回去",
+    "id": 8621,
+    "title": "和粉絲米娜桑的攝影會[竞泳服]",
     "year": "",
     "country": "",
     "genre": "",
@@ -220,397 +139,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/21/d81691873bbff8b607e134674f285bcb.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/16/67feb476cf22ae3e0438ef03/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6141"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8621"
   },
   {
-    "id": 24244,
-    "title": "变性男去参加Cos展会",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/02db09679ffca006c99808dae4579373.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24244"
-  },
-  {
-    "id": 23744,
-    "title": "变身成黑辣妹之后和死党上床了1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/52b84474476d7ef27af9fc6592beec7e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23744"
-  },
-  {
-    "id": 23747,
-    "title": "变身成黑辣妹之后和死党上床了2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/71af136e4e655639236de50a8671f881.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23747"
-  },
-  {
-    "id": 23748,
-    "title": "变身成黑辣妹之后和死党上床了3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/efe47c5f6ce40e9ff9985540256f646c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23748"
-  },
-  {
-    "id": 23749,
-    "title": "变身成黑辣妹之后和死党上床了4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7c866433dbb8311b8d5e5643885330fa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23749"
-  },
-  {
-    "id": 23742,
-    "title": "变身成黑辣妹之后和死党上床了5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/568ab395e657fbfbc4305ee1f1d5b13c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23742"
-  },
-  {
-    "id": 23738,
-    "title": "变身成黑辣妹之后和死党上床了6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ce39736177831de2fcbf4f6e78e60579.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23738"
-  },
-  {
-    "id": 23739,
-    "title": "变身成黑辣妹之后和死党上床了7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/b12b02012d2ecd0fbda048af84e38454.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23739"
-  },
-  {
-    "id": 23736,
-    "title": "变身成黑辣妹之后和死党上床了8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ffefc71a2a6a420c0ea58ff2d046873f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23736"
-  },
-  {
-    "id": 28473,
-    "title": "变身成黑辣妹之后就和死党上床了第1话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/76dec9b4bae0108d1792f27ffe9243f5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28473"
-  },
-  {
-    "id": 28464,
-    "title": "变身成黑辣妹之后就和死党上床了第2话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/fc5ce6feb7953e725ef8f84e6410d1ba.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28464"
-  },
-  {
-    "id": 28475,
-    "title": "变身成黑辣妹之后就和死党上床了第3话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/dd80f0bd4dcd56309d96e3f1995230d9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28475"
-  },
-  {
-    "id": 28489,
-    "title": "变身成黑辣妹之后就和死党上床了第4话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/e5701d6692fe23369968ed8c0aa45eeb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28489"
-  },
-  {
-    "id": 28460,
-    "title": "变身成黑辣妹之后就和死党上床了第5话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/fc2c6dae5edbc7ae1751ee75c7245493.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28460"
-  },
-  {
-    "id": 28488,
-    "title": "变身成黑辣妹之后就和死党上床了第6话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/d9bb9884d3c124981af9dcdf7501045b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28488"
-  },
-  {
-    "id": 28487,
-    "title": "变身成黑辣妹之后就和死党上床了第7话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/f1a2a729a94573aa1ae7bc6e8abc59f8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28487"
-  },
-  {
-    "id": 28485,
-    "title": "变身成黑辣妹之后就和死党上床了第8话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/e90519482a914ef1f2df503fa5c9ff57.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28485"
-  },
-  {
-    "id": 24925,
-    "title": "叛逆姐妹，在爸爸面前做",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/b3e21435459c5398279989396f6fdf10.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24925"
-  },
-  {
-    "id": 38120,
-    "title": "口交Pure～御手洗家發生的淫事～",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301712.avif?1751099844",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38120"
-  },
-  {
-    "id": 1013,
-    "title": "口交女主播",
-    "year": "2011",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301711.avif?1751099496",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1013"
-  },
-  {
-    "id": 8946,
-    "title": "口交撕裂喉咙.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/31/67e9770ccf22ae3e04ad3fa1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8946"
-  },
-  {
-    "id": 24645,
-    "title": "口爆大肉棒！深喉也进不去！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e2aa3018f93bfa1579e73442930dd910.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24645"
-  },
-  {
-    "id": 24590,
-    "title": "口爆隐形男的大肉棒！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/754aacd5e1495ba67c1d1acc19121339.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24590"
-  },
-  {
-    "id": 8871,
-    "title": "古城弹珠弹第4集大家的暑假.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/05/67f08f704e7d663df48351ef/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8871"
-  },
-  {
-    "id": 2452,
-    "title": "古装女友系列-清漪客栈NTR，这个真不错",
+    "id": 721,
+    "title": "和萨雷妻子一周3次动画漫画版",
     "year": "",
     "country": "",
     "genre": "",
@@ -622,11 +157,11 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2452"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=721"
   },
   {
-    "id": 305,
-    "title": "古风江湖之师娘篇",
+    "id": 7835,
+    "title": "和超好色辣妹碧池三人組一起去！無套內射溫泉巴士團",
     "year": "",
     "country": "",
     "genre": "",
@@ -636,109 +171,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250226-1/4bbbcb2ae5d03b079877dcbd2eb27650.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/26/68342626fe8f4a8220673316/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=305"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7835"
   },
   {
-    "id": 448,
-    "title": "古风江湖萧家蝶儿篇_上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250322-1/61963e43ad73077baedbfed31430c83a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=448"
-  },
-  {
-    "id": 460,
-    "title": "古风江湖萧家蝶儿篇_下",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250323-1/d2184fbb750cad1ea453e99b659738c3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=460"
-  },
-  {
-    "id": 838,
-    "title": "只对你说晚安",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=838"
-  },
-  {
-    "id": 902,
-    "title": "只對你說晚安",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=902"
-  },
-  {
-    "id": 6019,
-    "title": "只属于我的变态女友1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2017-08-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b88a58cf22ae3e04db4f79/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6019"
-  },
-  {
-    "id": 5953,
-    "title": "只属于我的变态女友2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2017-08-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b88a61cf22ae3e04db4f7a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5953"
-  },
-  {
-    "id": 38352,
-    "title": "只屬於我和朋友媽媽的秘密時光前篇",
+    "id": 38377,
+    "title": "和鄰家巨乳妹在家庭浴池裡",
     "year": "2020",
     "country": "",
     "genre": "",
@@ -748,61 +187,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297185.avif?1751097778",
+    "cover_url": "https://ptt.co/images/node/29/297463.avif?1751099119",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38352"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38377"
   },
   {
-    "id": 1525,
-    "title": "只屬於我的變態女友",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302050.avif?1751099442",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1525"
-  },
-  {
-    "id": 40761,
-    "title": "只屬於我的變態女友-第1集",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302050.avif?1751099442",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40761"
-  },
-  {
-    "id": 40762,
-    "title": "只屬於我的變態女友-第2集",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302050.avif?1751099442",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40762"
-  },
-  {
-    "id": 865,
-    "title": "只屬於我的變態女友2",
+    "id": 23761,
+    "title": "和闺蜜的互相舔阴",
     "year": "",
     "country": "",
     "genre": "",
@@ -812,29 +203,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/fb492e9cddf8be04706bb25be008d375.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=865"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23761"
   },
   {
-    "id": 39621,
-    "title": "只想被你愛",
-    "year": "2019",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/113825.avif?1751110302",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39621"
-  },
-  {
-    "id": 5835,
-    "title": "只想被鸡鸡抽插的色色阿妮斯-胜利女神：妮姬",
+    "id": 24937,
+    "title": "咖啡厅的第二项服务",
     "year": "",
     "country": "",
     "genre": "",
@@ -844,93 +219,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/fb10bf1695febd7c259083f4e551ed5a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5835"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24937"
   },
   {
-    "id": 8667,
-    "title": "只是调情性爱2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/14/67fc23c54e7d663df4cf3c9c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8667"
-  },
-  {
-    "id": 39791,
-    "title": "只有神知道的世界OVA花音100%",
-    "year": "2013",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/24/241445.avif?1751102168",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39791"
-  },
-  {
-    "id": 41935,
-    "title": "只有神知道的世界天理篇-第1集",
-    "year": "2012",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/19/191533.avif?1751105746",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41935"
-  },
-  {
-    "id": 41936,
-    "title": "只有神知道的世界天理篇-第2集",
-    "year": "2012",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/19/191533.avif?1751105746",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41936"
-  },
-  {
-    "id": 1068,
-    "title": "只能触摸一分钟哦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1068"
-  },
-  {
-    "id": 7715,
-    "title": "只要喝醉就能非常簡單地性愛～叔母編～",
+    "id": 643,
+    "title": "咖啡店Jeanky2nd_Caffe_Latte上下卷一口气看完_咖啡店里的性",
     "year": "",
     "country": "",
     "genre": "",
@@ -941,64 +236,77 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/68411f4741a147ed1a5befa8/cover.jpg",
+    "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7715"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=643"
   },
   {
-    "id": 7716,
-    "title": "只要喝醉就能非常簡單地性愛～従姉編～",
-    "year": "",
+    "id": 1706,
+    "title": "咖啡成癮者",
+    "year": "2011",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/68411f5b41a147ed1a5befa9/cover.jpg",
+    "cover_url": "https://ptt.co/images/node/30/301381.avif?1751099539",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7716"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1706"
   },
   {
-    "id": 7110,
-    "title": "召唤出来的淫荡魅魔竟是我的继母1",
-    "year": "",
+    "id": 40853,
+    "title": "咖啡成癮者-第1集",
+    "year": "2011",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f3e311fcdee36fa803ca8/poster2.jpg",
+    "cover_url": "https://ptt.co/images/node/30/301381.avif?1751099539",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7110"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40853"
   },
   {
-    "id": 7109,
-    "title": "召唤出来的淫荡魅魔竟是我的继母2",
-    "year": "",
+    "id": 40854,
+    "title": "咖啡成癮者-第2集",
+    "year": "2011",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "中文字幕"
+      "日本里番"
     ],
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f3e301fcdee36fa803ca7/poster2.jpg",
+    "cover_url": "https://ptt.co/images/node/30/301381.avif?1751099539",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7109"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40854"
   },
   {
-    "id": 965,
-    "title": "召唤魅魔结果义母来了",
+    "id": 38812,
+    "title": "哆啦A夢：新·大雄的日本誕生",
+    "year": "2016",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/44/444882.avif?1751087626",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38812"
+  },
+  {
+    "id": 8572,
+    "title": "哈莱姆·邪教",
     "year": "",
     "country": "",
     "genre": "",
@@ -1008,13 +316,285 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/18/68013d114e7d663df4fdb28a/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=965"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8572"
   },
   {
-    "id": 108,
-    "title": "召唤魅魔结果义母来了!?1",
+    "id": 38642,
+    "title": "哈邁德白濁墮落～生中出，可以得到工作嗎？～",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297848.avif?1751100192",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38642"
+  },
+  {
+    "id": 8239,
+    "title": "哥哥、早上起床之前要一直抱紧我哦！2.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/03/681590c2361668305a9c718a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8239"
+  },
+  {
+    "id": 1214,
+    "title": "哥哥、早上起床之前要一直抱緊我哦！",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302198.avif?1751099809",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1214"
+  },
+  {
+    "id": 43208,
+    "title": "哥哥、早上起床之前要一直抱緊我哦！-第1集",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302198.avif?1751099809",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43208"
+  },
+  {
+    "id": 43209,
+    "title": "哥哥、早上起床之前要一直抱緊我哦！-第2集",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302198.avif?1751099809",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43209"
+  },
+  {
+    "id": 43210,
+    "title": "哥哥、早上起床之前要一直抱緊我哦！-第3集",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302198.avif?1751099809",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43210"
+  },
+  {
+    "id": 43211,
+    "title": "哥哥、早上起床之前要一直抱緊我哦！-第4集",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302198.avif?1751099809",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43211"
+  },
+  {
+    "id": 24107,
+    "title": "哥哥每天偷偷与我发情",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ac3624507c94a47d357bbd02f987cc7f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24107"
+  },
+  {
+    "id": 8558,
+    "title": "哥哥深喉我吧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/18/6801e792cf22ae3e044c9d9f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8558"
+  },
+  {
+    "id": 38314,
+    "title": "哥布林巢穴",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297826.avif?1751099204",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38314"
+  },
+  {
+    "id": 20092,
+    "title": "哥布林巢穴3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250511-1/3fd90cf13eb1843c7b5d8994fe88981e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20092"
+  },
+  {
+    "id": 2310,
+    "title": "哥布林的巢穴",
+    "year": "2017",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297795.avif?1751097730",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2310"
+  },
+  {
+    "id": 43052,
+    "title": "哥布林的巢穴-第1集",
+    "year": "2017",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297795.avif?1751097730",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43052"
+  },
+  {
+    "id": 43053,
+    "title": "哥布林的巢穴-第2集",
+    "year": "2017",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297795.avif?1751097730",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43053"
+  },
+  {
+    "id": 43054,
+    "title": "哥布林的巢穴-第3集",
+    "year": "2017",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297795.avif?1751097730",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43054"
+  },
+  {
+    "id": 43055,
+    "title": "哥布林的巢穴-第4集",
+    "year": "2017",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297795.avif?1751097730",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43055"
+  },
+  {
+    "id": 19998,
+    "title": "哥布林的巢穴4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/4090358a9990c86e14669de836cc19c9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19998"
+  },
+  {
+    "id": 5945,
+    "title": "哥布林的巢穴第一集巡礼者",
     "year": "",
     "country": "日本",
     "genre": "日本里番",
@@ -1026,12 +606,12 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=108"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5945"
   },
   {
-    "id": 1128,
-    "title": "召喚魅魔結果義母來了!",
-    "year": "",
+    "id": 1453,
+    "title": "唔...來嘛",
+    "year": "2011",
     "country": "",
     "genre": "",
     "genres": [
@@ -1040,30 +620,14 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250517-1/9f4635b041aa8dfb08a0e15cf8f84fe0.jpg",
+    "cover_url": "https://ptt.co/images/node/30/302036.avif?1751098825",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1128"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1453"
   },
   {
-    "id": 8501,
-    "title": "召喚魅魔結果義母來了!-1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2022-11-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/20/680473844e7d663df4129bea/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8501"
-  },
-  {
-    "id": 8500,
-    "title": "召喚魅魔結果義母來了!-2",
-    "year": "",
+    "id": 40765,
+    "title": "唔...來嘛-第1集",
+    "year": "2011",
     "country": "",
     "genre": "",
     "genres": [
@@ -1072,14 +636,14 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/20/680473654e7d663df4129be0/cover.jpg",
+    "cover_url": "https://ptt.co/images/node/30/302036.avif?1751098825",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8500"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40765"
   },
   {
-    "id": 40217,
-    "title": "召喚魅魔結果義母來了-第1集",
-    "year": "2019",
+    "id": 40766,
+    "title": "唔...來嘛-第2集",
+    "year": "2011",
     "country": "",
     "genre": "",
     "genres": [
@@ -1088,191 +652,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302276.avif?1751098795",
+    "cover_url": "https://ptt.co/images/node/30/302036.avif?1751098825",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40217"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40766"
   },
   {
-    "id": 40218,
-    "title": "召喚魅魔結果義母來了-第2集",
-    "year": "2019",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302276.avif?1751098795",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40218"
-  },
-  {
-    "id": 686,
-    "title": "可丽丝七到十三话一口气看完_",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "中文字幕"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=686"
-  },
-  {
-    "id": 7877,
-    "title": "可以去你家、強上你嗎？～進京鄉下小妹篇～[中文",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "中文字幕"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/22/682f34b88c4b3b91d75a15a6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7877"
-  },
-  {
-    "id": 2666,
-    "title": "可変ジオネオ1-VariableGeoNeo1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/mzq4kfy00i0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2666"
-  },
-  {
-    "id": 2667,
-    "title": "可変ジオネオ2-VariableGeoNeo2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/lnngm3ylrlg.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2667"
-  },
-  {
-    "id": 727,
-    "title": "可姉妹の凌辱劇場",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=727"
-  },
-  {
-    "id": 24857,
-    "title": "可怕的女孩们",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3d994843e1b0e8e0f5b70c5f2c63665d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24857"
-  },
-  {
-    "id": 38176,
-    "title": "可愛小母狗～溫柔的女孩…～",
-    "year": "2009",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301442.avif?1751099879",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38176"
-  },
-  {
-    "id": 1308,
-    "title": "可愛甜心",
-    "year": "2000",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302166.avif?1751098808",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1308"
-  },
-  {
-    "id": 40415,
-    "title": "可愛甜心-第1集",
-    "year": "2000",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302166.avif?1751098808",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40415"
-  },
-  {
-    "id": 40416,
-    "title": "可愛甜心-第2集",
-    "year": "2000",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302166.avif?1751098808",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40416"
-  },
-  {
-    "id": 38703,
-    "title": "可愛的SM女僕工作SM課彩",
+    "id": 38761,
+    "title": "唯一愛的人就是我的丈夫",
     "year": "2020",
     "country": "",
     "genre": "",
@@ -1282,125 +668,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297270.avif?1751099860",
+    "cover_url": "https://ptt.co/images/node/29/297610.avif?1751099828",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38703"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38761"
   },
   {
-    "id": 8631,
-    "title": "可晴-性爱舞蹈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/15/67fd413acf22ae3e042b00b3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8631"
-  },
-  {
-    "id": 8921,
-    "title": "可爱家庭教师印花布惩罚淫荡淫秽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/03/67edf17ccf22ae3e04c5d673/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8921"
-  },
-  {
-    "id": 8741,
-    "title": "可爱的SM女仆的家族中传承的秘技第二集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/11/67f7f054cf22ae3e04020357/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8741"
-  },
-  {
-    "id": 2665,
-    "title": "可爱的xCation动画-LovelyxCationTheAnimation1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/djr4iqihn2v.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2665"
-  },
-  {
-    "id": 24844,
-    "title": "可爱的女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2784c4e9405b7210ebc0fcb3180642a4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24844"
-  },
-  {
-    "id": 327,
-    "title": "可爱的女孩子是性爱大师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250302-1/1231f8db90750cb380c8528ac8f6ab9f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=327"
-  },
-  {
-    "id": 24877,
-    "title": "可爱的妹妹们",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/617e0855a8fe89e0e560218d041f7356.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24877"
-  },
-  {
-    "id": 91,
-    "title": "可爱黑发丸子头萝莉用淫荡的眼神帮你口交，势必要把精液都榨出来！",
+    "id": 2460,
+    "title": "唱歌的大姐姐也想做爱哦",
     "year": "",
     "country": "",
     "genre": "",
@@ -1412,11 +686,11 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=91"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2460"
   },
   {
-    "id": 2821,
-    "title": "叱って淫語三咲主任の部下教育編-ShikatteIngo",
+    "id": 17198,
+    "title": "啊sdedaykHichrls恶魔sk版",
     "year": "",
     "country": "",
     "genre": "",
@@ -1426,13 +700,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/151hsy0ndba.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/9adbefefde4ec2410cf0d6fb00afde92.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2821"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17198"
   },
   {
-    "id": 23524,
-    "title": "叱って淫语～三咲主任の部下教育编～",
+    "id": 7839,
+    "title": "啪啪女巫！咻拉拉醬與毛茸茸的女巫的高潮性生活[",
     "year": "",
     "country": "",
     "genre": "",
@@ -1442,13 +716,45 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/fc813c369418caf2158326112a308ea2.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/6832bf4835d00134fb8504a8/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23524"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7839"
   },
   {
-    "id": 8548,
-    "title": "吃完饭吃你呀",
+    "id": 41895,
+    "title": "喂，看見耳朵啦！第2季-第1集",
+    "year": "2019",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/115980.avif?1751116116",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41895"
+  },
+  {
+    "id": 41896,
+    "title": "喂，看見耳朵啦！第2季-第2集",
+    "year": "2019",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/115980.avif?1751116116",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41896"
+  },
+  {
+    "id": 24824,
+    "title": "喜欢就可以了后编",
     "year": "",
     "country": "",
     "genre": "",
@@ -1458,13 +764,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/18/68012c4acf22ae3e044c99fd/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a7ac23133cdabe98da7a5b0f8c0057d5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8548"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24824"
   },
   {
-    "id": 8585,
-    "title": "吃镇痛剂破处",
+    "id": 8612,
+    "title": "喜欢有魅力的姐姐吗",
     "year": "",
     "country": "",
     "genre": "",
@@ -1474,13 +780,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/17/67ffdbde4e7d663df4f24d92/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/16/67feb827cf22ae3e0438ef0d/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8585"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8612"
   },
   {
-    "id": 28324,
-    "title": "吃龙斗寺石门情色故事的妹子你一定会心旷神怡",
+    "id": 7103,
+    "title": "喜欢肉棒的巨乳女上司",
     "year": "",
     "country": "",
     "genre": "",
@@ -1491,18 +797,193 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/7e5ddddae9963c8f18a67a02dcfe12f0.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f3e3a1fcdee36fa803ca9/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28324"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7103"
   },
   {
-    "id": 6029,
-    "title": "同人动画尼尔·机械纪元：丰满身材引人遐想骑乘抽插后入插入探索禁忌的机械欲望",
+    "id": 24811,
+    "title": "喜欢骑公鸡的光滑猫",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9128a844afa2917d561e60b647b0aa2a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24811"
+  },
+  {
+    "id": 1275,
+    "title": "喜歡、喜歡、最喜歡了",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301504.avif?1751098555",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1275"
+  },
+  {
+    "id": 40851,
+    "title": "喜歡、喜歡、最喜歡了-第1集",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301504.avif?1751098555",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40851"
+  },
+  {
+    "id": 40852,
+    "title": "喜歡、喜歡、最喜歡了-第2集",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301504.avif?1751098555",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40852"
+  },
+  {
+    "id": 38178,
+    "title": "喪服妻～未亡人保奈美～",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301468.avif?1751099903",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38178"
+  },
+  {
+    "id": 38500,
+    "title": "喪服妻～美麗女老闆娘・美恵～",
+    "year": "2010",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301469.avif?1751099418",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38500"
+  },
+  {
+    "id": 2759,
+    "title": "喰ヒ人-Kuraibito",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/tj2qbjaekz3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2759"
+  },
+  {
+    "id": 21479,
+    "title": "喰ヒ人ツンデレストッキング・琴音～乱れ尻ハメ乗り2穴～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"PoRO\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/d6b238b1abc035eb0ec14ebbe2b82b57.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21479"
+  },
+  {
+    "id": 8172,
+    "title": "喰客",
+    "year": "2010",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2014-06-01",
+    "cover_url": "https://ptt.co/images/node/30/301729.avif?1751099381",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8172"
+  },
+  {
+    "id": 4403,
+    "title": "嘴巴肛门双插",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/bb72a41a021077f7fd8cb19169c724fd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4403"
+  },
+  {
+    "id": 8929,
+    "title": "嘿...让我们开始吧，第1部分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/03/67edefb9cf22ae3e04c5d5f8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8929"
+  },
+  {
+    "id": 885,
+    "title": "噗叽噗叽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "日本里番"
     ],
     "type": "无码",
@@ -1510,79 +991,27 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6029"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=885"
   },
   {
-    "id": 694,
-    "title": "同人混轻bgm",
-    "year": "",
+    "id": 39099,
+    "title": "噩夢的睡姿遊戲-紫藤愛瑪篇",
+    "year": "2020",
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "日本里番"
     ],
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://ptt.co/images/node/29/297812.avif?1751100200",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=694"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39099"
   },
   {
-    "id": 5851,
-    "title": "同人系列原神的八重神子和服巨乳乳交，抽插内射高潮不断",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "同人动漫",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img.cdn202511.com/videos/202507/09/686e2244d640eb31df49fcc9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5851"
-  },
-  {
-    "id": 5850,
-    "title": "同人系列原神雷电将军的丝袜和美腿，穿着性感和服帮你深喉口交颜射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "同人动漫",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5850"
-  },
-  {
-    "id": 5852,
-    "title": "同人系列我推的孩子黑川茜颜值逆天口交颜射，后入内射肉感十足",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "同人动漫",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img.cdn202511.com/videos/202507/09/686e21f9d640eb31df4977a5/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5852"
-  },
-  {
-    "id": 24250,
-    "title": "同在异世界",
+    "id": 27755,
+    "title": "噩梦戴绿帽游戏-紫藤",
     "year": "",
     "country": "",
     "genre": "",
@@ -1592,13 +1021,77 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a704b1decad22f89c6c7b34837f2759a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/128ce99b3c7b18a590d7e94a0796930b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24250"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27755"
   },
   {
-    "id": 635,
-    "title": "同学的妈妈_クラスメイトのお母さん上下卷一口气看完__你愿意接受阿姨的小穴吗",
+    "id": 27748,
+    "title": "噩梦死神镰刀1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/8c879460acc78366862ec7b438014484.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27748"
+  },
+  {
+    "id": 41307,
+    "title": "噬血狂襲第1季OVA-第1集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/37/374342.avif?1751097803",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41307"
+  },
+  {
+    "id": 41308,
+    "title": "噬血狂襲第1季OVA-第2集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/37/374342.avif?1751097803",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41308"
+  },
+  {
+    "id": 38210,
+    "title": "噼腿與死會",
+    "year": "2010",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302135.avif?1751097334",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38210"
+  },
+  {
+    "id": 7860,
+    "title": "囂張JK口爆內射無套中出",
     "year": "",
     "country": "",
     "genre": "",
@@ -1609,8 +1102,504 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/6832be6235d00134fb84f911/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7860"
+  },
+  {
+    "id": 3105,
+    "title": "四国のシャガ1-ShikkokunoShaga1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/by14jq45gpy.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3105"
+  },
+  {
+    "id": 3106,
+    "title": "四国のシャガ2-ShikkokunoShaga2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/2s0tx4533bu.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3106"
+  },
+  {
+    "id": 2906,
+    "title": "四国の舎3-ShikkokunoShaga3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/nesqgu4dofd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2906"
+  },
+  {
+    "id": 783,
+    "title": "四妹章鱼嘴诱惑黑啪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=635"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=783"
+  },
+  {
+    "id": 707,
+    "title": "四季映姬·夜摩仙那度与淫乱公主Eiki",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=707"
+  },
+  {
+    "id": 8630,
+    "title": "四月视频[怨恨]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/15/67fd4130cf22ae3e042b00b1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8630"
+  },
+  {
+    "id": 2907,
+    "title": "四条狂談1-ShikijouKyoudan1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/4hgs53gonem.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2907"
+  },
+  {
+    "id": 38565,
+    "title": "四葉OVA",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297378.avif?1751100234",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38565"
+  },
+  {
+    "id": 39875,
+    "title": "四葉OVA2",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297377.avif?1751099982",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39875"
+  },
+  {
+    "id": 40018,
+    "title": "四重星",
+    "year": "2024",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/48/489208.avif?1751081244",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40018"
+  },
+  {
+    "id": 40673,
+    "title": "回到童年再犯一次-第1集",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/44/445834.avif?1751086611",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40673"
+  },
+  {
+    "id": 40674,
+    "title": "回到童年再犯一次-第2集",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/44/445834.avif?1751086611",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40674"
+  },
+  {
+    "id": 40185,
+    "title": "回到童年干回去!!!-第1集",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302101.avif?1751099444",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40185"
+  },
+  {
+    "id": 40186,
+    "title": "回到童年干回去!!!-第2集",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302101.avif?1751099444",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40186"
+  },
+  {
+    "id": 8200,
+    "title": "回到童年干回去！！！2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2019-09-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/04/6816fd04c57e2706696aa0fb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8200"
+  },
+  {
+    "id": 1408,
+    "title": "回到童年幹回去!!!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250522-1/548d1883d8e4733c1225958c298646d1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1408"
+  },
+  {
+    "id": 24097,
+    "title": "回复术士的重启人生1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/709fb469989e600d0ba0305f42bd2150.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24097"
+  },
+  {
+    "id": 24080,
+    "title": "回复术士的重启人生11",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e20b96e9c4cf585a4ce3bc875295d19f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24080"
+  },
+  {
+    "id": 24042,
+    "title": "回复术士的重启人生2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/13565cacb0359a182b2f899c03ad47eb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24042"
+  },
+  {
+    "id": 23972,
+    "title": "回复术士的重启人生3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f8bd4801beb1a7ad50936a59f5baec82.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23972"
+  },
+  {
+    "id": 24055,
+    "title": "回复术士的重启人生4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3bef58519e8d1ee07ded444ebeb788bc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24055"
+  },
+  {
+    "id": 24126,
+    "title": "回复术士的重启人生5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2e4d27f3e5aac6a7f4fddc978a9504e7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24126"
+  },
+  {
+    "id": 24067,
+    "title": "回复术士的重启人生6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1d16b977c8e26ad5c2658c397f956f1d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24067"
+  },
+  {
+    "id": 24077,
+    "title": "回复术士的重启人生7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/54628f21a85cdcbd6b5c1cf930cfffcd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24077"
+  },
+  {
+    "id": 38769,
+    "title": "回家的路上～與上司的女兒二人獨處～",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/38/385199.avif?1751095727",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38769"
+  },
+  {
+    "id": 8216,
+    "title": "回归自然的暑假1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2018-12-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/04/6816fd15c57e2706696aa101/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8216"
+  },
+  {
+    "id": 2065,
+    "title": "回春",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301569.avif?1751099405",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2065"
+  },
+  {
+    "id": 2887,
+    "title": "回春-Sacrilege1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/ik5o5g4anw2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2887"
+  },
+  {
+    "id": 2888,
+    "title": "回春-Sacrilege2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/j0sw5bbhdna.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2888"
+  },
+  {
+    "id": 41385,
+    "title": "回春-第1集",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301569.avif?1751099405",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41385"
+  },
+  {
+    "id": 41386,
+    "title": "回春-第2集",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301569.avif?1751099405",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41386"
   }
 ];

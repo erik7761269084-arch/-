@@ -1,7 +1,7 @@
 window.PAGE_DATA = [
   {
-    "id": 20031,
-    "title": "AdaWong被BigFutaDick性交",
+    "id": 20946,
+    "title": "AnimationBustyBitcheswithPerfectCuntGetsFucksandCreampied",
     "year": "",
     "country": "",
     "genre": "",
@@ -11,13 +11,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/6696afcb7b7a5fb1d8506f1db940277b.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/047f86fb02a67afebec3c88428a994d9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20031"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20946"
   },
   {
-    "id": 19964,
-    "title": "ADLER瓦芙宁娜的任命",
+    "id": 19895,
+    "title": "Animeboy大奶Nagisa低声说脏话并给予激烈的打手枪",
     "year": "",
     "country": "",
     "genre": "",
@@ -27,13 +27,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/f98ebf3a7e9dc44a7f05b99462d649cf.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/01ccb679849265e20fba6183b56f50f3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19964"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19895"
   },
   {
-    "id": 19946,
-    "title": "ADLER范宁娜迷你裙",
+    "id": 19893,
+    "title": "Animezock高品质动漫版一个虐待狂的女孩和一个鸡巴的耐心游戏我会让你无法射精除非你允许你被允许了",
     "year": "",
     "country": "",
     "genre": "",
@@ -43,46 +43,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/4ef0aab0d574796d562019b723d28d67.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/8dd1fc372b0cfc0dbe3a57cbff8fa159.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19946"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19893"
   },
   {
-    "id": 7440,
-    "title": "ADN-001淫乱人妻の绝伦交尾第",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "人妻狩猎"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/30/6861bcd143d697271673933b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7440"
-  },
-  {
-    "id": 19826,
-    "title": "Adoku布尼斯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/db7b4478a9478ddcb62e2edbb4c760ad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19826"
-  },
-  {
-    "id": 7623,
-    "title": "ADV-R0324少女强制侵犯游戏",
+    "id": 19931,
+    "title": "Animopron打破安静",
     "year": "",
     "country": "",
     "genre": "",
@@ -93,13 +60,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/17/6851323443d6972716cc6184/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/2ccd5748433abefbb250fb82b63a28ca.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7623"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19931"
   },
   {
-    "id": 5818,
-    "title": "ADVENTURERSv2",
+    "id": 19822,
+    "title": "Aniporiraifu突然做爱可以吗",
     "year": "",
     "country": "",
     "genre": "",
@@ -109,45 +76,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/cef41500d6d569655d7a1b89547ae45f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5818"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19822"
   },
   {
-    "id": 4103,
-    "title": "After...THEANIMATION第1章",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"milky\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/979f976ccd00566c3f3799dbf3b6a729.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4103"
-  },
-  {
-    "id": 4101,
-    "title": "After...THEANIMATION第2章",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"milky\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/5451d0498502d0567eed0889146eb189.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4101"
-  },
-  {
-    "id": 19952,
-    "title": "After1",
+    "id": 20945,
+    "title": "Aniyome",
     "year": "",
     "country": "",
     "genre": "",
@@ -157,13 +92,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/af94705a273931ed7c112d11c7e15c8a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/834c17fda4ed8e54b7cfadcccdc9159c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19952"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20945"
   },
   {
-    "id": 19942,
-    "title": "After2",
+    "id": 21770,
+    "title": "AniyomeWaIjippari",
     "year": "",
     "country": "",
     "genre": "",
@@ -173,385 +108,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/9951f334dc0e366fc4a59b26880b2c0e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/70f61524f61333d69097e6461525046e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19942"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21770"
   },
   {
-    "id": 20880,
-    "title": "AfternoonPleasure",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/ef1bfa5ffe58b346ed3ee118de42d118.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20880"
-  },
-  {
-    "id": 1880,
-    "title": "After…",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301250.avif?1751099547",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1880"
-  },
-  {
-    "id": 41041,
-    "title": "After…-第1集",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301250.avif?1751099547",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41041"
-  },
-  {
-    "id": 41042,
-    "title": "After…-第2集",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301250.avif?1751099547",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41042"
-  },
-  {
-    "id": 19967,
-    "title": "AgentRedGirlSexsona3TiddyBoobsV1决赛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/ec1ac75ff7f54c281b6990775b564809.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19967"
-  },
-  {
-    "id": 19963,
-    "title": "AgentRedGirl仙女Pawg妈妈第1集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/b29d772e8dee529793dc54907219c994.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19963"
-  },
-  {
-    "id": 19939,
-    "title": "AgentRedGirl小猫熟女艾米的大愿望",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/c86d8d9150622541384d09c77622d390.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19939"
-  },
-  {
-    "id": 19829,
-    "title": "AgentRedGirl美丽大美女打手枪教学",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/1dcffa4b782694b35514051e80690d33.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19829"
-  },
-  {
-    "id": 19938,
-    "title": "Agentredtechnologyrl娃娃康提V1Final",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/cd65e820188f1a15866a708166dbe282.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19938"
-  },
-  {
-    "id": 19966,
-    "title": "Ahri性感韩流舞蹈英雄联盟",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/b1bdda81f9894c09489856ad691df092.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19966"
-  },
-  {
-    "id": 19940,
-    "title": "AI-MMDAdiosDracula地牢性爱重生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "MMD"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/95668fde07142f1f1bec807f5766c575.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19940"
-  },
-  {
-    "id": 19944,
-    "title": "AI-MMD崩坏镜流强流节奏疾速性爱速配",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "MMD"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/c28357b5a47356f60b47b485b5606de7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19944"
-  },
-  {
-    "id": 19949,
-    "title": "AI-MMD森卡里奥斯佩KTV包厢淫聚群P解锁各种性爱势力",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "MMD"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/a852592ffd862ff0769d5eacdb8663fc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19949"
-  },
-  {
-    "id": 19957,
-    "title": "AI-MMD神里绫华街头裸舞蹈3P脸射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "MMD"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/e06be07e2a2d2cea800a68d7b826a06d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19957"
-  },
-  {
-    "id": 869,
-    "title": "ai01绝色美人护士＋巨乳向",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=869"
-  },
-  {
-    "id": 292,
-    "title": "Aigis-BedroomAigis-FinaleAigis",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250224-1/b919282bdd53d98f76cfbd7b58b96e4a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=292"
-  },
-  {
-    "id": 37640,
-    "title": "AilManiax",
-    "year": "2007",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301662.avif?1751099851",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=37640"
-  },
-  {
-    "id": 42526,
-    "title": "AilManiax-第1集",
-    "year": "2007",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301662.avif?1751099851",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42526"
-  },
-  {
-    "id": 42527,
-    "title": "AilManiax-第2集",
-    "year": "2007",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301662.avif?1751099851",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42527"
-  },
-  {
-    "id": 42528,
-    "title": "AilManiax-第3集",
-    "year": "2007",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301662.avif?1751099851",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42528"
-  },
-  {
-    "id": 19962,
-    "title": "aistotleHarunaUgoiraSound-H动画Riban线视图-Hanime1.me",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/b51b1e49bedb13fd99071c2e55fa412b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19962"
-  },
-  {
-    "id": 19951,
-    "title": "aizwem",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/a23b034522966370cd1bc865e2393cf3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19951"
-  },
-  {
-    "id": 8868,
-    "title": "Ai☆Kyan第1卷“我不想那样做……”",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f15a2ecf22ae3e04de31ed/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8868"
-  },
-  {
-    "id": 19971,
-    "title": "aiルMANIAX猥亵魔斗魔女夜斗EPISODE1",
+    "id": 19798,
+    "title": "AnokoToiIikotoEpisode2好吧我们和姐姐一起玩吧",
     "year": "",
     "country": "",
     "genre": "",
@@ -562,64 +125,30 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/eb9a7fdc8394ea2121ef2bc2902ebe54.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/c7411d50c44d055b70f552b9d659c866.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19971"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19798"
   },
   {
-    "id": 19945,
-    "title": "AI原神宵宫",
+    "id": 19804,
+    "title": "AnokoToiIikoto第1集即使是这样的心也想被爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/8d06fafe4a62aa88c395391cba4b007a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19945"
-  },
-  {
-    "id": 19941,
-    "title": "AI原神雷电将军2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/0249acd1bae159b75212a3b73d83a1b5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19941"
-  },
-  {
-    "id": 19972,
-    "title": "AI斗罗大陆女主合集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "同人动漫",
       "日本里番",
-      "斗罗大陆",
-      "国漫女神"
+      "中文字幕"
     ],
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/420f933b11888e9293f5e0810b1fbda9.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/5884485dbe43a6cd641d2575e525cef4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19972"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19804"
   },
   {
-    "id": 19954,
-    "title": "AI諾娃-機娘育成方程式2EP9",
+    "id": 3864,
+    "title": "Anorsel-AMysteriousRitual",
     "year": "",
     "country": "",
     "genre": "",
@@ -629,13 +158,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/8c7e899d1004e469c9e8dd4f428d07c2.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/3b5a5084fc5977e48aecfe11e9967b44.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19954"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3864"
   },
   {
-    "id": 19831,
-    "title": "Akali-KDA口交",
+    "id": 21383,
+    "title": "Another第二夜夕暮れの教室、诱う艶髪",
     "year": "",
     "country": "",
     "genre": "",
@@ -645,13 +174,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/e7bc891a3db11de8e42bd3936d38aff7.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/e7ccecd9e1b0be789a002a63fe94154f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19831"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21383"
   },
   {
-    "id": 39,
-    "title": "Akali阿卡莉巨乳性感女忍的极致深喉口交口爆吞精",
+    "id": 19813,
+    "title": "Apocalust-第13集-鸡巴意外掉在她的臀部之间作者RedLady2K",
     "year": "",
     "country": "",
     "genre": "",
@@ -661,13 +190,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://img.cdn2025.life/videos/202509/20/68ce6302c1740d4b9b8a7a2b/cover.webp",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/62bcf025022917c46a005644e3dd4a7e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19813"
   },
   {
-    "id": 19937,
-    "title": "AkariNightService",
+    "id": 19818,
+    "title": "Aponia-BoundingSexHI3",
     "year": "",
     "country": "",
     "genre": "",
@@ -677,13 +206,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/b046cf6b7adc5f95c57f55503c8f048f.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/408b736256db9761db3224a64910f6f4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19937"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19818"
   },
   {
-    "id": 19830,
-    "title": "akchu克罗林德动画Ver.",
+    "id": 20883,
+    "title": "Araiya-san!OretoAitsuGaOnnayuDe!6EspañolSubtituladoHentaiOnline",
     "year": "",
     "country": "",
     "genre": "",
@@ -693,13 +222,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/283e0904c1d51f53510fb009fc8fdc18.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/bbe6eec21543d0e846d96b24c62acaf0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19830"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20883"
   },
   {
-    "id": 19936,
-    "title": "AkeakeNTR保护自己的人已经去世了Spicy",
+    "id": 20890,
+    "title": "Araiya-san!OretoAitsuGaOnnayuDe!8EspañolSubtituladoHentaiOnline",
     "year": "",
     "country": "",
     "genre": "",
@@ -709,13 +238,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/9775a4a4e6b4e9af6db0a45cc7e67069.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/0c4a4628db514374638e09144c2273cc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19936"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20890"
   },
   {
-    "id": 20879,
-    "title": "Aki-sora",
+    "id": 21409,
+    "title": "ArbeitShiyou!!Ep[720p]",
     "year": "",
     "country": "",
     "genre": "",
@@ -725,13 +254,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/d338c62a3acaebfd8b26e13e021cce3b.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/07072032e0b8605f4730f2a64cd26e38.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20879"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21409"
   },
   {
-    "id": 19947,
-    "title": "AkiFnMIYUGif视频",
+    "id": 19816,
+    "title": "ArinosuNikoDemara向后位置",
     "year": "",
     "country": "",
     "genre": "",
@@ -741,13 +270,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/cd9848333bfcf473f2b7ac94c35d2c37.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/60110e937ab27148ab9462d33fa72e17.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19947"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19816"
   },
   {
-    "id": 19974,
-    "title": "AkiFn合作动画GBFShindara",
+    "id": 19784,
+    "title": "Arinosu广田千代子打手枪",
     "year": "",
     "country": "",
     "genre": "",
@@ -757,13 +286,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/099791e9fdcb1737b67a3633359a2558.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/7401c032a056fa13bb577db4c3c26190.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19974"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19784"
   },
   {
-    "id": 19943,
-    "title": "akinoyaKei为美子世界上最好的祝福",
+    "id": 19825,
+    "title": "Arinosu木崎传教士位置",
     "year": "",
     "country": "",
     "genre": "",
@@ -773,13 +302,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/e7bab5e880f2f6a6efccf941e6c0254c.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/29d89e065042d47a8b01ba209d6e4138.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19943"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19825"
   },
   {
-    "id": 19935,
-    "title": "akinoyaMitosaFatestaynight",
+    "id": 258,
+    "title": "ArIR铅笔少女咲酱中出要看着自己小穴被填满",
     "year": "",
     "country": "",
     "genre": "",
@@ -789,13 +318,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/a9473b75cf6851aeba4e4e832b460809.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250218-1/ef1a22a973ce889829537df67e165cf6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19935"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=258"
   },
   {
-    "id": 19933,
-    "title": "akinoyaModeRaiDeFateApocrypha",
+    "id": 19807,
+    "title": "ArueichiLive2Danime傳聞與魅魔shishita發生性關係的商店",
     "year": "",
     "country": "",
     "genre": "",
@@ -805,13 +334,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/b039c37dd17fa7ec71b54adfe8ad6cd2.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/b656fb69b1ccf03e99f9b4b0483c321f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19933"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19807"
   },
   {
-    "id": 19869,
-    "title": "akinoya动画Momo和Seiko视频",
+    "id": 19796,
+    "title": "ArueichiLive2Danime吞噬冒险者的坏魅魔",
     "year": "",
     "country": "",
     "genre": "",
@@ -821,13 +350,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/345a55dc2fd05af4f93b161e261c1908.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/99521b0ba72f98359cb25d6e7e7177ea.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19869"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19796"
   },
   {
-    "id": 19872,
-    "title": "akinoya动画钻精子观看",
+    "id": 19810,
+    "title": "AshleyBustyPlusNudeMod-生化危机4",
     "year": "",
     "country": "",
     "genre": "",
@@ -837,13 +366,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/f5089a7a991abcf772192bcbe8497c04.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/3c61cc93e27a653475a474d74baabbbf.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19872"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19810"
   },
   {
-    "id": 19973,
-    "title": "akinoya北川Umimu",
+    "id": 19820,
+    "title": "AshleyGraham-BestSexCompilationRE4-有声未经审查",
     "year": "",
     "country": "",
     "genre": "",
@@ -853,13 +382,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/13af831a8d04f973c7641324fb36818c.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/6f0716d99b609714e77369646a0342d5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19973"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19820"
   },
   {
-    "id": 19956,
-    "title": "akinoya北川海之梦",
+    "id": 19814,
+    "title": "ASMR娇惯女仆的打手枪和舔耳朵男孩的女儿Vtuber",
     "year": "",
     "country": "",
     "genre": "",
@@ -869,13 +398,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/abd53a04a3f202b18617c8362fdfc9ff.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/bdc3b06ffee54f6657c64ea4089ffad5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19956"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19814"
   },
   {
-    "id": 19859,
-    "title": "akinoya喇嘛从零开始的异世界生活ReZero",
+    "id": 19808,
+    "title": "AssDepik希利丘尔斯",
     "year": "",
     "country": "",
     "genre": "",
@@ -885,13 +414,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/320b4fa04e7c434a3c47eaf457775c5a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/e94a0f78e1c4adc78e404aee2828e88c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19859"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19808"
   },
   {
-    "id": 19864,
-    "title": "akinoya基础性训练",
+    "id": 19786,
+    "title": "AtelierKobuMaitrei视频版",
     "year": "",
     "country": "",
     "genre": "",
@@ -901,13 +430,30 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/fbb8359b04d2c2384f03429cc8af7180.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/04579138b3e97e52671b3e08d22320f4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19864"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19786"
   },
   {
-    "id": 19865,
-    "title": "akinoya川上麻衣有限的幻象世界",
+    "id": 19789,
+    "title": "AtelierKobu扎纳坎德",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/fe0b6897f992334519c2604b4ac1e41f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19789"
+  },
+  {
+    "id": 19799,
+    "title": "AtelierKobu水野光Part1",
     "year": "",
     "country": "",
     "genre": "",
@@ -917,13 +463,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/1207e390b5c15dca33d0bcbbe7c5177e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/afb0941f141ee9d539167a2444b83bee.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19865"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19799"
   },
   {
-    "id": 19861,
-    "title": "akinoya御坂妹某科学超电动枪",
+    "id": 19803,
+    "title": "AtelierKobu粟夏",
     "year": "",
     "country": "",
     "genre": "",
@@ -933,13 +479,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/5fa1711f8cda07ebc343638cb772f6fb.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/433d9157b012d745257c666314b3b255.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19861"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19803"
   },
   {
-    "id": 19860,
-    "title": "akinoya拉夫托里加盾牌英雄纳里娜",
+    "id": 19788,
+    "title": "AtelierKobu达尔马斯卡之夜",
     "year": "",
     "country": "",
     "genre": "",
@@ -949,13 +495,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/acbde68fef4164783aacec5ba7728168.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/4711a04fae8c55b8e27f75f9b8dac6ad.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19860"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19788"
   },
   {
-    "id": 19863,
-    "title": "akinoya法律可用Gareis进阶巨人",
+    "id": 19793,
+    "title": "Audiodude开发的HMVPMV-ULTIMATEDLC",
     "year": "",
     "country": "",
     "genre": "",
@@ -965,13 +511,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/117c04952a12ab5a11893ebe4b3ff170.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/ef8e1db362ab2613dcd96c072d037aa1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19863"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19793"
   },
   {
-    "id": 19870,
-    "title": "akinoya焼塩柠檬LemonYakishio",
+    "id": 19791,
+    "title": "Aung15OnikataKayoko母牛和小牛雕像",
     "year": "",
     "country": "",
     "genre": "",
@@ -981,13 +527,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/d78d408ea9054777458bd8548e4db5ca.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/76dc5c56c841ac38b660ae2093c6d960.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19870"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19791"
   },
   {
-    "id": 19866,
-    "title": "akinoya田中明日香反吹上低音音符",
+    "id": 19797,
+    "title": "Aung15君岛淳乃催眠完整版",
     "year": "",
     "country": "",
     "genre": "",
@@ -997,13 +543,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/ffea6931b40eb68615a16d4a574b7a97.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/5200807aab8b75329603f98b5e081255.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19866"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19797"
   },
   {
-    "id": 19867,
-    "title": "akinoya稀有而特殊的百合和雷霆进步巨人",
+    "id": 19792,
+    "title": "Aung15相思衣服装",
     "year": "",
     "country": "",
     "genre": "",
@@ -1013,13 +559,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/c85c81fe6936b490105232d04dfb3e86.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/76fa1035c7505c7ea41b584dbf3498b7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19867"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19792"
   },
   {
-    "id": 19948,
-    "title": "Akinoya艾聉丝Garunder无职转生成就异世界真实的真相",
+    "id": 19806,
+    "title": "Aung15相思裸体入学仪式",
     "year": "",
     "country": "",
     "genre": "",
@@ -1029,13 +575,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/58a70caedc819e1fb2bce175124a73b2.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/3d6a355f43c9c6de70c2d4ba15373a51.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19948"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19806"
   },
   {
-    "id": 19868,
-    "title": "akinoya花濑桃花濑桃",
+    "id": 19802,
+    "title": "Aung15茶梅",
     "year": "",
     "country": "",
     "genre": "",
@@ -1045,13 +591,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/25b00f4f6d49baceaabb47816cf084e4.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/a7de3f0bac2ce5fa1470ffb92ac111bb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19868"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19802"
   },
   {
-    "id": 19871,
-    "title": "akinoya花濑精子花濑晶子",
+    "id": 13308,
+    "title": "AVATHELASTBLADE-EPISODE2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1061,13 +607,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/6edf97513b6011fb293c71f0078c409d.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/60d5c6fd460d4825a2691f70b37efa41.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19871"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=13308"
   },
   {
-    "id": 19862,
-    "title": "akinoya贝卡莎阿曼",
+    "id": 13219,
+    "title": "AVATheLastBladeEpisode1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1077,13 +623,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/8cf5a3c65d9811bca83f137c57d7d5d3.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/c7a9620dcda80a38f3bc840695a290a6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19862"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=13219"
   },
   {
-    "id": 19955,
-    "title": "akinoya阿尔托莉や潘德拉贡FateGrandOrder",
+    "id": 8820,
+    "title": "AV出道！！凛由纪“我的妹妹是巨乳AV女优”.",
     "year": "",
     "country": "",
     "genre": "",
@@ -1093,13 +639,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/8a577453aa5c03618659c0bb6a5ac69a.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/08/67f416a24e7d663df498d421/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19955"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8820"
   },
   {
-    "id": 19851,
-    "title": "Akira_Braier777阿祖伦01",
+    "id": 19801,
+    "title": "Awakotoya与你的妹妹做爱的动画",
     "year": "",
     "country": "",
     "genre": "",
@@ -1109,13 +655,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/de07fedf67aae32cdcdc1da0d0159ce3.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/8e0dd2e8c40620ecb72312679d5a4cac.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19851"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19801"
   },
   {
-    "id": 19917,
-    "title": "akira_Brave7772022SPAugustNijisanjiSummer01HeavyBeat-H动画Riban线视图-Hanime1.me",
+    "id": 19795,
+    "title": "Awakotoya二人之梦饼",
     "year": "",
     "country": "",
     "genre": "",
@@ -1125,13 +671,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/7467fdf01c3c530c0a5289dab59ea2c9.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/f206794b286f9d153914b5834de67e68.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19917"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19795"
   },
   {
-    "id": 19891,
-    "title": "akira_Brave7772022年SP10月rizeHeluesuta01双节拍",
+    "id": 19811,
+    "title": "AWAM-索菲亚在洗澡时用力服用了BBC",
     "year": "",
     "country": "",
     "genre": "",
@@ -1141,13 +687,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/78ccacf4ab07bb033f29ae0c9a5007a9.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250515-1/a152fcb410cfc05a634721c73dd5f408.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19891"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19811"
   },
   {
-    "id": 19929,
-    "title": "akira_Brave7772022年SPMayKisekoi01翻译",
+    "id": 19761,
+    "title": "AXENANIM哈莉奎茵X蝙蝠侠",
     "year": "",
     "country": "",
     "genre": "",
@@ -1157,13 +703,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/4cc05f04c8456657b9a4d0cf88b431d4.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/a83244dac254832ee005fcec7ebff78e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19929"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19761"
   },
   {
-    "id": 19913,
-    "title": "akira_Brave7772023SP12月_原神03_Freena01",
+    "id": 19762,
+    "title": "AXENANIM希芙x芙蕾雅",
     "year": "",
     "country": "",
     "genre": "",
@@ -1173,13 +719,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/2a24d78886809029167742ec9ba7ecbe.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/a10c79b5a81523c00f5cf08ac933b83a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19913"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19762"
   },
   {
-    "id": 19902,
-    "title": "akira_Brave7772023年SP3月_転sura01短缩版です本编は50分です",
+    "id": 19782,
+    "title": "AXENANIM艾莉与男孩们和克莱尔克莱尔女牛仔",
     "year": "",
     "country": "",
     "genre": "",
@@ -1189,13 +735,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/c72b5be1dd79954ca243c1aa929faef4.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/ab3b8de1d7ebd9110cd926e6e6682165.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19902"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19782"
   },
   {
-    "id": 19926,
-    "title": "akira_Brave7772024年SP10月星城水成和琼东和01",
+    "id": 19775,
+    "title": "AyakashiWorksImoutoRutin",
     "year": "",
     "country": "",
     "genre": "",
@@ -1205,13 +751,30 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/9b936b89af86b3fcacdb05110198d389.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/defb2658c822221dbe14fb9bd3e909bb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19926"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19775"
   },
   {
-    "id": 19906,
-    "title": "akira_Brave7772024年SP9月禅零01",
+    "id": 18130,
+    "title": "AyakaxAether动画HD",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[\"PastaPaprika\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250814-1/021073861b66e63a514e7dc93591b480.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18130"
+  },
+  {
+    "id": 19781,
+    "title": "AyanamiReiClassroomSex",
     "year": "",
     "country": "",
     "genre": "",
@@ -1221,13 +784,29 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/feb2db887a358aead0f1fac0aacacafd.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/6922a9f8e71022d807d5be596c0be951.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19906"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19781"
   },
   {
-    "id": 19840,
-    "title": "akira_Brave777FutoshiFutoshi和神崎和子01-H动画Riban在线观看-Hanime1.me",
+    "id": 19783,
+    "title": "Ayomoro보去过",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-08-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/2871d033678ddd3fca00160aa319d8fc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19783"
+  },
+  {
+    "id": 19764,
+    "title": "AzinythMySuccubusFriends演示1aZephyNight第1天",
     "year": "",
     "country": "",
     "genre": "",
@@ -1237,13 +816,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/d9214880d793101df06e110a150d4b80.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/67aefdcdb2ad74f22aaa2d38615b2fdf.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19840"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19764"
   },
   {
-    "id": 19855,
-    "title": "akira_Brave777KokanUi01",
+    "id": 19763,
+    "title": "AzurLane-NoshiroLoveStory1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1253,13 +832,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/acba0a3a80da226543826f48ef0952d3.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/38d63843842e817b8baf315c2fd46ea7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19855"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19763"
   },
   {
-    "id": 19845,
-    "title": "akira_Brave777KonoSuba02airisu和惠惠",
+    "id": 19760,
+    "title": "AzurLane-SwimsuitPartySex",
     "year": "",
     "country": "",
     "genre": "",
@@ -1269,13 +848,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/b8f9ef825558c6a92d3b6f9342c9f714.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/813419b4e288774b61df6a60de66bcd2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19845"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19760"
   },
   {
-    "id": 19846,
-    "title": "akira_Brave777KonoSubaNTR01",
+    "id": 19772,
+    "title": "AzyP路径c等st关节sAnima土壤温度s",
     "year": "",
     "country": "",
     "genre": "",
@@ -1285,13 +864,29 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/1305f3643849e2288948363181cc17e4.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/4ff55ddb44604122824140ee1dde9dd3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19846"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19772"
   },
   {
-    "id": 19833,
-    "title": "akira_Brave777Re零NTR",
+    "id": 21310,
+    "title": "Aサイズクラスメイト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"chippai\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/a49bd0881a64e9a1dca44b882b2ce0c9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21310"
+  },
+  {
+    "id": 21357,
+    "title": "AサイズクラスメイトAnimeEdition1限目",
     "year": "",
     "country": "",
     "genre": "",
@@ -1301,13 +896,111 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/283ba4bd7a5268999e6237d8b4e344a8.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/b23cdf6ec6ec398839d689a9c815f463.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19833"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21357"
   },
   {
-    "id": 19849,
-    "title": "akira_Brave777SP2月吉村01",
+    "id": 19774,
+    "title": "A尺寸同学动漫版1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/ba270397327fda238b344f51b7d4c089.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19774"
+  },
+  {
+    "id": 19771,
+    "title": "A尺寸同学动画版第2期",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/c473a599ddc0d080c1cc375c86a7edc5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19771"
+  },
+  {
+    "id": 19768,
+    "title": "A罩杯同班同学2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2016-03-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/8893fb75d72a205ec29d84b8b75c5c9c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19768"
+  },
+  {
+    "id": 1796,
+    "title": "A罩杯同班同學",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301935.avif?1751097363",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1796"
+  },
+  {
+    "id": 40591,
+    "title": "A罩杯同班同學-第1集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301935.avif?1751097363",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40591"
+  },
+  {
+    "id": 40592,
+    "title": "A罩杯同班同學-第2集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301935.avif?1751097363",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40592"
+  },
+  {
+    "id": 8909,
+    "title": "A罩杯的同班同学大家聚在一起开读书会",
     "year": "",
     "country": "",
     "genre": "",
@@ -1317,13 +1010,61 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/7e09c793b2947d11a28c42f94ffaa764.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/03/67edef74cf22ae3e04c5d5ef/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19849"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8909"
   },
   {
-    "id": 19874,
-    "title": "akira_Brave777SP一月风真伊吕波01翻译",
+    "id": 39891,
+    "title": "A頻道OVA：吃火鍋吧",
+    "year": "2017",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/298234.avif?1751098820",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39891"
+  },
+  {
+    "id": 41877,
+    "title": "A頻道OVA：微笑-第1集",
+    "year": "2012",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/115030.avif?1751116223",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41877"
+  },
+  {
+    "id": 41878,
+    "title": "A頻道OVA：微笑-第2集",
+    "year": "2012",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/115030.avif?1751116223",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41878"
+  },
+  {
+    "id": 19756,
+    "title": "B-Galaga一部灯笼裤女孩被催眠并举办夜间派对的色情电影",
     "year": "",
     "country": "",
     "genre": "",
@@ -1333,13 +1074,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/6dfeb76aac4e0faba16c0d39cbd22abe.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/975fd2d8fc5e7d4d9ba6e7edfce6ee10.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19874"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19756"
   },
   {
-    "id": 19852,
-    "title": "akira_Brave777SP九月JoanTowa01双拍",
+    "id": 19729,
+    "title": "B-Galaga一部讲述旅行魔女无论走到哪里都会遭遇性接触的动画",
     "year": "",
     "country": "",
     "genre": "",
@@ -1349,13 +1090,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/fd0988c90a08fac29fd053fcde39e071.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/7f76e3150f75983aecebd3d772e7794e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19852"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19729"
   },
   {
-    "id": 19839,
-    "title": "akira_Brave777SP二月白神吹雪",
+    "id": 19759,
+    "title": "B-Galaga对一个年轻女孩进行催眠并用纯粹的活塞练习客户服务以克服见某人的困难",
     "year": "",
     "country": "",
     "genre": "",
@@ -1365,13 +1106,62 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/2dfdad7a6db9a83a9e1a0373422cb8ff.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/a408b67945a1f25c4248bfe900c0965e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19839"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19759"
   },
   {
-    "id": 19908,
-    "title": "akira_Brave777SP十二月原神02八惠美子",
+    "id": 38441,
+    "title": "BABUKA-民生委員之女-",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301494.avif?1751098557",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38441"
+  },
+  {
+    "id": 19776,
+    "title": "BABUKA-黑帮的妻子-沼尻理惠香的变态爱好被发现",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/a5a10358d21a7412b5a13e05ee07cd16.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19776"
+  },
+  {
+    "id": 38894,
+    "title": "BABUKA-黑道之妻-",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301495.avif?1751097416",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38894"
+  },
+  {
+    "id": 21203,
+    "title": "BackAlleyFucking",
     "year": "",
     "country": "",
     "genre": "",
@@ -1381,13 +1171,30 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/853848187527311336207baea9e5c796.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/d095edf5ec08a8f83e272ff690acb457.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19908"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21203"
   },
   {
-    "id": 19858,
-    "title": "akira_Brave777SP四月_不知火freeea和博丽诺埃尔01重装版",
+    "id": 19766,
+    "title": "Bakane2我要挤掉很多我的弟弟动画",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/c4745738f5ff31a06ce276376e87d0e9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19766"
+  },
+  {
+    "id": 3201,
+    "title": "BangableGirl：TrainSex2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1397,13 +1204,45 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/d2c00d0683f53d4b049d612f49bd72c4.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/okwso5xieyg.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19858"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3201"
   },
   {
-    "id": 19843,
-    "title": "akira_Brave777ToLOVE-ru学园长后宫01双拍",
+    "id": 41085,
+    "title": "BanGDream!Morfonication-第1集",
+    "year": "2022",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/114270.avif?1751116307",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41085"
+  },
+  {
+    "id": 41086,
+    "title": "BanGDream!Morfonication-第2集",
+    "year": "2022",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/114270.avif?1751116307",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41086"
+  },
+  {
+    "id": 19778,
+    "title": "Bayonetta在游泳池边搭讪",
     "year": "",
     "country": "",
     "genre": "",
@@ -1413,13 +1252,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/8c749b11d5a6f8420f255e7b412e792d.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/dfb635f7baf067f8ccef23a5ae2c29e7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19843"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19778"
   },
   {
-    "id": 19848,
-    "title": "akira_Brave777ToLOVE-Ru校长后宫",
+    "id": 19777,
+    "title": "Bayonetta控制POV",
     "year": "",
     "country": "",
     "genre": "",
@@ -1429,13 +1268,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/53d56c869b0f5849f2d1d5f9475347da.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/ad8f49288712fe4a65bdff5ac27048b8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19848"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19777"
   },
   {
-    "id": 19834,
-    "title": "akira_Brave777一拳超人01",
+    "id": 19769,
+    "title": "BDSM性爱秀POV中的性感熟女",
     "year": "",
     "country": "",
     "genre": "",
@@ -1445,13 +1284,29 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/37ba100b0fb619caea2fc7f4ec9478ad.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/9f3fda7a05950c54b9f19dfb0f3a0206.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19834"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19769"
   },
   {
-    "id": 19892,
-    "title": "akira_Brave777中吉俱乐部训练记录01翻拍",
+    "id": 18709,
+    "title": "BearXfuta鼠标",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"Milky\", \"Milky蜜\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250715-1/95d3345f240771dcbf362f63dda962b1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18709"
+  },
+  {
+    "id": 19780,
+    "title": "BeingaDik-游戏玩法Part14Sarah-Season2ALLSCENES",
     "year": "",
     "country": "",
     "genre": "",
@@ -1461,13 +1316,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/42d6576e109df18678a7092c2b8b1bc8.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/7ebf5cea963c084f77e4db9a77c7df9c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19892"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19780"
   },
   {
-    "id": 19873,
-    "title": "akira_Brave777五月SP穿衣爱情01",
+    "id": 19765,
+    "title": "BELLEDOESHERFIRSTTIME",
     "year": "",
     "country": "",
     "genre": "",
@@ -1477,13 +1332,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/a44ab29a85a22c1c15422b1d11e801ab.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/b6e79eb9fae5849c4620fe7940bd98f9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19873"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19765"
   },
   {
-    "id": 19915,
-    "title": "akira_Brave777伊吕波正树01",
+    "id": 19767,
+    "title": "BELLEWANTSTODOITWITHYOU",
     "year": "",
     "country": "",
     "genre": "",
@@ -1493,13 +1348,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/6897f31da521359778c6988fe27309fc.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/984f9844fb65d0308ff4c0351f7ad0a7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19915"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19767"
   },
   {
-    "id": 19842,
-    "title": "akira_Brave777南小鸟01",
+    "id": 1877,
+    "title": "BibleBlack",
     "year": "",
     "country": "",
     "genre": "",
@@ -1509,13 +1364,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/fb3a82adbe219ca2c999071b6dcba9d0.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250611-1/8e6a359c909c62d3e8651da28b811c9d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19842"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1877"
   },
   {
-    "id": 19856,
-    "title": "akira_Brave777大神澪训练01翻拍",
+    "id": 16448,
+    "title": "BibleBlack5",
     "year": "",
     "country": "",
     "genre": "",
@@ -1525,13 +1380,61 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/89a92e064050e0d445e0e63510e07938.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/5001a3c7af787c6d46e4af7ba961209c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19856"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=16448"
   },
   {
-    "id": 19832,
-    "title": "akira_Brave777天才王子的赤字国家复兴部分NTR01",
+    "id": 36886,
+    "title": "BibleBlackOnly",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301741.avif?1751099492",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36886"
+  },
+  {
+    "id": 40867,
+    "title": "BibleBlackOnly-第1集",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301741.avif?1751099492",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40867"
+  },
+  {
+    "id": 40868,
+    "title": "BibleBlackOnly-第2集",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301741.avif?1751099492",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40868"
+  },
+  {
+    "id": 19753,
+    "title": "BibleBlackOnly1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1541,13 +1444,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/94906d5f03d64a9947781716190d9054.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/3450021b508f42928490ce32166072a0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19832"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19753"
   },
   {
-    "id": 19847,
-    "title": "akira_Brave777崩坏星轨萤火虫01",
+    "id": 19755,
+    "title": "BibleBlackOnly2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1557,13 +1460,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/679c6d77186e0d9f71ec40b86875ca3a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/3ea21fdd6906b6d5d03b5293a8ec177a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19847"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19755"
   },
   {
-    "id": 19838,
-    "title": "akira_Brave777早坂爱NTR01",
+    "id": 21439,
+    "title": "BibleBlackバイブルブラックオンリー版VOL.2「由起子編・佐伯編・高城編」",
     "year": "",
     "country": "",
     "genre": "",
@@ -1573,13 +1476,98 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/73513a96f2644b61ec9b7354510e7301.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/7ab65cfed8019e0f82b157788fd3bf33.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19838"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21439"
   },
   {
-    "id": 19925,
-    "title": "akira_Brave777月村手鞠01",
+    "id": 19744,
+    "title": "BibleBlack圣经黑章2黑色仪式",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/175c2a1ea2f39a147e56b40fd6b075bd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19744"
+  },
+  {
+    "id": 19746,
+    "title": "BibleBlack圣经黑第一章黑魔法学院",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/75800fd9a4f1b9488ef4b95ef23b0368.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19746"
+  },
+  {
+    "id": 19736,
+    "title": "BibleBlack圣经黑第五章黑色晚餐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/716f682dcdb60d5bf1bac37acf42de79.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19736"
+  },
+  {
+    "id": 19752,
+    "title": "BibleBlack圣经黑第六章黑色的降临",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/6fe61a8981db8e86a8a47d5159004bfe.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19752"
+  },
+  {
+    "id": 19748,
+    "title": "BibleBlack圣经黑第四章黑色爱抚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/3696ce226bc2de787d99bea802f6d37e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19748"
+  },
+  {
+    "id": 19747,
+    "title": "BibleBlack外传1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1589,13 +1577,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/69b17d93d0f9560f11cab313d8039e6e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/b325a06c1d0438de828401eccb293338.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19925"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19747"
   },
   {
-    "id": 19875,
-    "title": "akira_Brave777木崎和空崎希娜01",
+    "id": 19738,
+    "title": "BibleBlack外传2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1605,8 +1593,24 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/b25ff21fe1bf0252cf6b87ef1fe7ab07.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/6b2789aa7e64d7cf1102ecd2453668e5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19875"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19738"
+  },
+  {
+    "id": 36897,
+    "title": "BibleBlack外傳",
+    "year": "2013",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301661.avif?1751099503",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36897"
   }
 ];

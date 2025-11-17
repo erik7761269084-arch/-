@@ -6,8 +6,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -24,8 +24,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -42,8 +42,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -60,8 +60,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -78,8 +78,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -96,8 +96,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -114,8 +114,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -132,8 +132,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -150,8 +150,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -168,8 +168,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -186,8 +186,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -204,10 +204,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
-      "国漫女神",
-      "同人国漫女神"
+      "同人国漫女神",
+      "同人动漫",
+      "国漫女神"
     ],
     "type": "无码",
     "company": "[]",
@@ -223,8 +223,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -241,8 +241,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -259,8 +259,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -277,8 +277,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -295,8 +295,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -313,8 +313,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -331,8 +331,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -349,8 +349,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -367,8 +367,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -385,8 +385,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -403,8 +403,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -421,8 +421,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -439,8 +439,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -457,8 +457,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -475,8 +475,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -493,8 +493,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -511,8 +511,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -529,8 +529,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -547,8 +547,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -565,8 +565,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -583,8 +583,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -601,8 +601,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -619,8 +619,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -637,8 +637,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -655,8 +655,8 @@ window.PAGE_DATA = [
     "country": "日本",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -673,8 +673,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -691,8 +691,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -709,8 +709,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -727,8 +727,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -745,8 +745,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -763,8 +763,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "3D动漫",
       "国漫女神"
     ],
@@ -782,8 +782,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -800,8 +800,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -818,8 +818,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -836,8 +836,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -855,8 +855,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "同人动漫",
-      "中文字幕",
-      "3D动漫"
+      "3D动漫",
+      "中文字幕"
     ],
     "type": "无码",
     "company": "[]",
@@ -872,8 +872,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "同人极品御姐"
+      "同人极品御姐",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -889,8 +889,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "3D动漫",
+      "同人动漫",
       "欧美动漫"
     ],
     "type": "无码",
@@ -907,8 +907,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "同人极品御姐"
+      "同人极品御姐",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -924,8 +924,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "同人极品御姐"
+      "同人极品御姐",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -941,9 +941,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人极品萝莉",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "同人极品萝莉"
     ],
     "type": "无码",
     "company": "[]",
@@ -959,8 +959,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人极品萝莉",
-      "同人动漫"
+      "同人动漫",
+      "同人极品萝莉"
     ],
     "type": "无码",
     "company": "[]",
@@ -976,8 +976,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "斗罗大陆",
+      "同人动漫",
       "国漫女神"
     ],
     "type": "无码",
@@ -1045,8 +1045,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人极品萝莉",
-      "同人动漫"
+      "同人动漫",
+      "同人极品萝莉"
     ],
     "type": "无码",
     "company": "[]",
@@ -1062,8 +1062,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "同人极品御姐"
+      "同人极品御姐",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -1079,8 +1079,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "同人极品御姐"
+      "同人极品御姐",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -1096,8 +1096,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人极品萝莉",
-      "同人动漫"
+      "同人动漫",
+      "同人极品萝莉"
     ],
     "type": "无码",
     "company": "[]",
@@ -1130,8 +1130,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人极品女神",
       "日本里番",
+      "同人极品女神",
       "同人动漫"
     ],
     "type": "无码",
@@ -1148,9 +1148,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人极品萝莉",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "同人极品萝莉"
     ],
     "type": "无码",
     "company": "[]",

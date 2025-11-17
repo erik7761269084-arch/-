@@ -146,7 +146,7 @@ window.PAGE_DATA = [
       "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/ccdb5f1691d43aeaf1cd9d37ed5d6f63.jpg",
     "actress": [],
@@ -163,7 +163,7 @@ window.PAGE_DATA = [
       "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/46014c4840a431b423d8651c0fa9c293.jpg",
     "actress": [],
@@ -180,7 +180,7 @@ window.PAGE_DATA = [
       "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/b17e70978d53e45d897420958b25f637.jpg",
     "actress": [],
@@ -686,8 +686,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "MMD"
+      "MMD",
+      "中文字幕"
     ],
     "type": "无码",
     "company": "[]",
@@ -703,11 +703,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "日本里番",
-      "MMD"
+      "MMD",
+      "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/1f8417cbb8aeb33e7cf636e3c3dee282.jpg",
     "actress": [],
@@ -1018,7 +1018,7 @@ window.PAGE_DATA = [
       "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250702-1/57e997f2eae030cf169bfd6c2f154ef6.jpg",
     "actress": [],
@@ -1035,7 +1035,7 @@ window.PAGE_DATA = [
       "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250705-1/69fe6dcecf3d61f4394c64a7589e5008.jpg",
     "actress": [],

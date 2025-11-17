@@ -71,8 +71,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "MMD"
+      "MMD",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -88,8 +88,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "MMD"
+      "MMD",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -446,8 +446,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "MMD"
+      "MMD",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",

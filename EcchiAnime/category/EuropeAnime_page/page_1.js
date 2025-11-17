@@ -32,6 +32,40 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21173"
   },
   {
+    "id": 19341,
+    "title": "FOW-008警报器_呼叫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美动漫",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250608-1/d8f701b7120bb2900e4177dc68451aa3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19341"
+  },
+  {
+    "id": 19355,
+    "title": "FOW-010皇家待遇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "欧美动漫",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250608-1/5d93aa102d22eb13669ed8b060f896ed.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19355"
+  },
+  {
     "id": 3890,
     "title": "LaraInTrouble",
     "year": "",
@@ -70,8 +104,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "3D动漫",
+      "同人动漫",
       "欧美动漫"
     ],
     "type": "无码",

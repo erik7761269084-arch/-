@@ -306,23 +306,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18694"
   },
   {
-    "id": 18699,
-    "title": "MMD3dHENTAI鏡音リンレンて犯されSNOBBISM",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "MMD",
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/1540d8e26cd6a67b764c643cd1bdbbea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18699"
-  },
-  {
     "id": 18707,
     "title": "MMD3D原神莫娜Hentai",
     "year": "",
@@ -338,6 +321,23 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/f5dbd7215c97235076de24177b0e8797.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18707"
+  },
+  {
+    "id": 18699,
+    "title": "MMD3d鏡音リンレンて犯されSNOBBISM",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "MMD",
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/1540d8e26cd6a67b764c643cd1bdbbea.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18699"
   },
   {
     "id": 18671,
@@ -831,10 +831,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD"
+      "MMD",
+      "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/881679a5a032d5ef49e0ccbe034ac083.jpg",
     "actress": [],
@@ -1550,7 +1551,7 @@ window.PAGE_DATA = [
       "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/ccdb5f1691d43aeaf1cd9d37ed5d6f63.jpg",
     "actress": [],
@@ -1567,7 +1568,7 @@ window.PAGE_DATA = [
       "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/46014c4840a431b423d8651c0fa9c293.jpg",
     "actress": [],
@@ -1584,7 +1585,7 @@ window.PAGE_DATA = [
       "3D动漫"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"GenshinImpact\"]",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/b17e70978d53e45d897420958b25f637.jpg",
     "actress": [],
