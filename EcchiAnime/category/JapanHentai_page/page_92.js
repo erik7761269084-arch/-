@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 42771,
-    "title": "巴哈姆特之怒VIRGINSOUL-第3集",
-    "year": "2017",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/111512.avif?1751116552",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42771"
-  },
-  {
-    "id": 38589,
-    "title": "巴布米寶貝！〜通過Ogyari活動成為嬰兒●治療〜",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297796.avif?1751099207",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38589"
-  },
-  {
-    "id": 8629,
-    "title": "巴御前",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/15/67fd414ccf22ae3e042b00b4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8629"
-  },
-  {
-    "id": 17092,
-    "title": "巴荷莉年美国电影變態",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251012-1/05a599c1c52da7172aa260e39fc125d7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17092"
-  },
-  {
     "id": 28408,
     "title": "布兰凡俱乐部HMVshirizuI〇YaBeauty〇ver",
     "year": "",
@@ -1604,5 +1540,71 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/151ffe827998c1be28a9fa603fa91105.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24576"
+  },
+  {
+    "id": 7177,
+    "title": "异世界后宫风起云涌的5P后宫战斗正式打响",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69061eb071eb543bb0df4c67/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7177"
+  },
+  {
+    "id": 8489,
+    "title": "异世界性爱社团1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2022-05-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/21/68059830cf22ae3e04689bca/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8489"
+  },
+  {
+    "id": 8490,
+    "title": "异世界性爱社团2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2022-05-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/21/6805984dcf22ae3e04689bdb/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8490"
+  },
+  {
+    "id": 7119,
+    "title": "异世界温泉天国开拓记1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c92bde264e6282d0677e5/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7119"
   }
 ];

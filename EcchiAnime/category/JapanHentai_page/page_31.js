@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 7928,
-    "title": "so_low～雙胞胎姐妹的用心～2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682acb01ae3235deaa2d9e60/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7928"
-  },
-  {
-    "id": 17777,
-    "title": "soeno19Yoimiya1完整",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250906-1/3ff2c13e5cbb17b8b9dc1e91f3a1e5e8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17777"
-  },
-  {
-    "id": 17773,
-    "title": "soeno19叶兰1完整裸体",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250906-1/e98091a7f90076a66003c4ed390be199.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17773"
-  },
-  {
-    "id": 17778,
-    "title": "soeno19尤拉x胡涛1满",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250906-1/bc38faafa9e8d9f5fb1267efecbd930f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17778"
-  },
-  {
     "id": 17772,
     "title": "softhouse-seal可爱的灵魂和新婚性生活",
     "year": "",
@@ -1627,5 +1563,70 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/28bce9951f87f5ba093689c39ccc42e5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17711"
+  },
+  {
+    "id": 17708,
+    "title": "STUDIOLOIRES12级偶像女孩剃肉自慰MiyuShioriSTARawBeRRyCHEESECAKEMOVIE1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250911-1/564257aef0cb60e19c856612e51c6911.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17708"
+  },
+  {
+    "id": 17696,
+    "title": "STUDIOLOIRES中二病超级受虐狂女孩是性奴隶魅魔的制作方法",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250911-1/707c19964389f75272eb674d0e0de8df.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17696"
+  },
+  {
+    "id": 17704,
+    "title": "STUDIOLOIRES在最喜欢的老师的注视下羞辱告白SEX小春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250911-1/eba5abe8c01e6f8ef842d2fb03d1a559.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17704"
+  },
+  {
+    "id": 17701,
+    "title": "STUDIOLOIRES妹妹2孔中出-MariruAru-STARawBeRRy芝士蛋糕MOVIE2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250911-1/80f23a3072eb046f8960d95b79b81cb5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17701"
   }
 ];

@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 6055,
-    "title": "流聖天使プリマヴェール",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/11/1fb25b4888c4ee7c74c7c9d3328fd526.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6055"
-  },
-  {
-    "id": 275,
-    "title": "流聖天使プリマヴェール动漫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"ANIMAC\"]",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250221-1/569135476af19c4f418eeb0213acee08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=275"
-  },
-  {
-    "id": 1918,
-    "title": "流聖天使普里瑪薇兒",
-    "year": "2009",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301219.avif?1751099449",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1918"
-  },
-  {
-    "id": 28399,
-    "title": "测量我的精液游戏玩法09继母有如此宽的可繁殖臀部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/615ebf5d2bdc54855b2cbe7eb9654fec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28399"
-  },
-  {
     "id": 23295,
     "title": "浓厚な",
     "year": "",
@@ -1598,5 +1534,70 @@ window.PAGE_DATA = [
     "cover_url": "",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=894"
+  },
+  {
+    "id": 10991,
+    "title": "淫毛第1巻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"ピンクパイナップル\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/3e345bbf75d54fd11131afe7982aac5c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=10991"
+  },
+  {
+    "id": 7218,
+    "title": "淫毛第2卷：学校里的迷人故事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/02/68de1b05631cc64eb592bfa1/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7218"
+  },
+  {
+    "id": 21533,
+    "title": "淫毛第2巻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/b7eaf5ee50b4040d427f710bb90a5fd9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21533"
+  },
+  {
+    "id": 23090,
+    "title": "淫狱病栋前编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/bca0518a9c317f9500d2004ef4b141d9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23090"
   }
 ];

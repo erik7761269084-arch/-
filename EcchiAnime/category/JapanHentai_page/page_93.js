@@ -1,71 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 7177,
-    "title": "异世界后宫风起云涌的5P后宫战斗正式打响",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/01/69061eb071eb543bb0df4c67/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7177"
-  },
-  {
-    "id": 8489,
-    "title": "异世界性爱社团1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2022-05-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/21/68059830cf22ae3e04689bca/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8489"
-  },
-  {
-    "id": 8490,
-    "title": "异世界性爱社团2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2022-05-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/21/6805984dcf22ae3e04689bdb/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8490"
-  },
-  {
-    "id": 7119,
-    "title": "异世界温泉天国开拓记1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c92bde264e6282d0677e5/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7119"
-  },
-  {
     "id": 7120,
     "title": "异世界温泉天国开拓记10",
     "year": "",
@@ -1617,5 +1551,69 @@ window.PAGE_DATA = [
     "cover_url": "",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5926"
+  },
+  {
+    "id": 5974,
+    "title": "彼女がヤツに抱かれたヒ新妻のハジメテ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5974"
+  },
+  {
+    "id": 23475,
+    "title": "彼女が见舞いに来ない理由Vol.1「恋人の目の前で」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/20fb997b52423e14a3b72704913d4ac2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23475"
+  },
+  {
+    "id": 23349,
+    "title": "彼女が见舞いに来ない理由Vol.2「终わらない飨乱」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/96e5d941d6df396837aa0f5a80b1815d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23349"
+  },
+  {
+    "id": 23377,
+    "title": "彼女が见舞いに来ない理由Vol.3「擦り切れゆく想い」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/9213b0c0fe96e104b1d7af4a4366e2b9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23377"
   }
 ];

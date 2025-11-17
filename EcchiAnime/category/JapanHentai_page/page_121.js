@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 1834,
-    "title": "特別授業2",
-    "year": "2003",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301689.avif?1751099387",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1834"
-  },
-  {
-    "id": 2909,
-    "title": "特別授業2특별수업2-TokubetsuJugyou2Ep1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/s3u3sjl1s5q.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2909"
-  },
-  {
-    "id": 2910,
-    "title": "特別授業2특별수업2-TokubetsuJugyou2Ep2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/eb3jgbyzc4e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2910"
-  },
-  {
-    "id": 36925,
-    "title": "特別授業3SLG",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301688.avif?1751099876",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36925"
-  },
-  {
     "id": 40945,
     "title": "特別授業3SLG-第1集",
     "year": "2008",
@@ -1603,5 +1539,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/11/111203.avif?1751114484",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39556"
+  },
+  {
+    "id": 39585,
+    "title": "玉響完結篇第3部：憧",
+    "year": "2015",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/112298.avif?1751116810",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39585"
+  },
+  {
+    "id": 24545,
+    "title": "王女和女骑士W下流露出2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8600d3a9dd39c0f652fcb8d75df418df.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24545"
+  },
+  {
+    "id": 40385,
+    "title": "王女＆女騎士W下流露出-第1集",
+    "year": "2000",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302207.avif?1751099521",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40385"
+  },
+  {
+    "id": 40386,
+    "title": "王女＆女騎士W下流露出-第2集",
+    "year": "2000",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302207.avif?1751099521",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40386"
   }
 ];

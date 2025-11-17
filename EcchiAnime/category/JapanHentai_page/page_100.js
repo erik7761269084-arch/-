@@ -1,71 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 19980,
-    "title": "我实在不应该私下瞒着妻子参加同人展1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "同人动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/a61d66b15b1f810e2bcb5f19efccad12.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19980"
-  },
-  {
-    "id": 20084,
-    "title": "我实在不应该私下瞒着妻子参加同人展2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番",
-      "同人动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250511-1/a49e777e0fc785f2e627b0249055128a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20084"
-  },
-  {
-    "id": 5882,
-    "title": "我家弟弟肉棒超粗壮的，要不要来看看？1",
-    "year": "",
-    "country": "日本",
-    "genre": "日本里番",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5882"
-  },
-  {
-    "id": 1251,
-    "title": "我家弟弟肉棒超粗壯的，要不要來看看？",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2021-05-01",
-    "cover_url": "https://ptt.co/images/node/30/302208.avif?1751099808",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1251"
-  },
-  {
     "id": 40191,
     "title": "我家弟弟肉棒超粗壯的，要不要來看看？-第1集",
     "year": "2008",
@@ -1610,5 +1544,69 @@ window.PAGE_DATA = [
     "cover_url": "",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1066"
+  },
+  {
+    "id": 34,
+    "title": "我的理想的异世界生活2",
+    "year": "",
+    "country": "日本",
+    "genre": "日本里番",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202510/06/68e3382bc1740d4b9b16bac6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=34"
+  },
+  {
+    "id": 2241,
+    "title": "我的理想的異世界生活",
+    "year": "2025",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/51/517664.avif?1751075649",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2241"
+  },
+  {
+    "id": 40167,
+    "title": "我的理想的異世界生活-第1集",
+    "year": "2025",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/51/517664.avif?1751075649",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40167"
+  },
+  {
+    "id": 40168,
+    "title": "我的理想的異世界生活-第2集",
+    "year": "2025",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/51/517664.avif?1751075649",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40168"
   }
 ];

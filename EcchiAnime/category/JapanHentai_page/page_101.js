@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 34,
-    "title": "我的理想的异世界生活2",
-    "year": "",
-    "country": "日本",
-    "genre": "日本里番",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img.cdn202511.com/videos/202510/06/68e3382bc1740d4b9b16bac6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=34"
-  },
-  {
-    "id": 2241,
-    "title": "我的理想的異世界生活",
-    "year": "2025",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/51/517664.avif?1751075649",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2241"
-  },
-  {
-    "id": 40167,
-    "title": "我的理想的異世界生活-第1集",
-    "year": "2025",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/51/517664.avif?1751075649",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40167"
-  },
-  {
-    "id": 40168,
-    "title": "我的理想的異世界生活-第2集",
-    "year": "2025",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/51/517664.avif?1751075649",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40168"
-  },
-  {
     "id": 2394,
     "title": "我的理想的異世界生活1",
     "year": "",
@@ -1602,5 +1538,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/29/296838.avif?1751100289",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38539"
+  },
+  {
+    "id": 8250,
+    "title": "抖S女友和抖M男友-2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2017-08-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/68142450c57e2706695b4332/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8250"
+  },
+  {
+    "id": 27958,
+    "title": "抖S女友和抖M男友第1话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/be7084398833ffbb98934a7384de2340.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27958"
+  },
+  {
+    "id": 27952,
+    "title": "抖S女友和抖M男友第2话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/0173be4e7cfd5708d8826cabeefdc829.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27952"
+  },
+  {
+    "id": 22507,
+    "title": "抖S的负面会长Sama被M笔记本支配了～M的憧憬doS～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/54e95452edd55f1de3637361eb0dba25.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22507"
   }
 ];

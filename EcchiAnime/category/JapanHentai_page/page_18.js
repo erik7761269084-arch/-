@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 19029,
-    "title": "JygreAnimationDehyasAdventure",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/ed1b760332b553b2a27becf565ae182f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19029"
-  },
-  {
-    "id": 19022,
-    "title": "JygreAnimationJean第2部分完整",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/11196e69b3e965f3b9e4bf31d6099d75.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19022"
-  },
-  {
-    "id": 19034,
-    "title": "JygreAnimation卡夫卡x士兵完整",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/66f0ce538422b64e831cdb9ba588ba91.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19034"
-  },
-  {
-    "id": 39056,
-    "title": "J○初級××Tuber佐倉優",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297655.avif?1751097742",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39056"
-  },
-  {
     "id": 809,
     "title": "j色精灵的特殊疗愈",
     "year": "",
@@ -1610,5 +1545,70 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/5cb5e00e7dfb5fbd61080863eec87494.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18934"
+  },
+  {
+    "id": 18941,
+    "title": "Kurumi-RimjobService",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/f8a7e71b2be6898ccf113086337515e0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18941"
+  },
+  {
+    "id": 18938,
+    "title": "Kusuriyubi事实上这是御宅君第一次和甜辣妹相处",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/21deda483eb62891c40a1eb380b9a36c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18938"
+  },
+  {
+    "id": 18937,
+    "title": "Kyoshi新婚妻子Ganyu的性感内衣性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/589eac38421180506d228e13c88d5352.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18937"
+  },
+  {
+    "id": 18932,
+    "title": "Labby姐妹版SecretwithYui",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/b8a6c2e06933467ad1f2a3a022de5147.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18932"
   }
 ];

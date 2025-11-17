@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 43041,
-    "title": "碧池的淫姐大人-第2集",
-    "year": "2010",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302197.avif?1751099523",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43041"
-  },
-  {
-    "id": 43042,
-    "title": "碧池的淫姐大人-第3集",
-    "year": "2010",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302197.avif?1751099523",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43042"
-  },
-  {
-    "id": 43043,
-    "title": "碧池的淫姐大人-第4集",
-    "year": "2010",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302197.avif?1751099523",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43043"
-  },
-  {
-    "id": 24062,
-    "title": "碧池的淫姐大人3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2021-08-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e0a54108e3b025a7d1fa5271c4b19caa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24062"
-  },
-  {
     "id": 8463,
     "title": "碧池的淫姐大人4",
     "year": "",
@@ -1600,5 +1536,69 @@ window.PAGE_DATA = [
     "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/1143ngx3wp3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2669"
+  },
+  {
+    "id": 1193,
+    "title": "科學化學症候群",
+    "year": "2018",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301509.avif?1751099413",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1193"
+  },
+  {
+    "id": 39191,
+    "title": "科學小飛俠CrowdsSP",
+    "year": "2015",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/300425.avif?1751097489",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39191"
+  },
+  {
+    "id": 23270,
+    "title": "秘书课ドロップTHEANIMATION",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/e20c02bf0491f185bca1e545ae48ff54.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23270"
+  },
+  {
+    "id": 20087,
+    "title": "秘密任务潜入搜查官绝对不会输",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250511-1/f604c9385a3aad7a3c04a65f16c92433.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20087"
   }
 ];

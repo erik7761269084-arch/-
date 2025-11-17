@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 17132,
-    "title": "爱姐妹蕾请玷污我吧1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/8efe5677db7e9bda41206b01242e85c8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17132"
-  },
-  {
-    "id": 17128,
-    "title": "爱姐妹蕾请玷污我吧2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/3c93314778f384914e1db7f11fac213a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17128"
-  },
-  {
-    "id": 17137,
-    "title": "爱嬢机姦-3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/e444ce7b9cd9e7a7c93cfbb278bf53d2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17137"
-  },
-  {
-    "id": 17178,
-    "title": "爱尔菲娜身处贱卖给淫夜的王国...1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/baf0d9ef3d8a0ed16f2bd8834b386383.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17178"
-  },
-  {
     "id": 17168,
     "title": "爱尔菲娜身处贱卖给淫夜的王国...2",
     "year": "",
@@ -1606,5 +1542,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301690.avif?1751099490",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1835"
+  },
+  {
+    "id": 1834,
+    "title": "特別授業2",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301689.avif?1751099387",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1834"
+  },
+  {
+    "id": 2909,
+    "title": "特別授業2특별수업2-TokubetsuJugyou2Ep1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/s3u3sjl1s5q.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2909"
+  },
+  {
+    "id": 2910,
+    "title": "特別授業2특별수업2-TokubetsuJugyou2Ep2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/eb3jgbyzc4e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2910"
+  },
+  {
+    "id": 36925,
+    "title": "特別授業3SLG",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301688.avif?1751099876",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36925"
   }
 ];

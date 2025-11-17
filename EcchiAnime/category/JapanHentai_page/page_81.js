@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 2309,
-    "title": "好色精靈探訪記",
-    "year": "2023",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301860.avif?1751099468",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2309"
-  },
-  {
-    "id": 40529,
-    "title": "好色精靈探訪記-第1集",
-    "year": "2023",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301860.avif?1751099468",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40529"
-  },
-  {
-    "id": 40530,
-    "title": "好色精靈探訪記-第2集",
-    "year": "2023",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301860.avif?1751099468",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40530"
-  },
-  {
-    "id": 22292,
-    "title": "如果ぃうぉ~~]ova耻辱的#2第三名的制服猎物",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/ba685c273d5c3cafc6e3104e62744d68.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22292"
-  },
-  {
     "id": 38787,
     "title": "如果保持童貞到30歲的話貌似可以成為魔法使",
     "year": "2020",
@@ -1614,5 +1549,70 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d5c54cf22ae3e0490bd5a/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8372"
+  },
+  {
+    "id": 8021,
+    "title": "妹天堂！3第2话.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/15/682547c6130ac02b587cafea/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8021"
+  },
+  {
+    "id": 18098,
+    "title": "妹妹-MovieEdition-",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"PeD\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250816-1/6dd4abdfdac7cb0596e3da2621a95c1e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18098"
+  },
+  {
+    "id": 8373,
+    "title": "妹妹和她朋友太淫荡我的下体很不妙1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d5be3cf22ae3e0490bd58/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8373"
+  },
+  {
+    "id": 8370,
+    "title": "妹妹和她朋友太淫荡我的下体很不妙2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2016-12-01",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d5c5ecf22ae3e0490bd5b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8370"
   }
 ];

@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 39830,
-    "title": "水母的食堂",
-    "year": "2016",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/27/276417.avif?1751101836",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39830"
-  },
-  {
-    "id": 3107,
-    "title": "水着彼女~THEANIMATION~-MizugiKanojo3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/pz4p3t3bpqr.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3107"
-  },
-  {
-    "id": 3108,
-    "title": "水着彼女~THEANIMATION~-MizugiKanojo4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/cregygqlqwp.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3108"
-  },
-  {
-    "id": 22068,
-    "title": "水着彼女～THEANIMATION～Fit.1「みずほ！エクササイズ！」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/0f0bff94df8e906740057a67497e471d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22068"
-  },
-  {
     "id": 22047,
     "title": "水着彼女～THEANIMATION～Fit.2「白い诱惑」",
     "year": "",
@@ -1604,5 +1539,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2769433c97066c39fedcfd4c6f6bd575.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24795"
+  },
+  {
+    "id": 6055,
+    "title": "流聖天使プリマヴェール",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/11/1fb25b4888c4ee7c74c7c9d3328fd526.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6055"
+  },
+  {
+    "id": 275,
+    "title": "流聖天使プリマヴェール动漫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"ANIMAC\"]",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250221-1/569135476af19c4f418eeb0213acee08.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=275"
+  },
+  {
+    "id": 1918,
+    "title": "流聖天使普里瑪薇兒",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301219.avif?1751099449",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1918"
+  },
+  {
+    "id": 28399,
+    "title": "测量我的精液游戏玩法09继母有如此宽的可繁殖臀部",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/615ebf5d2bdc54855b2cbe7eb9654fec.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28399"
   }
 ];

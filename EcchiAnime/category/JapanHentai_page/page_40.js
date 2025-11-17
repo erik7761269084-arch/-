@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 7711,
-    "title": "おっとり新妻-ママみ甘やか寝取られ性活-TheMo",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/06/6842a7d5bea44e06061cd667/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7711"
-  },
-  {
-    "id": 3347,
-    "title": "おっぱいの王者48Ep1-OppainoOuja48Ep1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/jvetci51bja.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3347"
-  },
-  {
-    "id": 3348,
-    "title": "おっぱいの王者48Ep2-OppainoOuja48Ep2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/udtue4uwihs.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3348"
-  },
-  {
-    "id": 7721,
-    "title": "おっぱいカフェ～母娘でコスちち～TheMoti",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/04/683fd6140b69f1d81658d47d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7721"
-  },
-  {
     "id": 22975,
     "title": "おっぱいハート",
     "year": "",
@@ -1613,5 +1549,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/c49e5a80dffdfc65a82987896db161dd.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23030"
+  },
+  {
+    "id": 14398,
+    "title": "きょうゆうたんき修行ちちもみレッスン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/531bafe8b4b0ed101742740b17c0a60b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14398"
+  },
+  {
+    "id": 3336,
+    "title": "きょうゆうたんき修行ちちもみレッスン-KyonyuuTry!TankiShuuchuuChichiMomiLesson",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/uorjqiypqmm.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3336"
+  },
+  {
+    "id": 3329,
+    "title": "くのいちぼたん1-KunoichiBotan1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/1c3lliukyx1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3329"
+  },
+  {
+    "id": 3528,
+    "title": "くのいちぼたん2-KunoichiBotan2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/hpyrrpj22bi.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3528"
   }
 ];

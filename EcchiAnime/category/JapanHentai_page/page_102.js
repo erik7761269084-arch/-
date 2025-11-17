@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 8250,
-    "title": "抖S女友和抖M男友-2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2017-08-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/68142450c57e2706695b4332/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8250"
-  },
-  {
-    "id": 27958,
-    "title": "抖S女友和抖M男友第1话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/be7084398833ffbb98934a7384de2340.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27958"
-  },
-  {
-    "id": 27952,
-    "title": "抖S女友和抖M男友第2话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251107-1/0173be4e7cfd5708d8826cabeefdc829.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27952"
-  },
-  {
-    "id": 22507,
-    "title": "抖S的负面会长Sama被M笔记本支配了～M的憧憬doS～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/54e95452edd55f1de3637361eb0dba25.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22507"
-  },
-  {
     "id": 1423,
     "title": "抖S麥娜會長大人被抖M筆記支配了",
     "year": "2019",
@@ -1603,5 +1539,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/48/489524.avif?1751080599",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40207"
+  },
+  {
+    "id": 40208,
+    "title": "探索歡愛新境界-第2集",
+    "year": "2025",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/48/489524.avif?1751080599",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40208"
+  },
+  {
+    "id": 8113,
+    "title": "探索歡愛新境界1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/11/68203365c7cb4ba33f6d363a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8113"
+  },
+  {
+    "id": 8112,
+    "title": "探索歡愛新境界2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/11/6820337bc7cb4ba33f6d366c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8112"
+  },
+  {
+    "id": 8577,
+    "title": "接下来插屁眼把",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/18/6801e922cf22ae3e044c9dd3/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8577"
   }
 ];

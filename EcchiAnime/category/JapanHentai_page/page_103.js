@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 40208,
-    "title": "探索歡愛新境界-第2集",
-    "year": "2025",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/48/489524.avif?1751080599",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40208"
-  },
-  {
-    "id": 8113,
-    "title": "探索歡愛新境界1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/11/68203365c7cb4ba33f6d363a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8113"
-  },
-  {
-    "id": 8112,
-    "title": "探索歡愛新境界2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/11/6820337bc7cb4ba33f6d366c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8112"
-  },
-  {
-    "id": 8577,
-    "title": "接下来插屁眼把",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/18/6801e922cf22ae3e044c9dd3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8577"
-  },
-  {
     "id": 23494,
     "title": "接吻と肉",
     "year": "",
@@ -1604,5 +1540,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301438.avif?1751099906",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1353"
+  },
+  {
+    "id": 23603,
+    "title": "放課後完全版僅特典部分1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"Milky蜜\", \"Milky\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/467a94090b7b2b7842039230f29a7b9d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23603"
+  },
+  {
+    "id": 4175,
+    "title": "放課後完全版僅特典部分2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"Milky蜜\", \"Milky\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c51d08a1ab4f0bb6634902c880315bf0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4175"
+  },
+  {
+    "id": 23582,
+    "title": "放課後完全版僅特典部分3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"Milky蜜\", \"Milky\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6fc48687c0a7ce8be40553415b59fd2e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23582"
+  },
+  {
+    "id": 23601,
+    "title": "放課後完全版僅特典部分4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"Milky蜜\", \"Milky\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ea1daaa1b3e36a5206aec715ccbb4be6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23601"
   }
 ];

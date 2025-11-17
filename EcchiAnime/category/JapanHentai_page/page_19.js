@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 18941,
-    "title": "Kurumi-RimjobService",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/f8a7e71b2be6898ccf113086337515e0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18941"
-  },
-  {
-    "id": 18938,
-    "title": "Kusuriyubi事实上这是御宅君第一次和甜辣妹相处",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/21deda483eb62891c40a1eb380b9a36c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18938"
-  },
-  {
-    "id": 18937,
-    "title": "Kyoshi新婚妻子Ganyu的性感内衣性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/589eac38421180506d228e13c88d5352.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18937"
-  },
-  {
-    "id": 18932,
-    "title": "Labby姐妹版SecretwithYui",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250703-1/b8a6c2e06933467ad1f2a3a022de5147.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18932"
-  },
-  {
     "id": 20160,
     "title": "LABO解开活灵零物品之谜你是逃不出淫鬼的",
     "year": "",
@@ -1604,5 +1539,71 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301606.avif?1751098876",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42512"
+  },
+  {
+    "id": 42513,
+    "title": "LUNATICNIGHT露娜蒂克之夜-第3集",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301606.avif?1751098876",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42513"
+  },
+  {
+    "id": 2226,
+    "title": "luvwave",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250625-1/7dc832a815eedcfa15e154a332e196da.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2226"
+  },
+  {
+    "id": 18851,
+    "title": "luvwave第一个过程连接",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250708-1/2b667db24a657d45b3c129a749a7d8df.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18851"
+  },
+  {
+    "id": 18852,
+    "title": "luvwave第三次工序Necross",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250708-1/0ea89b2331769a6079fe7d9bfae3b0c1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18852"
   }
 ];

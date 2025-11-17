@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 18033,
-    "title": "Poko的性习惯广场关于Amane-chan被带回家并成为生孩子的宠物的故事",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/a9b96e575787b207b0fb18ac41bb9c38.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18033"
-  },
-  {
-    "id": 18042,
-    "title": "Poko的性习惯广场小恶魔孪生妹妹的甜蜜呜咽打手枪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/8849fd8120180621af1184f2c7f6d7d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18042"
-  },
-  {
-    "id": 18038,
-    "title": "Poko的性取向广场furuboisu版本Bani上的性游戏缺陷NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/b9bd7a7a90717eea77f78677b820568c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18038"
-  },
-  {
-    "id": 18032,
-    "title": "Poko的性取向广场如果展开YukaNetorare报告NTR结束",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/49a06a18f001b2dc65c00ddd1e774329.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18032"
-  },
-  {
     "id": 18041,
     "title": "Poko的性取向方块和小恶魔的双胞胎妹妹做一个恩爱宝宝",
     "year": "",
@@ -1605,5 +1541,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/212537317225f1e18475f979a3251f08.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23726"
+  },
+  {
+    "id": 1457,
+    "title": "Residence",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302009.avif?1751099343",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1457"
+  },
+  {
+    "id": 42175,
+    "title": "Residence-第1集",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302009.avif?1751099343",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42175"
+  },
+  {
+    "id": 42176,
+    "title": "Residence-第2集",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302009.avif?1751099343",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42176"
+  },
+  {
+    "id": 42177,
+    "title": "Residence-第3集",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302009.avif?1751099343",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42177"
   }
 ];

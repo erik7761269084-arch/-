@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 28183,
-    "title": "催眠凌辱学园2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/5fb989a0dd6cb1fa69ea616c383a7a65.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28183"
-  },
-  {
-    "id": 23331,
-    "title": "催眠凌辱学园3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/1fd2e6c6d16cd580cbd99ca56e258048.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23331"
-  },
-  {
-    "id": 28185,
-    "title": "催眠凌辱学园第1话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/27923da92e01881eff70cdf0bba9956a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28185"
-  },
-  {
-    "id": 28184,
-    "title": "催眠凌辱学园第2话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/87e93842fc0b12c04c897c897d79f162.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28184"
-  },
-  {
     "id": 28202,
     "title": "催眠凌辱学园第3话",
     "year": "",
@@ -1605,5 +1541,70 @@ window.PAGE_DATA = [
     "cover_url": "https://thjpg10.top/upload/vod/20250124-1/9ff10c0e788f846df48fdc3c37b8357f.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=126"
+  },
+  {
+    "id": 17117,
+    "title": "傲娇好色女孩冷冻2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251011-1/816372eafb78137717cde6b46b2034c9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17117"
+  },
+  {
+    "id": 17107,
+    "title": "傲娇好色女孩冻结1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251011-1/6008571c36266a1c484b6b4de86ecb7b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17107"
+  },
+  {
+    "id": 663,
+    "title": "傲娇抖M！1调教的快乐紧紧的束缚给予的性指导",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=663"
+  },
+  {
+    "id": 7587,
+    "title": "傲娇萌颜娇喘连连，欲罢不能！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/22/6857423d43d697271605ba7c/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7587"
   }
 ];

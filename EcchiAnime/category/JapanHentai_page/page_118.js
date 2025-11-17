@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 21747,
-    "title": "灼炎のエリス堕落雌豚勇者・エリス～被虐ボテ腹二穴ビンゴ～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/f9848ed3090de4da1407019a43099e6a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21747"
-  },
-  {
-    "id": 11070,
-    "title": "灼炎のエリス尻床野菜勇者",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/f789fd19b7249e7652adadc7069055f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=11070"
-  },
-  {
-    "id": 10406,
-    "title": "灼炎のエリス美少女へっぽこ勇者",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/99553626e5ac663c7b57c65309bcb5a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=10406"
-  },
-  {
-    "id": 23209,
-    "title": "灼炎のエリス美少女へっぽこ勇者-エリス～トンだ雌耻尻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/25217bd5e3e726248078ce90baa94b0b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23209"
-  },
-  {
     "id": 21777,
     "title": "灼炎のエリス美少女へっぽこ勇者・エリス～トンだ雌耻尻～",
     "year": "",
@@ -1602,5 +1537,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/29/296523.avif?1751099190",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2291"
+  },
+  {
+    "id": 40343,
+    "title": "熟母欲難斷-第1集",
+    "year": "2024",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/296523.avif?1751099190",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40343"
+  },
+  {
+    "id": 40344,
+    "title": "熟母欲難斷-第2集",
+    "year": "2024",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/296523.avif?1751099190",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40344"
+  },
+  {
+    "id": 7979,
+    "title": "熟母欲難斷1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682865bbfd7201c48de27dc4/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7979"
+  },
+  {
+    "id": 8058,
+    "title": "熟母欲難斷2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/13/68223896197cffa35002d2c9/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8058"
   }
 ];

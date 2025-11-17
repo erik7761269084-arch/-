@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 28377,
-    "title": "颤抖的双唇第1话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/2c0eba98479391de6a4e41166d3ae5f1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28377"
-  },
-  {
-    "id": 28362,
-    "title": "颤抖的双唇第2话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/9509c402857f588b1f5b8f779fb4012c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28362"
-  },
-  {
-    "id": 42841,
-    "title": "風-心靈之息OVA-第1集",
-    "year": "2004",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/156617.avif?1751112688",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42841"
-  },
-  {
-    "id": 42842,
-    "title": "風-心靈之息OVA-第2集",
-    "year": "2004",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/156617.avif?1751112688",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42842"
-  },
-  {
     "id": 42843,
     "title": "風-心靈之息OVA-第3集",
     "year": "2004",
@@ -1603,5 +1539,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301437.avif?1751099621",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1510"
+  },
+  {
+    "id": 40485,
+    "title": "高潮之戰-第1集",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301437.avif?1751099621",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40485"
+  },
+  {
+    "id": 40486,
+    "title": "高潮之戰-第2集",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301437.avif?1751099621",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40486"
+  },
+  {
+    "id": 7375,
+    "title": "高潮火箭喷射第1弹！敏感带狂颤升天体验",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6865539b43d6972716a34c14/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7375"
+  },
+  {
+    "id": 7366,
+    "title": "高潮火箭连续发射第二弹！淫语刺激激射不断极致挑逗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/686553e143d6972716a360a6/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7366"
   }
 ];

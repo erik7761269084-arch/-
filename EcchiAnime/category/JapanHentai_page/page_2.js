@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 14262,
-    "title": "300円のおつきあい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14262"
-  },
-  {
-    "id": 12600,
-    "title": "300円のおつきあいAnimeEdition",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/e545f9d08520b7e9b732271e0dcce6e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12600"
-  },
-  {
-    "id": 20184,
-    "title": "300日元关系动画版",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/b2fe79b4521e53f1e42a443f0a030be5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20184"
-  },
-  {
-    "id": 63,
-    "title": "30岁处女上班族把刚毕业的男孩带上床上榨干吃掉的故事TheMotionAnime",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=63"
-  },
-  {
     "id": 20154,
     "title": "365女同忍者女忍者女忍者彩色技忍者书2.0逆袭的栗珍波",
     "year": "",
@@ -1616,5 +1551,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/dbcb1709e0664240d53935f1e8931e6f.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21022"
+  },
+  {
+    "id": 5693,
+    "title": "[WhiteBear]デモニオ外伝后",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5693"
+  },
+  {
+    "id": 22072,
+    "title": "[WhiteBear]新生ふたなりアイドルでかたま系",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/b234a3b59ae2685715bd8f16a765774f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22072"
+  },
+  {
+    "id": 21918,
+    "title": "[WhiteBear]新生ふたなりアイドルでかたま系！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/03b2fbbc4cda15bb0eb99899c7623a69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21918"
+  },
+  {
+    "id": 22076,
+    "title": "[WORLDPGANIMATION]女騎士レティシア-TheMotionAnime-.wmv",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/1a399dc9edee01d53f9e3e9717ea2da6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22076"
   }
 ];

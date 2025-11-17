@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 24253,
-    "title": "为了出名的学生妹妹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/384285ea9b97632461101d065ffa5fdd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24253"
-  },
-  {
-    "id": 24256,
-    "title": "为了名气的少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0b9062299370aad9d6a0aa7f7f576856.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24256"
-  },
-  {
-    "id": 2461,
-    "title": "为了探索真相学者们纷纷来到了这里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2461"
-  },
-  {
-    "id": 6138,
-    "title": "为了荣耀的季节第一话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/21/78463ce151251f49a9578ec6e13f8f0c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6138"
-  },
-  {
     "id": 6140,
     "title": "为了荣耀的季节第三话",
     "year": "",
@@ -1600,5 +1536,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/29/297003.avif?1751099158",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39854"
+  },
+  {
+    "id": 39853,
+    "title": "亞人OAD2：幕間休息",
+    "year": "2016",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297002.avif?1751100272",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39853"
+  },
+  {
+    "id": 39852,
+    "title": "亞人OAD3：佐藤ZERO",
+    "year": "2017",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297001.avif?1751099870",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39852"
+  },
+  {
+    "id": 41875,
+    "title": "亞爾斯蘭戰記OAD-第1集",
+    "year": "2016",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/115015.avif?1751110187",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41875"
+  },
+  {
+    "id": 41876,
+    "title": "亞爾斯蘭戰記OAD-第2集",
+    "year": "2016",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/115015.avif?1751110187",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41876"
   }
 ];

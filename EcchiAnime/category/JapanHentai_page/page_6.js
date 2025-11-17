@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 23676,
-    "title": "ANGELIUMアンジェリウムⅠ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"MOONROCK\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/1572a6a169b4362680c1fb18c246aa75.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23676"
-  },
-  {
-    "id": 23656,
-    "title": "ANGELIUMアンジェリウムⅡ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"MOONROCK\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/df1b387d1a684a43e4696167ebb5d019.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23656"
-  },
-  {
-    "id": 19894,
-    "title": "ANGELIUM第1话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/44829c55a6b6a0cc9e2fb7e7cb925bed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19894"
-  },
-  {
-    "id": 19883,
-    "title": "ANGELIUM第2话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/36282f17738185f759b76aee26a894e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19883"
-  },
-  {
     "id": 19787,
     "title": "ani-mo触手监狱动画版",
     "year": "",
@@ -1613,5 +1549,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301741.avif?1751099492",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36886"
+  },
+  {
+    "id": 40867,
+    "title": "BibleBlackOnly-第1集",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301741.avif?1751099492",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40867"
+  },
+  {
+    "id": 40868,
+    "title": "BibleBlackOnly-第2集",
+    "year": "2001",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301741.avif?1751099492",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40868"
+  },
+  {
+    "id": 19753,
+    "title": "BibleBlackOnly1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/3450021b508f42928490ce32166072a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19753"
+  },
+  {
+    "id": 19755,
+    "title": "BibleBlackOnly2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/3ea21fdd6906b6d5d03b5293a8ec177a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19755"
   }
 ];

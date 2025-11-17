@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 41166,
-    "title": "真・燐月-第2集",
-    "year": "2010",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301295.avif?1751097442",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41166"
-  },
-  {
-    "id": 4218,
-    "title": "真・燐月上巻真・祈り編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"milky\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/53cb27eafaf5c1833cf87a8ebf3087c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4218"
-  },
-  {
-    "id": 4219,
-    "title": "真・燐月下巻真・誓い編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"milky\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/3dd74e4096211cdf1c08f00e7b623448.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4219"
-  },
-  {
-    "id": 2236,
-    "title": "真・瑠璃色之雪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250625-1/f05082c4d81a39eb6c16921be20a123a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2236"
-  },
-  {
     "id": 8278,
     "title": "真・秘汤巡游2",
     "year": "",
@@ -1606,5 +1542,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/302197.avif?1751099523",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1234"
+  },
+  {
+    "id": 43041,
+    "title": "碧池的淫姐大人-第2集",
+    "year": "2010",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302197.avif?1751099523",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43041"
+  },
+  {
+    "id": 43042,
+    "title": "碧池的淫姐大人-第3集",
+    "year": "2010",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302197.avif?1751099523",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43042"
+  },
+  {
+    "id": 43043,
+    "title": "碧池的淫姐大人-第4集",
+    "year": "2010",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302197.avif?1751099523",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43043"
+  },
+  {
+    "id": 24062,
+    "title": "碧池的淫姐大人3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2021-08-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e0a54108e3b025a7d1fa5271c4b19caa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24062"
   }
 ];

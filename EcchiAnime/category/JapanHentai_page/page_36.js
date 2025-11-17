@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 21389,
-    "title": "WitchesoftheWilds-Episode",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/29a6f36513587eb1bb57309ca2fb4776.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21389"
-  },
-  {
-    "id": 38359,
-    "title": "WiZARDGiRLAMBiTiOUS貧乳・明日香～嬌小卻任性的魔法師的反叛～",
-    "year": "2018",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301482.avif?1751099874",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38359"
-  },
-  {
-    "id": 17422,
-    "title": "WiZARDGiRLAMBiTiOUS贫乳明日香娇小却任性的魔法师的反叛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/977e9adae52d5d8d22a124afc1a566d1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17422"
-  },
-  {
-    "id": 17413,
-    "title": "wMipoZ这是fantia的动画第2部分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/f21ff2fb59d77e5452f51cea34cbca71.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17413"
-  },
-  {
     "id": 21935,
     "title": "WomenatWork",
     "year": "",
@@ -1619,5 +1555,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251005-1/c2c89f5ec6465ca6c0ada87f6b9feeb8.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17289"
+  },
+  {
+    "id": 17297,
+    "title": "yuukis椿胜弁异世界魔王哟召唤少女的奴隶魔法",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/2864d7808f98330c7c6e250a765073bf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17297"
+  },
+  {
+    "id": 17294,
+    "title": "yuukis水野渚咲咲恩纳智和恩纳智",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251005-1/fdfc72eda156f90eebad1a9e8357079f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17294"
+  },
+  {
+    "id": 17290,
+    "title": "yuukis灵枢奇里爱LaSpecFateGrandOrder",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251005-1/18ee62ce2d530adcd76914c2d0b32f6e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17290"
+  },
+  {
+    "id": 17300,
+    "title": "yuukis甘雨原神",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/d2cbc942ce24a09810baf081a38f4c2d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17300"
   }
 ];

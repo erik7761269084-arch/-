@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 22997,
-    "title": "なだけりに好き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/10160c512fe9c24f844f5c2afdcf4e47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22997"
-  },
-  {
-    "id": 21898,
-    "title": "なちゅらるばけーしょんTHEANIMATION",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/5ab1d550480c7598e92174ec1288b5e0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21898"
-  },
-  {
-    "id": 22849,
-    "title": "なにかおかしいっ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/e276a4d507c23bb00242d671cb94c040.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22849"
-  },
-  {
-    "id": 22532,
-    "title": "なまLOReなまけものTHEANIMATION",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/32e1d2bbbf4a596b805e0e45a8a134cf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22532"
-  },
-  {
     "id": 22336,
     "title": "なまLOReふらちものTHEANIMATION",
     "year": "",
@@ -1617,5 +1552,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/a771c381b22e65adf5ceb59837e0aba0.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22240"
+  },
+  {
+    "id": 3525,
+    "title": "ぶっとび！CPU1-Buttobi!!CPU1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/ejf4ig1ikyz.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3525"
+  },
+  {
+    "id": 2484,
+    "title": "ぶっとび！CPU3-Buttobi!!CPU3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/ia5qx41x41v.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2484"
+  },
+  {
+    "id": 22410,
+    "title": "ぷちパイ・アスカ～小振りなわがままウィザードの反逆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/d86c2fc2bb45b9368631fc407d054f01.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22410"
+  },
+  {
+    "id": 22817,
+    "title": "ぷちパイ・アスカ～小振りなわがままウィザードの反逆～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/92ee5d107979ab05a8ad94b92b7e1e5b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22817"
   }
 ];

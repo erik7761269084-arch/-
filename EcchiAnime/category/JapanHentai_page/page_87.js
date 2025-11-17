@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 7142,
-    "title": "家庭性奴隶女仆爬行的女性身体",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/6909c5a42fdf2b287a2a8a8f/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7142"
-  },
-  {
-    "id": 38304,
-    "title": "家庭性奴隸2",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297500.avif?1751099838",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38304"
-  },
-  {
-    "id": 38596,
-    "title": "家庭教師OVA：彭格列式修學旅行、來了！",
-    "year": "2009",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297053.avif?1751099153",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38596"
-  },
-  {
-    "id": 2251,
-    "title": "家庭教師X催眠2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250626-1/9de4eacf35652d9df3325b221d709519.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2251"
-  },
-  {
     "id": 38148,
     "title": "家庭教師X催眠2前篇",
     "year": "2024",
@@ -1622,5 +1557,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/49/491886.avif?1751080368",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41367"
+  },
+  {
+    "id": 41368,
+    "title": "對學生會長的忠告-第2集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/49/491886.avif?1751080368",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41368"
+  },
+  {
+    "id": 38680,
+    "title": "對想要零花錢的侄女用巨根還擊的故事with侄女的朋友",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297358.avif?1751100238",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38680"
+  },
+  {
+    "id": 7806,
+    "title": "對想要零花錢的姪女用巨根還擊的故事with姪女的朋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/28/6836fac7a0b87615b2d7978a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7806"
+  },
+  {
+    "id": 7758,
+    "title": "對著搬過來的無抵抗無防備的巨乳美少女小堇肆意妄為的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683aa30215dec3d802a44d53/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7758"
   }
 ];

@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 21279,
-    "title": "ナチュラルNatural第2话～ひとつに溶けて～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"GreenBunny\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/932b096a28fc306af95f6553697d4ceb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21279"
-  },
-  {
-    "id": 22711,
-    "title": "ナチュラルアナザー1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/5b8278fc07495c20175a1fd305fa67aa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22711"
-  },
-  {
-    "id": 3359,
-    "title": "ナチュラルアナザー1-NaturalAnother1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/btrxmsrzdog.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3359"
-  },
-  {
-    "id": 14373,
-    "title": "ナチュラルアナザー2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/9bba3d0c86c127632e8fb659335a3dc1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14373"
-  },
-  {
     "id": 3360,
     "title": "ナチュラルアナザー2-NaturalAnother2",
     "year": "",
@@ -1606,5 +1542,69 @@ window.PAGE_DATA = [
     "cover_url": "https://1.15250719pic.com/upload/vod/20241112-1/87ac4a5ee08e18f056d7c9859a47efd8.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4256"
+  },
+  {
+    "id": 4255,
+    "title": "パレード・パレードSIDEB",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20241112-1/0e16f772bc0dc80c8a877dac6dda46bf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4255"
+  },
+  {
+    "id": 11065,
+    "title": "パンチラティーチャー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/047b4f9bfa37ede9ef9ccbfe6791c2ff.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=11065"
+  },
+  {
+    "id": 22288,
+    "title": "パンチラティーチャー-1567598536",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/a6581bd22ccd3083f4a532d267d05006.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22288"
+  },
+  {
+    "id": 22742,
+    "title": "パンチラティーチャー1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/86a88dee67660781e4fc350d52282f9e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22742"
   }
 ];

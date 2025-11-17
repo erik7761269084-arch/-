@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 1505,
-    "title": "想被色氣的大姐姐榨乾",
-    "year": "2009",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302064.avif?1751098488",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1505"
-  },
-  {
-    "id": 40431,
-    "title": "想被色氣的大姐姐榨乾-第1集",
-    "year": "2009",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302064.avif?1751098488",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40431"
-  },
-  {
-    "id": 40432,
-    "title": "想被色氣的大姐姐榨乾-第2集",
-    "year": "2009",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302064.avif?1751098488",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40432"
-  },
-  {
-    "id": 7190,
-    "title": "想被色氣的大姐姐榨乾干1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/29/6901f61d958ac04f275a5e8f/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7190"
-  },
-  {
     "id": 7193,
     "title": "想被色氣的大姐姐榨乾干2",
     "year": "",
@@ -1601,5 +1536,69 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202505/30/6838b8b6a0b87615b2e4e04d/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7776"
+  },
+  {
+    "id": 39097,
+    "title": "戀愛三角！afterstory",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297809.avif?1751099709",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39097"
+  },
+  {
+    "id": 38385,
+    "title": "戀愛三角！LoveTriangle",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297460.avif?1751099845",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38385"
+  },
+  {
+    "id": 984,
+    "title": "戀愛不要學派",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301708.avif?1751099873",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=984"
+  },
+  {
+    "id": 39503,
+    "title": "戀愛禁止的世界OAD",
+    "year": "2018",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/11/111034.avif?1751112772",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39503"
   }
 ];

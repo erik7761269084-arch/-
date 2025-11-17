@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 38678,
-    "title": "魔王艾莉絲的逆襲",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297360.avif?1751099851",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38678"
-  },
-  {
-    "id": 7910,
-    "title": "魔界天使Jibril3Vol.2强制侵犯！触手",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c9a27ae3235deaa43acd8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7910"
-  },
-  {
-    "id": 6060,
-    "title": "魔界天使ジブリール2Vol.1誕生！新ジブリール",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/11/c68e04dd78fef0db004d82e39ae6c5c1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6060"
-  },
-  {
-    "id": 6061,
-    "title": "魔界天使ジブリール2Vol.2純真！悩ましき恋心",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/11/65d223dccc9fc41a4e9ab1a0610d32f1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6061"
-  },
-  {
     "id": 6062,
     "title": "魔界天使ジブリール2Vol.3決戦！",
     "year": "",
@@ -1601,5 +1537,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/46/460675.avif?1751084479",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42478"
+  },
+  {
+    "id": 42479,
+    "title": "黑子的籃球總集篇-第2集",
+    "year": "2016",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/46/460675.avif?1751084479",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42479"
+  },
+  {
+    "id": 42480,
+    "title": "黑子的籃球總集篇-第3集",
+    "year": "2016",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/46/460675.avif?1751084479",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42480"
+  },
+  {
+    "id": 39713,
+    "title": "黑岩射手OVA",
+    "year": "2010",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/300867.avif?1751099667",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39713"
+  },
+  {
+    "id": 37015,
+    "title": "黑愛～一夜妻館・淫口亂乳錄～",
+    "year": "2003",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301209.avif?1751099450",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=37015"
   }
 ];

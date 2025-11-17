@@ -1,71 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 5662,
-    "title": "エロゲで全ては解決THEANIMATION",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番",
-      "桜都字幕组"
-    ],
-    "type": "无码",
-    "company": "[\"ピンクパイナップル\"]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5662"
-  },
-  {
-    "id": 14449,
-    "title": "エロゲ！セックス＆ゲームセクシーゲーム6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/86879afbb80f569f8d614fe399ed0baa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14449"
-  },
-  {
-    "id": 3266,
-    "title": "エロコンビニ天狗1-EroKonbiniTenchou1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/gr4osdfsgdk.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3266"
-  },
-  {
-    "id": 5668,
-    "title": "エロコンビニ店長泣きべそ蓮っ葉逸機",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"PoRO\"]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5668"
-  },
-  {
     "id": 22095,
     "title": "エロコンビニ店长従顺腹黒隷奴・结衣～ご奉仕ノーパン品出し～.chs",
     "year": "",
@@ -1609,5 +1543,71 @@ window.PAGE_DATA = [
     "cover_url": "http://p.155250718p.com/upload/vod/2022/09/v1nwywwt1t3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3686"
+  },
+  {
+    "id": 21895,
+    "title": "キミはやさしく寝取られるTHEANIMATION第1巻.chs",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"ピンクパイナップル\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/3a5e5066439761e6eacdffc529d07938.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21895"
+  },
+  {
+    "id": 22844,
+    "title": "キメキかれたヒ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/110d81eb063589cad60c15fc45a14c18.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22844"
+  },
+  {
+    "id": 22162,
+    "title": "キメ恋！高岭の华と幼なじみがキマった理由上巻魔法の薬で恋の成就",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/fd3c14883ec6676f19d4b3550bd38480.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22162"
+  },
+  {
+    "id": 21280,
+    "title": "キメ恋！高岭の华と幼なじみがキマった理由上巻魔法の薬で恋の成就を",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/9fd7ab1283a9960a8607a684c7dbbcb3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21280"
   }
 ];

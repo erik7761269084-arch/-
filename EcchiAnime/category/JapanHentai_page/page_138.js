@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 42160,
-    "title": "花與蛇-第1集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301187.avif?1751099648",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42160"
-  },
-  {
-    "id": 42161,
-    "title": "花與蛇-第2集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301187.avif?1751099648",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42161"
-  },
-  {
-    "id": 42162,
-    "title": "花與蛇-第3集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301187.avif?1751099648",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42162"
-  },
-  {
-    "id": 2788,
-    "title": "苗床デーモンズグラウンド1-NaedokoDemon&amp;#039;sGround1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/caqcahwhzbr.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2788"
-  },
-  {
     "id": 1117,
     "title": "若菜的秘密",
     "year": "2008",
@@ -1606,5 +1542,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/29/297281.avif?1751099848",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38697"
+  },
+  {
+    "id": 22189,
+    "title": "虜ノ鎖～処女たちを穢す淫らな楔～上巻奪われた日常",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/294dc7fb9320f785c615abcb6c85536e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22189"
+  },
+  {
+    "id": 2972,
+    "title": "虜姫~白濁まみれの令嬢~-TorikoHimeHakudakuMamirenoReijou1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/d4dgntlawzf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2972"
+  },
+  {
+    "id": 2973,
+    "title": "虜姫~白濁まみれの令嬢~-TorikoHimeHakudakuMamirenoReijou2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/mwsu4tgcfs4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2973"
+  },
+  {
+    "id": 1473,
+    "title": "虜姫～白濁滿身的大小姐～",
+    "year": "2011",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301444.avif?1751098562",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1473"
   }
 ];

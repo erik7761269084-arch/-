@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 43625,
-    "title": "同級生夏天結束時-第2集",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301584.avif?1751098544",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43625"
-  },
-  {
-    "id": 43626,
-    "title": "同級生夏天結束時-第3集",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301584.avif?1751098544",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43626"
-  },
-  {
-    "id": 43627,
-    "title": "同級生夏天結束時-第4集",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301584.avif?1751098544",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43627"
-  },
-  {
-    "id": 2203,
-    "title": "同級生高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250624-1/b2ff294c4db194c066162b7bcbd1fe13.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2203"
-  },
-  {
     "id": 24352,
     "title": "同级生1&amp;nbsp;",
     "year": "",
@@ -1603,5 +1539,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/29/297816.avif?1751099205",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39101"
+  },
+  {
+    "id": 23844,
+    "title": "和妹妹一起练习第2话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d870c0aa15cbca0d8859c165df0a148a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23844"
+  },
+  {
+    "id": 8616,
+    "title": "和嫁到偏僻乡村的俄罗斯人妻H的故事第1话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/16/67feb6e0cf22ae3e0438ef09/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8616"
+  },
+  {
+    "id": 23855,
+    "title": "和学姐的快乐时光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8c395853e8a74d0cc39b93be15ee41f6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23855"
+  },
+  {
+    "id": 24209,
+    "title": "和学长在学校做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/02ec3a9f2cd44b795faf8a4bce03fd15.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24209"
   }
 ];

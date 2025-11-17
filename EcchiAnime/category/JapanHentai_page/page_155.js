@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 42479,
-    "title": "黑子的籃球總集篇-第2集",
-    "year": "2016",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/46/460675.avif?1751084479",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42479"
-  },
-  {
-    "id": 42480,
-    "title": "黑子的籃球總集篇-第3集",
-    "year": "2016",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/46/460675.avif?1751084479",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42480"
-  },
-  {
-    "id": 39713,
-    "title": "黑岩射手OVA",
-    "year": "2010",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/300867.avif?1751099667",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39713"
-  },
-  {
-    "id": 37015,
-    "title": "黑愛～一夜妻館・淫口亂乳錄～",
-    "year": "2003",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301209.avif?1751099450",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=37015"
-  },
-  {
     "id": 41125,
     "title": "黑愛～一夜妻館・淫口亂乳錄～-第1集",
     "year": "2003",
@@ -1600,5 +1536,69 @@ window.PAGE_DATA = [
     "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/tkks4y4toyi.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3104"
+  },
+  {
+    "id": 3187,
+    "title": "특별수업特別授業特别授业-TokubetsuJugyou1Ep1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/3x5mzmmqn2q.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3187"
+  },
+  {
+    "id": 3186,
+    "title": "특별수업特別授業特别授业-TokubetsuJugyou1Ep2.1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/qibo3mrsmdn.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3186"
+  },
+  {
+    "id": 3184,
+    "title": "학원3学園3華麗なる悦辱-Gakuen3-KareiNaruEtsujoku1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/kp313arbyq1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3184"
+  },
+  {
+    "id": 3185,
+    "title": "학원3学園3華麗なる悦辱-Gakuen3-KareiNaruEtsujoku2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/tsuddrdwg0j.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3185"
   }
 ];

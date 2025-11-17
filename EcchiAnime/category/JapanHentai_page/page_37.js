@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 17297,
-    "title": "yuukis椿胜弁异世界魔王哟召唤少女的奴隶魔法",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/2864d7808f98330c7c6e250a765073bf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17297"
-  },
-  {
-    "id": 17294,
-    "title": "yuukis水野渚咲咲恩纳智和恩纳智",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251005-1/fdfc72eda156f90eebad1a9e8357079f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17294"
-  },
-  {
-    "id": 17290,
-    "title": "yuukis灵枢奇里爱LaSpecFateGrandOrder",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251005-1/18ee62ce2d530adcd76914c2d0b32f6e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17290"
-  },
-  {
-    "id": 17300,
-    "title": "yuukis甘雨原神",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/d2cbc942ce24a09810baf081a38f4c2d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17300"
-  },
-  {
     "id": 17287,
     "title": "yuukis老观玻璃Koledongaku是沟通鲁子",
     "year": "",
@@ -1615,5 +1551,71 @@ window.PAGE_DATA = [
     "cover_url": "",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5995"
+  },
+  {
+    "id": 5947,
+    "title": "【剧集动画】妹妹是辣妹真可愛1，纯可爱的妹妹，竟然隐藏辣妹本性，展现魅惑的舞姿和火辣身材",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5947"
+  },
+  {
+    "id": 5895,
+    "title": "【剧集动画】对搬到我家附近毫无防备、毫无抵抗力的巨乳美少女堇为所欲为的夏天",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5895"
+  },
+  {
+    "id": 5896,
+    "title": "【剧集动画】小千的开发日记1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5896"
+  },
+  {
+    "id": 6008,
+    "title": "【剧集动画】工口游戏！H和游戏都要开发1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6008"
   }
 ];

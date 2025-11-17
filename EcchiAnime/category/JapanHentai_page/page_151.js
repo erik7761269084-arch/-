@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 40485,
-    "title": "高潮之戰-第1集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301437.avif?1751099621",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40485"
-  },
-  {
-    "id": 40486,
-    "title": "高潮之戰-第2集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301437.avif?1751099621",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40486"
-  },
-  {
-    "id": 7375,
-    "title": "高潮火箭喷射第1弹！敏感带狂颤升天体验",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6865539b43d6972716a34c14/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7375"
-  },
-  {
-    "id": 7366,
-    "title": "高潮火箭连续发射第二弹！淫语刺激激射不断极致挑逗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/686553e143d6972716a360a6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7366"
-  },
-  {
     "id": 7367,
     "title": "高潮狂飙！首发射精火箭的极致体验肉体震颤的巅峰时",
     "year": "",
@@ -1601,5 +1537,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301971.avif?1751099460",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43157"
+  },
+  {
+    "id": 43158,
+    "title": "鬼父Refresh-第3集",
+    "year": "2007",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301971.avif?1751099460",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43158"
+  },
+  {
+    "id": 43159,
+    "title": "鬼父Refresh-第4集",
+    "year": "2007",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301971.avif?1751099460",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43159"
+  },
+  {
+    "id": 8423,
+    "title": "鬼父Refresh4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/24/6809c4c1cf22ae3e047ea4ea/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8423"
+  },
+  {
+    "id": 24020,
+    "title": "鬼父Refresh「小生意気な肝っ玉◆」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7bae2f980523893749942847233ec5ac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24020"
   }
 ];

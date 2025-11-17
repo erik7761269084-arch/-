@@ -1,5 +1,53 @@
 window.PAGE_DATA = [
   {
+    "id": 18363,
+    "title": "najar大崎甘奈大崎甜花偶像大师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250730-1/15cde3573e188648768b48958d1a191d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18363"
+  },
+  {
+    "id": 18374,
+    "title": "najar大崎甘奈断面图偶像大师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250730-1/a97e104b71e3d70d99a908509cc98102.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18374"
+  },
+  {
+    "id": 18329,
+    "title": "najar小圆与Nebu完整版Mp460fps附SEPixivFanbox偶像大师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250801-1/2ece77595c09743625b2ad0799a19ab0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18329"
+  },
+  {
     "id": 18340,
     "title": "najar小宫果穗偶像大师",
     "year": "",
@@ -1556,53 +1604,5 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/ccf8d3f75275fcea6598581906181234.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=32595"
-  },
-  {
-    "id": 17858,
-    "title": "shaggySUFreenaFellation_live2dAnime完整版带ASMR音频MP42K高品质暨在嘴里60fps",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[\"GenshinImpact\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/90f731cb062d5c525b004dd2b6376171.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17858"
-  },
-  {
-    "id": 17856,
-    "title": "shaggySUFurina5live2danimeFurubaJohnMP4带ASMR音频2k高品质中出60fps",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[\"GenshinImpact\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/75acd5b77a38e078234dea9f4bc20f06.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17856"
-  },
-  {
-    "id": 17831,
-    "title": "shaggySUniiroBreezeofSabaalive2danimefurubaJohnkiMP4带ASMR音频",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[\"GenshinImpact\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/3369d3a812f9365f498d424b6cd80e3d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17831"
   }
 ];

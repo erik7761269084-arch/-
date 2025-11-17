@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 40867,
-    "title": "BibleBlackOnly-第1集",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301741.avif?1751099492",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40867"
-  },
-  {
-    "id": 40868,
-    "title": "BibleBlackOnly-第2集",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301741.avif?1751099492",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40868"
-  },
-  {
-    "id": 19753,
-    "title": "BibleBlackOnly1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/3450021b508f42928490ce32166072a0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19753"
-  },
-  {
-    "id": 19755,
-    "title": "BibleBlackOnly2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250517-1/3ea21fdd6906b6d5d03b5293a8ec177a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19755"
-  },
-  {
     "id": 21439,
     "title": "BibleBlackバイブルブラックオンリー版VOL.2「由起子編・佐伯編・高城編」",
     "year": "",
@@ -1612,5 +1548,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250520-1/a887375c17eec1df3f2e531bcaad714b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19684"
+  },
+  {
+    "id": 19685,
+    "title": "CAPTAINLEO草原上的羞涩爱情",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250520-1/4fe508b4ca8d4100a7759c46726111d3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19685"
+  },
+  {
+    "id": 21005,
+    "title": "CareerProspectswithFutaBoss,Standing",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/da29701e3b7c95d3344f7e984ff60430.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21005"
+  },
+  {
+    "id": 21590,
+    "title": "Cartagra-TsukiGuruinoYamaiEpisode002",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/0adc373c9891b54910e7fdb1068c38af.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21590"
+  },
+  {
+    "id": 21343,
+    "title": "Cartagra1HDUncensored",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/f307e0feb2d67f5cece6bf9214442058.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21343"
   }
 ];

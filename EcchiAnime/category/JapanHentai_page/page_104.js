@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 23603,
-    "title": "放課後完全版僅特典部分1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"Milky蜜\", \"Milky\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/467a94090b7b2b7842039230f29a7b9d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23603"
-  },
-  {
-    "id": 4175,
-    "title": "放課後完全版僅特典部分2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"Milky蜜\", \"Milky\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c51d08a1ab4f0bb6634902c880315bf0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4175"
-  },
-  {
-    "id": 23582,
-    "title": "放課後完全版僅特典部分3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"Milky蜜\", \"Milky\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6fc48687c0a7ce8be40553415b59fd2e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23582"
-  },
-  {
-    "id": 23601,
-    "title": "放課後完全版僅特典部分4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"Milky蜜\", \"Milky\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ea1daaa1b3e36a5206aec715ccbb4be6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23601"
-  },
-  {
     "id": 37474,
     "title": "放課後性愛俱樂部-好想要濃稠的東西-",
     "year": "2025",
@@ -1636,5 +1572,69 @@ window.PAGE_DATA = [
     "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/lmvk23s5kub.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2938"
+  },
+  {
+    "id": 2933,
+    "title": "新バイブルブラック-BibleBlackNewTestament2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/pvqilz3hnrr.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2933"
+  },
+  {
+    "id": 2934,
+    "title": "新バイブルブラック-BibleBlackNewTestament3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/qhzdag4arbw.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2934"
+  },
+  {
+    "id": 2931,
+    "title": "新バイブルブラック-BibleBlackNewTestament4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/elrgmuug142.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2931"
+  },
+  {
+    "id": 2932,
+    "title": "新バイブルブラック-BibleBlackNewTestament5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/oeyc45yn15n.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2932"
   }
 ];

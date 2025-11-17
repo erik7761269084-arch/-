@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 22495,
-    "title": "天然恋色アルコール后编～ヒミツノハナゾノ＆HoneySnow",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/3bf36795d560a79f00609f48b272c9a5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22495"
-  },
-  {
-    "id": 24454,
-    "title": "天然恋色的情欲酒精1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2014-05-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7b69f45795d422cf3a207df89af68e05.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24454"
-  },
-  {
-    "id": 1781,
-    "title": "天然戀色的情慾酒精",
-    "year": "2010",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301836.avif?1751098850",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1781"
-  },
-  {
-    "id": 41089,
-    "title": "天然戀色的情慾酒精-第1集",
-    "year": "2010",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301836.avif?1751098850",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41089"
-  },
-  {
     "id": 41090,
     "title": "天然戀色的情慾酒精-第2集",
     "year": "2010",
@@ -1603,5 +1539,70 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/29/297271.avif?1751099849",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38702"
+  },
+  {
+    "id": 316,
+    "title": "女友不来探病的理由在恋人面前",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250228-1/394e6498357caad3db247c28bf6c38a7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=316"
+  },
+  {
+    "id": 24574,
+    "title": "女友在学校被操到喘不过气！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f79e1c3ad5e5a07e5095268038184f5b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24574"
+  },
+  {
+    "id": 910,
+    "title": "女友戴上貓耳之後",
+    "year": "2006",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301906.avif?1751098841",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=910"
+  },
+  {
+    "id": 7144,
+    "title": "女友的真实样貌1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69091c57e264e6282dfe634f/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7144"
   }
 ];

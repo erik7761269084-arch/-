@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 401,
-    "title": "ライフ後編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250314-1/18f2de5839fd1a3bbb5cc95a3b63df40.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=401"
-  },
-  {
-    "id": 15185,
-    "title": "ラブ2クワッド3-Love2Quad3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/a54dc8f8db07466f968c7ec664b7faa5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=15185"
-  },
-  {
-    "id": 4891,
-    "title": "ラブ2クワッド3Love2Quad3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250308-1/eb43e522a4b5a9bc045274b0034b02e4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4891"
-  },
-  {
-    "id": 22821,
-    "title": "ラブesエムTHEANIMATION『谁にも言えない秘密』",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/ff60f7fdbc423c43d120de1b6ef745fa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22821"
-  },
-  {
     "id": 22411,
     "title": "ラブセレクション-LoveSelection1",
     "year": "",
@@ -1604,5 +1540,69 @@ window.PAGE_DATA = [
     "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3353"
+  },
+  {
+    "id": 12763,
+    "title": "ヴァルキリー超巨精液タンク1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/df3c7498a7388d14c82f0e48d350319d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12763"
+  },
+  {
+    "id": 12789,
+    "title": "ヴァンパイア第一夜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/664fb6d12dd1af59cc9aeabec757a706.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12789"
+  },
+  {
+    "id": 12766,
+    "title": "ヴァンパイア第二夜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/fcbf9aafb996970052b625d6a6c898a9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12766"
+  },
+  {
+    "id": 12791,
+    "title": "ヴァンパイア第二夜！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/6e15cc82424fa2af44fc08111ac8c82d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12791"
   }
 ];

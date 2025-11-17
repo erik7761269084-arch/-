@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 21730,
-    "title": "ボクと彼女の研修日誌THEANIMATION",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/0bd668e578a2badddd57b63d15d59e74.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21730"
-  },
-  {
-    "id": 20687,
-    "title": "ボクと彼女（女医）の诊察日誌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/32821d0a1e4b7e5f65a2bce610694726.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20687"
-  },
-  {
-    "id": 5816,
-    "title": "ボクの弥生さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5816"
-  },
-  {
-    "id": 10485,
-    "title": "ボクの弥生さん1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/a5a0d2aed38befe98ea00a9da4c5091a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=10485"
-  },
-  {
     "id": 14367,
     "title": "ボクの弥生さん2",
     "year": "",
@@ -1602,5 +1537,69 @@ window.PAGE_DATA = [
     "cover_url": "https://thjpg10.top/upload/vod/20250313-1/421b893359d71ccf72c5f07d15988c2c.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=394"
+  },
+  {
+    "id": 401,
+    "title": "ライフ後編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250314-1/18f2de5839fd1a3bbb5cc95a3b63df40.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=401"
+  },
+  {
+    "id": 15185,
+    "title": "ラブ2クワッド3-Love2Quad3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/a54dc8f8db07466f968c7ec664b7faa5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=15185"
+  },
+  {
+    "id": 4891,
+    "title": "ラブ2クワッド3Love2Quad3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20250308-1/eb43e522a4b5a9bc045274b0034b02e4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4891"
+  },
+  {
+    "id": 22821,
+    "title": "ラブesエムTHEANIMATION『谁にも言えない秘密』",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/ff60f7fdbc423c43d120de1b6ef745fa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22821"
   }
 ];

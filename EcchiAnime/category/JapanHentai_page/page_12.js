@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 19396,
-    "title": "Fatcat17Ciri小屋麻烦第1部分-重复",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250605-1/042287f9c1fbbe010d419cf2ceb622e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19396"
-  },
-  {
-    "id": 19391,
-    "title": "Fatcat17舍瓦贸易协议",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250605-1/9b36b7cca91a374cd74afd9b000622ee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19391"
-  },
-  {
-    "id": 41891,
-    "title": "FateGrandCarnivalOVA-第1集",
-    "year": "2021",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/115606.avif?1751114904",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41891"
-  },
-  {
-    "id": 41892,
-    "title": "FateGrandCarnivalOVA-第2集",
-    "year": "2021",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/115606.avif?1751114904",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41892"
-  },
-  {
     "id": 19406,
     "title": "FATParta女教师诗织",
     "year": "",
@@ -1600,5 +1536,70 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250609-1/30cc9bcc278c66384e2a955299ce9050.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19332"
+  },
+  {
+    "id": 19329,
+    "title": "funkurabukaos年轻人的健康管理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250609-1/e248ec1234e0cb5c66fc57d3eef187d5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19329"
+  },
+  {
+    "id": 8830,
+    "title": "Furifure2妹妹堇-不道德的重逢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f37ae45ccf0747528e0209/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8830"
+  },
+  {
+    "id": 19333,
+    "title": "FurifureTHEANIMATION穿着制服的堕落天使课外班",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250609-1/0b1933040bb068f0ce0223374b6c8270.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19333"
+  },
+  {
+    "id": 21514,
+    "title": "FurueruKuchibiru2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/31f3c26050f5633657b3613de2d47e34.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21514"
   }
 ];

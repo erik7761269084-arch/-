@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 19329,
-    "title": "funkurabukaos年轻人的健康管理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250609-1/e248ec1234e0cb5c66fc57d3eef187d5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19329"
-  },
-  {
-    "id": 8830,
-    "title": "Furifure2妹妹堇-不道德的重逢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f37ae45ccf0747528e0209/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8830"
-  },
-  {
-    "id": 19333,
-    "title": "FurifureTHEANIMATION穿着制服的堕落天使课外班",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250609-1/0b1933040bb068f0ce0223374b6c8270.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19333"
-  },
-  {
-    "id": 21514,
-    "title": "FurueruKuchibiru2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/31f3c26050f5633657b3613de2d47e34.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21514"
-  },
-  {
     "id": 21254,
     "title": "FutaD.VaxTracer(BlackJrXIII)-allAngles&amp;amp;Versions",
     "year": "",
@@ -1612,5 +1547,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250614-1/022c0d20b441c999bd030f9b8d8396bb.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19247"
+  },
+  {
+    "id": 19260,
+    "title": "HARDROUGHSEXWITHNEKOMATA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250614-1/202fd1b74c142284ebcd7b69a44d9919.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19260"
+  },
+  {
+    "id": 19251,
+    "title": "Hareはれシロコ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"chippai\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250614-1/66dc826f97cb337240c2091a568a6447.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19251"
+  },
+  {
+    "id": 19254,
+    "title": "Hare野兔fuuka",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"chippai\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250614-1/f1975a95394c6f494adf9562444007eb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19254"
+  },
+  {
+    "id": 19250,
+    "title": "Hare野兔NIyaNIya教授",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"chippai\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250614-1/809ef9637026e468b86db00e3c137315.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19250"
   }
 ];

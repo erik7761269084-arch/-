@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 22406,
-    "title": "魔剣の姫はエロエロです～ツンデレ姫骑士のお漏らし紧缚躾け～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/708064998fce96e6a1eece15311fe1bd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22406"
-  },
-  {
-    "id": 21844,
-    "title": "魔剣の姫はエロエロです～露出姫と腹黒エルフのワンワン散歩～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"PoRO\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/1063fb74de7a65c40156f4027b5673e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21844"
-  },
-  {
-    "id": 1501,
-    "title": "魔劍公主的性感騷姿",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302087.avif?1751099539",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1501"
-  },
-  {
-    "id": 43321,
-    "title": "魔劍公主的性感騷姿-第2集",
-    "year": "2002",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302087.avif?1751099539",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43321"
-  },
-  {
     "id": 43322,
     "title": "魔劍公主的性感騷姿-第3集",
     "year": "2002",
@@ -1602,5 +1537,69 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202504/12/67f95a084e7d663df4b7f427/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8722"
+  },
+  {
+    "id": 38678,
+    "title": "魔王艾莉絲的逆襲",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297360.avif?1751099851",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38678"
+  },
+  {
+    "id": 7910,
+    "title": "魔界天使Jibril3Vol.2强制侵犯！触手",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c9a27ae3235deaa43acd8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7910"
+  },
+  {
+    "id": 6060,
+    "title": "魔界天使ジブリール2Vol.1誕生！新ジブリール",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/11/c68e04dd78fef0db004d82e39ae6c5c1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6060"
+  },
+  {
+    "id": 6061,
+    "title": "魔界天使ジブリール2Vol.2純真！悩ましき恋心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/11/65d223dccc9fc41a4e9ab1a0610d32f1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6061"
   }
 ];

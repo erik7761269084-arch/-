@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 8945,
-    "title": "小邪恶第4集女孩娃娃妮娜-纯真的想法的束缚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202503/31/67e976e7cf22ae3e04ad3f9e/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8945"
-  },
-  {
-    "id": 589,
-    "title": "小风舞啪妻黑绿帽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=589"
-  },
-  {
-    "id": 39879,
-    "title": "小鯊魚去郊遊",
-    "year": "2023",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297979.avif?1751099690",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39879"
-  },
-  {
-    "id": 735,
-    "title": "少し傲慢な秘湯巡旅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=735"
-  },
-  {
     "id": 22721,
     "title": "少交女THEANIMATIONVirgin",
     "year": "",
@@ -1600,5 +1536,70 @@ window.PAGE_DATA = [
     "cover_url": "https://thjpg10.top/upload/vod/20250408-1/4cdc293a4c830adc2dce6732cc2dec37.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=541"
+  },
+  {
+    "id": 58,
+    "title": "少年成为大人的夏天1",
+    "year": "",
+    "country": "日本",
+    "genre": "日本里番",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202509/01/68b57eb6d640eb31df4bff35/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=58"
+  },
+  {
+    "id": 711,
+    "title": "少年成为大人的夏天一口气看完__如果没做好的话_会招人嫌弃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=711"
+  },
+  {
+    "id": 982,
+    "title": "少年成為大人的夏天",
+    "year": "2024",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/46/460491.avif?1751084950",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=982"
+  },
+  {
+    "id": 43068,
+    "title": "少年成為大人的夏天-第1集",
+    "year": "2024",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/46/460491.avif?1751084950",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43068"
   }
 ];

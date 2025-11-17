@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 3026,
-    "title": "夜勤病棟ヒロインシリーズ1-NightShiftNurses-Kranke2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/lzhvzbum0eb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3026"
-  },
-  {
-    "id": 3018,
-    "title": "夜勤病棟ヒロインシリーズ1-NightShiftNurses-Kranke3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/kb2p2b3qqvu.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3018"
-  },
-  {
-    "id": 4324,
-    "title": "夜勤病棟ヒロインシリーズ七瀬恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241126-1/50554a7237ea8f3b51e17bea9455b2f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4324"
-  },
-  {
-    "id": 4360,
-    "title": "夜勤病棟ヒロインシリーズ風間愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20241126-1/c0fcb190c10592ff139030cc62e748f0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4360"
-  },
-  {
     "id": 42265,
     "title": "夜勤病棟・參Experiment-第1集",
     "year": "2010",
@@ -1606,5 +1542,69 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/2a391e187d134eaeb89488b7ae1d390e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22943"
+  },
+  {
+    "id": 38579,
+    "title": "大家的哥布林廣場～結衣老師是我們的漏尿玩具～前篇",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297707.avif?1751099942",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38579"
+  },
+  {
+    "id": 38291,
+    "title": "大家的哥布林廣場～結衣老師是我們的漏尿玩具～後篇",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297802.avif?1751100201",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38291"
+  },
+  {
+    "id": 8782,
+    "title": "大家都热了！？我的后宫生活.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/09/67f62030cf22ae3e04f53393/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8782"
+  },
+  {
+    "id": 38711,
+    "title": "大家都熱了！？我的後宮生活",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297239.avif?1751099758",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38711"
   }
 ];

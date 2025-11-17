@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 28487,
-    "title": "变身成黑辣妹之后就和死党上床了第7话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/f1a2a729a94573aa1ae7bc6e8abc59f8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28487"
-  },
-  {
-    "id": 28485,
-    "title": "变身成黑辣妹之后就和死党上床了第8话",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/e90519482a914ef1f2df503fa5c9ff57.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28485"
-  },
-  {
-    "id": 24925,
-    "title": "叛逆姐妹，在爸爸面前做",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/b3e21435459c5398279989396f6fdf10.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24925"
-  },
-  {
-    "id": 38120,
-    "title": "口交Pure～御手洗家發生的淫事～",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301712.avif?1751099844",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38120"
-  },
-  {
     "id": 1013,
     "title": "口交女主播",
     "year": "2011",
@@ -1611,5 +1547,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301584.avif?1751098544",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43624"
+  },
+  {
+    "id": 43625,
+    "title": "同級生夏天結束時-第2集",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301584.avif?1751098544",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43625"
+  },
+  {
+    "id": 43626,
+    "title": "同級生夏天結束時-第3集",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301584.avif?1751098544",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43626"
+  },
+  {
+    "id": 43627,
+    "title": "同級生夏天結束時-第4集",
+    "year": "2002",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301584.avif?1751098544",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43627"
+  },
+  {
+    "id": 2203,
+    "title": "同級生高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250624-1/b2ff294c4db194c066162b7bcbd1fe13.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2203"
   }
 ];

@@ -1,71 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 21895,
-    "title": "キミはやさしく寝取られるTHEANIMATION第1巻.chs",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"ピンクパイナップル\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/3a5e5066439761e6eacdffc529d07938.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21895"
-  },
-  {
-    "id": 22844,
-    "title": "キメキかれたヒ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/110d81eb063589cad60c15fc45a14c18.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22844"
-  },
-  {
-    "id": 22162,
-    "title": "キメ恋！高岭の华と幼なじみがキマった理由上巻魔法の薬で恋の成就",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/fd3c14883ec6676f19d4b3550bd38480.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22162"
-  },
-  {
-    "id": 21280,
-    "title": "キメ恋！高岭の华と幼なじみがキマった理由上巻魔法の薬で恋の成就を",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/9fd7ab1283a9960a8607a684c7dbbcb3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21280"
-  },
-  {
     "id": 22169,
     "title": "キメ恋！高岭の华と幼なじみがキマった理由下巻正妻はどっち",
     "year": "",
@@ -1615,5 +1549,69 @@ window.PAGE_DATA = [
     "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/mm2bianybtg.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3586"
+  },
+  {
+    "id": 3668,
+    "title": "シシュンキセックス2-ShishunkiSex2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/voe1ky3432n.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3668"
+  },
+  {
+    "id": 3445,
+    "title": "シャメシュリンアンドロラ1-ShameshrineAndorora1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/xmz0ctryg5i.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3445"
+  },
+  {
+    "id": 3530,
+    "title": "ショッキングピンク!-ShockingPink1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/v34qpzqcpry.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3530"
+  },
+  {
+    "id": 3602,
+    "title": "ショッキングピンク!-ShockingPink2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/da2q4fodl3l.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3602"
   }
 ];

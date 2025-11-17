@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 6164,
-    "title": "百舌鳥ノ贄早贄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/25/73aa837fb6fe5f88e1d4fa7407507011.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6164"
-  },
-  {
-    "id": 2011,
-    "title": "百舌鳥的祭品",
-    "year": "2011",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301760.avif?1751099480",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2011"
-  },
-  {
-    "id": 17054,
-    "title": "百舌鸟的祭品1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251013-1/588b27352246e71bc1f8721ae2430bf9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17054"
-  },
-  {
-    "id": 22472,
-    "title": "百花缭乱第一季03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/033b3b9f2a050f0515d6fd3e2268949e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22472"
-  },
-  {
     "id": 22493,
     "title": "百花缭乱第一季04",
     "year": "",
@@ -1606,5 +1542,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301295.avif?1751097442",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41165"
+  },
+  {
+    "id": 41166,
+    "title": "真・燐月-第2集",
+    "year": "2010",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301295.avif?1751097442",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41166"
+  },
+  {
+    "id": 4218,
+    "title": "真・燐月上巻真・祈り編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"milky\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/53cb27eafaf5c1833cf87a8ebf3087c0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4218"
+  },
+  {
+    "id": 4219,
+    "title": "真・燐月下巻真・誓い編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"milky\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/3dd74e4096211cdf1c08f00e7b623448.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4219"
+  },
+  {
+    "id": 2236,
+    "title": "真・瑠璃色之雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250625-1/f05082c4d81a39eb6c16921be20a123a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2236"
   }
 ];

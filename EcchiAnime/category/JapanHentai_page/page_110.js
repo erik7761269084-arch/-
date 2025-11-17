@@ -1,70 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 24702,
-    "title": "梦遗-被糟蹋的青春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ec35035f5925ba30a370559fb5da5f5f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24702"
-  },
-  {
-    "id": 21485,
-    "title": "梦魔の街コルネリカ第一话危険がいっぱいコルネリカ～サキュバスたちの楽园～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/6f38580eedeafa4ba4509369ef7706be.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21485"
-  },
-  {
-    "id": 8022,
-    "title": "梦魔小镇科尔内莉卡1.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/15/682547b3130ac02b587cafe9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8022"
-  },
-  {
-    "id": 1653,
-    "title": "棉花糖☆妹妹☆魅魔☆",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301902.avif?1751099821",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1653"
-  },
-  {
     "id": 40683,
     "title": "棉花糖☆妹妹☆魅魔☆-第1集",
     "year": "2008",
@@ -1604,5 +1539,69 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202504/20/680475764e7d663df4129c5a/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8514"
+  },
+  {
+    "id": 8511,
+    "title": "欢迎光临！水龙敬乐园2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/20/680475894e7d663df4129c5f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8511"
+  },
+  {
+    "id": 24152,
+    "title": "欢迎来到PIA咖啡厅1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d79a09c25adb41af9de6fd922a8db9ad.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24152"
+  },
+  {
+    "id": 24118,
+    "title": "欢迎来到PIA咖啡厅2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0ae69abf10fb942c3468c8754a3bef35.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24118"
+  },
+  {
+    "id": 24166,
+    "title": "欢迎来到PIA咖啡厅3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2480e8e1a9db21056e3f8724b7f535fb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24166"
   }
 ];

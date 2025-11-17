@@ -1,69 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 39097,
-    "title": "戀愛三角！afterstory",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297809.avif?1751099709",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39097"
-  },
-  {
-    "id": 38385,
-    "title": "戀愛三角！LoveTriangle",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297460.avif?1751099845",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38385"
-  },
-  {
-    "id": 984,
-    "title": "戀愛不要學派",
-    "year": "2003",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301708.avif?1751099873",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=984"
-  },
-  {
-    "id": 39503,
-    "title": "戀愛禁止的世界OAD",
-    "year": "2018",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/111034.avif?1751112772",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39503"
-  },
-  {
     "id": 38388,
     "title": "戀愛與選舉與巧克力TV未放送第13話",
     "year": "2013",
@@ -1604,5 +1540,71 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/29/297410.avif?1751099848",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39008"
+  },
+  {
+    "id": 19980,
+    "title": "我实在不应该私下瞒着妻子参加同人展1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "同人动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/a61d66b15b1f810e2bcb5f19efccad12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19980"
+  },
+  {
+    "id": 20084,
+    "title": "我实在不应该私下瞒着妻子参加同人展2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "同人动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250511-1/a49e777e0fc785f2e627b0249055128a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20084"
+  },
+  {
+    "id": 5882,
+    "title": "我家弟弟肉棒超粗壮的，要不要来看看？1",
+    "year": "",
+    "country": "日本",
+    "genre": "日本里番",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5882"
+  },
+  {
+    "id": 1251,
+    "title": "我家弟弟肉棒超粗壯的，要不要來看看？",
+    "year": "2008",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2021-05-01",
+    "cover_url": "https://ptt.co/images/node/30/302208.avif?1751099808",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1251"
   }
 ];

@@ -1,5 +1,53 @@
 window.PAGE_DATA = [
   {
+    "id": 3773,
+    "title": "パンケイクス",
+    "year": "",
+    "country": "日本",
+    "genre": "3D动漫",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240807-1/5f43860d8a1f65191f3fa1a827de8cc7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3773"
+  },
+  {
+    "id": 3809,
+    "title": "パンツ泥棒とスク水マーメイド",
+    "year": "",
+    "country": "日本",
+    "genre": "3D动漫",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240807-1/4d114fec5d49e9baea352b952cb5298b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3809"
+  },
+  {
+    "id": 3887,
+    "title": "ヒトノマネカタ",
+    "year": "",
+    "country": "日本",
+    "genre": "3D动漫",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240822-1/221aeba9667f2f0ce45d6fa3b0e63575.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3887"
+  },
+  {
     "id": 14847,
     "title": "ビビッと一色海水浴",
     "year": "",
@@ -1562,54 +1610,5 @@ window.PAGE_DATA = [
     "cover_url": "http://p.155250718p.com/upload/vod/20240802-1/971b860cb63a71ab1969457e2544bdd2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3822"
-  },
-  {
-    "id": 3817,
-    "title": "刀劍神域同人西莉卡-シリカgel-ゲームマスターの罠-",
-    "year": "",
-    "country": "日本",
-    "genre": "3D动漫",
-    "genres": [
-      "3D动漫",
-      "同人动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240808-1/a35aea1ea91034a4573ab06e3d9d5ec1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3817"
-  },
-  {
-    "id": 24140,
-    "title": "创世秩序",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/37cc084b2137474974a99729c45c765b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24140"
-  },
-  {
-    "id": 28253,
-    "title": "创世纪秩序-所有场景性爱JUDY",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/b6fb4c5c48a1461571545ea85a44dda2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28253"
   }
 ];
