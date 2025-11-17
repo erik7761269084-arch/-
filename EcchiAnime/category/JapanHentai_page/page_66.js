@@ -1,455 +1,7 @@
 window.PAGE_DATA = [
   {
-    "id": 1786,
-    "title": "工口豆豆",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301866.avif?1751098846",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1786"
-  },
-  {
-    "id": 41147,
-    "title": "工口豆豆-第1集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301866.avif?1751098846",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41147"
-  },
-  {
-    "id": 41148,
-    "title": "工口豆豆-第2集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301866.avif?1751098846",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41148"
-  },
-  {
-    "id": 23970,
-    "title": "工口豆豆1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2014-12-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8a5f7aa5fba4059f8651547e7050100d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23970"
-  },
-  {
-    "id": 1661,
-    "title": "工口遊戲！H和遊戲都要開發",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250527-1/c5ecb5a5cb109d4c235f4da34bf4d316.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1661"
-  },
-  {
-    "id": 8171,
-    "title": "巨乳JK和大叔肉棒的湿湿黏黏下流爱爱1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2018-10-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681ca1b023f3367fd32ccce8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8171"
-  },
-  {
-    "id": 8170,
-    "title": "巨乳JK和大叔肉棒的湿湿黏黏下流爱爱2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2018-11-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681ca1f223f3367fd32ce9ab/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8170"
-  },
-  {
-    "id": 40741,
-    "title": "巨乳JK和大叔肉棒的濕濕粘粘下流愛愛-第1集",
-    "year": "2007",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302097.avif?1751099538",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40741"
-  },
-  {
-    "id": 40742,
-    "title": "巨乳JK和大叔肉棒的濕濕粘粘下流愛愛-第2集",
-    "year": "2007",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302097.avif?1751099538",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40742"
-  },
-  {
-    "id": 1426,
-    "title": "巨乳JK和大叔肉棒的濕濕黏黏下流愛愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250523-1/1162da91b6c0b457f966181839b22588.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1426"
-  },
-  {
-    "id": 1811,
-    "title": "巨乳TRY！-短期集中揉乳課堂-",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250530-1/fd04e7acee75a3ba5afcdf910d54db66.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1811"
-  },
-  {
-    "id": 8166,
-    "title": "巨乳TRY！-短期集中揉乳课堂.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681ca3f723f3367fd32cf898/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8166"
-  },
-  {
-    "id": 23396,
-    "title": "巨乳だるまっ娘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/76d675ecde9f585c6ccf6bbcca9750ff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23396"
-  },
-  {
-    "id": 22274,
-    "title": "巨乳ドスケベ学园上巻乙女クラブの秘密",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/827e1c1afd7b732c4ec95698f76ac74e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22274"
-  },
-  {
-    "id": 22961,
-    "title": "巨乳ドスケベ学园下巻目指せ！ハーレムエンド",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/bb259a4c99d8f5cf49c000fca4af99c6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22961"
-  },
-  {
-    "id": 22179,
-    "title": "巨乳ドスケベ学園上巻乙女クラブの秘密",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/cf512c5f53ab7bd618d0d0b364e34b4e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22179"
-  },
-  {
-    "id": 23318,
-    "title": "巨乳・",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/74d10cfad0110c8f2897e37bef7d0bc3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23318"
-  },
-  {
-    "id": 23357,
-    "title": "巨乳・爆乳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/505b542090cbc544305b4c178a60ed11.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23357"
-  },
-  {
-    "id": 7534,
-    "title": "巨乳人妻产后性欲暴涨！G罩杯母乳喷溅性爱实录",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685ae82c3ed39b57c0e6568b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7534"
-  },
-  {
-    "id": 24672,
-    "title": "巨乳人妻女教师催眠2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2016-02-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ef43241f3a5dd9cd03bf6dfe160ee61e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24672"
-  },
-  {
-    "id": 1660,
-    "title": "巨乳人妻女教師催眠",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301913.avif?1751098730",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1660"
-  },
-  {
-    "id": 40319,
-    "title": "巨乳人妻女教師催眠-第1集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301913.avif?1751098730",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40319"
-  },
-  {
-    "id": 40320,
-    "title": "巨乳人妻女教師催眠-第2集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301913.avif?1751098730",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40320"
-  },
-  {
-    "id": 8364,
-    "title": "巨乳令媛MC学园1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2017-02-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d4602cf22ae3e048fcf0a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8364"
-  },
-  {
-    "id": 8365,
-    "title": "巨乳令媛MC学园2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d45e6cf22ae3e048fcf05/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8365"
-  },
-  {
-    "id": 1634,
-    "title": "巨乳令媛MC學園",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301963.avif?1751098724",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1634"
-  },
-  {
-    "id": 40745,
-    "title": "巨乳令媛MC學園-第1集",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301963.avif?1751098724",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40745"
-  },
-  {
-    "id": 40746,
-    "title": "巨乳令媛MC學園-第2集",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301963.avif?1751098724",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40746"
-  },
-  {
-    "id": 11071,
-    "title": "巨乳令嬢MC学園＃1「支配の序章」",
+    "id": 8260,
+    "title": "催眠☆学园4",
     "year": "",
     "country": "",
     "genre": "",
@@ -459,13 +11,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "2024-07-17",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/681421a5361668305a95ba43/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=11071"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8260"
   },
   {
-    "id": 22691,
-    "title": "巨乳令嬢MC学園＃2「女帝の陥落」",
+    "id": 11018,
+    "title": "催眠☆学园“～剥落堕落～”",
     "year": "",
     "country": "",
     "genre": "",
@@ -475,61 +27,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/848d4295df76e5de134d0158270c77e0.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/f3fbc8781574b7befa70baedcb6f7f49.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22691"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=11018"
   },
   {
-    "id": 1302,
-    "title": "巨乳公主催眠",
-    "year": "2004",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302165.avif?1751097329",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1302"
-  },
-  {
-    "id": 40323,
-    "title": "巨乳公主催眠-第1集",
-    "year": "2004",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302165.avif?1751097329",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40323"
-  },
-  {
-    "id": 40324,
-    "title": "巨乳公主催眠-第2集",
-    "year": "2004",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302165.avif?1751097329",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40324"
-  },
-  {
-    "id": 24748,
-    "title": "巨乳千金在学园第一话",
+    "id": 22426,
+    "title": "催眠☆学园「～忖度女教师の教卓处女给@〜」",
     "year": "",
     "country": "",
     "genre": "",
@@ -539,13 +43,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/72e71b4da9cf6957cc76554346dc6d9a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/fa529b467681d569044164f70da85384.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24748"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22426"
   },
   {
-    "id": 24832,
-    "title": "巨乳千金在学园第二话",
+    "id": 22440,
+    "title": "催眠☆学园～忖度女教师の教卓处女给◆",
     "year": "",
     "country": "",
     "genre": "",
@@ -555,13 +59,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ea0adb8834aa521800b5a6e270e47536.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/3f6ae483e21bb14d1e956bd056bbb1cd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24832"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22440"
   },
   {
-    "id": 8592,
-    "title": "巨乳大奶受精全国成",
+    "id": 22860,
+    "title": "催眠☆学園～恥じられ膨れるハジマリの失禁～",
     "year": "",
     "country": "",
     "genre": "",
@@ -571,77 +75,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/17/67ffdaec4e7d663df4f24d8b/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/f5902c8cbdd71ca739d9190516579c85.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8592"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22860"
   },
   {
-    "id": 1531,
-    "title": "巨乳大家族催眠",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302015.avif?1751097352",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1531"
-  },
-  {
-    "id": 40469,
-    "title": "巨乳大家族催眠-第1集",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302015.avif?1751097352",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40469"
-  },
-  {
-    "id": 40470,
-    "title": "巨乳大家族催眠-第2集",
-    "year": "2001",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302015.avif?1751097352",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40470"
-  },
-  {
-    "id": 8356,
-    "title": "巨乳大家族催眠1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2017-12-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d459dcf22ae3e048fcef8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8356"
-  },
-  {
-    "id": 8163,
-    "title": "巨乳大家族催眠1.",
+    "id": 8433,
+    "title": "催眠☆学院1",
     "year": "",
     "country": "",
     "genre": "",
@@ -651,13 +91,126 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681ca52723f3367fd32cf89c/cover.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/23/680876244e7d663df42cf855/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8163"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8433"
   },
   {
-    "id": 8357,
-    "title": "巨乳大家族催眠2",
+    "id": 1435,
+    "title": "催眠☆學園",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302113.avif?1751098706",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1435"
+  },
+  {
+    "id": 43128,
+    "title": "催眠☆學園-第1集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302113.avif?1751098706",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43128"
+  },
+  {
+    "id": 43129,
+    "title": "催眠☆學園-第2集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302113.avif?1751098706",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43129"
+  },
+  {
+    "id": 43130,
+    "title": "催眠☆學園-第3集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302113.avif?1751098706",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43130"
+  },
+  {
+    "id": 43131,
+    "title": "催眠☆學園-第4集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302113.avif?1751098706",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=43131"
+  },
+  {
+    "id": 38262,
+    "title": "催眠☆復仇",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297561.avif?1751099819",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38262"
+  },
+  {
+    "id": 21578,
+    "title": "催眠クラス后编_v2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/fd4eba046e1d9a5cb3a773d6edbba130.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21578"
+  },
+  {
+    "id": 22371,
+    "title": "催眠クラス～女子全员、知らないうちに妊娠してました～前编",
     "year": "",
     "country": "",
     "genre": "",
@@ -666,14 +219,559 @@ window.PAGE_DATA = [
     ],
     "type": "无码",
     "company": "[]",
-    "publish_date": "2018-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1c8cb5fbefe2e714a3931d3f20f738aa.jpg",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/caeb57b694c8e8eea13b7b9dc6f3b342.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8357"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22371"
   },
   {
-    "id": 2364,
-    "title": "巨乳大家族催眠看啊我被儿子的肉棒抽插着",
+    "id": 22359,
+    "title": "催眠クラス～女子全员、知らないうちに妊娠してました～后编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/71c69b969a3f5690b5ecdf110e091c0e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22359"
+  },
+  {
+    "id": 23572,
+    "title": "催眠ハウス-支配者の馆-香苗レノン坂咲みほ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/5076ecbb7e3b8936aefa1f31893e4dcf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23572"
+  },
+  {
+    "id": 5045,
+    "title": "催眠ハウス支配者の馆香苗レノン坂咲みほ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20250408-1/d49e74b5228580818e6f6e7e3ffbc516.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5045"
+  },
+  {
+    "id": 389,
+    "title": "催眠一个厚脸皮的高中女生！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250312-1/e8066c024492d895e0c51ed4d106e796.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=389"
+  },
+  {
+    "id": 38438,
+    "title": "催眠了一個厚顏無恥、貪圖便宜的女孩子",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297689.avif?1751099724",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38438"
+  },
+  {
+    "id": 23813,
+    "title": "催眠全班女生在不知情的时候都怀孕前篇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d00a4f0051467aa80df106ce9e62cff1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23813"
+  },
+  {
+    "id": 4988,
+    "title": "催眠凌辱学园",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250409-1/3127b4c68db02f62b299ea8f13f3288a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4988"
+  },
+  {
+    "id": 23286,
+    "title": "催眠凌辱学园-",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/8d84d5df73b1e748fd005076cde13aa5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23286"
+  },
+  {
+    "id": 28182,
+    "title": "催眠凌辱学园1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/06c9c60ceb4ff3716a066509f41693fc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28182"
+  },
+  {
+    "id": 28183,
+    "title": "催眠凌辱学园2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/5fb989a0dd6cb1fa69ea616c383a7a65.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28183"
+  },
+  {
+    "id": 23331,
+    "title": "催眠凌辱学园3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/1fd2e6c6d16cd580cbd99ca56e258048.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23331"
+  },
+  {
+    "id": 28185,
+    "title": "催眠凌辱学园第1话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/27923da92e01881eff70cdf0bba9956a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28185"
+  },
+  {
+    "id": 28184,
+    "title": "催眠凌辱学园第2话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/87e93842fc0b12c04c897c897d79f162.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28184"
+  },
+  {
+    "id": 28202,
+    "title": "催眠凌辱学园第3话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/4be19dc8f59ab117a5f8a6189b9929cb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28202"
+  },
+  {
+    "id": 21061,
+    "title": "催眠凌辱学园第一话疑似体験术",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"WHITEBEAR\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/d5d7a93904f5c61e0306e032acf69e0d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21061"
+  },
+  {
+    "id": 21113,
+    "title": "催眠凌辱学园第三话集団催眠术",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"WHITEBEAR\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/c6c6ecac8f6f918c70e63c537ebd8b18.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21113"
+  },
+  {
+    "id": 21088,
+    "title": "催眠凌辱学园第二话身代わりの术",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"WHITEBEAR\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/482d35cc6b9d93e7b34d9821b2b24824.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21088"
+  },
+  {
+    "id": 12769,
+    "title": "催眠凌辱学园第二话身代わりの术！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/f1e7d764a0a7e6ef9ca89bc57b615667.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12769"
+  },
+  {
+    "id": 2576,
+    "title": "催眠凌辱学園-SaiminRyoujokuGakuen1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/3fs10gclqhs.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2576"
+  },
+  {
+    "id": 2807,
+    "title": "催眠凌辱学園-SaiminRyoujokuGakuen2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/pfblwbeepij.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2807"
+  },
+  {
+    "id": 2808,
+    "title": "催眠凌辱学園-SaiminRyoujokuGakuen3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/e1daid0x1pk.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2808"
+  },
+  {
+    "id": 42205,
+    "title": "催眠凌辱學園-第1集",
+    "year": "2011",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301373.avif?1751098799",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42205"
+  },
+  {
+    "id": 42206,
+    "title": "催眠凌辱學園-第2集",
+    "year": "2011",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301373.avif?1751098799",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42206"
+  },
+  {
+    "id": 42207,
+    "title": "催眠凌辱學園-第3集",
+    "year": "2011",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301373.avif?1751098799",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42207"
+  },
+  {
+    "id": 28157,
+    "title": "催眠学园1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2018-03-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/23d7165ed4ba19a04a73461f778536b6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28157"
+  },
+  {
+    "id": 28168,
+    "title": "催眠学园2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/21e69b99294fea7dd28d00839ca36d91.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28168"
+  },
+  {
+    "id": 28169,
+    "title": "催眠学园3",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/dce8b3af9a5666a00f7bf27fcb5a9518.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28169"
+  },
+  {
+    "id": 28163,
+    "title": "催眠学园4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/874dd3c15a180d43f2524e3be02eec5e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28163"
+  },
+  {
+    "id": 22514,
+    "title": "催眠学园后编",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/87412316c4c46a74968706c9d4e8baa5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22514"
+  },
+  {
+    "id": 8639,
+    "title": "催眠学校～厚脸皮巨乳学生的催眠强奸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/15/67fd3d634e7d663df4dcca2f/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8639"
+  },
+  {
+    "id": 40751,
+    "title": "催眠學園-第1集",
+    "year": "2014",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301262.avif?1751099902",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40751"
+  },
+  {
+    "id": 40752,
+    "title": "催眠學園-第2集",
+    "year": "2014",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301262.avif?1751099902",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40752"
+  },
+  {
+    "id": 7752,
+    "title": "催眠學校～把傲慢的巨乳學生給催眠強姦!～[中文",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/01/683c408941a147ed1a3b936a/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7752"
+  },
+  {
+    "id": 28188,
+    "title": "催眠常識改變日富美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/d49b39e0d4cbccbc948793c3b163de41.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28188"
+  },
+  {
+    "id": 5799,
+    "title": "催眠彼女～隷属洗脳性活下巻",
     "year": "",
     "country": "",
     "genre": "",
@@ -685,251 +783,11 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2364"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5799"
   },
   {
-    "id": 11159,
-    "title": "巨乳大家族催眠＃1巨乳ぞろいの隣人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/3b38d94533e103bfb92983452c258a67.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=11159"
-  },
-  {
-    "id": 2282,
-    "title": "巨乳女士官・洗腦催眠",
-    "year": "2024",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/43/436508.avif?1751088275",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2282"
-  },
-  {
-    "id": 40325,
-    "title": "巨乳女士官・洗腦催眠-第1集",
-    "year": "2024",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/43/436508.avif?1751088275",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40325"
-  },
-  {
-    "id": 40326,
-    "title": "巨乳女士官・洗腦催眠-第2集",
-    "year": "2024",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/43/436508.avif?1751088275",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40326"
-  },
-  {
-    "id": 7965,
-    "title": "巨乳女士官・洗腦催眠1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/6828669efd7201c48de2b832/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7965"
-  },
-  {
-    "id": 7968,
-    "title": "巨乳女士官・洗腦催眠2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682866a1fd7201c48de2b833/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7968"
-  },
-  {
-    "id": 8361,
-    "title": "巨乳女战士・土下座催眠1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2022-06-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d4622cf22ae3e048fcf10/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8361"
-  },
-  {
-    "id": 8366,
-    "title": "巨乳女战士・土下座催眠2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2022-06-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d460acf22ae3e048fcf0b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8366"
-  },
-  {
-    "id": 1158,
-    "title": "巨乳女戰士・土下座催眠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250518-1/02f93e7945898977fb68360f53da5486.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1158"
-  },
-  {
-    "id": 7666,
-    "title": "巨乳女郎大战毒龙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/13/684c25c843d6972716958af3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7666"
-  },
-  {
-    "id": 41159,
-    "title": "巨乳學園-第1集",
-    "year": "2003",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/112880.avif?1751116466",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41159"
-  },
-  {
-    "id": 41160,
-    "title": "巨乳學園-第2集",
-    "year": "2003",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/11/112880.avif?1751116466",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41160"
-  },
-  {
-    "id": 41035,
-    "title": "巨乳學院-第1集",
-    "year": "2003",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297167.avif?1751099998",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41035"
-  },
-  {
-    "id": 41036,
-    "title": "巨乳學院-第2集",
-    "year": "2003",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297167.avif?1751099998",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41036"
-  },
-  {
-    "id": 1622,
-    "title": "巨乳家族催眠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250524-1/dfe6705b001c462574c17b38fb361c1c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1622"
-  },
-  {
-    "id": 38172,
-    "title": "巨乳寡婦幸惠和壞壞的兒子朋友",
+    "id": 38295,
+    "title": "催眠後我無法抗拒巨屌",
     "year": "2020",
     "country": "",
     "genre": "",
@@ -939,13 +797,30 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297606.avif?1751099235",
+    "cover_url": "https://ptt.co/images/node/29/297657.avif?1751099949",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38172"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38295"
   },
   {
-    "id": 5654,
-    "title": "巨乳少女大战恶魔",
+    "id": 7154,
+    "title": "催眠性",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/03/6908b7d2e264e6282dfe2c8e/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7154"
+  },
+  {
+    "id": 28198,
+    "title": "催眠性指导1",
     "year": "",
     "country": "",
     "genre": "",
@@ -954,462 +829,46 @@ window.PAGE_DATA = [
     ],
     "type": "无码",
     "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
+    "publish_date": "2019-02-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/dc4733dd436b7fe0ed0548b0ddf22b1d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5654"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28198"
   },
   {
-    "id": 1269,
-    "title": "巨乳幻想",
-    "year": "2011",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301524.avif?1751098552",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1269"
-  },
-  {
-    "id": 40437,
-    "title": "巨乳幻想-第1集",
-    "year": "2011",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301524.avif?1751098552",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40437"
-  },
-  {
-    "id": 40438,
-    "title": "巨乳幻想-第2集",
-    "year": "2011",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301524.avif?1751098552",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40438"
-  },
-  {
-    "id": 36980,
-    "title": "巨乳愛心～她在猛獸發情期！？～",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301441.avif?1751099530",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=36980"
-  },
-  {
-    "id": 41055,
-    "title": "巨乳愛心～她在猛獸發情期！？～-第1集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301441.avif?1751099530",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41055"
-  },
-  {
-    "id": 41056,
-    "title": "巨乳愛心～她在猛獸發情期！？～-第2集",
-    "year": "2008",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/301441.avif?1751099530",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=41056"
-  },
-  {
-    "id": 1903,
-    "title": "巨乳教學",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250612-1/e363965e8d37288c1e49fecf5fb50bcb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1903"
-  },
-  {
-    "id": 7659,
-    "title": "巨乳淫乱少女的勾引与堕落",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/13/684c253043d6972716958aa7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7659"
-  },
-  {
-    "id": 1745,
-    "title": "巨乳無限大∞！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250531-1/64ad7d3de466288a2378519f0b2a1c1c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1745"
-  },
-  {
-    "id": 8167,
-    "title": "巨乳痴女学园1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2018-10-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681ca41223f3367fd32cf899/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8167"
-  },
-  {
-    "id": 8168,
-    "title": "巨乳痴女学园2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2018-12-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681ca4de23f3367fd32cf89a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8168"
-  },
-  {
-    "id": 1396,
-    "title": "巨乳痴女學園",
-    "year": "2000",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302096.avif?1751098819",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1396"
-  },
-  {
-    "id": 40971,
-    "title": "巨乳痴女學園-第1集",
-    "year": "2000",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302096.avif?1751098819",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40971"
-  },
-  {
-    "id": 40972,
-    "title": "巨乳痴女學園-第2集",
-    "year": "2000",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302096.avif?1751098819",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40972"
-  },
-  {
-    "id": 24379,
-    "title": "巨乳痴女被灌满浓浓精液",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3efa9d9ab785e3c45a62c18248030b68.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24379"
-  },
-  {
-    "id": 24765,
-    "title": "巨乳的摩擦力",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ae9f31b3eff2370cd035dc5b1bf5f372.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24765"
-  },
-  {
-    "id": 8355,
-    "title": "巨乳精灵母娘催眠1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2022-01-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d45afcf22ae3e048fcef9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8355"
-  },
-  {
-    "id": 8353,
-    "title": "巨乳精灵母娘催眠2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "2022-01-01",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/27/680d45afcf22ae3e048fcefa/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8353"
-  },
-  {
-    "id": 1157,
-    "title": "巨乳精靈母娘催眠",
-    "year": "2011",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302228.avif?1751099805",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1157"
-  },
-  {
-    "id": 40245,
-    "title": "巨乳精靈母娘催眠-第1集",
-    "year": "2011",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302228.avif?1751099805",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40245"
-  },
-  {
-    "id": 40246,
-    "title": "巨乳精靈母娘催眠-第2集",
-    "year": "2011",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302228.avif?1751099805",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40246"
-  },
-  {
-    "id": 7312,
-    "title": "巨乳素人浴室湿身大胆展示！肉棒在蜜穴中进出的淫水声",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b265043d6972716d26ba9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7312"
-  },
-  {
-    "id": 39062,
-    "title": "巨乳美女姊妹被性愛手鐲洗腦成為我的專用小穴",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/29/297667.avif?1751099947",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39062"
-  },
-  {
-    "id": 7777,
-    "title": "巨乳美女姊妹被性愛手鐲洗腦成為我的專用小穴[中",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/30/6838b868a0b87615b2e4ddeb/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7777"
-  },
-  {
-    "id": 7660,
-    "title": "巨乳美女挺胸诱惑，让你欲罢不能",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/13/684c255043d6972716958aa9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7660"
-  },
-  {
-    "id": 24800,
-    "title": "巨乳美女的兼职工作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4b7f84c50eed317d4c563ca7cc6b557a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24800"
-  },
-  {
-    "id": 8532,
-    "title": "巨乳美尻っ娘彩芽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/19/68032cb8cf22ae3e0457affc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8532"
-  },
-  {
-    "id": 537,
-    "title": "巨乳肥臀上位骑乘性爱",
+    "id": 5859,
+    "title": "催眠性指导1：内射白虎的强制高潮体验",
     "year": "",
     "country": "日本",
-    "genre": "",
+    "genre": "日本里番",
     "genres": [
       "日本里番"
     ],
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250407-1/c401b423c03c7e435444a6da434c260b.jpg",
+    "cover_url": "https://img.cdn202511.com/videos/202507/09/686e22f6d640eb31df4b2164/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=537"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5859"
   },
   {
-    "id": 24614,
-    "title": "巨乳肮脏的小学校",
+    "id": 28178,
+    "title": "催眠性指导2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/a99c300d5f02661c455323a94dea1460.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28178"
+  },
+  {
+    "id": 8256,
+    "title": "催眠性指导3",
     "year": "",
     "country": "",
     "genre": "",
@@ -1419,13 +878,221 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/823160193f018982c3dfc0bd9d89579f.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/7a9357b48246e53623740626d0717dea.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24614"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8256"
   },
   {
-    "id": 659,
-    "title": "巨乳魅魔激情抖奶交配-1",
+    "id": 28199,
+    "title": "催眠性指导4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/d64d2bc0bd0438fd6c58a143d5746550.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28199"
+  },
+  {
+    "id": 8261,
+    "title": "催眠性指导4.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/02/681421bc361668305a95ba48/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8261"
+  },
+  {
+    "id": 5876,
+    "title": "催眠性指导4：人妻内射后宫记熟女御姐的3P群交之夜",
+    "year": "",
+    "country": "日本",
+    "genre": "日本里番",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202507/09/686e2377d640eb31df4becb0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5876"
+  },
+  {
+    "id": 28194,
+    "title": "催眠性指导5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2022-03-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/c5b63b716411cf97311474f5309d880d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28194"
+  },
+  {
+    "id": 8432,
+    "title": "催眠性指导5.",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/23/680876794e7d663df42cf873/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8432"
+  },
+  {
+    "id": 28204,
+    "title": "催眠性指导6",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2022-03-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/ca3d9f924b0af3af055b6c89527d1d48.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28204"
+  },
+  {
+    "id": 28173,
+    "title": "催眠性指导第1话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/d40bd5db3a626a41d8af2fd9975dc1a1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28173"
+  },
+  {
+    "id": 28176,
+    "title": "催眠性指导第2话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/f932e00ca0487d2080e5f02684877157.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28176"
+  },
+  {
+    "id": 28174,
+    "title": "催眠性指导第3话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/c837088c292cea99de211013e777843c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28174"
+  },
+  {
+    "id": 28149,
+    "title": "催眠性指导第4话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/8b0a0627f98099cfa899ad40b6a5b53e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28149"
+  },
+  {
+    "id": 28171,
+    "title": "催眠性指导第5话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/51415dfe2d9deb8852940ccbbb1e0b0b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28171"
+  },
+  {
+    "id": 28172,
+    "title": "催眠性指导第6话",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/0ca57c53ab32dc2391e1bf4db468ae9f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28172"
+  },
+  {
+    "id": 1133,
+    "title": "催眠性指導",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250517-1/39eb28812ac4f36ac3545e9c955d109b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1133"
+  },
+  {
+    "id": 672,
+    "title": "催眠性爱！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1437,11 +1104,11 @@ window.PAGE_DATA = [
     "publish_date": "",
     "cover_url": "",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=659"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=672"
   },
   {
-    "id": 2132,
-    "title": "巨人族的新娘",
+    "id": 28187,
+    "title": "催眠手办与狂妄自大的制服辣妹们一个劲地配种做爱的生活",
     "year": "",
     "country": "",
     "genre": "",
@@ -1451,13 +1118,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250622-1/532534372a1a0e2c1673c01758968024.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/719198269fb5b9b23dd62b1fe5bac72a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2132"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28187"
   },
   {
-    "id": 24927,
-    "title": "巨人族的新娘1",
+    "id": 7803,
+    "title": "催眠手辦！與狂妄自大的制服辣妹們一個勁地配種做愛的",
     "year": "",
     "country": "",
     "genre": "",
@@ -1467,13 +1134,77 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9b2610032aff8d59640c75273c3d65c5.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/28/6836faf4a0b87615b2d79792/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24927"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7803"
   },
   {
-    "id": 24936,
-    "title": "巨人族的新娘2",
+    "id": 38722,
+    "title": "催眠手辦！與狂妄自大的制服辣妹們一個勁地配種做愛的生活",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297451.avif?1751099829",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38722"
+  },
+  {
+    "id": 1642,
+    "title": "催眠教室",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301986.avif?1751098831",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1642"
+  },
+  {
+    "id": 40661,
+    "title": "催眠教室-第1集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301986.avif?1751098831",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40661"
+  },
+  {
+    "id": 40662,
+    "title": "催眠教室-第2集",
+    "year": "2009",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301986.avif?1751098831",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40662"
+  },
+  {
+    "id": 28195,
+    "title": "催眠教室1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1483,13 +1214,61 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3ef4dd927cdbaf4f7dd323ecca843c4c.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/9bb4b15ab04b24334d91f25f3373956f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24936"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28195"
   },
   {
-    "id": 24924,
-    "title": "巨人族的新娘3",
+    "id": 28186,
+    "title": "催眠教室2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2017-02-01",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/52e80efd10d5df9afa3e844d234f2388.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28186"
+  },
+  {
+    "id": 8158,
+    "title": "催眠术1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681c9ad623f3367fd32c4697/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8158"
+  },
+  {
+    "id": 8156,
+    "title": "催眠术2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681c9b7c23f3367fd32c4698/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8156"
+  },
+  {
+    "id": 28196,
+    "title": "催眠术2ndversion1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1499,13 +1278,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ee52586525824a0e84a86408496e926b.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/2905fcaa6d27bc8f30c698b83a699470.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24924"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28196"
   },
   {
-    "id": 24945,
-    "title": "巨人族的新娘4",
+    "id": 28181,
+    "title": "催眠术2ndversion2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1515,13 +1294,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/dc460ab641e303a2b0fb28a5968f4707.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/a2ea6999162d39ed240f8a68c8f08fe0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24945"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28181"
   },
   {
-    "id": 24949,
-    "title": "巨人族的新娘5",
+    "id": 28197,
+    "title": "催眠术2ndversion第1话",
     "year": "",
     "country": "",
     "genre": "",
@@ -1531,13 +1310,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/072e65bae0081dd9264383b42b9ff012.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/27f024304f414f21b0142ac5fa350dc1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24949"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28197"
   },
   {
-    "id": 24954,
-    "title": "巨人族的新娘6",
+    "id": 28179,
+    "title": "催眠术2ndversion第2话",
     "year": "",
     "country": "",
     "genre": "",
@@ -1547,13 +1326,30 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d190860c72b930dc6004f80b3420c56a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/d7df703f7908b4aa14cef10bd668e27c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24954"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28179"
   },
   {
-    "id": 24889,
-    "title": "巨大的鸡巴",
+    "id": 21540,
+    "title": "催眠术THEANIMATION2ndversion-2～幻想と淫欲の领域に～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/35edd6dfa5eca211be8dc28063c22947.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21540"
+  },
+  {
+    "id": 28200,
+    "title": "催眠术ZERO1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1563,13 +1359,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/12543c123c4120438a53fdae28191bb2.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/5f1f591d1fb26b0d405bea9754695318.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=24889"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28200"
   },
   {
-    "id": 7281,
-    "title": "巨根狂插！光之探索第2集-莉莎斯中枢肉棒突入实录",
+    "id": 28201,
+    "title": "催眠术ZERO2",
     "year": "",
     "country": "",
     "genre": "",
@@ -1579,13 +1375,13 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/08/686c915043d6972716e8d9a9/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/01a2d9c1ebc9a6a48f44c0b505a8790f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7281"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28201"
   },
   {
-    "id": 6047,
-    "title": "巫女强奸：家人不在的时候，房子被一名小偷占据，不止钱财连我的肉体都被粗壮肉棒给玷污了MotionAnime",
+    "id": 22326,
+    "title": "催眠术ZEROkamma",
     "year": "",
     "country": "",
     "genre": "",
@@ -1595,8 +1391,218 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "[]",
     "publish_date": "",
-    "cover_url": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/40895a6984aba3ad2983350c314917b2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6047"
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22326"
+  },
+  {
+    "id": 28177,
+    "title": "催眠术ZEROSP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/840f9087046ab60cc5d8fe030b48e848.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28177"
+  },
+  {
+    "id": 28193,
+    "title": "催眠第2版-1进入幻想与情色梦的世界",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/c7b8500c5c0657a12956057159b3078c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28193"
+  },
+  {
+    "id": 28180,
+    "title": "催眠第二版-2进入幻想与欲望的境界",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/d3c44ae2d4375a02120422ba4dbdd7a4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28180"
+  },
+  {
+    "id": 38296,
+    "title": "催眠精靈～為人妻無限中出～",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/29/297510.avif?1751099835",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=38296"
+  },
+  {
+    "id": 1106,
+    "title": "催眠術2nd",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250601-1/c94bfbfade98d992aee9ac4779216b6f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1106"
+  },
+  {
+    "id": 14324,
+    "title": "催眠術2ndversion-1～幻想と淫夢の世界に～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/50fd8485544e32dc7e1d2727d75cfc1f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14324"
+  },
+  {
+    "id": 40487,
+    "title": "催眠術2ndversion-第1集",
+    "year": "2012",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301260.avif?1751099546",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40487"
+  },
+  {
+    "id": 40488,
+    "title": "催眠術2ndversion-第2集",
+    "year": "2012",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301260.avif?1751099546",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40488"
+  },
+  {
+    "id": 23669,
+    "title": "催眠術THEANIMATION2ndversion-1～幻想と淫夢の世界に～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"milky\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ecedce6ca826587553260467788b4b2c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23669"
+  },
+  {
+    "id": 23645,
+    "title": "催眠術THEANIMATION2ndversion-2～幻想と淫欲の領域に～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"milky\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/4328d46859a273912941644c9a9a01d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=23645"
+  },
+  {
+    "id": 1105,
+    "title": "催眠術ZERO",
+    "year": "2007",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301725.avif?1751097387",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1105"
+  },
+  {
+    "id": 40567,
+    "title": "催眠術ZERO-第1集",
+    "year": "2007",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301725.avif?1751097387",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40567"
+  },
+  {
+    "id": 40568,
+    "title": "催眠術ZERO-第2集",
+    "year": "2007",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301725.avif?1751097387",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=40568"
   }
 ];

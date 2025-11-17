@@ -1,149 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 20011,
-    "title": "Abjan淫荡瘾君子令人毛骨悚然的老人3-2人的征服性-",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/29731e78fb42ea7c9d6536bf08badd03.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20011"
-  },
-  {
-    "id": 20013,
-    "title": "AbuhachiRamenTei在女儿嘴里射精的父亲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/e03a182d2259686a8a682221026b9813.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20013"
-  },
-  {
-    "id": 20019,
-    "title": "AbuJeanReneshaYota数字化疗姐姐和嫂子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/35c545220f799e18081f3fd729765b9f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20019"
-  },
-  {
-    "id": 39950,
-    "title": "ACCA13區監察課－Regards",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/45/457296.avif?1751085143",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39950"
-  },
-  {
-    "id": 20012,
-    "title": "Acha当我进入公共场所时一个神秘的淫荡母狗正等着铲除所有司机并猥亵他们",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/785bf58312c450941f0776c8165901c3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20012"
-  },
-  {
-    "id": 20014,
-    "title": "Acha秋田桐自慰性爱感谢老男人Ver0.9",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/7d85a0988aabf525ed8a40b1da53320c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20014"
-  },
-  {
-    "id": 5897,
-    "title": "ACRN-376炼金术士科莱特的色情压榨物语第1科莱特的工作室开张",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5897"
-  },
-  {
-    "id": 5868,
-    "title": "ACRN-380泳装情人女友是精灵护卫骑士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5868"
-  },
-  {
-    "id": 21484,
-    "title": "act.2わた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/5007e8ccc2de23aeef479b8d3b59f843.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21484"
-  },
-  {
     "id": 20031,
     "title": "AdaWong被BigFutaDick性交",
     "year": "",
@@ -223,6 +79,23 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/db7b4478a9478ddcb62e2edbb4c760ad.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19826"
+  },
+  {
+    "id": 7623,
+    "title": "ADV-R0324少女强制侵犯游戏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/17/6851323443d6972716cc6184/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7623"
   },
   {
     "id": 5818,
@@ -549,6 +422,22 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=869"
   },
   {
+    "id": 292,
+    "title": "Aigis-BedroomAigis-FinaleAigis",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250224-1/b919282bdd53d98f76cfbd7b58b96e4a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=292"
+  },
+  {
     "id": 37640,
     "title": "AilManiax",
     "year": "2007",
@@ -563,6 +452,54 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/30/301662.avif?1751099851",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=37640"
+  },
+  {
+    "id": 42526,
+    "title": "AilManiax-第1集",
+    "year": "2007",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301662.avif?1751099851",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42526"
+  },
+  {
+    "id": 42527,
+    "title": "AilManiax-第2集",
+    "year": "2007",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301662.avif?1751099851",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42527"
+  },
+  {
+    "id": 42528,
+    "title": "AilManiax-第3集",
+    "year": "2007",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/301662.avif?1751099851",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=42528"
   },
   {
     "id": 19962,
@@ -613,6 +550,23 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=8868"
   },
   {
+    "id": 19971,
+    "title": "aiルMANIAX猥亵魔斗魔女夜斗EPISODE1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番",
+      "中文字幕"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/eb9a7fdc8394ea2121ef2bc2902ebe54.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19971"
+  },
+  {
     "id": 19945,
     "title": "AI原神宵宫",
     "year": "",
@@ -651,10 +605,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "国漫女神",
       "同人动漫",
+      "日本里番",
       "斗罗大陆",
-      "日本里番"
+      "国漫女神"
     ],
     "type": "无码",
     "company": "[]",
@@ -694,6 +648,22 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/e7bc891a3db11de8e42bd3936d38aff7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19831"
+  },
+  {
+    "id": 39,
+    "title": "Akali阿卡莉巨乳性感女忍的极致深喉口交口爆吞精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://img.cdn2025.life/videos/202509/20/68ce6302c1740d4b9b8a7a2b/cover.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=39"
   },
   {
     "id": 19937,
@@ -1606,5 +1576,37 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/73513a96f2644b61ec9b7354510e7301.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19838"
+  },
+  {
+    "id": 19925,
+    "title": "akira_Brave777月村手鞠01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/69b17d93d0f9560f11cab313d8039e6e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19925"
+  },
+  {
+    "id": 19875,
+    "title": "akira_Brave777木崎和空崎希娜01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250514-1/b25ff21fe1bf0252cf6b87ef1fe7ab07.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=19875"
   }
 ];
