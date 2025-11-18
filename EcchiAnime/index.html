@@ -140,13 +140,17 @@ body {
 <div id="footer-placeholder"></div>
 
 <script>
-/* 加载顶部 header.html + header.js */
+/* ========== 加载顶部 header.html + header.js ========== */
 fetch('header.html')
   .then(r => r.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
     const s = document.createElement('script');
     s.src = 'header.js';
+    s.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-home');
+    };
     document.body.appendChild(s);
   });
 
