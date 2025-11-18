@@ -5,6 +5,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "日本",
     "genre": "日本三级",
+    "genres": [
+      "日本三级"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
@@ -18,6 +21,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "日本",
     "genre": "日本三级",
+    "genres": [
+      "日本三级"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
@@ -31,6 +37,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "日本",
     "genre": "日本三级",
+    "genres": [
+      "日本三级"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
@@ -44,6 +53,9 @@ window.PAGE_DATA = [
     "year": "1983",
     "country": "日本",
     "genre": "日本三级",
+    "genres": [
+      "日本三级"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
@@ -57,6 +69,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "日本",
     "genre": "日本三级",
+    "genres": [
+      "日本三级"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
@@ -70,6 +85,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "日本",
     "genre": "日本三级",
+    "genres": [
+      "日本三级"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
@@ -87,6 +105,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "日本",
     "genre": "日本三级",
+    "genres": [
+      "日本三级"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
@@ -100,6 +121,9 @@ window.PAGE_DATA = [
     "year": "",
     "country": "日本",
     "genre": "日本三级",
+    "genres": [
+      "日本三级"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
