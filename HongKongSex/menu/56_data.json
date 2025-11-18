@@ -1,6 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f147f514c41c435e7727.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f147f514c41c435e7727.m3u8",
+    "线路2": "https://play.subokk.com/play/RdGlK8eD/index.m3u8",
+    "线路3": "https://play.phimgood.com/20250829/25924_41d98b54/index.m3u8",
+    "线路4": "https://m3u.nikanba.live/share/c85a066156024d18919ed7c207b9c888.m3u8"
   },
   "seriesInfo": {
     "id": 56,

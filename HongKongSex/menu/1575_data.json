@@ -1,6 +1,10 @@
 {
   "episodes": {
-    "主线路": "https://s1.bfllvip.com/video/yawang2jitongyalian/HD中字/index.m3u8"
+    "主线路": "https://vip1.lz-cdn.com/20220917/33107_9f990ebf/index.m3u8",
+    "线路2": "https://s1.bfllvip.com/video/yawang2jitongyalian/HD中字/index.m3u8",
+    "线路3": "https://vip1.lz-cdn.com/20220917/33108_23109fae/index.m3u8",
+    "线路4": "https://yzzy.play-cdn6.com/20220622/223_f44bf294/index.m3u8",
+    "线路5": "https://hdm3u8.com/20250425/PVJ76iZY/index.m3u8"
   },
   "seriesInfo": {
     "id": 1575,

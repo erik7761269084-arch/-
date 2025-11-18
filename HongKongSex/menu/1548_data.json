@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://play.modujx15.com/20240823/NA16TFPL/index.m3u8",
-    "线路2": "https://vodcnd00.rsfcxq.com/20250915/DxvSn8ht/index.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/67402bbed6b8f705ec72ae45.m3u8",
+    "线路2": "https://play.modujx15.com/20240823/NA16TFPL/index.m3u8",
+    "线路3": "https://vodcnd00.rsfcxq.com/20250915/DxvSn8ht/index.m3u8"
   },
   "seriesInfo": {
     "id": 1548,
-    "title": "紅燈區",
+    "title": "红灯区",
     "publish_date": "",
     "type": "有码",
     "company": "",

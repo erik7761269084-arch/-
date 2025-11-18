@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/681411fd9b5d436499f71f57.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/681411fd9b5d436499f71f57.m3u8",
+    "线路2": "https://vodcnd00.kunyu.com.cn/20250928/sHI5xRft/index.m3u8"
   },
   "seriesInfo": {
     "id": 432,

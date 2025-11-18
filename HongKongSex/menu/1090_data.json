@@ -1,10 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://vodcnd00.rsfcxq.com/20250410/bMBmmppX/index.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/673e5ab43276de039d31a0f8.m3u8",
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/673e5e873276de039d31a2b3.m3u8",
+    "线路3": "https://vodcnd00.rsfcxq.com/20250410/bMBmmppX/index.m3u8"
   },
   "seriesInfo": {
     "id": 1090,
-    "title": "特區愛奴",
+    "title": "特区爱奴",
     "publish_date": "",
     "type": "有码",
     "company": "",
@@ -15,6 +17,12 @@
     "cover_url": "https://ptt.co/images/node/16/169520.avif?1751111858",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1090",
-    "actresses": []
+    "actresses": [
+      {
+        "name": "叶子楣",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "profile_url": "https://yunvgong.com/HongKongSex/actressDatas.html?series=27&name=%E5%8F%B6%E5%AD%90%E6%A5%A3"
+      }
+    ]
   }
 }

@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f3d294b74ce1033690d2.m3u8"
+    "主线路": "https://m3u8.cdn202511.com/movie/auto/6739f3d294b74ce1033690d2.m3u8",
+    "线路2": "https://s1.bfllvip.com/video/fenghuaxueyue/HD/index.m3u8"
   },
   "seriesInfo": {
     "id": 24,
