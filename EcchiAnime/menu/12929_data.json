@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/06/681a1f3923f3367fd31c9980/ae366g/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/06/681a1f3923f3367fd31c9980/ae366g/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678c9469c179ffb1dba28508/b899d3/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/19/678cd0ea89def9b1b819da81/1e3713/index.m3u8"
   },
   "seriesInfo": {
     "id": 12929,

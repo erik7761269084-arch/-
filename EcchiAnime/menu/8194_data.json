@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/06/681a1c3e23f3367fd31c98ff/76d1e2/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/06/681a1c3e23f3367fd31c98ff/76d1e2/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cb47589def9b1b819882f/aff365/index.m3u8"
   },
   "seriesInfo": {
     "id": 8194,
     "title": "方便的炮友？3",
-    "publish_date": "",
+    "publish_date": "2014-08-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

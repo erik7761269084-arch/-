@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/25/680b2ef9cf22ae3e0483a2ff/e5a9bd/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/25/680b2ef9cf22ae3e0483a2ff/e5a9bd/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cecef89def9b1b81a2b23/802195/index.m3u8"
   },
   "seriesInfo": {
     "id": 8381,
     "title": "我的弥生姐姐2",
-    "publish_date": "",
+    "publish_date": "2016-07-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

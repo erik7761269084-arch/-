@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/15/682558e4130ac02b587ce15a/57b28d/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/15/682558e4130ac02b587ce15a/57b28d/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cd53fc179ffb1dba28a78/ad5g92/index.m3u8"
   },
   "seriesInfo": {
     "id": 8027,
     "title": "魔兽净化少女1",
-    "publish_date": "",
+    "publish_date": "2015-12-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

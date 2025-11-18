@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20250509/20agNVvd/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202503/21/67dd69aa3037aaed4ff2630b/ecfc8g/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250509/20agNVvd/index.m3u8"
   },
   "seriesInfo": {
     "id": 20136,
     "title": "千鹤酱的开发日记3",
-    "publish_date": "",
+    "publish_date": "2021-11-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

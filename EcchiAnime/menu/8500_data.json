@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/20/680473654e7d663df4129be0/7c1ec3/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/20/680473654e7d663df4129be0/7c1ec3/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/27/67e430fccf22ae3e04828ff4/b2eg57/index.m3u8"
   },
   "seriesInfo": {
     "id": 8500,
     "title": "召喚魅魔結果義母來了!-2",
-    "publish_date": "",
+    "publish_date": "2022-11-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

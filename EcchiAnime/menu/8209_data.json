@@ -1,12 +1,13 @@
 {
   "episodes": {
     "主线路": "https://voddadaizi.com:52866/videos/202505/04/6816ffdac57e2706696aa157/a3e334/index.m3u8",
-    "线路2": "https://lsbbf2.com/20230915/j512k6PX/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cb66189def9b1b8198dcd/0baf22/index.m3u8",
+    "线路3": "https://lsbbf2.com/20230915/j512k6PX/index.m3u8"
   },
   "seriesInfo": {
     "id": 8209,
     "title": "白浊之村3",
-    "publish_date": "",
+    "publish_date": "2014-09-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

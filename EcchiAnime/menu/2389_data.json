@@ -1,16 +1,17 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250716/YDe1cRfC/index.m3u8"
+    "主线路": "https://thm3u8.com/20250716/YDe1cRfC/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/31/67eaa5d55ccf074752972d39/386aa3/index.m3u8"
   },
   "seriesInfo": {
     "id": 2389,
     "title": "夫人的回复术",
-    "publish_date": "",
+    "publish_date": "2023-07-01",
     "type": "无码",
     "company": "[]",
     "genres": [],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202503/31/67eaa5d55ccf074752972d39/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2389",
     "actresses": []

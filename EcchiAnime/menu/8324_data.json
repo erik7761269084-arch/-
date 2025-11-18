@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/29/681055cecf22ae3e04a3fb9b/4868f9/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/29/681055cecf22ae3e04a3fb9b/4868f9/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cf06bc179ffb1dba28afb/4060e0/index.m3u8"
   },
   "seriesInfo": {
     "id": 8324,
     "title": "少女彈珠汽水1",
-    "publish_date": "",
+    "publish_date": "2016-10-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

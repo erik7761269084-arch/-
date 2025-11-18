@@ -1,12 +1,13 @@
 {
   "episodes": {
     "主线路": "https://voddadaizi.com:52866/videos/202505/08/681c9acd23f3367fd32c4696/aa9bf2/index.m3u8",
-    "线路2": "https://lsbbf2.com/20230915/480Z4z2L/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cccb989def9b1b819ce5a/e59b8a/index.m3u8",
+    "线路3": "https://lsbbf2.com/20230915/480Z4z2L/index.m3u8"
   },
   "seriesInfo": {
     "id": 8157,
     "title": "纯爱狂热2",
-    "publish_date": "",
+    "publish_date": "2015-07-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

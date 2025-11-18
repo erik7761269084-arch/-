@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/14/6823e75b66c0176549f89ba9/2b3b34/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/14/6823e75b66c0176549f89ba9/2b3b34/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/09/67cd8a39cf22ae3e042990c4/1eaeb2/index.m3u8"
   },
   "seriesInfo": {
     "id": 8033,
     "title": "令人心动的小小的房东小姐5",
-    "publish_date": "",
+    "publish_date": "2019-11-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

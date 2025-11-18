@@ -1,8 +1,10 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202505/24/HY3VWt14752/video/index.m3u8#第02集$https://bf3.qrtuv.com/smv1/202505/24/w121cBUBQg2/video/index.m3u8",
-    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678c79492a47ebb1a8cadd48/6b1cbe/index.m3u8",
-    "线路3": "https://voddadaizi.com:52866/videos/202501/19/678cc5b289def9b1b819b9e0/37a846/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202505/06/681a1f7b23f3367fd31c9986/7b8adb/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/19/678c79492a47ebb1a8cadd48/6b1cbe/index.m3u8",
+    "线路4": "https://voddadaizi.com:52866/videos/202501/19/678cb49c89def9b1b819889c/34fe9d/index.m3u8",
+    "线路5": "https://voddadaizi.com:52866/videos/202501/19/678cc5b289def9b1b819b9e0/37a846/index.m3u8"
   },
   "seriesInfo": {
     "id": 36870,

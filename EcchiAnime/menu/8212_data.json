@@ -1,12 +1,13 @@
 {
   "episodes": {
     "主线路": "https://voddadaizi.com:52866/videos/202505/04/6816ffa6c57e2706696aa150/e4c84c/index.m3u8",
-    "线路2": "https://lsbbf2.com/20230915/UkQIhjZj/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cd2e6c179ffb1dba28a6c/0gdc00/index.m3u8",
+    "线路3": "https://lsbbf2.com/20230915/UkQIhjZj/index.m3u8"
   },
   "seriesInfo": {
     "id": 8212,
     "title": "傲娇公主",
-    "publish_date": "",
+    "publish_date": "2015-12-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

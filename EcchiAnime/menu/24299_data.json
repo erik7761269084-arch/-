@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf2.com/20230915/gh9kBx99/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202501/19/678cd14189def9b1b819db77/efe7b4/index.m3u8",
+    "线路2": "https://lsbbf2.com/20230915/gh9kBx99/index.m3u8"
   },
   "seriesInfo": {
     "id": 24299,
     "title": "学园中暂停时间3",
-    "publish_date": "",
+    "publish_date": "2015-09-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

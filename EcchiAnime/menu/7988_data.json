@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/16/68269979130ac02b5882ecac/e0207c/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/16/68269979130ac02b5882ecac/e0207c/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202503/09/67cd89aacf22ae3e042990c0/1bg45f/index.m3u8"
   },
   "seriesInfo": {
     "id": 7988,
     "title": "女子曲球！2",
-    "publish_date": "",
+    "publish_date": "2019-10-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

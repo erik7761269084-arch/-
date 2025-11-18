@@ -1,12 +1,13 @@
 {
   "episodes": {
     "主线路": "https://voddadaizi.com:52866/videos/202505/03/68159038361668305a9c7156/89b021/index.m3u8",
-    "线路2": "https://lsbbf5.com/20251111/I5mkB15S/index.m3u8"
+    "线路2": "https://voddadaizi.com:52866/videos/202503/05/67c8586a29ca3a5aed92a450/g619f4/index.m3u8",
+    "线路3": "https://lsbbf5.com/20251111/I5mkB15S/index.m3u8"
   },
   "seriesInfo": {
     "id": 8222,
     "title": "放课后的优等生3",
-    "publish_date": "",
+    "publish_date": "2018-12-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

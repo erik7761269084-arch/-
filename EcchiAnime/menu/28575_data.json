@@ -1,11 +1,13 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20251015/1DB2zTfJ/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/08/681c99e223f3367fd32c4693/7gef67/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678ccc7389def9b1b819cd80/950687/index.m3u8",
+    "线路3": "https://lsbbf5.com/20251015/1DB2zTfJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 28575,
     "title": "被玩坏了的严格高冷老师2",
-    "publish_date": "",
+    "publish_date": "2015-07-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

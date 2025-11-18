@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/08/681ca12623f3367fd32c6865/g874gg/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/08/681ca12623f3367fd32c6865/g874gg/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cd1b889def9b1b819dccf/agd9a9/index.m3u8"
   },
   "seriesInfo": {
     "id": 8173,
     "title": "姐嫁四重奏1",
-    "publish_date": "",
+    "publish_date": "2015-10-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

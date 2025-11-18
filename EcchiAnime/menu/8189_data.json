@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/06/681a1d5f23f3367fd31c9921/7b4099/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/06/681a1d5f23f3367fd31c9921/7b4099/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678cb97b89def9b1b81996a7/5gff44/index.m3u8"
   },
   "seriesInfo": {
     "id": 8189,
     "title": "钢铁的魔女安妮洛兹3",
-    "publish_date": "",
+    "publish_date": "2014-10-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/29/681051e4cf22ae3e04a3fae0/3g5195/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202504/29/681051e4cf22ae3e04a3fae0/3g5195/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/20/67b74b7e4e7d663df4885e8c/c2ga70/index.m3u8"
   },
   "seriesInfo": {
     "id": 8311,
     "title": "漆黑的射干1",
-    "publish_date": "",
+    "publish_date": "2017-02-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

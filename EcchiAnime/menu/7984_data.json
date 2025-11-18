@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202505/16/682699c9130ac02b5882f18e/69177a/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/16/682699c9130ac02b5882f18e/69177a/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/19/678c8c70c179ffb1dba2842b/c1ba3c/index.m3u8"
   },
   "seriesInfo": {
     "id": 7984,
     "title": "女子高生的腰姿1",
-    "publish_date": "",
+    "publish_date": "2013-08-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

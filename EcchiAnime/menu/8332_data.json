@@ -1,11 +1,13 @@
 {
   "episodes": {
-    "主线路": "https://voddadaizi.com:52866/videos/202504/28/680f388f5b6f25c1693484a7/e8e9c1/index.m3u8"
+    "主线路": "https://voddadaizi.com:52866/videos/202505/15/682558ba130ac02b587ce14c/8295ff/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202504/28/680f388f5b6f25c1693484a7/e8e9c1/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/19/678cf04689def9b1b81a34bb/094d3b/index.m3u8"
   },
   "seriesInfo": {
     "id": 8332,
     "title": "能干妹！电车啪啪1",
-    "publish_date": "",
+    "publish_date": "2016-10-01",
     "type": "无码",
     "company": "[]",
     "genres": [],

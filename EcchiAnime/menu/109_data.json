@@ -1,7 +1,8 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/6888a99fd640eb31dfb916df.m3u8",
-    "线路2": "https://m3u8.cdn2025.life/movie/auto/6888a99fd640eb31dfb916df.m3u8"
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/6888a99fd640eb31dfb916df.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202504/24/6809c409cf22ae3e047ea4ac/0ee096/index.m3u8"
   },
   "seriesInfo": {
     "id": 109,
@@ -13,7 +14,7 @@
       "日本里番"
     ],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/24/6809c409cf22ae3e047ea4ac/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=109",
     "actresses": []
