@@ -80,38 +80,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2117"
   },
   {
-    "id": 2118,
-    "title": "1992女性寶鑑 第2集",
-    "year": "1992",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/14/149634.avif?1751109256",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2118"
-  },
-  {
-    "id": 2119,
-    "title": "1992女性寶鑑 第3集",
-    "year": "1992",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/14/149634.avif?1751109256",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2119"
-  },
-  {
     "id": 357,
     "title": "3D肉蒲团之极乐宝鉴",
     "year": "2011",
@@ -142,38 +110,6 @@ window.PAGE_DATA = [
     "cover_url": "https://img.cdn202511.com/videos/202505/02/681411fd9b5d436499f71f57/cover.webp",
     "actress": [],
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=432"
-  },
-  {
-    "id": 2072,
-    "title": "3D豪情 第2集",
-    "year": "2014",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/150082.avif?1751112940",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2072"
-  },
-  {
-    "id": 2073,
-    "title": "3D豪情 第3集",
-    "year": "2014",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/150082.avif?1751112940",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2073"
   },
   {
     "id": 58,
@@ -219,41 +155,9 @@ window.PAGE_DATA = [
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://img.cdn202511.com/videos/202411/18/6739f0daf514c41c435e76f2/poster2.webp",
+    "cover_url": "https://ptt.co/images/node/16/161685.avif?1751106233",
     "actress": [],
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=61"
-  },
-  {
-    "id": 2078,
-    "title": "94應召女郎",
-    "year": "1991",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/16/161685.avif?1751106233",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2078"
-  },
-  {
-    "id": 2079,
-    "title": "94應召女郎 第2集",
-    "year": "1991",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/16/161685.avif?1751106233",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2079"
   },
   {
     "id": 62,
@@ -334,86 +238,6 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/16/161974.avif?1751108370",
     "actress": [],
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2064"
-  },
-  {
-    "id": 2065,
-    "title": "PR女郎之試鍾誘惑 第2集",
-    "year": "2006",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/16/161974.avif?1751108370",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2065"
-  },
-  {
-    "id": 2066,
-    "title": "PR女郎之試鍾誘惑 第3集",
-    "year": "2006",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/16/161974.avif?1751108370",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2066"
-  },
-  {
-    "id": 2067,
-    "title": "PR女郎之試鍾誘惑 第4集",
-    "year": "2006",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/16/161974.avif?1751108370",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2067"
-  },
-  {
-    "id": 2068,
-    "title": "PR女郎之試鍾誘惑 第5集",
-    "year": "2006",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/16/161974.avif?1751108370",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2068"
-  },
-  {
-    "id": 2069,
-    "title": "PR女郎之試鍾誘惑 第6集",
-    "year": "2006",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/16/161974.avif?1751108370",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2069"
   },
   {
     "id": 64,
@@ -675,22 +499,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2043"
   },
   {
-    "id": 2044,
-    "title": "三奸 第2集",
-    "year": "2012",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/14/147628.avif?1751113408",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2044"
-  },
-  {
     "id": 163,
     "title": "三度偷情",
     "year": "1993",
@@ -721,70 +529,6 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/14/149095.avif?1751107077",
     "actress": [],
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=958"
-  },
-  {
-    "id": 2053,
-    "title": "三級七日情",
-    "year": "1992",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/153529.avif?1751112676",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2053"
-  },
-  {
-    "id": 2054,
-    "title": "三級七日情 第2集",
-    "year": "1992",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/153529.avif?1751112676",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2054"
-  },
-  {
-    "id": 2055,
-    "title": "三級七日情 第3集",
-    "year": "1992",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/153529.avif?1751112676",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2055"
-  },
-  {
-    "id": 2056,
-    "title": "三級七日情 第4集",
-    "year": "1992",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/153529.avif?1751112676",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2056"
   },
   {
     "id": 310,
@@ -1155,38 +899,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=96"
   },
   {
-    "id": 2091,
-    "title": "五月櫻唇",
-    "year": "1992",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/152929.avif?1751112711",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2091"
-  },
-  {
-    "id": 2092,
-    "title": "五月櫻唇 第2集",
-    "year": "1992",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/152929.avif?1751112711",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2092"
-  },
-  {
     "id": 1338,
     "title": "五月櫻唇/爆炸性行為",
     "year": "1992",
@@ -1299,22 +1011,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2112"
   },
   {
-    "id": 2113,
-    "title": "人肉玩具 第2集",
-    "year": "1999",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/16/162112.avif?1751112272",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2113"
-  },
-  {
     "id": 268,
     "title": "人肉腊肠",
     "year": "1993",
@@ -1395,22 +1091,6 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/14/147179.avif?1751113090",
     "actress": [],
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2321"
-  },
-  {
-    "id": 2322,
-    "title": "人骨麻將 第2集",
-    "year": "1984",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/14/147179.avif?1751113090",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2322"
   },
   {
     "id": 212,
@@ -1603,5 +1283,326 @@ window.PAGE_DATA = [
     "cover_url": "https://img.cdn202511.com/videos/202411/18/6739f2fff514c41c435e77ee/poster2.webp",
     "actress": [],
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=34"
+  },
+  {
+    "id": 1627,
+    "title": "偷情客",
+    "year": "1985",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/54/549495.avif?1758534784",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1627"
+  },
+  {
+    "id": 1865,
+    "title": "偷情寶鑑-唐伯虎",
+    "year": "2002",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/Sex_Zen.jpg/250px-Sex_Zen.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1865"
+  },
+  {
+    "id": 366,
+    "title": "偷情男女",
+    "year": "",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/21/673e5e9c3276de039d31a2b6/cover.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=366"
+  },
+  {
+    "id": 101,
+    "title": "偷窥无罪1",
+    "year": "2002",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/17/6739a3fc94b74ce103367a6a/poster2.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=101"
+  },
+  {
+    "id": 1887,
+    "title": "偷窺無罪2：誘人犯罪",
+    "year": "2003",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/16/161991.avif?1751112265",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1887"
+  },
+  {
+    "id": 1138,
+    "title": "偷窺無罪3：絕色網吧",
+    "year": "2003",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/18/185117.avif?1751110246",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1138"
+  },
+  {
+    "id": 1056,
+    "title": "偷窺無罪4：淫人師表",
+    "year": "2003",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/18/185093.avif?1751106796",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1056"
+  },
+  {
+    "id": 133,
+    "title": "兄弟的女人 高挑大奶子爽嗨啊",
+    "year": "",
+    "country": "韩国",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/21/673e3eb13276de039d319526/cover.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=133"
+  },
+  {
+    "id": 16,
+    "title": "全网稀缺香港十大女神早期三级电影露点泄密资源合集",
+    "year": "",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "黑料泄密",
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/18/673a4adbf514c41c435e8308/poster2.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=16"
+  },
+  {
+    "id": 1769,
+    "title": "全職妓女分段1",
+    "year": "1998",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://baike.baidu.com/pic/%E5%85%A8%E8%81%8C%E5%A6%93%E5%A5%B3/3843469/1/7dd98d1001e93901213ffe1d66b643e736d12f2e38c4?fromModule=lemma_top-image&ct=single#aid=1&pic=7dd98d1001e93901213ffe1d66b643e736d12f2e38c4",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1769"
+  },
+  {
+    "id": 441,
+    "title": "全裸监禁 重口题材",
+    "year": "",
+    "country": "日本",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202505/23/682fe4cf6a30a314a950698b/cover.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=441"
+  },
+  {
+    "id": 91,
+    "title": "八仙饭店之人肉叉烧包",
+    "year": "",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/18/6739ee9294b74ce103368fce/poster2.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=91"
+  },
+  {
+    "id": 187,
+    "title": "公海强奸风暴",
+    "year": "1993",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/21/673e47363276de039d3198ad/cover.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=187"
+  },
+  {
+    "id": 1396,
+    "title": "六魔女",
+    "year": "1996",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/15/152960.avif?1751112778",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1396"
+  },
+  {
+    "id": 181,
+    "title": "兼差女郎",
+    "year": "1994",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/21/673e47c43276de039d3198e3/cover.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=181"
+  },
+  {
+    "id": 323,
+    "title": "兽性新人类NakedPoison",
+    "year": "",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/21/673e5bb53276de039d31a165/cover.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=323"
+  },
+  {
+    "id": 1477,
+    "title": "再試初夜情",
+    "year": "1992",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/20/204517.avif?1751106629",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1477"
+  },
+  {
+    "id": 60,
+    "title": "军妓慰安妇",
+    "year": "",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/18/6739f0fbf514c41c435e7709/poster2.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=60"
+  },
+  {
+    "id": 1670,
+    "title": "冷血人狼",
+    "year": "1994",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/15/150002.avif?1751112946",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1670"
+  },
+  {
+    "id": 407,
+    "title": "凶宅胭脂",
+    "year": "",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img.cdn202511.com/videos/202411/22/67402cadd6b8f705ec72aeac/cover.webp",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=407"
   }
 ];

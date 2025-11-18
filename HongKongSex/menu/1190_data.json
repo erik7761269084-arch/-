@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://play.hhuus.com/play/qaQjAJqb/index.m3u8"
+    "主线路": "https://play.hhuus.com/play/qaQjAJqb/index.m3u8",
+    "线路2": "https://s1.bfllvip.com/video/gaoyangyisheng/HD国语/index.m3u8",
+    "线路3": "https://c1.rrcdnbf4.com/video/gaoyangyisheng/HD中字/index.m3u8"
   },
   "seriesInfo": {
     "id": 1190,

@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://yzzy.play-cdn7.com/20220811/10896_c7392a3b/index.m3u8"
+    "主线路": "https://yzzy.play-cdn7.com/20220811/10896_c7392a3b/index.m3u8",
+    "线路2": "https://vod6.bdzybf11.com/20250226/DnxuatCG/index.m3u8"
   },
   "seriesInfo": {
     "id": 2083,
@@ -8,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://ptt.co/images/node/16/161877.avif?1751112367",
     "background_img": "",

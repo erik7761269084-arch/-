@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://v.cdnlz17.com/20231014/29626_13a79255/index.m3u8"
+    "主线路": "https://v.cdnlz17.com/20231014/29626_13a79255/index.m3u8",
+    "线路2": "https://v.cdnlz17.com/20231014/29625_2f749aac/index.m3u8"
   },
   "seriesInfo": {
     "id": 2037,
@@ -8,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://ptt.co/images/node/28/280913.avif?1751100596",
     "background_img": "",

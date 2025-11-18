@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://play.subokk.com/play/rb2738Jd/index.m3u8"
+    "主线路": "https://play.subokk.com/play/rb2738Jd/index.m3u8",
+    "线路2": "https://v6.yuglf.com/202502/24/QKzXnpcGsX20/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 2074,
@@ -8,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://ptt.co/images/node/17/176254.avif?1751107045",
     "background_img": "",

@@ -2,7 +2,9 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/673a64aaf514c41c435e8eb1.m3u8",
     "线路2": "https://m3u8.cdn202511.com/movie/auto/673d20e79db76f8179627d5f.m3u8",
-    "线路3": "https://m3u8.cdn202511.com/movie/auto/673e53bf3276de039d319dd9.m3u8"
+    "线路3": "https://m3u8.cdn202511.com/movie/auto/673e53bf3276de039d319dd9.m3u8",
+    "线路4": "https://play.phimgood.com/20250831/25943_be5dfeb6/index.m3u8",
+    "线路5": "https://v.lzcdn26.com/20250402/13971_55a60158/index.m3u8"
   },
   "seriesInfo": {
     "id": 9,

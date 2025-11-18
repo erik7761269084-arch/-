@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://vip1.lz-cdn1.com/20220328/654_ba1daef3/index.m3u8"
+    "主线路": "https://vip1.lz-cdn1.com/20220328/654_ba1daef3/index.m3u8",
+    "线路2": "https://vod11.wgslsw.com/20240413/MS4Q1QOT/index.m3u8",
+    "线路3": "https://vod11.wgslsw.com/20240413/jWSEzP7r/index.m3u8"
   },
   "seriesInfo": {
     "id": 1325,

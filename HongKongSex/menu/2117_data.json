@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://play.subokk.com/play/9b6628nb/index.m3u8"
+    "主线路": "https://play.subokk.com/play/9b6628nb/index.m3u8",
+    "线路2": "https://vod12.wgslsw.com/20250225/CYyVyveQ5c77/index.m3u8",
+    "线路3": "https://vod.guoluche.com/20231121/UACdsMYZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 2117,
@@ -8,7 +10,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://ptt.co/images/node/14/149634.avif?1751109256",
     "background_img": "",

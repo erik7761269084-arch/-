@@ -1,6 +1,11 @@
 {
   "episodes": {
-    "主线路": "https://vodcnd00.kunyu.com.cn/20251001/DtLJ8iXa/index.m3u8"
+    "主线路": "https://vodcnd00.kunyu.com.cn/20251001/DtLJ8iXa/index.m3u8",
+    "线路2": "https://vod1.bdzybf11.com/20220404/w5mEnXLL/index.m3u8",
+    "线路3": "https://vod1.bdzybf11.com/20220404/MyP9aOSz/index.m3u8",
+    "线路4": "https://vod1.bdzybf11.com/20220415/xFZd4orK/index.m3u8",
+    "线路5": "https://vod1.bdzybf11.com/20220422/QRM6a5qv/index.m3u8",
+    "线路6": "https://vod1.bdzybf11.com/20220429/zMaOB3Tf/index.m3u8"
   },
   "seriesInfo": {
     "id": 2064,
@@ -8,7 +13,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://ptt.co/images/node/16/161974.avif?1751108370",
     "background_img": "",

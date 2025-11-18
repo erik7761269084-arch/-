@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://play.xluuss.com/play/NbWJDy4a/index.m3u8"
+    "主线路": "https://play.xluuss.com/play/NbWJDy4a/index.m3u8",
+    "线路2": "https://play.xluuss.com/play/Pe9Z5M8a/index.m3u8"
   },
   "seriesInfo": {
     "id": 2057,
@@ -8,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://ptt.co/images/node/25/257525.avif?1751101442",
     "background_img": "",

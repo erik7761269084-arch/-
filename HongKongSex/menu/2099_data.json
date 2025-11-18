@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://play.phimgood.com/20250829/25921_df1905b6/index.m3u8"
+    "主线路": "https://play.phimgood.com/20250829/25921_df1905b6/index.m3u8",
+    "线路2": "https://vod.guoluche.com/20231121/aiUq3LPu/index.m3u8"
   },
   "seriesInfo": {
     "id": 2099,
@@ -8,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "",
-    "genres": [],
+    "genres": [
+      "香港三级"
+    ],
     "description": "",
     "cover_url": "https://ptt.co/images/node/24/248576.avif?1751103729",
     "background_img": "",
