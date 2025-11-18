@@ -2,8 +2,11 @@
 <link rel="stylesheet" href="header.css">
 
 <div class="headerbar">
-  <div class="logo">御女宫</div>
+  <div class="logo-wrap">
+    <a href="https://yunvgong.com/index.html" class="logo">御女宫</a>
   <a href="https://yunvgong.com/EcchiAnime/index.html" class="logo">日本肉番动漫</a>
+  </div>
+
   <div class="hamburger" id="hamburger">&#9776;</div>
 
   <nav id="navMenu">
@@ -15,3 +18,9 @@
     <a href="https://t.me/yunvgongEcchiAnime" target="_blank">日本肉番动漫电报群</a>
   </nav>
 </div>
+
+<script>
+document.getElementById('hamburger').onclick = () => {
+  document.getElementById('navMenu').classList.toggle('active');
+};
+</script>
