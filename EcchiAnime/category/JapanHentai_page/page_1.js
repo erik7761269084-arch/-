@@ -33,87 +33,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21118"
   },
   {
-    "id": 1005,
-    "title": "#特別授業",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1005"
-  },
-  {
-    "id": 18225,
-    "title": "-030捕捉飞鸟女演员官方中文版",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"opiumud\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250807-1/85461dbda9ad7d8c9c842069d343fb9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18225"
-  },
-  {
-    "id": 20024,
-    "title": "-不射够100次就出不去的不可思议的教室-1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"Abandon\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/88c39a7bd4fbdd81f9053e4e7b447a84.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20024"
-  },
-  {
-    "id": 20015,
-    "title": "-不射够100次就出不去的不可思议的教室-2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"Abandon\"]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250512-1/b4611f73e4eb5be5ad12f4bb0662b148.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20015"
-  },
-  {
-    "id": 1094,
-    "title": "-不射夠100次就出不去的不可思議的教室-",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"Abandon\"]",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250517-1/35287f0164e55ecb40609c5bebec304c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1094"
-  },
-  {
     "id": 5509,
     "title": "01-Torte爱城学园魔人Viblos2-上帝的孕育恶魔的右手-AkiraMoveGTX",
     "year": "",
@@ -194,6 +113,23 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202503/24/67e106becf22ae3e0473bf7f/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=9048"
+  },
+  {
+    "id": 18225,
+    "title": "030捕捉飞鸟女演员官方中文版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"opiumud\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250807-1/85461dbda9ad7d8c9c842069d343fb9a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18225"
   },
   {
     "id": 11385,
@@ -452,22 +388,6 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/b0ddb13e02c2a0136c6054db2f5c34b8.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20219"
-  },
-  {
-    "id": 21781,
-    "title": "15美少女漂流记2-",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/9300b0a35c743f69a4cc22f2aa5e6ba3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21781"
   },
   {
     "id": 21887,
@@ -1426,7 +1346,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 9579,
-    "title": "2月の映像[BB].",
+    "title": "2月の映像[BB]",
     "year": "",
     "country": "",
     "genre": "",
@@ -1442,7 +1362,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 9577,
-    "title": "2月の映像[甘雨].",
+    "title": "2月の映像[甘雨]",
     "year": "",
     "country": "",
     "genre": "",
@@ -1474,7 +1394,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 11145,
-    "title": "300えんのおつきあい1-",
+    "title": "300えんのおつきあい1",
     "year": "",
     "country": "",
     "genre": "",
@@ -1616,5 +1536,87 @@ window.PAGE_DATA = [
     "cover_url": "",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=63"
+  },
+  {
+    "id": 20154,
+    "title": "365女同忍者女忍者女忍者彩色技忍者书2.0逆袭的栗珍波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/af4e7fad875e720e5be6951d5edd2e7d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20154"
+  },
+  {
+    "id": 20220,
+    "title": "365女同性恋女忍女忍色术忍者书2.0逆袭库里钦波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/dd4134a4d48877ffdf4db95aa0be5f69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20220"
+  },
+  {
+    "id": 5570,
+    "title": "3cm阿尼玛土温S呼吸-D稀有M",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/042621a2127ccf32593d120bfc3bbcff.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5570"
+  },
+  {
+    "id": 1412,
+    "title": "3Piece",
+    "year": "2020",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/30/302281.avif?1751099422",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1412"
+  },
+  {
+    "id": 20286,
+    "title": "3PingLovers欢迎来到一夫二妻的世界",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250509-1/57b8b91ad2df3411f34ce68027182c4f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20286"
   }
 ];

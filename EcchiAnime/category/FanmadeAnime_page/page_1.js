@@ -450,23 +450,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=432"
   },
   {
-    "id": 2402,
-    "title": "3d同人#3D",
-    "year": "",
-    "country": "",
-    "genre": "3D动漫",
-    "genres": [
-      "3D动漫",
-      "同人动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=2402"
-  },
-  {
     "id": 2407,
     "title": "3d同人仪玄捆绑调教",
     "year": "",
@@ -563,9 +546,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "3D动漫",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -582,9 +565,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "3D动漫",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -600,10 +583,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
       "中文字幕",
-      "3D动漫",
       "国漫女神",
+      "3D动漫",
+      "同人动漫",
       "斗破苍穹"
     ],
     "type": "无码",
@@ -620,11 +603,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "3D动漫",
-      "斗罗大陆",
+      "同人斗罗大陆",
       "国漫女神",
-      "同人斗罗大陆"
+      "3D动漫",
+      "同人动漫",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -640,11 +623,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "3D动漫",
-      "斗罗大陆",
+      "同人斗罗大陆",
       "国漫女神",
-      "同人斗罗大陆"
+      "3D动漫",
+      "同人动漫",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -660,11 +643,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "3D动漫",
-      "斗罗大陆",
+      "同人斗罗大陆",
       "国漫女神",
-      "同人斗罗大陆"
+      "3D动漫",
+      "同人动漫",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -680,11 +663,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "3D动漫",
-      "斗罗大陆",
+      "同人斗罗大陆",
       "国漫女神",
-      "同人斗罗大陆"
+      "3D动漫",
+      "同人动漫",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -976,9 +959,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "3D动漫",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1675,8 +1658,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "同人动漫"
+      "同人动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1692,8 +1675,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "同人动漫"
+      "同人动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1709,8 +1692,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "同人动漫"
+      "同人动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1756,5 +1739,23 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250721-1/e48b94878e853980e9d91a8a30122b76.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18583"
+  },
+  {
+    "id": 18610,
+    "title": "MMD阿狸阿卡丽佳肴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫",
+      "同人动漫",
+      "MMD"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250720-1/836e582c247fe74ce943ef273d03d706.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18610"
   }
 ];

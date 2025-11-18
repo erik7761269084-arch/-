@@ -1,23 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 28504,
-    "title": "碧蓝航线布雷默顿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "同人极品女神",
-      "3D动漫",
-      "同人动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/4adec1ba027b266e55c92673a7f62d4e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28504"
-  },
-  {
     "id": 28520,
     "title": "碧蓝航线布雷默顿2",
     "year": "",
@@ -55,7 +37,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 370,
-    "title": "碧蓝航线微速前行_一口气看完_",
+    "title": "碧蓝航线微速前行_一口气看完",
     "year": "",
     "country": "",
     "genre": "",

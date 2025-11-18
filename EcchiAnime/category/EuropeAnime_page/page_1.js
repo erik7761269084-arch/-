@@ -38,8 +38,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "欧美动漫"
+      "欧美动漫",
+      "中文字幕"
     ],
     "type": "无码",
     "company": "[]",
@@ -55,8 +55,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "欧美动漫"
+      "欧美动漫",
+      "中文字幕"
     ],
     "type": "无码",
     "company": "[]",

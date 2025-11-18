@@ -1,35 +1,17 @@
 window.PAGE_DATA = [
   {
-    "id": 18610,
-    "title": "MMD阿狸阿卡丽佳肴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "MMD",
-      "3D动漫",
-      "同人动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250720-1/836e582c247fe74ce943ef273d03d706.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18610"
-  },
-  {
     "id": 372,
     "title": "P137VAM斗破苍穹熏儿（中州版）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "VAM",
       "中文字幕",
-      "斗罗大陆",
       "国漫女神",
-      "斗破苍穹"
+      "VAM",
+      "同人动漫",
+      "斗破苍穹",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -117,8 +99,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "VAM"
+      "VAM",
+      "同人动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -134,11 +116,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "VAM",
       "中文字幕",
-      "斗罗大陆",
-      "国漫女神"
+      "国漫女神",
+      "VAM",
+      "同人动漫",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -154,11 +136,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "VAM",
       "中文字幕",
-      "斗罗大陆",
-      "国漫女神"
+      "国漫女神",
+      "VAM",
+      "同人动漫",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -174,11 +156,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "同人动漫",
-      "VAM",
       "中文字幕",
-      "斗罗大陆",
-      "国漫女神"
+      "国漫女神",
+      "VAM",
+      "同人动漫",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -194,11 +176,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "同人动漫",
-      "VAM",
       "中文字幕",
-      "斗罗大陆",
-      "国漫女神"
+      "国漫女神",
+      "VAM",
+      "同人动漫",
+      "斗罗大陆"
     ],
     "type": "无码",
     "company": "[]",
@@ -333,40 +315,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=6346"
   },
   {
-    "id": 5828,
-    "title": "【】八重神子完全被大鸡巴的精液填满阴道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫",
-      "同人动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5828"
-  },
-  {
-    "id": 5827,
-    "title": "【】刻清和甘雨的POV从上方视角清晰看到她们被抽插的过程",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫",
-      "同人动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5827"
-  },
-  {
     "id": 7526,
     "title": "【真人同人】淫欲觉醒！强欲魔导书操控肉体沉沦实录【",
     "year": "",
@@ -491,7 +439,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 9594,
-    "title": "人獸3P歐美3D同人動畫短片.",
+    "title": "人獸3P歐美3D同人動畫短片",
     "year": "",
     "country": "",
     "genre": "",
@@ -507,8 +455,25 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=9594"
   },
   {
+    "id": 5828,
+    "title": "八重神子完全被大鸡巴的精液填满阴道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫",
+      "同人动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5828"
+  },
+  {
     "id": 3817,
-    "title": "刀劍神域同人西莉卡-シリカgel-ゲームマスターの罠-",
+    "title": "刀劍神域同人西莉卡-シリカgel-ゲームマスターの罠",
     "year": "",
     "country": "日本",
     "genre": "3D动漫",
@@ -522,6 +487,23 @@ window.PAGE_DATA = [
     "cover_url": "https://1.15250719pic.com/upload/vod/20240808-1/a35aea1ea91034a4573ab06e3d9d5ec1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3817"
+  },
+  {
+    "id": 5827,
+    "title": "刻清和甘雨的POV从上方视角清晰看到她们被抽插的过程",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫",
+      "同人动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5827"
   },
   {
     "id": 5608,
@@ -1162,9 +1144,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1181,8 +1163,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1199,9 +1181,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1218,9 +1200,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1237,9 +1219,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1256,9 +1238,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1275,9 +1257,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1293,10 +1275,10 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "中文字幕",
-      "斗破苍穹",
+      "国漫女神",
       "同人动漫",
-      "国漫女神"
+      "中文字幕",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1313,9 +1295,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1332,8 +1314,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1350,8 +1332,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1368,8 +1350,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1386,8 +1368,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1404,8 +1386,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1422,8 +1404,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1440,8 +1422,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1458,8 +1440,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1476,8 +1458,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1494,8 +1476,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1512,8 +1494,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1530,8 +1512,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1548,8 +1530,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1566,9 +1548,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1585,9 +1567,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1604,9 +1586,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1623,9 +1605,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1642,9 +1624,9 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
       "日本里番",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1661,8 +1643,8 @@ window.PAGE_DATA = [
     "genre": "",
     "genres": [
       "国漫女神",
-      "斗破苍穹",
-      "同人动漫"
+      "同人动漫",
+      "斗破苍穹"
     ],
     "type": "无码",
     "company": "[]",
@@ -1778,5 +1760,23 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/f0d0c2073bfc2c69e29424f1258cb742.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27918"
+  },
+  {
+    "id": 27923,
+    "title": "斗罗大陆千仞雪骑乘舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "国漫女神",
+      "同人动漫",
+      "斗罗大陆"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/b37bdfdd17a70b6a8f15044683e22109.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27923"
   }
 ];

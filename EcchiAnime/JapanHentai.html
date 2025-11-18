@@ -19,7 +19,7 @@ body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; colo
 .card-info-bottom { display:flex; justify-content:space-between; font-size:12px; color:#ccc; }
 .star { color:gold; }
 .date { display:flex; align-items:center; gap:4px; }
-.date::before { content:"📅"; }
+.date::before { content:""; }
 .pagination { display:flex; justify-content:center; align-items:center; gap:10px; padding:20px 0; }
 .pagination button { padding:6px 12px; background:#333; color:#fff; border:none; border-radius:4px; cursor:pointer; }
 .pagination button:hover:not(:disabled) { background:#555; }
@@ -43,7 +43,7 @@ body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; colo
 
 <script>
 // 最大页数
-const MAX_PAGE = 156;
+const MAX_PAGE = 154;
 
 /* ======= 加载 header.html + header.js ======= */
 fetch('header.html')
@@ -85,11 +85,11 @@ function renderAll(data){
         </div>
         <div class="card-info">
           <div class="card-info-top">
-            <span class="idcode">${d.IDcode}</span>
+ 
             <span class="title">${d.title}</span>
           </div>
           <div class="card-info-bottom">
-            <div class="star">⭐⭐⭐⭐⭐</div>
+            <div class="star"></div>
             <div class="date">${d.publish_date}</div>
           </div>
         </div>

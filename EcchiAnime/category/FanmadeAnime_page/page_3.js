@@ -1,23 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 27923,
-    "title": "斗罗大陆千仞雪骑乘舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "国漫女神",
-      "同人动漫",
-      "斗罗大陆"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/b37bdfdd17a70b6a8f15044683e22109.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=27923"
-  },
-  {
     "id": 27907,
     "title": "斗罗大陆双飞国漫第一女神小舞和蓝银皇啊银",
     "year": "",
@@ -1813,5 +1795,23 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/017238455048f6360ca2fd553730a872.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28479"
+  },
+  {
+    "id": 28504,
+    "title": "碧蓝航线布雷默顿",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "同人极品女神",
+      "3D动漫",
+      "同人动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251018-1/4adec1ba027b266e55c92673a7f62d4e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=28504"
   }
 ];

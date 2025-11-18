@@ -1,87 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 20154,
-    "title": "365女同忍者女忍者女忍者彩色技忍者书2.0逆袭的栗珍波",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/af4e7fad875e720e5be6951d5edd2e7d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20154"
-  },
-  {
-    "id": 20220,
-    "title": "365女同性恋女忍女忍色术忍者书2.0逆袭库里钦波",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250510-1/dd4134a4d48877ffdf4db95aa0be5f69.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20220"
-  },
-  {
-    "id": 5570,
-    "title": "3cm阿尼玛土温S呼吸-D稀有M",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250504-1/042621a2127ccf32593d120bfc3bbcff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5570"
-  },
-  {
-    "id": 1412,
-    "title": "3Piece",
-    "year": "2020",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/30/302281.avif?1751099422",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=1412"
-  },
-  {
-    "id": 20286,
-    "title": "3PingLovers欢迎来到一夫二妻的世界",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250509-1/57b8b91ad2df3411f34ce68027182c4f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=20286"
-  },
-  {
     "id": 38869,
     "title": "3PingLovers！☆歡迎來到一夫二妻的世界♪",
     "year": "2001",
@@ -312,8 +230,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "日本里番"
+      "日本里番",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -324,7 +242,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 9583,
-    "title": "5月の映像[宵宫].",
+    "title": "5月の映像[宵宫]",
     "year": "",
     "country": "",
     "genre": "",
@@ -532,7 +450,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 9586,
-    "title": "6月の映像[聖路易斯].",
+    "title": "6月の映像[聖路易斯]",
     "year": "",
     "country": "",
     "genre": "",
@@ -582,7 +500,7 @@ window.PAGE_DATA = [
   },
   {
     "id": 5666,
-    "title": "8ばぃうぉ～か～]OVA今泉ん家はどうやらギャルの溜ま2",
+    "title": "8ばぃうぉ～か～]今泉ん家はどうやらギャルの溜ま2",
     "year": "",
     "country": "",
     "genre": "",
@@ -592,7 +510,7 @@ window.PAGE_DATA = [
       "桜都字幕组"
     ],
     "type": "无码",
-    "company": "[]",
+    "company": "[\"OVA\"]",
     "publish_date": "",
     "cover_url": "",
     "actress": [],
@@ -682,38 +600,6 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/b53f96a964b9927f84794bf5075f90f6.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=21979"
-  },
-  {
-    "id": 7363,
-    "title": "[]エルシア淫堕实录激吻交尾动画版蜜壶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[\"恋骑士\"]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6865522943d6972716a31a08/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7363"
-  },
-  {
-    "id": 7357,
-    "title": "[]恋爱纪念日2：禁忌圣夜突入！肉感碰撞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "日本里番"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6865513443d6972716a3199f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=7357"
   },
   {
     "id": 20901,
@@ -1615,5 +1501,118 @@ window.PAGE_DATA = [
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/1a399dc9edee01d53f9e3e9717ea2da6.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22076"
+  },
+  {
+    "id": 22110,
+    "title": "[WORLDPGANIMATION]女骑士レティシア-TheMotionAnime",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/bc20ab720d701e27ff0581366dc16c63.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=22110"
+  },
+  {
+    "id": 4582,
+    "title": "[WORLDPGANIMATION]女骑士レティシアTheMotionAnime",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250114-1/671e5eaf97c581627d877c88f1b39f92.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=4582"
+  },
+  {
+    "id": 11108,
+    "title": "[こっとんど～る]炎の孕ませ転校生第1話「俺様の子種を受け入れろ!!!」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/04abde6f19cf7f9b441f8a4b700609f5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=11108"
+  },
+  {
+    "id": 12720,
+    "title": "[ざむずLABO]ぷによめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/027aa20fd53d431ec0f4a9e56d8eb6ce.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=12720"
+  },
+  {
+    "id": 3765,
+    "title": "[つじもが町に殺ってきた!!!]XENOキズナMAX焔",
+    "year": "",
+    "country": "日本",
+    "genre": "3D动漫",
+    "genres": [
+      "日本里番",
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[\"ANIME\"]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20240721-1/bfa7f2b54a0e35bb1759e48db81ab6c5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=3765"
+  },
+  {
+    "id": 14021,
+    "title": "[にじいろばんび]えっちな彼女(夏)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"にじいろばんび\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/82cd6072525850420cc82e1bb165b795.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14021"
+  },
+  {
+    "id": 14249,
+    "title": "[にじいろばんび]若菜ちゃんの初エッチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "日本里番"
+    ],
+    "type": "无码",
+    "company": "[\"にじいろばんび\"]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/fe27269702d7d8f16e9b027120c41049.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=14249"
   }
 ];

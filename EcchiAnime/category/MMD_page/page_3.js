@@ -6,8 +6,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[\"GenshinImpact\"]",
@@ -23,8 +23,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[\"GenshinImpact\"]",
@@ -72,8 +72,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "同人动漫"
+      "同人动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -89,8 +89,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "同人动漫"
+      "同人动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -138,8 +138,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -171,8 +171,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "日本里番"
+      "日本里番",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -268,8 +268,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -333,8 +333,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -350,8 +350,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -447,8 +447,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "同人动漫"
+      "同人动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -496,8 +496,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -849,8 +849,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1000,8 +1000,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1033,8 +1033,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "日本里番"
+      "日本里番",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1162,8 +1162,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "日本里番"
+      "日本里番",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1291,9 +1291,9 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
       "3D动漫",
-      "同人动漫"
+      "同人动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1325,8 +1325,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "3D动漫",
     "genres": [
-      "MMD",
-      "3D动漫"
+      "3D动漫",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1486,8 +1486,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "日本里番"
+      "日本里番",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",
@@ -1551,8 +1551,8 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [
-      "MMD",
-      "日本里番"
+      "日本里番",
+      "MMD"
     ],
     "type": "无码",
     "company": "[]",

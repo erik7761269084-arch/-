@@ -1,117 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 18363,
-    "title": "najar大崎甘奈大崎甜花偶像大师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250730-1/15cde3573e188648768b48958d1a191d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18363"
-  },
-  {
-    "id": 18374,
-    "title": "najar大崎甘奈断面图偶像大师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250730-1/a97e104b71e3d70d99a908509cc98102.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18374"
-  },
-  {
-    "id": 18329,
-    "title": "najar小圆与Nebu完整版Mp460fps附SEPixivFanbox偶像大师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250801-1/2ece77595c09743625b2ad0799a19ab0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18329"
-  },
-  {
-    "id": 18340,
-    "title": "najar小宫果穗偶像大师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250731-1/f4b1c76dbb24eb769a79d85a44c8caf3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18340"
-  },
-  {
-    "id": 18346,
-    "title": "najar市川雏菜偶像大师2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250731-1/5be55d52b415b4c8ade33daf7de5835a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18346"
-  },
-  {
-    "id": 18353,
-    "title": "najar市川雏菜偶像大师3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250731-1/dfcb1dacdfa2fc722acc331c7e22994a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18353"
-  },
-  {
-    "id": 18342,
-    "title": "najar市川雏菜断面图偶像大师2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250731-1/6a3f8ef900295bb8f17a44a5af0cb1fd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=18342"
-  },
-  {
     "id": 18373,
     "title": "najar恋糸完整版MP460fps附SEPixivFanbox偶像大师",
     "year": "",
@@ -960,6 +848,134 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=5575"
   },
   {
+    "id": 17326,
+    "title": "onSujiman感恩节IrekurabeExtraEdition",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/038b91a51c04eead9362eb0350af50aa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17326"
+  },
+  {
+    "id": 17318,
+    "title": "onSujiman感恩节YacchimattaExtraEdition",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/e246e9954f5b3966a6695a5f0cc56269.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17318"
+  },
+  {
+    "id": 17315,
+    "title": "on为明天提供动力",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/c7d1da1a1c66704aaa4e4e2a54e4111f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17315"
+  },
+  {
+    "id": 17320,
+    "title": "on他们的偶像",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/347e1b98637d05b80a42d96e8bd07f6d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17320"
+  },
+  {
+    "id": 17322,
+    "title": "on因为只有我们两个人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/c0de4e2f35a020f7bab8576baa9a9acd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17322"
+  },
+  {
+    "id": 17324,
+    "title": "on我想在学校教室里做",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/f61d0e9874ff294e7fccbb03a9377e05.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17324"
+  },
+  {
+    "id": 17296,
+    "title": "on战时猫的残酷故事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/99a1eadce4d9b6036c8e4d93e21c9b95.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17296"
+  },
+  {
+    "id": 17312,
+    "title": "on掉进陷阱的女老师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3D动漫"
+    ],
+    "type": "无码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251003-1/1413696bcae36d311c17f8f2560d479b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=17312"
+  },
+  {
     "id": 18221,
     "title": "OppaEatsHairjob阴毛恋物癖电影附全语音",
     "year": "",
@@ -1433,8 +1449,8 @@ window.PAGE_DATA = [
     "country": "日本",
     "genre": "3D动漫",
     "genres": [
-      "3D动漫",
-      "无字幕"
+      "无字幕",
+      "3D动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -1498,8 +1514,8 @@ window.PAGE_DATA = [
     "country": "日本",
     "genre": "3D动漫",
     "genres": [
-      "3D动漫",
-      "无字幕"
+      "无字幕",
+      "3D动漫"
     ],
     "type": "无码",
     "company": "[]",
@@ -1588,21 +1604,5 @@ window.PAGE_DATA = [
     "cover_url": "",
     "actress": [],
     "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=696"
-  },
-  {
-    "id": 32595,
-    "title": "SFMFetishCollection#1(Overwatch,Footjob,Titfuck,3D)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3D动漫"
-    ],
-    "type": "无码",
-    "company": "[]",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231010-1/ccf8d3f75275fcea6598581906181234.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/EcchiAnime/player_template.html?series=32595"
   }
 ];
