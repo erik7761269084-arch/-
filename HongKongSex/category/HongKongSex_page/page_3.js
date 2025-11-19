@@ -1,53 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 1971,
-    "title": "天師斗妖姬 第15集",
-    "year": "2000",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "data:image/gif;base64,R0lGODdhAQABAIAAAAAAAAAAACwAAAAAAQABAAACAkQBADs=",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1971"
-  },
-  {
-    "id": 1972,
-    "title": "天師斗妖姬 第16集",
-    "year": "2000",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "data:image/gif;base64,R0lGODdhAQABAIAAAAAAAAAAACwAAAAAAQABAAACAkQBADs=",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1972"
-  },
-  {
-    "id": 1973,
-    "title": "天師斗妖姬 第17集",
-    "year": "2000",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "data:image/gif;base64,R0lGODdhAQABAIAAAAAAAAAAACwAAAAAAQABAAACAkQBADs=",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1973"
-  },
-  {
     "id": 1974,
     "title": "天師斗妖姬 第18集",
     "year": "2000",
@@ -1456,22 +1408,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2081"
   },
   {
-    "id": 2082,
-    "title": "屍蠱艷譚 第2集",
-    "year": "1993",
-    "country": "中国香港",
-    "genre": "香港三级",
-    "genres": [
-      "香港三级"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ptt.co/images/node/15/150095.avif?1751107002",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=2082"
-  },
-  {
     "id": 2059,
     "title": "展昭艷史 第1集",
     "year": "1992",
@@ -1598,5 +1534,69 @@ window.PAGE_DATA = [
     "cover_url": "https://ptt.co/images/node/14/147720.avif?1751113091",
     "actress": [],
     "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1115"
+  },
+  {
+    "id": 1733,
+    "title": "山狗",
+    "year": "1980",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/8/84962.avif?1751118804",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1733"
+  },
+  {
+    "id": 1579,
+    "title": "山狗2003:獸性陷阱",
+    "year": "2003",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/40/401580.avif?1751093371",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1579"
+  },
+  {
+    "id": 991,
+    "title": "巨乳的疑惑",
+    "year": "1993",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/16/162249.avif?1751112163",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=991"
+  },
+  {
+    "id": 1555,
+    "title": "巴黎艷遇巴黎艷遇",
+    "year": "1975",
+    "country": "中国香港",
+    "genre": "香港三级",
+    "genres": [
+      "香港三级"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ptt.co/images/node/53/536540.avif?1756944921",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/HongKongSex/player_template.html?series=1555"
   }
 ];
