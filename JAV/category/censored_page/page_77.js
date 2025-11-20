@@ -1,1602 +1,2230 @@
 window.PAGE_DATA = [
   {
-    "id": 168650,
-    "IDcode": "ALDN-189",
-    "title": "叔母那传来的酒香和诱惑-本真百合",
+    "id": 73334,
+    "IDcode": "CJOD-163",
+    "title": "肥臀清洗受欢迎的大众浴池小姐姐",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中出",
+      "姐姐",
+      "屁股",
+      "乱伦",
+      "荡妇",
+      "巨大屁股"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/c7e4d914b988391ab9602341149a0a3f.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250128-1/0bba4a3e884a7eb2d59160140ef44f59.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-163"
+  },
+  {
+    "id": 73358,
+    "IDcode": "CJOD-165",
+    "title": "备考的我被姐姐疯狂榨取精液-椎名そら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "屁股",
+      "乱伦",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250128-1/91e85f4733d24071480f1b9d1b56d1bc.jpg",
+    "actress": [
+      "椎名空"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-165"
+  },
+  {
+    "id": 71677,
+    "IDcode": "CJOD-175",
+    "title": "连续几日被巨尻姐姐筱田优疯狂榨取精液",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "屁股",
+      "乱伦",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240521-1/98436c93c4573c99f56669de5a950f03.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-175"
+  },
+  {
+    "id": 71731,
+    "IDcode": "CJOD-176",
+    "title": "老婆的巨乳姐姐君岛美绪诱惑我骑乘位中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "素人作品",
+      "女上位",
+      "戏剧",
+      "中出",
+      "精选，综合",
+      "乱伦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240404-1/78d77d7c46f8977efd6496b9bd870812.jpg",
+    "actress": [
+      "小田切ジュン",
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-176"
+  },
+  {
+    "id": 82388,
+    "IDcode": "CJOD-178",
+    "title": "绝对领域痴女后宫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "中出",
+      "精选，综合",
+      "淫乱，真实",
+      "过膝袜",
+      "姐姐",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240404-1/2561f123fab3f95f8451f5be0785a120.jpg",
+    "actress": [
+      "AIKA",
+      "蓮実クレア",
+      "佐佐木明希",
+      "桐岛莉乃",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-178"
+  },
+  {
+    "id": 82316,
+    "IDcode": "CJOD-179",
+    "title": "被女教师诱惑三天两夜不断内射修学旅行",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "素人作品",
+      "女教师",
+      "中出",
+      "精选，综合",
+      "屁股",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240521-1/c6097e9e352efab0d875e6b92267758e.jpg",
+    "actress": [
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-179"
+  },
+  {
+    "id": 71413,
+    "IDcode": "CJOD-180",
+    "title": "以手技闻名的精液采集员美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "拘束",
+      "护士",
+      "手淫",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240601-1/fb9491f0158ce0e51629dd608aba82a4.jpg",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-180"
+  },
+  {
+    "id": 105351,
+    "IDcode": "CJOD-181",
+    "title": "偷偷关注的女学生深田咏美是个文学系痴女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "精选，综合",
+      "中出",
+      "校服",
+      "巨乳",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240415-1/2345239f315315ea1309420abea89370.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-181"
+  },
+  {
+    "id": 82314,
+    "IDcode": "CJOD-182",
+    "title": "泡泡浴做爱追击中出-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "素人作品",
+      "中出",
+      "精选，综合",
+      "礼仪小姐",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240505-1/27e306c6266de9e092bc450ac50db5b2.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-182"
+  },
+  {
+    "id": 104473,
+    "IDcode": "CJOD-183",
+    "title": "与姐姐筱田优练习做爱没想到套子意外脱落",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "女上位",
+      "中出",
+      "精选，综合",
+      "姐姐",
+      "乱伦",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240505-1/f9bf6fdf36e4f1cd953f52ca1181e3b4.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-183"
+  },
+  {
+    "id": 86843,
+    "IDcode": "CJOD-185",
+    "title": "巨乳美容师凛音桃花的无奶罩诱惑射精按摩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "素人作品",
+      "乳交",
+      "精选，综合",
+      "中出",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240512-1/f1feb15cb5f89bb57fbeb2a913f06b0d.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-185"
+  },
+  {
+    "id": 82299,
+    "IDcode": "CJOD-188",
+    "title": "诱惑的家长会-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "素人作品",
+      "精选，综合",
+      "中出",
+      "巨乳",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240512-1/c0126e969027b01207caeb0365ebb212.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-188"
+  },
+  {
+    "id": 82371,
+    "IDcode": "CJOD-189",
+    "title": "被女性越狱犯侵犯被她强迫内射的我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肌肉",
+      "素人作品",
+      "舔阴",
+      "中出",
+      "流汗",
+      "精选，综合",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240521-1/96d232ff7274dedbc64025656a2f22e0.jpg",
+    "actress": [
+      "蓝井优太",
+      "佐久间恵美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-189"
+  },
+  {
+    "id": 71414,
+    "IDcode": "CJOD-190",
+    "title": "凄い射精へ誘うケツ穴見せつけド迫力デカ尻オイルエステ 神咲詩織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "素人作品",
+      "中出",
+      "精选，综合",
+      "屁股",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2019-06-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250221-1/07c7bb7afad2a3bfed180b39bee4004c.jpg",
+    "actress": [
+      "神咲诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-190"
+  },
+  {
+    "id": 74626,
+    "IDcode": "CJOD-191",
+    "title": "巨尻骑乘玩弄乳头-篠田ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "素人作品",
+      "精选，综合",
+      "淫语",
+      "姐姐",
+      "手淫",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/03/dc92922e7ce492944e4763e9ddd54cdb.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-191"
+  },
+  {
+    "id": 74646,
+    "IDcode": "CJOD-192",
+    "title": "绝伦骑乘位-凛音とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "素人作品",
+      "中出",
+      "淫语",
+      "精选，综合",
+      "荡妇",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240624-1/ca11c9c9af3359bf507844afed1764c0.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-192"
+  },
+  {
+    "id": 71680,
+    "IDcode": "CJOD-193",
+    "title": "疯狂骑乘榨精内射无心学习-深田咏美加",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "女上位",
+      "中出",
+      "精选，综合",
+      "屁股",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240819-1/1a9a0abc9f85f3b40103136b32ec19d5.jpg",
+    "actress": [
+      "深田詠美",
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-193"
+  },
+  {
+    "id": 74636,
+    "IDcode": "CJOD-197",
+    "title": "美谷朱里代表日本女优向黑人肉棒发起挑战让她们拜倒在日本女优的技术下",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "多P",
+      "中出",
+      "黑人演员"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/08/d3f75b9c1338a70de0af5ba19a020136.jpg",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-197"
+  },
+  {
+    "id": 71730,
+    "IDcode": "CJOD-202",
+    "title": "曾经单纯的小女孩凛音桃花长成了巨乳人妻家族聚会勾引叔叔们内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "素人作品",
+      "人妻",
+      "精选，综合",
+      "姐姐",
+      "巨乳",
+      "荡妇",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250712-1/b19d6e4304512bd454fa3e4130fee098.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-202"
+  },
+  {
+    "id": 75402,
+    "IDcode": "CJOD-203",
+    "title": "讨厌内衣出汗的巨乳表姐松本菜奈实故意弄得湿漉漉来诱感我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "乳交",
+      "中出",
+      "流汗",
+      "精选，综合",
+      "乱伦",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250624-1/bb8851a41ecee006fda6ff06fba08aff.jpg",
+    "actress": [
+      "松本菜奈実",
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-203"
+  },
+  {
+    "id": 75403,
+    "IDcode": "CJOD-204",
+    "title": "持续被梦中淫妖枢木葵侵犯六个月的故事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "吞精",
+      "精选，综合",
+      "戏剧",
+      "中出",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250624-1/2fa9b1ccca905a42102384f0ff8f0257.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-204"
+  },
+  {
+    "id": 82366,
+    "IDcode": "CJOD-205",
+    "title": "在出差处的商务旅馆和两个痴女上司共处一室",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "姐姐",
+      "OL",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/24/e18848ef22e87a2e6f6b5ffd21bd2a2a.jpg",
+    "actress": [
+      "蓮実クレア",
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-205"
+  },
+  {
+    "id": 71762,
+    "IDcode": "CJOD-207",
+    "title": "丰满下流文青女子追打中出泡泡浴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "平胸",
+      "中出",
+      "礼仪小姐",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20241105-1/2bb1b9e952793101c95fed8555e67faa.jpg",
+    "actress": [
+      "渚光希",
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-207"
+  },
+  {
+    "id": 82296,
+    "IDcode": "CJOD-208",
+    "title": "被黑丝情趣内衣女上司波多野结衣侵犯的一天一夜的精子完全枯竭了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "口交",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250718-1/4c51effd737edc2502d9e41cc9a9a24a.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-208"
+  },
+  {
+    "id": 97911,
+    "IDcode": "CJOD-209",
+    "title": "偷偷诱惑朋友的男友的小恶魔女孩渚光绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "白天出轨",
+      "手淫",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250723-1/cc1b7d062fdbe0eb498d435fe7fb0c5b.jpg",
+    "actress": [
+      "渚光希",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-209"
+  },
+  {
+    "id": 191606,
+    "IDcode": "CJOD-210",
+    "title": "非常有欲望十五分钟就做爱的长腿女孩新谷未来出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250723-1/ef85f804505f299ea490bd3998f03d1a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-189"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-210"
   },
   {
-    "id": 107561,
-    "IDcode": "ALDN-190",
-    "title": "从以前开始就喜欢上嫂子-高园百合子",
+    "id": 102804,
+    "IDcode": "CJOD-211",
+    "title": "大汗淋漓的性欲痴女逃犯凛音桃花和被强制内射侵犯的我",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/153569f7c490001c6e34886921bbd909.jpg",
-    "actress": [
-      "左慈半造",
-      "三云ゆり子"
+    "genres": [
+      "肌肉",
+      "女上位",
+      "中出",
+      "流汗",
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-190"
-  },
-  {
-    "id": 107631,
-    "IDcode": "ALDN-191",
-    "title": "做保险推销的叔母-上島美都子",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/c08dd888165342d8e30edd38f290927d.jpg",
+    "cover_url": "/upload/vod/20250723-1/d790e1c1b33081e91525b30734fbd346.jpg",
     "actress": [
-      "左慈半造",
-      "上岛美都子"
+      "凛音とうか"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-191"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-211"
   },
   {
-    "id": 91651,
-    "IDcode": "ALDN-192",
-    "title": "你让我这种大婶这样性奋-嶋崎霞",
+    "id": 82336,
+    "IDcode": "CJOD-213",
+    "title": "吮吸乳头的究极痴女AIKA只靠摸乳头就能让男人高潮",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "调教",
+      "淫语",
+      "姐姐",
+      "手淫",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/3f4f13c06b8d755c4e7cb171e3355a89.jpg",
+    "cover_url": "/upload/vod/20250806-1/93b03ea7496ac102b9714925884962b7.jpg",
+    "actress": [
+      "AIKA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-213"
+  },
+  {
+    "id": 78536,
+    "IDcode": "CJOD-214",
+    "title": "女朋友的两个痴女姐姐不穿内裤诱惑我内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "姐姐",
+      "多P",
+      "乱伦",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250806-1/9b7d2c142607e578258cc784fb66ea69.jpg",
+    "actress": [
+      "波多野结衣",
+      "晶エリー",
+      "新井爱丽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-214"
+  },
+  {
+    "id": 71799,
+    "IDcode": "CJOD-215",
+    "title": "夏日的办公室被巨乳女上司诱惑两人浑身是汗的抱在一起紧密贴合内射做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "流汗",
+      "白天出轨",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250806-1/6286f4f6b28e123b8ce9852e777e43fa.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-215"
+  },
+  {
+    "id": 94962,
+    "IDcode": "CJOD-215CN",
+    "title": "CJOD215CN 排卵日にフェロモン汗をかく巨乳女上司は始発までボクを誘惑 永井マリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241115-1/3b81e3eb244c9ae514ff8ea6bb40a690.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-192"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-215CN"
   },
   {
-    "id": 91645,
-    "IDcode": "ALDN-193",
-    "title": "全裸義母-若菜綾",
+    "id": 71760,
+    "IDcode": "CJOD-217",
+    "title": "被女逃犯强制侵犯内射的我不仅要给她食物还要上交精液",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/a85ca1a784984c5c9e1baa8b3522886a.jpg",
-    "actress": [
-      "椎名綾"
+    "genres": [
+      "舔阴",
+      "拘束",
+      "中出",
+      "荡妇",
+      "苗条"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-193"
-  },
-  {
-    "id": 91637,
-    "IDcode": "ALDN-194",
-    "title": "就連我岳母也想懷孕-川上優",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/33f1bc8995d47087483b0fac917a2007.jpg",
+    "cover_url": "/upload/vod/20250806-1/756ce905f1a02f2aaaa166507ffd1d02.jpg",
     "actress": [
-      "川上優",
-      "左慈半造"
+      "佐藤爱琉"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-194"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-217"
   },
   {
-    "id": 91636,
-    "IDcode": "ALDN-195",
-    "title": "女社长的性欲-成宫彩叶",
+    "id": 82384,
+    "IDcode": "CJOD-218",
+    "title": "大胸的旅行美容师-永井マリア",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "美容院",
+      "中出",
+      "淫语",
+      "巨乳",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/3424c5f9dd7586fe692b79f29043f52a.jpg",
+    "cover_url": "https://tutu1.space/images/2022/07/01/06fe3a12765e06eec0e632bee4e9d3da.jpg",
     "actress": [
-      "左慈半造",
-      "成宫いろは"
+      "永井瑪麗亞"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-195"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-218"
   },
   {
-    "id": 91657,
-    "IDcode": "ALDN-196",
-    "title": "好想和前妻做-新村明里",
+    "id": 78878,
+    "IDcode": "CJOD-219",
+    "title": "朋友介绍的美容院姑娘超喜欢肉棒随便内射也无所谓",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/1f0019ee5ce1741ba3178078534c2c41.jpg",
-    "actress": [
-      "新村晶"
+    "genres": [
+      "业余",
+      "中出",
+      "巨乳",
+      "手淫",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-196"
-  },
-  {
-    "id": 91638,
-    "IDcode": "ALDN-197",
-    "title": "忍耐不住了-彩奈莉娜",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/3993dbbd16240988912d8b19ff9380b2.jpg",
-    "actress": [
-      "彩奈莉娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-197"
-  },
-  {
-    "id": 106863,
-    "IDcode": "ALDN-198",
-    "title": "同一栋公寓的那位人妻实在太色了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/c082351a45cc8fb7ecdc46aaede1ea76.jpg",
-    "actress": [
-      "永野司"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-198"
-  },
-  {
-    "id": 91647,
-    "IDcode": "ALDN-199",
-    "title": "全裸的義母-吉井美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/c603864cc4dac4d11548114ca9acb6f8.jpg",
-    "actress": [
-      "しみけん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-199"
-  },
-  {
-    "id": 106859,
-    "IDcode": "ALDN-200",
-    "title": "欲求不满的媳妇-谷梓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/a7ae0d8607149ac27f04d37009138632.jpg",
-    "actress": [
-      "谷梓",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-200"
-  },
-  {
-    "id": 91639,
-    "IDcode": "ALDN-201",
-    "title": "在町内会上被人们-冢田诗织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/054942e0c76cd3b98e7a1ba4b3741a44.jpg",
-    "actress": [
-      "塚田詩織",
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-201"
-  },
-  {
-    "id": 91658,
-    "IDcode": "ALDN-202",
-    "title": "性处理妻-真木今日子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/1780c8ed60a0f9efa7d4138cc93ea411.jpg",
-    "actress": [
-      "真木今日子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-202"
-  },
-  {
-    "id": 106870,
-    "IDcode": "ALDN-203",
-    "title": "利用美尻诱惑-田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/5c5f041383a54ba0d3529ec26a2a5754.jpg",
-    "actress": [
-      "田所百合"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-203"
-  },
-  {
-    "id": 91659,
-    "IDcode": "ALDN-204",
-    "title": "被母亲拜托揉捏乳房-京野美沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/bfadd894aca737fc853d30b0f7a62a42.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/0d4e0d5d/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-204"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-219"
   },
   {
-    "id": 106952,
-    "IDcode": "ALDN-207",
-    "title": "秘密请义父帮忙妊娠怀孕-伊东沙兰",
+    "id": 78803,
+    "IDcode": "CJOD-220",
+    "title": "扬言让大叔做好觉悟的美少女要展现出让你忍不住发抖的口交",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/d85b5cdfdc3bf9c36eaa15570093c158.jpg",
-    "actress": [
-      "伊東沙蘭"
+    "genres": [
+      "女上位",
+      "接吻",
+      "口交",
+      "高中女生",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-207"
-  },
-  {
-    "id": 106951,
-    "IDcode": "ALDN-208",
-    "title": "欧吉桑的幸运-森泽佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/e438830b9936aec739790839fd29ad5b.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/a1638e3d/vod.jpg",
     "actress": [
-      "森澤佳奈"
+      "望月憧"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-208"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-220"
   },
   {
-    "id": 106950,
-    "IDcode": "ALDN-209",
-    "title": "义母也想要怀孕-加藤椿",
+    "id": 78823,
+    "IDcode": "CJOD-221",
+    "title": "独自把我留下来加班的巨乳女上司满身是汗的勾引我中出",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "晒黑",
+      "流汗",
+      "中出",
+      "巨乳",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/c0231c4ce4a937ab85b7c6102c80f435.jpg",
+    "cover_url": "https://tutu1.space/images/2025/09/11/0bf6ad23cde152f419bfce37f5808da8.jpg",
     "actress": [
-      "左慈半造",
-      "夏树カオル"
+      "今井夏帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-209"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-221"
   },
   {
-    "id": 106949,
-    "IDcode": "ALDN-210",
-    "title": "被儿子初次中出的母亲-石川芙美乃",
+    "id": 71674,
+    "IDcode": "CJOD-222",
+    "title": "脱獄犯-AIKA",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "舔阴",
+      "女生",
+      "中出",
+      "流汗",
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/e2db03eca7382a2994e2a8f62437d496.jpg",
+    "cover_url": "https://tutu1.space/images/2022/07/01/d0640c01d7e4ef53ab3de8a0ef160921.jpg",
     "actress": [
-      "ひょこり",
-      "石川芙美乃"
+      "AIKA"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-210"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-222"
   },
   {
-    "id": 106975,
-    "IDcode": "ALDN-211",
-    "title": "抽搐的女人-秋元美织",
+    "id": 77396,
+    "IDcode": "CJOD-223",
+    "title": "痴女天堂-晶エリー",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "素人作品",
+      "精选，综合",
+      "姐姐",
+      "肛交",
+      "荡妇",
+      "巨大屁股"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/dfb1c91e13f4569e6f9bf676c17ea7f7.jpg",
+    "cover_url": "https://tutu1.space/images/2022/10/19/aec3bfcfa32c9e9d6036ff2fe1a29460.jpg",
     "actress": [
-      "秋元美織"
+      "新井爱丽"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-211"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-223"
   },
   {
-    "id": 106852,
-    "IDcode": "ALDN-212",
-    "title": "比起老婆义母的感觉要好得多",
+    "id": 77395,
+    "IDcode": "CJOD-224",
+    "title": "充满汗液的痴女逃犯-水森翠",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "素人作品",
+      "舔阴",
+      "精选，综合",
+      "中出",
+      "流汗",
+      "荡妇",
+      "苗条"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/28cc2e188bb9cf0b11ad0e761d9677d1.jpg",
+    "cover_url": "https://tutu1.space/images/2022/10/19/39970b8ac9e36e72ff3e574db48eca59.jpg",
+    "actress": [
+      "水森翠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-224"
+  },
+  {
+    "id": 81508,
+    "IDcode": "CJOD-227",
+    "title": "无套直击子宫从早到晚内射-葉月レイラ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "女生",
+      "女上位",
+      "中出",
+      "精选，综合",
+      "高中女生",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/19/ec44ff1231f6a57fded4f8e0887e675f.jpg",
+    "actress": [
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-227"
+  },
+  {
+    "id": 82369,
+    "IDcode": "CJOD-228",
+    "title": "派遣究极痴女-永井マリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "接吻",
+      "中出",
+      "精选，综合",
+      "纪录片",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/06/adf4bbf5109193b9fc630a5eb2ef88f3.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-228"
+  },
+  {
+    "id": 82331,
+    "IDcode": "CJOD-230",
+    "title": "女朋友强势的纹身太妹姐姐-佐藤エル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高",
+      "素人作品",
+      "女上位",
+      "精选，综合",
+      "中出",
+      "淫语",
+      "乱伦",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/06/ca8ae54dc3bec93a0bdce9be94fcd992.jpg",
+    "actress": [
+      "Qべぇ",
+      "佐藤爱琉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-230"
+  },
+  {
+    "id": 82370,
+    "IDcode": "CJOD-231",
+    "title": "喜欢口交的女仆-奏音かのん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人作品",
+      "拘束",
+      "精选，综合",
+      "口交",
+      "女佣",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/06/133c686d99cbe10531077a5d6928113c.jpg",
+    "actress": [
+      "奏音花音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-231"
+  },
+  {
+    "id": 81510,
+    "IDcode": "CJOD-232",
+    "title": "出差地两个黑丝女上司-晶エリー 波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "姐姐",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/06/93f969d66481274d45124cb74ab4815f.jpg",
+    "actress": [
+      "波多野结衣",
+      "新井爱丽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-232"
+  },
+  {
+    "id": 81614,
+    "IDcode": "CJOD-233",
+    "title": "巨尻痴女姐姐-蓮実クレア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "姐姐",
+      "乱伦",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/06/ca496faf15b64cfbc85141716cd1ac02.jpg",
+    "actress": [
+      "蓮実クレア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-233"
+  },
+  {
+    "id": 82379,
+    "IDcode": "CJOD-236",
+    "title": "讨厌和有钱的大叔老公做爱-AIKA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "口交",
+      "手淫",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/06/d7f262c2ff066c9b2745933b782e9800.jpg",
+    "actress": [
+      "AIKA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-236"
+  },
+  {
+    "id": 82301,
+    "IDcode": "CJOD-238",
+    "title": "射精无限制内射的极品桑拿女-奏音かのん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "礼仪小姐",
+      "荡妇",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/5f3c2211ae72a09d1dc7d51ea0c94e24.jpg",
+    "actress": [
+      "奏音花音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-238"
+  },
+  {
+    "id": 82326,
+    "IDcode": "CJOD-239",
+    "title": "魔鬼身材人妻-凛音とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "肌肉",
+      "人妻",
+      "女上位",
+      "中出",
+      "流汗"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/8121dfc92b5fe782f77b6aabaeb7cf32.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-239"
+  },
+  {
+    "id": 224958,
+    "IDcode": "CJOD-240",
+    "title": "性欲超强巨乳泳衣姐姐-ましろ杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/1990b5352575efa9424098421a52925e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-212"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-240"
   },
   {
-    "id": 106851,
-    "IDcode": "ALDN-213",
-    "title": "同学会之后-泷结菜",
+    "id": 222862,
+    "IDcode": "CJOD-241",
+    "title": "巨乳理疗师-倉多まお",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/5aaa6b76f7385faafc30e27d1cece897.jpg",
-    "actress": [
-      "滝ゆいな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-213"
-  },
-  {
-    "id": 66081,
-    "IDcode": "ALDN-214",
-    "title": "从现在起献上我的妻子-铃木真夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/07883ab009efab277641cb5f17973404.jpg",
-    "actress": [
-      "鈴木真夕"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-214"
-  },
-  {
-    "id": 106850,
-    "IDcode": "ALDN-215",
-    "title": "全裸義母-中山穂香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/26eac066ae1ede333074d700d385b256.jpg",
-    "actress": [
-      "ひょこり",
-      "中山穂香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-215"
-  },
-  {
-    "id": 106849,
-    "IDcode": "ALDN-216",
-    "title": "与你一样的大妈兴奋了-西园寺美绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/5e7c773bc4bd16ed54440ab33321dab5.jpg",
-    "actress": [
-      "森下美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-216"
-  },
-  {
-    "id": 106848,
-    "IDcode": "ALDN-217",
-    "title": "果然单身妈妈什么的最棒了-若槻惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/94181887f5b403753346bebb96fd29c9.jpg",
-    "actress": [
-      "レンジャー鏑木",
-      "若槻めぐみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-217"
-  },
-  {
-    "id": 106675,
-    "IDcode": "ALDN-218",
-    "title": "母亲和儿子的二人之旅-伊东沙兰",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/f3a87ba3e02d232f7ef445d6f05f3b64.jpg",
-    "actress": [
-      "イッセイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-218"
-  },
-  {
-    "id": 91577,
-    "IDcode": "ALDN-219",
-    "title": "母奸中出-石原由香里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/108acde920008b6b6da9678e291f018e.jpg",
-    "actress": [
-      "みっちー",
-      "石原ゆかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-219"
-  },
-  {
-    "id": 91610,
-    "IDcode": "ALDN-220",
-    "title": "抽到大獎的大叔-紗紗原百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/583e7831da3f643a6185728a5a9aa073.jpg",
-    "actress": [
-      "纱々原ゆり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-220"
-  },
-  {
-    "id": 106682,
-    "IDcode": "ALDN-221",
-    "title": "欲求不滿的人妻-小早川怜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/7ce03891618edeca18965c58988d782c.jpg",
-    "actress": [
-      "小早川怜子",
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-221"
-  },
-  {
-    "id": 106679,
-    "IDcode": "ALDN-222",
-    "title": "這個淫蕩的母狗-高園百合子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/f2d94024bc4eeaa91ea44e0e46364700.jpg",
-    "actress": [
-      "三云ゆり子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-222"
-  },
-  {
-    "id": 106673,
-    "IDcode": "ALDN-223",
-    "title": "妻突然要求中出的理由-成宮彩葉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/bc17b776ce6457f59ee2aa44392183c1.jpg",
-    "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-223"
-  },
-  {
-    "id": 91578,
-    "IDcode": "ALDN-224",
-    "title": "果然還是單親媽媽最棒-陽菜里緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/0e64006204275dbc4ce45464425a2a0a.jpg",
-    "actress": [
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-224"
-  },
-  {
-    "id": 91602,
-    "IDcode": "ALDN-225",
-    "title": "お義母さん、にょっ女房よりずっといいよ… 彩乃ゆかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/20f248d3f3325fef67d0c72c2bf866f5.jpg",
-    "actress": [
-      "牧村彩香",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-225"
-  },
-  {
-    "id": 103490,
-    "IDcode": "ALDN-226",
-    "title": "和我女兒發生了猥褻的事情-美丘里美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/f4e096e6c32250c0e2c9ece2373fc20c.jpg",
-    "actress": [
-      "爱花みちる"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-226"
-  },
-  {
-    "id": 106575,
-    "IDcode": "ALDN-227",
-    "title": "代孕媽媽-山瀬美紀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/9908df33e6c6b53f5ad7b350297f1fac.jpg",
-    "actress": [
-      "山瀬美紀",
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-227"
-  },
-  {
-    "id": 103494,
-    "IDcode": "ALDN-228",
-    "title": "只是为了你-加藤椿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/c1a18c57185b6fa0e9ccfc4bd6ca6ba3.jpg",
-    "actress": [
-      "ひょこり",
-      "夏树カオル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-228"
-  },
-  {
-    "id": 103495,
-    "IDcode": "ALDN-229",
-    "title": "一個漂亮的秘書-三田樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/b2665fc900928dc595c19d77d6df1d2f.jpg",
-    "actress": [
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-229"
-  },
-  {
-    "id": 91605,
-    "IDcode": "ALDN-230",
-    "title": "全裸義母 加山なつこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/1e28963e2f590aba12521e8be1723f81.jpg",
-    "actress": [
-      "加山なつ子",
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-230"
-  },
-  {
-    "id": 66083,
-    "IDcode": "ALDN-231",
-    "title": "性处理人妻-宝田萌奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/8c1cbd2e147d5aaab6dd0d431e1c381c.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/e5d994e54bb4c416b96f9ac79a6d2c2f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-231"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-241"
   },
   {
-    "id": 17878,
-    "IDcode": "ALDN-232",
-    "title": "母子的二人之旅-小松杏",
+    "id": 209503,
+    "IDcode": "CJOD-242",
+    "title": "女上司 佐山愛",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/14627b0208709ab26e2fd4e7e13e423d.jpg",
-    "actress": [
-      "小松杏",
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-232"
-  },
-  {
-    "id": 106363,
-    "IDcode": "ALDN-233",
-    "title": "女社长的性欲-本真百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/83fe73508dc8f4f0a4dad78b5e11d0b9.jpg",
-    "actress": [
-      "本真友里",
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-233"
-  },
-  {
-    "id": 91606,
-    "IDcode": "ALDN-234",
-    "title": "幸运大叔-岬樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/1df85a523c3472a5b03a1cf57b3c5d5e.jpg",
-    "actress": [
-      "岬櫻"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-234"
-  },
-  {
-    "id": 91604,
-    "IDcode": "ALDN-235",
-    "title": "忍不住了-夏川步美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/9973de0352850dbe02efc8d2677199b0.jpg",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-235"
-  },
-  {
-    "id": 106509,
-    "IDcode": "ALDN-236",
-    "title": "妻子的母亲和我的父亲-白河花清",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/ed96512c0085c6e6bf02ea9c21d0cb60.jpg",
-    "actress": [
-      "白河花清"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-236"
-  },
-  {
-    "id": 91601,
-    "IDcode": "ALDN-238",
-    "title": "雌汉淫兽-美原堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/a14275df164fd2f029dcff6c199f0495.jpg",
-    "actress": [
-      "美原すみれ",
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-238"
-  },
-  {
-    "id": 91607,
-    "IDcode": "ALDN-239",
-    "title": "婆婆比我老婆好多了-若槻惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/943d984c3e1e932c358e289811598b20.jpg",
-    "actress": [
-      "若槻めぐみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-239"
-  },
-  {
-    "id": 91603,
-    "IDcode": "ALDN-241",
-    "title": "被搞到身體顫抖的女人-田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/baee35bdc8b4c79e1f91b5b8389be154.jpg",
-    "actress": [
-      "田所百合"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-241"
-  },
-  {
-    "id": 91593,
-    "IDcode": "ALDN-242",
-    "title": "公公使她懷孕-塚田詩織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/e6b838365154330657943a5dffb40a2d.jpg",
-    "actress": [
-      "塚田詩織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-242"
-  },
-  {
-    "id": 91589,
-    "IDcode": "ALDN-244",
-    "title": "當單親媽媽是最好的-望月瞳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/989c73517303bfdd0a804bbe4d26735d.jpg",
-    "actress": [
-      "望月瞳",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-244"
-  },
-  {
-    "id": 106330,
-    "IDcode": "ALDN-245",
-    "title": "没想到和前男友成了家人-新村明里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/28/6c8a1ad6df8295de4dd249782ccb4cc0.jpg",
-    "actress": [
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-245"
-  },
-  {
-    "id": 106328,
-    "IDcode": "ALDN-246",
-    "title": "新妻子和继父-通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/28/5c9600b9e21e05aebdb87319d13eb9e1.jpg",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-246"
-  },
-  {
-    "id": 91592,
-    "IDcode": "ALDN-247",
-    "title": "同学会之后-夏川步美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/28/2486d637f48ba535d450a5189fb71f31.jpg",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-247"
-  },
-  {
-    "id": 91590,
-    "IDcode": "ALDN-248",
-    "title": "幸运大叔-户川娜美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/28/9c085289851c029a8cdf982033b52a1b.jpg",
+    "cover_url": "https://tutu1.space/images/2020/07/04/QQ20200704161653803c1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-248"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-242"
   },
   {
-    "id": 91596,
-    "IDcode": "ALDN-249",
-    "title": "中出母亲的儿子-竹内梨恵",
+    "id": 209302,
+    "IDcode": "CJOD-245",
+    "title": "女教師逆NTR-春咲りょう",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/27/7ee603951fa6f6759ee3de39047f848c.jpg",
-    "actress": [
-      "夏树カオル",
-      "イッセイ"
+    "genres": [
+      "NTR",
+      "淫妻"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-249"
-  },
-  {
-    "id": 106329,
-    "IDcode": "ALDN-250",
-    "title": "被义母诱惑的我-吉井美希",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/28/ee20d0bd40f3b6a4b59b51f9625d52fc.jpg",
-    "actress": [
-      "竹内梨恵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-250"
-  },
-  {
-    "id": 106332,
-    "IDcode": "ALDN-251",
-    "title": "婆婆邀请我-よしい美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/28/19aaa382d7013163601dde01a20ea685.jpg",
-    "actress": [
-      "しみけん",
-      "伊沢凉子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-251"
-  },
-  {
-    "id": 91609,
-    "IDcode": "ALDN-252",
-    "title": "雌汉淫兽-伊织凉子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/12/28/004ca78e3ca16ef53ba8e779ab553f59.jpg",
-    "actress": [
-      "伊织凉子",
-      "真琴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-252"
-  },
-  {
-    "id": 91586,
-    "IDcode": "ALDN-253",
-    "title": "我實在受不了-本田かなの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240116-1/4e35b98af7a09636e75c4f2dd595d247.jpg",
-    "actress": [
-      "最上もも"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-253"
-  },
-  {
-    "id": 91597,
-    "IDcode": "ALDN-254",
-    "title": "丈母娘也想要懷孕-伊東沙蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240123-1/f05041b47fa4516fa3ae70a4dc61106f.jpg",
+    "cover_url": "https://tutu1.space/images/2020/06/10/QQ20200611025607b2c74.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-254"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-245"
   },
   {
-    "id": 66082,
-    "IDcode": "ALDN-255",
-    "title": "陷入在中出快感的人妻-水端麻美",
+    "id": 86819,
+    "IDcode": "CJOD-247",
+    "title": "完全射精フォーメーション",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "淫乱，真实",
+      "巨乳",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240116-1/97e7831d85b79e49488b191661282ceb.jpg",
+    "cover_url": "https://tutu1.space/images/2020/07/04/QQ20200704161653784be.jpg",
+    "actress": [
+      "波多野结衣",
+      "大槻响",
+      "蓮実クレア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-247"
+  },
+  {
+    "id": 107310,
+    "IDcode": "CJOD-248",
+    "title": "巨乳人妻 辻井ほのか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "人妻",
+      "中出",
+      "流汗",
+      "淫语",
+      "白天出轨",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/12/29/eec7dc607c4f2470714d7ac1e9660f5e.jpg",
+    "actress": [
+      "辻井穗乃果"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-248"
+  },
+  {
+    "id": 209893,
+    "IDcode": "CJOD-249",
+    "title": "穿美性感的少妇-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/08/09/27b0753b21a0081707a84e46f5ed54e7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-255"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-249"
   },
   {
-    "id": 91608,
-    "IDcode": "ALDN-256",
-    "title": "代理出产的人母-丰永映美",
+    "id": 209892,
+    "IDcode": "CJOD-250",
+    "title": "騎乗位で何度も中出-松本いちか",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240116-1/989629e63e288bb00ec6e463b9db28f2.jpg",
+    "cover_url": "https://tutu1.space/images/2020/08/09/e9a0039fa28213a6419e4f3023368dc6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-256"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-250"
   },
   {
-    "id": 106183,
-    "IDcode": "ALDN-257",
-    "title": "和女兒的男朋友-中山穗香",
+    "id": 210200,
+    "IDcode": "CJOD-252",
+    "title": "中出しOK絶品美女-吉良りん",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240116-1/b9d14d6948f5b7313ed0c166933ee53e.jpg",
-    "actress": [
-      "中山穂香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-257"
-  },
-  {
-    "id": 91594,
-    "IDcode": "ALDN-258",
-    "title": "當單親媽媽是最好的-檜山由里香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240116-1/bd7068a60a794dcfc9928de1f9610472.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/11/151c59525f8ffd3567616b7d0ff02196.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-258"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-252"
   },
   {
-    "id": 106031,
-    "IDcode": "ALDN-261",
-    "title": "町内会聚会上-佐佐木咲和",
+    "id": 86845,
+    "IDcode": "CJOD-253",
+    "title": "我已经射了-久留木玲",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240203-1/95e0aaa94ca4317d7237f8cc276c05e1.jpg",
-    "actress": [
-      "佐々木咲和"
+    "genres": [
+      "口交",
+      "高中女生",
+      "颜射",
+      "荡妇",
+      "美少女电影"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-261"
-  },
-  {
-    "id": 91583,
-    "IDcode": "ALDN-262",
-    "title": "前男友竟然成为我的家人-纱纱原百合",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240131-1/87f0d7e02e10821fac1a00e411fd528f.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/11/aadb9897b8c5fb9bd9abac7c88076c7b.jpg",
     "actress": [
-      "纱々原ゆり"
+      "久留木玲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-262"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-253"
   },
   {
-    "id": 91588,
-    "IDcode": "ALDN-263",
-    "title": "母奸中出-加山夏子",
+    "id": 86815,
+    "IDcode": "CJOD-254",
+    "title": "相部屋-AIKA",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "女生",
+      "女上位",
+      "中出",
+      "屁股",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240203-1/421035fc5f25519d3225b8bf9f0152e1.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/11/852815f86d0e8ddad6cb361d8fd10c9a.jpg",
     "actress": [
-      "加山なつ子",
-      "ひょこり"
+      "AIKA"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-263"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-254"
   },
   {
-    "id": 91584,
-    "IDcode": "ALDN-264",
-    "title": "这个淫荡的雌汉-翔田千里",
+    "id": 210425,
+    "IDcode": "CJOD-255",
+    "title": "我已经射了-JULIA",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240131-1/22750786fd28ccb07f342cf3e822d255.jpg",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-264"
-  },
-  {
-    "id": 91569,
-    "IDcode": "ALDN-265",
-    "title": "我无法离开公司的理由-夏川步美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240207-1/f48b920b6c513db90266563452da81f2.jpg",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-265"
-  },
-  {
-    "id": 91564,
-    "IDcode": "ALDN-268",
-    "title": "母亲和儿子的二人之旅-姫川礼子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240207-1/44fe1c4cfcea7ca6535d8dc090e247cf.jpg",
-    "actress": [
-      "姫川礼子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-268"
-  },
-  {
-    "id": 16318,
-    "IDcode": "ALDN-270",
-    "title": "老婆的妈妈跟我的爸爸-新村晶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/735f87cb1d4007455a659affdb69d04f.jpg",
-    "actress": [
-      "新村朱里",
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-270"
-  },
-  {
-    "id": 105785,
-    "IDcode": "ALDN-271",
-    "title": "丈夫保持沉默巨乳老婆-花抚绫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/e81cf93d166b9e3c2f55f6a94a7c1f0b.jpg",
-    "actress": [
-      "池谷佳纯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-271"
-  },
-  {
-    "id": 91568,
-    "IDcode": "ALDN-272",
-    "title": "不能再忍耐了-都月琉衣纱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/8c83b2bb1218e751c50d2f65daf0bb4b.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-272"
-  },
-  {
-    "id": 207743,
-    "IDcode": "ALDN-273",
-    "title": "没有丈夫的三天-冢田诗织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/7d302d69b41ff6ea52d9d3c1b908d48e.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/30/d0121cc2bcbb3be260526aa737934aa6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-273"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-255"
   },
   {
-    "id": 16324,
-    "IDcode": "ALDN-274",
-    "title": "想成为你的妻子-小松杏",
+    "id": 210424,
+    "IDcode": "CJOD-256",
+    "title": "男人美容院-松本いちか",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/6e305759426451ee318c75d50360fbd7.jpg",
-    "actress": [
-      "小松杏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-274"
-  },
-  {
-    "id": 91573,
-    "IDcode": "ALDN-275",
-    "title": "被震撼的女人-竹内梨惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/39ec1e1daecb9c9fdcd4ad09d8efd387.jpg",
-    "actress": [
-      "竹内梨恵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-275"
-  },
-  {
-    "id": 16323,
-    "IDcode": "ALDN-276",
-    "title": "中年幸运星-本田瞳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/7b68294e682bfca7ae3c3bb85b8df77b.jpg",
-    "actress": [
-      "本田瞳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-276"
-  },
-  {
-    "id": 91571,
-    "IDcode": "ALDN-277",
-    "title": "我在诱惑附近的丈夫-翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240313-1/2c827540e43fb47a1bd07801a157b532.jpg",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-277"
-  },
-  {
-    "id": 91572,
-    "IDcode": "ALDN-278",
-    "title": "旅行中的母子二人旅行-真木今日子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240315-1/1c6a3f6cb445122764f4ad593d6e5a2d.jpg",
-    "actress": [
-      "真木今日子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-278"
-  },
-  {
-    "id": 91542,
-    "IDcode": "ALDN-279",
-    "title": "前男友竟然成为家人了-三田樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240315-1/f832a108252a960024a34c991c3f1a3c.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/30/888c25f66e522e019bd22a20c47927bf.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-279"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-256"
   },
   {
-    "id": 91553,
-    "IDcode": "ALDN-280",
-    "title": "女儿的男朋友-成宫彩叶",
+    "id": 210623,
+    "IDcode": "CJOD-258",
+    "title": "欲求不満-佐藤エル",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240315-1/b285327383558125c62cc01c18b64750.jpg",
-    "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-280"
-  },
-  {
-    "id": 91550,
-    "IDcode": "ALDN-281",
-    "title": "婆婆比起妻子更好呢-德岛理子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240315-1/eb307f8c5e0c9e0181dba70db1d48dd2.jpg",
+    "cover_url": "https://tutu1.space/images/2020/10/20/ddd094294f725eb9ce278ce3d3917ee2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-281"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-258"
   },
   {
-    "id": 91549,
-    "IDcode": "ALDN-282",
-    "title": "母亲被儿子初次内射-林爱华",
+    "id": 210777,
+    "IDcode": "CJOD-261",
+    "title": "在三个美女的簇拥下",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240315-1/75ebbbf2c86c0d5421d1e2eff3b60e0e.jpg",
-    "actress": [
-      "林愛華",
-      "イッセイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-282"
-  },
-  {
-    "id": 91551,
-    "IDcode": "ALDN-283",
-    "title": "单亲妈妈果然最棒了-西園寺美緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240315-1/ff9521cdeedeca7f90c1ae099801f41d.jpg",
-    "actress": [
-      "森下美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-283"
-  },
-  {
-    "id": 105710,
-    "IDcode": "ALDN-284",
-    "title": "你的妻子可真棒啊-有贺美奈穗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/853fb677356852f43be76086e2d49059.jpg",
-    "actress": [
-      "有贺みなほ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-284"
-  },
-  {
-    "id": 91559,
-    "IDcode": "ALDN-285",
-    "title": "因为町内会而-本田加奈野",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/04edc4c8ea167ca4fd2b492aedd1c9f3.jpg",
-    "actress": [
-      "最上もも"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-285"
-  },
-  {
-    "id": 91562,
-    "IDcode": "ALDN-286",
-    "title": "果然单亲妈妈什么的最棒了-藤咲紫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/8e6fb123a6075c4ac39e2449ebce090a.jpg",
-    "actress": [
-      "藤咲紫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-286"
-  },
-  {
-    "id": 91557,
-    "IDcode": "ALDN-287",
-    "title": "这都是为了老公-小松杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/e4ec5a6dbe2b6f11022a7a1ab94f55cb.jpg",
-    "actress": [
-      "小松杏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-287"
-  },
-  {
-    "id": 91533,
-    "IDcode": "ALDN-288",
-    "title": "忍耐不住了-紫月由加里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/71c4e958725e9948f2f4b1a6ae85de69.jpg",
+    "cover_url": "https://tutu1.space/images/2020/11/03/9b312234545f429b77ba63c32080ea1a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-288"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-261"
   },
   {
-    "id": 105662,
-    "IDcode": "ALDN-289",
-    "title": "处男中出-高园百合子",
+    "id": 86849,
+    "IDcode": "CJOD-262",
+    "title": "巨乳妻-椿りか",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/34d1a9a682a0d9410ee55b57eee2032c.jpg",
-    "actress": [
-      "三云ゆり子",
-      "イッセイ"
+    "genres": [
+      "已婚妇女",
+      "中出",
+      "流汗",
+      "巨乳",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-289"
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/11/03/7257332db44688b21dcb7a2de283b069.jpg",
+    "actress": [
+      "椿莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-262"
   },
   {
-    "id": 91565,
-    "IDcode": "ALDN-290",
-    "title": "",
+    "id": 210779,
+    "IDcode": "CJOD-263",
+    "title": "突如痴女-枢木あおい",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240424-1/414d298dde7287feb915f9287d26ee23.jpg",
+    "cover_url": "https://tutu1.space/images/2020/11/03/9c318e544816ffe6062dfff096343886.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-290"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-263"
   },
   {
-    "id": 91558,
-    "IDcode": "ALDN-291",
-    "title": "瞒着丈夫拜托岳父做的备孕三岳优奈",
+    "id": 210838,
+    "IDcode": "CJOD-264",
+    "title": "脱獄犯-水川スミレ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240424-1/a08a1ebed5bc34505874601ec40edee5.jpg",
-    "actress": [
-      "三岳祐奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-291"
+    "cover_url": "https://tutu1.space/images/2020/11/11/3b9305486ae62b5aeac6bb101f948182.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-264"
   },
   {
-    "id": 91561,
-    "IDcode": "ALDN-292",
-    "title": "媽媽跟兒子的兩人旅途-彩奈里奈",
+    "id": 86850,
+    "IDcode": "CJOD-268",
+    "title": "女上司 吉良りん",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240424-1/fb3c120a065829ad5708442c44329dec.jpg",
-    "actress": [
-      "彩奈莉娜",
-      "ミチくん"
+    "genres": [
+      "内衣",
+      "淫语",
+      "中出"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-292"
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/12/02/eeb83cc05f2a790ee494560e653788d0.jpg",
+    "actress": [
+      "吉良鈴",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-268"
   },
   {
-    "id": 91563,
-    "IDcode": "ALDN-293",
-    "title": "婆婆比老婆好多了-岡西友美",
+    "id": 211394,
+    "IDcode": "CJOD-271",
+    "title": "爆乳若妻- 神坂朋子",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240424-1/ae1e0b80ceaf4a87e7c0b78191c7f587.jpg",
-    "actress": [
-      "岡西友美",
-      "ひょこり"
+    "genres": [
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-293"
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/01/07/17e6f867d10ea9486d4495e59a4c6023.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-271"
   },
   {
-    "id": 105553,
-    "IDcode": "ALDN-294",
-    "title": "妻友突然生得好-美原すみれ",
+    "id": 211395,
+    "IDcode": "CJOD-272",
+    "title": "女教師 東條なつ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240424-1/6f84669f46bf8e4050a1f111210335ff.jpg",
-    "actress": [
-      "美原すみれ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-294"
+    "cover_url": "https://tutu1.space/images/2021/01/07/75c9dc362f2c8bf7a51b4d136e542ef6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-272"
   },
   {
-    "id": 91548,
-    "IDcode": "ALDN-295",
-    "title": "让我这样的大婶兴奋-田所百合",
+    "id": 211396,
+    "IDcode": "CJOD-273",
+    "title": "何度射精-AIKA 栄川乃亜",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240424-1/1fa24156ac39420475a20771300ba03e.jpg",
-    "actress": [
-      "田所百合"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-295"
+    "cover_url": "https://tutu1.space/images/2021/01/07/fb2aa4abf5deb2904c2ad91d1a615122.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-273"
   },
   {
-    "id": 91544,
-    "IDcode": "ALDN-296",
-    "title": "在町内会上-菅日菜子",
+    "id": 86852,
+    "IDcode": "CJOD-274",
+    "title": "無制限射精-八乃つばさ",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/78e354b884f7ab94dd7b96e616c0b5ca.jpg",
-    "actress": [
-      "菅日菜子"
+    "genres": [
+      "美容院",
+      "中出",
+      "姐姐",
+      "巨乳",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-296"
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/01/07/7f216accde3d88acf755074f9fd2c14f.jpg",
+    "actress": [
+      "八乃翼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-274"
   },
   {
-    "id": 66074,
-    "IDcode": "ALDN-297",
-    "title": "内射黑丝巨乳-堀北実來",
+    "id": 86854,
+    "IDcode": "CJOD-277",
+    "title": "絶品美女-成美このは",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/83eac94a9a1a92e39c4c3b7ea8cff755.jpg",
-    "actress": [
-      "堀北実来"
+    "genres": [
+      "美容院",
+      "无毛",
+      "中出",
+      "淫语",
+      "姐姐",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-297"
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/19/effad5ff77e43ef9c07375eea653e896.jpg",
+    "actress": [
+      "矢乃花音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-277"
   },
   {
-    "id": 91545,
-    "IDcode": "ALDN-298",
-    "title": "比起老婆义母的感觉要好得多-深月千草",
+    "id": 173951,
+    "IDcode": "CJOD-279",
+    "title": "汗流女上司的发情淫語直到天明我几度中出-若宫叶月",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TAKARA",
+    "company": "癡女特化",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/8b9aae4cc1d3458c5ef238735b4c50ea.jpg",
-    "actress": [
-      "ひょこり",
-      "深月ちぐさ"
+    "cover_url": "https://tutu1.space/images/2025/11/04/d94a777fc5232903e9d7c59935d0dac4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-279"
+  },
+  {
+    "id": 173942,
+    "IDcode": "CJOD-280",
+    "title": "流汗性欲缠身痴女被越狱犯强奸中出射精-飞鸟里伊奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/04/706fe758f580add333a4d9596fe818c8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-280"
+  },
+  {
+    "id": 86874,
+    "IDcode": "CJOD-286",
+    "title": "中出しOK爆乳美女にしっとり痴女られる囁き回春エステ 凪沙ゆきの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "姐姐",
+      "按摩",
+      "巨乳",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-298"
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2021-03-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/33a6e5eb5f8a1f52e9fe75b6ccf12c57.jpg",
+    "actress": [
+      "凪沙雪乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-286"
+  },
+  {
+    "id": 86878,
+    "IDcode": "CJOD-289",
+    "title": "W地雷系女子 僕のコトが大好き過ぎるあおいとゆいのメンヘラ淫語で奪い合い中出しされ続ける日々 永瀬ゆい 枢木あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "中出",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2021-03-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/0f5c8ace43426209b17a42d5f1c26275.jpg",
+    "actress": [
+      "永瀬ゆい",
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-289"
+  },
+  {
+    "id": 86829,
+    "IDcode": "CJOD-295",
+    "title": "暇で退屈な人妻 夫の転勤でド田舎に越して来たジュリアさんにノーブラ・ノーパンで誘惑された隣人の僕は何度も中出しさせられて… JULIA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "人妻",
+      "女上位",
+      "中出",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2021-05-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/b58316a44e0a2479b82b346687606043.jpg",
+    "actress": [
+      "JULIA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-295"
+  },
+  {
+    "id": 86875,
+    "IDcode": "CJOD-298",
+    "title": "「不倫は文化だ！！」乳首ビンビン豊満ドスケベ人妻の濃厚こってり男狩り中出し淫乱不倫録 夕季ちとせ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "人妻",
+      "中出",
+      "淫语",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2021-05-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/36eddb4acfac885ae26e69232ae28765.jpg",
+    "actress": [
+      "七草千歲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-298"
+  },
+  {
+    "id": 212185,
+    "IDcode": "CJOD-299",
+    "title": "無制限射精-さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/05/7ad7d9626b1451d5ea90201ed4caef1d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-299"
+  },
+  {
+    "id": 86864,
+    "IDcode": "CJOD-303",
+    "title": "追撃男潮11発-堀内未果子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "淫语",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/27/d5414867d90976d1652b3026eab0566b.jpg",
+    "actress": [
+      "堀内美香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-303"
+  },
+  {
+    "id": 86835,
+    "IDcode": "CJOD-304",
+    "title": "亚洲美容师-JULIA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "美容院",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/29/a8532c55b4daf785f506dd61b8047137.jpg",
+    "actress": [
+      "JULIA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-304"
+  },
+  {
+    "id": 79582,
+    "IDcode": "CJOD-309",
+    "title": "猥亵话语-川上ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "女上位",
+      "中出",
+      "淫语",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/27/54cd1c88acb941bdea77c805c9b78ac1.jpg",
+    "actress": [
+      "川上優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-309"
+  },
+  {
+    "id": 79501,
+    "IDcode": "CJOD-310",
+    "title": "無制限射精-佐山愛 吉根ゆりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "眼镜",
+      "两女一男",
+      "乳交",
+      "女上位",
+      "中出",
+      "巨乳",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/9615d36922ee5f9c580b2bed58404b29.jpg",
+    "actress": [
+      "吉根柚莉爱",
+      "佐山爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-310"
+  },
+  {
+    "id": 79466,
+    "IDcode": "CJOD-312",
+    "title": "淫荡的后宫女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "淫乱，真实",
+      "荡妇",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/02/49550ed3192457e5f904a686c3cfaff2.jpg",
+    "actress": [
+      "大槻响",
+      "渚光希",
+      "鲛岛",
+      "浜崎真绪",
+      "REMI"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-312"
+  },
+  {
+    "id": 79487,
+    "IDcode": "CJOD-313",
+    "title": "エッチなお姉さんが痴女ってくる中出しOK回春アジアンメンズエステ 月乃ルナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "足交",
+      "中出",
+      "姐姐",
+      "手淫",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2021-09-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/707f12aa32f7963e4d42f3cf9d326bbc.jpg",
+    "actress": [
+      "月乃露娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-313"
+  },
+  {
+    "id": 79502,
+    "IDcode": "CJOD-314",
+    "title": "技术精湛的淫荡女人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "两女一男",
+      "中出",
+      "淫乱，真实",
+      "姐姐",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/02/19144859a8ee3de32578da2f91e66901.jpg",
+    "actress": [
+      "大槻响",
+      "蓝井优太",
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-314"
+  },
+  {
+    "id": 214317,
+    "IDcode": "CJOD-316",
+    "title": "白天和雄性潮汐中-JULIA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/06/791b81f3d10685a102999eb1c2a5059a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-316"
+  },
+  {
+    "id": 79999,
+    "IDcode": "CJOD-321",
+    "title": "我要让你的小弟弟射精-さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "感谢祭",
+      "荡妇",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/02/2b5199999221b28521746d40ffd9183a.jpg",
+    "actress": [
+      "沙月芽衣",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-321"
+  },
+  {
+    "id": 84130,
+    "IDcode": "CJOD-324",
+    "title": "聖水痴女-AIKA 浜崎真緒 若宮はずき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "放尿",
+      "饮尿",
+      "淫语",
+      "淫乱，真实",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/12/c6cc9cb9056109c453d78c7c212aafb5.jpg",
+    "actress": [
+      "AIKA",
+      "浜崎真绪",
+      "若宫はずき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-324"
+  },
+  {
+    "id": 84128,
+    "IDcode": "CJOD-325",
+    "title": "她有一个大奶子的身体-JULIA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "乳交",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/06/261a173557516d986cd681b93b972ac9.jpg",
+    "actress": [
+      "JULIA",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-325"
+  },
+  {
+    "id": 84129,
+    "IDcode": "CJOD-327",
+    "title": "中出男潮-松本いちか 永瀬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "美少女电影",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/06/ca85bb23ab41d533be768375ea99f4a5.jpg",
+    "actress": [
+      "松本一香",
+      "永瀬ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-327"
+  },
+  {
+    "id": 84114,
+    "IDcode": "CJOD-328",
+    "title": "地味メガネ巨乳無制限射精ソープ 乳首ビンビンでご奉仕してくるW肉感ボディに密着挟まれ15発もイカされる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "中出",
+      "巨乳",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2021-12-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/e141d683d262146621bdcaba8136415b.jpg",
+    "actress": [
+      "推川悠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-328"
+  },
+  {
+    "id": 84108,
+    "IDcode": "CJOD-332",
+    "title": "無制限射精-初川みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "荡妇",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/11/a4904e44975a9a581ee829aa1f4affe9.jpg",
+    "actress": [
+      "初川南"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-332"
+  },
+  {
+    "id": 80903,
+    "IDcode": "CJOD-333",
+    "title": "義妹三人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "制服",
+      "多P",
+      "颜射",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/15/b899859c6e2183ceee1b912472431102.jpg",
+    "actress": [
+      "松本一香",
+      "渚光希",
+      "久留木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-333"
+  },
+  {
+    "id": 84109,
+    "IDcode": "CJOD-337",
+    "title": "两个肮脏的情妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "两女一男",
+      "女上位",
+      "中出",
+      "多P",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/30/9804fbede4bf1103078ca8b6d6c1bb0b.jpg",
+    "actress": [
+      "藤森里穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-337"
+  },
+  {
+    "id": 80442,
+    "IDcode": "CJOD-338",
+    "title": "乳首ビンビンで痴女ッてくる豊満ボディ温泉女将の卑猥な中出し接客。 夕季ちとせ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "女上位",
+      "中出",
+      "巨乳",
+      "单体作品",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2022-03-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/c3d94f4cf7e7dcb3cc47374ca69060d4.jpg",
+    "actress": [
+      "七草千歲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-338"
+  },
+  {
+    "id": 80421,
+    "IDcode": "CJOD-339",
+    "title": "被男性的潮水弄得傻傻的",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "多P",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/30/ab4aa8c373d71c7d0013b126ebe8b999.jpg",
+    "actress": [
+      "AIKA",
+      "小田切ジュン",
+      "REMI"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-339"
+  },
+  {
+    "id": 84113,
+    "IDcode": "CJOD-341",
+    "title": "ラブホ女子会に呼び出され朝までお泊り中出しさせられた僕 小悪魔女子二人に挟まれ甘サド淫語で痴女られる！ 木下ひまり 森日向子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "淫乱，真实",
+      "荡妇",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "2022-04-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/c48c2f498eb94fb525ff6083b6260bf8.jpg",
+    "actress": [
+      "森日向子",
+      "木下日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-341"
+  },
+  {
+    "id": 84105,
+    "IDcode": "CJOD-342",
+    "title": "担任女教師-JULIA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女教师",
+      "女上位",
+      "中出",
+      "巨乳",
+      "单体作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/05/06/ae8d5b24114811d1f39ec8802533262a.jpg",
+    "actress": [
+      "JULIA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-342"
+  },
+  {
+    "id": 84231,
+    "IDcode": "CJOD-348",
+    "title": "絶倫接客中出-佐山愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "女上位",
+      "中出",
+      "淫语",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "癡女特化",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/01/34c3d750534fa7e4c6f7e80545245943.jpg",
+    "actress": [
+      "佐山爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-348"
   }
 ];

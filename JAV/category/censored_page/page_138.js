@@ -1,1549 +1,2047 @@
 window.PAGE_DATA = [
   {
-    "id": 49662,
-    "IDcode": "CWPBD-54",
-    "title": "-猫步毒药-藤北彩香",
+    "id": 60999,
+    "IDcode": "GRMO-241",
+    "title": "素人男子のリアルSEX 32 ひさし君25歳",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/27/b218a9dbe63998630134553f6c80b010.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-54"
-  },
-  {
-    "id": 2023,
-    "IDcode": "CWPBD-57",
-    "title": "-猫步毒药-前田陽菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/54c8cd04/vod.jpg",
-    "actress": [
-      "前田阳菜"
+    "genres": [
+      "业余",
+      "给女性观众",
+      "素人作品",
+      "纪录片",
+      "单体作品",
+      "苗条",
+      "素人"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-57"
-  },
-  {
-    "id": 35410,
-    "IDcode": "CWPBD-58",
-    "title": "-猫步毒药-绫濑妃亚罗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/23/6a9fa331bd2bbbc1e2b3e5203b5031dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-58"
-  },
-  {
-    "id": 1863,
-    "IDcode": "CWPBD-59",
-    "title": "-猫步毒药-杏树纱奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/25/ae8d7badd204c4e42d9a0d30e03fc70f.jpg",
-    "actress": [
-      "杏樹紗奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-59"
-  },
-  {
-    "id": 49654,
-    "IDcode": "CWPBD-60",
-    "title": "-猫步毒药-優木まみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/30/6c80c4282d95c974dd3021600e6817dd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-60"
-  },
-  {
-    "id": 1794,
-    "IDcode": "CWPBD-61",
-    "title": "-猫步毒药-遥惠美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/04/fc02941c/vod.jpg",
-    "actress": [
-      "遥惠美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-61"
-  },
-  {
-    "id": 35373,
-    "IDcode": "CWPBD-63",
-    "title": "-猫步毒药-爱原爱蕾娜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/04/685956e9db8849a72d9e983db982a0c4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-63"
-  },
-  {
-    "id": 49611,
-    "IDcode": "CWPBD-64",
-    "title": "-猫步毒药-香澄优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/cfa84668/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-64"
-  },
-  {
-    "id": 49609,
-    "IDcode": "CWPBD-65",
-    "title": "-猫步毒药-京野七香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/2bf4f425/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-65"
-  },
-  {
-    "id": 2006,
-    "IDcode": "CWPBD-66",
-    "title": "-猫步毒药-永泽真央美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/73f7f2db/vod.jpg",
-    "actress": [
-      "水澤真央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-66"
-  },
-  {
-    "id": 1956,
-    "IDcode": "CWPBD-67",
-    "title": "-猫步毒药-前田陽菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/06/255d7e2837b72afa15fc0b551458a8a3.jpg",
-    "actress": [
-      "前田阳菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-67"
-  },
-  {
-    "id": 1770,
-    "IDcode": "CWPBD-68",
-    "title": "-猫步毒药-Maika",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/ff429e47/vod.jpg",
-    "actress": [
-      "Maika（MEW）"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-68"
-  },
-  {
-    "id": 1850,
-    "IDcode": "CWPBD-69",
-    "title": "マゾ乳生姦～小沢アリス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/11/28/QQ20191128110236d02e7.jpg",
-    "actress": [
-      "小澤愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-69"
-  },
-  {
-    "id": 1719,
-    "IDcode": "CWPBD-70",
-    "title": "-猫步毒药-青山沙希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/16/e0bc7fa782dd459ea640b59bd422b153.jpg",
-    "actress": [
-      "青山沙希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-70"
-  },
-  {
-    "id": 49596,
-    "IDcode": "CWPBD-72",
-    "title": "-猫步毒药-水沢杏香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/16/7ba8639265f92b861b122b7b0002cc30.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-72"
-  },
-  {
-    "id": 1775,
-    "IDcode": "CWPBD-73",
-    "title": "-猫步毒药-茉莉香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/16/d2179392527b0ffd1039ebd82592714a.jpg",
-    "actress": [
-      "長谷真理香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-73"
-  },
-  {
-    "id": 181099,
-    "IDcode": "CWPBD-74",
-    "title": "-猫步毒药-优希麻琴",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/21/6b17ae029a875be12802b9d9e05b4479.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-74"
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/4b925173550dc5eb870c282b25012df3.jpg",
+    "actress": [
+      "葉月ひな",
+      "安倍亜沙美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRMO-241"
   },
   {
-    "id": 181098,
-    "IDcode": "CWPBD-75",
-    "title": "-猫步毒药-北岛玲",
+    "id": 60372,
+    "IDcode": "GROO-066",
+    "title": "groovin’ stripdance 超ミニスカ女子校生6",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "内衣",
+      "跳舞",
+      "恋物癖",
+      "高中女生",
+      "屁股"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/21/aba1d6670a6853e46a4ab930692b8e14.jpg",
+    "cover_url": "https://tutu1.space/images/2025/09/25/4bf73f047e587deec5355ad8e5a90206.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-75"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GROO-066"
   },
   {
-    "id": 1817,
-    "IDcode": "CWPBD-76",
-    "title": "芸能人と接吻-麻生めい",
+    "id": 66361,
+    "IDcode": "GRSD-001",
+    "title": "SNAPin GIRLs Vol.1",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/24/QQ2020062419155070b8d.jpg",
-    "actress": [
-      "麻生芽依"
+    "genres": [
+      "业余",
+      "女大学生",
+      "玩具",
+      "巨乳",
+      "4小时以上作品"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-76"
-  },
-  {
-    "id": 49551,
-    "IDcode": "CWPBD-77",
-    "title": "-猫步毒药-水菜唯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/28/ccd0e37ee0f34073aa21587fbfb63dfd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-77"
-  },
-  {
-    "id": 2038,
-    "IDcode": "CWPBD-78",
-    "title": "春日由衣のJAPORN初降臨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/09/03/QQ201909040713460faee.jpg",
-    "actress": [
-      "春日由衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-78"
-  },
-  {
-    "id": 1915,
-    "IDcode": "CWPBD-79",
-    "title": "お漏らし＠美少女-上原結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/09/03/QQ2019090407134638aef.jpg",
-    "actress": [
-      "上原結衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-79"
-  },
-  {
-    "id": 1823,
-    "IDcode": "CWPBD-80",
-    "title": "-猫步毒药-冲瞳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/24/cda0df8d62285e951e834b733c544249.jpg",
-    "actress": [
-      "沖仁美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-80"
-  },
-  {
-    "id": 1844,
-    "IDcode": "CWPBD-82",
-    "title": "密着度120%-みづなれい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/23/QQ202006231740262eaeb.jpg",
-    "actress": [
-      "水菜麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-82"
-  },
-  {
-    "id": 49557,
-    "IDcode": "CWPBD-83",
-    "title": "-猫步毒药-新山枫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/27/b623fcd3e647384df7c3524f2b31b899.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-83"
-  },
-  {
-    "id": 1943,
-    "IDcode": "CWPBD-84",
-    "title": "-猫步毒药-石原步",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/04/3123d74707252a938885799c132ac32c.jpg",
-    "actress": [
-      "石原あゆむ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-84"
-  },
-  {
-    "id": 49529,
-    "IDcode": "CWPBD-85",
-    "title": "-猫步毒药-水原芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "CATWALK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/0fee0ea4/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-85"
-  },
-  {
-    "id": 179004,
-    "IDcode": "CWPBD-86",
-    "title": "-猫步毒药-泷川苏菲亚",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/02/f7c6f3ad7a3f80fb54d9f415909749f8.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/026e7feed5ffc8931c25b6fb4feb61a7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-86"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRSD-001"
   },
   {
-    "id": 59653,
-    "IDcode": "CWPBD-87",
-    "title": "猫步毒药西园寺铃央",
+    "id": 178851,
+    "IDcode": "GRSD-002",
+    "title": "SNAPin GIRLs Vol.2",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "CATWALK",
+    "company": "",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240624-1/e291193d4d835a1545eafb57170d243a.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/01/96b031d51e7d17477ce6fb93c137956f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-87"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRSD-002"
   },
   {
-    "id": 2066,
-    "IDcode": "CWPBD-99",
-    "title": "筱田优下马露出粉嫩美鲍",
+    "id": 223801,
+    "IDcode": "GS-073",
+    "title": "一个在图书馆工作的严肃女人",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "CATWALK",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/146c711acb24bba252c78adc6173bc8e.jpg",
-    "actress": [
-      "篠田優"
+    "cover_url": "https://tutu1.space/images/2022/07/26/f34b74478a8a5a70bf3977cad1138e09.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-073"
+  },
+  {
+    "id": 166485,
+    "IDcode": "GS-099",
+    "title": "大叔按摩師被OL誘姦榨精！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-99"
-  },
-  {
-    "id": 173861,
-    "IDcode": "CXD-017",
-    "title": "誘惑、女教師。 葉山さゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/04/a70b26b43c54e359c39be581f7828633.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/odazp2pdi2x.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CXD-017"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-099"
   },
   {
-    "id": 103702,
-    "IDcode": "DA-004",
-    "title": "OH！！モーレツ熟女四人衆 電動バイブオナニー 4",
+    "id": 166486,
+    "IDcode": "GS-102",
+    "title": "手指狂揉敏感陰蒂愛撫性交吉澤明步",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2012-07-21",
-    "cover_url": "https://tutu1.space/images/2023/02/11/7741f69613a680989b7cd7424134d7e0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DA-004"
-  },
-  {
-    "id": 92609,
-    "IDcode": "DAB-111",
-    "title": "DAB111青春汁まみれみずみずしくフレッシュなつるぺたパイパンボディから汁、汗、潮、精子が弾け飛ぶ！どっぴゅん13発！！この可愛さクセになるっ！！！松本一香。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/5d022600315fa621742ef10729881152.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAB-111"
-  },
-  {
-    "id": 83084,
-    "IDcode": "DAC-001",
-    "title": "どっく あまちゅあ ちゃんねる vol.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2020-01-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221218-1/5d0419144757caafb5047e722059172b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAC-001"
-  },
-  {
-    "id": 82389,
-    "IDcode": "DAKH-004",
-    "title": "被敌人捉住的公主悲惨的命运淫蜜媚肉调教-妃月るい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-2/a609bb72fdbf83906a66a49260f49afd.jpg",
-    "actress": [
-      "妃月るい"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAKH-004"
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/z1ywydax2gy.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-102"
   },
   {
-    "id": 10166,
-    "IDcode": "DAL-002",
-    "title": "超ハイクラスAI巨乳ソープ嬢 鳳ユメ",
+    "id": 166487,
+    "IDcode": "GS-103",
+    "title": "變態大叔激情絕頂交尾咲野乃花",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/b52b59ef/vod.jpg",
-    "actress": [
-      "鳳ユメ"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAL-002"
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/h3ybhgizzzf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-103"
   },
   {
-    "id": 6503,
-    "IDcode": "DAL-006",
-    "title": "合法貧乳AI蘿莉娘！思春期的小莉莉和大屌大叔的禁斷激情！瞞着爸媽瘋狂幹炮的溫泉旅行記錄",
+    "id": 166488,
+    "IDcode": "GS-104",
+    "title": "帶妻子去夫妻茶店卻看她舔其他男人肉棒到發狂…吉澤明步",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DOC",
-    "publish_date": "2025-05-02",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501041405273273_thumbnail.webp",
-    "actress": [
-      "花野井りり"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAL-006"
-  },
-  {
-    "id": 2982,
-    "IDcode": "DAL-008",
-    "title": "【AI×塩メスガキ】舐メ腐リ制服女子→生チ●ポ理解ラセ→中出シ完堕チ×4名",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "DOC",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/8f881aeb/vod.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/3uf1t3gpzh5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAL-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-104"
   },
   {
-    "id": 4169,
-    "IDcode": "DAMX-012",
-    "title": "出張メンズエステ（秘）撮影VOL.6",
+    "id": 166479,
+    "IDcode": "GS-107",
+    "title": "追擊抽插即刻開幹吉澤明步",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "Dama",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/4c6b73a32d1839221f72b4c6fdb354af.jpg",
-    "actress": [
-      "永野鈴",
-      "七原紗由",
-      "宇佐美すい",
-      "安藤春"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAMX-012"
-  },
-  {
-    "id": 174905,
-    "IDcode": "DAMX-013",
-    "title": "出張メンズエステ（秘）撮影VOL.7",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/727ce37147a8353719df4b737c22245e.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/up3ve0nlxzz.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAMX-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-107"
   },
   {
-    "id": 213687,
-    "IDcode": "dandan-015",
-    "title": "紧身连体衣的透明臀部",
+    "id": 166480,
+    "IDcode": "GS-109",
+    "title": "在廁所遇到暴露狂大姊！發情哀求我肏翻她！",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/01/ed43652a290b31ceff5f6604cc7c1ea2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=dandan-015"
-  },
-  {
-    "id": 219602,
-    "IDcode": "DANDY-118",
-    "title": "无辜的女学生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/21/1ea77d7e714d9008632f126435a35203.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-118"
-  },
-  {
-    "id": 210760,
-    "IDcode": "dandy-414",
-    "title": "黒人中出-篠田あゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/02/375f5d2de447e4b0a1272cf36c5db1bf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=dandy-414"
-  },
-  {
-    "id": 102145,
-    "IDcode": "DANDY-568",
-    "title": "中文字幕 「早漏の相談中に我慢できず暴発したら優しくゆっくり改善セックスしてくれた看護師さん」VOL.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2023/01/4ufs5nxuzou.jpg",
-    "actress": [
-      "佐倉陽菜",
-      "安部未華子",
-      "霧島さくら",
-      "吉川爱美"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-568"
-  },
-  {
-    "id": 71748,
-    "IDcode": "DANDY-605",
-    "title": "「『第一次真的是欧巴桑没关係吗？』 熟女优 儿玉留美在自家里帮忙无套破处内射」",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "DANDY",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241105-1/521fb5bcb697ee3fb6130a6e6a8f139e.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/im2imy1qsoa.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-605"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-109"
   },
   {
-    "id": 82382,
-    "IDcode": "DANDY-619",
-    "title": "満足できないイキたがり性欲女",
+    "id": 166481,
+    "IDcode": "GS-110",
+    "title": "性慾超威護士逆夜襲幹翻你！",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/11/29/QQ201911300606421c67b.jpg",
-    "actress": [
-      "大島愛里亞",
-      "宫崎彩",
-      "桥本丽华"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-619"
-  },
-  {
-    "id": 71750,
-    "IDcode": "DANDY-644",
-    "title": "「我抓住女上司的把柄让她晚上给我服务」VOL.1",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "DANDY",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241105-1/fc41d417f488196bc857bce8721399a5.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/0o054ik2sec.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-644"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-110"
   },
   {
-    "id": 71406,
-    "IDcode": "DANDY-658",
-    "title": "「透けパン尻をオカズに隠れせんずりをしようとしたら地味なおばさん看護師のパンツはまさかの食い込みTバック！？収まらない勃起チ○ポをTバック尻に押しつけたらヤられた」VOL.1",
+    "id": 210522,
+    "IDcode": "GS-116",
+    "title": "平时高高在上的女员工喜欢自慰",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "DANDY",
-    "publish_date": "2019-04-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250221-1/b9e117cbd1bf502d2832e2c2c1718360.jpg",
-    "actress": [
-      "姫川礼子",
-      "一ノ瀬あやめ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-658"
-  },
-  {
-    "id": 97482,
-    "IDcode": "DANDY-664",
-    "title": "「夜行バスで出会った痴女J○に淫語言葉責め唾液たっぷり手コキで焦らされて敏感になったチ○ポを連続でヤられた」VOL.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240725-1/b29942b7eeeb1e783f58482336a46dbf.jpg",
-    "actress": [
-      "皆月光",
-      "花宫レイ",
-      "皆野あい",
-      "七海ゆあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-664"
-  },
-  {
-    "id": 169252,
-    "IDcode": "DANDY-667-CN",
-    "title": "「痴漢した少年を死角に連れ込み精子が出なくなるまで説教射精させる痴女」VOL.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240726-1/201793976e0bc193deb3c5b232104612.jpg",
+    "cover_url": "https://tutu1.space/images/2020/10/12/68919f2e759429c2fd33bbe6f613a52b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-667-CN"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-116"
   },
   {
-    "id": 164679,
-    "IDcode": "DANDY-684",
-    "title": "中文字幕＜DANDYxひよこコラボ＞",
+    "id": 166482,
+    "IDcode": "GS-136",
+    "title": "ソソるミニスカギャルOLがいると噂の会社のトイレに清掃員のフリをして潜入！掃除するフリをして盗撮しながら勃起していたら…バレた！！すると、見せつけたわけでは無いのに、いきなりチ○ポ握られ強制セックス！？",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/3vilxobxqvp.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-684"
-  },
-  {
-    "id": 76674,
-    "IDcode": "DANDY-695",
-    "title": "ベビーカーを押しながらラブホテルに入る援交ギャル妻は騎乗位で生ハメしながら手コキをする凄テク★クソビッチ ひなさん 21歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "2019-12-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/c7719b9bc694d370488d5706f7e65117.jpg",
-    "actress": [
-      "七海雛",
-      "豊田爱菜"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-695"
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/yvhm2ejpibt.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-136"
   },
   {
-    "id": 83087,
-    "IDcode": "DANDY-696",
-    "title": "「女上司に惚れられ過ぎて彼女がそばにいるのにコソコソ誘惑（胸チラ/尻見せ/超密着）されてヤられた」VOL.1",
+    "id": 166483,
+    "IDcode": "GS-137",
+    "title": "息子の担任教師は巨乳でソソる女教師！息子の携帯電話を間違えて使ったら…なんとそこには半裸の担任女教師が大人のテクニックで生徒をフェラする写真が！？",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕",
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "DANDY",
-    "publish_date": "2020-01-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221218-1/8f3d6fcc1b3da89d93490de5a595a559.jpg",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/tmhbqqgp2z5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-137"
+  },
+  {
+    "id": 70728,
+    "IDcode": "GS-145",
+    "title": "買い物帰りの突然の雨にノーブラ＆パツパツシャツで慌てて男子トイレに飛び込んできたソソる奥様！どしゃぶりで外に出る事もできない2人の微妙な時間…ムラムラ勃起してきたボクに気付いた奥様は体を拭いてあげると言いながら股間を触ってきて…！？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "手淫",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2017-10-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250226-1/54b5f0b7749d1de12ad729ece1dbcb28.jpg",
     "actress": [
-      "大浦真奈美",
-      "河北春菜",
-      "イセドン内村",
+      "若槻みづな",
       "タツ",
-      "森本つぐみ"
+      "西园さくや",
+      "堀越なぎさ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-696"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-145"
   },
   {
-    "id": 98252,
-    "IDcode": "DANDY-703",
-    "title": "中文字幕「愛する妻が絶倫AV男優に抱かれ感じてい",
+    "id": 210325,
+    "IDcode": "GS-153",
+    "title": "万引き少女",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "DANDY",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/wm134vqq2db.jpg",
-    "actress": [
-      "葵百合香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-703"
-  },
-  {
-    "id": 98346,
-    "IDcode": "DANDY-705",
-    "title": "中文字幕「独身中年オヤジを欲情させてしまった巨乳介護士は世話好き過ぎて射精介助も拒まない」VOL",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/pyskwuiulrs.jpg",
-    "actress": [
-      "葵百合香",
-      "本真友里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-705"
-  },
-  {
-    "id": 82372,
-    "IDcode": "DANDY-709",
-    "title": "半夜来病房夜袭的白丝护士",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/6671fbbffe33d924861e8785862506dc.jpg",
-    "actress": [
-      "美園和花",
-      "通野未帆",
-      "八乃翼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-709"
-  },
-  {
-    "id": 88005,
-    "IDcode": "DANDY-711",
-    "title": "痴●を断れず濡れてしまう敏感女子○生を何度もつま先立ちバックでイカせまくる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "2020-04-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230903-1/c5e017fe55a808edaca38af03aa498ef.jpg",
-    "actress": [
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-711"
-  },
-  {
-    "id": 178972,
-    "IDcode": "dandy-724",
-    "title": "欲求不满的爆乳人妻故意在维修工人来家里的时候撑起奶子勾引诱惑做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/02/4ae21106/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/23/3978c2b554c65d5911d156a907b48ffa.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=dandy-724"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-153"
   },
   {
-    "id": 210281,
-    "IDcode": "dandy-729",
-    "title": "男士SPA的双飞疗程",
+    "id": 82820,
+    "IDcode": "GS-1964",
+    "title": "実録・近親相姦 特別番外篇［三十四］その後～",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/20/2c29e45b7b2b65aecaf486d9cd5c69a3.jpg",
+    "company": "GOGOS",
+    "publish_date": "2020-02-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/46333af7a1f8f8abff49eab9d5e97ad2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=dandy-729"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-1964"
   },
   {
-    "id": 79866,
-    "IDcode": "DANDY-778",
-    "title": "「看護師さんに惚れられ過ぎて彼女がそばにいるのにコソコソ誘惑（胸チラ/尻見せ/超密着）されてヤられた」VOL.2",
+    "id": 82612,
+    "IDcode": "GS-203",
+    "title": "暑くてパンツ丸出しで寝ている妹",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "2021-09-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9408ec04af6501e4b35fe2c667d2e21c.jpg",
-    "actress": [
-      "小梅惠奈",
-      "初爱ねんね"
+    "genres": [
+      "乱伦",
+      "妹妹",
+      "流汗",
+      "企画"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-778"
-  },
-  {
-    "id": 222220,
-    "IDcode": "DANDY-818",
-    "title": "机舱服务员有一个美丽的屁股",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/d1d14af74cd68f6cdde66676b1561fd1.jpg",
+    "cover_url": "https://tutu1.space/images/2019/08/12/QQ201908121600591bf61.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-818"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-203"
   },
   {
-    "id": 220606,
-    "IDcode": "DANDY-824",
-    "title": "我们一次又一次地在对方体内做爱",
+    "id": 6803,
+    "IDcode": "GS-2120",
+    "title": "人妻湯恋旅行171",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "美臀",
+      "美乳",
+      "NTR",
+      "手指插入",
+      "人妻",
+      "女上位",
+      "熟女",
+      "美人",
+      "淫語",
+      "濕身",
+      "素人",
+      "中出",
+      "高妹",
+      "慾求不滿",
+      "不倫",
+      "小隻馬",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "溫泉",
+      "潮吹",
+      "出軌",
+      "素人作品",
+      "美腳",
+      "旅行",
+      "企畫",
+      "羞恥",
+      "後入",
+      "口交",
+      "美人妻",
+      "騎乗位",
+      "地味"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/03/e6b768d55b5a0ef12be5564a52fc1659.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/b93c14936ffac4ca0470f5ce8fb0b7e0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-824"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2120"
   },
   {
-    "id": 170548,
-    "IDcode": "DANDY-824-C",
-    "title": "我无法抗拒一个美丽的CA无意识的面对面裤袜，当我立即与她性交时，我们的 黑川纱里奈 104",
+    "id": 6173,
+    "IDcode": "GS-2121",
+    "title": "人妻湯恋旅行172",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "NTR",
+      "人妻",
+      "女上位",
+      "熟女",
+      "劇情",
+      "濕身",
+      "素人",
+      "中出",
+      "不倫",
+      "色白",
+      "和服・浴衣・喪服",
+      "家庭主妇",
+      "溫泉",
+      "出軌",
+      "四十路",
+      "旅行",
+      "企畫",
+      "後入",
+      "口交",
+      "美人妻",
+      "寢取",
+      "騎乗位",
+      "地味",
+      "偷竊"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250502-1/f2e952bec3dd233eebb7643e3ed9472b.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250620-1/57e3db945462fe2cde47259ebc940028.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-824-C"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2121"
   },
   {
-    "id": 221710,
-    "IDcode": "DANDY-838",
-    "title": "在采精室与一个英俊的病人单独在一起",
+    "id": 3654,
+    "IDcode": "GS-2125",
+    "title": "人妻湯恋旅行174",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "美臀",
+      "美乳",
+      "NTR",
+      "手指插入",
+      "人妻",
+      "女上位",
+      "美人",
+      "劇情",
+      "美腿",
+      "濕身",
+      "素人",
+      "淫亂",
+      "豐滿",
+      "清楚系",
+      "形象俱樂部",
+      "中出",
+      "慾求不滿",
+      "不倫",
+      "色白",
+      "巨尻",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "溫泉",
+      "家庭主妇",
+      "出軌",
+      "美腳",
+      "旅行",
+      "羞恥",
+      "後入",
+      "舔陰",
+      "流汗",
+      "口交",
+      "美人妻",
+      "騎乗位",
+      "偷竊"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/20/d03a860d49a1f7baa39b485286a0ec00.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/eda96115/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-838"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2125"
   },
   {
-    "id": 4559,
-    "IDcode": "DANDY-899",
-    "title": "通行人は二度見する！ドラマの主人公のような不意打ち路上キスで火がついたホロ酔い人妻上司は浮気欲が止まらない",
+    "id": 2880,
+    "IDcode": "GS-2126",
+    "title": "不倫の果てに 番外篇 T智 39歳 不倫の果てに＃11・続",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/952d2a0dc65ffdf8adb93c87f7952556.jpg",
-    "actress": [
-      "優梨舞奈",
-      "本田桃",
-      "水川かえで"
+    "genres": [
+      "NTR",
+      "手指插入",
+      "真實拍攝",
+      "人妻",
+      "女上位",
+      "熟女",
+      "美人",
+      "貴婦",
+      "胖女人",
+      "素人",
+      "豐滿",
+      "中出",
+      "慾求不滿",
+      "不倫",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "溫泉",
+      "家庭主妇",
+      "潮吹",
+      "出軌",
+      "素人作品",
+      "四十路",
+      "旅行",
+      "企畫",
+      "後入",
+      "舔陰",
+      "口交",
+      "泳池",
+      "美人妻",
+      "騎乗位",
+      "地味",
+      "偷竊"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-899"
-  },
-  {
-    "id": 16403,
-    "IDcode": "DANDY-900",
-    "title": "偷拍高貴美女空姐-橘瑪麗",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "DANDY",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/ed8c73216174efc7a129b115c33d9de7.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-900"
-  },
-  {
-    "id": 105334,
-    "IDcode": "DANDY-907",
-    "title": "我伏击了一位下班后被拒绝打工的美容院美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240512-1/34b080013b2f45056efe85f702d65d87.jpg",
-    "actress": [
-      "岬梓沙"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-907"
-  },
-  {
-    "id": 11723,
-    "IDcode": "DANDY-932",
-    "title": "マスク越しのキスは最高の前戯！美淑女に満員状態で息がかかるほど密着したらベロキスを求められヤられたVOL.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/c48a8bb8/vod.jpg",
-    "actress": [
-      "乙愛麗絲",
-      "吉根柚莉爱",
-      "鈴木真夕"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-932"
-  },
-  {
-    "id": 11724,
-    "IDcode": "DANDY-938",
-    "title": "「あなたの赤ちゃん産ませてっ」サービスタイムラブホテル撮り！昼休みの1時間イチャラブ密会に溺れ好きで好きでたまらず同じ職場の男に中出しを迫る美人浮気妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/00d09ecf6095318df09442815ce7b074.jpg",
-    "actress": [
-      "鈴木真夕",
-      "織田真子",
-      "胡桃多惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-938"
-  },
-  {
-    "id": 175634,
-    "IDcode": "DANDY-939",
-    "title": "勃起したままの男を一切動かさないS字尻振り騎乗位エステで骨抜きにする美尻エステティシャン VOL.5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/9434b463/vod.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/fc9dcc62/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-939"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2126"
   },
   {
-    "id": 11353,
-    "IDcode": "DANDY-940",
-    "title": "内緒でエグい看護してくれた美人ナースを部屋に誘って生ハメしたら何度も求めるヤリマンだったVOL.2",
+    "id": 59824,
+    "IDcode": "GS-2127",
+    "title": "人妻湯恋旅行TheBest 2024.Apr-2024.Dec",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/12/c2096282256115d6cfc4be7bcf59006e.jpg",
-    "actress": [
-      "沙月惠奈"
+    "genres": [
+      "人妻"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-940"
-  },
-  {
-    "id": 11359,
-    "IDcode": "DANDY-941",
-    "title": "「撮った画像を見せていただけませんか？」間違えたフリしてチ○ポ画像を見せて赤面するおばさんCAは欲求不満のサインですVOL.2",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "DANDY",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/12/ad23122d7c8843e857ed63c8caa9cb4e.jpg",
-    "actress": [
-      "小松杏",
-      "美丘さとみ",
-      "上戶真理"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-941"
-  },
-  {
-    "id": 95589,
-    "IDcode": "DANDY-942",
-    "title": "ヤリマンな義妹のパンツの匂いを嗅いでいるのが見つかってどこでも顔騎されるようになりました",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/07/b8c44e8c2d7abb14f1c5e680f77ae52c.jpg",
+    "cover_url": "https://tutu1.space/images/2025/09/25/df9d369216d7e66c1a6c917b7d3ce50c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-942"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2127"
   },
   {
-    "id": 95587,
-    "IDcode": "DANDY-943",
-    "title": "先日、法事で帰省した時につい学生時代のノリで飲みすぎてテニサーの仲間たちと乱交してしまったんですが夫に伝えるべきでしょうか？",
+    "id": 2286,
+    "IDcode": "GS-2128",
+    "title": "人妻湯恋旅行175",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/07/56d45acb585287324ab61e7dc2482ca9.jpg",
-    "actress": [
-      "天馬唯"
+    "genres": [
+      "美乳",
+      "NTR",
+      "手指插入",
+      "真實拍攝",
+      "人妻",
+      "女上位",
+      "接吻",
+      "美人",
+      "美腿",
+      "濕身",
+      "素人",
+      "清楚系",
+      "形象俱樂部",
+      "慾求不滿",
+      "高妹",
+      "清純",
+      "色白",
+      "不倫",
+      "和服・浴衣・喪服",
+      "溫泉",
+      "出軌",
+      "三十路",
+      "美腳",
+      "旅行",
+      "企畫",
+      "後入",
+      "口爆",
+      "舔陰",
+      "口交",
+      "美人妻",
+      "騎乗位",
+      "偷竊"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-943"
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/11/9f1068a8/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2128"
   },
   {
-    "id": 10648,
-    "IDcode": "DANDY-944",
-    "title": "仕事終わりの蒸れたパンスト足を嗅ぎ舐められる快感を知った美脚OLが発情止まらずビリっと破いて穴あけ時短SEX",
+    "id": 174860,
+    "IDcode": "GS-2129",
+    "title": "裏・不倫の果てに 番外篇 T智 39歳 不倫の果てに＃11・続",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "DANDY",
+    "company": "GOGOS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/07e32a1091307c702c6f8dbfc81ef586.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/27/07db353862455b487194470ee796a696.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-2129"
+  },
+  {
+    "id": 70595,
+    "IDcode": "GS-249",
+    "title": "成为公司警备员在巡逻时发现到OL在自慰…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "OL",
+      "口交",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20241108-1/2ca83c213874d26adb0fb571551029a1.jpg",
     "actress": [
-      "美咲佳奈",
+      "小泉真理",
+      "神楽アイネ",
+      "竹内真琴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-249"
+  },
+  {
+    "id": 70732,
+    "IDcode": "GS-250",
+    "title": "いつも階段ですれ違うソソるミニスカお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "内衣",
+      "素人作品",
+      "迷你裙",
+      "按摩"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/plg2guwdioz.jpg",
+    "actress": [
+      "真田さな",
+      "藤川菜绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-250"
+  },
+  {
+    "id": 70723,
+    "IDcode": "GS-254",
+    "title": "慌ててブラジャーを付け忘れ教室に入って来た同級生の微乳ポッチン乳首！そんなソソるポッチン乳首の見え具合にイタズラ半分で冷やかしながら指で弾いてからかっていたら…「はあはあ」感じているじゃ無いか！？ヤバイ！彼女は大発情！！明らかに俺の股間を狙っている！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "平胸",
+      "校服",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2019-04-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250226-1/e384c0d6ec1f8e1dddc916a2cafd3f13.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-254"
+  },
+  {
+    "id": 71093,
+    "IDcode": "GS-266",
+    "title": "飲み会から酔っ払って帰って来た妹の無防備",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "烂醉如泥的",
+      "乱伦",
+      "妹妹"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/l5xagyfirgq.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-266"
+  },
+  {
+    "id": 102838,
+    "IDcode": "GS-268",
+    "title": "自宅に呼んだマッサージ嬢がオバサンかと思",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "按摩",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/rj1xahzrmfc.jpg",
+    "actress": [
+      "水卜麻衣奈",
+      "タツ",
+      "前田あこ",
+      "山中みさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-268"
+  },
+  {
+    "id": 70962,
+    "IDcode": "GS-275",
+    "title": "出張でやってきた暑い夏の旅館。湯上がりで着乱れた浴衣姿の若い女性が団扇であおぎながら外で涼んでいる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "和服，丧服",
+      "内衣",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2019-08-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250226-1/83ce94a6a857cf0722c1de0707f99996.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-275"
+  },
+  {
+    "id": 98212,
+    "IDcode": "GS-278",
+    "title": "深夜、初々しい女子社員が上司のチ○ポを喉の",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "OL",
+      "中出",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/jjbudb2mlkh.jpg",
+    "actress": [
       "黑川堇",
-      "堀内美香"
+      "有栖露露",
+      "后藤里香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-944"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-278"
   },
   {
-    "id": 177796,
-    "IDcode": "dandy-945",
-    "title": "内緒でエグいサービスしてくれたメンズエステ嬢を温泉旅行に誘って生ハメしたら何度も求めるヤリマンだった VOL.9",
+    "id": 97982,
+    "IDcode": "GS-281",
+    "title": "ソソる女子○生のパンティが見たい！",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕",
+      "高中女生",
+      "偷窥",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/gyu0ulsddhz.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-281"
+  },
+  {
+    "id": 98095,
+    "IDcode": "GS-282",
+    "title": "制服のスカートが短い妹は、いつも目の前",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "内衣",
+      "妹妹",
+      "运动短裤",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/tmzpcgf4kfl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-282"
+  },
+  {
+    "id": 98258,
+    "IDcode": "GS-283",
+    "title": "被一个新员工用精彩的口交勾引着",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/24/8f17345ac8ce0ef96e946c02551fed16.jpg",
+    "actress": [
+      "通野未帆",
+      "杉咲しずか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-283"
+  },
+  {
+    "id": 71013,
+    "IDcode": "GS-284",
+    "title": "黒パンストの高飛車女教師に媚薬を飲ませてみたら…！？普段からフェロモン出しまくりのソソる女教師！ヤリたくても落ちこぼれの生徒にはめっぽう厳しい！なので放課後スキを見て先生に媚薬を飲ませてみたら…だんだん媚薬が効いてきて…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "连裤袜",
+      "女教师"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2019-09-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250226-1/91c85e90e4040c0517b1f5ae87e6541c.jpg",
+    "actress": [
+      "百合川紗羅"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-284"
+  },
+  {
+    "id": 164672,
+    "IDcode": "GS-285",
+    "title": "忙しくて家事が出来ないのでハウスキーパーを頼ん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/ud51wtvzkvn.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-285"
+  },
+  {
+    "id": 71012,
+    "IDcode": "GS-287",
+    "title": "公寓型高级个室男性沙龙油压大姊 玩弄奶头到本番小穴美体！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "美容院",
+      "素人作品",
+      "姐姐",
+      "手淫"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20241108-1/6426e48f06bce48593cea4281aed1db9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-287"
+  },
+  {
+    "id": 71146,
+    "IDcode": "GS-288",
+    "title": "ソソる先輩女子社員と出張。するとボク",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "OL",
+      "中出",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/af2qtaa00r0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-288"
+  },
+  {
+    "id": 164892,
+    "IDcode": "GS-289",
+    "title": "大学のサークル仲間と廃墟ビル探索！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/twrkyk4tshz.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-289"
+  },
+  {
+    "id": 75876,
+    "IDcode": "GS-294",
+    "title": "エレベーターでソソるお姉さんと二人きり！痴漢し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "立即口交",
+      "素人作品",
+      "性骚扰",
+      "痴汉",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/wzj0i4ujs0p.jpg",
+    "actress": [
+      "通野未帆",
+      "香苗レノン",
+      "爱乃零"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-294"
+  },
+  {
+    "id": 164894,
+    "IDcode": "GS-295",
+    "title": "イタズラ好きな新人女子社員がどんどんエロ過ぎるイタズラを！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/xyasiyrod1q.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-295"
+  },
+  {
+    "id": 76786,
+    "IDcode": "GS-298",
+    "title": "妊娠中の奥さんのお見舞い帰り、ソソる看護師と背",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "素人作品",
+      "乳交",
+      "接吻",
+      "恋乳癖",
+      "护士",
+      "玩具",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/taztwzbuzoy.jpg",
+    "actress": [
+      "百瀬まひる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-298"
+  },
+  {
+    "id": 76784,
+    "IDcode": "GS-299",
+    "title": "エゲツナイほどセクシーな営業女子が俺一人しか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "内衣",
+      "各种职业",
+      "素人作品",
+      "性感的",
+      "中出",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/c4j5ownxlva.jpg",
+    "actress": [
+      "橘瑪麗",
+      "优梨まいな",
+      "苍风とわ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-299"
+  },
+  {
+    "id": 71145,
+    "IDcode": "GS-300",
+    "title": "三十路エロスでお色気全開！黒パンストにTバックのソソ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "连裤袜",
+      "中文字幕",
+      "内衣",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/3wjc53aey4f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-300"
+  },
+  {
+    "id": 76785,
+    "IDcode": "GS-301",
+    "title": "コレが伝説の枕営業！？突然マンションにやって",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "戏剧",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/qefgwghfn0y.jpg",
+    "actress": [
+      "南真悠",
+      "叶山りん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-301"
+  },
+  {
+    "id": 71218,
+    "IDcode": "GS-302",
+    "title": "女子生徒とソソる地下室探検 女子生徒に学校の地下",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "内衣",
+      "素人作品",
+      "中出",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/s50smlhyfwu.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-302"
+  },
+  {
+    "id": 76796,
+    "IDcode": "GS-306",
+    "title": "風邪で寝込んでいたら珍しく妹が看病してくれたんだけど…こっちが寝てると思って部屋を物色し始めた！すると見つけたエログッズに興奮し過ぎてパンチラ全開発情中！ その様子にソソられ勃起していると気付いた妹はチ○ポをイジリまくり！？寝たフリしていたけど…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "妹妹",
+      "内衣",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2020-01-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/0ee4db096dcff407c0d13d2d2348ca1d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-306"
+  },
+  {
+    "id": 76795,
+    "IDcode": "GS-308",
+    "title": "階段でソソるパンチラ盗撮をして楽しんでいた俺だが…見つかってしまった！気弱な俺は女子に怒られ、逃げる俺の家まで押しかけられ、ああ、もうヤバイと思っていたら…ニヤニヤし出した女子が勃起したチ○ポ見せなよと完全上目線で俺を性的玩具に！乳首を弄られビンビンな…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "骑乗位",
+      "内衣",
+      "偷窥"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2020-01-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/0c0b86f7e80f9cca1079eade87976abb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-308"
+  },
+  {
+    "id": 98262,
+    "IDcode": "GS-315",
+    "title": "「出張中で旦那がいなくて寂しい！」お",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "巨大屁股",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/5o3zcuxneu5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-315"
+  },
+  {
+    "id": 103052,
+    "IDcode": "GS-317",
+    "title": "体験入店の素人女子学生が多いという制服セク",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "女上位",
+      "恋乳癖",
+      "巨乳",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/qsdlhuzmeoq.jpg",
+    "actress": [
+      "里原あみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-317"
+  },
+  {
+    "id": 164662,
+    "IDcode": "GS-318",
+    "title": "ソソる女子と民泊ダブルブッキング少しでも旅費を安くしようと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/aqnfdb5kp3o.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-318"
+  },
+  {
+    "id": 82643,
+    "IDcode": "GS-321",
+    "title": "门锁了没带钥匙的高中妹被隔壁大叔带回家做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "水手服",
+      "投稿",
+      "高中女生",
+      "处女"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/13/6ac43023eebb26174f4241cffc23f9e4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-321"
+  },
+  {
+    "id": 81551,
+    "IDcode": "GS-325",
+    "title": "ボクの住んでるマンションには上京したての女子大生がわんさか住んでます。まだ都会に慣れてない初々しいソソる女子が背伸びをしてるのか短いスカートなんか履いて挨拶に来ます！！ある日家に帰ると、新歓コンパで飲まされたのかパンツ丸出しで廊下に倒れてるんです！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "内衣"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2020-04-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/da892955ac7c92a8315ab8eff478e919.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-325"
+  },
+  {
+    "id": 213223,
+    "IDcode": "GS-337",
+    "title": "单身男子独居的合租屋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/05/e4a3c551119a5e7098ea6c788edb83ca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-337"
+  },
+  {
+    "id": 219858,
+    "IDcode": "GS-374",
+    "title": "对一个兼职女孩进行性骚扰",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/03/007253dd4ea24964cf1c64e4ab30f5f3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-374"
+  },
+  {
+    "id": 212431,
+    "IDcode": "GS-395",
+    "title": "女子社員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/25/fc3647f477e4c7db7758bf70b9d2b0ce.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-395"
+  },
+  {
+    "id": 214391,
+    "IDcode": "GS-398",
+    "title": "好色的小姑娘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/11/a240efd1a4cd2585b145e274ea68c989.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-398"
+  },
+  {
+    "id": 213926,
+    "IDcode": "GS-404",
+    "title": "小悪魔妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/16/87d3abb8df1cb046169c1d4b26c05ac9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-404"
+  },
+  {
+    "id": 79485,
+    "IDcode": "GS-405",
+    "title": "エロすぎる女子大生家庭教師は、バカ息子の父兄に猛烈肉弾アピールで本番セックスも可能です！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "内衣",
+      "迷你裙",
+      "中出",
+      "家教"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "2021-09-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/669fe68b06ec97a44063cff0a1658edc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-405"
+  },
+  {
+    "id": 84462,
+    "IDcode": "GS-408",
+    "title": "小悪魔女子社員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "恋物癖",
+      "偷窥"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/09/357641499441de23a30b9f45077f9a8d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-408"
+  },
+  {
+    "id": 79934,
+    "IDcode": "GS-409",
+    "title": "隔壁的大奶子女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "舔阴",
+      "口交",
+      "姐姐",
+      "巨乳",
+      "跳蛋"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/10/00a3c35644cddd2065f31da6bad687bc.jpg",
+    "actress": [
+      "叶月もえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-409"
+  },
+  {
+    "id": 84484,
+    "IDcode": "GS-410",
+    "title": "一个漂亮的接待员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "迷你裙",
+      "中出",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/09/ec559fe02ccc8d066f3630f56bbe2282.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-410"
+  },
+  {
+    "id": 84486,
+    "IDcode": "GS-411",
+    "title": "機械情報サイト",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "内衣",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/09/3337e21792ba106f9cf2716b97650cc0.jpg",
+    "actress": [
+      "乃木遥",
+      "叶月もえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-411"
+  },
+  {
+    "id": 84483,
+    "IDcode": "GS-412",
+    "title": "被我朋友的小魔鬼女友勾引",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/09/7b30627cf009a409ab2b1d834e618f1a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-412"
+  },
+  {
+    "id": 84485,
+    "IDcode": "GS-413",
+    "title": "一个同事的年轻妻子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "新娘，年轻妻子",
+      "接吻",
+      "校服",
+      "中出",
+      "高中女生",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/09/fd720307f9ded7d04496c5b205c9f1ac.jpg",
+    "actress": [
+      "水谷あおい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-413"
+  },
+  {
+    "id": 215152,
+    "IDcode": "GS-415",
+    "title": "中层员工欢迎会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/20/d00348e46ace9472d4abb7df2c6aefdf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-415"
+  },
+  {
+    "id": 84489,
+    "IDcode": "GS-418",
+    "title": "已婚妇女的羞耻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "迷你裙",
+      "内衣",
+      "新娘，年轻妻子"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/09/27412af322130cac25e6b88506aa3fa0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-418"
+  },
+  {
+    "id": 216086,
+    "IDcode": "GS-419",
+    "title": "我的表妹突然来探望我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/12/56a35039f6165ff13f2b549ceadcb19a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-419"
+  },
+  {
+    "id": 216378,
+    "IDcode": "GS-420",
+    "title": "最热门的男士美容院",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/04/62b948a818faf8aac387a379f14a6661.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-420"
+  },
+  {
+    "id": 216430,
+    "IDcode": "GS-421",
+    "title": "和已经长成大人的表妹一起洗澡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/07/b61c4962f079d804c487f1f38388eb70.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-421"
+  },
+  {
+    "id": 84487,
+    "IDcode": "GS-434",
+    "title": "遭遇在男廁所露出的巨乳淫亂女 竟然有如此變態的大姐姐啊 玉木久留美 深月芽衣 夏海沙耶",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "已婚妇女",
+      "手指插入",
+      "各种职业",
+      "素人作品",
+      "中出",
+      "偷窥",
+      "姐姐",
+      "乱伦",
+      "巨乳",
+      "户外"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/04/df712ecc55963b08e7bf9cecf9352a72.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-434"
+  },
+  {
+    "id": 84463,
+    "IDcode": "GS-436",
+    "title": "新人女子社員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "自慰",
+      "出轨",
+      "已婚妇女",
+      "和服，丧服"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/08/d6fff7bc5d99bad10c4e9950cce08cec.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-436"
+  },
+  {
+    "id": 84464,
+    "IDcode": "GS-437",
+    "title": "一起洗澡的表妹已经长大了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "妹妹",
+      "内衣",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/09/fb7ee338746172ba723092b1a43a60e8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-437"
+  },
+  {
+    "id": 220167,
+    "IDcode": "GS-443",
+    "title": "住在隔壁的闷骚已婚妇女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/15/796ff0c2e307895b959e0d455790ad66.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-443"
+  },
+  {
+    "id": 66867,
+    "IDcode": "GS-444",
+    "title": "秘技回春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "乳液",
+      "美容院",
+      "按摩"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/14/37b871f974aaacbf1c54b627db9a8316.jpg",
+    "actress": [
+      "上野真奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-444"
+  },
+  {
+    "id": 160252,
+    "IDcode": "GS-444-C",
+    "title": "冲击体验！回春男性沙龙叫到自家服务 蛋蛋被精油按摩弄到爽爆 快感 横山夏希,泉莉音,弘崎ゆみな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250424-1/fbc4aef4c96a394b0c59b60ae6171178.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-444-C"
+  },
+  {
+    "id": 87216,
+    "IDcode": "GS-445",
+    "title": "她沉迷于公司内的风险性性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "OL",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/29/0f6fde4a327a0acf79a741fc01ebd284.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-445"
+  },
+  {
+    "id": 160249,
+    "IDcode": "GS-445-C",
+    "title": "和新入社员的浓厚社内不伦 兼职援交的新入社员 冒着风险的社内FUCK 桃香りり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250426-1/b012022605617cb992c4bf5b33dc94be.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-445-C"
+  },
+  {
+    "id": 67247,
+    "IDcode": "GS-446",
+    "title": "年轻火辣的女孩来到我家",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "浴衣"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/23/65aec5391616b2abd285b3c37f04c6e8.jpg",
+    "actress": [
+      "北泽瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-446"
+  },
+  {
+    "id": 67296,
+    "IDcode": "GS-447",
+    "title": "歌舞团经验的业余年轻妻子渴望挣钱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "和服，丧服"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/23/e47c18fad1c36bf2ff3c972913d8c383.jpg",
+    "actress": [
+      "望月ゆみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-447"
+  },
+  {
+    "id": 87218,
+    "IDcode": "GS-448",
+    "title": "哥哥的女朋友是个喜欢性爱的女人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女优按摩棒",
+      "口交",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/02/e985c1bd3e09ed0fafd63dc2a54ff39e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-448"
+  },
+  {
+    "id": 87217,
+    "IDcode": "GS-449",
+    "title": "梦想中的管家",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "口交",
+      "手淫"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/02/1b04f777cea9d3362fd3f6db0814ff81.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-449"
+  },
+  {
+    "id": 67181,
+    "IDcode": "GS-450",
+    "title": "純情女子大生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "女大学生"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/13/90807b29fce147f836092568f7cf9228.jpg",
+    "actress": [
+      "桃香りり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-450"
+  },
+  {
+    "id": 67183,
+    "IDcode": "GS-453",
+    "title": "我的表妹穿着丁字裤迷你裙来家里看我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "迷你裙",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/15/df595d8534a02569393045de241840c7.jpg",
+    "actress": [
+      "白雪ましろ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-453"
+  },
+  {
+    "id": 67184,
+    "IDcode": "GS-454",
+    "title": "年轻妻子的男士美容院",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "新娘，年轻妻子",
+      "内衣",
+      "女上位",
+      "制服",
+      "高中女生",
+      "手淫"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/28/6063498e339ecf7d66f3b51dd5d6772e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-454"
+  },
+  {
+    "id": 67231,
+    "IDcode": "GS-455",
+    "title": "一个发情的姐妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "苗条",
+      "戏剧",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/28/4f2e7f85f3b881976bebea49816302b6.jpg",
+    "actress": [
+      "星仲ここみ",
+      "川菜美铃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-455"
+  },
+  {
+    "id": 160260,
+    "IDcode": "GS-455-C",
+    "title": "和发情姐姐的超激活塞！空调坏掉的夏天 裸睡的我被姐姐看到… 星仲ここみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250426-1/bc0727f22e6b93252917cefa3f92e38b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-455-C"
+  },
+  {
+    "id": 221116,
+    "IDcode": "GS-456",
+    "title": "新入女子社員",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/03/fee31f1a5f7f5655b3e52e1fff597f95.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-456"
+  },
+  {
+    "id": 167206,
+    "IDcode": "GS-457",
+    "title": "年轻的妻子穿着大胆的迷你裙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/11/e1406458b89111213f3d126b38f10724.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-457"
+  },
+  {
+    "id": 67220,
+    "IDcode": "GS-458",
+    "title": "我在一家男士美容院完全勃起了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "乳液",
+      "按摩",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/2fd0c7ba118fe4af29589622684363b1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-458"
+  },
+  {
+    "id": 222372,
+    "IDcode": "GS-459",
+    "title": "丈夫经常出差我很孤独寂寞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GOGOS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/51dc73a7cae26f23582acb892ec6c34b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-459"
+  },
+  {
+    "id": 169952,
+    "IDcode": "GS294",
+    "title": "(HD)  在電梯與漂亮大姊兩人獨處！妄想的我…突然電梯緊急停止！[有碼高清]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "高清画质"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/e5f735f6/vod.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20241210-1/a07525f02773652f29e45bc3e46911a6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=dandy-945"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS294"
   },
   {
-    "id": 180618,
-    "IDcode": "DANDY-946",
-    "title": "初めて付き合った年上彼女はだいしゅきイラマホールドで喉奥まで欲しがるドM女子大生涙と涎まみれの笑顔で頼まれて喉射した精子を飲ませまくった",
+    "id": 169951,
+    "IDcode": "GS295",
+    "title": "(HD)  喜歡惡作劇的新人女子社員逐漸搞起淫蕩玩笑！？[有碼高清]",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕",
+      "高清画质"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/80697165/vod.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20241210-1/0f72be79c7a45783ebca0abdd40283b3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-946"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS295"
   },
   {
-    "id": 179908,
-    "IDcode": "DANDY-947",
-    "title": "「エッチな叔母さんでごめんね…」無防備な巨乳に勃起したらお願いしてないのに乳圧強めパイズリで何度もヌイてくれた",
+    "id": 61063,
+    "IDcode": "GSXFE-007",
+    "title": "ゆうか 俺のセフレ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/14463717/vod.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/d16f641278438640e604094443284d51.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-947"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSXFE-007"
   },
   {
-    "id": 180650,
-    "IDcode": "DANDY-948",
-    "title": "ヌキ無し人妻メンエスで出会ったおばさんセラピストと意気投合！店外デート中に勃起したらラブホに誘われ...ご休憩2時間で何度も中出しさせてくれました。VOL.2",
+    "id": 177200,
+    "IDcode": "GSY-035",
+    "title": "デカ乳首のドM薬剤師さん 狩集留美",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "素人Only",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/fd3f2231/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/13/9c934ecc1e4da4ab02ca51b4e1b2f521.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-948"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSY-035"
   },
   {
-    "id": 180678,
-    "IDcode": "DANDY-949",
-    "title": "湯の中でリモバイを挿れられ悶絶イキした女に媚リキッドを飲ませ味変レズを楽しむ変態ビアン",
+    "id": 82427,
+    "IDcode": "GTJ-061",
+    "title": "水野朝阳的捆绑SM体验",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "SM",
+      "捆绑",
+      "凌辱",
+      "多P",
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "DOGMA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/19/e13c40a1caa7f7105eda2612ba33423c.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250313-1/311f59e25dc12f889e8d95fe70b6394b.jpg",
+    "actress": [
+      "水野朝陽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-061"
+  },
+  {
+    "id": 71327,
+    "IDcode": "GTJ-065",
+    "title": "宫崎彩鬼畜捆绑冲刺阴道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "SM",
+      "捆绑",
+      "凌辱",
+      "萝莉塔",
+      "洗澡"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250305-1/446d5afc32be57f5a89cdf18997a8730.jpg",
+    "actress": [
+      "宫崎彩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-065"
+  },
+  {
+    "id": 218226,
+    "IDcode": "GTJ-066",
+    "title": "処刑拷問-神納花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/12/f9cc2d1b5b5abb4c602535e4980f563d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-949"
-  },
-  {
-    "id": 10014,
-    "IDcode": "DANDY-950",
-    "title": "「おばさんの下着でオナニーしてたでしょ？」息子の友達を軽い気持ちで誘惑入浴したら絶倫すぎて...精子がなくなるまで一晩中ヤられたシンママ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/224c97ba/vod.jpg",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-950"
-  },
-  {
-    "id": 10001,
-    "IDcode": "DANDY-951",
-    "title": "生意気童貞少年を精子が出なくなるまで説教しゃぶりで更生させるおばさん看護師",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/1a3fcbe8/vod.jpg",
-    "actress": [
-      "藤咲紫",
-      "川越ゆい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-951"
-  },
-  {
-    "id": 76621,
-    "IDcode": "DANDY-952",
-    "title": "「えっ！おばさんの私が？！」我が子の前で触られ必死に抵抗するも愛液を垂れ流し絶頂が止まらない巨尻母VOL.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/0401e0c1/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-952"
-  },
-  {
-    "id": 182965,
-    "IDcode": "DANDY-953",
-    "title": "欲求不満なおばさんセラピストたちにキャッキャ照れながら乳首をこねくり回され連続射精させられた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/7b66e5b6/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-953"
-  },
-  {
-    "id": 7759,
-    "IDcode": "DANDY-954",
-    "title": "内緒でエグい接客してくれた美人CAをホテルに誘って生ハメしたら何度も求めるヤリマンだったVOL.4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/ff04d555b3b05a46f3c5570ea3811995.jpg",
-    "actress": [
-      "辻井穗乃果"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-954"
-  },
-  {
-    "id": 9293,
-    "IDcode": "DANDY-955",
-    "title": "温泉でヤってしまった絶倫美少女が僕のデカチンにハマって家までついてきて何度もおねだり中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/43d86f3c/vod.jpg",
-    "actress": [
-      "由良佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-955"
-  },
-  {
-    "id": 9292,
-    "IDcode": "DANDY-956",
-    "title": "最終電車でド痴女とまさかの2人きり！座席で指オナする変態女の大量イキ潮がぶっかかり勃起したらヤられた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/f9abfb0e/vod.jpg",
-    "actress": [
-      "乙愛麗絲",
-      "浜崎真緒",
-      "皇柚子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-956"
-  },
-  {
-    "id": 9577,
-    "IDcode": "DANDY-957",
-    "title": "ヌキ無し人妻メンエスで出会ったおばさんセラピストと意気投合！2回目はラブホに呼んだら...ご休憩2時間で何度も中出しさせてくれました。VOL.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/3b4bea62/vod.jpg",
-    "actress": [
-      "水川潤"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-957"
-  },
-  {
-    "id": 73877,
-    "IDcode": "DANDY-958",
-    "title": "先生はレズビアン？！優しい家庭教師にマ○コが敏感過ぎて困っていると相談したばかりに早漏改善レズセックスをされてしまった敏感女子VOL.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/8e6a7b77d587d57ba755346a6a2c5a0f.jpg",
-    "actress": [
-      "皆月光",
-      "雅子裡菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-958"
-  },
-  {
-    "id": 8897,
-    "IDcode": "DANDY-959",
-    "title": "「私以外で勃起したら浮気だからね！」束縛妻にノーハンド嫉妬フェラで何度もしゃぶられ射精管理された絶倫夫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/5dc2a6d691875dde8b965f2025cf68d0.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-959"
-  },
-  {
-    "id": 5950,
-    "IDcode": "DANDY-960",
-    "title": "おちんちん大きくさせてごめんね」小さいから大丈夫だろうと女湯に一緒に入った甥っ子がお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/0da16178d2d0b4ce5b48a66929b928a0.jpg",
-    "actress": [
-      "森澤佳奈",
-      "辻井穗乃果"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-960"
-  },
-  {
-    "id": 72844,
-    "IDcode": "DANDY-961",
-    "title": "キスを断られた美人CAを仕事終わりに待ち伏せ！レズ堕ちするまで付きまとう潮吹きビアン女子大生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/4d9c8df7069ddbbe5eba9af985befd0c.jpg",
-    "actress": [
-      "月野香澄"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-961"
-  },
-  {
-    "id": 187441,
-    "IDcode": "DANDY-962",
-    "title": "寝取らせ夫の仕業とは知らず王様ゲームで他の男に胸を揉まれ感じていた愛しい妻VOL.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/b5900ef53042a4df36ae04c084a8392b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-962"
-  },
-  {
-    "id": 189286,
-    "IDcode": "DANDY-963",
-    "title": "股間まで3cm！シックスナイン施術でアソコの熱気が伝わるほど顔ギリギリに近づけ誘惑する美尻メンエス嬢 VOL.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/ffedac70db1f99acb18aca4568d3fd80.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-963"
-  },
-  {
-    "id": 189278,
-    "IDcode": "DANDY-964",
-    "title": "内緒でエグいサービスしてくれたメンズエステ嬢を温泉旅行に誘って生ハメしたら何度も求めるヤリマンだった VOL.10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/d54b42ed266a4d338b622639f0454029.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-964"
-  },
-  {
-    "id": 7757,
-    "IDcode": "DANDY-965",
-    "title": "父親がいない間に何度もセックスしたがる性欲が強すぎる義母は絶倫息子の生挿入も拒まないVOL.6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/18160350c6197cd3b9cb702f3b3ce038.jpg",
-    "actress": [
-      "藤沢麗央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-965"
-  },
-  {
-    "id": 7760,
-    "IDcode": "DANDY-966",
-    "title": "「私でよければお手伝いしましょうか？」地味巨乳看護師さんが僕のオナニーのお手伝い？！怪我でセンズリが上手くできない僕を見るに見かねて優しく乳首舐め手コキで射精させてくれた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/eea60468212e7483109223c15efc2df0.jpg",
-    "actress": [
-      "九井珠奈緒",
-      "星明日菜",
-      "綾瀬舞菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-966"
-  },
-  {
-    "id": 7411,
-    "IDcode": "DANDY-967",
-    "title": "「君たち仲間だったの？！」スカートがめくれっぱなしに気づかないパンチラを見ながら隠シコしてたら隣の子にバレて弱みを握られ何度もヤられた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/2202b22ae8e04935322713fda277c430.jpg",
-    "actress": [
-      "皆月光",
-      "花音うらら",
-      "雅子裡菜",
-      "小梅惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-967"
-  },
-  {
-    "id": 70626,
-    "IDcode": "DANDY-968",
-    "title": "うぶな男の子に冗談半分の挑発パンチラしたら超暴走！ 仕方なく射精させてあげても勃起は治まらず追いかけられて機内の死角でハメられまくる美人CA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/168cceb654cc92d4d8e878afc9463de0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-968"
-  },
-  {
-    "id": 68953,
-    "IDcode": "DANDY-969",
-    "title": "「私のフェラの方が気持ちいいでしょ？」ラブホ女子会に呼び出されヤリマン3人に抜かれまくった陰キャだけど絶倫デカチンな僕。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DANDY",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/7415fc778d3ee93489f6e445a5d52001.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-969"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-066"
   }
 ];

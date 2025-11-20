@@ -1,1593 +1,2490 @@
 window.PAGE_DATA = [
   {
-    "id": 14351,
-    "IDcode": "NPJS-035",
-    "title": "肌肉训练妹性欲超超超爱立刻做爱",
+    "id": 59768,
+    "IDcode": "TOTTE-254",
+    "title": "マジックミラー号ハードボイルド 街行く女子大生がハイレグの食い込みでチ〇コガード！ハイレグチンマン攻防チャレンジ！ 何度もモリマン クリ擦れでぬれぬれ羞恥！",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/fbe83b6abd8b463744cc6941ffe6c937.jpg",
-    "actress": [
-      "三岳祐奈"
+    "genres": [
+      "业余",
+      "潮吹",
+      "立即口交",
+      "4K",
+      "素人作品",
+      "中出",
+      "猎艳",
+      "女优按摩棒",
+      "企画",
+      "局部特写"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-035"
-  },
-  {
-    "id": 14342,
-    "IDcode": "NPJS-036",
-    "title": "赌博女默示录-新村あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/68a34b71ff4efe72b38b887d77a636ac.jpg",
-    "actress": [
-      "新村朱里",
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-036"
-  },
-  {
-    "id": 14277,
-    "IDcode": "NPJS-038",
-    "title": "虽然看起来是这样",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/a5b870075eed9eb3a7eec668ccfb69d3.jpg",
-    "actress": [
-      "大槻ゆりか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-038"
-  },
-  {
-    "id": 14287,
-    "IDcode": "NPJS-041",
-    "title": "普通女孩脱掉衣服的时代",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/6626c9db2d946ed5fc1bff0f8fe1fd30.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-041"
-  },
-  {
-    "id": 13653,
-    "IDcode": "NPJS-044",
-    "title": "賭女啓示錄～ 帕科拉編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628010345523523.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-044"
-  },
-  {
-    "id": 93593,
-    "IDcode": "NPJS-045K",
-    "title": "NPJS045Kカップ111cmヤレそうでヤレない調布の爆乳スナックママ行きつけのスナックのママさんの誕生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/56290e213ceed4b668a55e2fffa6f66c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-045K"
-  },
-  {
-    "id": 14345,
-    "IDcode": "NPJS-046",
-    "title": "一个非常好的女人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/72af2750979b728e69410430299ba0dd.jpg",
-    "actress": [
-      "春陽萌花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-046"
-  },
-  {
-    "id": 14344,
-    "IDcode": "NPJS-047",
-    "title": "如果你脱掉衣服我就会加入你",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/bdd32b68b6e0e5a6773f53ec26552352.jpg",
-    "actress": [
-      "宮西光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-047"
-  },
-  {
-    "id": 93577,
-    "IDcode": "NPJS-048",
-    "title": "骗老爷赚钱很好玩吗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/c6a1f9640c7a07312ff4066def79aaa5.jpg",
-    "actress": [
-      "水本葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-048"
-  },
-  {
-    "id": 13689,
-    "IDcode": "NPJS-050",
-    "title": "絞姦——計劃強奸毫無反抗能力的G罩杯女性，用專業技術將其擊倒昏倒出張按摩妹 ~ 白石なぎさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628010736159159.jpg",
-    "actress": [
-      "白石渚"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-050"
-  },
-  {
-    "id": 93588,
-    "IDcode": "NPJS-051",
-    "title": "黑丝大长腿-筒井愛彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/6d3db005877e51553fbbc13cd0a1de28.jpg",
-    "actress": [
-      "筒井愛彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-051"
-  },
-  {
-    "id": 93578,
-    "IDcode": "NPJS-052",
-    "title": "深夜只要到歌舞伎町-姫咲はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240809-1/4bd4bd7561bd347ff75b0ed7e025f832.jpg",
-    "actress": [
-      "姫咲華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-052"
-  },
-  {
-    "id": 13659,
-    "IDcode": "NPJS-055",
-    "title": "令人驚嘆的巨乳美女~在聚會上遇到大奶子女孩着迷！ ~ 辻井ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628004424480480.jpg",
-    "actress": [
-      "辻井穗乃果"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-055"
-  },
-  {
-    "id": 93586,
-    "IDcode": "NPJS-056",
-    "title": "劝诱人妻-友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/55bffe1bd30901b83d32415ccb94735d.jpg",
-    "actress": [
-      "友田彩也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-056"
-  },
-  {
-    "id": 13652,
-    "IDcode": "NPJS-057",
-    "title": "在老公回家前都很闲-都月流衣纱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240729-1/27ba0aa404b3539a5828f879b821ff95.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-057"
-  },
-  {
-    "id": 14278,
-    "IDcode": "NPJS-058",
-    "title": "騙錢然後被私人逮捕的女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531044121722722.jpg",
-    "actress": [
-      "雫月心桜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-058"
-  },
-  {
-    "id": 13008,
-    "IDcode": "NPJS-061",
-    "title": "網上約的充滿好奇想看男人雞巴的素人妹子，被同時6根雞巴操",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/202408020318574343.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-061"
-  },
-  {
-    "id": 12993,
-    "IDcode": "NPJS-062",
-    "title": "澀谷搭訕女大學生，咧着嘴口雞巴的感覺太好了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/202408020531443535.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-062"
-  },
-  {
-    "id": 10245,
-    "IDcode": "NPJS-063",
-    "title": "毫无经验的女御宅族",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241214-1/d892184d660f58a44d5a94d9548e8342.jpg",
-    "actress": [
-      "岡本莉里",
-      "向理来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-063"
-  },
-  {
-    "id": 13014,
-    "IDcode": "NPJS-066",
-    "title": "○○學校同學的媽媽，在接孩子的路上總是秀乳溝。我在等紅綠燈時喊了她一聲，然後就跟着她回家了。老公不在的時間9點⇒17點不間斷乳房享受無套性愛中出 ~ 森澤佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802021521391391.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-066"
-  },
-  {
-    "id": 12995,
-    "IDcode": "NPJS-067",
-    "title": "性价值消失之前使用约会应用程式发生性关係",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240824-1/77482e07179b7ae895eb7d3a5b690d4b.jpg",
-    "actress": [
-      "姫川かのん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-067"
-  },
-  {
-    "id": 12960,
-    "IDcode": "NPJS-068",
-    "title": "一直干到早上-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240823-1/a3874ec3c913849022ccc42275e95798.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-068"
-  },
-  {
-    "id": 13009,
-    "IDcode": "NPJS-069",
-    "title": "醉了的话什么都可以做-あおちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240824-1/2655072985112b6f264fa2555ad5ba1f.jpg",
-    "actress": [
-      "あおい藍"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-069"
-  },
-  {
-    "id": 12262,
-    "IDcode": "NPJS-071",
-    "title": "外表以外的超级肉食女子-三岳ゆうな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241027-1/29667f2f85cda77b269f8cf000fa7bf1.jpg",
-    "actress": [
-      "三岳祐奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-071"
-  },
-  {
-    "id": 12263,
-    "IDcode": "NPJS-073",
-    "title": "遇见成熟美型女生-木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241027-1/dcc70e23d4ef7772f7383524fecadd6f.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-073"
-  },
-  {
-    "id": 11655,
-    "IDcode": "NPJS-078",
-    "title": "超高級P活デートクラブの嘘プロフでホイホイ釣れたチョロいい女。 高収入に釣られて…高身長バリイケ高級ラウンジ嬢と勤務外チン媚びタダマン中出し7発 せな（21）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/29/99e40aac/vod.jpg",
-    "actress": [
-      "水瀨裡奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-078"
-  },
-  {
-    "id": 96415,
-    "IDcode": "NPJS-079",
-    "title": "性欲和酒量都很强的美女-都月るいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241027-1/0657331583f0184896c3db96512ba445.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-079"
-  },
-  {
-    "id": 11641,
-    "IDcode": "NPJS-082",
-    "title": "僕の愛人、紹介します。北海道の色白乳輪 超乳Lカップパイズリの天才",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/29/3efb9ae35c687102488bf8195dbf2e8c.jpg",
-    "actress": [
-      "白雪美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-082"
-  },
-  {
-    "id": 175151,
-    "IDcode": "NPJS-083",
-    "title": "新宿区●丁目レズバーでナンパ 男性興味なし レズ素人娘をチ●ポ堕ちするまで突きまくる！",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/29/855400d4/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/04/7921134f46ece8a901f30edddbf45984.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-254"
   },
   {
-    "id": 11624,
-    "IDcode": "NPJS-084",
-    "title": "＃兄妹流出 仲良し兄妹のイ●ン●ライブ配信動画流出 某SNSで何度も消されたあの動画のつづきが流出！！",
+    "id": 177408,
+    "IDcode": "TOTTE-255",
+    "title": "ハイレグチンマン攻防チャレンジ！ 何度もモリマン クリ擦れでぬれぬれ羞恥！緩んだマ〇コにデカチン即挿入の罰ゲーム！！～かんなちゃん編～",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/29/b998a384/vod.jpg",
-    "actress": [
-      "天馬唯"
+    "cover_url": "https://tutu1.space/images/2025/10/14/8d5ab6c36b4919ec454f97e4b406df0c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-255"
+  },
+  {
+    "id": 176495,
+    "IDcode": "TOTTE-256",
+    "title": "マジックミラー号 水着女子ギリギリディルド～あすかちゃん編～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/16/0987e9dc/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-256"
+  },
+  {
+    "id": 174531,
+    "IDcode": "TOTTE-257",
+    "title": "マジックミラー号 水着女子ギリギリディルド～もかちゃん編～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/01/c78c6c9124d0d4258a138132f4cfdc59.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-257"
+  },
+  {
+    "id": 173850,
+    "IDcode": "TOTTE-259",
+    "title": "マジックミラー号 水着女子ギリギリディルド～ひなたちゃん編～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/04/dfbdc515a3dba7213a52647cd70f0542.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOTTE-259"
+  },
+  {
+    "id": 213166,
+    "IDcode": "TPIN-004",
+    "title": "脱衣舞2021",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "椿鳳院",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/03/d870c67655c9fc134f3478be5d386cfd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-004"
+  },
+  {
+    "id": 222986,
+    "IDcode": "TPIN-012",
+    "title": "姐姐和操蛋的弟弟",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-084"
+    "type": "有码",
+    "company": "椿鳳院",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/3ebdbd839ff4bf55f00da8a8974b1a99.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-012"
   },
   {
-    "id": 11626,
-    "IDcode": "NPJS-085",
-    "title": "把高学历女大学生带进酒店-北冈果林",
+    "id": 68721,
+    "IDcode": "TPIN-031",
+    "title": "偷偷地插入了她的裙子",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241015-1/494603464c91f2d21aba2c177f056a36.jpg",
-    "actress": [
-      "松本梨穂"
+    "genres": [
+      "女上位",
+      "白天出轨",
+      "按摩",
+      "屁股",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-085"
+    "type": "有码",
+    "company": "椿鳳院",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/26/ca515f48a27632f8b0de70047ffb2814.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-031"
   },
   {
-    "id": 11628,
-    "IDcode": "NPJS-086",
-    "title": "做秘密行动的女大学生分娩健康女孩",
+    "id": 67833,
+    "IDcode": "TPIN-040",
+    "title": "国王游戏",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241015-1/eaab887e4ab05be9c2a04856d665b5bc.jpg",
-    "actress": [
-      "有棲奏羽"
+    "genres": [
+      "滥交",
+      "多P",
+      "偷窥",
+      "女同接吻"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-086"
+    "type": "有码",
+    "company": "椿鳳院",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/02/f839522571f5abf04b0a2b05e62fa167.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-040"
   },
   {
-    "id": 10920,
-    "IDcode": "NPJS-088",
-    "title": "性欲超强的她最喜欢的就是和坚实肉棒",
+    "id": 69108,
+    "IDcode": "TPIN-041",
+    "title": "与醉酒的女老板在路上的激情一吻",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241121-1/ca503cab89c5dd907119c476990715bc.jpg",
-    "actress": [
-      "水端麻美"
+    "genres": [
+      "出轨",
+      "中出",
+      "白天出轨"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-088"
-  },
-  {
-    "id": 10900,
-    "IDcode": "NPJS-090",
-    "title": "请睡走我的可爱女友吧-天月杏",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241121-1/ada5a2415d36299fbac7afceea48b618.jpg",
+    "cover_url": "https://tutu1.space/images/2022/11/23/a4234d543990b03c2816ea1aa940af38.jpg",
     "actress": [
-      "天月梓"
+      "武藤彩香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-041"
   },
   {
-    "id": 11629,
-    "IDcode": "NPJS-091",
-    "title": "高学历女大学生酒店带回家",
+    "id": 66899,
+    "IDcode": "TPIN-047",
+    "title": "在烤肉派对上的祝酒词",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "滥交",
+      "多P",
+      "中出",
+      "偷窥"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241015-1/3e6dd6024099cb5b000ab9ffac3cc24f.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/cee2cf63cfc4ffbd356e64f35e264496.jpg",
     "actress": [
-      "北岡果林"
+      "高梨有纱"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-047"
   },
   {
-    "id": 11600,
-    "IDcode": "NPJS-092",
-    "title": "一見大人しそうなのに…マッチングアプリで男漁りする衝撃のド迫力Hカップ女子。 犯●れたい願望で休日にドM懇願ハメ倒す。 職業看護師 みゆ（23）",
+    "id": 88914,
+    "IDcode": "TPIN-062",
+    "title": "不倫盗撮【生ドキュ神回】 女上司とイケメン営業部下が仕事をサボって昼からホテル 2",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "出轨",
+      "中出",
+      "偷窥"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/30/ef080d49eeafd725441c0187e9f6bd87.jpg",
+    "company": "椿鳳院",
+    "publish_date": "2023-09-12",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/041deac2df8434170ed8708867125f12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-062"
+  },
+  {
+    "id": 88915,
+    "IDcode": "TPIN-063",
+    "title": "【FANZA限定】僕の部屋はWデカ尻の誘惑から絶対に逃げれず100％ヤラれ放題のヤラれ部屋になりました 有加里ののか 雨宮凛 有加里ののかさんのランジェリー上下とチェキセット",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "多P",
+      "屁股",
+      "巨乳",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "椿鳳院",
+    "publish_date": "2023-10-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/6288b695b5c2ec6a2b6a44e5a77805e7.jpg",
     "actress": [
-      "山下望結"
+      "雨宫凛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-092"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-063"
   },
   {
-    "id": 10940,
-    "IDcode": "NPJS-093",
-    "title": "被困在床上",
+    "id": 88913,
+    "IDcode": "TPIN-064",
+    "title": "【FANZA限定】前略 幼馴染と私は結婚して夏の田舎で種付け中出し生活を過ごしてます。最高の2人暮らし 武藤あやか 上下ブラ・パンティとチェキセット",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "接吻",
+      "中出",
+      "单体作品",
+      "情侣"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241121-1/18bf8e537b8504d0f4dcaaa9a6aaf549.jpg",
+    "company": "椿鳳院",
+    "publish_date": "2023-10-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/b3a0b8de34183ffd6b0accea79dfbcc8.jpg",
     "actress": [
-      "夢川ほの香"
+      "武藤彩香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-093"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-064"
   },
   {
-    "id": 10246,
-    "IDcode": "NPJS-094",
-    "title": "釣りキチナンパ師が釣ガールをお持ち帰りして、ギャン泣きアクメ追い込み中出しし放題の追撃SEX！",
+    "id": 17320,
+    "IDcode": "TPIN-067",
+    "title": "性欲爆炸絶倫性魔人雙人組",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "放尿",
+      "雙飛",
+      "癡女",
+      "叛逆少女",
+      "中出",
+      "兩女一男",
+      "性感",
+      "艷遇",
+      "兩男兩女",
+      "多P",
+      "劇情",
+      "亂交 • 群P"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/26/a08968b2/vod.jpg",
+    "cover_url": "/upload/vod/20240123-1/fffd55eb7afe131e502423deae84b4d1.jpg",
     "actress": [
-      "杏可可"
+      "浜崎真緒",
+      "三田櫻",
+      "浜崎真绪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-094"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-067"
   },
   {
-    "id": 10899,
-    "IDcode": "NPJS-095",
-    "title": "一位有抱负的女播音员",
+    "id": 105487,
+    "IDcode": "TPIN-073",
+    "title": "离婚后在故乡和青梅竹马再会-月乃露娜",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "苗条",
+      "戏剧",
+      "童年朋友",
+      "中出"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241121-1/6fda34a5211c547b415ffae0871f4855.jpg",
+    "cover_url": "/upload/vod/20240413-1/e25e66d0c8780d4291457b0870faa579.jpg",
     "actress": [
-      "松井日奈子",
-      "東雲怜弥"
+      "月乃露娜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-095"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-073"
   },
   {
-    "id": 10921,
-    "IDcode": "NPJS-096",
-    "title": "「すごいセックスを知りたくてきました。」薄幸系早漏マン〇のむっつり上京素人娘’美乳’なぎさ（20）",
+    "id": 91867,
+    "IDcode": "TPIN-074",
+    "title": "女上司和帅哥部下一起翘班",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "出轨",
+      "OL",
+      "中出",
+      "偷窥"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/01/bc87aa3287d794bed1d4cb28de38ab16.jpg",
+    "cover_url": "/upload/vod/20240413-1/249276b9dcdf24c98745dfed4fe25d3d.jpg",
     "actress": [
-      "高城なぎさ"
+      "真木今日子",
+      "夏树カオル"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-096"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-074"
   },
   {
-    "id": 10249,
-    "IDcode": "NPJS-099",
-    "title": "复活咒语",
+    "id": 14772,
+    "IDcode": "TPIN-077",
+    "title": "老师勃起了吗",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "短裙・迷你裙",
+      "美臀",
+      "美乳",
+      "手指插入",
+      "女上位",
+      "淫亂",
+      "黑絲",
+      "學校",
+      "少女",
+      "乳交",
+      "按摩棒",
+      "中出",
+      "調教",
+      "美少女",
+      "苗條",
+      "顏射",
+      "脚控・戀足癖",
+      "絕頂高潮",
+      "JK校服",
+      "潮吹",
+      "胸控・戀乳癖",
+      "性感",
+      "無毛",
+      "美腳",
+      "巨乳",
+      "企畫",
+      "後入",
+      "辣妹/GAL系",
+      "舔陰",
+      "口交",
+      "美少女電影",
+      "騎乗位",
+      "女學生"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241214-1/b4b0abc167c95182d96990911760cbf1.jpg",
+    "cover_url": "/upload/vod/20240819-1/239e2753089b7b77eb32f28cb239ea81.jpg",
     "actress": [
-      "宇佐美すい"
+      "沙月惠奈",
+      "工藤拉拉",
+      "宝生めい"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-099"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-077"
   },
   {
-    "id": 11630,
-    "IDcode": "NPJS-100",
-    "title": "SNSで繋がった100cm極乳コスプレイヤー（20歳）変態ヲタク集団ガチ5P乱交 集団パイ揉みスペンス責めでエビ反り絶叫アクメ",
+    "id": 14715,
+    "IDcode": "TPIN-078",
+    "title": "我的学生5年前变成了一个女孩",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "短裙・迷你裙",
+      "美臀",
+      "飯店",
+      "美乳",
+      "女上位",
+      "少女",
+      "按摩棒",
+      "中出",
+      "不倫",
+      "美少女",
+      "苗條",
+      "絕頂高潮",
+      "潮吹",
+      "性感",
+      "美腳",
+      "企畫",
+      "後入",
+      "辣妹/GAL系",
+      "口交",
+      "美少女電影"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/30/54f71f2afdecafd3a770288414c4641a.jpg",
+    "cover_url": "/upload/vod/20240819-1/5566bb7a0940bfd176b6f4f996c32149.jpg",
     "actress": [
-      "辻いまる"
+      "河合乃乃花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-100"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-078"
   },
   {
-    "id": 11631,
-    "IDcode": "NPJS-101",
-    "title": "见到面后超速进入酒店-SACHIKA",
+    "id": 78336,
+    "IDcode": "TPIN-082",
+    "title": "长裙中的偷偷做爱-武藤あやか",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "口交",
+      "淫乱，真实",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241015-1/ac7a9288b7a5daf82bef71aadf2fed3c.jpg",
+    "cover_url": "/upload/vod/20241119-1/342987f681b74b4bcaad27dae83a4c65.jpg",
     "actress": [
-      "胡桃多惠"
+      "武藤彩香",
+      "工藤拉拉",
+      "一条美绪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-101"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-082"
   },
   {
-    "id": 11632,
-    "IDcode": "NPJS-103",
-    "title": "ナンバー1の秘密は…鬼枕！と噂の某高級ラウンジ首位の超イイ女とハメたい SEX＆酒大大大好き！",
+    "id": 174707,
+    "IDcode": "TPIN-085",
+    "title": "東京に5年前引っ越した幼馴染が超絶ギャル化して再会 誘惑されて童貞喪失と初めての中出し体験した夏の日の筆おろし 椿りか",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/30/3b86ceb4da93bf782c2f57d37680ee6a.jpg",
+    "cover_url": "https://tutu1.space/images/2025/11/02/f81806c9903415c529bd6aa4e96dbc5e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-085"
+  },
+  {
+    "id": 10019,
+    "IDcode": "TPIN-087",
+    "title": "僕の予約ミスと手違いが重なって出張先のホテルでまさかの相部屋 お仕置き痴女化したW女上司にめちゃくちゃイカされまくる甘サド逆3Pで搾り取られた夜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男・M女",
+      "美臀",
+      "飯店",
+      "美乳",
+      "手指插入",
+      "人妻",
+      "女上位",
+      "接吻",
+      "艷遇",
+      "劇情",
+      "亂交 • 群P",
+      "美腿",
+      "淫亂",
+      "黑絲",
+      "雙飛",
+      "舔腳",
+      "足交",
+      "癡女",
+      "形象俱樂部",
+      "中出",
+      "慾求不滿",
+      "兩女一男",
+      "多P",
+      "同住一屋・相部屋",
+      "奇異的",
+      "蠻橫嬌羞",
+      "3P・4P",
+      "絕頂高潮",
+      "脚控・戀足癖",
+      "潮吹",
+      "故事集",
+      "女王",
+      "出差",
+      "性感",
+      "美腳",
+      "女上司",
+      "巨乳",
+      "後入",
+      "口爆",
+      "奇聞趣事",
+      "蕩婦",
+      "舔陰",
+      "口交",
+      "OL",
+      "制服",
+      "美人妻",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "椿鳳院",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/21/d3980621/vod.jpg",
     "actress": [
-      "月野江翠"
+      "末広純",
+      "水端麻美",
+      "真木今日子",
+      "奥井楓"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-103"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-087"
   },
   {
-    "id": 10267,
-    "IDcode": "NPJS-106",
-    "title": "マッチングアプリでヒットしたのが、地方民の田舎娘だったので悩んだが、ワンチャン賭けて車で3時間飛ばして会いに行ったら玩具責め",
+    "id": 186995,
+    "IDcode": "TPIN-089",
+    "title": "前略 幼馴染と私は結婚して夏の田舎で種付け中出し生活を過ごしてます。最高の2人暮らし 逢見リカ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/b58f3aee480b4cde9fbb1a077e3beb40.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/91bc61a81b97c85c481fb29c460a16ac.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-089"
+  },
+  {
+    "id": 68230,
+    "IDcode": "TPIN-090",
+    "title": "妻子就在旁边",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "女上位",
+      "中出",
+      "白天出轨",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "椿鳳院",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250426-1/07b5d2a1acfd6dd36112cddb1582d9a2.jpg",
     "actress": [
-      "小坂七香"
+      "桐谷すずね",
+      "优梨まいな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-106"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-090"
   },
   {
-    "id": 10255,
-    "IDcode": "NPJS-107",
-    "title": "サウナ女子とSEX SNSで出会った趣味・サウナのアパレル店員（24）とプライベートサウナで巣ごもりSEX",
+    "id": 69478,
+    "IDcode": "TPIN-091",
+    "title": "【FANZA限定】ダブルHカップという奇跡の神展開で朝から晩まで何度も中出しさせられた超乳ハラスメント パンティ2枚とチェキセット",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "超乳",
+      "中出",
+      "淫乱，真实",
+      "角色扮演者",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/9bd27815/vod.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/08/9c0562be/vod.jpg",
     "actress": [
-      "鈴音まゆ"
+      "宝生めい",
+      "富井美帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-107"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-091"
   },
   {
-    "id": 10955,
-    "IDcode": "NPJS-108",
-    "title": "ネットでナンパした子が...元No.1ソープ嬢！？飛田新地の最高級ソープ店で5年間No.1に君臨し続けたAKARIだと...！？",
+    "id": 5471,
+    "IDcode": "TPIN-093",
+    "title": "大學社團老規矩，鄉下民宿打工卻陷入美艷女將與同學的禁忌三角戀 ~ 真木今日子 笠木一花",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "美臀",
+      "美乳",
+      "手指插入",
+      "女上位",
+      "美人",
+      "艷遇",
+      "劇情",
+      "淫亂",
+      "雙飛",
+      "超爆乳",
+      "形象俱樂部",
+      "中出",
+      "兩女一男",
+      "不倫",
+      "巨尻",
+      "和服・浴衣・喪服",
+      "絕頂高潮",
+      "胸控・戀乳癖",
+      "偶像",
+      "性感",
+      "巨乳",
+      "後入",
+      "舔陰",
+      "口交",
+      "野性",
+      "鄉下",
+      "騎乗位"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/19/457363287dc0280e063fce3c11303265.jpg",
+    "company": "椿鳳院",
+    "publish_date": "2025-06-07",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014910648648_thumbnail.webp",
     "actress": [
-      "Akari"
+      "真木今日子",
+      "笠木いちか"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-108"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-093"
   },
   {
-    "id": 7867,
-    "IDcode": "NPJS-109",
-    "title": "全国人妻背徳名鑑＃2 まやさん（38）",
+    "id": 61777,
+    "IDcode": "TPIN-095",
+    "title": "五十路になってパワーアップした親戚の絶倫Wおばさんに、痴女SEXで無限イキさせられた僕と妻",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "荡妇",
+      "滥交",
+      "成熟的女人",
+      "女同性恋"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/33c07a1c9acd96408455598b380d8acc.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/61802424/vod.jpg",
     "actress": [
-      "长濑麻美"
+      "美原すみれ",
+      "しみけん"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-109"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-095"
   },
   {
-    "id": 10254,
-    "IDcode": "NPJS-110",
-    "title": "全国人妻背徳名鑑 さおりさん",
+    "id": 180710,
+    "IDcode": "TPIN-096",
+    "title": "大学サークルの人気女子部員とその場のノリで××××ヤッちゃいました。 なぎさ（21歳）",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "椿鳳院",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/ca98e0a8f6af9f0522ad4259b9591a8a.jpg",
+    "cover_url": "https://tutu1.space/images/2025/09/19/9654e9210f0aef382db3c0f2cea22f73.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-096"
+  },
+  {
+    "id": 176091,
+    "IDcode": "TPIN-097",
+    "title": "うっとりエロ顔を見逃さない！！ 見てる人妻が発情する こだわりのセンズリ鑑賞10人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "椿鳳院",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/d4963822/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-097"
+  },
+  {
+    "id": 63808,
+    "IDcode": "TPNS-026",
+    "title": "芸能人級の極美少女レイヤーは脱いだら絶句【BIGマグナム級デカすぎマラ男の娘】鬼イラマ＆ケツマ●コ猛ピス絶頂イキ狂う超敏感ドM白状「全員分の精子ケツ穴で受け止めます」人生初5P乱交SEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交",
+      "女装人妖",
+      "肛交",
+      "角色扮演者",
+      "滥交",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250619-1/14a5a4f3850743077c3d240cb924b95d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-026"
+  },
+  {
+    "id": 189709,
+    "IDcode": "TPNS-028",
+    "title": "巨根すぎる男の娘ケツマ●コ連続挿入で絶頂イキ狂う本物ドM全身ぶっかけ精子を使って自慰おちんぽミルク発射どろどろザーメン漬け",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/7d119db6fcaa37aa4f19946ba8f7a471.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-028"
+  },
+  {
+    "id": 185227,
+    "IDcode": "TPNS-029",
+    "title": "脳バク確実 超敏感エビ反り絶叫イキまくり連続ザーメンぶっかけ＆全飲み人生初5P乱交SEXでドM淫乱覚醒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/03/0ba81d927c7e7840acf8636661265123.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-029"
+  },
+  {
+    "id": 59874,
+    "IDcode": "TPNS-030",
+    "title": "ドS女王様外見が美貌崩壊アへ顔ドM堕ち触られるだけで【ペニクリが黒光りフル勃起する超敏感男の娘】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肛交",
+      "角色扮演者",
+      "滥交",
+      "女装人妖"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/c189f868/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-030"
+  },
+  {
+    "id": 174542,
+    "IDcode": "TPNS-031",
+    "title": "出会って秒で野外絶頂 雑居ビルで即アナル交尾ペニクリデート＆「精子全員分ケツ穴で飲ませて下さい」尻マ●コ猛ピストン直ぶっかけ5P大乱交豪華2本立ドキュメントSP",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/01/76e784b1ac4abfbea437b8cacee5e5d3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPNS-031"
+  },
+  {
+    "id": 204065,
+    "IDcode": "TPPN-038",
+    "title": "汗液爱液融合的激情性爱-林由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240123-1/15f9c5a4c1ac059fe3577a4bdc76b7a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-038"
+  },
+  {
+    "id": 210095,
+    "IDcode": "TPPN-063",
+    "title": "汗尻 松嶋葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240119-18/795057fa998a7a008f3d156439631a86.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-063"
+  },
+  {
+    "id": 220135,
+    "IDcode": "TPPN-065",
+    "title": "溢出的爱液-香山美桜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/14/f4b254374e3dd6ae2ab9a6370cdc12ef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-065"
+  },
+  {
+    "id": 209780,
+    "IDcode": "TPPN-174",
+    "title": "性欲全解放性交-奏音かのん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/07/30/a78cb47ae6ca7a4b4e8e6c88053b65e0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-174"
+  },
+  {
+    "id": 212659,
+    "IDcode": "TPPN-19",
+    "title": "絶頂中出旅行-朝日奈かれん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/08/3e3cb4661dfb4aa62738c86f6f7f7e8b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-19"
+  },
+  {
+    "id": 212950,
+    "IDcode": "TPPN-197",
+    "title": "陰部痙攣-向井藍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/22/b570124b06b518725c492c70311a6b8c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-197"
+  },
+  {
+    "id": 213579,
+    "IDcode": "TPPN-198",
+    "title": "競泳水着-さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/25/353c8ba6431cabd31fb2a8a51ded53fc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-198"
+  },
+  {
+    "id": 79482,
+    "IDcode": "TPPN-203",
+    "title": "鉄板！初降臨！ ぶっかけ汗だく淫虐調教 肉棒に貫かれ大量精子をその身に受け続けた美少女はやがて肉欲の虜に… 深田結梨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "口交",
+      "流汗"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "2021-08-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/df4721205bca86f55e31fb49218a311c.jpg",
     "actress": [
-      "水川潤",
-      "由爱可奈"
+      "浅田结梨"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-203"
   },
   {
-    "id": 11601,
-    "IDcode": "NPJS-111",
-    "title": "【湧き上がるドM願望】喉奥と膣奥が性感帯。27歳、もうすぐ人妻 背徳のAV出演",
+    "id": 68670,
+    "IDcode": "TPPN-208",
+    "title": "興奮最高潮-川菜美鈴",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "流汗",
+      "玩具",
+      "多P",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/30/08e6bb08815d2ea7fca3fd3e10cedb95.jpg",
+    "cover_url": "https://tutu1.space/images/2022/07/07/b564eb5852b7bbf58c2fcf7f96a75656.jpg",
     "actress": [
-      "黒崎ねね"
+      "川菜美铃"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-111"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-208"
   },
   {
-    "id": 10250,
-    "IDcode": "NPJS-112",
-    "title": "能钓到鱼的好女人",
+    "id": 80106,
+    "IDcode": "TPPN-211",
+    "title": "极度愉悦的淫欲-のあういか",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "口交",
+      "女上位",
+      "流汗",
+      "手淫"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241214-1/faf339a5b42c50040f9e02c57b6c64cd.jpg",
+    "cover_url": "https://tutu1.space/images/2022/01/24/d5e02c1b8284e2c9ed11bdacb38db7b9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-211"
+  },
+  {
+    "id": 216106,
+    "IDcode": "TPPN-214",
+    "title": "汗水淋漓的到高潮-妃ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/12/0d96802e32d3395a25acfc130263a483.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-214"
+  },
+  {
+    "id": 216350,
+    "IDcode": "TPPN-215",
+    "title": "蛇長舌-辻井ほのか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/04/93d004fe248bdfbb47369b02e2948478.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-215"
+  },
+  {
+    "id": 223683,
+    "IDcode": "TPPN-216",
+    "title": "汗水淋漓的身体-夏川うみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/26/b105cd0a754aefca123cf1b59813b5a2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-216"
+  },
+  {
+    "id": 223681,
+    "IDcode": "TPPN-217",
+    "title": "巨乳美女-田原凛花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/26/0c3421fd8f6418ee0e11b211083f6aaf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-217"
+  },
+  {
+    "id": 216469,
+    "IDcode": "TPPN-218",
+    "title": "超級神美乳-結城りの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/09/a10c4ff9353bdd4fc350f8c4591238a6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-218"
+  },
+  {
+    "id": 223682,
+    "IDcode": "TPPN-219",
+    "title": "美巨乳-早見依桜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/26/5561e4008635bc6287b19b9542f97312.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-219"
+  },
+  {
+    "id": 80416,
+    "IDcode": "TPPN-220",
+    "title": "激震肉弾-水原みその",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "超乳",
+      "乳交",
+      "中出",
+      "流汗",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/29/f7fcccadec3fa2f0a0af2836957a22ca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-220"
+  },
+  {
+    "id": 80412,
+    "IDcode": "TPPN-222",
+    "title": "巨乳輪-美波もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "超乳",
+      "乳交",
+      "流汗",
+      "口交",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/04/03/8d262131144f0a8a8ebbaffc2579417c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-222"
+  },
+  {
+    "id": 218085,
+    "IDcode": "TPPN-224",
+    "title": "第一次拍摄中达到高潮-松本流佳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/04/c05617b5c469b547320bf28a0210796e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-224"
+  },
+  {
+    "id": 218084,
+    "IDcode": "TPPN-226",
+    "title": "严重出汗的高潮性爱-森日向子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/04/8cd2997dffc309fd07da60651d34df5c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-226"
+  },
+  {
+    "id": 218260,
+    "IDcode": "TPPN-227",
+    "title": "牛仔女郎姿势的性爱-沙月恵奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/14/fa7ef5d8652ee343b8bc69cedabdabd3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-227"
+  },
+  {
+    "id": 218162,
+    "IDcode": "TPPN-228",
+    "title": "性觉醒-花狩まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/08/3c68507c5313193a68eafbfa1d8d6d0c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-228"
+  },
+  {
+    "id": 86556,
+    "IDcode": "TPPN-230",
+    "title": "进行全天性交-小花のん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "立即口交",
+      "中出",
+      "流汗",
+      "巨乳",
+      "单体作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/11/95106e4036c3efa3a0b216b639e5c6e1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-230"
+  },
+  {
+    "id": 86509,
+    "IDcode": "TPPN-233",
+    "title": "种子压榨-新井リマ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "流汗",
+      "巨乳",
+      "单体作品",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/03/4774d374f5bb52eaaaadfebf51a1ff7d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-233"
+  },
+  {
+    "id": 167466,
+    "IDcode": "TPPN-234",
+    "title": "爆乳天使-てんしちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/a7305d64240696aa43675d45d409f7ce.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-234"
+  },
+  {
+    "id": 100594,
+    "IDcode": "TPPN-235",
+    "title": "最喜欢做爱的保育士-丸山结爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "首次亮相",
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "多P",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/a315ea57f36b82ac98cba561881f142f.jpg",
     "actress": [
-      "桐山ここみ"
+      "丸山結愛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-112"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-235"
   },
   {
-    "id": 8650,
-    "IDcode": "NPJS-113",
-    "title": "被带到外面接吻约会-逢沢美优",
+    "id": 88894,
+    "IDcode": "TPPN-236",
+    "title": "初次的禁欲生活-椎菜惠留",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中出",
+      "流汗",
+      "多P",
+      "巨乳",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250220-1/b5fa333e5e9f30814362f2596d4c8d81.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/f3733e166cb645c0922763c3017a0f38.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-236"
+  },
+  {
+    "id": 87670,
+    "IDcode": "TPPN-237",
+    "title": "昔のセフレと再会。今は人妻…空気椅子1cmハメで狂ったようにハメ倒した3日間の不倫中出し性交記録 九十九メイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "潮吹",
+      "出轨",
+      "人妻",
+      "中出",
+      "巨乳",
+      "单体作品",
+      "乳房"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20240225/tppn237pl.jpg!320x216.jpg",
     "actress": [
-      "逢澤美優"
+      "九十九メイ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-113"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-237"
   },
   {
-    "id": 8626,
-    "IDcode": "NPJS-114",
-    "title": "某ライブチャット人気配信者「ナ●キちゃん」のオフパコ募集に当選 ミニマムGカップが投げ銭リクエストで暴走 強烈パイズリ＆種搾り騎乗位",
+    "id": 88886,
+    "IDcode": "TPPN-238",
+    "title": "乳首コリコリ！滲み出る汗！中出しされて感度MAXのマ●コを追撃でかき回す！チクイキ絶頂汗だくセ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕",
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "口交",
+      "单体作品",
+      "美少女电影"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/3fb1739ad0747b7355d00b7a5be2b557.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20240401/tppn238pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-238"
+  },
+  {
+    "id": 88893,
+    "IDcode": "TPPN-239",
+    "title": "新人デビューで撮影してから数年…今は売れっ娘のお宅を訪問して狂ったようにハメまくった3日間の中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "乳交",
+      "中出",
+      "淫乱，真实",
+      "多P",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240331/tppn239pl.jpg!320x216.jpg",
+    "actress": [
+      "橘瑪麗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-239"
+  },
+  {
+    "id": 18744,
+    "IDcode": "TPPN-240",
+    "title": "乳首コリコリ！滲み出る汗！中出しされて感度MAXのマ●コを追撃でかき回す！チクイキ絶頂汗だくセックス 朝日りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫亂",
+      "中文字幕",
+      "美乳",
+      "胸控・戀乳癖",
+      "中出",
+      "流汗",
+      "性感",
+      "美腳",
+      "巨乳",
+      "苗條"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20240603/tppn240pl.jpg!320x216.jpg",
+    "actress": [
+      "朝日凜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-240"
+  },
+  {
+    "id": 88897,
+    "IDcode": "TPPN-241",
+    "title": "オイル×汗だく 全身ぬるテカで感度爆上がり爆乳ボディを身悶えるガチンコ中出しSEX 迫力おっぱいが更に輝く！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "中文字幕",
+      "恋乳癖",
+      "中出",
+      "流汗",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20240603/tppn241pl.jpg!320x216.jpg",
+    "actress": [
+      "弓乃凜夢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-241"
+  },
+  {
+    "id": 88898,
+    "IDcode": "TPPN-242",
+    "title": "美丽的乳房-弥生みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/3fd335acd1a258b06b790eca4a9e6642.jpg",
+    "actress": [
+      "弥生美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-242"
+  },
+  {
+    "id": 17646,
+    "IDcode": "TPPN-243",
+    "title": "理性在快乐中崩溃-花柳杏奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫亂",
+      "劇情",
+      "人妻",
+      "中出",
+      "流汗",
+      "口交",
+      "性感",
+      "多P",
+      "巨乳",
+      "3P・4P",
+      "亂交 • 群P",
+      "兩男一女",
+      "絕頂高潮"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/1c455015d31a6d761f1957e95673eb31.jpg",
+    "actress": [
+      "花柳杏奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-243"
+  },
+  {
+    "id": 89493,
+    "IDcode": "TPPN-244",
+    "title": "因为快感而理性崩坏-推川百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "成熟的女人",
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240123-1/131fe1a2519760e1f42af8610c8a724e.jpg",
+    "actress": [
+      "推川悠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-244"
+  },
+  {
+    "id": 16638,
+    "IDcode": "TPPN-245",
+    "title": "理性在快樂中崩潰。不可阻擋的高潮和覺醒出汗的中出性愛 乙愛麗絲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫亂",
+      "潮吹",
+      "美乳",
+      "辣妹/GAL系",
+      "胸控・戀乳癖",
+      "乳交",
+      "女上位",
+      "中出",
+      "流汗",
+      "口交",
+      "性感",
+      "短髮",
+      "巨乳",
+      "苗條",
+      "騎乗位",
+      "後入",
+      "內衣",
+      "絕頂高潮"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "2024-01-30",
+    "cover_url": "https://picture.yoshiclub.xyz/20240122/c6cf82e2-ca2e-4af4-b8d1-00bf1c2f5107.jpg",
+    "actress": [
+      "乙愛麗絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-245"
+  },
+  {
+    "id": 16061,
+    "IDcode": "TPPN-246",
+    "title": "理性在快樂中崩潰。不可阻擋的高潮和喚醒出汗的中出性愛 ~ 綾瀨心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫亂",
+      "美乳",
+      "辣妹/GAL系",
+      "中出",
+      "流汗",
+      "性感",
+      "美腳",
+      "美少女電影",
+      "巨乳",
+      "美腿",
+      "絕頂高潮"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "2024-02-27",
+    "cover_url": "https://picture.yoshiclub.xyz/20240226/1327fb81-15e9-4999-8a18-df2fbaccbe6f.jpg",
+    "actress": [
+      "绫濑心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-246"
+  },
+  {
+    "id": 104662,
+    "IDcode": "TPPN-249",
+    "title": "爆乳有岡美羽的愛汁噓答答",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240819-1/6bca60c596bc1aabaed40d1587a850f2.jpg",
+    "actress": [
+      "椎叶みくる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-249"
+  },
+  {
+    "id": 13772,
+    "IDcode": "TPPN-250",
+    "title": "打桩活塞和播种机射穿黏稠的阴道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "飯店",
+      "美乳",
+      "手指插入",
+      "女上位",
+      "情趣內衣",
+      "劇情",
+      "亂交 • 群P",
+      "淫亂",
+      "乳交",
+      "按摩棒",
+      "中出",
+      "美少女",
+      "顏射",
+      "內衣",
+      "絕頂高潮",
+      "潮吹",
+      "胸控・戀乳癖",
+      "性感",
+      "巨乳",
+      "跳蛋",
+      "羞恥",
+      "後入",
+      "蕩婦",
+      "舔陰",
+      "流汗",
+      "口交",
+      "美少女電影",
+      "深喉",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240722-1/1d7b53ca492c0dd4331d726e2df1f284.jpg",
     "actress": [
       "星乃夏月"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-114"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-250"
   },
   {
-    "id": 9408,
-    "IDcode": "NPJS-115",
-    "title": "ネオ昭和女子と海物語・夏デート 郊外の海水浴場にテント張っていちゃいちゃ。ホテルに入って激しくヤリまくった",
+    "id": 13150,
+    "IDcode": "TPPN-251",
+    "title": "做到满身是汗的绝顶SEX-水端麻美",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/03/a4bcbf469d6daebcda99b3c8f8a1340f.jpg",
-    "actress": [
-      "静河"
+    "genres": [
+      "手指插入",
+      "女上位",
+      "熟女",
+      "亂交 • 群P",
+      "淫亂",
+      "按摩棒",
+      "形象俱樂部",
+      "中出",
+      "苗條",
+      "3P・4P",
+      "脚控・戀足癖",
+      "絕頂高潮",
+      "潮吹",
+      "感官作品",
+      "性感",
+      "美腳",
+      "企畫",
+      "兩男一女",
+      "蕩婦",
+      "舔陰",
+      "女優",
+      "流汗",
+      "口交",
+      "美少女電影",
+      "深喉"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-115"
-  },
-  {
-    "id": 9409,
-    "IDcode": "NPJS-116",
-    "title": "在车站前遇到的美少女剧团团员AV出演",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250131-1/919a4a1a623f2dd5095c4c0db56da0f0.jpg",
+    "cover_url": "/upload/vod/20240921-3/ca8a682e7328dae291671ada93863216.jpg",
     "actress": [
-      "有馬美月"
+      "水端麻美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-116"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-251"
   },
   {
-    "id": 10264,
-    "IDcode": "NPJS-117",
-    "title": "●●学院ミスコン候補女子レ×プ動画流出 将来の女子アナ候補ドM奴●化輪●孕ませ計画",
+    "id": 78317,
+    "IDcode": "TPPN-252",
+    "title": "美巨乳柏木小夏",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "巨乳",
+      "单体作品",
+      "美少女电影"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/1578b720204507a57f8009e8c60f2ae7.jpg",
+    "cover_url": "/upload/vod/20241119-1/bd63b578136c7bf5116792c108ea03ee.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-252"
+  },
+  {
+    "id": 95287,
+    "IDcode": "TPPN-253",
+    "title": "幹幹色色鮑魚-天月杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241119-1/27eb2332be8fe627caa496d40c0c0936.jpg",
     "actress": [
-      "相月菜緒"
+      "天月梓"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-253"
   },
   {
-    "id": 9414,
-    "IDcode": "NPJS-119",
-    "title": "可以向你搭讪-小坂日葵",
+    "id": 11152,
+    "IDcode": "TPPN-254",
+    "title": "让美园和花爱液满溢的超激活塞",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250131-1/64a55501b9f348de64b6e31ca3c6e124.jpg",
-    "actress": [
-      "小坂ひまり"
+    "genres": [
+      "美臀",
+      "美乳",
+      "手指插入",
+      "女上位",
+      "情趣內衣",
+      "亂交 • 群P",
+      "美腿",
+      "淫亂",
+      "放尿",
+      "癡女",
+      "乳交",
+      "形象俱樂部",
+      "中出",
+      "色白",
+      "短髮",
+      "多P",
+      "巨尻",
+      "美少女",
+      "3P・4P",
+      "白眼失神",
+      "顏射",
+      "絕頂高潮",
+      "脚控・戀足癖",
+      "潮吹",
+      "胸控・戀乳癖",
+      "猥褻穿著",
+      "感官作品",
+      "性感",
+      "美腳",
+      "巨乳",
+      "企畫",
+      "兩男一女",
+      "後入",
+      "明星臉",
+      "口爆",
+      "舔陰",
+      "女優",
+      "流汗",
+      "口交",
+      "美少女電影",
+      "深喉",
+      "騎乗位"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-119"
-  },
-  {
-    "id": 9422,
-    "IDcode": "NPJS-121",
-    "title": "イ○スタで見つけた筋トレお姉さんは超超超超性欲強めでチ○ポバッキバキ即SEXが大好き！！",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/03/8f6cac431a80a2b6085eb19b7a3fdd55.jpg",
-    "actress": [
-      "鳳可怜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-121"
-  },
-  {
-    "id": 10256,
-    "IDcode": "NPJS-122",
-    "title": "マルチ商法で騙してきたデカパイ女の被害者を集めて監禁レ×プ輪●パーティー 卑猥むちエロ衣装を着せて媚薬漬け中出しキメセクしまくった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/ee2bd13b8c2ae69738ca70af7f64d23d.jpg",
-    "actress": [
-      "羽月乃蒼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-122"
-  },
-  {
-    "id": 73299,
-    "IDcode": "NPJS-123",
-    "title": "在孩子来接之前抱着-美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250131-1/5d4bd1a658821b4d5047d0222ef49c40.jpg",
+    "cover_url": "/upload/vod/20241119-1/166bbb3cf4c8e668930c0375aa5a64df.jpg",
     "actress": [
       "美園和花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-123"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-254"
   },
   {
-    "id": 9419,
-    "IDcode": "NPJS-124",
-    "title": "マッチングアプリでゲットしたインテリ美女妻を脱がせてハメまくりました。（夫には内緒） 人妻せいらさん。",
+    "id": 181117,
+    "IDcode": "TPPN-255",
+    "title": "窒息寸前！！鉄板肉弾SEX 爆乳×爆尻×豊満BODYで圧迫強●種付け 体液が弾け肉が踊る汗だく中出しセックス 藤沢麗央",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/38ba8e2f/vod.jpg",
-    "actress": [
-      "水澄せいら"
+    "genres": [
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-124"
-  },
-  {
-    "id": 9404,
-    "IDcode": "NPJS-125",
-    "title": "诱惑AV爱好者的超可爱姐姐-叶月真由",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250131-1/9df299df5966df5f7602037622de6907.jpg",
-    "actress": [
-      "葉月まゆ",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-125"
-  },
-  {
-    "id": 10244,
-    "IDcode": "NPJS-126",
-    "title": "陪酒女太过绝伦-春阳摩卡",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241214-1/7e34d52e277fcbe2fcbabd41fe6d91f7.jpg",
-    "actress": [
-      "春陽萌花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-126"
-  },
-  {
-    "id": 10258,
-    "IDcode": "NPJS-127",
-    "title": "【彼氏に内緒で初撮り】押しに弱い女子大生ホテルお持ち帰り！！ ノリで勝手に中出しSEX！？それでもハメ撮り続けてラストは肉便器化。 すずちゃん（20歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/26/c1254fa683be6414dab18081c21102ae.jpg",
-    "actress": [
-      "永野鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-127"
-  },
-  {
-    "id": 9394,
-    "IDcode": "NPJS-128",
-    "title": "愛人アプリでリピーター続出！ノリ良し！デカパイ！ムチムチ！高身長！デカオンナを男仲間で数珠繋ぎFUCK！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/40d6778d/vod.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/3925bd0a/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-128"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-255"
   },
   {
-    "id": 3184,
-    "IDcode": "NPJS-129",
-    "title": "彼氏の目の前でAV出演。寝取られ好きの彼氏のために、剛毛彼女がメスになる瞬間。無責任中出し！",
+    "id": 72632,
+    "IDcode": "TPPN-256",
+    "title": "美乳正妹跟男人們爆汗激情做愛中出失禁",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/dfa0e1c2/vod.jpg",
-    "actress": [
-      "川口乃乃華"
+    "genres": [
+      "潮吹",
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "多P",
+      "单体作品"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-129"
-  },
-  {
-    "id": 8649,
-    "IDcode": "NPJS-130",
-    "title": "历史最强猛暑日-桃咲诺亚",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250226-1/0ade503c7f49fb94d0390e2b04ab5d9d.jpg",
-    "actress": [
-      "桃咲乃亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-130"
-  },
-  {
-    "id": 7887,
-    "IDcode": "NPJS-132",
-    "title": "來到九州某肌肉酒吧玩的女子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250322-1/593707de2adbe0d6acfa55095730742b.jpg",
-    "actress": [
-      "水川蓳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-132"
-  },
-  {
-    "id": 8665,
-    "IDcode": "NPJS-133",
-    "title": "我明天就要办理结婚登记的女朋友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250226-1/67bbb999b314c9c37329f48d2454ba3d.jpg",
-    "actress": [
-      "藤原真帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-133"
-  },
-  {
-    "id": 8638,
-    "IDcode": "NPJS-135",
-    "title": "ゲーマーお姉さんの配信に課金しまくってたらオフパコできたよ！！ ミズキさん2〇歳 ゲームとコスプレ大好きな引きこもりお姉さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/21570a5cd5de6263b71315104b6acf12.jpg",
-    "actress": [
-      "藍芽水月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-135"
-  },
-  {
-    "id": 72010,
-    "IDcode": "NPJS-137",
-    "title": "外出工作时和女同事一起翘班-美咲环奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250226-1/bb53c131a6dd66f8e72db5eb29738e86.jpg",
-    "actress": [
-      "美咲佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-137"
-  },
-  {
-    "id": 8627,
-    "IDcode": "NPJS-139",
-    "title": "街頭密着ドキュメント トー横モカにゃん編 ペンギン衣装で有名。歌舞伎町に住み着く伝説のモカにゃん。今日も日々、おっぱいとマ●コを使って頑張っている",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/e3fcebb21581b5fee68bb1495bedd3dd.jpg",
-    "actress": [
-      "春陽萌花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-139"
-  },
-  {
-    "id": 7844,
-    "IDcode": "NPJS-140",
-    "title": "地下偶像的粉丝在现场结束时联系在一起SEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250322-1/d69749ebb42d5a541e7ecf31efa5cdc4.jpg",
-    "actress": [
-      "鈴芽由羅"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-140"
-  },
-  {
-    "id": 7882,
-    "IDcode": "NPJS-141",
-    "title": "被超轻狂系帅哥搭讪师纠缠不休-赤名いと",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250322-1/3bcce639a4aa68028157d3bd26a487fc.jpg",
-    "actress": [
-      "赤名いと"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-141"
-  },
-  {
-    "id": 7858,
-    "IDcode": "NPJS-142",
-    "title": "发送爱情活动赚了5亿-小野坂ゆいか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250322-1/5d628369f2b45e7bd085bb71985f9c07.jpg",
-    "actress": [
-      "小野坂唯香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-142"
-  },
-  {
-    "id": 7866,
-    "IDcode": "NPJS-144",
-    "title": "【素人投稿】 僕の彼女が寝取られているのをどうしても見たくて…友達使ってハメさせた鬱勃起映像を共有します",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/a115859760a9c5640fcf511c795fda22.jpg",
-    "actress": [
-      "雪代一鳳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-144"
-  },
-  {
-    "id": 7845,
-    "IDcode": "NPJS-146",
-    "title": "Instagram野球女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250322-1/896d467964fee4c2b04e3807654042ac.jpg",
-    "actress": [
-      "末広純"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-146"
-  },
-  {
-    "id": 72009,
-    "IDcode": "NPJS-147",
-    "title": "实在太想给牛郎上供而来应募-椎名心春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250226-1/907efeb4f64f78c8df08c728d0e97578.jpg",
-    "actress": [
-      "椎名心春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-147"
-  },
-  {
-    "id": 7182,
-    "IDcode": "NPJS-148",
-    "title": "为了赚钱给自己负责的牛郎-わか菜ほの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250425-1/681048d05768c433a42ca44fc993be0e.jpg",
-    "actress": [
-      "若宮穂乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-148"
-  },
-  {
-    "id": 3140,
-    "IDcode": "NPJS-151",
-    "title": "タダマン女子…みぃつけた！ダンサー女子は都合の良いすぐヤラせてくれる神ヤリマン！デカチンでハメまくり中出し！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/8b02f211/vod.jpg",
-    "actress": [
-      "水崎瑠華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-151"
-  },
-  {
-    "id": 7159,
-    "IDcode": "NPJS-153",
-    "title": "リアルラブホ女子会流出 何らかの形で流出してしまった、女子大生3人組のはっちゃけすぎ映像を配布します。＃オナニー＃入浴シーン＃放尿＃レズプレイ＃セフレ呼んで4P",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/b56d3204cac810ccf0c5c4c854b6f734.jpg",
-    "actress": [
-      "本田桃",
-      "久和原聖羅",
-      "真白みのり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-153"
-  },
-  {
-    "id": 6475,
-    "IDcode": "NPJS-154",
-    "title": "性格好又愛撒嬌的酒店女郎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-3/39de5e960b5e576b7f92dbefb05cdee5.jpg",
-    "actress": [
-      "佐伯蓮加"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-154"
-  },
-  {
-    "id": 7189,
-    "IDcode": "NPJS-155",
-    "title": "ストリートスナップを撮らせてくれた巨乳美女にどこまで脱いで、どこまでヤラせてくれるのか交渉してみたat新宿 きこちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/f48829c2cb36167c5dd692c5d0f6e9e0.jpg",
-    "actress": [
-      "蘆名穗花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-155"
-  },
-  {
-    "id": 6428,
-    "IDcode": "NPJS-157",
-    "title": "タダマンの品格 関係が切れた元セフレに蘇りの呪文（ザ●ラル）メール！返信が来た欲求不満な人妻とヤリまくる！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/6745b5044883a492340f16aa8b9c8ca2.jpg",
-    "actress": [
-      "小野坂唯香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-157"
-  },
-  {
-    "id": 7193,
-    "IDcode": "NPJS-158",
-    "title": "マッチングレンタル彼女YSP ヤリ捨てぽい デート相手として選んだ女をホテルへ連れ込んでグイグイ攻めまくってヤリ捨てた動画。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/890a2d17de95f5884f7ce76cf5b0100e.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250209-1/f2f8ccc1ce31caf7c2a61165d6e302e9.jpg",
     "actress": [
       "天馬唯"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-158"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-256"
   },
   {
-    "id": 7196,
-    "IDcode": "NPJS-159",
-    "title": "「シャンパン入れてくれたらヤラせてアゲル」 キャバ嬢に貢いでお持ち帰りしたらドS絶倫の変態女で返り討ちに会った夜。。。",
+    "id": 8795,
+    "IDcode": "TPPN-257",
+    "title": "磨练至极点的淫荡展现-美咲环奈",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/e209dba7fd487b9af0c8659d69e0c759.jpg",
-    "actress": [
-      "浜崎真緒"
+    "genres": [
+      "美乳",
+      "手指插入",
+      "真實拍攝",
+      "女上位",
+      "美人",
+      "亂交 • 群P",
+      "淫亂",
+      "舔腳",
+      "按摩棒",
+      "形象俱樂部",
+      "中出",
+      "短髮",
+      "苗條",
+      "3P・4P",
+      "顏射",
+      "脚控・戀足癖",
+      "絕頂高潮",
+      "潮吹",
+      "猥褻穿著",
+      "抹油",
+      "性感",
+      "美腳",
+      "企畫",
+      "兩男一女",
+      "後入",
+      "口爆",
+      "辣妹/GAL系",
+      "舔陰",
+      "女優",
+      "流汗",
+      "口交",
+      "真人秀",
+      "騎乗位"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-159"
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250224-1/75a20b54791ccb3646b05585b1fe3871.jpg",
+    "actress": [
+      "美咲佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-257"
   },
   {
-    "id": 67487,
-    "IDcode": "NPJS-161",
-    "title": "悪徳メンエス店長の芋づる式懲らしめ動画Vol.3 店から100万前借りして飛んだホス狂女しおん、アウト。",
+    "id": 7991,
+    "IDcode": "TPPN-258",
+    "title": "またがりハメ尻アングル連続中出し デカ●ンを咥え込む抜き差しバッチリ！小悪魔のベロチュー汗だくセックス 希咲那奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "美臀",
+      "手指插入",
+      "兔女郎妝扮",
+      "女上位",
+      "接吻",
+      "美人",
+      "情趣內衣",
+      "劇情",
+      "亂交 • 群P",
+      "美腿",
+      "濕身",
+      "淫亂",
+      "丁字裤",
+      "舔腳",
+      "清楚系",
+      "癡女",
+      "少女",
+      "按摩棒",
+      "形象俱樂部",
+      "中出",
+      "慾求不滿",
+      "小隻馬",
+      "多P",
+      "校花",
+      "蠻橫嬌羞",
+      "苗條",
+      "美少女",
+      "顏射",
+      "3P・4P",
+      "絕頂高潮",
+      "脚控・戀足癖",
+      "JK校服",
+      "潮吹",
+      "早漏",
+      "猥褻穿著",
+      "抹油",
+      "性感",
+      "COSPLAY服飾",
+      "美腳",
+      "高顏值",
+      "兩男一女",
+      "羞恥",
+      "後入",
+      "口爆",
+      "舔陰",
+      "女優",
+      "流汗",
+      "口交",
+      "美少女電影",
+      "騎乗位"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/ad27a9bc417c49a117e09b0c4608fcac.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/c82d2967dae8e57e7a601bf582de89eb.jpg",
+    "actress": [
+      "希咲那奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-258"
+  },
+  {
+    "id": 7328,
+    "IDcode": "TPPN-259",
+    "title": "またがりハメ尻アングル連続中出し デカ●ンを咥え込む抜き差しバッチリ！デカ尻の女神のベロチュー汗だくセックス 末広純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美臀",
+      "美乳",
+      "手指插入",
+      "真實拍攝",
+      "吞精",
+      "女上位",
+      "美人",
+      "情趣內衣",
+      "亂交 • 群P",
+      "美腿",
+      "淫亂",
+      "豐滿",
+      "丁字裤",
+      "舔腳",
+      "癡女",
+      "乳交",
+      "按摩棒",
+      "形象俱樂部",
+      "中出",
+      "慾求不滿",
+      "色白",
+      "多P",
+      "巨尻",
+      "3P・4P",
+      "絕頂高潮",
+      "潮吹",
+      "猥褻穿著",
+      "抹油",
+      "感官作品",
+      "性感",
+      "高顏值",
+      "美腳",
+      "企畫",
+      "兩男一女",
+      "後入",
+      "口爆",
+      "舔陰",
+      "女優",
+      "流汗",
+      "臀控",
+      "口交",
+      "局部特寫",
+      "真人秀",
+      "深喉",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/06538ab0fbb215790dddfec5a3964b73.jpg",
+    "actress": [
+      "末広純"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-259"
+  },
+  {
+    "id": 67838,
+    "IDcode": "TPPN-260",
+    "title": "美尻连续中出-椿理花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "淫乱，真实",
+      "多P",
+      "屁股",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250504-1/0ea8277df141e348585c466b3434b7f6.jpg",
+    "actress": [
+      "椿莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-260"
+  },
+  {
+    "id": 63858,
+    "IDcode": "TPPN-261",
+    "title": "抽插活塞运动的神视角带来高潮风暴-わか菜ほの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "流汗",
+      "淫乱，真实",
+      "多P",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250620-1/bf38640fcb7728cdd44d498e6e1715d4.jpg",
+    "actress": [
+      "若宮穂乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-261"
+  },
+  {
+    "id": 5125,
+    "IDcode": "TPPN-262",
+    "title": "またがりハメ尻アングル連続中出し デカ●ンを咥え込む抜き差しバッチリ！クビレと超美巨尻の汗だくセックス 吉澤友貴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美臀",
+      "美乳",
+      "手指插入",
+      "真實拍攝",
+      "淫蕩・硬核",
+      "女上位",
+      "美人",
+      "極品美人",
+      "亂交 • 群P",
+      "美腿",
+      "淫亂",
+      "御姐系",
+      "癡女",
+      "按摩棒",
+      "形象俱樂部",
+      "混血",
+      "中出",
+      "慾求不滿",
+      "色白",
+      "巨尻",
+      "單體作品",
+      "3P・4P",
+      "絕頂高潮",
+      "寫真女郎",
+      "三十路",
+      "性感",
+      "高顏值",
+      "企畫",
+      "兩男一女",
+      "後入",
+      "辣妹/GAL系",
+      "舔陰",
+      "女優",
+      "流汗",
+      "臀控",
+      "口交",
+      "局部特寫",
+      "寫真偶像",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/5c11c02421a7f62d4d7ec0cc6761adf5.jpg",
+    "actress": [
+      "吉泽友贵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-262"
+  },
+  {
+    "id": 190566,
+    "IDcode": "TPPN-263",
+    "title": "全ての体位で乳を弄る！豊満爆乳を片時も乳を離さないで常に弄り続ける究極の汗だく中出しセックス 武田怜香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/d8ee57b119a6f2229d86714f01a4ef28.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-161"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-263"
   },
   {
-    "id": 70035,
-    "IDcode": "NPJS-162",
-    "title": "≪OLの裏休日≫盛る人妻。 SNSで見つけた現役OLとオフパコ密会8発！？",
+    "id": 3339,
+    "IDcode": "TPPN-264",
+    "title": "全ての体位で乳を弄る！Hカップ乳を片時も乳を離さないで常に弄り続ける究極の汗だく中出しセックス 九井スナオ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "美臀",
+      "大奶头",
+      "美乳",
+      "手指插入",
+      "淫蕩・硬核",
+      "女上位",
+      "接吻",
+      "美人",
+      "純粹的慾望",
+      "極品美人",
+      "亂交 • 群P",
+      "美腿",
+      "濕身",
+      "淫亂",
+      "黑絲",
+      "超爆乳",
+      "癡女",
+      "乳交",
+      "形象俱樂部",
+      "中出",
+      "慾求不滿",
+      "單體作品",
+      "蠻橫嬌羞",
+      "苗條",
+      "3P・4P",
+      "絕頂高潮",
+      "潮吹",
+      "胸控・戀乳癖",
+      "猥褻穿著",
+      "抹油",
+      "性感",
+      "無毛",
+      "美腳",
+      "高顏值",
+      "主觀視角",
+      "巨乳",
+      "企畫",
+      "兩男一女",
+      "後入",
+      "口爆",
+      "辣妹/GAL系",
+      "舔陰",
+      "女優",
+      "流汗",
+      "口交",
+      "局部特寫",
+      "騎乗位",
+      "港區女子"
+    ],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "TEPPAN 鐵板",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/239e8f478c560609d609b5d405fc7bd1.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/8d2a27d5/vod.jpg",
+    "actress": [
+      "九井珠奈緒"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-264"
+  },
+  {
+    "id": 2581,
+    "IDcode": "TPPN-265",
+    "title": "突き上げピストン抜き差し神アングルで絶頂の嵐！結合部をじっくり拝む汗だく連続中出しセックス！！ 乃木絢愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男・M女",
+      "美乳",
+      "手指插入",
+      "淫蕩・硬核",
+      "女上位",
+      "接吻",
+      "美人",
+      "極品美人",
+      "亂交 • 群P",
+      "美腿",
+      "濕身",
+      "淫亂",
+      "乳交",
+      "按摩棒",
+      "形象俱樂部",
+      "中出",
+      "調教",
+      "小隻馬",
+      "單體作品",
+      "苗條",
+      "3P・4P",
+      "白眼失神",
+      "顏射",
+      "脚控・戀足癖",
+      "網襪",
+      "絕頂高潮",
+      "潮吹",
+      "胸控・戀乳癖",
+      "猥褻穿著",
+      "抹油",
+      "感官作品",
+      "性感",
+      "無毛",
+      "美腳",
+      "高顏值",
+      "巨乳",
+      "企畫",
+      "兩男一女",
+      "後入",
+      "唾液敷面",
+      "口爆",
+      "辣妹/GAL系",
+      "舔陰",
+      "女優",
+      "流汗",
+      "口交",
+      "美少女電影",
+      "深喉",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/10/ad50a34c/vod.jpg",
+    "actress": [
+      "乃木絢愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-265"
+  },
+  {
+    "id": 174633,
+    "IDcode": "TPPN-266",
+    "title": "杭打ちピストン＆種付けプレス ぐちょ膣を射抜く！若宮はずきの本気の汗だく絶頂セックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TEPPAN 鐵板",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/02/c790b560/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-162"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-266"
   },
   {
-    "id": 7840,
-    "IDcode": "NPJS-163",
-    "title": "悪徳メンエス店長の芋づる式懲らしめ動画 本番強要されたとインフルエンサーにタレコミして飛んだあかり、アウト。",
+    "id": 216349,
+    "IDcode": "TR-2131",
+    "title": "五十路専業主婦の白日夢",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/213c11386ad20158e7d947bb5146d20c.jpg",
-    "actress": [
-      "皆瀨明里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-163"
-  },
-  {
-    "id": 7195,
-    "IDcode": "NPJS-164",
-    "title": "恶徳メンエス店長の芋づる式懲らしめ動画Vol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/9f8f9049a698ba29407c27abc9fde461.jpg",
-    "actress": [
-      "響乃詩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-164"
-  },
-  {
-    "id": 7194,
-    "IDcode": "NPJS-165",
-    "title": "我想和某个高档酒廊里最火辣的女孩做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250425-1/99405861e82c24dfcf584e2c87547e72.jpg",
-    "actress": [
-      "小野坂唯香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-165"
-  },
-  {
-    "id": 7873,
-    "IDcode": "NPJS-166",
-    "title": "當時交往的女友素顏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250322-1/977fb6e49c892a25d698bd380c4c90f5.jpg",
-    "actress": [
-      "逢月日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-166"
-  },
-  {
-    "id": 5657,
-    "IDcode": "NPJS-167",
-    "title": "街頭インタビューに出ただけなのに。某番組に出演した後、婚前人妻をADが旦那より先に生ハメ汗だくイキ顔…ヤリまくり映像 スレンダー人妻が乳首ビンビンイキまくる卑猥映像 業界の闇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/3e978d5352ec2a69031bbf5a0efb163b.jpg",
-    "actress": [
-      "静河"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-167"
-  },
-  {
-    "id": 6474,
-    "IDcode": "NPJS-169",
-    "title": "和高身长女子的援交酒店中出-本田桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-3/c384ae2b590d96d33c83f3d4782db9a3.jpg",
-    "actress": [
-      "本田桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-169"
-  },
-  {
-    "id": 2204,
-    "IDcode": "NPJS-170",
-    "title": "マスク歯科助手を犯したい。白衣の下に潜むムチムチ爆乳Gカップ。彼氏の目の前で…無責任孕ませ中出しFUCK！ るりさん。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/13/98a1730a9aeeb999204077a2dd197d70.jpg",
-    "actress": [
-      "小鳩琉璃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-170"
-  },
-  {
-    "id": 173869,
-    "IDcode": "NPJS-176",
-    "title": "全世界に乳首とマ○コ晒してもいいからAV男優とシタい女の子",
-    "year": "",
-    "country": "",
-    "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/04/98b16d68aea8ee574828c0a1f91910e2.jpg",
+    "cover_url": "https://tutu1.space/images/2022/03/04/08ec5eb49a6a066df5ed9559a6791cb2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-176"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TR-2131"
   },
   {
-    "id": 6467,
-    "IDcode": "NPJS-177",
-    "title": "配对租借女友-藤井一夜",
+    "id": 88889,
+    "IDcode": "TR-2313",
+    "title": "豊満 五十路のつまみ食い 私、五十過ぎよ、こんなぽっちゃりなおばさんでもいいの？抱いてくれるの？ やりたい五十路4人の中出し性交為",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-3/940df6bf345f52867b213b097aee3fd3.jpg",
-    "actress": [
-      "藤井一夜"
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "成熟的女人",
+      "超乳",
+      "舔阴",
+      "女上位",
+      "恋乳癖",
+      "中出",
+      "白天出轨",
+      "口交",
+      "第一人称摄影",
+      "巨乳",
+      "胖女人",
+      "局部特写"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-177"
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-05-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/98cffe8da7d1e8298f287caf0a23fcd7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TR-2313"
   },
   {
-    "id": 2197,
-    "IDcode": "NPJS-178",
-    "title": "【美少女限定】素人ハメ撮り倶楽部 AV男優とSEXしたくて来た女の子 オムライス屋さんで働く女子大生（21）",
+    "id": 83900,
+    "IDcode": "TRAC-052",
+    "title": "水希色",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/ae5311f9/vod.jpg",
-    "actress": [
-      "逢澤美優"
+    "genres": [
+      "成熟的女人",
+      "素人作品",
+      "模特儿",
+      "介绍影片",
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-178"
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-01-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-33/458fec4348c284a3e1635a4787446d6b.jpg",
+    "actress": [
+      "水希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRAC-052"
   },
   {
-    "id": 5644,
-    "IDcode": "NPJS-179",
-    "title": "偷拍專門的偷窺屋本舗遭逮捕的偷拍狂熱者的硬碟中流出的珍貴影片精選錄製",
+    "id": 83899,
+    "IDcode": "TRAC-053",
+    "title": "美衝撃 ゆかりーぬ",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250619-1/a52bbe20db0476b24142219bec01facb.jpg",
-    "actress": [
-      "久和原聖羅",
-      "音羽美鈴",
-      "天野花乃",
-      "中条りの",
-      "斉藤月乃"
+    "genres": [
+      "介绍影片",
+      "模特儿",
+      "巨乳",
+      "素人作品"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-179"
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-02-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-33/5067f90e426ad47547957ce3ab7ec229.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRAC-053"
   },
   {
-    "id": 5652,
-    "IDcode": "NPJS-181",
-    "title": "筋肉男の激ピストンでデカパイがブルブル揺れまくり SNSで万バズしまくり！巨乳ボーイッシュ女子とオフパコ ギンギンち〇ぽとえちえち乱交パーティー 超特濃精子を中出し6連続！！",
+    "id": 190559,
+    "IDcode": "TRDDS-013",
+    "title": "植松やすか天女 Ten-nyo",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "NAPA-JAPAN",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/7fa361c8bb6a05f82d8ddaa25114016c.jpg",
-    "actress": [
-      "佐山由依"
+    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/9e21b72562f5313dec19b80f4634a848.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRDDS-013"
+  },
+  {
+    "id": 59880,
+    "IDcode": "TRDDS-017",
+    "title": "Ten-nyo（天女）友永ありさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "介绍影片",
+      "偶像",
+      "单体作品"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-181"
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/6445a121/vod.jpg",
+    "actress": [
+      "友永ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRDDS-017"
+  },
+  {
+    "id": 82176,
+    "IDcode": "TRE-131",
+    "title": "競泳水着女子BEST 20名 8時間 vol.01 ボディラインが美しい競泳水着の魅惑の世界",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "精选，综合",
+      "学校泳装",
+      "多P",
+      "巨乳",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2020-03-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221110-1/4e0155e2169f67448b53825c6e851e22.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-131"
+  },
+  {
+    "id": 88916,
+    "IDcode": "TRE-217",
+    "title": "艶かしい超ぬるぬるオイリーSEX BEST Vol.01 鈴村あいり 河合あすな 野々浦暖 涼森れむ 七嶋舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "无毛",
+      "4小时以上作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "2023-06-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/62aae863e99d98b9e8051454697bd2dc.jpg",
+    "actress": [
+      "野野浦暖",
+      "鈴村愛里",
+      "河合明日菜",
+      "彩美旬果",
+      "小泉彩",
+      "园田美樱",
+      "愛音麻里亞",
+      "吉岡蓮美",
+      "松冈すず",
+      "凉森玲梦",
+      "长谷川るい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
+  },
+  {
+    "id": 220961,
+    "IDcode": "TRUM-007",
+    "title": "悲惨的家庭破裂-川越ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/23/4abd8a8f49a38ff9f042cd437cf25762.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRUM-007"
+  },
+  {
+    "id": 166237,
+    "IDcode": "TRUM-008",
+    "title": "実話再現NTRドラマ 幼稚園パパママ会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/yg4pwsdtqp1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRUM-008"
+  },
+  {
+    "id": 166238,
+    "IDcode": "TRUM-012",
+    "title": "実話再現NTRドラマ ボクが帰った後の部屋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/xu5hvfkprpb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRUM-012"
   }
 ];

@@ -1,1600 +1,2530 @@
 window.PAGE_DATA = [
   {
-    "id": 90306,
-    "IDcode": "RKI-648",
-    "title": "オジサン嫌いなイマドキ女子2人組がオジサンとオフパコでキモがり逆ハメ撮り実況 こっそりゴムを外され、まさかの生チ〇ポで激イキ絶頂→気持ちよすぎてオジサンに完全敗北。マジ逝きまくりで理解らせられW完堕ち。 由良かな 雅子りな",
+    "id": 77975,
+    "IDcode": "SDAB-116",
+    "title": "一泊二日温泉旅行-今井夏帆 美園和花",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240115-1/8b56f26e0a70da192398db5efd81c22b.jpg",
-    "actress": [
-      "雅子裡菜"
+    "genres": [
+      "女生",
+      "素人作品",
+      "中出",
+      "浴衣",
+      "巨乳",
+      "巨大屁股",
+      "校服"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-648"
-  },
-  {
-    "id": 18138,
-    "IDcode": "RKI-649",
-    "title": "媚药浸渍后的轮奸-都月流衣纱",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/e66dfae2b4184f5a68581a83b9a23f7b.jpg",
+    "cover_url": "https://tutu1.space/images/2022/05/08/c372df46e739d0b5dbba437b4ad78ae2.jpg",
     "actress": [
-      "都月楓"
+      "美園和花",
+      "今井夏帆"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-649"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-116"
   },
   {
-    "id": 17858,
-    "IDcode": "RKI-651",
-    "title": "変態女優來了!",
+    "id": 70770,
+    "IDcode": "SDAB-117",
+    "title": "课外活动-久留木玲",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20231112/fd5d3e0f-2085-4fc8-b4af-51b7fdbb9ee0.jpg",
-    "actress": [
-      "望月綾香",
-      "前乃菜菜",
-      "鲛岛"
+    "genres": [
+      "高中女生",
+      "素人作品",
+      "中出",
+      "美少女电影",
+      "校服"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-651"
-  },
-  {
-    "id": 17302,
-    "IDcode": "RKI-656",
-    "title": "乙愛麗絲接受大量的精液射入肛門和臉部，然後感觉射出精子灌腸的男人是超級SEX。",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20231211/6160c65f-5108-4a4f-96e3-9142106d4082.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-656"
-  },
-  {
-    "id": 16830,
-    "IDcode": "RKI-659",
-    "title": "继母天使-美园和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/2254c9fa765945317fabfa5ac539e037.jpg",
+    "cover_url": "https://tutu1.space/images/2022/07/08/459daa66beca71fe54723275e3904d80.jpg",
     "actress": [
-      "美園和花"
+      "久留木玲",
+      "ゆうき",
+      "南佳也"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-659"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-117"
   },
   {
-    "id": 15517,
-    "IDcode": "RKI-662",
-    "title": "專門租借的NTR人妻-中城葵",
+    "id": 70692,
+    "IDcode": "SDAB-118",
+    "title": "和社团少女从白天就整天抽插的黏着性交",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "高中女生",
+      "素人作品",
+      "平胸",
+      "美少女电影",
+      "校服"
+    ],
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240512-1/b73f652a6fbb87bf61d2ab57b6b6f922.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20241013-1/0155d9c3cfe11ccee6a3a01b109b9371.jpg",
     "actress": [
       "中城葵",
-      "輝大"
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-662"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-118"
   },
   {
-    "id": 105532,
-    "IDcode": "RKI-663",
-    "title": "下课后感觉会在公园玩的可爱小妹子",
+    "id": 70768,
+    "IDcode": "SDAB-119",
+    "title": "正值青春年华的18岁学生-桜井千春",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "高中女生",
+      "素人作品",
+      "美少女电影",
+      "苗条",
+      "校服"
+    ],
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240404-1/08da7f6a353615ec6ffb21538983637c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-663"
-  },
-  {
-    "id": 14845,
-    "IDcode": "RKI-668",
-    "title": "在京都见到的舞妓小姐AV出道-贺川佳乃子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240609-1/cc572b3c41b4f7e06e156ac8865413e5.jpg",
+    "cover_url": "https://tutu1.space/images/2022/10/03/ebf75adef64690a8d13beb80ef316d9c.jpg",
     "actress": [
-      "賀川かのこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-668"
-  },
-  {
-    "id": 94029,
-    "IDcode": "RKI-669M",
-    "title": "RKI669M男推奨！最高級の痴嬢がご奉仕する痴女風俗マンション",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241020-1/b3ed7b44cf206ea85ea0f70fde0cd1c1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-669M"
-  },
-  {
-    "id": 14831,
-    "IDcode": "RKI-671",
-    "title": "让港区援交女彻底了解留种",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240609-1/af504101921d3f684333d2f33630baf8.jpg",
-    "actress": [
-      "清巳麗乃",
-      "橘京花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-671"
-  },
-  {
-    "id": 14125,
-    "IDcode": "RKI-673",
-    "title": "衆所期待的M女優賀川かのこ的背景時，是一個熱愛終極自我受虐性愛的變態",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2024-06-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607020552902902.jpg",
-    "actress": [
-      "賀川かのこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-673"
-  },
-  {
-    "id": 13515,
-    "IDcode": "RKI-674",
-    "title": "洗劫客廳，拖着她四處操、殘酷的體內射精 ~ 被無情強奸的女孩 ~ 賀川かのこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2024-07-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240706/20240706014642309309.jpg",
-    "actress": [
-      "賀川かのこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-674"
-  },
-  {
-    "id": 13585,
-    "IDcode": "RKI-675",
-    "title": "射出世界上最多精液的男人，超級顏射 末広純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2024-07-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705011727596596.jpg",
-    "actress": [
-      "末広純"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-675"
-  },
-  {
-    "id": 11442,
-    "IDcode": "RKI-676",
-    "title": "プロのチ●ポにハメられた～い！！ セックスが好きすぎるSEX狂いの美人お姉さん2人組。ハメ潮・中出し・レズ乱交！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/30/6f188a31ff3ebd9085dc3269560779fc.jpg",
-    "actress": [
-      "倉木詩織",
-      "石川陽波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-676"
-  },
-  {
-    "id": 13535,
-    "IDcode": "RKI-677",
-    "title": "催眠洗腦：我喜歡的女大學生導師被父親抱着。森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2024-07-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240705/202407050116353838.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-677"
-  },
-  {
-    "id": 12767,
-    "IDcode": "RKI-679",
-    "title": "射出世界上最多精液的男人的新超級顏射SEX ~ 月野江翠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2024-08-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20240809/20240809003836837837.jpg",
-    "actress": [
-      "月野江翠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-679"
-  },
-  {
-    "id": 94031,
-    "IDcode": "RKI-681",
-    "title": "スぺレズザーメンごっくん特化 ガチにごっくん大好きな二人が思う存分、飲みまくり 美園和花 有加里ののか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "2024-08-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241020-1/786682bd6127ad8e0b48af0cb45bb0e2.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-681"
-  },
-  {
-    "id": 11454,
-    "IDcode": "RKI-683",
-    "title": "對性愛充滿好奇的少女-萌波鈴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241027-1/c63dac31d02d831ce8af42352198f9b4.jpg",
-    "actress": [
-      "萌波鈴",
-      "もなみ铃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-683"
-  },
-  {
-    "id": 12191,
-    "IDcode": "RKI-685",
-    "title": "瞧不起大人的狂妄美女们",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241015-1/1fbc1fbffefa3693cd72089c6d61ea50.jpg",
-    "actress": [
-      "胡桃櫻花",
-      "凰華鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-685"
-  },
-  {
-    "id": 10774,
-    "IDcode": "RKI-686",
-    "title": "元カレとはできなかったセックスしてもいいですか？ 好きなものゲームとお酒とセックス！ 胡桃さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/01/bd42e82c/vod.jpg",
-    "actress": [
-      "胡桃櫻花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-686"
-  },
-  {
-    "id": 11530,
-    "IDcode": "RKI-689",
-    "title": "看不起大人的美少女們",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241027-1/d2b6a4d198f9aa0283a2616f0cdb117c.jpg",
-    "actress": [
-      "北岡果林",
-      "真白さら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-689"
-  },
-  {
-    "id": 10738,
-    "IDcode": "RKI-690",
-    "title": "早漏のフリーレンタルマ〇コ 皆月ひかる 千石もなか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/01/680a3bb2/vod.jpg",
-    "actress": [
-      "皆月光",
-      "千石もなか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-690"
-  },
-  {
-    "id": 10768,
-    "IDcode": "RKI-691",
-    "title": "不甲斐ない部下を超パワハラ杭打ち騎乗位で何度もザーメンぶっこ抜き尻咤激励するメガトンデカ尻女上司 堤セリナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/01/2ca851fc/vod.jpg",
-    "actress": [
-      "堤芹奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-691"
-  },
-  {
-    "id": 10102,
-    "IDcode": "RKI-692",
-    "title": "大学二年级学生-白石もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241226-1/4de629b2887899f7d401fc5e12bb2937.jpg",
-    "actress": [
-      "白石桃",
-      "ナイアガラ翔"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-692"
-  },
-  {
-    "id": 10158,
-    "IDcode": "RKI-693",
-    "title": "世界一媚薬でキマる変態女のトランス失禁キメセク大絶頂FUCK！！ 皆月ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/17/3f00e329539348b04b4e2c9ebff72550.jpg",
-    "actress": [
-      "皆月光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-693"
-  },
-  {
-    "id": 6290,
-    "IDcode": "RKI-694",
-    "title": "擅自住进来的幽灵身体可以随意摆布",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-3/ddc995ea10edad71aba01b579b6ff230.jpg",
-    "actress": [
-      "月野香澄",
-      "ナイアガラ翔",
-      "月野霞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-694"
-  },
-  {
-    "id": 9224,
-    "IDcode": "RKI-695",
-    "title": "陸上部のボクっ娘同級生が中年顧問にメスにされる一部始終 日焼けあとの残るショートカットの巨乳美少女のエロいユニフォーム姿に無責任中出し 弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/31/0172657b/vod.jpg",
-    "actress": [
-      "彌生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-695"
-  },
-  {
-    "id": 10079,
-    "IDcode": "RKI-696",
-    "title": "汗ダクとスッピン 汗と汁で濡れるオンナは最高にエロい。 美女とオジサンの肉欲没頭SEX 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/9b37e209/vod.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-696"
-  },
-  {
-    "id": 9252,
-    "IDcode": "RKI-697",
-    "title": "游泳部女大学生-北岡果林",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250206-1/4d472e5fdaa06699f6a8b4dd1484222c.jpg",
-    "actress": [
-      "北岡果林"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-697"
-  },
-  {
-    "id": 7673,
-    "IDcode": "RKI-698",
-    "title": "もう一度、してみたい。 性格は最悪だけどチ〇ポだけは超好み。身体の相性が最高すぎてまさかのリピートで生姦SEXヤリまくり 逢沢みゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/a81165d8c0ff3d69ee6a51fc38003aaa.jpg",
-    "actress": [
-      "逢澤美優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-698"
-  },
-  {
-    "id": 9229,
-    "IDcode": "RKI-699",
-    "title": "カルト信者の巨乳秘書を緊縛調教 花柳杏奈 緊縛解禁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/01/4003b0348db766a94cf6ddcc282f680f.jpg",
-    "actress": [
-      "花柳杏奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-699"
-  },
-  {
-    "id": 7014,
-    "IDcode": "RKI-700",
-    "title": "女子寮管理人の僕はギャル寮生に振り回されてます 実写版 性欲溜まった女子〇生とひとつ屋根の下で登校よりもセックス優先の発情生活！ 椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250712-1/9f4a7631b70285262e32d8342dbb19a2.jpg",
-    "actress": [
-      "彌生美月",
-      "椿莉香",
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-700"
-  },
-  {
-    "id": 8473,
-    "IDcode": "RKI-701",
-    "title": "新・世界一ザーメンを大量に発射する男の超ぶっかけSEX 都月るいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/17fe4a90fb685008c5cd5303398caa01.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-701"
-  },
-  {
-    "id": 7669,
-    "IDcode": "RKI-702",
-    "title": "新・世界一ザーメンを大量に発射する男の超ぶっかけSEX 天月あず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/8bb979ba0052dbf8e6d77267493de0db.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-702"
-  },
-  {
-    "id": 8439,
-    "IDcode": "RKI-703",
-    "title": "透出内裤过于色情-松井日奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250304-1/40d4e6f3e3c3da4bd1e8f51c4cc92bb4.jpg",
-    "actress": [
-      "松井日奈子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-703"
-  },
-  {
-    "id": 7700,
-    "IDcode": "RKI-704",
-    "title": "獣人の館 監禁され異形に犯●れる制服少女 松井日奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/c260958f5c10ce256960da611c1a639b.jpg",
-    "actress": [
-      "松井日奈子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-704"
-  },
-  {
-    "id": 7063,
-    "IDcode": "RKI-705",
-    "title": "憧れのAV女優とたまたま知り合ってワンナイト。勢いあまって3P＆アナルセックスまでできちゃう夢のような1日 乙アリス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250712-1/3a724f4b4a3f56850b2a3af272439d4e.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-705"
-  },
-  {
-    "id": 7704,
-    "IDcode": "RKI-706",
-    "title": "隣人お姉さんと童貞ボクの超ラッキースケベな日常 玄関を開けたら、めっちゃエッチなお姉さんがオナってた 松丸香澄",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/f38bbf3cd1966d639d427e88e3a0e935.jpg",
-    "actress": [
-      "松丸香澄"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-706"
-  },
-  {
-    "id": 7060,
-    "IDcode": "RKI-707",
-    "title": "性欲溢出的便利店打工-秋元幸香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250426-1/f781e1b822b58de3ab02476b40a3462c.jpg",
-    "actress": [
-      "胡桃多惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-707"
-  },
-  {
-    "id": 5533,
-    "IDcode": "RKI-708",
-    "title": "突然義姉と義妹が出来てしまった件EX ブ男に突然できたブラコンの姉と妹に中出ししまくりヤリ放題。 天月あず 皆月ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/025b39d6b94d6e24e9da953ad73bec2a.jpg",
-    "actress": [
-      "皆月光",
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-708"
-  },
-  {
-    "id": 6279,
-    "IDcode": "RKI-709",
-    "title": "唯一的同伴是公司内第一的超绝美女-十束るう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-3/4419aa6ef40fac97354f6120f9dfc097.jpg",
-    "actress": [
-      "十束流羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-709"
-  },
-  {
-    "id": 5513,
-    "IDcode": "RKI-710",
-    "title": "连败爸爸遇到的是叔叔专门模特美女中出了的记录-水奈瀬りな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250624-1/e720a1e37e4f96d6db2cbffacb0fc622.jpg",
-    "actress": [
-      "水瀨裡奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-710"
-  },
-  {
-    "id": 6287,
-    "IDcode": "RKI-711",
-    "title": "第一次體驗女性向風俗-藤原真帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250522-1/0b8de55045b4a81734d3b9513792d4c7.jpg",
-    "actress": [
-      "藤原真帆",
-      "東雲怜弥"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-711"
-  },
-  {
-    "id": 5507,
-    "IDcode": "RKI-713",
-    "title": "最爱男性生殖器的女人-宍戸里帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250624-1/d8152986e09caeaccf6f16569c450d85.jpg",
-    "actress": [
-      "宍戸里帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-713"
-  },
-  {
-    "id": 3762,
-    "IDcode": "RKI-714",
-    "title": "アナル好きの紳士淑女のアナルパーティ マ〇コよりもアナル好き。私たちのケツ穴を真っ白い精子でいっぱいにしてください",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/19/1cae297c/vod.jpg",
-    "actress": [
-      "生田りん",
-      "茉宮渚希",
+      "雫月心桜",
       "イセドン内村"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-714"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-119"
   },
   {
-    "id": 4734,
-    "IDcode": "RKI-715",
-    "title": "为了解决被囚禁的上司美女精英调查员孤身潜入敌营-水端あさみ",
+    "id": 97762,
+    "IDcode": "SDAB-123",
+    "title": "逐渐沉迷与猥琐大叔浓密接吻-朝倉ゆい",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "制服",
+      "接吻",
+      "美少女电影",
+      "水手服"
+    ],
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/758b5c36/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2023/01/08/1cda13d4a3424fcf3c71df11bcaf86d0.jpg",
     "actress": [
-      "水端麻美",
+      "朝仓ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-123"
+  },
+  {
+    "id": 99332,
+    "IDcode": "SDAB-124",
+    "title": "严重违反校规的清纯学生妹-中城葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "中出",
+      "美少女电影",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/08/bce0382e322294b292e9b74b0d3909cd.jpg",
+    "actress": [
+      "中城葵",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-124"
+  },
+  {
+    "id": 81976,
+    "IDcode": "SDAB-125",
+    "title": "和男朋友做爱很快结束的学生妹白城梨纱每个月都期待拍摄这天能被干个爽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "药物",
+      "平胸",
+      "高中女生",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/dd213e31/vod.jpg",
+    "actress": [
+      "白城梨紗",
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-125"
+  },
+  {
+    "id": 81984,
+    "IDcode": "SDAB-126",
+    "title": "「決めたんだ。私、冒険するって。」 篠田あかね SOD専属AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "首次亮相",
+      "瘦小身型"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2020-04-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/ea33af42232c713e2e5762236daed435.jpg",
+    "actress": [
+      "森林原人",
+      "鲛岛",
+      "篠田あかね"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-126"
+  },
+  {
+    "id": 209293,
+    "IDcode": "sdab-131",
+    "title": "肉弾性交 田中みこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/06/02/QQ20200603051157a00a4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdab-131"
+  },
+  {
+    "id": 174912,
+    "IDcode": "sdab-140",
+    "title": "巨乳女孩田中美子体验中学时期的性幻想汗液汁液交缠七连发",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/a4929221/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdab-140"
+  },
+  {
+    "id": 213091,
+    "IDcode": "sdab-144",
+    "title": "舔舐和亲吻-姫咲はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/31/1843acbbc88dfe841f5d8944813c37ef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdab-144"
+  },
+  {
+    "id": 70771,
+    "IDcode": "SDAB-154",
+    "title": "一日限りの青春逃避行 真っ白肌の美少女が、性欲のままにごっくん/青姦/全力セックスして、全身で快感を求めた夏の日 佐藤ちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "户外",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2020-11-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/f6791944b79e9548ece5a280ffe3e131.jpg",
+    "actress": [
+      "佐藤ちか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-154"
+  },
+  {
+    "id": 70656,
+    "IDcode": "SDAB-156",
+    "title": "いいなり制服美少女 絶対服従 生ハメ中出し性交 斎藤まりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "中出",
+      "凌辱",
+      "户外",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2020-12-10",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/6b5b89b1763d7185a306b2f1795cc1db.jpg",
+    "actress": [
+      "斎藤まりな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-156"
+  },
+  {
+    "id": 70654,
+    "IDcode": "SDAB-157",
+    "title": "性欲強めな欲しがり美少女を焦らして焦らして焦らしまくっておま●こがトロットロになった状態で初めての…中出し解禁 青春時代 百瀬あすか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳房",
+      "中出",
+      "美少女电影",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2020-12-10",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/bb1b783478ede7ad70ac13bd687a9450.jpg",
+    "actress": [
+      "小栗操",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-157"
+  },
+  {
+    "id": 79126,
+    "IDcode": "SDAB-176",
+    "title": "都内○○区のヤリ部屋で初中出し撮影 青春時代 大原あむ 18歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "业余",
+      "中出",
+      "瘦小身型",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/a386d78ce88c7c9bfa7b06a305be0d4e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-176"
+  },
+  {
+    "id": 79151,
+    "IDcode": "SDAB-178",
+    "title": "寝ても垂れない超弾力Hカップ クンニは駄目よって言ったでしょ？ 高橋りほ 19歳 SOD専属AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "校服",
+      "嫩妹",
+      "巨乳",
+      "首次亮相"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/065d16b4606ccaab5c52f605c92dc60a.jpg",
+    "actress": [
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-178"
+  },
+  {
+    "id": 212164,
+    "IDcode": "sdab-180",
+    "title": "元気少女 高橋りほ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/04/0ce958725b4fb61876b0437657c5540b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdab-180"
+  },
+  {
+    "id": 212428,
+    "IDcode": "sdab-185",
+    "title": "离宵禁还有7小时-栗山さや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/07/25/c6ade36dadf40819d2d44700751c0376.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdab-185"
+  },
+  {
+    "id": 203899,
+    "IDcode": "SDAB-189",
+    "title": "老师真可爱-咲田兰",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/0048e28a9277fee11a2127d047eef534.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-189"
+  },
+  {
+    "id": 79723,
+    "IDcode": "SDAB-192",
+    "title": "甲子園常連校の名門野球部マネージャー 橋本ゆあ 18歳 SOD専属AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "首次亮相",
+      "制服",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2021-08-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/7edf273c759d1c610ceb20e6394ac5d6.jpg",
+    "actress": [
+      "小田切ジュン",
+      "タツ",
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-192"
+  },
+  {
+    "id": 79722,
+    "IDcode": "SDAB-194",
+    "title": "背中を流すだけでなく性処理までお手伝いしてくれる下町銭湯の看板娘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女生",
+      "恶作剧",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2021-08-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/f53a903a701f9d3f9b57a540ed72c651.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-194"
+  },
+  {
+    "id": 214643,
+    "IDcode": "sdab-198",
+    "title": "两次内腔高潮的体质",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/25/3dc17b80d28b84cd86abe2d50993b10d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdab-198"
+  },
+  {
+    "id": 100458,
+    "IDcode": "SDAB-199",
+    "title": "棒球部的前辈邀请我去他家-橋本ゆあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "单体作品",
+      "多P",
+      "白天出轨",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/21/6de0ade49e2fd9bc69c3299441c0ce55.jpg",
+    "actress": [
       "左慈半造"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-715"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-199"
   },
   {
-    "id": 4739,
-    "IDcode": "RKI-716",
-    "title": "ドリルのように肛門に舌をねじ込む最高のアナル舐めとマ〇コよりも気持ちいいねっとりフェラでアナルとチ〇ポのW責めをしてくれる究極のサンドイッチ風俗へようこそ！ しかも180分スペシャルコース！ 皆月ひかる 涼花くるみ",
+    "id": 203925,
+    "IDcode": "SDAB-200",
+    "title": "我们喜欢叔叔-桃乃凛",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/3edeee4464274ef0bd0445e05dc43bd6.jpg",
-    "actress": [
-      "皆月光",
-      "涼花くるみ",
-      "凉南佳奈"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/13622da0e8fe7d9d46deb7160e4e7fb2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-200"
+  },
+  {
+    "id": 80878,
+    "IDcode": "SDAB-207",
+    "title": "最初で最高の校則違反「学校で初中出し」 膣イキしながら受精してみたいビンカン美少女 さくられん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "美少女",
+      "中出"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-716"
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2021-12-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/0647a821116171c2d106ef62fe4c763d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-207"
   },
   {
-    "id": 3758,
-    "IDcode": "RKI-717",
-    "title": "即将到婚龄的修女渴望在婚前告别处女之身-木下ひまり",
+    "id": 86172,
+    "IDcode": "SDAB-210",
+    "title": "第一次大鸡巴性爱-柏木こなつ",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/29/d6ab89e2ec86a04f474895999273bf43.jpg",
-    "actress": [
-      "木下日葵"
+    "genres": [
+      "高中女生",
+      "乳房",
+      "美少女"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-717"
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/23/9c671026d2fb811946b0d552fbc109ec.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-210"
   },
   {
-    "id": 4733,
-    "IDcode": "RKI-719",
-    "title": "新・世界一ザーメンを大量に発射する男の超ぶっかけSEX 倉本すみれ",
+    "id": 81022,
+    "IDcode": "SDAB-216",
+    "title": "ただマンJ系と平日朝11時からP活デート 挑発的なスカート丈の小悪魔女子〇生(18)と夜になるまでホテルで生中ハメ撮りしてきました 中出し解禁 柏木こなつ",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/c86451ab759dc53aa9a397a9bd89d589.jpg",
-    "actress": [
-      "倉本菫"
+    "genres": [
+      "巨乳",
+      "高中女生",
+      "中出",
+      "制服"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-719"
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2022-03-10",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/f9c2787fa8cd6d87782917ccf4ec67e9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-216"
   },
   {
-    "id": 3770,
-    "IDcode": "RKI-720",
-    "title": "着ぐるみの中身はまさかのグラマラスおっぱい美女！？ 着衣熱気と痛客セクハラでド発情してしまった爆乳お姉さんと肉感MAX汗だく絶頂SEX",
+    "id": 86177,
+    "IDcode": "SDAB-219",
+    "title": "絶倫の55歳独身高校美術教師と女生徒が放課後ドライブ中出しショートタイム密会  市来まひろ",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/19/af635d9a/vod.jpg",
-    "actress": [
-      "佐山由依",
-      "向理来"
+    "genres": [
+      "高中女生",
+      "美少女",
+      "中出"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-720"
-  },
-  {
-    "id": 2955,
-    "IDcode": "RKI-722",
-    "title": "生意気P活コスプレイヤーを地の底に堕として敗北土下座で理解らせる 北岡果林",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/15/a114c053818630795315e796bbb706b0.jpg",
+    "company": "[\"SOD\"]",
+    "publish_date": "2022-04-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230203-1/342b578853866d09fe78e0fce7894b7b.jpg",
     "actress": [
-      "北岡果林",
-      "大岛丈"
+      "竹田夢"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-722"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-219"
   },
   {
-    "id": 2954,
-    "IDcode": "RKI-723",
-    "title": "セルフ イラマチオ ホールド 都月るいさ",
+    "id": 86154,
+    "IDcode": "SDAB-224",
+    "title": "喜欢口交的真正的偶像-円井萌華",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "口交",
+      "美少女",
+      "纪录片"
+    ],
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/6074f22f/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2022/08/30/367c735130777d1989856615bbbaa92e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-224"
+  },
+  {
+    "id": 67636,
+    "IDcode": "SDAB-225",
+    "title": "准备好了七轮射精-三葉せり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/13/7e2047a5065d61ef2324c69b144636a0.jpg",
     "actress": [
-      "都月楓"
+      "三葉せり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-723"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-225"
   },
   {
-    "id": 2098,
-    "IDcode": "RKI-724",
-    "title": "土下座敗北捜査官 プライド高きエリート捜査官が屈辱の土下座敗北に堕ちるまで… 響乃うた",
+    "id": 86169,
+    "IDcode": "SDAB-228",
+    "title": "校内短时性行为-円井萌華",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "主观视角",
+      "美少女"
+    ],
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/23/e4557a64f592b9ebb26e818ace346be9.jpg",
+    "cover_url": "https://tutu1.space/images/2022/09/03/89b14bcdaf615ae5821b47d1f9e73b79.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-228"
+  },
+  {
+    "id": 68200,
+    "IDcode": "SDAB-229",
+    "title": "沖縄旅行-さくられん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "美少女",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/03/2cdca7650f2565307070a2ed5b14ccc2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-229"
+  },
+  {
+    "id": 163549,
+    "IDcode": "SDAB-231",
+    "title": "她的家庭教师-さくられん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/07/ce7a6b9cb68016af891599a4fd2b7397.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-231"
+  },
+  {
+    "id": 89707,
+    "IDcode": "SDAB-232",
+    "title": "「私のこといっぱいイジメて…」予備校に通う秀才美少女がオールナイトでドマゾご奉仕SEX 円井萌華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2022-08-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/1034dcc3882c983850710d696eb4ba12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-232"
+  },
+  {
+    "id": 86164,
+    "IDcode": "SDAB-233",
+    "title": "恋童癖变态者-三葉せり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "美少女",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/13/2cfa302ff1ab2383d70551d0f766b7e0.jpg",
+    "actress": [
+      "三葉せり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-233"
+  },
+  {
+    "id": 106462,
+    "IDcode": "SDAB-235",
+    "title": "制服美少女-円井萌華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "美少女",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/28/1f08a9b74521a871d2398aa0dbaf0dbb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-235"
+  },
+  {
+    "id": 221666,
+    "IDcode": "SDAB-236",
+    "title": "我不善于学习-橋本りこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/19/1ad539b86b65bcd04129605b4948b375.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-236"
+  },
+  {
+    "id": 167624,
+    "IDcode": "SDAB-237",
+    "title": "全校第一美女-さくられん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/8bae77bee034dd83d3cef1c05109f944.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-237"
+  },
+  {
+    "id": 68259,
+    "IDcode": "SDAB-239",
+    "title": "秘密酒店会议-橋本りこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/8c084d116e63d4efa1e8853fefd6cb63.jpg",
+    "actress": [
+      "橋本りこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-239"
+  },
+  {
+    "id": 69131,
+    "IDcode": "SDAB-240",
+    "title": "恋童癖美体师-三葉せり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "戏剧",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/afaf69ab2ec1e4db3868f1726bf971d6.jpg",
+    "actress": [
+      "三葉せり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-240"
+  },
+  {
+    "id": 167625,
+    "IDcode": "SDAB-241",
+    "title": "女孩经理吮吸-橋本りこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/0a1d029896710ea90c9ef03b23eb0b9e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-241"
+  },
+  {
+    "id": 107240,
+    "IDcode": "SDAB-242",
+    "title": "美丽的女孩-円井萌華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "角色扮演",
+      "口交",
+      "吞精",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/8e7612b05f136d01c9a15fcb2dce6437.jpg",
+    "actress": [
+      "円井萌華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-242"
+  },
+  {
+    "id": 107257,
+    "IDcode": "SDAB-243",
+    "title": "一边说着不行却还是放任龟头进入",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "中出",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/76e2e3243bf574133fcc324dfac80400.jpg",
+    "actress": [
+      "橋本りこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-243"
+  },
+  {
+    "id": 167877,
+    "IDcode": "SDAB-244",
+    "title": "如此清爽就是青春感-响乃歌",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/ec0eb62a97c441424eebdf525a9ee07e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-244"
+  },
+  {
+    "id": 167878,
+    "IDcode": "SDAB-245",
+    "title": "还未成熟的肉体-小岛美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/be122147adb35d6f9aa87fd17cc186ae.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-245"
+  },
+  {
+    "id": 89694,
+    "IDcode": "SDAB-249",
+    "title": "我的素颜很色很刺激的哦-响乃歌",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "校服",
+      "美少女",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/83a5e7d580e8e3773ce8b9fd642da38a.jpg",
+    "actress": [
+      "響乃詩",
+      "鲛岛",
+      "梁井一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-249"
+  },
+  {
+    "id": 89697,
+    "IDcode": "SDAB-250",
+    "title": "偷偷在校内的SEX-小岛美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "校服",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/99a1bf41161b0bd46458a5c7819e7177.jpg",
+    "actress": [
+      "小島美子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-250"
+  },
+  {
+    "id": 89699,
+    "IDcode": "SDAB-252",
+    "title": "被好色大叔们性感开发-久我圆香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "美少女",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/63d1003685e0b824f1904ce39f5ee042.jpg",
+    "actress": [
+      "久我まどか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-252"
+  },
+  {
+    "id": 89686,
+    "IDcode": "SDAB-253",
+    "title": "「童貞卒業させてあげよっか?」世話焼きな幼馴染が童貞の僕を優しく筆おろし!しかも先輩の彼氏がいるのに学校で何度も何度も性交して・・・そんな君に本気で恋をした。 響乃うた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-07-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/53c48bfe4ff9b5b0a94469dcb25e4aae.jpg",
     "actress": [
       "響乃詩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-724"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-253"
   },
   {
-    "id": 2953,
-    "IDcode": "RKI-725",
-    "title": "Gal Friend 最高の愛人と最高のSEX。一晩中、生の快感でキミを愛したい。 藍瀬ミナ",
+    "id": 89706,
+    "IDcode": "SDAB-254",
+    "title": "喜欢摸别人身体的小恶魔-小岛美子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "高中女生",
+      "校服",
+      "中出"
+    ],
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/15/ce80e8dea33173382fc901ada11ed7cf.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/54c9ced0a8757e965fa0ae5506e05cff.jpg",
     "actress": [
-      "藍瀬ミナ"
+      "小島美子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-725"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-254"
   },
   {
-    "id": 2081,
-    "IDcode": "RKI-727",
-    "title": "超サモエロカフェ！！ オチ●ポジャーキー大好物なサモエドちゃんとモフパコ大乱交スペシャル！！",
+    "id": 89687,
+    "IDcode": "SDAB-255",
+    "title": "下课後跟温柔的大叔爱来爱去",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "高中女生",
+      "平胸",
+      "运动短裤"
+    ],
     "type": "有码",
-    "company": "ROOKIE",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/af8cab4e/vod.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/45daecf8babcf589c9c8ea5e9483194f.jpg",
     "actress": [
-      "北岡果林",
-      "天美めあ",
-      "水乃菜乃華",
-      "渡來楓"
+      "源川ゆずな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-727"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-255"
   },
   {
-    "id": 92757,
-    "IDcode": "RMC-020",
-    "title": "RMC020ヒプノシス・ドキュメント上川星空VS催●術師RED下巻サイコな部屋の中上川星空。。",
+    "id": 89665,
+    "IDcode": "SDAB-257",
+    "title": "能让我喝到很多精液的男性",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "高中女生",
+      "单体作品",
+      "户外",
+      "吞精",
+      "制服"
+    ],
     "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/10513c0e7c4a4e09be6685f72ee60db2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMC-020"
-  },
-  {
-    "id": 17576,
-    "IDcode": "RMER-032",
-    "title": "深喉嚨？深喉嚨？二宮桃桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2023-11-29",
-    "cover_url": "https://picture.yoshiclub.xyz/20231127/057e22e9-7d68-4ef7-8fa0-2ea25030102f.jpg",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/f26f9209ab83c39e7f9d68c6e5236df9.jpg",
     "actress": [
-      "二宮桃"
+      "響乃詩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-032"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-257"
   },
   {
-    "id": 14428,
-    "IDcode": "RMER-038",
-    "title": "像媽媽一樣給你喂奶 ~ 丹羽すみれ",
+    "id": 89668,
+    "IDcode": "SDAB-259",
+    "title": "第一次的吞精-久我圆",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "高中女生",
+      "口交",
+      "苗条",
+      "吞精",
+      "制服"
+    ],
     "type": "有码",
-    "company": "妄想族",
-    "publish_date": "2024-05-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20240525/2024052520405822.jpg",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/f0e7ae135a804e6e411018ad3e3e5cb0.jpg",
     "actress": [
-      "丹羽すみれ"
+      "久我まどか"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-038"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-259"
   },
   {
-    "id": 13737,
-    "IDcode": "RMER-039",
-    "title": "被操到失禁 千石もなか",
+    "id": 89681,
+    "IDcode": "SDAB-262",
+    "title": "初次被生中出的美少女-久我圆香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "高中女生",
+      "中出",
+      "多P",
+      "美少女",
+      "苗条",
+      "单体作品"
+    ],
     "type": "有码",
-    "company": "妄想族",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/5b25293b92c2d5857aea760b0966e8be.jpg",
+    "actress": [
+      "久我まどか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-262"
+  },
+  {
+    "id": 89662,
+    "IDcode": "SDAB-269",
+    "title": "いっぱい回り道しながら、突っ走る青春 樟葉杏 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "无毛",
+      "单体作品",
+      "首次亮相",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-09-26",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/a569d7fd8be0f194d36d4e7ca3421ae8.jpg",
+    "actress": [
+      "樟葉杏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-269"
+  },
+  {
+    "id": 89663,
+    "IDcode": "SDAB-270",
+    "title": "青春汁まみれ みずみずしくフレッシュなつるぺたパイパンボディから汁、汗、潮、精子が弾け飛ぶ！どっぴゅん10発！！ 霧島さな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "中出",
+      "单体作品",
+      "多P",
+      "乳房",
+      "潮吹",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-10-31",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/089cf6b8b04725f8c6dec808cd2e0102.jpg",
+    "actress": [
+      "霧島さな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-270"
+  },
+  {
+    "id": 89705,
+    "IDcode": "SDAB-271",
+    "title": "19歳、1度だけのAV出演。この娘、早漏びんかん体質。成績トップのマジメちゃん美少女はちっぱいだけど、エロい女に憧れている。 春風なのか AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "平胸",
+      "多P",
+      "嫩妹",
+      "第一人称摄影",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-09-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/fbe2fc3d34e6d9500aa8fff2b023b2d5.jpg",
+    "actress": [
+      "春風なのか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-271"
+  },
+  {
+    "id": 89682,
+    "IDcode": "SDAB-272",
+    "title": "わたしのみずみずしい姿、見てくれますか?敏感すぎる潮まみれおもらしエース 月美りょう AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "首次亮相",
+      "美少女",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-11-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/a4a10182852e93d38650d7de6e20cf26.jpg",
+    "actress": [
+      "月美りょう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-272"
+  },
+  {
+    "id": 89657,
+    "IDcode": "SDAB-273",
+    "title": "子育て●●。パパと最愛の娘の歪んだ愛の日常 美好柚伽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "平胸",
+      "戏剧",
+      "美少女",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-11-28",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/6f3f55742dde0b1702ce30b6101fd7e6.jpg",
+    "actress": [
+      "美好柚伽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-273"
+  },
+  {
+    "id": 13048,
+    "IDcode": "SDAB-275",
+    "title": "新人出道！練舞蹈柔軟的害羞女孩的誠實性欲 AV DEBUT ~ 桜すずか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作品",
+      "淫亂",
+      "少女",
+      "JK校服",
+      "學校",
+      "亂交 • 群P",
+      "女上位",
+      "中出",
+      "3P・4P",
+      "飯店",
+      "色白",
+      "口交",
+      "女優",
+      "企畫",
+      "兩男一女",
+      "小隻馬",
+      "出道作"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2024-08-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20240730/20240730021024671671.jpg",
+    "actress": [
+      "桜すずか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-275"
+  },
+  {
+    "id": 89683,
+    "IDcode": "SDAB-277",
+    "title": "空野きらAV DEBUT 工業女子が憧れていたアイドルの姿。いま、作業着からキラキラした世界へ ちっちゃいカラダおっきな性欲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "平胸",
+      "单体作品",
+      "美少女",
+      "苗条",
+      "首次亮相",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-11-14",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/026b1be1537d01ab13f4ccabdeb5331d.jpg",
+    "actress": [
+      "空野きら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-277"
+  },
+  {
+    "id": 89654,
+    "IDcode": "SDAB-279",
+    "title": "只有初體驗的4科目（3性愛）【第一節初次的巨根性愛 第二節初次拘束失禁精油性愛 第三節初次的3P性愛 秘密的第四節初次顏射】 樟葉杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-2/8d6a31b6ecb6f71112caf0d0b8a7b111.webp",
+    "actress": [
+      "樟葉杏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-279"
+  },
+  {
+    "id": 89690,
+    "IDcode": "SDAB-282",
+    "title": "元气十足的敏感少女-空野绮良",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "平胸",
+      "美少女",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240222-1/54c214601df9ed5f2b7d43456890d8e8.jpg",
+    "actress": [
+      "空野きら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-282"
+  },
+  {
+    "id": 17563,
+    "IDcode": "SDAB-284",
+    "title": "新人出道！ 能夠演奏出美麗音樂的藝能人 美咲音 首次亮相 AV DEBUT",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女優訪談",
+      "出道作品",
+      "JK校服",
+      "學校",
+      "中出",
+      "美少女",
+      "紀錄片",
+      "口交",
+      "女優",
+      "企畫",
+      "純粹的慾望",
+      "出道作"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-12-21",
+    "cover_url": "https://picture.yoshiclub.xyz/20231128/202311280225497979.jpg",
+    "actress": [
+      "美咲音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-284"
+  },
+  {
+    "id": 89685,
+    "IDcode": "SDAB-289",
+    "title": "嫌がる制服美少女をヤリ部屋で終日加●教育 新宿区●●ハイツ305号室 半べそでイキ狂うまでイラマ性交 樟葉杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "运动短裤",
+      "放尿",
+      "多P",
+      "制服",
+      "淫乱，真实",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-12-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/5548b61a11b055dd5918d8f3babc64d5.jpg",
+    "actress": [
+      "樟葉杏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-289"
+  },
+  {
+    "id": 16846,
+    "IDcode": "SDAB-291",
+    "title": "偷拍老师俱乐部-甘井胡桃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "厠所",
+      "JK校服",
+      "美乳",
+      "女上位",
+      "學校",
+      "按摩棒",
+      "手指插入",
+      "中出",
+      "多P",
+      "口交",
+      "巨乳",
+      "和服・浴衣・喪服",
+      "騎乗位",
+      "女學生",
+      "更衣室",
+      "後入",
+      "制服"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240303-1/46da1f7bc56cefbeae0d2f57c21dbba2.jpg",
+    "actress": [
+      "甘井くるみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-291"
+  },
+  {
+    "id": 14391,
+    "IDcode": "SDAB-312",
+    "title": "放學後中年脊椎按摩師對第一次達到性高潮的年輕女孩的猥褻的治療 ~ 希和みこと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩・美容店",
+      "女上位",
+      "口交",
+      "性騷擾",
+      "絕頂高潮",
+      "校花",
+      "後入",
+      "抹油",
+      "羞恥",
+      "淫亂",
+      "亂交 • 群P",
+      "3P・4P",
+      "按摩・物理治療・美容",
+      "蠻橫嬌羞",
+      "舔陰",
+      "女學生",
+      "凌辱",
+      "騎乗位",
+      "兩男一女",
+      "美少女電影",
+      "美腳",
+      "劇情",
+      "形象俱樂部",
+      "警察制服",
+      "色白",
+      "美少女",
+      "潮吹",
+      "中出",
+      "癡女",
+      "猥亵",
+      "清純"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2024-06-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20240528/b460ff9b-9471-4689-bc92-7f6e6952b00b.jpg",
+    "actress": [
+      "希和みこと"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-312"
+  },
+  {
+    "id": 13728,
+    "IDcode": "SDAB-315",
+    "title": "「福利生的第一次訓練，第一次沒有避孕套的性愛，中出感覺好嗎？」 ~ 希和みこと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "紀念作",
+      "中出",
+      "角色扮演",
+      "多P",
+      "企畫"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
     "publish_date": "2024-06-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20240624/20240624034823924924.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20240626/e93c919c-5ba7-420d-a064-e46beedca2ce.jpg",
     "actress": [
-      "千石もなか"
+      "希和みこと"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-315"
   },
   {
-    "id": 62461,
-    "IDcode": "RMER-048",
-    "title": "痴女唾液狩り",
+    "id": 10517,
+    "IDcode": "SDAB-320",
+    "title": "桜すずか 初中出し ～大好きだった講師の言うことは逆らえずに、きもデブおじに何度も種付けプレスされたすずか～",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/61c3579485b11f2ede371b0083fd2cd0.jpg",
-    "actress": [
-      "瀬那瑠美奈",
-      "安野由美",
-      "宗像れな",
-      "日々樹梨花",
-      "壇涼果"
+    "genres": [
+      "誘騙女性",
+      "女上位",
+      "口交",
+      "絕頂高潮",
+      "後入",
+      "羞恥",
+      "痴漢",
+      "淫亂",
+      "手指插入",
+      "JK校服",
+      "亂交 • 群P",
+      "少女",
+      "3P・4P",
+      "舔陰",
+      "凌辱",
+      "女學生",
+      "騎乗位",
+      "兩男一女",
+      "美少女電影",
+      "打屁股",
+      "劇情",
+      "變態",
+      "唾液敷面",
+      "色白",
+      "潮吹",
+      "小隻馬",
+      "顏射",
+      "蒙面・面罩",
+      "按摩棒",
+      "中出",
+      "多P",
+      "過膝襪・小腿襪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-048"
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/26/a3b5ef938e441863b2743a489f1092b3.jpg",
+    "actress": [
+      "桜すずか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-320"
   },
   {
-    "id": 2548,
-    "IDcode": "RMER-049",
-    "title": "滴り落ちるヨダレ一線 ボールギャグを嵌められた女たち",
+    "id": 10362,
+    "IDcode": "SDAB-321",
+    "title": "スク水ごしの乳首イキ開発 SEX 芋ひよこ女子とふたりきりになったスケベ体育教諭が発育途上のおっぱい をず～っと愛でてチクイキの虜にさせる 南日菜乃",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/c1eecea1/vod.jpg",
-    "actress": [
-      "柏木小夏",
-      "浜辺栞帆",
-      "有加里乃乃花",
-      "佐久間楓",
-      "十川ありさ",
-      "日々樹梨花"
+    "genres": [
+      "誘騙女性",
+      "蘿莉控",
+      "美乳",
+      "女上位",
+      "飯店",
+      "口交",
+      "性騷擾",
+      "絕頂高潮",
+      "後入",
+      "羞恥",
+      "痴漢",
+      "少女",
+      "手指插入",
+      "調教",
+      "舔陰",
+      "女學生",
+      "騎乗位",
+      "泳裝",
+      "美少女電影",
+      "美腳",
+      "校園生活",
+      "接吻",
+      "學校",
+      "劇情",
+      "形象俱樂部",
+      "變態",
+      "色白",
+      "美少女",
+      "小隻馬",
+      "老頭子",
+      "慾求不滿",
+      "中出",
+      "猥亵",
+      "清純"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-049"
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/4747b7bb/vod.jpg",
+    "actress": [
+      "南日菜乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-321"
   },
   {
-    "id": 184981,
-    "IDcode": "RMSQ-013",
-    "title": "死ぬほどイカされて無惨な姿を晒す屈辱 強き女たちの残酷 野獣の群れに囲まれて完全陥落するまで SUPERLATIVE ECSTASY FILE",
+    "id": 10025,
+    "IDcode": "SDAB-322",
+    "title": "18歳AVデビュー那津乃ちなみ 陸上少女の流す汗とまなざし潤うまな板ちっぱい。未熟な心に芽生えた本能。",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "紀念作",
+      "女上位",
+      "臀控",
+      "口交",
+      "野性",
+      "女優",
+      "後入",
+      "羞恥",
+      "美腿",
+      "少女",
+      "手指插入",
+      "流汗",
+      "性感",
+      "舔陰",
+      "企畫",
+      "騎乗位",
+      "體育舘",
+      "美少女電影",
+      "美腳",
+      "出道作品",
+      "形象俱樂部",
+      "膚黑",
+      "美少女",
+      "脚控・戀足癖",
+      "潮吹",
+      "感官作品",
+      "真實拍攝",
+      "運動服裝",
+      "女優訪談",
+      "苗條",
+      "中出",
+      "美臀",
+      "更衣室",
+      "清純",
+      "野外露天"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/02/65f687aebadc0fe904cb800e12eca4ec.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/889f36f7/vod.jpg",
+    "actress": [
+      "那津乃千奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-322"
+  },
+  {
+    "id": 60805,
+    "IDcode": "SDAB-324",
+    "title": "いたいけな褐色美少女がお父さんより年上のおじさんに1日中未熟なお○んこを開発され華奢な身体をのけ反らせてイキまくる性強化課外学習 那津乃ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/468d3cb1ec4eecdfdf9e77b00933f7ca.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMSQ-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-324"
   },
   {
-    "id": 2409,
-    "IDcode": "RMSQ-014",
-    "title": "ピクリとも動けない状態でイカされる女たち ガンジガラメの爆イキ 残酷女体逹磨 SUPERLATIVE ECSTASY FILE",
+    "id": 8351,
+    "IDcode": "SDAB-326",
+    "title": "陸上で鍛えた長身171cmのスレンダーな身体をおじさんの精子で汚すお籠り性学習 那津乃ちなみ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "蘿莉控",
+      "高顏值",
+      "女上位",
+      "足交",
+      "野性",
+      "濕身",
+      "女優",
+      "絕頂高潮",
+      "蘿莉",
+      "後入",
+      "早漏",
+      "羞恥",
+      "淫亂",
+      "少女",
+      "手指插入",
+      "惡搞",
+      "JK校服",
+      "亂交 • 群P",
+      "3P・4P",
+      "性感",
+      "蠻橫嬌羞",
+      "舔陰",
+      "女學生",
+      "深喉",
+      "美人",
+      "凌辱",
+      "企畫",
+      "騎乗位",
+      "白眼失神",
+      "兩男一女",
+      "美少女電影",
+      "美腳",
+      "接吻",
+      "劇情",
+      "形象俱樂部",
+      "變態",
+      "高妹",
+      "膚黑",
+      "美少女",
+      "舔腳",
+      "脚控・戀足癖",
+      "潮吹",
+      "小隻馬",
+      "吞精",
+      "顏射",
+      "老頭子",
+      "苗條",
+      "中出",
+      "癡女",
+      "美臀",
+      "清純"
+    ],
     "type": "有码",
-    "company": "MERCURY",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/27d0fb0c/vod.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/a306f5f92eee5f42ae4c0f5da5e9c2e8.jpg",
+    "actress": [
+      "那津乃千奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-326"
+  },
+  {
+    "id": 6181,
+    "IDcode": "SDAB-327",
+    "title": "18歳AVデビュー 皆川らん 経験人数1人。発展途上の華奢で内気な少女はあくなき好奇心で満ち足りなかった本物のセックスに巡り合う【特典映像付き】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高顏值",
+      "紀念作",
+      "女上位",
+      "口交",
+      "濕身",
+      "女優",
+      "校花",
+      "後入",
+      "羞恥",
+      "美腿",
+      "少女",
+      "手指插入",
+      "舔陰",
+      "女學生",
+      "美人",
+      "企畫",
+      "騎乗位",
+      "美少女電影",
+      "美腳",
+      "出道作品",
+      "接吻",
+      "形象俱樂部",
+      "清楚系",
+      "色白",
+      "美少女",
+      "舔腳",
+      "脚控・戀足癖",
+      "潮吹",
+      "真實拍攝",
+      "女優訪談",
+      "苗條",
+      "中出",
+      "貧乳",
+      "真人秀",
+      "美臀",
+      "清純"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250624-1/28b408141a06a82b2fe014fa989445d1.jpg",
+    "actress": [
+      "皆川蘭"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-327"
+  },
+  {
+    "id": 6834,
+    "IDcode": "SDAB-330",
+    "title": "東北生まれの港町育ち、小柄で純白なカラダと吸い寄せられる瞳が輝く幼な顔は何度もイって潮を吹く 四ツ葉かな 18歳AVデビュー 四ッ葉かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蘿莉控",
+      "紀念作",
+      "女上位",
+      "大奶头",
+      "口交",
+      "女優",
+      "蘿莉",
+      "後入",
+      "羞恥",
+      "少女",
+      "4K",
+      "女學生",
+      "企畫",
+      "無毛",
+      "騎乗位",
+      "美少女電影",
+      "美腳",
+      "出道作品",
+      "形象俱樂部",
+      "清楚系",
+      "美少女",
+      "小隻馬",
+      "真實拍攝",
+      "女優訪談",
+      "M男・M女",
+      "苗條",
+      "中出",
+      "田舍娘",
+      "真人秀",
+      "清純",
+      "奇聞趣事"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/a8c11ac4f0c76db7289260b2e3573608.jpg",
+    "actress": [
+      "四ッ葉かな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-330"
+  },
+  {
+    "id": 5603,
+    "IDcode": "SDAB-334",
+    "title": "この冬、浪人生になった内気な美少女は色白Aカップボディを開発されてガチ未処理剛毛マ○コから糸を引くほど感じる 長野県松本市在住 桜庭菜乃花 18歳AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高顏值",
+      "紀念作",
+      "女上位",
+      "奇異的",
+      "口交",
+      "女優",
+      "絕頂高潮",
+      "校花",
+      "後入",
+      "羞恥",
+      "美腿",
+      "少女",
+      "手指插入",
+      "舔陰",
+      "4K",
+      "女學生",
+      "美人",
+      "企畫",
+      "騎乗位",
+      "美少女電影",
+      "美腳",
+      "出道作品",
+      "形象俱樂部",
+      "清楚系",
+      "色白",
+      "美少女",
+      "潮吹",
+      "小隻馬",
+      "真實拍攝",
+      "女優訪談",
+      "苗條",
+      "中出",
+      "單體作品",
+      "貧乳",
+      "真人秀",
+      "清純"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/db2c4006b3b86e17acc50845e9215dae.jpg",
+    "actress": [
+      "桜庭菜乃花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-334"
+  },
+  {
+    "id": 5268,
+    "IDcode": "SDAB-335",
+    "title": "長身スレンダー美女が粘着オジサン達にかわりばんこでずーーっとイかされ続ける1日限りのワケあり合法共同生活 18歳絶頂開発 皆川らん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高顏值",
+      "女上位",
+      "口交",
+      "女優",
+      "絕頂高潮",
+      "後入",
+      "口爆",
+      "羞恥",
+      "美腿",
+      "淫亂",
+      "少女",
+      "手指插入",
+      "亂交 • 群P",
+      "3P・4P",
+      "性感",
+      "蠻橫嬌羞",
+      "4K",
+      "舔陰",
+      "美人",
+      "粉丝",
+      "企畫",
+      "騎乗位",
+      "泳裝",
+      "無毛",
+      "兩男一女",
+      "美少女電影",
+      "美腳",
+      "接吻",
+      "形象俱樂部",
+      "清楚系",
+      "唾液敷面",
+      "高妹",
+      "美少女",
+      "舔腳",
+      "脚控・戀足癖",
+      "潮吹",
+      "粉絲福利",
+      "真實拍攝",
+      "女優訪談",
+      "素人",
+      "吞精",
+      "比基尼",
+      "顏射",
+      "老頭子",
+      "按摩棒",
+      "中出",
+      "單體作品",
+      "貧乳",
+      "乳交",
+      "苗條",
+      "多P",
+      "真人秀",
+      "美臀",
+      "清純",
+      "奇聞趣事"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250624-1/0ce212f5e0b64870692a17d9b5cb3d8e.jpg",
+    "actress": [
+      "皆川蘭"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-335"
+  },
+  {
+    "id": 4400,
+    "IDcode": "SDAB-336",
+    "title": "アブナイM願望が芽生えた剛毛マ〇コ浪人生が屈強なデカチン達に終日滅多挿しにされる上京体験。長野県松本市在住 桜庭菜乃花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高顏值",
+      "女上位",
+      "大奶头",
+      "女僕制服",
+      "口交",
+      "女優",
+      "絕頂高潮",
+      "校花",
+      "鬃毛",
+      "後入",
+      "早漏",
+      "羞恥",
+      "美腿",
+      "淫亂",
+      "少女",
+      "手指插入",
+      "調教",
+      "亂交 • 群P",
+      "3P・4P",
+      "舔陰",
+      "4K",
+      "女學生",
+      "美人",
+      "企畫",
+      "騎乗位",
+      "兩男一女",
+      "COSPLAY服飾",
+      "美少女電影",
+      "美腳",
+      "形象俱樂部",
+      "清楚系",
+      "高妹",
+      "美少女",
+      "小隻馬",
+      "真實拍攝",
+      "女優訪談",
+      "M男・M女",
+      "蒙面・面罩",
+      "按摩棒",
+      "單體作品",
+      "中出",
+      "貧乳",
+      "苗條",
+      "美臀",
+      "清純"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/a387e9c9f8c357409fe5b62f22632214.jpg",
+    "actress": [
+      "桜庭菜乃花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-336"
+  },
+  {
+    "id": 4188,
+    "IDcode": "SDAB-337",
+    "title": "家庭的で世話好きなちっぱいスレンダー美少女が絶倫チ〇ポ達の家にご訪問致します。有り余った性欲を母性で受け止めて精子が空っぽになるまでひたすら笑顔でご奉仕ヌキしてくれる 18歳母性本能 皆川らん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高顏值",
+      "女上位",
+      "女僕制服",
+      "口交",
+      "女優",
+      "絕頂高潮",
+      "後入",
+      "口爆",
+      "極品美人",
+      "羞恥",
+      "美腿",
+      "少女",
+      "手指插入",
+      "上門福利",
+      "蠻橫嬌羞",
+      "4K",
+      "舔陰",
+      "美人",
+      "粉丝",
+      "企畫",
+      "騎乗位",
+      "COSPLAY服飾",
+      "黑絲",
+      "美少女電影",
+      "美腳",
+      "形象俱樂部",
+      "清楚系",
+      "色白",
+      "美少女",
+      "小隻馬",
+      "女優訪談",
+      "素人",
+      "老頭子",
+      "苗條",
+      "中出",
+      "單體作品",
+      "癡女",
+      "貧乳",
+      "美臀",
+      "清純"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/d69e72fd78418f5a5c78ba0aacbb0c9f.jpg",
+    "actress": [
+      "皆川蘭"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-337"
+  },
+  {
+    "id": 2377,
+    "IDcode": "SDAB-339",
+    "title": "将来もエッチもまだ模索中の、ベビーフェイス×しっかり者なギャップ美少女。プロの手ほどきで快感に目覚め、大量潮吹き！ 愛知県 名古屋市在住 佐野葉月 18歳AVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蘿莉控",
+      "高顏值",
+      "紀念作",
+      "女上位",
+      "大奶头",
+      "口交",
+      "濕身",
+      "女優",
+      "絕頂高潮",
+      "蘿莉",
+      "自慰",
+      "後入",
+      "口爆",
+      "羞恥",
+      "淫亂",
+      "少女",
+      "手指插入",
+      "亂交 • 群P",
+      "3P・4P",
+      "蠻橫嬌羞",
+      "舔陰",
+      "女學生",
+      "美人",
+      "企畫",
+      "騎乗位",
+      "兩男一女",
+      "泳裝",
+      "美少女電影",
+      "美腳",
+      "出道作品",
+      "接吻",
+      "形象俱樂部",
+      "美少女",
+      "舔腳",
+      "正統派",
+      "潮吹",
+      "小隻馬",
+      "真實拍攝",
+      "女優訪談",
+      "按摩棒",
+      "貧乳",
+      "單體作品",
+      "苗條",
+      "真人秀",
+      "清純"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/05/9ca8e1d881a0f657c25bd7b92a60ec2f.jpg",
+    "actress": [
+      "佐野葉月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-339"
+  },
+  {
+    "id": 174846,
+    "IDcode": "SDAB-340",
+    "title": "【18歳AVデビュー】純潔を奪われたい惑う瞳のミニマム女子。自転車で走る1時間半、毎日1人でエッチな妄想してた。 寺川ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/27/3df5a3572b593eb516d71e3570a6a658.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMSQ-014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-340"
   },
   {
-    "id": 174641,
-    "IDcode": "RMSQ-015",
-    "title": "究極の快楽爆沈プログラム 絶頂狂い実験台 SUPERLATIVE ECSTASY FILE",
+    "id": 169827,
+    "IDcode": "SDAB005",
+    "title": "青春时代班花其实超好色！？",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/03/4ae428eb/vod.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20241123-1/381843b7d1f8f7599b8cc6152ff37762.jpg",
+    "actress": [
+      "凉海美沙"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB005"
+  },
+  {
+    "id": 218783,
+    "IDcode": "sdabp-003",
+    "title": "大哥哥的专属女郎-皆野あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"蚊香社\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/12/775639fa265e892cfc32b4061f520701.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMSQ-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdabp-003"
   },
   {
-    "id": 3918,
-    "IDcode": "RNA-005",
-    "title": "素人の縛り生中出し 面接にきた奥さんが巨乳だったのでさらって自宅に連れ込み2人がかりで無茶してみた 徳島理子",
+    "id": 218878,
+    "IDcode": "sdabp-008",
+    "title": "我想让你在我身上射精-佐々波綾",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "素人Only",
+    "company": "[\"蚊香社\"]",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/942b34364aa1d4b33bc787e212da8f6d.jpg",
-    "actress": [
-      "徳島理子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RNA-005"
-  },
-  {
-    "id": 178084,
-    "IDcode": "RNA-006",
-    "title": "素人の縛り生中出し【敏感イキ狂い痙攣妻編】お隣の優しい奥さんが料理のお裾分けをくれたので、カラダも一緒に食べてあげました。 平岡里枝子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/08/5b65df8485a915e2b85cec8107d8a05e.jpg",
+    "cover_url": "https://tutu1.space/images/2022/07/20/6e338c8f13b6d90b228de6bb073c6a85.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RNA-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdabp-008"
   },
   {
-    "id": 212709,
-    "IDcode": "roe-004",
-    "title": "爆乳美魔女-市川京子",
+    "id": 211466,
+    "IDcode": "sdam-002",
+    "title": "青春白濁対抗戦",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/10/786df26f0a1c631810c6fe4b33b4bc64.jpg",
+    "cover_url": "https://tutu1.space/images/2021/01/13/b65f7b8c4567dabbf275e5debe25a65e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=roe-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdam-002"
   },
   {
-    "id": 79622,
-    "IDcode": "ROE-005",
-    "title": "美熟女-一色桃子",
+    "id": 70669,
+    "IDcode": "SDAM-004",
+    "title": "和大学生姐姐的近亲相奸无套内射",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/17/ef7444c2a617c66c9402b67f533a7e4b.jpg",
-    "actress": [
-      "一色桃子"
+    "genres": [
+      "投稿",
+      "偷窥",
+      "妹妹",
+      "中出",
+      "女大学生",
+      "乱伦"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-005"
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250615-2/6032efc0180a100cb2b39ed6821b8574.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-004"
   },
   {
-    "id": 79532,
-    "IDcode": "ROE-009",
-    "title": "元国際線CA MONROE専属第2弾！！ 隣の人妻家庭教師～高学歴スレンダー美熟女に教わる大人の手ほどき～ 坂井希",
+    "id": 165392,
+    "IDcode": "SDAM-009",
+    "title": "男まさりの工業系女子 西條いつき SEXの味",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2021-09-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/75f12f226e73d4f20a27560fc8b9deeb.jpg",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/phdxdz4phqz.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-009"
   },
   {
-    "id": 79460,
-    "IDcode": "ROE-010",
-    "title": "立志成为内衣模特的婆婆-一色桃子",
+    "id": 70237,
+    "IDcode": "SDAM-013",
+    "title": "邀约混浴温泉",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/01/58614a454b48e853319efbb3c8285935.jpg",
-    "actress": [
-      "一色桃子"
+    "genres": [
+      "业余",
+      "素人作品",
+      "浴衣",
+      "已婚妇女",
+      "白天出轨",
+      "美容院"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-010"
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/14/367b466f160179a6b2c5c78faef16713.jpg",
+    "actress": [
+      "葵百合香",
+      "山口菜穂",
+      "南佳也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-013"
   },
   {
-    "id": 214023,
-    "IDcode": "roe-011",
-    "title": "阳光的妻子-青山れな",
+    "id": 73602,
+    "IDcode": "SDAM-022",
+    "title": "彼女のマ○コから溢れる中出しザーメン汁で20mlの液量計を一杯にせよ！が一転寝取られ中出しゲームへ！",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "业余",
+      "素人作品",
+      "中出",
+      "情侣",
+      "白天出轨",
+      "企画"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "[\"SOD\"]",
+    "publish_date": "2019-07-11",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/be237ca8654b90bfec0b338f5ca0a69a.jpg",
+    "actress": [
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-022"
+  },
+  {
+    "id": 165393,
+    "IDcode": "SDAM-029",
+    "title": "風俗嬢に説教して泣かせながらイラマチオさせてフル勃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/20/6df401c5790b2539a71fee80dcbee4aa.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/jt1mh13bhtv.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=roe-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-029"
   },
   {
-    "id": 79844,
-    "IDcode": "ROE-012",
-    "title": "单身女性-市川京子",
+    "id": 78799,
+    "IDcode": "SDAM-039",
+    "title": "法事で7年ぶりに再会した同級生たちに酔わされ輪姦された金髪喪服ギャル",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "女生",
+      "素人作品",
+      "中文字幕"
+    ],
     "type": "有码",
-    "company": "MADONNA",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/20/50e8795fd3ae51a11268a4ef9bbbf56f.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/ithjyhsee4l.jpg",
+    "actress": [
+      "日泉舞香",
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-039"
+  },
+  {
+    "id": 78845,
+    "IDcode": "SDAM-040",
+    "title": "ドM素人限定 媚薬固定バイブアクメ3輪車レース",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "素人作品",
+      "按摩棒",
+      "中文字幕",
+      "巨乳",
+      "猎艳",
+      "羞耻",
+      "企画",
+      "素人"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/4cstsoz2nsq.jpg",
+    "actress": [
+      "佐倉陽菜",
+      "石原理央",
+      "爱里るい",
+      "相泽ゆりな",
+      "瀬乃ひなた"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-040"
+  },
+  {
+    "id": 83180,
+    "IDcode": "SDAM-041",
+    "title": "「とうとう、息子とつながっちゃいました！」甘すぎた献身ママと勃起が治まらない息子の近親相姦温泉旅行",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "素人作品",
+      "偷窥",
+      "母亲",
+      "乱伦",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2020-01-09",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/bfcd8f20009ddfe7cf327e887b117b07.jpg",
+    "actress": [
+      "葵百合香",
+      "菅野真穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-041"
+  },
+  {
+    "id": 165396,
+    "IDcode": "SDAM-043",
+    "title": "丈夫偷拍到妻子出轨現場6小时的記録新体験全編丈夫的视角观看NTR视频-通野未帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/28/f7b36b68fa25631ba1447318736b47a4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-043"
   },
   {
-    "id": 214038,
-    "IDcode": "roe-013",
-    "title": "在办公室兴奋中-成咲優美",
+    "id": 97626,
+    "IDcode": "SDAM-044",
+    "title": "被注射了壮阳药的姐妹",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "药物",
+      "乱伦",
+      "业余",
+      "妹妹"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "[\"SOD\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/20/2cd8a56b9b59299431c186561ead7805.jpg",
+    "cover_url": "https://tutu1.space/images/2023/01/08/a21282a4ee5e9c946cec1b1786ae6b1d.jpg",
+    "actress": [
+      "皆月光",
+      "永瀬ゆい",
+      "香坂みりな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-044"
+  },
+  {
+    "id": 1587,
+    "IDcode": "SDAM-046",
+    "title": "她被逼着在她丈夫面前穿着游泳衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "無碼流出",
+      "出軌",
+      "巨乳",
+      "和服・浴衣・喪服",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/01/e81236be13128dba2002a179a3766427.jpg",
+    "actress": [
+      "鈴木真夕",
+      "広瀬結香",
+      "小鳥遊百惠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-046"
+  },
+  {
+    "id": 70767,
+    "IDcode": "SDAM-048",
+    "title": "出演志願AVDEBUTちはや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "首次亮相",
+      "女主播",
+      "业余",
+      "瘦小身型"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/06/02/QQ20200603051157bf227.jpg",
+    "actress": [
+      "小田切ジュン",
+      "秋元千早"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-048"
+  },
+  {
+    "id": 88204,
+    "IDcode": "SDAM-053",
+    "title": "精子の量が多ければ多いほど金額UP！男性の濃厚精子が溜まったチ○ポを抜いてくれませんか？素人5名がご自慢のテクで挑戦！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "手淫",
+      "素人",
+      "企画"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "2020-08-27",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/9ce025729ccf13254a51e3a994586722.jpg",
+    "actress": [
+      "香坂みりな",
+      "椎木くるみ",
+      "ひなちゆん",
+      "近藤れおな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-053"
+  },
+  {
+    "id": 89677,
+    "IDcode": "SDAM-072",
+    "title": "温泉发现的年轻女子-尾濑高原",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "手淫",
+      "洗澡",
+      "女大学生"
+    ],
+    "type": "有码",
+    "company": "[\"SOD\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/599050a5f51e9a5c75551dbbd310a2d9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=roe-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-072"
   },
   {
-    "id": 86020,
-    "IDcode": "ROE-015",
-    "title": "搾精生活一星期-一色桃子",
+    "id": 89661,
+    "IDcode": "SDAM-073",
+    "title": "イルミネーションを見に来ていた冬休み中の女子大生さん 「半裸で移動販売してみませんか?」お客さんにバレないよう10分おきに過激になる下半身イジられミッションに耐えられるか!?",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/01/10/79da9c2300cc754e42f7f42b2364257f.jpg",
-    "actress": [
-      "一色桃子"
+    "genres": [
+      "羞耻",
+      "业余",
+      "女大学生"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-015"
-  },
-  {
-    "id": 86019,
-    "IDcode": "ROE-016",
-    "title": "元国際線CA第3弾-坂井希",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/01/10/293199c48ccaa7bcd2c31ca20e541a4b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-016"
-  },
-  {
-    "id": 86013,
-    "IDcode": "ROE-021",
-    "title": "友田真希ワンランク上の40代レーベルモンロー専属移籍！！ 母の二度目の結婚―。親離れできない息子の中出し近親相姦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2021-11-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230201-1/8b8223c4dd6cb174ddcefb47f316525f.jpg",
+    "company": "[\"SOD\"]",
+    "publish_date": "2023-06-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/4e15b7caf9d6be1d39b4ae81cfec4051.jpg",
     "actress": [
-      "友田真希"
+      "新山ちなつ",
+      "富岡亞里沙",
+      "泉田栞",
+      "もっともあ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-021"
-  },
-  {
-    "id": 90287,
-    "IDcode": "ROE-022",
-    "title": "高学歴エリート人妻は、濃厚フェラチオがお好き-。 大手広告代理店勤務 希咲鈴々花 42歳 AV DEBUT",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2021-11-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240116-1/df5d31179d558057bd7a6772ee1380ac.jpg",
-    "actress": [
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-022"
-  },
-  {
-    "id": 85996,
-    "IDcode": "ROE-030",
-    "title": "母亲和她的秘密课程-友田真希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/06/7951f74b7e32ca420aa0305894f9ee56.jpg",
-    "actress": [
-      "友田真希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-030"
-  },
-  {
-    "id": 215969,
-    "IDcode": "roe-033",
-    "title": "英会話講師-静河真理子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/07/f4ff15565f7b7117447789d6bdadd43c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=roe-033"
-  },
-  {
-    "id": 85973,
-    "IDcode": "ROE-034",
-    "title": "高学歴人妻-希咲鈴々花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/02/bece6027b160e5b62849d781c9b3e65e.jpg",
-    "actress": [
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-034"
-  },
-  {
-    "id": 215968,
-    "IDcode": "roe-035",
-    "title": "母子相姦-よしい美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/07/540743bccda96fcfe8b2ae0b5f528d5b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=roe-035"
-  },
-  {
-    "id": 215967,
-    "IDcode": "roe-036",
-    "title": "家政婦-平岡里枝子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/07/4a8215e95edca57d1a5ce781033121ce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=roe-036"
-  },
-  {
-    "id": 215966,
-    "IDcode": "roe-038",
-    "title": "中年夫婦-松嶋保奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/07/96907c9614125b3112a8ef41952af845.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=roe-038"
-  },
-  {
-    "id": 85999,
-    "IDcode": "ROE-039",
-    "title": "姨妈迷人的身体-友田真希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/21/7bc5a132f8c3a83be4767d39b5506a71.jpg",
-    "actress": [
-      "友田真希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-039"
-  },
-  {
-    "id": 86015,
-    "IDcode": "ROE-040",
-    "title": "在岳父去世三周年的时候-一色桃子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/11/1764a92593f95e9d86e3d6f7561a3e08.jpg",
-    "actress": [
-      "一色桃子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-040"
-  },
-  {
-    "id": 85997,
-    "IDcode": "ROE-041",
-    "title": "父亲和母亲仍然一起洗澡",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/11/fef583dbca6b54263996afa0766e288b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-041"
-  },
-  {
-    "id": 86021,
-    "IDcode": "ROE-042",
-    "title": "近親相姦-水野優香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/11/e9ca1e6a7d5b87a5ef48200af2e5dc7d.jpg",
-    "actress": [
-      "水野優香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-042"
-  },
-  {
-    "id": 86033,
-    "IDcode": "ROE-043",
-    "title": "親子関係-天野るみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/11/87fe611fc0e94de6fac66fd5b80f6d87.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-043"
-  },
-  {
-    "id": 86000,
-    "IDcode": "ROE-044",
-    "title": "母の柔肌-平岡里枝子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/23/37939d5069636f6a114193d522718386.jpg",
-    "actress": [
-      "平冈里枝子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-044"
-  },
-  {
-    "id": 86022,
-    "IDcode": "ROE-045",
-    "title": "再婚的母亲-よしい美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/23/7b69f02e1e68b116395e806e3983fabb.jpg",
-    "actress": [
-      "しみけん",
-      "伊沢凉子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-045"
-  },
-  {
-    "id": 85986,
-    "IDcode": "ROE-046",
-    "title": "最愛の母-加峰幸香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/23/a0fb51520895746b2dfb9f1d80309d7c.jpg",
-    "actress": [
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-046"
-  },
-  {
-    "id": 86049,
-    "IDcode": "ROE-047",
-    "title": "近親相姦-一色桃子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/02/210d24e2d4661d42e7753fcec19829ee.jpg",
-    "actress": [
-      "一色桃子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-047"
-  },
-  {
-    "id": 86023,
-    "IDcode": "ROE-048",
-    "title": "女老板的故事-友田真希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/02/44d5f01a11e149dc90c88c1b0cec52f3.jpg",
-    "actress": [
-      "友田真希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-048"
-  },
-  {
-    "id": 155967,
-    "IDcode": "ROE-049",
-    "title": "内衣模特的婆婆-水野優香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/04/029f86b7cd9a2620fda8493ad44aed17.jpg",
-    "actress": [
-      "水野優香",
-      "かな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-049"
-  },
-  {
-    "id": 80469,
-    "IDcode": "ROE-052",
-    "title": "上京前、初恋の人妻と過ごした夜―。‘最初’で‘最後’の惜別SEX 一色桃子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2022-03-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/b7268814397346de800d8f9a50d60528.jpg",
-    "actress": [
-      "一色桃子",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-052"
-  },
-  {
-    "id": 86040,
-    "IDcode": "ROE-053",
-    "title": "高慢女上司-友田真希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/04/03/f04265e0f1facb5249675e291c95ab65.jpg",
-    "actress": [
-      "友田真希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-053"
-  },
-  {
-    "id": 80474,
-    "IDcode": "ROE-054",
-    "title": "与她母亲度过的不伦日子-水野優香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/29/94c8e723ce956ff24be8891ea5d5aa2c.jpg",
-    "actress": [
-      "水野優香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-054"
-  },
-  {
-    "id": 86036,
-    "IDcode": "ROE-056",
-    "title": "再婚する母へ…嫉妬した僕の止まらない中出し近親相姦 希咲鈴々花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2022-04-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230201-1/64b30200bcb66be8be0f64ca582c7e62.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-056"
-  },
-  {
-    "id": 85993,
-    "IDcode": "ROE-057",
-    "title": "与她的初恋情人重逢-平岡里枝子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/04/25/14519eec8b0763e21a0dbb987d4c6c90.jpg",
-    "actress": [
-      "平冈里枝子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-057"
-  },
-  {
-    "id": 86043,
-    "IDcode": "ROE-063",
-    "title": "結婚前夜-平岡里枝子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/05/25/668bf6d462406dd28e30da279465cfe7.jpg",
-    "actress": [
-      "平冈里枝子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-063"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-073"
   }
 ];

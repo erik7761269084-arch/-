@@ -1,1505 +1,2123 @@
 window.PAGE_DATA = [
   {
-    "id": 221245,
-    "IDcode": "abp-540",
-    "title": "抛开演技细腰美臀的AV女优-水稀みり",
+    "id": 86911,
+    "IDcode": "BLK-428",
+    "title": "キミ何回デキルノ？超絶倫性欲の南米ハーフギャルに出逢って何発もヌカれエロ過ぎたのでAV出演",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/06/e974e089d877bfeeb38b194db4148b39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-540"
-  },
-  {
-    "id": 221557,
-    "IDcode": "abp-541",
-    "title": "极品身材的服务女郎-今永さな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/13/662c790ce28a22dc598d9e8f655a93e0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-541"
-  },
-  {
-    "id": 211612,
-    "IDcode": "abp-545",
-    "title": "性爱宠物-熊倉しょうこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/01/29/e22bd844e77e3cc3dae21903b4067c52.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-545"
-  },
-  {
-    "id": 71350,
-    "IDcode": "ABP-546",
-    "title": "若菜奈央连战巨根持久猛男",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250305-1/004949a8151aa3f188c91b3ca04e406b.jpg",
-    "actress": [
-      "若菜奈央",
-      "森林原人"
+    "genres": [
+      "女上位",
+      "口交",
+      "淫乱，真实",
+      "巨乳",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-546"
-  },
-  {
-    "id": 200597,
-    "IDcode": "ABP-548",
-    "title": "世界末日前请与我内射做爱-あやみ旬果",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250313-1/e1e80684296d87cd2b4f55c10618ae57.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-548"
-  },
-  {
-    "id": 173939,
-    "IDcode": "ABP-551",
-    "title": "园田美樱最初也是最后的中出解禁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240413-1/98913e2e14455c76783e0840baba4d74.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-551"
-  },
-  {
-    "id": 73581,
-    "IDcode": "ABP-554",
-    "title": "绝对的铁板铃村爱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240322-1/f7bb2753e8bd7f29ce7d6da43d00045b.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240718-1/b822a8eb215bd79dda9f753ed11ea03c.jpg",
     "actress": [
-      "鈴村愛里"
+      "玉木玲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-554"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-428"
   },
   {
-    "id": 214004,
-    "IDcode": "abp-555",
-    "title": "沃塔萨的公主-若菜奈央",
+    "id": 75757,
+    "IDcode": "BLK-429",
+    "title": "コリアン留学生ギャル",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/19/d6de0933b2d808e065387883c216c500.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-555"
-  },
-  {
-    "id": 175901,
-    "IDcode": "ABP-556",
-    "title": "童颜巨乳AV女优藤井有彩人生初次无套内射解禁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/25/fb36ac5ed4a851d5865d9f312f79bc3c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-556"
-  },
-  {
-    "id": 208914,
-    "IDcode": "ABP-560",
-    "title": "僕達の性処理ペット-凰かなめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/24/QQ20190825031212d6464.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-560"
-  },
-  {
-    "id": 105066,
-    "IDcode": "ABP-563",
-    "title": "身着和服提供完美服务的园田美樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240521-1/e5e19c25a21d3a3cee7dcc41c4dfab3e.jpg",
-    "actress": [
-      "园田美樱"
+    "genres": [
+      "女生",
+      "中出",
+      "口交",
+      "第一人称摄影",
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-563"
-  },
-  {
-    "id": 1643,
-    "IDcode": "ABP-566",
-    "title": "彩美旬果完全主观绝对的铁板务",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "蚊香社",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250305-1/8ae70db4a2345a185f9c65f0d78387db.jpg",
+    "cover_url": "https://tutu1.space/images/2020/07/17/ea483b99183aa6e9aa5f55243322a036.jpg",
     "actress": [
-      "彩美旬果"
+      "深田詠美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-566"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-429"
   },
   {
-    "id": 192214,
-    "IDcode": "ABP-571",
-    "title": "被死肥宅社团轮奸调教的巨乳丰满偶像今永纱奈",
+    "id": 75230,
+    "IDcode": "BLK-430",
+    "title": "不能告诉家人的秘密女高中生渚美月每天都瞒着父母和比他们还大的大叔做爱内射",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250718-1/881ad3bc617b0cc2a9287a582e469f86.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-571"
-  },
-  {
-    "id": 175869,
-    "IDcode": "ABP-573",
-    "title": "超极品风俗女爱音玛丽亚的贴身服侍用白虎小穴治愈客人的身心",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/61d873d5/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-573"
-  },
-  {
-    "id": 97782,
-    "IDcode": "ABP-576",
-    "title": "絶対的鉄板 長谷川るい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/07/22/QQ2019072216061824b19.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-576"
-  },
-  {
-    "id": 221580,
-    "IDcode": "abp-582",
-    "title": "近距离拍摄用最色情的角度超级特写",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/13/627d0dfaf273099c2c55ae01d4c63924.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-582"
-  },
-  {
-    "id": 204436,
-    "IDcode": "ABP-583",
-    "title": "社团经纪人是我们的性玩宠-愛音まりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240624-1/46b57fddce935b07410932c7d1f6fdd6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-583"
-  },
-  {
-    "id": 1666,
-    "IDcode": "ABP-588",
-    "title": "熊倉しょうこ无码流出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/04/QQ2019080418391246014.jpg",
-    "actress": [
-      "熊倉祥子"
+    "genres": [
+      "苗条",
+      "女生",
+      "口交",
+      "高中女生",
+      "美少女电影"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-588"
-  },
-  {
-    "id": 97420,
-    "IDcode": "ABP-589",
-    "title": "絶対的鉄板シチュエーション 4 凰かなめ",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/07/22/QQ201907221606182fcb4.jpg",
+    "cover_url": "/upload/vod/20250806-1/bd18245ea42953bbe9ab60b1ac2bcbfa.jpg",
     "actress": [
-      "凰香奈芽"
+      "渚光希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-589"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-430"
   },
   {
-    "id": 223490,
-    "IDcode": "abp-590",
-    "title": "极品身材AV女优-水稀みり",
+    "id": 72297,
+    "IDcode": "BLK-431",
+    "title": "地方で発掘！円光オヤジ相手にグラインド騎乗位で勝手にイキまくる超敏感原石ギャルAV出演！",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/5115c1fcc12fddf0398ce139ba7b5f11.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-590"
-  },
-  {
-    "id": 213104,
-    "IDcode": "abp-599",
-    "title": "我想爱你-水稀みり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/31/05be3edd45d7c8915fea86a9fd37c83b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-599"
-  },
-  {
-    "id": 213202,
-    "IDcode": "abp-600",
-    "title": "美女中出-今永さな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/04/c23bf7e497c83f698eb5e1c77cec2ff9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-600"
-  },
-  {
-    "id": 1645,
-    "IDcode": "ABP-601",
-    "title": "园田美樱无码流出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250327-1/10675c79e780da154e8c1765a16492b5.jpg",
-    "actress": [
-      "园田美樱"
+    "genres": [
+      "业余",
+      "潮吹",
+      "女上位",
+      "口交",
+      "高中女生"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-601"
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240718-1/ff895a10d8c95a3bb6c39b5d0c280d8d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-431"
   },
   {
-    "id": 74942,
-    "IDcode": "ABP-603",
-    "title": "被饲养的铃村爱里",
+    "id": 97993,
+    "IDcode": "BLK-432",
+    "title": "ヌキなしアジアンエステで見つけた！SKBキワキワ鬼責めFBK確定手コキの天才！東南アジアギャルAV出演",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250103-1/688c8ef2ba78f5a2db3454c7d08e50b1.jpg",
-    "actress": [
-      "鈴村愛里"
+    "genres": [
+      "潮吹",
+      "美容院",
+      "晒黑",
+      "偷窥",
+      "手淫"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-603"
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240718-1/8a4cc2a0b74a17e5947583599a7f9bbb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-432"
   },
   {
-    "id": 1576,
-    "IDcode": "ABP-606",
-    "title": "体育会系-熊倉しょうこ",
+    "id": 169210,
+    "IDcode": "BLK-433",
+    "title": "ギャル好き親父ナンパ師が人生で一番射精しまくった、超敏感Hcup日焼け乳首ギャルを海でGET",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/09/03/QQ20190904071346b32c1.jpg",
-    "actress": [
-      "熊倉祥子"
+    "genres": [
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-606"
-  },
-  {
-    "id": 166363,
-    "IDcode": "ABP-610",
-    "title": "女朋友古灵精怪的姐姐凰香奈芽偷偷诱惑我插入她",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/48a1e48d/vod.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240718-1/97f4b66e3558b8efa0483fb519e19afc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-610"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-433"
   },
   {
-    "id": 74286,
-    "IDcode": "ABP-612",
-    "title": "全身痉挛抽插做爱-愛音まりあ",
+    "id": 75229,
+    "IDcode": "BLK-434",
+    "title": "招之即来的情人永井玛丽亚一直做到早上的内射不伦",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250111-1/dcfaf5a429f8251bfd1a32776bf110e8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-612"
-  },
-  {
-    "id": 87986,
-    "IDcode": "ABP-614",
-    "title": "中文字幕 天然成分由来 ひなた澪汁 120％ 45",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/4ccbbrpeowc.jpg",
-    "actress": [
-      "日向澪"
+    "genres": [
+      "女生",
+      "中出",
+      "口交",
+      "巨乳",
+      "巨大屁股"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-614"
-  },
-  {
-    "id": 192232,
-    "IDcode": "ABP-615",
-    "title": "绝对的美少女铃村爱里全国派送到你家为你服务",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250718-1/6a592ed72abbb5ee3a37485f9238fb3e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-615"
-  },
-  {
-    "id": 71604,
-    "IDcode": "ABP-622",
-    "title": "园田美樱的色情演绎",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250301-1/2b17de3cf81bdb326f8e0b821c1dd37d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-622"
-  },
-  {
-    "id": 71336,
-    "IDcode": "ABP-623",
-    "title": "爱音麻里亚的完全主观日常妄想",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250305-1/d119d4c0c86a3a24cf219f974130b562.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-623"
-  },
-  {
-    "id": 208522,
-    "IDcode": "ABP-628",
-    "title": "絶対的鉄板-凰かなめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/07/22/QQ20190722160618da311.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-628"
-  },
-  {
-    "id": 188551,
-    "IDcode": "ABP-629",
-    "title": "忍耐风俗巨乳小姐彩美旬果专场服侍肉棒持续忍耐到达定点后痛快的释放",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250811-1/a13109d24795246d60a7dba82bb7b01f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-629"
-  },
-  {
-    "id": 97811,
-    "IDcode": "ABP-634",
-    "title": "女友的姐姐园田美樱勾引我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240505-1/a5d6dd771f3ec5a3860fc4f8f54915e8.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/31/e84571e7/vod.jpg",
     "actress": [
-      "园田美樱"
+      "永井瑪麗亞"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-634"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-434"
   },
   {
-    "id": 208959,
-    "IDcode": "ABP-635",
-    "title": "風俗タワー-愛音まりあ",
+    "id": 169216,
+    "IDcode": "BLK-434-CN",
+    "title": "超讚愛人辣妹 與喜歡的大叔懇求性愛幹到早上中出不倫02",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/09/03/QQ201909040713463fc0a.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240718-1/f639f2b2ee95e8d559a07f7d6ce3b61d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-635"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-434-CN"
   },
   {
-    "id": 213022,
-    "IDcode": "abp-637",
-    "title": "将驯服你-鈴村あいり",
+    "id": 72263,
+    "IDcode": "BLK-435",
+    "title": "第一时间拍摄下强奸心仪的不良少女深田咏美的全过程一边抽插一边被用脏话辱骂",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "制服",
+      "深喉",
+      "中出"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/26/de06c70745ca951893a630ed4c635342.jpg",
+    "cover_url": "https://tutu1.space/images/2025/08/30/7a78f8244543e13783c75966840648d1.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-435"
+  },
+  {
+    "id": 169215,
+    "IDcode": "BLK-435-CN",
+    "title": "一面被憧憬的制服辣妹瞪眼一面&amp;hellip;侵犯。 深田詠美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240718-1/a031f861dfc91bca64fd18dd96753b20.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-637"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-435-CN"
   },
   {
-    "id": 106407,
-    "IDcode": "ABP-645",
-    "title": "园田美樱各种职业OL装",
+    "id": 72286,
+    "IDcode": "BLK-436",
+    "title": "修学旅行小恶魔学生妹渚美月谎称生病勾引老师内射做爱",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240427-1/f70ed856b2f1bc8a1de4f91003b9d761.jpg",
-    "actress": [
-      "园田美樱"
+    "genres": [
+      "女生",
+      "中出",
+      "白天出轨",
+      "瘦小身型",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-645"
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/30/c62a7dd7a6b7437fb75e6743381ef1fa.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-436"
   },
   {
-    "id": 213031,
-    "IDcode": "abp-646",
-    "title": "体育会系-愛音まりあ",
+    "id": 169218,
+    "IDcode": "BLK-436-CN",
+    "title": "校外教學逆NTR 為了看病與高傲辣妹學生住同房&amp;hellip; 渚光希",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/26/79d10e7c0212d793d14e19c02f275519.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240719-1/3d27bf42510c4e2a882a4555d3f4bef1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-646"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-436-CN"
   },
   {
-    "id": 105390,
-    "IDcode": "ABP-647",
-    "title": "绝对的铁板濑名光莉",
+    "id": 79002,
+    "IDcode": "BLK-437",
+    "title": "和网上被称为第一神臀的辣妹援交女内射做爱",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240415-1/482e0236ffa96ef57b36f0a6d022b6d3.jpg",
-    "actress": [
-      "愛名光莉"
+    "genres": [
+      "女生",
+      "晒黑",
+      "口交",
+      "巨乳",
+      "巨大屁股"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-647"
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/01/36add5444b636e2778dc7d9b7df61155.jpg",
+    "actress": [
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-437"
   },
   {
-    "id": 211218,
-    "IDcode": "abp-648",
-    "title": "伴游性爱-長谷川るい",
+    "id": 75762,
+    "IDcode": "BLK-438",
+    "title": "クソ生意気下着売り制服娘を監禁生姦キメパコ中出し",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "女生",
+      "深喉",
+      "中出",
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/15/a13af46298e34ea7ac2cdfc925b84fb0.jpg",
+    "company": "KIRAKIRA",
+    "publish_date": "2019-12-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/45103c9ffb7187ec1974cc62a17667f0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-648"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-438"
   },
   {
-    "id": 213210,
-    "IDcode": "abp-650",
-    "title": "色情事情-鈴村あいり",
+    "id": 82255,
+    "IDcode": "BLK-439",
+    "title": "把傲慢的卖内裤制服女孩",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "素人作品",
+      "女生",
+      "精选，综合",
+      "晒黑",
+      "中出",
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/04/3e366b5263577b7cba125b1df97599e2.jpg",
+    "cover_url": "https://tutu1.space/images/2022/09/22/80d3f5a043df0c079d39e6f6e2e3c5a8.jpg",
+    "actress": [
+      "今井夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-439"
+  },
+  {
+    "id": 83504,
+    "IDcode": "BLK-440",
+    "title": "非主流人妻妈妈出轨做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "已婚妇女",
+      "素人作品",
+      "人妻",
+      "女生",
+      "精选，综合",
+      "深喉",
+      "乱伦",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/22/f145dc69256175b58e09574e95fd2b5e.jpg",
+    "actress": [
+      "七海雛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-440"
+  },
+  {
+    "id": 75763,
+    "IDcode": "BLK-441",
+    "title": "被他哥哥下春药内射上瘾的学生-渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "素人作品",
+      "女生",
+      "精选，综合",
+      "中出",
+      "制服",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/22/b5599f7fc1038e73cb520b523af3c3fb.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-441"
+  },
+  {
+    "id": 82850,
+    "IDcode": "BLK-444",
+    "title": "重逢超傲慢辣妹-渚みつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女生",
+      "平胸",
+      "中出",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/275a260306715fe9edde7fb292e9a28b.jpg",
+    "actress": [
+      "渚光希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-444"
+  },
+  {
+    "id": 82251,
+    "IDcode": "BLK-445",
+    "title": "校医在被窝内和青梅竹马内射做爱-今井夏帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "晒黑",
+      "口交",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/19/5daf9572d17ab18c6307d47fa0105a74.jpg",
+    "actress": [
+      "今井夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-445"
+  },
+  {
+    "id": 219542,
+    "IDcode": "BLK-446",
+    "title": "强制煽动性交勒索精子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/19/7259f63742de9b965a099da0c3bdc13c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-650"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-446"
   },
   {
-    "id": 1580,
-    "IDcode": "ABP-652",
-    "title": "同居的彩美旬果是多重人格",
+    "id": 82256,
+    "IDcode": "BLK-447",
+    "title": "用肉棒教训可爱继女-永瀬ゆい",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240427-1/212c50bd69a5bf5c2ecef837dc4d60e4.jpg",
-    "actress": [
-      "彩美旬果"
+    "genres": [
+      "深喉",
+      "女生",
+      "屁股",
+      "中出"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-652"
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/19/8e33992bd0d1dbbc5caf0cfda330091c.jpg",
+    "actress": [
+      "永瀬ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-447"
   },
   {
-    "id": 189129,
-    "IDcode": "ABP-656",
-    "title": "桃花运爆棚对园田美樱的下流想法居然都能实现了",
+    "id": 81492,
+    "IDcode": "BLK-449",
+    "title": "碰到态度超差的援交妹",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "女生",
+      "深喉",
+      "中出",
+      "淫乱，真实"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250806-1/b06db3ef1e68bcb0ea74e4d9e20fdb36.jpg",
+    "cover_url": "https://tutu1.space/images/2022/12/06/e05f5fa6c42593a1a3f2fd7c933a3a8d.jpg",
+    "actress": [
+      "佐藤爱琉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-449"
+  },
+  {
+    "id": 88289,
+    "IDcode": "BLK-450",
+    "title": "親戚のエロギャル2人が泊まりに来た夜に川の字で挟まれ両隣りから乳首をイジリ痴女られまくった…。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "口交",
+      "淫乱，真实",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "2020-03-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231003-1/94e97e19eceaca81e7a85399afb29593.jpg",
+    "actress": [
+      "渚光希",
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-450"
+  },
+  {
+    "id": 107470,
+    "IDcode": "BLK-451",
+    "title": "和纹身辣妹情妇的不伦内射旅行",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "高",
+      "女生",
+      "中出",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/9e3a3681614384f4584ee7e4e0ec5761.jpg",
+    "actress": [
+      "佐藤爱琉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-451"
+  },
+  {
+    "id": 222830,
+    "IDcode": "BLK-452",
+    "title": "已经是大叔的我和辣妹部下-今井夏帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/3f646bbdb2dd675ee0bdd32b7fb60e28.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-656"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-452"
   },
   {
-    "id": 105237,
-    "IDcode": "ABP-657",
-    "title": "和爱音在包场温泉的深厚的性交",
+    "id": 107374,
+    "IDcode": "BLK-454",
+    "title": "和一周没见的辣妹爱人-春咲りょう",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240427-1/f6b75505b39d6fb39eaadc7dd543f0c0.jpg",
-    "actress": [
-      "愛音麻里亞"
+    "genres": [
+      "出轨",
+      "女生",
+      "中出",
+      "第一人称摄影",
+      "苗条"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-657"
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/e30a7d04eb500ceee2856d49de5368fa.jpg",
+    "actress": [
+      "春咲凉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-454"
   },
   {
-    "id": 209014,
-    "IDcode": "ABP-658",
-    "title": "僕達の性処理ペット-瀬名きらり",
+    "id": 225908,
+    "IDcode": "BLK-455",
+    "title": "嚣张制服学生妹-涼花くるみ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/09/13/QQ20190913125307d29bf.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/d29e0fbb2c37d136d303deec1457d078.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-658"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-455"
   },
   {
-    "id": 72288,
-    "IDcode": "ABP-660",
-    "title": "絶対的美少女、お貸しします。 全国縦断Special 沖縄、九州、関西、中部 長谷川るい",
+    "id": 225963,
+    "IDcode": "BLK-456",
+    "title": "超爱肉棒的敏感萝莉女孩",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2017-11-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/2f56bb50e84bbc20a80434575cad08d2.jpg",
-    "actress": [
-      "长谷川るい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-660"
-  },
-  {
-    "id": 72289,
-    "IDcode": "ABP-661",
-    "title": "人生初・トランス状態 激イキ絶頂セックス 40 ガクブル失神痙攣号泣全ての感情が溢れ出る！ ひなた澪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2017-11-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/4b80b45434825d7014593a208e4d5879.jpg",
-    "actress": [
-      "日向澪",
-      "森林原人",
-      "南佳也",
-      "沢井亮"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-661"
-  },
-  {
-    "id": 72152,
-    "IDcode": "ABP-662",
-    "title": "彼女は多重人格-鈴村あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/07/22/QQ20190722160618a68ad.jpg",
-    "actress": [
-      "鈴村愛里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-662"
-  },
-  {
-    "id": 70904,
-    "IDcode": "ABP-670",
-    "title": "園田みおん緊縛解禁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/09/03/QQ201909040713463a80c.jpg",
-    "actress": [
-      "园田美樱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-670"
-  },
-  {
-    "id": 105605,
-    "IDcode": "ABP-671",
-    "title": "爱音麻里亚焦躁点到为止的高潮性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240318-1/e44318dfaf4afd3debe1d8827ad67f93.jpg",
-    "actress": [
-      "愛音麻里亞",
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-671"
-  },
-  {
-    "id": 213195,
-    "IDcode": "abp-675",
-    "title": "なた澪的整个故事",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/04/516626335eaa967d43054bd972c05d6c.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/33ea28d981a7ef18dd6ffed3fec19c73.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-675"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-456"
   },
   {
-    "id": 213197,
-    "IDcode": "abp-676",
-    "title": "让妹妹怀孕-長谷川るい",
+    "id": 225925,
+    "IDcode": "BLK-457",
+    "title": "和周围的男人随意乱交内射-今井夏帆",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乱交"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/04/510e805f19db0865bed56941562df5d7.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/6540ff4ad5f52b2122f14768dc89c924.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-676"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-457"
   },
   {
-    "id": 87975,
-    "IDcode": "ABP-677",
-    "title": "色鬼的妄想奶果都能实现-あやみ旬果",
+    "id": 225497,
+    "IDcode": "BLK-458",
+    "title": "一直暗恋的清纯班花-奏音かのん",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240505-1/7ae8539f535ebc19c2b2f0ef15784d1d.jpg",
-    "actress": [
-      "彩美旬果"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/d280fd23f9293c2899fc7fe98830a6d0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-458"
+  },
+  {
+    "id": 209409,
+    "IDcode": "BLK-459",
+    "title": "偶然隣になり-松本いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/06/25/QQ20200625212101cde8a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-459"
+  },
+  {
+    "id": 86799,
+    "IDcode": "BLK-460",
+    "title": "娘ほど歳-根尾あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "口交",
+      "白天出轨",
+      "连裤袜",
+      "屁股"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-677"
-  },
-  {
-    "id": 87539,
-    "IDcode": "ABP-679",
-    "title": "绝对的美少女园田美樱",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240502-1/793d19860991a7ae4e191f3923cdcf47.jpg",
+    "cover_url": "https://tutu1.space/images/2020/06/25/QQ202006252121017b30f.jpg",
     "actress": [
-      "园田美樱"
+      "根尾朱里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-679"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-460"
   },
   {
-    "id": 71052,
-    "IDcode": "ABP-682",
-    "title": "爱音麻里亚无限制炮火集中内射注入",
+    "id": 106005,
+    "IDcode": "BLK-461",
+    "title": "朝まで中出し不倫05",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "口交",
+      "巨乳",
+      "苗条"
+    ],
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240322-1/b5f00e582d8a09302a49dc273c92fda3.jpg",
+    "cover_url": "https://tutu1.space/images/2020/08/08/b413e43876d01c2931210aeb5b1c71df.jpg",
     "actress": [
-      "愛音麻里亞",
+      "深田詠美",
       "大岛丈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-682"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-461"
   },
   {
-    "id": 88271,
-    "IDcode": "ABP-684",
-    "title": "绝对的铁板吉川莲",
+    "id": 209872,
+    "IDcode": "BLK-462",
+    "title": "整日在做爱握着巨乳中出",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250309-1/7c313b8ceda62c776022c9524952b60a.jpg",
-    "actress": [
-      "吉岡蓮美"
+    "genres": [
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-684"
-  },
-  {
-    "id": 206731,
-    "IDcode": "ABP-687",
-    "title": "里美尤利娅超高级风俗服务",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240421-1/ebd0c92cbfafefcfa0dab605ad6011b4.jpg",
+    "cover_url": "https://tutu1.space/images/2020/08/08/fdf8f98eb43e51375291bc4110087c65.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-687"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-462"
   },
   {
-    "id": 105214,
-    "IDcode": "ABP-688",
-    "title": "园田美樱的超高级风俗服务",
+    "id": 178417,
+    "IDcode": "BLK-463",
+    "title": "超苗条美少女竹内夏希AV出演和油腻大叔亲密做爱",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240505-1/01d586cd40fc00187eeaf0dfa9b99455.jpg",
-    "actress": [
-      "园田美樱"
+    "cover_url": "https://tutu1.space/images/2025/10/10/6a7bb9a8d162523226d018bbb6c035b6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-463"
+  },
+  {
+    "id": 178416,
+    "IDcode": "BLK-465",
+    "title": "和巨乳情人藤森里穂浓密的出轨不伦内射性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-688"
-  },
-  {
-    "id": 207010,
-    "IDcode": "ABP-690",
-    "title": "清纯美少女有村希温泉浓厚性交",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240413-1/5b6a4ffde25609e54d8458a10a08f929.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/10/dd07bd4a6eaa6a944585c2f89c1f874b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-690"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-465"
   },
   {
-    "id": 105463,
-    "IDcode": "ABP-692",
-    "title": "色情的妄想爱音都能实现",
+    "id": 106446,
+    "IDcode": "BLK-468",
+    "title": "我最喜欢的同学-松本いちか",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240413-1/a2accfef69dfc1078ec4ba8d84aea570.jpg",
-    "actress": [
-      "愛音麻里亞"
+    "genres": [
+      "女生",
+      "高中女生",
+      "偷窥",
+      "中出"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-692"
-  },
-  {
-    "id": 71050,
-    "IDcode": "ABP-693",
-    "title": "AV界の逸材-結まきな",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/04/QQ2019080418391205f09.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/28/c3a11e7fe9d760932544f3862ea38e3d.jpg",
     "actress": [
-      "森林原人",
-      "大岛丈",
-      "结まきな"
+      "松本一香",
+      "玉木玲",
+      "戸川夏也"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-693"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-468"
   },
   {
-    "id": 208815,
-    "IDcode": "ABP-695",
-    "title": "天然成分由来-黒川さりな",
+    "id": 210390,
+    "IDcode": "BLK-469",
+    "title": "讨厌的老人-石原希望",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/12/QQ20190812160059d32d0.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/28/63f19d3b68ec8539b0599a04247e9f83.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-695"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-469"
   },
   {
-    "id": 196297,
-    "IDcode": "abp-696",
-    "title": "同一所学校的姐姐和我做爱-春咲りょう",
+    "id": 210391,
+    "IDcode": "BLK-470",
+    "title": "勾引闺蜜男友-深田えいみ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250309-1/305c9a2de87c1c9dc41c9038848f2b71.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/28/256b3ef1d739d16443a38b5073e36e31.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-696"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-470"
   },
   {
-    "id": 206160,
-    "IDcode": "ABP-698",
-    "title": "园田美樱穿着衣服也无法阻挡的巨乳",
+    "id": 86813,
+    "IDcode": "BLK-475",
+    "title": "情色保证-田中ねね",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乳交",
+      "中出",
+      "口交",
+      "淫乱，真实",
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240512-1/6e75e8e463dfbab5407d1146326fee2a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-698"
-  },
-  {
-    "id": 206203,
-    "IDcode": "ABP-699",
-    "title": "剥夺演技爱音纯粹疯狂的性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240512-1/65d51c2dacbb789a9fcfc5f758a6e028.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-699"
-  },
-  {
-    "id": 104738,
-    "IDcode": "ABP-700",
-    "title": "结牧菜完全拘束硬核性爱疯狂高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240624-1/74a144f925f868bbf03e4e89bf6c711a.jpg",
+    "cover_url": "https://tutu1.space/images/2020/10/23/95026faa99d898edf0e840d140e86015.jpg",
     "actress": [
-      "森林原人",
-      "结まきな"
+      "田中寧寧"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-700"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-475"
   },
   {
-    "id": 105668,
-    "IDcode": "ABP-701",
-    "title": "性感美女濑名光莉的究极风俗",
+    "id": 86721,
+    "IDcode": "BLK-476",
+    "title": "クラブ帰りに男に跨り腰を振りまくりたいハイパービッチなレゲエダンサーAV出演！",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "女上位",
+      "中出",
+      "口交",
+      "巨乳",
+      "猎艳"
+    ],
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240315-1/ce82662faec3c46bac5c593f4274690e.jpg",
+    "company": "KIRAKIRA",
+    "publish_date": "2020-11-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230213-1/4c31d1ff87c291ecb114415e5b030263.jpg",
     "actress": [
-      "愛名光莉"
+      "真木夏芽"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-701"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-476"
   },
   {
-    "id": 105276,
-    "IDcode": "ABP-702",
-    "title": "吉川莲无套内射中出解禁",
+    "id": 211823,
+    "IDcode": "BLK-484",
+    "title": "欲求不満",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240427-1/3a49f5488950155e7a00949e5329024d.jpg",
-    "actress": [
-      "吉岡蓮美",
-      "森林原人",
-      "大岛丈",
-      "沢井亮"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-702"
-  },
-  {
-    "id": 207364,
-    "IDcode": "ABP-703",
-    "title": "和铃村爱里在温泉浓密性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240329-1/75a8b3cb8ab1c7ee0bfd38ffe8d11c00.jpg",
+    "cover_url": "https://tutu1.space/images/2021/02/27/3c1a93f4471b09383513ea1119c93593.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-703"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-484"
   },
   {
-    "id": 104468,
-    "IDcode": "ABP-704",
-    "title": "色情的妄想长谷川留衣都能实现",
+    "id": 86807,
+    "IDcode": "BLK-485",
+    "title": "＃パパ活募集でやってきたエロそうな爆乳ビッチが完全マグロでビジネスSEXしてきたのでムカついて媚薬チ●ポでキメパコ中出し",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240427-1/b43e0dd19af014f35e884d8ac3a2cbe4.jpg",
-    "actress": [
-      "长谷川るい"
+    "genres": [
+      "乳交",
+      "中出",
+      "口交",
+      "第一人称摄影",
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-704"
-  },
-  {
-    "id": 208708,
-    "IDcode": "ABP-705",
-    "title": "誘惑ヤリたがり娘-黒川サリナ",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/04/QQ201908041839122bd90.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-705"
-  },
-  {
-    "id": 104471,
-    "IDcode": "ABP-706",
-    "title": "彩美旬果在蚊香社的最后一作",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240512-1/44bd2aae732cb0966ea9ecf49cf95c09.jpg",
+    "company": "KIRAKIRA",
+    "publish_date": "2021-01-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230213-1/b46e7e7ef06ce283dcacaf4226958ce9.jpg",
     "actress": [
-      "彩美旬果",
-      "森林原人"
+      "令和れい"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-706"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-485"
   },
   {
-    "id": 200602,
-    "IDcode": "ABP-707",
-    "title": "春咲凉浓郁的汁液",
+    "id": 174431,
+    "IDcode": "BLK-486",
+    "title": "遇到最讨厌的大叔却大量潮吹让绝对不承认高潮任性的金发制服女郎羞耻喷水性爱加倍返还记录视频",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250313-1/07ac568cb81ce48a07ef6589469f3dff.jpg",
+    "cover_url": "https://tutu1.space/images/2025/10/31/153b90fd9de4ea7482d623413d776fee.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-707"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-486"
   },
   {
-    "id": 206578,
-    "IDcode": "ABP-708",
-    "title": "里美尤利娅极限抽插痉挛绝顶",
+    "id": 212953,
+    "IDcode": "BLK-500",
+    "title": "女性専用風俗",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240427-1/a3eb32cdb3e4d9c27c11fe20d5c6674e.jpg",
+    "cover_url": "https://tutu1.space/images/2021/08/22/b7f2121d6a9b4c98d93f700519f07f19.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-708"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-500"
   },
   {
-    "id": 71805,
-    "IDcode": "ABP-709",
-    "title": "神乳Hcupを味わい尽くす性感覚醒3本番 ひたすら乳首とおっぱいを責めまくる4時間 乳首でもマ○コでもイキまくる！！ 河合あすな",
+    "id": 171109,
+    "IDcode": "BLK-503",
+    "title": "討厭大叔的援交女生被中年大叔超激活塞！ 【明明還是半軟狀態 為什麼插入後變這麼硬？ ！ 】 彌生美月",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2018-03-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/1a1bf32cd3ee4e3e2b103baf4a7b2bb9.jpg",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-3/dec77bdd7dbd78e73f655b8a4178c8ca.webp",
     "actress": [
-      "河合明日菜"
+      "彌生美月"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-709"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-503"
   },
   {
-    "id": 207670,
-    "IDcode": "ABP-710",
-    "title": "园田美樱的人妻出轨寝取篇章",
+    "id": 79437,
+    "IDcode": "BLK-511",
+    "title": "都合のいいタダマン オヤジ大好き欲求不満ビッチと朝までナマでパコパコ07",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "潮吹",
+      "女生",
+      "中出",
+      "口交",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240322-1/d6792f31e5d98d81c0598b5c4aae23d7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-710"
-  },
-  {
-    "id": 105628,
-    "IDcode": "ABP-711",
-    "title": "帮助处男们破处的濑名光莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240318-1/5a5d65e13384a6a5e3f8427caf4e31a2.jpg",
+    "company": "KIRAKIRA",
+    "publish_date": "2021-08-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/42f6fdc8fe8a343602ac8ed229f25f21.jpg",
     "actress": [
-      "愛名光莉"
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-711"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-511"
   },
   {
-    "id": 105595,
-    "IDcode": "ABP-712",
-    "title": "体育系美女-有村のぞみ",
+    "id": 212982,
+    "IDcode": "BLK-514",
+    "title": "淫荡的长腿-桜華みゆ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240318-1/78cccc8bbf9bf679447792f7789821d6.jpg",
+    "cover_url": "https://tutu1.space/images/2021/08/23/c624003c3a14c09aec9ae93734d224c7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-514"
+  },
+  {
+    "id": 84023,
+    "IDcode": "BLK-515",
+    "title": "现在就操我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "高",
+      "中出",
+      "第一人称摄影",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/06/c0d7bd6d6e690a046bdb6084bc5ebbb0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-515"
+  },
+  {
+    "id": 79253,
+    "IDcode": "BLK-520",
+    "title": "后宫海滩-浜崎真緒 有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "淫乱，真实",
+      "猎艳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/26/bd771c7ed75a3d231b3bbffd0bcafafb.jpg",
     "actress": [
       "有村希",
-      "田渊正浩",
+      "浜崎真绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-520"
+  },
+  {
+    "id": 79248,
+    "IDcode": "BLK-522",
+    "title": "淫乱モンスター・望月あやかと行く1泊2日ヤリまくりリゾートツアー！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫语",
+      "淫乱，真实",
+      "第一人称摄影",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "2021-09-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9c1337b0148f55b407f2ecd2c927747f.jpg",
+    "actress": [
+      "望月綾香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-522"
+  },
+  {
+    "id": 214618,
+    "IDcode": "BLK-530",
+    "title": "在病床上遇到朋友-堀北わん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/23/0c1a9cbc0f5463d90add69f31d22430c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-530"
+  },
+  {
+    "id": 79912,
+    "IDcode": "BLK-531",
+    "title": "和放荡的姑娘们在一起到天亮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "女生",
+      "中出",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/23/925bef4a7aa64a6836b4bb0ba7cb2af7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-531"
+  },
+  {
+    "id": 79914,
+    "IDcode": "BLK-532",
+    "title": "精致的约会-永井マリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "纪录片",
+      "巨乳",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/23/6584029e335e82e569d15d87bd676c3e.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-532"
+  },
+  {
+    "id": 80071,
+    "IDcode": "BLK-533",
+    "title": "爆尻解禁-永井マリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "多P",
+      "巨乳",
+      "肛交",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/23/8c1809b7589be5c6b609e7c4904cb54e.jpg",
+    "actress": [
+      "永井瑪麗亞",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-533"
+  },
+  {
+    "id": 214628,
+    "IDcode": "BLK-536",
+    "title": "我搭上了一个离家出走的女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/23/10e47f2032109b1d8fd5b19f6bfb7ab9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-536"
+  },
+  {
+    "id": 214623,
+    "IDcode": "BLK-538",
+    "title": "大乱交-AIKA 蘭華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/11/23/b437fe6cbbe94c9890f7009e2a9fa530.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-538"
+  },
+  {
+    "id": 80567,
+    "IDcode": "BLK-541",
+    "title": "性爱零食-MIYABI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "颜射",
+      "巨乳",
+      "礼仪小姐"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/02/692066d0a0c2bf2b3a08b13990ec7132.jpg",
+    "actress": [
+      "绿川みやび",
+      "MIYABI"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-541"
+  },
+  {
+    "id": 80586,
+    "IDcode": "BLK-542",
+    "title": "淫荡的大姐头",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "姐姐",
+      "猎艳",
+      "滥交",
+      "乳房"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/04/5ebbb7f0138cc0e15962194e0424924f.jpg",
+    "actress": [
+      "森澤佳奈",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-542"
+  },
+  {
+    "id": 84017,
+    "IDcode": "BLK-543",
+    "title": "她的时候会来俱乐部",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "药物",
+      "女生",
+      "中出",
+      "口交",
+      "精选，综合",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/04/b2ed2342fcdd98f4dd6a7affd15fde74.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-543"
+  },
+  {
+    "id": 83996,
+    "IDcode": "BLK-544",
+    "title": "对别人的进行淫乱行为-永井マリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨大屁股",
+      "中出",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/06/006dc807e37c8ecd2694cc1a35fabbb6.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-544"
+  },
+  {
+    "id": 84018,
+    "IDcode": "BLK-549",
+    "title": "射精命令-松本菜奈実 佐知子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "女生",
+      "中出",
+      "淫乱，真实",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/31/27615f9a6d23d449783f13bb33e61186.jpg",
+    "actress": [
+      "松本菜奈実",
+      "佐知子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-549"
+  },
+  {
+    "id": 84030,
+    "IDcode": "BLK-550",
+    "title": "荡妇女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "多P",
+      "中出",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/31/e6de124ee5fb6713a8bfb50b1c857c3c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-550"
+  },
+  {
+    "id": 84021,
+    "IDcode": "BLK-551",
+    "title": "体验活动-篠田ゆう 君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "口交",
+      "淫乱，真实",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/03/b3f276637ea2818a6da4d1d757904bad.jpg",
+    "actress": [
+      "タイ",
+      "篠田优",
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-551"
+  },
+  {
+    "id": 84019,
+    "IDcode": "BLK-552",
+    "title": "肉感Icup",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "巨大屁股",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/01/31/8162b69d3a3473a95d641099591a0a88.jpg",
+    "actress": [
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-552"
+  },
+  {
+    "id": 80767,
+    "IDcode": "BLK-553",
+    "title": "禁欲性獣化-永井マリア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "黑人演员",
+      "倒追",
+      "单体作品",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/26/a1bf0b6ca3f74084b97f151033721a9d.jpg",
+    "actress": [
+      "永井瑪麗亞"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-553"
+  },
+  {
+    "id": 80839,
+    "IDcode": "BLK-554",
+    "title": "欲求不満",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "高",
+      "中出",
+      "口交",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/05/41ce13825417349381986037ba8e2f23.jpg",
+    "actress": [
+      "藤井蘭々",
+      "戸川夏也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-554"
+  },
+  {
+    "id": 80799,
+    "IDcode": "BLK-555",
+    "title": "M型女性的射精之旅-ERINA 皇ゆず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "荡妇",
+      "淫语",
+      "淫乱，真实"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/05/a2cb98bd43d1d262b67b1dd5805e2eb1.jpg",
+    "actress": [
+      "佐藤あや奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-555"
+  },
+  {
+    "id": 80805,
+    "IDcode": "BLK-557",
+    "title": "女孩的影响者-猫宮みけ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "靴子",
+      "首次亮相",
+      "女生",
+      "接吻",
+      "中出",
+      "第一人称摄影",
+      "多P",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/15/d0d6eef479fd744c693e67e5921a8dec.jpg",
+    "actress": [
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-557"
+  },
+  {
+    "id": 80773,
+    "IDcode": "BLK-558",
+    "title": "淫荡的女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "潮吹",
+      "女生",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/20/353147eff846701b73d6382768e6aaab.jpg",
+    "actress": [
+      "乙愛麗絲",
+      "Qべぇ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-558"
+  },
+  {
+    "id": 80802,
+    "IDcode": "BLK-559",
+    "title": "从第一个镜头就决定了SPECIAL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女生",
+      "中出",
+      "多P",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/18/164f94a17ea13a8419dba2916e86b18f.jpg",
+    "actress": [
+      "藤森里穂",
+      "月乃露娜",
+      "左慈半造"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-559"
+  },
+  {
+    "id": 84002,
+    "IDcode": "BLK-561",
+    "title": "淫荡的女孩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "肛交",
+      "荡妇",
+      "苗条",
+      "M男"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/21/11adb4d77687f96d0003693b9b320764.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-561"
+  },
+  {
+    "id": 84003,
+    "IDcode": "BLK-563",
+    "title": "活跃的放荡妈妈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "中出",
+      "巨乳",
+      "乱伦",
+      "巨大屁股",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/22/ca7282bea2b88c57131608a05f321357.jpg",
+    "actress": [
+      "小早川怜子",
       "小田切ジュン"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-712"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-563"
   },
   {
-    "id": 207023,
-    "IDcode": "ABP-713",
-    "title": "绝对的铁板铃村爱里",
+    "id": 81153,
+    "IDcode": "BLK-564",
+    "title": "丰满的宫廷妈妈",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240413-1/cb926efeade1ac3cf577fe9175bcf9c2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-713"
-  },
-  {
-    "id": 200503,
-    "IDcode": "ABP-714",
-    "title": "爱音麻里亚超高级风俗服务",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250321-1/1cd2dbc7cc7b17c0a6f7d54769d0cae8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-714"
-  },
-  {
-    "id": 205408,
-    "IDcode": "ABP-715",
-    "title": "粉红沙龙的头牌妓女-結まきな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240624-1/b914c72320a77f413529671cd1f2e132.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-715"
-  },
-  {
-    "id": 208913,
-    "IDcode": "ABP-716",
-    "title": "心臓爆発寸前絶頂-黒川さりな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/24/QQ201908250312124567e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-716"
-  },
-  {
-    "id": 105483,
-    "IDcode": "ABP-717",
-    "title": "吉川莲的超高级风俗服务",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240413-1/0f47af43b8478074758abe759e9fee72.jpg",
-    "actress": [
-      "吉岡蓮美"
+    "genres": [
+      "女生",
+      "中出",
+      "淫乱，真实",
+      "巨乳",
+      "乱伦",
+      "荡妇"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-717"
-  },
-  {
-    "id": 105586,
-    "IDcode": "ABP-718",
-    "title": "长谷川留衣的引退作品",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240322-1/8e0a2a499521bf131d1be792f5d31ae2.jpg",
+    "cover_url": "https://tutu1.space/images/2022/03/22/c986a7720e9f9b7dd72538a49f5f62fd.jpg",
     "actress": [
-      "森林原人",
-      "小田切ジュン",
-      "长谷川るい"
+      "七草千歲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-718"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-564"
   },
   {
-    "id": 105194,
-    "IDcode": "ABP-719",
-    "title": "河合明日菜的性感风俗保健三小时",
+    "id": 81152,
+    "IDcode": "BLK-565",
+    "title": "一个大胸的女孩",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "业余",
+      "乳交",
+      "女生",
+      "中出",
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "TMA",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240505-1/495c0855a73da0800e7fbdd8d36198be.jpg",
+    "cover_url": "https://tutu1.space/images/2022/03/22/9f330a15e52f2aa30c0c75dd1294039b.jpg",
     "actress": [
-      "田渊正浩"
+      "美園和花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-719"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-565"
   },
   {
-    "id": 200604,
-    "IDcode": "abp-720",
-    "title": "篮球队女经理是我们的性宠物",
+    "id": 84007,
+    "IDcode": "BLK-566",
+    "title": "中国城之旅",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "女生",
+      "淫乱，真实",
+      "制服",
+      "多P",
+      "滥交"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250313-1/7738d27a5164c739ed17ba325e1c1560.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-720"
-  },
-  {
-    "id": 207805,
-    "IDcode": "ABP-721",
-    "title": "园田美樱48小时内无限制内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240315-1/9de92da78c788fb67158176d5650653a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-721"
-  },
-  {
-    "id": 208912,
-    "IDcode": "ABP-723",
-    "title": "い舌使いで童貞暴発-有村のぞみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/24/QQ201908250312127df3f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-723"
-  },
-  {
-    "id": 105075,
-    "IDcode": "ABP-724",
-    "title": "铃村爱里的超高级风俗服务",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240521-1/b0c1e71f0c89fae0613c4b18c4f1ef04.jpg",
+    "cover_url": "https://tutu1.space/images/2022/03/22/6dc6892f48b5f9d52de1b7b9e4159936.jpg",
     "actress": [
-      "鈴村愛里"
+      "枢木葵",
+      "Qべぇ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-724"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-566"
   },
   {
-    "id": 206174,
-    "IDcode": "ABP-725",
-    "title": "女友姐姐爱音麻里亚的诱惑",
+    "id": 83990,
+    "IDcode": "BLK-567",
+    "title": "快乐的生活性爱",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "业余",
+      "苗条",
+      "女生",
+      "中出",
+      "美少女电影"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240512-1/257f175919948b10464ccad2495250f2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-725"
-  },
-  {
-    "id": 208928,
-    "IDcode": "ABP-726",
-    "title": "限界大乱交62P-結まきな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/26/QQ20190827040426be987.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-726"
-  },
-  {
-    "id": 105225,
-    "IDcode": "ABP-727",
-    "title": "吉川莲剥夺演技纯粹野性的做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240505-1/85a58a9a868f8ad708bf9a7ce50cc56a.jpg",
+    "cover_url": "https://tutu1.space/images/2022/03/22/180f812363a079385b91b30405eb2442.jpg",
     "actress": [
-      "吉岡蓮美",
-      "森林原人",
-      "しみけん"
+      "森日向子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-727"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-567"
   },
   {
-    "id": 208927,
-    "IDcode": "ABP-728",
-    "title": "完全主観-黒川さりな",
+    "id": 81151,
+    "IDcode": "BLK-568",
+    "title": "乳头爆裂的女郎",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "两女一男",
+      "乳交",
+      "女生",
+      "淫乱，真实",
+      "多P",
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2019/08/26/QQ20190827040426ed7e0.jpg",
+    "cover_url": "https://tutu1.space/images/2022/03/21/40d5fc58a450fd4f3e8d9df366583031.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-728"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-568"
   },
   {
-    "id": 206566,
-    "IDcode": "ABP-729",
-    "title": "穿着运动紧身衣的君川结衣大汗淋漓做爱",
+    "id": 84059,
+    "IDcode": "BLK-571",
+    "title": "肉体娱乐的阴道-北野未奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "口交",
+      "多P",
+      "单体作品",
+      "荡妇"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "KIRAKIRA",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240427-1/fcb35807be3fcc2a774d3a57cf6451f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-729"
-  },
-  {
-    "id": 197918,
-    "IDcode": "ABP-730",
-    "title": "娇小萝莉乙都咲乃三小时的风俗服务",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-3/0734bd7305c11024f15da36818a89cbe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-730"
-  },
-  {
-    "id": 192206,
-    "IDcode": "ABP-732",
-    "title": "春咲凉特殊企划用女友的感觉帮助处男粉丝们童贞毕业",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250718-1/6dd6e082b91d604ab6f54b574105eaff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-732"
-  },
-  {
-    "id": 196315,
-    "IDcode": "abp-733",
-    "title": "接吻狂园田美樱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250309-1/2130b2480dc78b09aa28d7c047766488.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-733"
-  },
-  {
-    "id": 207463,
-    "IDcode": "ABP-734",
-    "title": "粉色沙龙头牌技师爱音麻里亚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/a089166f780f0b331db2df0696268686.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-734"
-  },
-  {
-    "id": 87538,
-    "IDcode": "ABP-735",
-    "title": "結牧菜中出解禁后马上迎来屁眼开发",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-1/f604b3634a801d6eeac4e88768ddd88f.jpg",
+    "cover_url": "https://tutu1.space/images/2022/05/10/30d8863e6d14fdbc694e1c0c005f8a10.jpg",
     "actress": [
-      "结まきな"
+      "北野未奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-735"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-571"
   },
   {
-    "id": 86957,
-    "IDcode": "ABP-736",
-    "title": "篮球经理有村望是我们的性处理宠物",
+    "id": 84060,
+    "IDcode": "BLK-578",
+    "title": "健康女郎AV登场-花園ジャスミン",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/252b478d3749d71991ceffd9fedcaab9.jpg",
-    "actress": [
-      "有村希"
+    "genres": [
+      "首次亮相",
+      "女上位",
+      "女生",
+      "巨乳",
+      "单体作品",
+      "荡妇",
+      "巨大屁股"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-736"
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/05/23/c447736120b850a4807b51f4f472e645.jpg",
+    "actress": [
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-578"
+  },
+  {
+    "id": 84070,
+    "IDcode": "BLK-579",
+    "title": "自慰俱乐部-東條なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "泡泡袜",
+      "中出",
+      "学校泳装",
+      "制服",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/05/28/19748e597b8fe104e89c90fa9e3f9395.jpg",
+    "actress": [
+      "東條夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-579"
+  },
+  {
+    "id": 84062,
+    "IDcode": "BLK-580",
+    "title": "玩弄男人的小弟弟-結城りの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "女上位",
+      "拘束",
+      "巨乳",
+      "单体作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/04/df1e333fee88e48bc0e748d3503f2d4d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-580"
+  },
+  {
+    "id": 84093,
+    "IDcode": "BLK-581",
+    "title": "不断地扭动臀部直到精子耗尽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "女生",
+      "女上位",
+      "手淫",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/04/6676fe9bf0bac479dc835acba58da741.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-581"
+  },
+  {
+    "id": 84069,
+    "IDcode": "BLK-584",
+    "title": "淫荡的幼儿园老师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "多P",
+      "巨乳",
+      "角色扮演者"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/05/23/04658444b9e84a2108fd3db374954033.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-584"
+  },
+  {
+    "id": 84096,
+    "IDcode": "BLK-585",
+    "title": "我从认识的那一刻起就喝了酒，所以我把它带到酒店并带了一个奇闻趣事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "女生",
+      "中出",
+      "多P",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20240901-1/e0379ea6f3dcbf8b9aa6e9cc52eeefc3.jpg",
+    "actress": [
+      "日泉舞香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-585"
+  },
+  {
+    "id": 84061,
+    "IDcode": "BLK-586",
+    "title": "最令人难忘的大峰",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女生",
+      "淫乱，真实",
+      "第一人称摄影",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/04/320c08a1865e4d009c4c7327912aec0c.jpg",
+    "actress": [
+      "永野司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-586"
+  },
+  {
+    "id": 84094,
+    "IDcode": "BLK-588",
+    "title": "大量的回头客-水川スミレ 逢見リカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美容院",
+      "两女一男",
+      "女生",
+      "中出",
+      "淫乱，真实",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/05/752b97e9c2b2fc2841fc4980d593c62a.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-588"
+  },
+  {
+    "id": 84092,
+    "IDcode": "BLK-592",
+    "title": "ヤリモクFriends04 ギャップ萌えのくびれギャルがグイグイラブホに誘ってきたのでハメ撮りしちゃいました！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "女生",
+      "女上位",
+      "中出",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "2022-06-21",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/a3c7f4e6e565644a43770b3d27059129.jpg",
+    "actress": [
+      "夏希栗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-592"
+  },
+  {
+    "id": 73743,
+    "IDcode": "BLK-596",
+    "title": "免费阴部",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "女生",
+      "中出",
+      "第一人称摄影",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/25/21dc1a26526a76ced028345097f3a3b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-596"
+  },
+  {
+    "id": 84071,
+    "IDcode": "BLK-598",
+    "title": "エゲツない大☆絶☆頂SPECIAL！！！（※ほぼノーカットVersion） のんちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "荡妇",
+      "第一人称摄影",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "2022-07-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/bcc6b20c29835fa2e5babbaa4603ef8d.jpg",
+    "actress": [
+      "森林原人"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-598"
+  },
+  {
+    "id": 84083,
+    "IDcode": "BLK-605",
+    "title": "無碼破解版 舔舐屁眼約會 舔到屁眼發白腫脹侵犯的舔舔猛獸 佐藤乃乃花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "淫语",
+      "手淫",
+      "肛交",
+      "单体作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250424-1/4a882f9600d44274e4ae748e649d7a48.jpg",
+    "actress": [
+      "加藤桃香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-605"
+  },
+  {
+    "id": 84090,
+    "IDcode": "BLK-610",
+    "title": "乳首激弱ヤンキーギャル伝説 超敏感チクビを弄られ涙目でブチギレながら大量スプラッシュ暴走",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "潮吹",
+      "女生",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "2022-10-18",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/05890c867b55576abab2d529939abf7f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-610"
+  },
+  {
+    "id": 90884,
+    "IDcode": "BLK-612",
+    "title": "恶毒的女人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "巨乳",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/28/6d7ad5182b42123abc396029f8a5e638.jpg",
+    "actress": [
+      "弥生美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-612"
+  },
+  {
+    "id": 67279,
+    "IDcode": "BLK-613",
+    "title": "克制母狗房-一条みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "淫语",
+      "巨乳",
+      "手淫",
+      "单体作品",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/28/6a7b8975af729b0ae695849deee98f20.jpg",
+    "actress": [
+      "一条美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-613"
+  },
+  {
+    "id": 157260,
+    "IDcode": "BLK-613-C",
+    "title": "拘束破婊房～动弹不得的男人奶头被玩到活力十足，焦躁点到为止，最后爆裂 一条美绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20250427-1/7d0b0c3478c1506b55dd1aafb4b349fa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-613-C"
+  },
+  {
+    "id": 90885,
+    "IDcode": "BLK-615",
+    "title": "课后自慰俱乐部",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "泡泡袜",
+      "中出",
+      "制服",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/10/cb6391b9aab44d83c6186ccae31f9e31.jpg",
+    "actress": [
+      "藤子未央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-615"
+  },
+  {
+    "id": 67246,
+    "IDcode": "BLK-616",
+    "title": "这是个荡妇周-推川ゆうり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "巨乳",
+      "单体作品",
+      "荡妇",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/10/6c2599cdbf1437d49fe37e750214b19e.jpg",
+    "actress": [
+      "推川悠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-616"
+  },
+  {
+    "id": 90886,
+    "IDcode": "BLK-618",
+    "title": "让我们去旅行和做爱吧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "淫乱，真实",
+      "手淫",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/70e61458045afc1d8ba5ce423568c648.jpg",
+    "actress": [
+      "松本一香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-618"
+  },
+  {
+    "id": 67309,
+    "IDcode": "BLK-619",
+    "title": "厉害的关西姑娘-新井リマ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女生",
+      "中出",
+      "玩具",
+      "第一人称摄影",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/a9d1f80c2e0c5cbeda31f6d4e6d2ba98.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-619"
+  },
+  {
+    "id": 90887,
+    "IDcode": "BLK-621",
+    "title": "性欲怪兽辣妹-森日向子 朝日奈花恋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "两女一男",
+      "女生",
+      "中出",
+      "淫乱，真实",
+      "多P",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/5599ad91527d504339faa6096fe032ec.jpg",
+    "actress": [
+      "森日向子",
+      "朝比奈かれん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-621"
   }
 ];

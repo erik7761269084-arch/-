@@ -1,1590 +1,2217 @@
 window.PAGE_DATA = [
   {
-    "id": 9683,
-    "IDcode": "LUCY-002",
-    "title": "女上司の秘密 プライベートはメス堕ちマゾ女だった 水川スミレ",
+    "id": 94103,
+    "IDcode": "SABA-905",
+    "title": "ビーチにいた水着美女に濃厚精子を大量ぶっかけ！怒涛の即フェラ顔面口内どぴゅぴゅ射精ラッシュ！真夏の陽気でいつもより大胆な濃厚フェラチオかます素人ビキニギャル10名",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "素人",
+      "泳装",
+      "口交",
+      "颜射"
+    ],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
+    "publish_date": "2024-07-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/9b2d23287bea81bf0053586cd5b642df.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-905"
+  },
+  {
+    "id": 94101,
+    "IDcode": "SABA-906",
+    "title": "「もうイッちゃうの？まだダメ～っ」美少女寸止め焦らしローション手コキ射精ギリギリまで何度も寸止めされてヌルヌルシコシコ大暴発！精子枯渇！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "4小时以上作品",
+      "手淫",
+      "主观视角",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2024-07-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/18fedb16f9977c9eb93c6f93c961e697.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-906"
+  },
+  {
+    "id": 94123,
+    "IDcode": "SABA-907",
+    "title": "「一瞬だけでイイので挿れさせて下さい！！」「えっ…私みたいなおばさんが初めてでもいいの…？」マジ女神！！悩める童貞くんの願いを優しく受け挿れたらww相性バツグンすぎちゃって生中出し筆おろしSEXさせてくれた奥様たちSP2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "业余",
+      "精选，综合",
+      "中出",
+      "处男",
+      "巨乳",
+      "4小时以上作品"
+    ],
+    "type": "有码",
+    "company": "S級素人",
+    "publish_date": "2024-07-23",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/93a24a89172dd95350ff84e8e5de9a38.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-907"
+  },
+  {
+    "id": 173260,
+    "IDcode": "SABA-913",
+    "title": "鮮明に見える働くナースたちのパンティ染み！ぐちゅぐちゅ指ズボッオナニー！！大好きなアナタに送る自撮りオナニービデオレター",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/15/a8d84598cdc6b9a58de907da4ad65081.jpg",
-    "actress": [
-      "水川蓳"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-002"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/0a92535b/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-913"
   },
   {
-    "id": 75008,
-    "IDcode": "LUCY-003",
-    "title": "我妻子的母亲-平冈理惠子",
+    "id": 62459,
+    "IDcode": "SABA-948",
+    "title": "バストアップマッサージ～巨乳、美乳、貧乳、超乳…揉まれて揺れるおっぱい観察～",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "业余",
+      "超乳",
+      "平胸",
+      "巨乳",
+      "4小时以上作品"
+    ],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250120-1/7992fd72239ea3ef5fac8b43abe5044f.jpg",
-    "actress": [
-      "平冈里枝子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-003"
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/7667808a0ca99b3746a4020d8d8c801b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-948"
   },
   {
-    "id": 62229,
-    "IDcode": "LUCY-004",
-    "title": "叫了外送色情按摩没想到婆婆来了-山瀬美紀",
+    "id": 189668,
+    "IDcode": "SABA-949",
+    "title": "素人娘20人の即尺フェラ抜きアルバイト2 野外おしゃぶり大好きな変態女たちのごっくん2連射搾り 完全撮り下ろし310分",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "素人"
+    ],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250712-1/deb4af8045083c3f5128d95bf5a739eb.jpg",
-    "actress": [
-      "山瀬美紀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-004"
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/074a56db82876ec990f4d060f0131693.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-949"
   },
   {
-    "id": 8022,
-    "IDcode": "LUCY-006",
-    "title": "我被她姐姐趁她烂醉的时候睡了-那賀崎ゆきね",
+    "id": 62458,
+    "IDcode": "SABA-950",
+    "title": "「ああんっ奥にあたる精子が気持ちよくてヤヴァい…」膣奥にハジける爽快中出し射精の快感に目覚めちゃったショートカット素人エチョナ20人がエチエチ暴走モード濃厚中出しSEX5時間SP",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "业余",
+      "精选，综合",
+      "中出",
+      "4小时以上作品",
+      "美少女电影",
+      "素人"
+    ],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250712-1/c47bcd712bf9c22ab484d54cfaaf03ba.jpg",
-    "actress": [
-      "那賀崎雪音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-006"
+    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/ca5191518e91905459336cce375b883b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-950"
   },
   {
-    "id": 62227,
-    "IDcode": "LUCY-007",
-    "title": "誰也不能說的隔壁人妻自宅開業按摩店的秘密-姬咲華",
+    "id": 184976,
+    "IDcode": "SABA-951",
+    "title": "素人おま○こくぱぁ観察11-湘南ビキニ美女編-輝くビラビラが透けて見えそうなほど4Kカメラ超接写至近距離で照れイキオナニー31ま",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "高清画质",
+      "素人"
+    ],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250712-1/fe27b4b7ec8cd99947c54004860aaedb.jpg",
-    "actress": [
-      "姫咲華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-007"
+    "cover_url": "https://tutu1.space/images/2025/09/02/39378a737c7f6c97fe14722f424c4675.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-951"
   },
   {
-    "id": 7255,
-    "IDcode": "LUCY-008",
-    "title": "別人的肉棒讓她高潮不斷-逢見梨花",
+    "id": 60309,
+    "IDcode": "SABA-952",
+    "title": "美少女寸止め焦らしローション手コキ射精ギリギリまで何度も寸止めされてヌルヌルシコシコ大暴発！精子枯渇！4",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250408-1/a5b645c37b63765cf3f3b1fb7c5799e0.jpg",
-    "actress": [
-      "逢見梨花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-008"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/6ec63383/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-952"
   },
   {
-    "id": 70445,
-    "IDcode": "LUCY-009",
-    "title": "母の愛と家庭の事情",
+    "id": 184926,
+    "IDcode": "SABA-953",
+    "title": "第1回S級素人中出しシンデレラ選手権 初めての膣内射精の刺激に中イキしちゃった素人娘を厳選30名 ま〇こから溢れ出る精子の余韻に沼るプリンセス",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "素人"
+    ],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250714-1/de09bd75ea877204899426ca96577316.jpg",
-    "actress": [
-      "瀬那瑠美奈",
-      "城咲京花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-009"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/cbb0138d/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-953"
   },
   {
-    "id": 6707,
-    "IDcode": "LUCY-010",
-    "title": "女上司的秘密私人生活是雌性堕落受虐女-橘内ひなた",
+    "id": 173325,
+    "IDcode": "SABA-957",
+    "title": "素人おま○こくぱぁ観察13-人妻編-輝くビラビラが透けて見えそうなほど4Kカメラ超接写至近距離で照れイキオナニー30ま○こ5時間15分",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻",
+      "高清画质",
+      "素人"
+    ],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250712-1/1c4bcd355c09026d6ea1ed1003bc1966.jpg",
-    "actress": [
-      "橘日向"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-010"
+    "cover_url": "https://tutu1.space/images/2025/11/06/db29791d2f00729f0cc13117a5b2f068.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-957"
   },
   {
-    "id": 6691,
-    "IDcode": "LUCY-011",
-    "title": "与错过的青梅竹马时隔8年的再会-九十九メイ",
+    "id": 173255,
+    "IDcode": "SABA-958",
+    "title": "死ぬほどシコれる卑猥なドスケベ肉感おま○こドアップ指ズボオナニー 貴方に向かって見せつける変態オナ娘20人4時間54分",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250712-1/3aa9cc384777b597f789c9832818371b.jpg",
-    "actress": [
-      "九十九メイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-011"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/787204c8/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-958"
   },
   {
-    "id": 5837,
-    "IDcode": "LUCY-012",
-    "title": "爱妻啊用别人的棍子活下去吧-玉木くるみ",
+    "id": 173271,
+    "IDcode": "SABA-959",
+    "title": "kawaii素人娘初めての膣イキ中出しアへ顔記念日濃厚な精子が子宮にぶち当たる最高に気持ちい中出しSEX30本番",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "素人"
+    ],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "S級素人",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250712-1/ce4f589c4a30b2063e2858559e6e3bc6.jpg",
-    "actress": [
-      "大島愛里亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-012"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/a723b1d5/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-959"
   },
   {
-    "id": 5069,
-    "IDcode": "LUCY-013",
-    "title": "女友醉倒後被她姐姐給偷吃了 ~ 葉山小百合",
+    "id": 222192,
+    "IDcode": "SACE-013",
+    "title": "你愿意只带一条毛巾进入男浴室吗",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "LUCY’S",
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621072212991991_thumbnail.webp",
-    "actress": [
-      "葉山小百合",
-      "タクト"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-013"
-  },
-  {
-    "id": 4050,
-    "IDcode": "LUCY-014",
-    "title": "寂寞午後的団地人妻陽台曬紅內褲暗示老公不在家 ~ 姫咲華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUCY’S",
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621064909326326_thumbnail.webp",
-    "actress": [
-      "姫咲華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-014"
-  },
-  {
-    "id": 4233,
-    "IDcode": "LUCY-015",
-    "title": "她的姐姐趁着我喝断片的时候睡了我-瀬田一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUCY’S",
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250811-1/d1f13211a35996591b3b11a41d7e6523.jpg",
-    "actress": [
-      "瀬田一花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-015"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/b51bd6a965d97bd45b2f3f1f9816ee7f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-013"
   },
   {
-    "id": 3299,
-    "IDcode": "LUCY-016",
-    "title": "女上司的秘密 私生活是一名堕落的女奴-吉澤友貴",
+    "id": 213838,
+    "IDcode": "SACE-026",
+    "title": "手淫和性交诊所-横山美雪",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/30a01d8e/vod.jpg",
-    "actress": [
-      "吉泽友贵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-016"
+    "cover_url": "https://tutu1.space/images/2021/10/10/4ecdf10cc6f8b691bab483a07635ada9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-026"
   },
   {
-    "id": 3308,
-    "IDcode": "LUCY-017",
-    "title": "儿子的妻子-似鸟日菜",
+    "id": 213506,
+    "IDcode": "SACE-033",
+    "title": "你喜欢打扮成男孩的女孩吗",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/0f848a49/vod.jpg",
-    "actress": [
-      "似鳥日菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-017"
+    "cover_url": "https://tutu1.space/images/2021/09/23/30a9d4a36018f15a3188099c92104fe6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-033"
   },
   {
-    "id": 2502,
-    "IDcode": "LUCY-018",
-    "title": "愛妻よ！他人棒でイキまくれッ 倉木しおり",
+    "id": 222182,
+    "IDcode": "SACE-039",
+    "title": "超豪华的肥皂女郎",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "LUCY’S",
+    "company": "SOD",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/04/ab9e42c376645ab1688e9b4a8665eef5.jpg",
-    "actress": [
-      "倉木詩織",
-      "仓木诗织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-018"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/c1b677115285c8e3a486bdd6feeace51.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-039"
   },
   {
-    "id": 173438,
-    "IDcode": "LUCY-019",
-    "title": "汚い隣人に沼る妻 鈴木真夕",
+    "id": 177482,
+    "IDcode": "SACE-042",
+    "title": "超温柔的美女巨乳全裸家政妇椎名由奈悉心呵护我的肉棒",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/1320dd65/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-042"
+  },
+  {
+    "id": 214806,
+    "IDcode": "SACE-055",
+    "title": "温泉若女将-横山美雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/02/93132b140290bd0f15e1f8b4114a4b8a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-055"
+  },
+  {
+    "id": 222217,
+    "IDcode": "SACE-073",
+    "title": "横山美雪 卒業",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/13c3eef9146904ebc0d9c6da66f120dc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-073"
+  },
+  {
+    "id": 176236,
+    "IDcode": "SACE-105",
+    "title": "现役SOD全民偶像组合2天1夜所有成全员的小穴归您一人占有",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/78049c19/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-105"
+  },
+  {
+    "id": 212915,
+    "IDcode": "SACE-112",
+    "title": "女播音员的培训-かなでゆき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "SOD",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/20/8da2ecccbd8ae571ff64ca49804cf665.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-112"
+  },
+  {
+    "id": 213179,
+    "IDcode": "SACZ-053",
+    "title": "素人SM",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/07/71674210/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2021/09/03/7e10dd7bee9a9fc79324951e50e34f38.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-019"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACZ-053"
   },
   {
-    "id": 90910,
-    "IDcode": "LUKE-027",
-    "title": "見つめて囁き密着誘惑 あざと可愛すぎる誘惑しまくりドスケベ小悪魔痴女子校生 一条みお",
+    "id": 89855,
+    "IDcode": "SAIT-029",
+    "title": "美少女エージェント千●＆た●な×3穴串刺しファック×Wギロチン中出し制裁×大量ザーメンぶっかけ アリス＆めい",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DIGITALARK",
-    "publish_date": "2023-09-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240301-1/8d87424945542d959d5d533a44639133.jpg",
-    "actress": [
-      "一条美绪"
+    "genres": [
+      "中出",
+      "捆绑",
+      "巨乳",
+      "肛交",
+      "角色扮演者",
+      "美少女电影"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUKE-027"
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2023-08-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/51fb1fb83a64a0360ffad6bed033b678.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAIT-029"
   },
   {
-    "id": 9840,
-    "IDcode": "LUKE-042",
-    "title": "こんなスケベなお姉さまの変態ち○ぽ遊びがエロ過ぎる 永野つかさ",
+    "id": 14429,
+    "IDcode": "SAIT-030",
+    "title": "美少女魔導師柏木小夏 & 由良佳奈被集團中出輪奸羣x 大量精液顏射",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "魔鬼系",
+      "拘束・拷問",
+      "雙馬尾",
+      "劇情",
+      "黑絲",
+      "中出",
+      "小隻馬",
+      "多P",
+      "游戲COSPLAY",
+      "蘿莉",
+      "美少女",
+      "蠻橫嬌羞",
+      "顏射",
+      "感官作品",
+      "輪姦",
+      "COSPLAY服飾",
+      "羞恥",
+      "奇聞趣事",
+      "緊縛",
+      "口交",
+      "美少女電影",
+      "深喉",
+      "二次元"
+    ],
     "type": "有码",
-    "company": "DIGITALARK",
+    "company": "TMA",
+    "publish_date": "2024-05-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20240526/a0890ea5-326a-4e5e-b90a-cad7f4eb9229.jpg",
+    "actress": [
+      "柏木小夏",
+      "由良佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAIT-030"
+  },
+  {
+    "id": 4192,
+    "IDcode": "SAIT-031",
+    "title": "オカルト美少女モ●＆ア●ラ×Wギロチン中出し集団輪●×大量ザーメンぶっかけ りか＆のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美乳",
+      "手指插入",
+      "真實拍攝",
+      "淫蕩・硬核",
+      "女上位",
+      "拘束・拷問",
+      "美人",
+      "亂交 • 群P",
+      "美腿",
+      "淫亂",
+      "4K",
+      "少女",
+      "乳交",
+      "按摩棒",
+      "形象俱樂部",
+      "中出",
+      "重口味",
+      "清純",
+      "調教",
+      "小隻馬",
+      "兩男兩女",
+      "游戲COSPLAY",
+      "蠻橫嬌羞",
+      "苗條",
+      "美少女",
+      "白眼失神",
+      "顏射",
+      "3P・4P",
+      "絕頂高潮",
+      "潮吹",
+      "早漏",
+      "胸控・戀乳癖",
+      "角色扮演",
+      "COSPLAY服飾",
+      "無毛",
+      "美腳",
+      "高顏值",
+      "巨乳",
+      "羞恥",
+      "性虐癖",
+      "後入",
+      "鬼畜片",
+      "緊縛",
+      "叛逆少女",
+      "舔陰",
+      "流汗",
+      "口交",
+      "真人秀",
+      "美少女電影",
+      "二次元",
+      "騎乗位",
+      "地雷系"
+    ],
+    "type": "有码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/2f8ab7a9/vod.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/e6d7004aa026ce17ff3714ca69105fde.jpg",
     "actress": [
-      "永野司"
+      "椿莉香",
+      "有村希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUKE-042"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAIT-031"
   },
   {
-    "id": 8912,
-    "IDcode": "LUKE-043",
-    "title": "こんなスケベなお姉さまの変態ち○ぽ遊びがエロ過ぎる 藤井レイラ",
+    "id": 62395,
+    "IDcode": "SAKA-023",
+    "title": "ヤリマン巨乳のW痴女ママ活 発射無制限2対2絶倫オフパコ乱交 ゆの様＆しゅんか様（女子大生20歳G～Hカップ）【SNSで〇〇女子と繋がってみた！】",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "DIGITALARK",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/01/2c6d5550/vod.jpg",
-    "actress": [
-      "藤井蕾菈"
+    "genres": [
+      "业余",
+      "女大学生",
+      "乱交",
+      "素人作品",
+      "乳交",
+      "中出",
+      "巨乳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUKE-043"
-  },
-  {
-    "id": 5068,
-    "IDcode": "LUKE-047",
-    "title": "震撼！班上超會撒嬌的小可愛詩織醬把大叔當洩慾玩具，根本是個超淫蕩的小變態 ~ 倉木詩織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "DIGITALARK",
-    "publish_date": "2025-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621063258195195_thumbnail.webp",
-    "actress": [
-      "倉木詩織",
-      "仓木诗织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUKE-047"
-  },
-  {
-    "id": 75427,
-    "IDcode": "LULU-004",
-    "title": "「先っぽ3cmだけなら…」のつもりが想定外の青年デカち○ぽに我慢できず自ら奥まで挿入してしまった隣人の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2020-01-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/41032c034c1d2f77af6e0eeed485d718.jpg",
-    "actress": [
-      "永野司",
-      "桜庭ひかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-004"
-  },
-  {
-    "id": 209690,
-    "IDcode": "lulu-005",
-    "title": "性欲が強すぎる義母-篠田ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/19/cadf7629a0867cab9a6f62eb16ea6511.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/5d485d91a42ce9e7df00662088cc8670.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=lulu-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAKA-023"
   },
   {
-    "id": 76391,
-    "IDcode": "LULU-006",
-    "title": "「おばさんのおっぱいで興奮しちゃたの？」 家事代行で働く巨乳人妻の乳首ポッチノーブラおっぱいに我慢できずに揉み倒しながらねじ込むデカチン即",
+    "id": 194699,
+    "IDcode": "SAKA-025",
+    "title": "【一般ユーザー投稿作品】素人ハメ撮り投稿☆咲さん（37歳欲求不満Fカップ主婦）",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2020-02-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241209-1/79a857e18e23e4a44c5cb2a2093fa7b4.jpg",
-    "actress": [
-      "赤瀬尚子",
-      "森萤"
+    "genres": [
+      "素人"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-006"
-  },
-  {
-    "id": 83131,
-    "IDcode": "LULU-008",
-    "title": "ブルマおばさんのピタパン尻に我慢できずにバックからねじ込むデカチン即ハメ！青年ち○ぽのイッても止めない追撃ピストンに心奪われたデカ尻妻が",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2020-02-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221220-1/e91332b2ac4b41b269e8e30173f024e4.jpg",
-    "actress": [
-      "大浦真奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-008"
-  },
-  {
-    "id": 83369,
-    "IDcode": "LULU-011",
-    "title": "憧れの巨乳新任教師が僕の童貞ち○ぽを優しく筆おろししてくれたのに無念の即暴発…！ 早漏をごまかす抜かずのがむしゃらピストンで膣内が精液で溢れ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2020-03-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/792c0c25b5fe48c65ba5039a6d7f52ab.jpg",
-    "actress": [
-      "三船かれん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-011"
-  },
-  {
-    "id": 81813,
-    "IDcode": "LULU-014",
-    "title": "筋トレおばさんの鍛え上げられた肉厚尻に見惚れていたらヒップアップ杭打ち騎乗位で精子が枯れるまで何度もシゴかれた 中出し合計8回",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2020-04-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/64f93d626d780d0b4439ecb9eeae707f.jpg",
-    "actress": [
-      "凛音とうか",
-      "唯乃光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-014"
-  },
-  {
-    "id": 210637,
-    "IDcode": "lulu-038",
-    "title": "巨乳挟射-辻井ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/21/8c6458987e7b37ac5eb3f33906c23c88.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/c3663b4ce3207bf45954666706f9d3c0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=lulu-038"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAKA-025"
   },
   {
-    "id": 100651,
-    "IDcode": "LULU-045",
-    "title": "岳母要求做我的内衣模特-藤森里穂",
+    "id": 165352,
+    "IDcode": "SALO-003",
+    "title": "れな女王様の調教部屋 くろいれな",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/40b221db01e6e00c638694eae8cbe622.jpg",
-    "actress": [
-      "藤森里穂"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-045"
-  },
-  {
-    "id": 106520,
-    "IDcode": "LULU-092",
-    "title": "碰瓷NTR-濑名光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/d6952d16af5216b60f69eb5bcaf3dd47.jpg",
-    "actress": [
-      "瀨名光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-092"
-  },
-  {
-    "id": 79823,
-    "IDcode": "LULU-096",
-    "title": "エロ漫画ボディのお姉さんのドスケベ誘惑に乗ってしまった絶倫童貞の僕はチ○ポがバカになっても連続中出し射精SEXの練習をさせられた。 大原理央",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2021-10-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/61f39c5615ca8a43f0932374eb3b60ca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-096"
-  },
-  {
-    "id": 69607,
-    "IDcode": "LULU-119",
-    "title": "裸露她的欲望-新村あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/08/858b545e3c2ea57e1a2083b770b861fe.jpg",
-    "actress": [
-      "タイ",
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-119"
-  },
-  {
-    "id": 80280,
-    "IDcode": "LULU-125",
-    "title": "近所のはみ尻ミニスカ女子○生の無意識パンモロ挑発に我慢できず大人のデカチン肉打ちピストンで絶頂しても止めずに追撃中出しした。 水原みその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2022-03-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/fbdb4c6143325c16954ec85fe27f7628.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-125"
-  },
-  {
-    "id": 85245,
-    "IDcode": "LULU-138",
-    "title": "彼女が旅行で不在の3日間、彼女の巨乳ギャル姉に徹底アナル開発されメスイキまで覚え込まされた。 乙アリス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2022-05-03",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/d0cd3c2e64c677880e4cf1a1410be19f.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-138"
-  },
-  {
-    "id": 85266,
-    "IDcode": "LULU-139",
-    "title": "残業中、2人きりの社内でパツパツスーツ巨乳人妻女上司のおっぱい挑発に乗せられ乳テクで何度もサービスぶっかけ射精させられた。 吉根ゆりあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2022-05-03",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/e3c0a8e2d0b0267a3b422e42a4770fca.jpg",
-    "actress": [
-      "吉根柚莉爱",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-139"
-  },
-  {
-    "id": 85267,
-    "IDcode": "LULU-140",
-    "title": "いつも僕を性欲サンドバッグにするデカ尻強カワ女子格闘家の姉を絶倫童貞中出しピストンでめちゃくちゃイカせてこらしめた。 三岳ゆうな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2022-05-03",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/e6cfd07eba624510d1cf173e116dc86a.jpg",
-    "actress": [
-      "三岳祐奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-140"
-  },
-  {
-    "id": 221805,
-    "IDcode": "LULU-144",
-    "title": "美丽的乳房-新井リマ",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/0d6c9704f9c3d4f109a48ab8903eb895.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/bwdnjso3qir.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-144"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SALO-003"
   },
   {
-    "id": 222073,
-    "IDcode": "LULU-154",
-    "title": "大屁股婆婆被她的继女唤醒",
+    "id": 107523,
+    "IDcode": "SALO-011",
+    "title": "調教部屋 山井すず",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "饮尿",
+      "骑乗位",
+      "恋物癖",
+      "SM"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/24d1bc509fafa80ab8ff6275eaa3b293.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-154"
-  },
-  {
-    "id": 85268,
-    "IDcode": "LULU-171",
-    "title": "【FANZA限定】父親の再婚で突然できたナマイキなデカ尻ネオギャル姉の無自覚挑発パンチラに我慢できず勇気を出して全力即ハメ童貞ピストンで何度も中出しした。 木下ひまり パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2022-10-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/d5b872afa36c99b0e2d251739a7f1183.jpg",
+    "cover_url": "https://tutu1.space/images/2021/01/04/e6e63cb299a2355981e312d856d99c64.jpg",
     "actress": [
-      "木下日葵"
+      "山井すず"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-171"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SALO-011"
   },
   {
-    "id": 222738,
-    "IDcode": "LULU-194",
-    "title": "当我在公司的酒会上-森日向子",
+    "id": 81912,
+    "IDcode": "SALO-012",
+    "title": "まいな女王様の調教部屋 優梨まいな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "饮尿",
+      "骑乗位",
+      "恋物癖",
+      "SM"
+    ],
     "type": "有码",
     "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/0e6c19d2455e7bf5afed2744d0bb6a1e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-194"
-  },
-  {
-    "id": 106518,
-    "IDcode": "LULU-234",
-    "title": "黑丝巨尻熟母-森泽佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/85a7e1907e333988006c291672cb0570.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-234"
-  },
-  {
-    "id": 17982,
-    "IDcode": "LULU-249",
-    "title": "大屁股人妻-美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/e2f0bc643cc124ab6618d01194932dae.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-249"
-  },
-  {
-    "id": 11671,
-    "IDcode": "LULU-332",
-    "title": "残業中、2人きりの社内でむっちりデカ尻人妻台湾人女上司のムレムレパンスト挑発に乗せられ脚テクで何度もサービスぶっかけ射精させられた。 Nia",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/0ca03dbf/vod.jpg",
-    "actress": [
-      "Nia"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-332"
-  },
-  {
-    "id": 11668,
-    "IDcode": "LULU-333",
-    "title": "巨乳姪っ子J系の無邪気に揺れ動くたわわおっぱい挑発に我慢できず近親勃起したらヌルテカ油パイズリでボイン大好き中年叔父ち 星乃夏月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/afea2ba1/vod.jpg",
-    "actress": [
-      "星乃夏月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-333"
-  },
-  {
-    "id": 11648,
-    "IDcode": "LULU-334",
-    "title": "ランニング中に見つけた欲求不満を隠せないデカ尻人妻ジョガーの揺れるケツ肉を追いかけたら旦那の寝ている自宅に誘い込まれ若ち 玉城夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/cc18627417e5fe2fe848b057ec7f7382.jpg",
-    "actress": [
-      "玉城夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-334"
-  },
-  {
-    "id": 174857,
-    "IDcode": "LULU-335",
-    "title": "学年一清楚なクラスメイトと奇跡の肛門マッチング！隠れアナニー好き生徒会長にケツ穴ち 生田りん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/1c913fb4adb1d0840c3fcf698f75d8a6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-335"
-  },
-  {
-    "id": 11667,
-    "IDcode": "LULU-336",
-    "title": "現役同人レイヤーであることを夫に隠して結婚生活を送る120cmJcup巨乳叔母に過激コスプレさせて乳オナホ肉便器調教し妊娠中出ししまくった。 華澄結愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/57a9322b/vod.jpg",
-    "actress": [
-      "華澄結愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-336"
-  },
-  {
-    "id": 11670,
-    "IDcode": "LULU-337",
-    "title": "无码破解 未処理のハミ毛パンチラ挑発で近親勃起即ハメさせた兄ち○ぽをムレムレま〇こ膣搾りで何度も中出し射精させる天然剛毛デカ尻J系妹 花音うらら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/f614a4015e72e7436573c368b9c67b1d.jpg",
-    "actress": [
-      "花音うらら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-337"
-  },
-  {
-    "id": 11649,
-    "IDcode": "LULU-338",
-    "title": "残業中、2人きりの社内で欲求不満を隠せないデカ尻人妻女上司に黒パンスト直穿きノーパン挑発されコンプラ違反勃起したら鬼焦らし空気イス1cm挿入で中出し 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/27/900893ca68e0a0346f66477214824b57.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-338"
-  },
-  {
-    "id": 10896,
-    "IDcode": "LULU-339",
-    "title": "隣人の心優しい巨乳看護師に骨折でシコれないフリして性処理をお願いしたら自慰サポート手コキで13発おっぱいぶっかけ射精させてくれた。 胡桃さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/17/1a844c3b/vod.jpg",
-    "actress": [
-      "胡桃櫻花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-339"
-  },
-  {
-    "id": 10926,
-    "IDcode": "LULU-340",
-    "title": "残業中、高身長美脚女上司の無自覚パンスト挑発に我慢できず即ハメしたら濡れジミができるほど潮射イキしたので何度も追撃手マンで洪水ま○こ化させた。 都月るいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/16/5cefc4602d4a3e375d3a4f8dff4cda03.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-340"
-  },
-  {
-    "id": 10647,
-    "IDcode": "LULU-341",
-    "title": "純真無垢な色白美乳姪っ子J系のノーブラおっぱいに我慢できず連日のこねく 柏木こなつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/16/6009750d7e0a6143426658bbf228383a.jpg",
-    "actress": [
-      "柏木小夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-341"
-  },
-  {
-    "id": 10904,
-    "IDcode": "LULU-342",
-    "title": "近親相姦中出しを受け入れるむっつりデカ尻叔母 高橋ほなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/16/970d85515b856bc4f1f97a1b4201d480.jpg",
-    "actress": [
-      "高橋ほなみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-342"
-  },
-  {
-    "id": 176493,
-    "IDcode": "LULU-343",
-    "title": "彼女ができた僕に嫉妬した巨乳ギャル幼馴染に射精直後の敏感ち○ぽをこねくり吸引お掃除フェラされ略奪ごっくんで骨抜きになった。 有村のぞみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/16/fdfbb2b2/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-343"
-  },
-  {
-    "id": 176549,
-    "IDcode": "LULU-344",
-    "title": "素行不良でウチに預けられたナマイキなデカ尻姪っ子J系にアナル見せ挑発で近親勃起した弱みを握られ 安堂はるの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/16/5b02bbb7d85df71453ef9f38ff275c66.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-344"
-  },
-  {
-    "id": 9405,
-    "IDcode": "LULU-351",
-    "title": "隣人の美脚エステティシャン妻が経営する自宅サロンでムレムレパンスト挑発されハミチン勃起し 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/e4ac984c/vod.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-351"
-  },
-  {
-    "id": 9403,
-    "IDcode": "LULU-352",
-    "title": "彼女の巨乳姉の過激水着姿に無自覚誘惑され我慢できずフル勃起ち○ぽをハイレグ越し素股で…ヌルッと生挿入 九井スナオ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/57340000/vod.jpg",
-    "actress": [
-      "九井珠奈緒"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-352"
-  },
-  {
-    "id": 75301,
-    "IDcode": "LULU-353",
-    "title": "彼女の巨乳妹の無防備ハミ乳挑発に我慢できずぬるテカオイル乳首ハラスメントで敏感早漏体質に仕立てあげ何度も乳首イキさせまくった。 胡桃さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/02/e0fed5c0fd815967dd8d294cedc592ac.jpg",
-    "actress": [
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-353"
-  },
-  {
-    "id": 75116,
-    "IDcode": "LULU-354",
-    "title": "熱血デカ尻体育教師の無自覚スケベ指導 都月るいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/99a08dcd/vod.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-354"
-  },
-  {
-    "id": 73146,
-    "IDcode": "LULU-356",
-    "title": "敏感チクシャ体質に悩む僕を見かねた巨乳ギャル幼馴染が暴発してもいじり続ける乳首責めホールドで早漏ザコち○ぽを鍛えてくれた 春陽モカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/6c88a646cc51de1cf2337b9bd155e075.jpg",
-    "actress": [
-      "春陽萌花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-356"
-  },
-  {
-    "id": 73147,
-    "IDcode": "LULU-357",
-    "title": "残業中、2人きりの社内で会社一美人な新卒デカ尻後輩の無防備パンチラに我慢できずパンティ擦りつけぶっかけ射精！ 優梨まいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/3a2251f50ddfc2203c262dbaa1b83183.jpg",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/dd67763fb1e59a3260b46e23abfd678a.jpg",
     "actress": [
       "优梨まいな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-357"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SALO-012"
   },
   {
-    "id": 8623,
-    "IDcode": "LULU-358",
-    "title": "ているあざと可愛い巨乳ギャルチアガールをオジちん子宮ゴリ突きSEXでイキ狂わせ中出し肉便器にした。 椿りか",
+    "id": 105625,
+    "IDcode": "SALO-017",
+    "title": "管理射精的变态肥猪M男-阿部乃みく",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/5ec05cb90c170a78d91e643155aa57cf.jpg",
-    "actress": [
-      "椿莉香"
+    "genres": [
+      "饮尿",
+      "骑乗位",
+      "恋物癖",
+      "SM"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-358"
-  },
-  {
-    "id": 73215,
-    "IDcode": "LULU-359",
-    "title": "妻では味わえない極上アナルセックスで呼び出せば肛門中出しさせてくれる都合の良い最高の色白デカ尻愛人 なつみ柑奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/7300438b680d34cf79648bd1e3cc8a12.jpg",
-    "actress": [
-      "夏巳百合香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-359"
-  },
-  {
-    "id": 73140,
-    "IDcode": "LULU-360",
-    "title": "夫との子作りSEX直後に絶倫義父の膣奥グリグリ巨根ピストンで排卵日子宮に孕ませ精子を直撃中出しされる寝取られ妊活巨乳妻 羽月乃蒼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/3c306f2900c0069dfed930f902ad822a.jpg",
-    "actress": [
-      "羽月乃蒼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-360"
-  },
-  {
-    "id": 8624,
-    "IDcode": "LULU-361",
-    "title": "小悪魔系デカ尻J系姪っ子にもっこりパンチラぷにマン挑発されたのでオジちんイライラ棒でめちゃくちゃイカセて中出し大人ピストンでわからせた。 末広純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/7312e32a1397ca5558ac23068619991a.jpg",
-    "actress": [
-      "末広純"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-361"
-  },
-  {
-    "id": 71900,
-    "IDcode": "LULU-362",
-    "title": "残業中、2人きりの社内で仕事に厳しい人妻ピタパン女上司に無自覚デカ尻挑発され反逆即ハメしたら隠れドM気質が発覚したのでSM拘束調教して従順ペット化するまで中出し躾けした。 波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/b253838fa7ecfb02d2a7511aede20e38.jpg",
-    "actress": [
-      "波多野结衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-362"
-  },
-  {
-    "id": 190122,
-    "IDcode": "LULU-363",
-    "title": "おっぱい離れできない引きこもりニート息子の絶倫ち○ぽを赤ちゃん淫語で甘やかし授乳手コキしながら性処理してあげる巨乳ママ 九井スナオ",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/835dddb1031d368839bd273519d919ad.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-363"
-  },
-  {
-    "id": 71915,
-    "IDcode": "LULU-364",
-    "title": "素行不良でウチに預けられた地雷系デカ尻姪っ子がト●横界隈で立ちんぼしたがるのでアヘ顔潮射反省イキするまでデカチン中出し説教ピストンした。 皆月ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/241ebab5d2b48ad8b178692eb543e129.jpg",
+    "cover_url": "/upload/vod/20240318-1/4a174a47a18cc3ca8ac52f3ac6311ecd.jpg",
     "actress": [
-      "皆月光",
-      "ひょこり"
+      "阿部乃美久"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-364"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SALO-017"
   },
   {
-    "id": 7790,
-    "IDcode": "LULU-365",
-    "title": "「挟むだけだからね…」性欲旺盛おっぱい星人の甥っ子にお願いされ仕方なくパイズリ挟射させてあげる元ヤリマンの若硬ち○ぽ大好きなむっちり巨乳叔母さん ちなみん",
+    "id": 177935,
+    "IDcode": "SALO-021",
+    "title": "调教学院把男人们当作牲畜来管理的黑丝痴女通野未帆",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/ca236a4cc64beb55a8002b5a4bc54023.jpg",
-    "actress": [
-      "櫻千奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-365"
-  },
-  {
-    "id": 71978,
-    "IDcode": "LULU-366",
-    "title": "息子の童貞友達にセックスの練習を頼まれ肛門で何度もアナル中出し特訓させてあげる元ヤリマンのデカ尻ギャルママ 雨宮凜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/a431bea1d044281b78f961ed807ac8e3.jpg",
-    "actress": [
-      "ティカル",
-      "雨宫凛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-366"
-  },
-  {
-    "id": 70002,
-    "IDcode": "LULU-367",
-    "title": "彼女の巨乳妹の無防備パンチラ誘惑に我慢できず本物精子ぶっかけパンティを穿かせてザーメン素股！ マン汁と精液でグチョグチョになった発情J系ま○こにヌルッと挿入してたっぷり連続腟内射精した。 天月あず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/b9e9ad0cf6a56069626c4986d606e647.jpg",
-    "actress": [
-      "天月梓",
-      "ティカル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-367"
-  },
-  {
-    "id": 69895,
-    "IDcode": "LULU-368",
-    "title": "ママさんバレーの学生コーチを自宅に連れ込み若硬ち○ぽを即尺ねっとりフェラで何度もおしゃぶりごっくんする欲求不満なデカ尻豊満人妻 瀬田一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/af93ef94498240febbf6c36b23b932fd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-368"
-  },
-  {
-    "id": 70000,
-    "IDcode": "LULU-369",
-    "title": "新大久保に通うパツパツ巨乳J系姪っ子の無自覚おっぱい挑発に我慢できず即ハメダイナマイト！バリ硬叔父デカち○ぽの説教中出しピストンで涙目になるまでとことん反省イキさせた。 胡桃さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/7b21ec60b23b45e5dfb00e89cf639e9c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-369"
-  },
-  {
-    "id": 69919,
-    "IDcode": "LULU-370",
-    "title": "地味だったクラスメイトと同窓会で再会したら僕の為に大切にとっておいたアナルを解禁するほどドスケベデカ尻美人妻になっていたので朝まで生肛門中出しセックスしまくった。 星奈茉奈花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/474dcd1c5effa1169837e0f000dfe7b3.jpg",
-    "actress": [
-      "星奈茉奈花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-370"
-  },
-  {
-    "id": 69694,
-    "IDcode": "LULU-371",
-    "title": "残業中、2人きりの社内で下着モデルを強いられ苦手な中年上司のねっとり乳首ハラスメントに堪えられず恥辱の乳首イキさせられる新卒色白美乳部下 静河",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/cdc7729ec503aa9fb3a0352c6ab6205b.jpg",
-    "actress": [
-      "ひょこり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-371"
-  },
-  {
-    "id": 69999,
-    "IDcode": "LULU-372",
-    "title": "デカ尻J系教え子に顔面尻ドンされ罵倒淫語でマゾ勃起してしまった教師ち○ぽを金玉からっぽになるまで射精させられた。 柏木こなつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/dfa327e98f22dae11fbf8fd64ff0ea40.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-372"
-  },
-  {
-    "id": 67490,
-    "IDcode": "LULU-373",
-    "title": "大人しく押しに弱いデカ尻叔母さんの無自覚挑発に我慢できず若硬性欲ち○ぽで即ハメ中出しピストンしたら白目ベロ出しアヘ顔！ヨダレ垂れっぱなし！ガクガク痙攣！するほど乱れ潮射イキしまくっていた。 水川潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/d79a83688639f6071b2969d559477b0c.jpg",
-    "actress": [
-      "大志",
-      "由爱可奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-373"
-  },
-  {
-    "id": 67463,
-    "IDcode": "LULU-374",
-    "title": "野球部の色白デカ尻J系マネージャーのリハビリ性処理素股で早漏暴発してしまった精子を献身ま○こに塗りたくり…そのままヌルッと生挿入！！ザーメンまみれのチ○ポに発情して止まらない全力腰振りで何度も膣射中出ししまくった。 静河",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/7caa627acbe69479a6c0c04d647a73d2.jpg",
-    "actress": [
-      "大志"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-374"
-  },
-  {
-    "id": 60163,
-    "IDcode": "LULU-375",
-    "title": "僕に未練がありすぎてマイホームの隣に引っ越してきたヤンデレ蛇舌愛人に 肛門むしゃぶりガチアナル舐めで骨抜きにされ妻に隠れて何度も射精させられた話。 末広純",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/1dd634a9f98452111238200d841093d3.jpg",
-    "actress": [
-      "ティカル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-375"
-  },
-  {
-    "id": 62061,
-    "IDcode": "LULU-376",
-    "title": "残業中、2人きりの局内でデカ尻新人女子アナウンサーが平常心を鍛える固定バイブイキ我慢特訓！激しいうねりと振動にニュース原稿を読みきれず脚ガクブル失禁イキしてしまった潮射ま○こにセクハラ中出しした。 愛葉陽葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/69881e3de2d7585860e06d590c9b07fb.jpg",
-    "actress": [
-      "愛葉陽葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-376"
-  },
-  {
-    "id": 67450,
-    "IDcode": "LULU-377",
-    "title": "欲求不満を隠せないバイト先の色白巨乳人妻にカノジョとはできないイラマ性交をお願いしたらえずき汁ダラダラで涙目痙攣潮射するほど喉奥イキにドハマりしたので何度もごっくん不倫しまくった。 清巳れの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/78d1b097b3d2eaf188077c514d7e9ee5.jpg",
-    "actress": [
-      "清巳麗乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-377"
-  },
-  {
-    "id": 67324,
-    "IDcode": "LULU-378",
-    "title": "デカ尻の陰キャオタク友達同士でエロ漫画から学んだ知識を試し合ってたら同人誌みたいな舐めしゃぶりアナル理想交尾に発展し肛門中出しした。 千石もなか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/25ca1fbc928c2b1a054dd44123873563.jpg",
-    "actress": [
-      "千石もなか",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-378"
-  },
-  {
-    "id": 5653,
-    "IDcode": "LULU-379",
-    "title": "叔叔不在家，阿姨大屁股讓我欲火難耐，直接開幹大肉棒猛插，屁股肉抖不停，她痙攣高潮夾緊讓我多次中出榨幹 ~ 瀬田一花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2025-05-30",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173136620620_thumbnail.webp",
-    "actress": [
-      "瀬田一花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-379"
-  },
-  {
-    "id": 5650,
-    "IDcode": "LULU-382",
-    "title": "隔壁大屁股人妻無自覺秀透視內褲撩撥整棟男人，緊急肉棒警告直插潮吹小穴讓她徹底服氣 ~ 九井珠奈緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "2025-05-30",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173458195195_thumbnail.webp",
-    "actress": [
-      "九井珠奈緒",
-      "大志"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-382"
-  },
-  {
-    "id": 63115,
-    "IDcode": "LULU-383",
-    "title": "我不能忍受大乳房女孩的不自觉的透明胸罩的挑衅-佐山由依",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250816-1/fa1c0f496ebe3bcf9458360842e49760.jpg",
-    "actress": [
-      "佐山由依"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-383"
-  },
-  {
-    "id": 4870,
-    "IDcode": "LULU-384",
-    "title": "受不了姐姐的大屁股每次看见她的屁股我都忍不住射在上面-七原さゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250811-1/201919eb05b73f16be4fb465383fcccc.jpg",
-    "actress": [
-      "七原紗由"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-384"
-  },
-  {
-    "id": 62515,
-    "IDcode": "LULU-385",
-    "title": "オフパコ枕営業しているあざと可愛い地下アイドルを媚薬オイル乳首ハラスメントで敏感早漏体質に仕立て上げ白目アへ顔を晒すまで何度も乳首イキさせまくってキメセク中出しした。 倉木しおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-1/b0e2312994fd1a1537673e71ae480529.jpg",
-    "actress": [
-      "レンジャー鏑木",
-      "仓木诗织"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-385"
-  },
-  {
-    "id": 62438,
-    "IDcode": "LULU-386",
-    "title": "絶倫性欲を隠すはんなりデカ尻叔母の無自覚熟ケツ挑発に我慢できずヤリちん見せつけオナニーしたら 照れながらも興味津々だったので即ハメ子宮ガン突き中出しSEXして獣絶叫イキさせまくった！ 三池小春",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-1/497bd2d756c19abbed9f8e21c5ab9e85.jpg",
-    "actress": [
-      "三池小春"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-386"
-  },
-  {
-    "id": 62492,
-    "IDcode": "LULU-387",
-    "title": "善良到过分的敏感巨乳妻子被邻居垃圾屋巨根渣男紧紧拥抱-小坂ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250816-1/9ed0111993c9e73e2c3cbc66599eb9e5.jpg",
-    "actress": [
-      "小坂ひまり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-387"
-  },
-  {
-    "id": 194671,
-    "IDcode": "LULU-388",
-    "title": "部活女子姪っ子の器械体操尻に我慢できず叔父デカチンでケツ穴生ハメ開発したら潮射イキするほど軟体アナルセックスにドハマりしたので肛門中出ししまくった。 坂本りお",
-    "year": "",
-    "country": "",
-    "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/44ae4f6911a34253dc50b58a5602225d.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/57f3b06a/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-388"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SALO-021"
   },
   {
-    "id": 3909,
-    "IDcode": "LULU-389",
-    "title": "学年一清楚な彼女の色白デカ尻J系妹の無防備パンチラに我慢できずパンティ擦りつけぶっかけ射精！ 北岡果",
+    "id": 107163,
+    "IDcode": "SALO-023",
+    "title": "調教医院 紺野ひかる",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/834216121580354438dcd85db93188f6.jpg",
-    "actress": [
-      "北岡果林"
+    "genres": [
+      "饮尿",
+      "骑乗位",
+      "SM",
+      "M男"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-389"
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/09/27/dfa92fbf1d1e3885921fd7d43791473f.jpg",
+    "actress": [
+      "绀野光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SALO-023"
   },
   {
-    "id": 3892,
-    "IDcode": "LULU-390",
-    "title": "大好きデカ尻女子大生 宮城りえ",
+    "id": 204099,
+    "IDcode": "SAMA-484",
+    "title": "剧团美女小姐-绘色千佳",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "LUNATICS",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/dbf7e079d4623c4b0d4778b7e9ca5af2.jpg",
-    "actress": [
-      "宮城理惠"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-390"
+    "cover_url": "/upload/vod/20240123-1/c88df3fc6a9c1def7fe214a1a486f4fd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-484"
   },
   {
-    "id": 3878,
-    "IDcode": "LULU-391",
-    "title": "旦那が出張中 武田怜香",
+    "id": 224008,
+    "IDcode": "SAMA-778",
+    "title": "美乳女子大生講師",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "LUNATICS",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/645b1e8ec4affaede34c811ba0af7bf5.jpg",
-    "actress": [
-      "柳可憐",
-      "レンジャー鏑木"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-391"
+    "cover_url": "https://tutu1.space/images/2022/08/11/88a013d863b5b583f2357db8068847ef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-778"
   },
   {
-    "id": 3950,
-    "IDcode": "LULU-392",
-    "title": "オフパコ枕営業しているあざと可愛いデカ尻コスプレイヤーに媚薬を仕込み固定バイブ撮影会 松井日奈子",
+    "id": 165353,
+    "IDcode": "SAMA-811",
+    "title": "自宅に派遣された美乳女子大生讲师をハメる6 1Aさん",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/9c2bde68659a63c4d65f7b3e75d4686e.jpg",
-    "actress": [
-      "松井日奈子",
-      "レンジャー鏑木"
+    "genres": [
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-392"
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/zsdo10kls0j.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-811"
   },
   {
-    "id": 61295,
-    "IDcode": "LULU-393",
-    "title": "させる小悪魔デカ尻不動産レディ 宇流木さらら",
+    "id": 166807,
+    "IDcode": "SAMA-846",
+    "title": "超過激素人妹4小時特別篇22",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/2e567ef26ed713f5091937a2f2d84999.jpg",
-    "actress": [
-      "宇流木沙羅"
+    "genres": [
+      "中文字幕",
+      "素人"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-393"
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20230312/h_244sama00846pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAMA-846"
   },
   {
-    "id": 61026,
-    "IDcode": "LULU-394",
-    "title": "デカ尻人妻エステティシャンにデカチンに目をつけられ神焦らし尾崎えりか",
+    "id": 86084,
+    "IDcode": "SAME-001",
+    "title": "ATTACKERS引退女教師-川上奈々美",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/6093754d/vod.jpg",
-    "actress": [
-      "タイ"
+    "genres": [
+      "女教师",
+      "戏剧",
+      "单体作品"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-394"
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/31/181eb547de34928a758b787026e2ca85.jpg",
+    "actress": [
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-001"
   },
   {
-    "id": 61024,
-    "IDcode": "LULU-395",
-    "title": "彼女の巨乳姉の過激水着姿に無自覚誘惑され我慢できずフル勃起ち○ぽをハイレグ越し素股で…ヌルッと生挿入！ わか菜ほの",
+    "id": 86081,
+    "IDcode": "SAME-002",
+    "title": "顧問教師-倉本すみれ",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/2b0da8a4/vod.jpg",
-    "actress": [
-      "若宮穂乃",
-      "タイ"
+    "genres": [
+      "单体作品",
+      "制服",
+      "高中女生",
+      "戏剧"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-395"
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/31/7ace302a2f8bf7131cad69f8c3b9b231.jpg",
+    "actress": [
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-002"
   },
   {
-    "id": 61023,
-    "IDcode": "LULU-396",
-    "title": "勝手に居座り始めた入り浸りデカ尻風俗嬢の無防備ケツ挑発に我慢できず絶倫独身生ハメデカちんピストンで本気潮射 小那海あや",
+    "id": 86060,
+    "IDcode": "SAME-004",
+    "title": "年上の使えないおじさんバイトに犯●れた女子大生 吉岡ひより",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/59c76ec1/vod.jpg",
-    "actress": [
-      "レンジャー鏑木",
-      "佐佐波绫"
+    "genres": [
+      "单体作品",
+      "女大学生"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-396"
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2022-06-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/baea8ff8e2faad62fdae688a10a0d7e7.jpg",
+    "actress": [
+      "吉冈ひより"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-004"
   },
   {
-    "id": 61022,
-    "IDcode": "LULU-397",
-    "title": "自宅に遊びに来た姉の友達のデカ尻チア部J系のムレムレパンスト挑発に乗せられむっちり脚テクで何度もいいなりぶっかけ射精させられた。 宇流木さらら",
+    "id": 86085,
+    "IDcode": "SAME-005",
+    "title": "我必须经历这一切-堀中未来",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/0d674146/vod.jpg",
-    "actress": [
-      "宇流木沙羅"
+    "genres": [
+      "单体作品",
+      "凌辱",
+      "白天出轨",
+      "女大学生"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-397"
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/31/e3abcb6fc6028dc3c0be116538e439c7.jpg",
+    "actress": [
+      "藤田梢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-005"
   },
   {
-    "id": 61021,
-    "IDcode": "LULU-398",
-    "title": "社畜訪問営業のいいなり崖っぷち巨乳セールスレディに契約をチラつかせ乳首こねくり回しイキさせて弄び中出し乳オナホに仕立て上げた。 武田怜香",
+    "id": 68116,
+    "IDcode": "SAME-007",
+    "title": "新婚的教师-日下部加奈",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/2aeaaa19/vod.jpg",
-    "actress": [
-      "柳可憐"
+    "genres": [
+      "女教师",
+      "戏剧",
+      "白天出轨",
+      "单体作品"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-398"
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/11/667e95a9aa2f5518d0a2e20d6a9e3f38.jpg",
+    "actress": [
+      "日下部加奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-007"
+  },
+  {
+    "id": 170437,
+    "IDcode": "SAME-007-C",
+    "title": "新婚的老师在校内成为问题学生的性玩具 日下部加奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250417-1/32083b2b9bf62b5cfaff4478582cb89e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-007-C"
+  },
+  {
+    "id": 223984,
+    "IDcode": "SAME-009",
+    "title": "社員旅行-三宮つばき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/09/a0f8cc7b9e60da99656288aaab7984d9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-009"
+  },
+  {
+    "id": 170402,
+    "IDcode": "SAME-011-C",
+    "title": "丧服LADY的湿润丝袜 广濑里绪菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250413-1/9f1f8428e928f5dc29e9cf3914f83742.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-011-C"
+  },
+  {
+    "id": 86066,
+    "IDcode": "SAME-012",
+    "title": "在我女儿面前-妃ひかり 逢見リカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "母亲",
+      "戏剧",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/24/3123af4e93c164cae4326cca44914e0f.jpg",
+    "actress": [
+      "妃光莉",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-012"
+  },
+  {
+    "id": 67351,
+    "IDcode": "SAME-013",
+    "title": "女捜査官-白峰ミウ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女检察官",
+      "药物",
+      "中出",
+      "淫乱，真实",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/03/e13ed5c22830101b37dc5492d6bee72a.jpg",
+    "actress": [
+      "白峰美羽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-013"
+  },
+  {
+    "id": 86065,
+    "IDcode": "SAME-014",
+    "title": "在服刑后十年来第一次强奸了一名妇女-三宮つばき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "OL",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/19/5828291829736b477a63203a1f15dd7a.jpg",
+    "actress": [
+      "三宫つばき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-014"
+  },
+  {
+    "id": 86082,
+    "IDcode": "SAME-015",
+    "title": "办公室女士-香椎花乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "偷窥",
+      "连裤袜",
+      "OL",
+      "凌辱",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/12/4b30d71e56ebbb0a24cdd8525335136a.jpg",
+    "actress": [
+      "香椎花乃",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-015"
+  },
+  {
+    "id": 86083,
+    "IDcode": "SAME-016",
+    "title": "我的妹妹在我这里被强奸了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "单体作品",
+      "戏剧",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/18/90cb9a4416bf6c3914686eb304d73e1c.jpg",
+    "actress": [
+      "明里紬",
+      "明里䌷"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-016"
+  },
+  {
+    "id": 86073,
+    "IDcode": "SAME-018",
+    "title": "办公室女士-岡田ひなの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "连裤袜",
+      "单体作品",
+      "OL",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/14/e9d7e1855eb8e68c80f3169c47a9b17f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-018"
+  },
+  {
+    "id": 86112,
+    "IDcode": "SAME-019",
+    "title": "肉体自慰者-斎藤あみり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "单体作品",
+      "女大学生",
+      "女生"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/14/b2a0219682fe75e86dc7942570913da4.jpg",
+    "actress": [
+      "斋藤亚美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-019"
+  },
+  {
+    "id": 171113,
+    "IDcode": "SAME-021",
+    "title": "我被視姦了… 篠田優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-3/7fad20b2d0462fe4d2e067265c87d69e.webp",
+    "actress": [
+      "篠田優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-021"
+  },
+  {
+    "id": 86059,
+    "IDcode": "SAME-022",
+    "title": "禁闭和强奸社长的女儿-香椎花乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "大小姐",
+      "乱伦",
+      "监禁",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/d7294f0488b2e4f3701acbda6374c30a.jpg",
+    "actress": [
+      "香椎花乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-022"
+  },
+  {
+    "id": 86183,
+    "IDcode": "SAME-026",
+    "title": "輪●計画 新入社員編 倉本すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "OL",
+      "凌辱"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2022-11-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230203-1/2e802026bb7904da1cc913a598ebf5c6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-026"
+  },
+  {
+    "id": 63097,
+    "IDcode": "SAME-027",
+    "title": "在我女儿面前-森沢かな 工藤ララ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "母亲",
+      "凌辱",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/f7a4e82fdfcad66555c9442966abe892.jpg",
+    "actress": [
+      "森澤佳奈",
+      "工藤拉拉",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-027"
+  },
+  {
+    "id": 67801,
+    "IDcode": "SAME-028",
+    "title": "照顾我们性需求的女经理-花柳杏奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "高中女生",
+      "戏剧",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/14/4f34f24b736c7b6bdb813701dfc3d634.jpg",
+    "actress": [
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-028"
+  },
+  {
+    "id": 106463,
+    "IDcode": "SAME-029",
+    "title": "男人和我做爱的方式-小野寺真優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "单体作品",
+      "母亲",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/21/449babd0756efbd148cffa50552d8d60.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-029"
+  },
+  {
+    "id": 167003,
+    "IDcode": "SAME-030",
+    "title": "新婚的教师-希島あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/4125d7fd3f5da20ac26cd34d834ef283.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-030"
+  },
+  {
+    "id": 167005,
+    "IDcode": "SAME-033",
+    "title": "强奸罪的洗礼-伊織羽音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/66a8da628a0ffc750811b44b55cdac4e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-033"
+  },
+  {
+    "id": 167444,
+    "IDcode": "SAME-035",
+    "title": "办公室女士-櫻井まみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/17/69c5c33ea51bbc02e65e80550da39517.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-035"
+  },
+  {
+    "id": 68536,
+    "IDcode": "SAME-037",
+    "title": "爱上新员工-尾崎えりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "OL",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/17/a703238d3bd4f25e38f8d863ac442413.jpg",
+    "actress": [
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-037"
+  },
+  {
+    "id": 167446,
+    "IDcode": "SAME-038",
+    "title": "棒球队的女经理-広瀬ひな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/17/edd57e7d3a687fc9c7c044ff03fe5d1e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-038"
+  },
+  {
+    "id": 69163,
+    "IDcode": "SAME-039",
+    "title": "向班主任出卖自己身体的女学生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "高中女生",
+      "巨乳",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/17/edc190610f6e417e7d71d237c9ddae6b.jpg",
+    "actress": [
+      "鳳美優",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-039"
+  },
+  {
+    "id": 104460,
+    "IDcode": "SAME-040",
+    "title": "女酒吧服务员-有賀みなほ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "各种职业",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/42f8f925c4dddcaa948d93f4fe18b2da.jpg",
+    "actress": [
+      "有贺みなほ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-040"
+  },
+  {
+    "id": 69075,
+    "IDcode": "SAME-041",
+    "title": "年轻的妻子被银行劫匪挟持后逃亡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "新娘，年轻妻子",
+      "戏剧",
+      "白天出轨",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/2a6302380a99b693095b3dd0e997c2f5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-041"
+  },
+  {
+    "id": 63096,
+    "IDcode": "SAME-044",
+    "title": "在我女儿面前",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "母亲",
+      "凌辱",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/34265d3a104e97c533ad0fab501d4f38.jpg",
+    "actress": [
+      "美咲佳奈",
+      "東雲梓",
+      "大岛丈",
+      "美咲環"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-044"
+  },
+  {
+    "id": 77584,
+    "IDcode": "SAME-047",
+    "title": "被男性看護們當性愛玩具的獻身人妻 我只有被欺負的時候可以忘記孤單… 森澤佳奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "人妻",
+      "戏剧",
+      "凌辱",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-3/79b7af83f3a5f570b59346d9e89d064a.webp",
+    "actress": [
+      "森澤佳奈",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-047"
+  },
+  {
+    "id": 168034,
+    "IDcode": "SAME-048",
+    "title": "未亡人、哀しみの妊娠報告。 末広純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20231113/same048pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-048"
+  },
+  {
+    "id": 224917,
+    "IDcode": "SAME-052",
+    "title": "不停抽插喷出爱液-二宫光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/db4f50085aad259221b46b0dfd31f4ad.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-052"
+  },
+  {
+    "id": 89851,
+    "IDcode": "SAME-053",
+    "title": "射在里面吧-妃光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "戏剧",
+      "婆婆",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/6ae97973d0ee753a0d9ac2a120b432d5.jpg",
+    "actress": [
+      "妃光莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-053"
+  },
+  {
+    "id": 89852,
+    "IDcode": "SAME-055",
+    "title": "结束刑期的强奸魔-木下日葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "凌辱"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/7a6f4fe3c1867a1fdc24cfda66358b45.jpg",
+    "actress": [
+      "木下日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-055"
+  },
+  {
+    "id": 89875,
+    "IDcode": "SAME-059",
+    "title": "輪●計画 巨乳インフルエンサー編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2023-06-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/2c0b1b2de0880380e71fa092687811b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-059"
+  },
+  {
+    "id": 18734,
+    "IDcode": "SAME-060",
+    "title": "越獄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "綁架",
+      "潛入",
+      "性感",
+      "凌辱",
+      "劇情",
+      "強姦",
+      "性騷擾"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2023-09-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20230911/20230911233150253253.jpg",
+    "actress": [
+      "妃光莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-060"
+  },
+  {
+    "id": 89857,
+    "IDcode": "SAME-062",
+    "title": "选择肉偿-美空未来",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "大小姐",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/1c220a270682b20181c901b72eab71d1.jpg",
+    "actress": [
+      "美空"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-062"
+  },
+  {
+    "id": 89871,
+    "IDcode": "SAME-063",
+    "title": "舔舐侵犯美颜-藤井伊由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "OL",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/3c08cdcaf9cb96c4b15d4cd01d381e90.jpg",
+    "actress": [
+      "藤井一夜",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-063"
+  },
+  {
+    "id": 89854,
+    "IDcode": "SAME-064",
+    "title": "輪●計画 就活生編 円井萌華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "女大学生"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/b8f652bc4bc9c51a01e75c15efe69640.jpg",
+    "actress": [
+      "円井萌華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-064"
+  },
+  {
+    "id": 89853,
+    "IDcode": "SAME-066",
+    "title": "競泳水着インストラクター失禁中出し鬼畜レ●プ 乃木絢愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "单体作品",
+      "学校泳装"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2023-07-04",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/3bfb7068fba7904ac22faad7c1af9e02.jpg",
+    "actress": [
+      "南佳也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-066"
+  },
+  {
+    "id": 89883,
+    "IDcode": "SAME-068",
+    "title": "被异常性犯罪者侵犯无抵抗堕落的人妻 岬奈奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "人妻",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-1/027c342330a26a7f37c023525c6415c9.jpg",
+    "actress": [
+      "岬奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-068"
+  },
+  {
+    "id": 89879,
+    "IDcode": "SAME-070",
+    "title": "母親の再婚相手のオジサンに毎日レ●プされています。 二葉エマ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "单体作品",
+      "凌辱",
+      "女大学生"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2023-08-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/f19d300b6c99310090ead2290415f91d.jpg",
+    "actress": [
+      "二叶エマ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-070"
+  },
+  {
+    "id": 17989,
+    "IDcode": "SAME-080",
+    "title": "对看着长大的女儿朋友发起侵犯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "手指插入",
+      "中出",
+      "口交",
+      "性感",
+      "美少女電影",
+      "乱伦",
+      "美少女",
+      "劇情",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/cf8e22c3482aec2022656521e69eff43.jpg",
+    "actress": [
+      "二葉惠麻",
+      "二叶エマ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-080"
+  },
+  {
+    "id": 15969,
+    "IDcode": "SAME-081",
+    "title": "棒球部女经理人-柏木小夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "JK校服",
+      "學校",
+      "強姦",
+      "美少女電影",
+      "凌辱",
+      "脅迫做愛",
+      "美少女",
+      "劇情",
+      "女學生"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240327-1/c7eeef298cea143f6e998fdc617bbfdc.jpg",
+    "actress": [
+      "柏木小夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-081"
+  },
+  {
+    "id": 17988,
+    "IDcode": "SAME-082",
+    "title": "在女儿面前像母狗一样被激烈突入",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫亂",
+      "中出",
+      "母女",
+      "母親",
+      "性感",
+      "口交",
+      "凌辱",
+      "脅迫做愛",
+      "乱伦",
+      "劇情",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/a439d238ca5053c274cbe81011830987.jpg",
+    "actress": [
+      "通野未帆",
+      "工藤拉拉",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-082"
+  },
+  {
+    "id": 17991,
+    "IDcode": "SAME-083",
+    "title": "漂流少女-工藤由拉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "媚藥・迷藥",
+      "叛逆少女",
+      "舔陰",
+      "中出",
+      "輪姦",
+      "口交",
+      "性感",
+      "美少女電影",
+      "劇情",
+      "亂交 • 群P"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/d37394b1965b8a16c290cdff73c9bb66.jpg",
+    "actress": [
+      "工藤由羅",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-083"
+  },
+  {
+    "id": 17462,
+    "IDcode": "SAME-084",
+    "title": "輪姦計畫：美麗辦公室女郎版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑絲",
+      "綁架",
+      "中出",
+      "口交",
+      "性感",
+      "OL",
+      "凌辱",
+      "制服",
+      "劇情",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231203/ba62175a-1705-4577-b35a-7a9125b20115.jpg",
+    "actress": [
+      "三尾惠"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-084"
+  },
+  {
+    "id": 17457,
+    "IDcode": "SAME-085",
+    "title": "母亲的再婚对象-五芭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "亂倫",
+      "女兒",
+      "強姦",
+      "中出",
+      "口交",
+      "乱伦",
+      "劇情",
+      "繼父"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/12/23/551d4a8dd31ef2962658ba60b4a98be0.jpg",
+    "actress": [
+      "五芭"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-085"
+  },
+  {
+    "id": 17421,
+    "IDcode": "SAME-086",
+    "title": "潛入强奸巨乳美少女 沉浸在性愛中",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "JK校服",
+      "強姦",
+      "潛入",
+      "美少女電影",
+      "巨乳",
+      "監禁",
+      "美少女",
+      "劇情",
+      "女學生"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "2023-12-05",
+    "cover_url": "https://picture.yoshiclub.xyz/20231203/f1c7f9d3-3a75-4fdf-80d2-5cf07b84a5fa.jpg",
+    "actress": [
+      "星乃夏月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-086"
+  },
+  {
+    "id": 89850,
+    "IDcode": "SAME-087",
+    "title": "在女儿面前像母狗一样被激插",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "母亲",
+      "戏剧",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/12/22/43fc436c02be21e5e7a3583f7170ea06.jpg",
+    "actress": [
+      "泉莉音",
+      "織田真子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-087"
+  },
+  {
+    "id": 16940,
+    "IDcode": "SAME-088",
+    "title": "被绑架监禁的OL-前田美波",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫亂",
+      "黑絲",
+      "潮吹",
+      "劇情",
+      "緊縛",
+      "綁架",
+      "按摩棒",
+      "拘束・拷問",
+      "中出",
+      "口交",
+      "OL",
+      "制服",
+      "殘忍畫面",
+      "監禁",
+      "羞恥",
+      "強姦",
+      "打屁股",
+      "自拍性愛"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240215-1/a5e5e54ab8bc13472778a11dcd471f92.jpg",
+    "actress": [
+      "前田美波"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-088"
+  },
+  {
+    "id": 16936,
+    "IDcode": "SAME-090",
+    "title": "抑制不住思绪-七海蒂娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "黑絲",
+      "NTR",
+      "出軌",
+      "中出",
+      "口交",
+      "加班",
+      "性感",
+      "女上司",
+      "OL",
+      "制服",
+      "辦公室",
+      "劇情"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240215-1/3c8a4c565b10b011a2e7e67f9556a632.jpg",
+    "actress": [
+      "七海蒂娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-090"
+  },
+  {
+    "id": 103693,
+    "IDcode": "SAME-091",
+    "title": "美巨乳代課女教師被侵犯連插高潮上癮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女教师",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240309-1/e1960e4c295865b5b5b6007cd9442875.jpg",
+    "actress": [
+      "七海蒂娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-091"
+  },
+  {
+    "id": 16411,
+    "IDcode": "SAME-093",
+    "title": "被鬼畜義父肏到怀孕的美少女  小栗美优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "JK校服",
+      "中文字幕",
+      "自宅",
+      "女學生",
+      "女兒",
+      "父女",
+      "老頭子",
+      "強姦",
+      "中出",
+      "不倫",
+      "口交",
+      "美少女電影",
+      "美少女",
+      "劇情",
+      "羞恥",
+      "繼父"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250319-1/1dca7ba41ccd1c557fec5f8d342f272f.jpg",
+    "actress": [
+      "小栗美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-093"
+  },
+  {
+    "id": 16422,
+    "IDcode": "SAME-094",
+    "title": "我唯一可以幹到千金美女的方法",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "劇情",
+      "淫亂",
+      "中出",
+      "脅迫做愛",
+      "美少女",
+      "3P・4P",
+      "性騷擾",
+      "女同事",
+      "輪姦",
+      "性感",
+      "辦公室",
+      "兩男一女",
+      "羞恥",
+      "口交",
+      "美少女電影",
+      "凌辱",
+      "OL",
+      "制服",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240303-1/5ae6f99801178797232b3fbbe6428d5b.jpg",
+    "actress": [
+      "遠藤沙耶",
+      "左慈半造"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-094"
+  },
+  {
+    "id": 15968,
+    "IDcode": "SAME-097",
+    "title": "被学生们支配的教育实习生-小栗美由",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫亂",
+      "學校",
+      "女教師",
+      "輪姦",
+      "凌辱",
+      "巨乳",
+      "劇情",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240327-1/1375dc636049347b7977d6a1d413e88b.jpg",
+    "actress": [
+      "小栗美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-097"
+  },
+  {
+    "id": 15967,
+    "IDcode": "SAME-098",
+    "title": "被绑架监禁的接待小姐-木下ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美乳",
+      "真實拍攝",
+      "綁架",
+      "拘束・拷問",
+      "劇情",
+      "淫亂",
+      "中出",
+      "美少女",
+      "苗條",
+      "暗黑系",
+      "職員",
+      "美腳",
+      "羞恥",
+      "後入",
+      "緊縛",
+      "口交",
+      "美少女電影",
+      "制服",
+      "騎乗位",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240327-1/a6d5de8a83211f85d79c7a61a19c40f8.jpg",
+    "actress": [
+      "木下日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-098"
+  },
+  {
+    "id": 15966,
+    "IDcode": "SAME-099",
+    "title": "你可以花1000日元和这位老师做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "學校",
+      "女教師",
+      "中出",
+      "輪姦",
+      "美少女電影",
+      "凌辱",
+      "脅迫做愛",
+      "劇情",
+      "強姦"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240413-1/64bb79af3615a09d63d38a8a0f8bb3d9.jpg",
+    "actress": [
+      "遠藤沙耶"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-099"
+  },
+  {
+    "id": 15965,
+    "IDcode": "SAME-101",
+    "title": "被再婚对象带来的继子留种致孕-爱宝玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "強姦",
+      "美少女電影",
+      "巨乳",
+      "美少女",
+      "劇情",
+      "繼父"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240327-1/336d10ee5f3ebfccc8dc582f1eb7c7fa.jpg",
+    "actress": [
+      "愛寶鈴",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-101"
+  },
+  {
+    "id": 15738,
+    "IDcode": "SAME-102",
+    "title": "把新交的女朋友介紹給爸爸-小栗美優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美臀",
+      "美乳",
+      "NTR",
+      "手指插入",
+      "女上位",
+      "儿子的朋友",
+      "亂交 • 群P",
+      "淫亂",
+      "少女",
+      "乳交",
+      "中出",
+      "不倫",
+      "美少女",
+      "苗條",
+      "內衣",
+      "絕頂高潮",
+      "自宅",
+      "潮吹",
+      "胸控・戀乳癖",
+      "性感",
+      "無毛",
+      "美腳",
+      "巨乳",
+      "羞恥",
+      "後入",
+      "亂倫",
+      "舔陰",
+      "口交",
+      "美少女電影",
+      "乱伦",
+      "騎乗位",
+      "女學生",
+      "偷竊"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240512-1/25fd8977dcbb15cfac1b31ee4a4a3ccd.jpg",
+    "actress": [
+      "小栗美優",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-102"
+  },
+  {
+    "id": 15741,
+    "IDcode": "SAME-103",
+    "title": "被要求淫蕩接客服務的我-七海蒂娜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "飯店",
+      "美乳",
+      "手指插入",
+      "女上位",
+      "拘束・拷問",
+      "淫亂",
+      "黑絲",
+      "少女",
+      "乳交",
+      "中出",
+      "美少女",
+      "苗條",
+      "絕頂高潮",
+      "潮吹",
+      "胸控・戀乳癖",
+      "性感",
+      "巨乳",
+      "飯店小姐・援交妹",
+      "後入",
+      "口交",
+      "美少女電影",
+      "凌辱",
+      "制服",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240512-1/210a04efefad7c0a5ba2bb161baf461a.jpg",
+    "actress": [
+      "七海蒂娜",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-103"
   }
 ];

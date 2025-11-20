@@ -1,1496 +1,1995 @@
 window.PAGE_DATA = [
   {
-    "id": 75678,
-    "IDcode": "VEC-394",
-    "title": "中文字幕 夫の前で痴漢に絶頂（いか）された妻 河北麻衣",
+    "id": 218867,
+    "IDcode": "xvsr-035",
+    "title": "新人-島崎りこ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/o2wthyybsk5.jpg",
-    "actress": [
-      "河北麻衣"
+    "cover_url": "https://tutu1.space/images/2022/07/20/e09ee216a310d2f8fc62403de008e0d4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-035"
+  },
+  {
+    "id": 221914,
+    "IDcode": "xvsr-036",
+    "title": "成熟女性放荡不羁的热情-中澤レイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/78fdebdb7a52f59c2c07d7283f915c8c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-036"
+  },
+  {
+    "id": 86947,
+    "IDcode": "XVSR-041",
+    "title": "狙われた通勤電車 7時15分の女 風間萌衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女教师",
+      "荡妇",
+      "眼镜",
+      "性骚扰"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-394"
-  },
-  {
-    "id": 75080,
-    "IDcode": "VEC-395",
-    "title": "被儿子的同学强奸后-知花凛",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/04/25/3746770ed59e6c5e0a684fd1858756e0.jpg",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2015-02-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230403-20/5830b58785144d7c3ad4d12e3add01ae.jpg",
     "actress": [
-      "知花凛"
+      "鲛岛",
+      "黒瀬萌衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-395"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-041"
   },
   {
-    "id": 73069,
-    "IDcode": "VEC-396",
-    "title": "中文字幕母の親友生野ひかる",
+    "id": 220610,
+    "IDcode": "xvsr-048",
+    "title": "风俗七变化-彩乃なな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/e4bhm3alvlj.jpg",
+    "cover_url": "https://tutu1.space/images/2022/12/06/9d1b8afceda2861edcb1f34d0f5383a7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-048"
+  },
+  {
+    "id": 221945,
+    "IDcode": "XVSR-054",
+    "title": "只要一按铃马上出现解决问题的白衣天使",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/b62befdb5f4318fcced435731e9ed850.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-054"
+  },
+  {
+    "id": 221911,
+    "IDcode": "xvsr-058",
+    "title": "天音りん的洗礼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/4577fd385475c3cede3a722dc4a4771b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-058"
+  },
+  {
+    "id": 221928,
+    "IDcode": "XVSR-074",
+    "title": "撅起圆润美臀待君插入-彩乃なな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/70c9d106c213cdc0166821cf5ec30dd9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-074"
+  },
+  {
+    "id": 174124,
+    "IDcode": "xvsr-087",
+    "title": "突破极限疯狂高潮100连发-彩乃奈奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/05/d6301eec67b3ec8fdd7093a95f799812.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-087"
+  },
+  {
+    "id": 221930,
+    "IDcode": "XVSR-109",
+    "title": "夫人的圣水-彩乃なな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/b928a7f51f0925130b964af70668d011.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-109"
+  },
+  {
+    "id": 221925,
+    "IDcode": "XVSR-115",
+    "title": "名人拍卖会-彩乃なな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/17dd245c9208b878e26eab552738789a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-115"
+  },
+  {
+    "id": 198809,
+    "IDcode": "XVSR-130",
+    "title": "美人妻的甜蜜诱惑-彩乃なな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250615-1/12dd26f715c2e13e5f0596d14ecbe522.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-130"
+  },
+  {
+    "id": 72733,
+    "IDcode": "XVSR-134",
+    "title": "官能小説 嫁くらべ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "新娘，年轻妻子",
+      "多P",
+      "美少女",
+      "乳房",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240119-20/b8bd350d5e1e290f4d4123ea31e1de86.jpg",
     "actress": [
-      "生野光"
+      "南真悠",
+      "田渊正浩",
+      "大岛丈",
+      "夏希みなみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-396"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-134"
   },
   {
-    "id": 75691,
-    "IDcode": "VEC-397",
-    "title": "奸诈的会面-澤村レイコ",
+    "id": 221940,
+    "IDcode": "XVSR-136",
+    "title": "猛烈顔射-彩乃なな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/18/c878fb3bcd587c321d282e06f0105859.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/c74953a1634399896cc3e320fb3dc4df.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-136"
+  },
+  {
+    "id": 218825,
+    "IDcode": "xvsr-140",
+    "title": "女教師-あいの美羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/15/4c5bff9cb57e21a61422ff23c128edc5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-140"
+  },
+  {
+    "id": 221923,
+    "IDcode": "XVSR-154",
+    "title": "让你真正的脸红心跳-彩乃なな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/699be94a1fdb0ef70db59fa273105121.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-154"
+  },
+  {
+    "id": 218838,
+    "IDcode": "xvsr-203",
+    "title": "美少女泡姫桃源郷-美空杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/17/b5cc179e3d0533bc06d99813ff544bfa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-203"
+  },
+  {
+    "id": 211800,
+    "IDcode": "xvsr-217",
+    "title": "人妻家政婦-佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/02/22/3c457d672b8b45bc4f018bf56da81104.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-217"
+  },
+  {
+    "id": 86948,
+    "IDcode": "XVSR-219",
+    "title": "裏・JULIA 未公開映像付き蔵出し映像",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "足交",
+      "乳交",
+      "女教师",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2017-03-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230403-20/058eb8efe3074a15b34f86ac8b4e2937.jpg",
     "actress": [
-      "高坂ますみ"
+      "JULIA"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-397"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-219"
   },
   {
-    "id": 83853,
-    "IDcode": "VEC-399",
-    "title": "寝取られおっぱいNTR 自慢の巨乳嫁が俺の友達に揉みまくられて中出しまでされていた 風間ゆみ",
+    "id": 166925,
+    "IDcode": "XVSR-241",
+    "title": "殘酷虐待吸精鬼長瀨麻美",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
     "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2020-01-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/c2d503ca422b4aef0f4a2e42af3caa09.jpg",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20230325/xvsr00241pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-241"
+  },
+  {
+    "id": 166862,
+    "IDcode": "XVSR-242",
+    "title": "情色小說兒子的戀人皆野愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20230325/xvsr00242pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-242"
+  },
+  {
+    "id": 166358,
+    "IDcode": "XVSR-243",
+    "title": "裸女情熱大陸 有森涼出道特別檔案",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/fn00sz0ae5j.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-243"
+  },
+  {
+    "id": 86954,
+    "IDcode": "XVSR-245",
+    "title": "理想的飼育調教～俏麗女僕性奴隸～ 大槻響",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "女佣",
+      "美少女",
+      "凌辱",
+      "乳房",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/mxqxdpryvwj.jpg",
     "actress": [
-      "風間由美"
+      "大槻响"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-399"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-245"
   },
   {
-    "id": 76678,
-    "IDcode": "VEC-403",
-    "title": "息子のクラスメイトに犯●れ続けてプライドを失った母親 岩沢香代",
+    "id": 166360,
+    "IDcode": "XVSR-249",
+    "title": "初次高潮調教肏到爽 系篠遙",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
     "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2020-02-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/d43b59e1ca74eae524b43b4fb0a3f483.jpg",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/iwpii43buis.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-249"
+  },
+  {
+    "id": 166863,
+    "IDcode": "XVSR-258",
+    "title": "濃交 初美りんのリアルセックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20230325/xvsr00258pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-258"
+  },
+  {
+    "id": 166864,
+    "IDcode": "XVSR-259",
+    "title": "光彩美少女の失禁SEXお漏らし解禁！！お嬢様の聖水 長谷川奈々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20230325/xvsr00259pl.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-259"
+  },
+  {
+    "id": 218305,
+    "IDcode": "xvsr-260",
+    "title": "自宅警備員-有花もえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/17/8f272fc1511d89af2b7cb140cd05e255.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-260"
+  },
+  {
+    "id": 211183,
+    "IDcode": "xvsr-261",
+    "title": "人妻秘密-長瀬麻美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/12/09/9cb4372fc28c963f3a43011983bb391e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-261"
+  },
+  {
+    "id": 173377,
+    "IDcode": "xvsr-283",
+    "title": "和阳台露出狂小姐姐中出同居性生活-仓多真央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/b6c7f5cf/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-283"
+  },
+  {
+    "id": 191243,
+    "IDcode": "XVSR-287",
+    "title": "参加暗恋的老师佐佐木明希主动勾引我使我落入了他们夫妻俩的圈套之中沦为工具人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250723-1/c8a2290a9011ce4176a6478148f2aaf8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-287"
+  },
+  {
+    "id": 225272,
+    "IDcode": "xvsr-328",
+    "title": "社长的美人妻-二階堂ゆり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/79ed44e1131a1b9e498727ccd4dda719.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-328"
+  },
+  {
+    "id": 72734,
+    "IDcode": "XVSR-341",
+    "title": "官能小説 人妻家政婦-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乳房",
+      "人妻",
+      "白天出轨",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240119-20/6e8efbf923b21d9409e8b39793ba13b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-341"
+  },
+  {
+    "id": 207475,
+    "IDcode": "XVSR-353",
+    "title": "和小鲜肉偷情内射怀孕的大槻响",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240327-1/1d78e1e3b95065e22e6ce6f36c0bc518.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-353"
+  },
+  {
+    "id": 69868,
+    "IDcode": "XVSR-358",
+    "title": "清純女学生強制中出し性交 若月まりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "中出",
+      "主观视角",
+      "水手服",
+      "乱伦",
+      "数位马赛克"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2018-03-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/9ceccad48419d6727b9070e7ba93e4a1.jpg",
     "actress": [
-      "岩沢香代"
+      "若月玛丽亚",
+      "玉木玲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-403"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-358"
   },
   {
-    "id": 82814,
-    "IDcode": "VEC-405",
-    "title": "中文字幕 一度きりの浮気のはずが…抱かれては",
+    "id": 74685,
+    "IDcode": "XVSR-377",
+    "title": "到处勾引的人妻-大槻ひびき",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "投稿",
+      "中出",
+      "已婚妇女",
+      "乳房",
+      "人妻"
+    ],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/jbczbg0155v.jpg",
+    "cover_url": "/upload/vod/20250106-1/bd75efb99e356128fdffa95480770c66.jpg",
     "actress": [
-      "風間由美"
+      "大槻响",
+      "タツ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-405"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-377"
   },
   {
-    "id": 82078,
-    "IDcode": "VEC-411",
-    "title": "母の親友 向井藍",
+    "id": 234714,
+    "IDcode": "XVSR-378",
+    "title": "隔壁的巨乳太太水野朝阳出轨被我发现了直接用嘴含住我的肉棒来封我的口",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "巨乳"
+    ],
     "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2020-03-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221107-1/ff0400b82ff8eab1ace3b91ef0e69d70.jpg",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250710-1/fc0505fa4139b6cbac1882e0ad50950c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-378"
+  },
+  {
+    "id": 209588,
+    "IDcode": "xvsr-379",
+    "title": "ご奉仕リアルSEX-跡美しゅり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/07/12/a9e08453be693a0f131f62c90e62ff3c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-379"
+  },
+  {
+    "id": 207610,
+    "IDcode": "XVSR-412",
+    "title": "美谷朱里的真实内射性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240322-1/01f361a7c7d39b2cccd0baba79c738a6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-412"
+  },
+  {
+    "id": 68562,
+    "IDcode": "XVSR-415",
+    "title": "僕専用ダッチワイフ リアルドール 有花もえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "颜射",
+      "多P",
+      "美少女"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2018-09-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250417-1/d4ce6ec780489d6defaea949a1cac66e.jpg",
     "actress": [
-      "向井藍"
+      "有花萌"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-411"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-415"
   },
   {
-    "id": 82099,
-    "IDcode": "VEC-412",
-    "title": "夫の前で痴●に絶頂（いか）された妻 八木あずさ",
+    "id": 209139,
+    "IDcode": "XVSR-416",
+    "title": "巨乳人妻-長瀬麻美",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "巨乳",
+      "人妻"
+    ],
     "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2020-04-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221107-1/52b9a6aecbc8741a08e4d67427c32251.jpg",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2019/12/19/QQ20191219161420.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-416"
+  },
+  {
+    "id": 196312,
+    "IDcode": "xvsr-422",
+    "title": "能为老公做的事就是被上司NTR调教",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR"
+    ],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250309-1/7f4ab51d0dc758e581ab74416a2f6a34.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-422"
+  },
+  {
+    "id": 196307,
+    "IDcode": "xvsr-427",
+    "title": "波多野结衣的绝对内射泡沫浴服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250309-1/84c94a3f3451288d2c84b19ad5359832.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-427"
+  },
+  {
+    "id": 69978,
+    "IDcode": "XVSR-435",
+    "title": "長瀬麻美 33性交×撮り下ろしセックス 4周年BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中出",
+      "潮吹",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2018-11-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/534e9fd5d12e96099720efb58212613e.jpg",
     "actress": [
-      "樱井夕树"
+      "长瀬麻美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-412"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-435"
   },
   {
-    "id": 225154,
-    "IDcode": "vec-415",
-    "title": "巨乳人妻-美園和花",
+    "id": 207543,
+    "IDcode": "XVSR-436",
+    "title": "彩美奈奈减肥回归首秀",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/cf996b381c344119f36f0f1c0fea93f4.jpg",
+    "cover_url": "/upload/vod/20240327-1/738c7e4ab157b1fb02cc406028be7f26.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-415"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-436"
   },
   {
-    "id": 70210,
-    "IDcode": "VEC-420",
-    "title": "妻の女友達-澤村レイコ",
+    "id": 207578,
+    "IDcode": "XVSR-441",
+    "title": "和痴女姐姐大槻响偷偷中出做爱",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乱伦"
+    ],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/06/02/QQ202006030511571596a.jpg",
+    "cover_url": "/upload/vod/20240327-1/c47e3d8f99ae2c83a070bb4d9bc27b6c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-441"
+  },
+  {
+    "id": 69550,
+    "IDcode": "XVSR-443",
+    "title": "絶対本番出来る生中出し風俗嬢 大入り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "精选，综合",
+      "中出",
+      "妓女",
+      "巨乳",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2018-12-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/3d177036c2f0b831f44da4b3b7f18bbd.jpg",
     "actress": [
-      "高坂ますみ"
+      "美谷朱里",
+      "川上優",
+      "椎名空",
+      "尾上若叶",
+      "青山はな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-420"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-443"
   },
   {
-    "id": 77634,
-    "IDcode": "VEC-425",
-    "title": "用身体帮青春期躁动的男生内射破处",
+    "id": 82924,
+    "IDcode": "XVSR-444",
+    "title": "同棲性活-彩乃なな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乳房",
+      "戏剧",
+      "主观视角",
+      "美少女"
+    ],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240309-1/2542feb0f337dff4c7292dea4d7b9287.jpg",
+    "cover_url": "https://tutu1.space/images/2019/07/22/QQ2019072216061803819.jpg",
     "actress": [
-      "織田真子"
+      "彩乃奈奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-425"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-444"
   },
   {
-    "id": 209587,
-    "IDcode": "vec-427",
-    "title": "嫁の親友 桜井ゆみ",
+    "id": 69858,
+    "IDcode": "XVSR-445",
+    "title": "美人妻-友田彩也香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "美少女",
+      "已婚妇女",
+      "乳房",
+      "人妻",
+      "白天出轨",
+      "戏剧"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/12/b1edeb74e3e3b41fcff8b2a82667ab43.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-427"
-  },
-  {
-    "id": 209586,
-    "IDcode": "vec-428",
-    "title": "母の親友 理々香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/12/3adb64d49d939c88ef404ffcd16c3082.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-428"
-  },
-  {
-    "id": 209661,
-    "IDcode": "vec-429",
-    "title": "巨乳嫁が俺の友達-蒼井れいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/07/17/dfa92406db0ff5f00e41fe5d2c58c0b1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-429"
-  },
-  {
-    "id": 106020,
-    "IDcode": "VEC-430",
-    "title": "部下と裏切りの逢瀬 水野優香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/02/4ba97729f1971bfe9deda483824d2bf9.jpg",
+    "cover_url": "/upload/vod/20240819-1/4be6e80d075d7de819184659016dd28f.jpg",
     "actress": [
-      "水野優香"
+      "友田彩也香",
+      "田渊正浩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-430"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-445"
   },
   {
-    "id": 210101,
-    "IDcode": "vec-431",
-    "title": "朋友母亲的性欲-香坂のあ",
+    "id": 166400,
+    "IDcode": "XVSR-457",
+    "title": "欲求不満などすけべ人妻12人に生ハメ中出",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/31/8d394c5f4ca79b2e5352e6b14edc7522.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/3ek3x0y5fty.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-431"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-457"
   },
   {
-    "id": 210035,
-    "IDcode": "vec-432",
-    "title": "母の親友 永井マリア",
+    "id": 82933,
+    "IDcode": "XVSR-459",
+    "title": "淫语黑丝连裤袜痴女-友田彩也香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "淫语",
+      "荡妇",
+      "连裤袜",
+      "女上位"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/19/521660c85290211e60e9afbcecccf485.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-432"
-  },
-  {
-    "id": 210298,
-    "IDcode": "vec-433",
-    "title": "友人母親-七緒夕希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/21/a13cd24978c8c7f9401b5959b22090b6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-433"
-  },
-  {
-    "id": 210054,
-    "IDcode": "vec-434",
-    "title": "妻子的闺蜜-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/08/20/8c33a14d6f7caffe1370bfc903795090.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-434"
-  },
-  {
-    "id": 178212,
-    "IDcode": "vec-435",
-    "title": "因为寂寞下载交友APP的美熟女人妻青木玲居然摇到了丈夫的部下",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/09/ba60b0f1/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-435"
-  },
-  {
-    "id": 178199,
-    "IDcode": "vec-436",
-    "title": "满身大汗性欲暴增的美女阿姨逃狱犯强制我和她中出性爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/09/205866e3/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-436"
-  },
-  {
-    "id": 176967,
-    "IDcode": "vec-438",
-    "title": "老妈的美女朋友老家里喝酒趁着妈妈喝醉了肆无忌惮的玩弄我的肉棒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/11/5cbc2d0f9f806535caa6ef9284f6aa21.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-438"
-  },
-  {
-    "id": 210369,
-    "IDcode": "vec-439",
-    "title": "性欲旺盛的姑姑-青木玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/27/b17240a34fcbbd617557bd5870fd83cc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-439"
-  },
-  {
-    "id": 210349,
-    "IDcode": "vec-440",
-    "title": "朋友母親的性欲-加藤あやの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/09/25/767d7a00c618606b40f5a670bfd0c228.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-440"
-  },
-  {
-    "id": 210731,
-    "IDcode": "vec-443",
-    "title": "撩我的隔壁老婆-東凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/30/2d3dd711e8e3ff64b3eddc18d8892020.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-443"
-  },
-  {
-    "id": 210732,
-    "IDcode": "vec-444",
-    "title": "母の親友 織田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/30/cbe336cf299460211961f22b96585908.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-444"
-  },
-  {
-    "id": 210733,
-    "IDcode": "vec-445",
-    "title": "脱獄犯-瞳リョウ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/30/802686b2f923d9148cd63f01ec5aaf4d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-445"
-  },
-  {
-    "id": 210740,
-    "IDcode": "vec-447",
-    "title": "老婆的闺蜜们-夕季ちとせ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/31/b0e950a8291f4781193e751cd6fd5f45.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-447"
-  },
-  {
-    "id": 210739,
-    "IDcode": "vec-448",
-    "title": "女上司喝醉了变漂亮-君島みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/10/31/ae9bfafbf29ba6fbaae615ba49f07a59.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-448"
-  },
-  {
-    "id": 211028,
-    "IDcode": "vec-449",
-    "title": "妻子的闺蜜-紗々原ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/25/d0424c76aab4045184c865d9bf0ee14a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-449"
-  },
-  {
-    "id": 211268,
-    "IDcode": "vec-451",
-    "title": "友人母親-椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/12/27/b672fa36e84933f0cc5a555b94fd945b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-451"
-  },
-  {
-    "id": 73100,
-    "IDcode": "VEC-455",
-    "title": "「立派なオチ○ポしてるわね」友達の母親は性欲モンスター！童貞を奪われた僕 上条つばさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2020-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/0db85d6f9e5d35d1a08b7c5d72c6e5fd.jpg",
+    "cover_url": "https://tutu1.space/images/2022/11/10/a275001ce509600dc194b28d55a31623.jpg",
     "actress": [
-      "上条つばさ"
+      "友田彩也香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-455"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-459"
   },
   {
-    "id": 73070,
-    "IDcode": "VEC-456",
-    "title": "出轨的奸夫-君島みお",
+    "id": 166434,
+    "IDcode": "XVSR-464",
+    "title": "超浓交女优达のリアルセックス4时间",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/01/14/088ce3039fc52af7fed9ed92577a27ae.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/mqwamxv5gj0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-464"
+  },
+  {
+    "id": 82932,
+    "IDcode": "XVSR-466",
+    "title": "老公出差人妻和前男友同居偷情一周",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女上位",
+      "已婚妇女",
+      "人妻",
+      "戏剧",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240502-1/92291d1f14f0420161943778993f53b1.jpg",
     "actress": [
-      "君岛美绪"
+      "友田彩也香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-456"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-466"
   },
   {
-    "id": 73071,
-    "IDcode": "VEC-457",
-    "title": "隔壁老婆用小内裤挑衅我-浜崎真緒",
+    "id": 166435,
+    "IDcode": "XVSR-468",
+    "title": "浓交有坂深雪のリアル中出しセックス",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/01/20/80fe0f4c2d8703fc3542e61597694a28.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/5tkxau5fe4m.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-468"
+  },
+  {
+    "id": 69983,
+    "IDcode": "XVSR-477",
+    "title": "おっぱいチュパチュパ 授乳シチュエーションで中出しSEX 推川ゆうり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "乳交",
+      "巨乳",
+      "姐姐",
+      "恋乳癖"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2019-05-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/262e70c435a5f05420e3b267527d77d6.jpg",
+    "actress": [
+      "推川悠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-477"
+  },
+  {
+    "id": 73764,
+    "IDcode": "XVSR-479",
+    "title": "一周的亲密同居生活-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "蛮横娇羞",
+      "主观视角",
+      "已婚妇女",
+      "乳房",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240624-1/084f5cdb2c53706e28c8ad0636640888.jpg",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-479"
+  },
+  {
+    "id": 69770,
+    "IDcode": "XVSR-480",
+    "title": "浓交アゲイン长瀬麻美の真正中出しSPECIAL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "女上位",
+      "中出",
+      "乳房",
+      "潮吹",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/clnsxjz0gg2.jpg",
+    "actress": [
+      "鲛岛",
+      "长瀬麻美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-480"
+  },
+  {
+    "id": 70100,
+    "IDcode": "XVSR-481",
+    "title": "泡姫桃源郷 絶対に生中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "礼仪小姐",
+      "中文字幕",
+      "中出",
+      "乳交",
+      "主观视角",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/nx5d2g53yyo.jpg",
+    "actress": [
+      "緒川春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-481"
+  },
+  {
+    "id": 73698,
+    "IDcode": "XVSR-482",
+    "title": "成熟已婚妇女-倉多まお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "已婚妇女",
+      "巨乳",
+      "白天出轨",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/04/09/edf8b1bc21dcca1d507f5ae32e0a2441.jpg",
+    "actress": [
+      "仓多真央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-482"
+  },
+  {
+    "id": 73712,
+    "IDcode": "XVSR-488",
+    "title": "勤務している会社で彼氏-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "主观视角",
+      "乳房",
+      "潮吹",
+      "OL"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2019/11/29/QQ201911300606426ac57.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-488"
+  },
+  {
+    "id": 73821,
+    "IDcode": "XVSR-489",
+    "title": "地味で人見知りだけど実はムッツリでドスケベすぎる文系女子と中出しSEX 大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫语",
+      "姐姐",
+      "荡妇",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2019-07-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250117-1/a53cefcef692769f77eae133f2b4d0ef.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-489"
+  },
+  {
+    "id": 70099,
+    "IDcode": "XVSR-491",
+    "title": "濃交 涼宮琴音の真性中出しSPECIAL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "接吻",
+      "中出",
+      "潮吹",
+      "美少女电影",
+      "苗条",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2019-08-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/7b781f8796ab5eefc42ad73fc22571e3.jpg",
+    "actress": [
+      "タツ",
+      "凉宫琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-491"
+  },
+  {
+    "id": 73563,
+    "IDcode": "XVSR-493",
+    "title": "バイノーラルで体感するドSな姉ちゃんとや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "中出",
+      "主观视角",
+      "巨乳",
+      "淫语",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/25rkgxnau00.jpg",
+    "actress": [
+      "仓多真央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-493"
+  },
+  {
+    "id": 98086,
+    "IDcode": "XVSR-494",
+    "title": "濃交Hカップ癒し系女優の濃密なリアル中出しSEX笹倉杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "接吻",
+      "中文字幕",
+      "中出",
+      "口交",
+      "巨乳",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/t54pjtw33ok.jpg",
+    "actress": [
+      "緒川春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-494"
+  },
+  {
+    "id": 69735,
+    "IDcode": "XVSR-495",
+    "title": "技巧高超又可以内设的泡泡浴女郎大槻响",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "礼仪小姐",
+      "中出",
+      "乳交",
+      "主观视角",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250615-2/4805e92e131c1188471de244c39f9503.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-495"
+  },
+  {
+    "id": 166438,
+    "IDcode": "XVSR-496",
+    "title": "長瀬麻美 4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/juiog5kgiuj.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-496"
+  },
+  {
+    "id": 73391,
+    "IDcode": "XVSR-497",
+    "title": "美少女泡姫桃源郷 涼宮琴音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "礼仪小姐",
+      "中文字幕",
+      "中出",
+      "主观视角",
+      "口交",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/anlbzjm3gcf.jpg",
+    "actress": [
+      "凉宫琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-497"
+  },
+  {
+    "id": 166142,
+    "IDcode": "XVSR-498",
+    "title": "変態娘男狩り 発情痴女 友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/11/l1stwcrz2n2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-498"
+  },
+  {
+    "id": 166133,
+    "IDcode": "XVSR-499",
+    "title": "着衣巨乳-浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/02/22/b4a360682ef65dd83b5c25deafa129f8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-499"
+  },
+  {
+    "id": 166415,
+    "IDcode": "XVSR-503",
+    "title": "欲求不满的人妻-令和れい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/09/a905564b029e6c3b870d293927398db2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-503"
+  },
+  {
+    "id": 82927,
+    "IDcode": "XVSR-506",
+    "title": "筱田优穿着黑色的大屁股真实浓厚的中出性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "中出",
+      "流汗",
+      "巨乳",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250723-1/f4947715d9cb5b4cfff1a172e9fc55d0.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-506"
+  },
+  {
+    "id": 69982,
+    "IDcode": "XVSR-507",
+    "title": "泡姫桃源郷 絶対生中出し出来るご奉仕ソープ嬢 浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "礼仪小姐",
+      "接吻",
+      "中出",
+      "巨乳",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "2019-10-25",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/43d4b56ee2037f2dc33594222e63edbb.jpg",
     "actress": [
       "浜崎真绪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-457"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-507"
   },
   {
-    "id": 220501,
-    "IDcode": "VEC-461",
-    "title": "姑姑和我在里面做爱-森沢かな",
+    "id": 166417,
+    "IDcode": "XVSR-508",
+    "title": "オリジナル官能ドラマ 秘密の人妻遊び",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/29/7c1a99abfce9825778a9ec469fdb90c3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-461"
-  },
-  {
-    "id": 78672,
-    "IDcode": "VEC-474",
-    "title": "バイト先で働く美しい人妻を家に連れ込み中出しセックス 希のぞみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2021-05-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/20d3775bbbab6fe37adc63ecbb7c1572.jpg",
-    "actress": [
-      "希望美"
+    "genres": [
+      "人妻",
+      "中文字幕"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-474"
-  },
-  {
-    "id": 212824,
-    "IDcode": "vec-476",
-    "title": "母の親友-衣吹かのん",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/15/ea769247de1b40339438d63153a50c72.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/ozz2lsxym35.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-476"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-508"
   },
   {
-    "id": 212783,
-    "IDcode": "vec-477",
-    "title": "母の親友-根尾あかり",
+    "id": 82942,
+    "IDcode": "XVSR-509",
+    "title": "純潔処女デビュー-鳥越はな",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/12/60433e6c7c410da15d4c971eacd436cd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-477"
-  },
-  {
-    "id": 212951,
-    "IDcode": "vec-478",
-    "title": "漂亮的已婚妇女-赤城憂紀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/22/8bc15c1e25675b8d29c861465850c6bd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-478"
-  },
-  {
-    "id": 212225,
-    "IDcode": "vec-481",
-    "title": "嫁の親友 天上みさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/07/08/09fc788b871c7762ee257287320dbf24.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-481"
-  },
-  {
-    "id": 79148,
-    "IDcode": "VEC-482",
-    "title": "- 友人の母親と2人だけの秘密。おばさんに無理矢理中出しセックスしたことは…。 九条みちる - JAV目錄大全javmenu.com",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/032bbdad2f1a97d69405151117ce8c9b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-482"
-  },
-  {
-    "id": 213314,
-    "IDcode": "vec-484",
-    "title": "邻居的妻子用小内裤挑衅我",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/10/b695acbeea1cafd03b6b71e7b7a1623d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-484"
-  },
-  {
-    "id": 212660,
-    "IDcode": "vec-485",
-    "title": "美人妻-夕季ちとせ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/08/08/ed8cd04dcba3887a1adfeab2262c948c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-485"
-  },
-  {
-    "id": 79467,
-    "IDcode": "VEC-491",
-    "title": "一个已婚女人-九条みちる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/11/15/cb2f4c62619cd9ad066d2db3cc4c6fe7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-491"
-  },
-  {
-    "id": 79055,
-    "IDcode": "VEC-492",
-    "title": "屋内性交-松本菜奈実",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/14/f7b5af09829c408cf3eeb981ec813ba1.jpg",
-    "actress": [
-      "松本菜奈実"
+    "genres": [
+      "纪录片",
+      "乳交",
+      "巨乳",
+      "首次亮相",
+      "处女"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-492"
-  },
-  {
-    "id": 89540,
-    "IDcode": "VEC-496",
-    "title": "浮気がバレた絶倫ヤリチン夫を説教しにきた嫁の親友 弘川れいな （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2021-09-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231230-1/604d42374ddc9e4a96df70980aee66ee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-496"
-  },
-  {
-    "id": 79685,
-    "IDcode": "VEC-498",
-    "title": "漂亮已婚妇女-朝倉ここな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/04/27/9442ac3547f2138393adb6c5a030958e.jpg",
+    "cover_url": "https://tutu1.space/images/2019/12/08/QQ20191209094406d85eb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-498"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-509"
   },
   {
-    "id": 86542,
-    "IDcode": "VEC-503",
-    "title": "欲求不満-根尾あかり",
+    "id": 74891,
+    "IDcode": "XVSR-512",
+    "title": "超高级巨尻风俗洗浴女筱田优来一次让你内射一整天哦",
     "year": "",
     "country": "",
     "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/30/5c82f09298c1b824c9ef4c448516e069.jpg",
-    "actress": [
-      "根尾朱里"
+    "genres": [
+      "礼仪小姐",
+      "接吻",
+      "中出",
+      "巨乳",
+      "巨大屁股"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-503"
-  },
-  {
-    "id": 86507,
-    "IDcode": "VEC-504",
-    "title": "妻子的好朋友-加藤あやの",
-    "year": "",
-    "country": "",
-    "genre": "",
     "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/30/ddb7bccac8de608dddbb884e4205bc89.jpg",
+    "cover_url": "/upload/vod/20250811-1/e8f96a5225f307f20b2dff4ea963fc5e.jpg",
     "actress": [
-      "加藤あやの",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-504"
-  },
-  {
-    "id": 86553,
-    "IDcode": "VEC-507",
-    "title": "母の親友-町村京子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/30/fcc59dd86ca28767173c5a62a708f759.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-507"
-  },
-  {
-    "id": 80477,
-    "IDcode": "VEC-508",
-    "title": "抓到出轨的丈夫-東條なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/01/04/e03cc20dfc76a56f301afa49a2864dae.jpg",
-    "actress": [
-      "東條夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-508"
-  },
-  {
-    "id": 216073,
-    "IDcode": "vec-515",
-    "title": "被她妈妈的朋友背叛-君島みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/11/03c97dd339f768cf63c866df274f491d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-515"
-  },
-  {
-    "id": 86508,
-    "IDcode": "VEC-516",
-    "title": "無理矢理中出-鈴木真夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/11/f372ec7fe343223b1f1c76395f50eb25.jpg",
-    "actress": [
-      "鈴木真夕"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-516"
-  },
-  {
-    "id": 216141,
-    "IDcode": "vec-517",
-    "title": "妻子的好朋友-町村京子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/02/14/733b5b318f3132de65a7fc0c93e26115.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-517"
-  },
-  {
-    "id": 80159,
-    "IDcode": "VEC-518",
-    "title": "母親NTR姦察-川西千帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/16/39095d1a50ecd6d375358b0b8a551e84.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-518"
-  },
-  {
-    "id": 86513,
-    "IDcode": "VEC-519",
-    "title": "母の親友-希咲アリス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/30/8eb32c649a0f7555886b99e5d172ed47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-519"
-  },
-  {
-    "id": 86555,
-    "IDcode": "VEC-520",
-    "title": "無理矢理中出-竹内夏希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/02/c9446c041127532958698c3d68aca2b6.jpg",
-    "actress": [
-      "竹内夏希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-520"
-  },
-  {
-    "id": 216453,
-    "IDcode": "vec-521",
-    "title": "在屋内性交-美波もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/08/2891364edb782dc4fba784161f74e2f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-521"
-  },
-  {
-    "id": 81204,
-    "IDcode": "VEC-522",
-    "title": "嫁の親友-篠田ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/24/fecea1390fa85fbd5392cc357dfbaf1c.jpg",
-    "actress": [
-      "上原千明",
       "篠田优"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-522"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-512"
   },
   {
-    "id": 80392,
-    "IDcode": "VEC-523",
-    "title": "母の親友-美波もも",
+    "id": 69733,
+    "IDcode": "XVSR-513",
+    "title": "妹系着衣巨乳美少女-深田結梨",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乳交",
+      "主观视角",
+      "巨乳",
+      "美少女电影",
+      "恋物癖"
+    ],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/03/29/bf01e90b4432d70561e526af8845c6ae.jpg",
+    "cover_url": "https://tutu1.space/images/2019/12/08/QQ20191209094406c5d70.jpg",
+    "actress": [
+      "浅田结梨"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-513"
+  },
+  {
+    "id": 78796,
+    "IDcode": "XVSR-515",
+    "title": "原本很腼腆的可爱少女爱泽乃亚来东京就变得开发了做爱做不够下海当AV女优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "首次亮相",
+      "多P",
+      "苗条",
+      "颜射",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/14/cf211bbd/vod.jpg",
+    "actress": [
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-515"
+  },
+  {
+    "id": 75068,
+    "IDcode": "XVSR-516",
+    "title": "找学生发泄性欲的不伦人妻为了治疗阳痿的老公在他面前被爆操刺激他勃起",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "乳交",
+      "淫妻",
+      "已婚妇女",
+      "巨乳",
+      "人妻",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/fcf0cf81/vod.jpg",
+    "actress": [
+      "令和れい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-516"
+  },
+  {
+    "id": 75027,
+    "IDcode": "XVSR-518",
+    "title": "和爱撒娇的新婚妻子仓多真央为了生孩子甜蜜的完全主观内射同居性生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "新娘，年轻妻子",
+      "主观视角",
+      "口交",
+      "乳房",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/80fc05e8/vod.jpg",
+    "actress": [
+      "仓多真央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-518"
+  },
+  {
+    "id": 74990,
+    "IDcode": "XVSR-519",
+    "title": "绀野光的激烈紧贴活塞真实内射性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "接吻",
+      "内衣",
+      "中出",
+      "流汗",
+      "苗条"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/5d6f0755/vod.jpg",
+    "actress": [
+      "绀野光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-519"
+  },
+  {
+    "id": 82931,
+    "IDcode": "XVSR-521",
+    "title": "刚破完处还未习惯痛感-鳥越はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "巨乳",
+      "学校泳装",
+      "校服",
+      "处女"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/03/418d85b0d86f90b7bd0a6108e1392950.jpg",
+    "actress": [
+      "小田切ジュン",
+      "市川润"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-521"
+  },
+  {
+    "id": 82925,
+    "IDcode": "XVSR-522",
+    "title": "真实家访问第一视角疯狂做爱-涼宮琴音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳房",
+      "美少女电影",
+      "主观视角",
+      "自慰"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/03/3b6eeb23493d7c5205cf80ade37c2d75.jpg",
+    "actress": [
+      "凉宫琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-522"
+  },
+  {
+    "id": 76671,
+    "IDcode": "XVSR-523",
+    "title": "和撒娇鬼新婚妻子-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳房",
+      "新娘，年轻妻子",
+      "主观视角",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/03/6fd8ccbb6bf203d73d395e93f4220d09.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-523"
+  },
+  {
+    "id": 76592,
+    "IDcode": "XVSR-524",
+    "title": "以小宝宝视角享受妈妈般宠溺的性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "口交",
+      "妄想",
+      "姐姐",
+      "乱伦",
+      "恋物癖"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/10/d9fa44e18b4a523e0f8aa785de178041.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-524"
+  },
+  {
+    "id": 69742,
+    "IDcode": "XVSR-525",
+    "title": "只是为了追求快感而中出做爱摄影",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "新娘，年轻妻子",
+      "口交",
+      "巨乳",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/776ae2ed9f143aaf7368fd95ad0c74a6.jpg",
+    "actress": [
+      "仓多真央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-525"
+  },
+  {
+    "id": 82923,
+    "IDcode": "XVSR-528",
+    "title": "深爱她的丈夫的人妻-紺野ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "出轨",
+      "浴衣",
+      "和服，丧服",
+      "已婚妇女",
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/26/01d388b82445fba3c2afe4400a2587fe.jpg",
+    "actress": [
+      "绀野光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-528"
+  },
+  {
+    "id": 82929,
+    "IDcode": "XVSR-529",
+    "title": "用道具寻找她的性感带-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳",
+      "潮吹",
+      "玩具",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/06/ff0c60d22ce23355b54e03a9f373f316.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-529"
+  },
+  {
+    "id": 82912,
+    "IDcode": "XVSR-530",
+    "title": "交缠高潮-大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "接吻",
+      "流汗",
+      "口交",
+      "潮吹",
+      "姐姐"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/26/743bf4307f4b8cf8eb2724c4bb95a794.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-530"
+  },
+  {
+    "id": 82909,
+    "IDcode": "XVSR-531",
+    "title": "懵懂无知的少女-鳥越はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "乳交",
+      "巨乳",
+      "第一人称摄影",
+      "处女"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/00ed16ffb04b4f85eb5435750d31936b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-523"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-531"
   },
   {
-    "id": 218416,
-    "IDcode": "vec-528",
-    "title": "妈妈的朋友背叛-折原ゆかり",
+    "id": 82921,
+    "IDcode": "XVSR-532",
+    "title": "画淡妆的可爱女优-涼宮琴音",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "接吻",
+      "流汗",
+      "苗条",
+      "纪录片"
+    ],
     "type": "有码",
-    "company": "",
+    "company": "[\"MAX-A\"]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/22/aef88a4736085c5400dce08c1bbf5b51.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/cee73d3da65030c72caabbedc235b9ab.jpg",
+    "actress": [
+      "凉宫琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-532"
+  },
+  {
+    "id": 82928,
+    "IDcode": "XVSR-533",
+    "title": "超可爱的小恶魔妹妹-永瀬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "妹妹",
+      "中出",
+      "平胸",
+      "乱伦",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/a6d004fd07912665905173402f5208cb.jpg",
+    "actress": [
+      "永瀬ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-533"
+  },
+  {
+    "id": 82926,
+    "IDcode": "XVSR-534",
+    "title": "治癒系E罩杯美少女-有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "无毛",
+      "中出",
+      "巨乳",
+      "乳房",
+      "美少女电影",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/2c46ef98ac86c9dc583703b694d649f7.jpg",
+    "actress": [
+      "有村希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-534"
+  },
+  {
+    "id": 82920,
+    "IDcode": "XVSR-535",
+    "title": "傲娇新婚妻子-浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "主观视角",
+      "已婚妇女",
+      "巨乳",
+      "潮吹"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/12e0f59e9117e39a8790737b42955ebc.jpg",
+    "actress": [
+      "浜崎真绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-535"
+  },
+  {
+    "id": 82915,
+    "IDcode": "XVSR-536",
+    "title": "时隔三年的解禁浓交女同性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "接吻",
+      "眼镜",
+      "连裤袜",
+      "玩具",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/b617d791f4c005f0fcbc4c7c85dbd562.jpg",
+    "actress": [
+      "岬梓沙",
+      "凉宫琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-536"
+  },
+  {
+    "id": 82908,
+    "IDcode": "XVSR-537",
+    "title": "内射可爱萝莉侍奉泡泡浴娘-永瀬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "平胸",
+      "主观视角",
+      "礼仪小姐",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/7c8fa26449de7c10b86b0e1568bb8a90.jpg",
+    "actress": [
+      "永瀬ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-537"
+  },
+  {
+    "id": 82918,
+    "IDcode": "XVSR-538",
+    "title": "被部长用视频威胁侵犯-倉多まお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "足交",
+      "屁股",
+      "连裤袜",
+      "巨乳",
+      "巨大屁股"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/e5496134f23a7351841dc52518d8163e.jpg",
+    "actress": [
+      "仓多真央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-538"
+  },
+  {
+    "id": 82910,
+    "IDcode": "XVSR-539",
+    "title": "爱撒娇的新婚妻子-紺野ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "主观视角",
+      "已婚妇女",
+      "乳房",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/80f6fa6c60069f56c450fb8148156bc8.jpg",
+    "actress": [
+      "绀野光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-539"
+  },
+  {
+    "id": 82943,
+    "IDcode": "XVSR-540",
+    "title": "尽情玩弄-浜崎真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "精选，综合",
+      "中出",
+      "已婚妇女",
+      "巨乳",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "[\"MAX-A\"]",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/9c0d96596684fed65a73d0c9940e9f26.jpg",
+    "actress": [
+      "浜崎真绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-540"
+  },
+  {
+    "id": 209334,
+    "IDcode": "xvsr-543",
+    "title": "泡姫桃源郷-有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "[]",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/06/12/QQ20200613110049056c6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=vec-528"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-543"
   },
   {
-    "id": 86535,
-    "IDcode": "VEC-529",
-    "title": "最受欢迎的兼职妻子-結城りの",
+    "id": 209613,
+    "IDcode": "xvsr-544",
+    "title": "スポーツ強化選手-彩月あやめ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/08/d905a87e91159c1f931c8788c1cb4659.jpg",
+    "cover_url": "https://tutu1.space/images/2020/07/14/18efc57a566777aae51dafb7690ea8d1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-529"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-544"
   },
   {
-    "id": 68719,
-    "IDcode": "VEC-530",
-    "title": "母の親友-長谷川茉優",
+    "id": 209551,
+    "IDcode": "xvsr-545",
+    "title": "夫の出張中に-涼宮琴音",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/06/30/a160dccd17139db7fb2024716c48b61c.jpg",
+    "cover_url": "https://tutu1.space/images/2020/07/09/e7df1e3892cbcd7aed4d642ef27f41f8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-530"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-545"
   },
   {
-    "id": 69597,
-    "IDcode": "VEC-533",
-    "title": "妻子的好朋友-朝日りん",
+    "id": 210322,
+    "IDcode": "xvsr-549",
+    "title": "感受母亲的温暖-倉多まお",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乱伦"
+    ],
     "type": "有码",
-    "company": "VENUS",
+    "company": "[]",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/20/77eaa3feafb7403c03167d5dad85c328.jpg",
+    "cover_url": "https://tutu1.space/images/2020/09/23/efe1c425618ee967d88d163126b1564e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-533"
-  },
-  {
-    "id": 218949,
-    "IDcode": "VEC-534",
-    "title": "被她妈妈的朋友背叛-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/26/11dc478d51afbe15854b0d9747f7617a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-534"
-  },
-  {
-    "id": 224683,
-    "IDcode": "VEC-535",
-    "title": "从事兼职的漂亮已婚妇女-鈴木真夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/20/36155cdc993e8cfddfa8a7ed90d33fda.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-535"
-  },
-  {
-    "id": 68762,
-    "IDcode": "VEC-536",
-    "title": "友人の母親-葵百合香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/18/559461b718def479d93f02a590832ebb.jpg",
-    "actress": [
-      "葵百合香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-536"
-  },
-  {
-    "id": 86537,
-    "IDcode": "VEC-537",
-    "title": "与前辈的妻子快速做爱-田中なな実",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/20/c39fab5349015df8ee7383ed88d8ac74.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-537"
-  },
-  {
-    "id": 68935,
-    "IDcode": "VEC-538",
-    "title": "母の親友-蘭華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/11/7e8b3297ade19b5db33f19e4d19b4353.jpg",
-    "actress": [
-      "蘭華",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-538"
-  },
-  {
-    "id": 86514,
-    "IDcode": "VEC-539",
-    "title": "友人の母親-桃園梨花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/18/0874a6d7517a863fdeebe36ca168ada3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-539"
-  },
-  {
-    "id": 89544,
-    "IDcode": "VEC-540",
-    "title": "浮気がバレた絶倫ヤリチン夫を説教しにきた嫁の親友 吉岡ひより （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "2022-07-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231230-1/a30faae49419447d95f4fc5c27f59863.jpg",
-    "actress": [
-      "吉冈ひより"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-540"
-  },
-  {
-    "id": 68389,
-    "IDcode": "VEC-541",
-    "title": "人妻性感中出-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/08/30/85c3d641c0e049547b68e716d0c62d28.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-541"
-  },
-  {
-    "id": 86538,
-    "IDcode": "VEC-543",
-    "title": "在屋内性交-君島みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/03/5459b75de3d2facba71f40607f279865.jpg",
-    "actress": [
-      "君岛美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-543"
-  },
-  {
-    "id": 68390,
-    "IDcode": "VEC-544",
-    "title": "已婚女人的美丽乳房-白木優子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/19/7443e84f1ad96efc89949c249712b4e2.jpg",
-    "actress": [
-      "白木優子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-544"
-  },
-  {
-    "id": 62967,
-    "IDcode": "VEC-545",
-    "title": "母の親友-三浦恵理子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/05/713e90798a77164c85b3fcff691f5aa0.jpg",
-    "actress": [
-      "三浦恵理子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-545"
-  },
-  {
-    "id": 103941,
-    "IDcode": "VEC-546",
-    "title": "妻子的好朋友-折原ゆかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/09/05/3c67066ec5a6268adace7d6e41637558.jpg",
-    "actress": [
-      "折原ゆかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-546"
-  },
-  {
-    "id": 86510,
-    "IDcode": "VEC-547",
-    "title": "漂亮已婚妇女-美波咲良",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/03/f8899fc1a1b76bddb64e7b867b6fe892.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-547"
-  },
-  {
-    "id": 69160,
-    "IDcode": "VEC-549",
-    "title": "母の親友-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/14/edfc422535c871551996dd29eb14a229.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-549"
-  },
-  {
-    "id": 86554,
-    "IDcode": "VEC-550",
-    "title": "与前辈的妻子偷情-花渕なつ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/14/3acfae00cd84c64a9a19c0de160f2d1f.jpg",
-    "actress": [
-      "花渕なつ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-550"
-  },
-  {
-    "id": 68846,
-    "IDcode": "VEC-552",
-    "title": "邻居家的大胸老婆-宮藤ゆみな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/13/7b084c21453510c961c8e2c44938aead.jpg",
-    "actress": [
-      "紗霧ひなた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-552"
-  },
-  {
-    "id": 106594,
-    "IDcode": "VEC-553",
-    "title": "漂亮已婚妇女-川あゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/18/d1a623a8c3639182505fd195394bf1f6.jpg",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-553"
-  },
-  {
-    "id": 69670,
-    "IDcode": "VEC-554",
-    "title": "母の親友-北川美玖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/18/2254a9ed491b1b50ee806b45822e69d2.jpg",
-    "actress": [
-      "タイ",
-      "北川美玖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-554"
-  },
-  {
-    "id": 106595,
-    "IDcode": "VEC-555",
-    "title": "兼职妻子-弘川れいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/26/ca58c7ae70bb90ea07cdc835ab402de0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-555"
-  },
-  {
-    "id": 86541,
-    "IDcode": "VEC-556",
-    "title": "与前辈的妻子偷情-白木優子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/29/274f5a36ef1156ff7b21f34cbb681bb6.jpg",
-    "actress": [
-      "白木優子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-556"
-  },
-  {
-    "id": 68292,
-    "IDcode": "VEC-557",
-    "title": "已婚女性美丽的乳房-加藤あやの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/10/29/befeb715438d7f5014b52817afbde9a9.jpg",
-    "actress": [
-      "加藤あやの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-557"
-  },
-  {
-    "id": 106990,
-    "IDcode": "VEC-558",
-    "title": "友人の母親-聖璃とあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/14/cc73c65a4dc1bf0ea315e83165be747b.jpg",
-    "actress": [
-      "露梨あやせ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-558"
-  },
-  {
-    "id": 104314,
-    "IDcode": "VEC-559",
-    "title": "与前辈的妻子快速做爱-君島みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/11/28/b6497f8026a324304bd4cb96a3691415.jpg",
-    "actress": [
-      "君岛美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-559"
-  },
-  {
-    "id": 68917,
-    "IDcode": "VEC-560",
-    "title": "妻子的好朋友-大石紗季",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/15/a572be144375d0e9abac1ecf00cf229d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-560"
-  },
-  {
-    "id": 69114,
-    "IDcode": "VEC-561",
-    "title": "母の親友-瀬尾礼子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/15/1a17b3c68413e6afec0482135d46edf8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-561"
-  },
-  {
-    "id": 166921,
-    "IDcode": "VEC-562",
-    "title": "她刚刚学会了性生活-北川美玖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/15/0a9d7aec758f69ecf094e811f1f51efa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-562"
-  },
-  {
-    "id": 68848,
-    "IDcode": "VEC-563",
-    "title": "妻子的好朋友-小松杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/12/21/845cec7925a1885c84fe59e390f4a535.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-563"
-  },
-  {
-    "id": 167118,
-    "IDcode": "VEC-564",
-    "title": "性欲爆棚-美波もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/03/cd8a21b561e7cafc10e01e96ab5352f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-564"
-  },
-  {
-    "id": 107093,
-    "IDcode": "VEC-565",
-    "title": "肉体自慰者-菊池まや",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/05/15a3e2d3e9e7e0b47825913afb43acba.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-565"
-  },
-  {
-    "id": 68394,
-    "IDcode": "VEC-566",
-    "title": "被弄到射精失禁-北川美玖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2023/01/20/05bebd314f97b33ffd52780fe587cbf1.jpg",
-    "actress": [
-      "北川美玖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-566"
-  },
-  {
-    "id": 68392,
-    "IDcode": "VEC-568",
-    "title": "我只想为我的丈夫美丽-玉城夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/6bccf06680f5ac8a5a065cfa2ef5f851.jpg",
-    "actress": [
-      "玉城夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-568"
-  },
-  {
-    "id": 167242,
-    "IDcode": "VEC-569",
-    "title": "被儿子的朋友逼着射了很久的母亲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/d5785cbeda34a34ec7c754912b242cb5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-569"
-  },
-  {
-    "id": 69718,
-    "IDcode": "VEC-570",
-    "title": "求愛性交-川上ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/0335e72376da55d7d393b3c7808655b5.jpg",
-    "actress": [
-      "川上優"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-570"
-  },
-  {
-    "id": 69319,
-    "IDcode": "VEC-571",
-    "title": "妻子的最好的朋友-北川美玖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/6fb7f24540f200b1d6717ca4f496a7e8.jpg",
-    "actress": [
-      "北川美玖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-571"
-  },
-  {
-    "id": 69658,
-    "IDcode": "VEC-572",
-    "title": "母の親友-新村あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "VENUS",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/23c6e621fea084051350129dd16333f8.jpg",
-    "actress": [
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-572"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=xvsr-549"
   }
 ];

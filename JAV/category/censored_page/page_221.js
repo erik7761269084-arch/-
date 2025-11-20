@@ -1,1402 +1,2092 @@
 window.PAGE_DATA = [
   {
-    "id": 196501,
-    "IDcode": "FC2PPV-4653393",
-    "title": "给热爱cosplay的美女中出",
+    "id": 67904,
+    "IDcode": "JUQ-190",
+    "title": "我儿子的朋友-愛弓りょう",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "流汗",
+      "乱伦",
+      "巨大阴茎",
+      "单体作品",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/2c159d8b69c0116135c1d7a84796e1d6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4653393"
+    "cover_url": "https://tutu1.space/images/2023/01/24/d4a6bba45bbf1652335ac8e2c07010bd.jpg",
+    "actress": [
+      "愛弓涼",
+      "爱弓凉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-190"
   },
   {
-    "id": 196506,
-    "IDcode": "FC2PPV-4653405",
-    "title": "三人行中的两人内射",
+    "id": 161979,
+    "IDcode": "JUQ-190-C",
+    "title": "无法抵御儿子的朋友们 绝伦交尾连续高潮 爱弓了 三浦歩美",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乱伦"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/5e3c90650a28c2a388687296c0b12f9e.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250416-1/afc5e00d0710c9c58be4c4d84e3b7c82.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4653405"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-190-C"
   },
   {
-    "id": 196512,
-    "IDcode": "FC2PPV-4653739",
-    "title": "34岁已婚女子迷恋帅哥",
+    "id": 168467,
+    "IDcode": "JUQ-191",
+    "title": "被合作公司的傲慢社长-一乃葵",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/9beef2b3e512bd928e544a0e0fed23ed.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/c9489f7f588aaa98d92c1274db69a350.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4653739"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-191"
   },
   {
-    "id": 196546,
-    "IDcode": "FC2PPV-4653743",
-    "title": "21岁超细剃毛阴部全脸露出",
+    "id": 100499,
+    "IDcode": "JUQ-192",
+    "title": "裸体模特NTR-水戸かな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "NTR",
+      "淫妻",
+      "白天出轨",
+      "多P",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/fb8eba01b05974c03f1e08463564840d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4653743"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/2012b5ed0829cdfc99149492e6c5c56f.jpg",
+    "actress": [
+      "水户香奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-192"
   },
   {
-    "id": 196530,
-    "IDcode": "FC2PPV-4653783",
-    "title": "安娜的白色皮肤",
+    "id": 155321,
+    "IDcode": "JUQ-193",
+    "title": "他欺负了我的母亲-北条麻妃",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乱伦"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/2d3c8c46703e7ac5478133db0d77fad3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4653783"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/4454b9b0868e9a79f699729ec2e2fe10.jpg",
+    "actress": [
+      "北条麻妃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-193"
   },
   {
-    "id": 196537,
-    "IDcode": "FC2PPV-4653797",
-    "title": "家庭主妇",
+    "id": 69263,
+    "IDcode": "JUQ-194",
+    "title": "继母给你的礼物-上羽絢",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "婆婆",
+      "处男",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/a93a501011334183436b549bc402c307.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/0f6817fd02809ceb1a4623d660f92b94.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4653797"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-194"
   },
   {
-    "id": 196532,
-    "IDcode": "FC2PPV-4653813",
-    "title": "对淫秽嘴唇和生殖器的忍耐极限",
+    "id": 167691,
+    "IDcode": "JUQ-195",
+    "title": "傲慢的女老板-風間ゆみ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/98f3e95df845db24206eec052b32e3da.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/2d7b4e371e782a15483698a3e85c1ecb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4653813"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-195"
   },
   {
-    "id": 196544,
-    "IDcode": "FC2PPV-4654092",
-    "title": "刚刚结婚的26岁已婚女性",
+    "id": 68760,
+    "IDcode": "JUQ-196",
+    "title": "温泉旅行中忘记了自己-藤かんな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "浴衣",
+      "婆婆",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/88072fd07b5044b5115a2ca4dc127aa4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654092"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/42c2e897b2bf0021960fb5534910e5b9.jpg",
+    "actress": [
+      "藤環奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-196"
   },
   {
-    "id": 196509,
-    "IDcode": "FC2PPV-4654105",
-    "title": "白皙美丽修长身材性感美女",
+    "id": 68758,
+    "IDcode": "JUQ-197",
+    "title": "邻居家的奸夫淫妇-西村ニーナ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "巨乳",
+      "胖女人",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/d12142c327d094bb4e924a93e9d2661f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654105"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/aaf75f734355ffd6788d57b424e20732.jpg",
+    "actress": [
+      "西村ニーナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-197"
   },
   {
-    "id": 196531,
-    "IDcode": "FC2PPV-4654260",
-    "title": "22 岁的性感怪物",
+    "id": 167830,
+    "IDcode": "JUQ-198",
+    "title": "温泉旅行-鷲見すみれ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/686c7b5e94f10823d0b8c21c8e25d970.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/1a0f26b3ebc4ee69be4e8dcb55a80f06.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654260"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-198"
   },
   {
-    "id": 196534,
-    "IDcode": "FC2PPV-4654277",
-    "title": "时隔10年再次见面的青梅竹马",
+    "id": 68730,
+    "IDcode": "JUQ-199",
+    "title": "在我妻子怀孕期间-多田有花",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "婆婆",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/bd4193d73f02dd94e3d5550ba9d24747.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654277"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/a0fa26004237100fb775dcf07d0ac9bd.jpg",
+    "actress": [
+      "多田有花",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-199"
   },
   {
-    "id": 153762,
-    "IDcode": "FC2PPV-4654407",
-    "title": "她的面具被撕下用肉棒干了她",
+    "id": 106634,
+    "IDcode": "JUQ-200",
+    "title": "乡镇露营NTR-木下凛々子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "NTR",
+      "淫妻",
+      "无码破解",
+      "中出",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/48d5182b60f336c5d039c10fc7a1d544.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654407"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/b94ad1f630c039857b2da945e9521940.jpg",
+    "actress": [
+      "木下凛凛子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-200"
   },
   {
-    "id": 196538,
-    "IDcode": "FC2PPV-4654409",
-    "title": "偶像般的白色透明身体",
+    "id": 90950,
+    "IDcode": "JUQ-201",
+    "title": "裸体模特被上司睡走-神宫寺奈绪",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "无码破解",
+      "白天出轨",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/74fe0a50f4c8f1d1b0db56b22df3f8a2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654409"
+    "cover_url": "https://tutu1.space/images/2023/08/03/d60d8ceff632b2c1d8d7134d30891aa7.jpg",
+    "actress": [
+      "神宫寺奈绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-201"
   },
   {
-    "id": 153761,
-    "IDcode": "FC2PPV-4654448",
-    "title": "身材丰满的新婚妻子",
+    "id": 69387,
+    "IDcode": "JUQ-202",
+    "title": "一位被性骚扰的老师-一乃あおい",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "白天出轨",
+      "礼仪小姐",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/7be572d7d5c7027fc7fe4036f0c24100.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654448"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/abc7ba40277f960a277720be5ac43713.jpg",
+    "actress": [
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-202"
   },
   {
-    "id": 153760,
-    "IDcode": "FC2PPV-4654462",
-    "title": "超可爱的偶像脸",
+    "id": 100599,
+    "IDcode": "JUQ-203",
+    "title": "美人秘書誕生-流川はる香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "秘书",
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "白天出轨",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/72a564f097779aed6cbd324d2eaddb15.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654462"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/5e32c7f1d9dcec9e1884c9e86a32134c.jpg",
+    "actress": [
+      "流川はる香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-203"
   },
   {
-    "id": 200254,
-    "IDcode": "FC2PPV-4654479",
-    "title": "素人来干坏事",
+    "id": 100462,
+    "IDcode": "JUQ-204",
+    "title": "被姐夫强奸的妻子-佐田茉莉子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "成熟的女人",
+      "白天出轨",
+      "乱伦",
+      "羞耻",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250407-1/ebdfe724bbc67b29cb6d0d43f68bc699.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654479"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/c7be0490fe8ccf4e05608650c9f17e0c.jpg",
+    "actress": [
+      "佐田茉莉子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-204"
   },
   {
-    "id": 153759,
-    "IDcode": "FC2PPV-4654481",
-    "title": "超可爱的外语大学生的秘密兼职",
+    "id": 100631,
+    "IDcode": "JUQ-205",
+    "title": "不道德的交合方式-向井藍",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "流汗",
+      "巨大阴茎",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/95d08907030312c0d3af31abf79512a2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654481"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/7157ed0473f0d0ded06b723bd8a8b22d.jpg",
+    "actress": [
+      "向井藍",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-205"
   },
   {
-    "id": 153637,
-    "IDcode": "FC2PPV-4654567",
-    "title": "非常可爱的偶像脸美女",
+    "id": 88262,
+    "IDcode": "JUQ-206",
+    "title": "裸模NTR-椎名由奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "NTR",
+      "淫妻",
+      "中出",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/4551299f5e73adbd43105593e1211ae6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654567"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/afeb2f39a990d222b0cfa8f51084a9f7.jpg",
+    "actress": [
+      "椎名由奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-206"
   },
   {
-    "id": 200248,
-    "IDcode": "FC2PPV-4654855",
-    "title": "被她丈夫以外的男人玩弄她的身体",
+    "id": 223082,
+    "IDcode": "JUQ-207",
+    "title": "汗流浃背的已婚妇女-大島優香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250407-1/19f16dad3a0840d9aa9c91fc31c57146.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/3bac0c5dcdb2743d30f05b97ac282932.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4654855"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-207"
   },
   {
-    "id": 196572,
-    "IDcode": "FC2PPV-4655067",
-    "title": "日和已经20岁了我当你的第一个搭档可以吗",
+    "id": 100610,
+    "IDcode": "JUQ-208",
+    "title": "为了亲爱的老公，当替身周末肉便器。被超绝伦的极恶叔叔中出了好几次直到怀孕为止… 爱弓凉",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "巨乳",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/323e755e51bd746c0da2a3406fb62fd0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655067"
+    "cover_url": "/upload/vod/20250715-2/2732ece49561086aba155f9282503230.jpg",
+    "actress": [
+      "愛弓涼",
+      "爱弓凉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-208"
   },
   {
-    "id": 153636,
-    "IDcode": "FC2PPV-4655077",
-    "title": "令人震惊的最后一幕被两根极粗的阴茎玷污了",
+    "id": 100502,
+    "IDcode": "JUQ-210",
+    "title": "新婚的生活-水戸かな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "单体作品",
+      "荡妇",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/3e677b78ce9e20b910094377bfbe856b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655077"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/b85650b24d947d536b444274da82470f.jpg",
+    "actress": [
+      "水户香奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-210"
   },
   {
-    "id": 153658,
-    "IDcode": "FC2PPV-4655251",
-    "title": "我沉迷于让我过夜的那个男人的鸡巴",
+    "id": 77595,
+    "IDcode": "JUQ-211",
+    "title": "乖巧听话的中出女仆-上户真理",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "女佣",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/6b2b5d03caa763fa2ecd18af7e7a1508.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655251"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/4485fde32de270b18b1a51c544b23305.jpg",
+    "actress": [
+      "上戶真理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-211"
   },
   {
-    "id": 153657,
-    "IDcode": "FC2PPV-4655305",
-    "title": "有阴毛JD白皮肤美女",
+    "id": 100472,
+    "IDcode": "JUQ-212",
+    "title": "性能力强的公公-栗山莉緒",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/28063f7a6324e19e78383d9abfec1537.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655305"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/1cf4ac8d9ef9698f57952c11c853e275.jpg",
+    "actress": [
+      "栗山莉绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-212"
   },
   {
-    "id": 196539,
-    "IDcode": "FC2PPV-4655402",
-    "title": "一名傲娇系偶像声优",
+    "id": 100483,
+    "IDcode": "JUQ-213",
+    "title": "让妻子和绝伦後辈两人独处三小时-白石茉莉奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/eefadb5903bd8af11cd6d9c767ceea16.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655402"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/9ae8c75674ad4c992c831db7736507c5.jpg",
+    "actress": [
+      "白石茉莉奈",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-213"
   },
   {
-    "id": 153656,
-    "IDcode": "FC2PPV-4655509",
-    "title": "身材娇小的美女哈莉",
+    "id": 77596,
+    "IDcode": "JUQ-214",
+    "title": "偷偷的密着榨精-水户加奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "猥亵穿着",
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/784a18674eabac48950531eafe88dc9e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655509"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/a2abdad4ff215dd21817349f7c52a3ce.jpg",
+    "actress": [
+      "水户香奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-214"
   },
   {
-    "id": 153549,
-    "IDcode": "FC2PPV-4655527",
-    "title": "真正的家庭主妇产后肚子松弛",
+    "id": 77600,
+    "IDcode": "JUQ-215",
+    "title": "已经和儿子的朋友持续五年的炮友关系了",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "乱伦",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/343e583c3335b2ed54a3b16b1b14fd9e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655527"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/6eafe1c7f13c998a5b17f1e29b407f35.jpg",
+    "actress": [
+      "白石茉莉奈",
+      "及川大智"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-215"
   },
   {
-    "id": 153551,
-    "IDcode": "FC2PPV-4655555",
-    "title": "陌生人的阴茎顶进了她纤细的身体",
+    "id": 107635,
+    "IDcode": "JUQ-216",
+    "title": "高傲女上司-大岛优香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/e90de4b076afdc546b7b5f26c8927eaa.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/190b0f815af29ff637b4593b224bc832.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655555"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-216"
   },
   {
-    "id": 153550,
-    "IDcode": "FC2PPV-4655656",
-    "title": "勃起是不可避免的",
+    "id": 67304,
+    "IDcode": "JUQ-217",
+    "title": "社員専用-向井藍",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "OL",
+      "羞耻",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/f3e11f8a9c4b84841b48b898823a5ea0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655656"
+    "cover_url": "https://tutu1.space/images/2022/12/02/f105d8f2d931b4f2607d8f05bbc3592e.jpg",
+    "actress": [
+      "向井藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-217"
   },
   {
-    "id": 153553,
-    "IDcode": "FC2PPV-4655667",
-    "title": "实习护士利用经验提供口交护理服务",
+    "id": 162040,
+    "IDcode": "JUQ-217-C",
+    "title": "在公司角落的蓝小姐是我们职员专用的！！随意的中出宠物 向井蓝",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250407-1/0f0d17ab639e0bd62ef67c9f8d3086ad.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250420-1/99f4d95dd87867a404b2471b19829254.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655667"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-217-C"
   },
   {
-    "id": 153552,
-    "IDcode": "FC2PPV-4655669",
-    "title": "G罩杯逃税咖啡店女孩",
+    "id": 77546,
+    "IDcode": "JUQ-219",
+    "title": "汗流浃背的性爱-椎名ゆな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "成熟的女人",
+      "4K",
+      "素人作品",
+      "接吻",
+      "精选，综合",
+      "流汗",
+      "纪录片",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250407-1/ad1c6af88fe2284a6d5f3bb92cf685a1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655669"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/81d65ff20060e78c09ce71630eab2463.jpg",
+    "actress": [
+      "椎名由奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-219"
   },
   {
-    "id": 153434,
-    "IDcode": "FC2PPV-4655984",
-    "title": "比我小11岁的老婆被别人戴绿帽子了",
+    "id": 167772,
+    "IDcode": "JUQ-220",
+    "title": "播种机构NTR-尾崎えりか",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/fee16dba2ba5bb22b3ffbe633b8faf6d.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/20dec0ac63d226aff87e9aed2513fdb1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4655984"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-220"
   },
   {
-    "id": 153436,
-    "IDcode": "FC2PPV-4656029",
-    "title": "超可爱的素人",
+    "id": 104400,
+    "IDcode": "JUQ-222",
+    "title": "想着女婿巨根的义母-藤加奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "婆婆",
+      "巨大阴茎",
+      "单体作品",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/4921ae047283c32d89e157f1529e514d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656029"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/a8dea2ccfe4a8800fcc85c1ca8fb73ac.jpg",
+    "actress": [
+      "藤環奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-222"
   },
   {
-    "id": 153435,
-    "IDcode": "FC2PPV-4656095",
-    "title": "一位美丽而丰满的女人",
+    "id": 104475,
+    "IDcode": "JUQ-223",
+    "title": "我被义父弄怀孕了-神宫寺奈绪",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "浴衣",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250407-1/d66cf30bc3499647b9921f04664b72df.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656095"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/c7ef6d3911ff8d6daf260cc96d5ad3a0.jpg",
+    "actress": [
+      "神宫寺奈绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-223"
   },
   {
-    "id": 153433,
-    "IDcode": "FC2PPV-4656129",
-    "title": "大学生在厕所里吹箫",
+    "id": 104412,
+    "IDcode": "JUQ-224",
+    "title": "中出轮奸的日子-上羽珣",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "多P",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/fe5a8174b39804d31ceb00be3ad77126.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/4a970684380041b5679866d1fdc5f776.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656129"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-224"
   },
   {
-    "id": 153437,
-    "IDcode": "FC2PPV-4656223",
-    "title": "温柔白皙黑发G罩杯圣乳",
+    "id": 167906,
+    "IDcode": "JUQ-225",
+    "title": "母をイジメっ子の同級生にNTRれたいじめられっ子の僕 多田有花",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕",
+      "NTR",
+      "淫妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/1aac2d13b1dc775c5c27eb9334b62392.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20231107/juq225pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656223"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-225"
   },
   {
-    "id": 153323,
-    "IDcode": "FC2PPV-4656261",
-    "title": "超美百货女售货员遭老男人调戏",
+    "id": 77571,
+    "IDcode": "JUQ-227",
+    "title": "对老公严厉的妻子-风间由美",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "胖女人",
+      "羞耻",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250407-1/f4e1f012a2cc38ca77b579066c19ee7c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656261"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/8d5cd801f40d4d18c863df69d8804f59.jpg",
+    "actress": [
+      "風間由美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-227"
   },
   {
-    "id": 153325,
-    "IDcode": "FC2PPV-4656292",
-    "title": "让她尚不成熟的身体了解男人的弱点",
+    "id": 77597,
+    "IDcode": "JUQ-229",
+    "title": "我让义母怀孕了-流川春香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "浴衣",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250407-1/e95513586b0435337853d112e421b0f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656292"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/ff57a9f810ff359981ac29ccde193462.jpg",
+    "actress": [
+      "流川はる香",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-229"
   },
   {
-    "id": 153324,
-    "IDcode": "FC2PPV-4656295",
-    "title": "皮肤白皙胸部美丽20岁女孩",
+    "id": 104435,
+    "IDcode": "JUQ-230",
+    "title": "汗滴落之夏日的69～以俯瞰视角观赏下流中年交配 爱弓凉",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "成熟的女人",
+      "戏剧",
+      "无码破解",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/2598f30d21c5bd02d0f8c3deb2ca7e96.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656295"
+    "cover_url": "/upload/vod/20250715-2/77f5ae8f4d65f217952fcce28bb1f2d9.jpg",
+    "actress": [
+      "愛弓涼",
+      "爱弓凉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-230"
   },
   {
-    "id": 153327,
-    "IDcode": "FC2PPV-4656306",
-    "title": "完全安心的感觉我可没怎么体验过",
+    "id": 168024,
+    "IDcode": "JUQ-231",
+    "title": "佐田茉莉子 『ごっくん』初解禁！！ あの男の醜い精液を私は朝昼晩と飲まされ続けています―。 精飲 『本物精子』",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250407-1/ca6f04207bc670a5fb444cf9fbcd44f9.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20231128/juq231pl.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656306"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-231"
   },
   {
-    "id": 153326,
-    "IDcode": "FC2PPV-4656310",
-    "title": "K罩杯巨乳超美少女",
+    "id": 100615,
+    "IDcode": "JUQ-233",
+    "title": "新婚生活崩坏之前-向井蓝",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "羞耻",
+      "单体作品",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/11d8e0bd32455c49a283138b5a5f9eba.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656310"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/a4348af3424c79e6304ef86948b83647.jpg",
+    "actress": [
+      "向井藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-233"
   },
   {
-    "id": 153226,
-    "IDcode": "FC2PPV-4656321",
-    "title": "一个普通的大学生",
+    "id": 225027,
+    "IDcode": "JUQ-234",
+    "title": "跟儿子同学成为炮友-水户香奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乱伦"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/7574da726c184800a36387c61d568674.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/8901e78862f81abe26b0e1dd124c3a2d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656321"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-234"
   },
   {
-    "id": 153224,
-    "IDcode": "FC2PPV-4656340",
-    "title": "一根鸡巴戳进年龄相差11岁的情侣",
+    "id": 169720,
+    "IDcode": "JUQ-234-C",
+    "title": "息子の友人ともう5年間、セフレ関係を続けています―。 年下の子と不埒な火遊び…中出し情事に溺れる私。",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/fd8a46c9a864b4bca018da492e4e206a.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20241026-1/d1e2abd3a3730d8be8d5682171e27cbf.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656340"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-234-C"
   },
   {
-    "id": 153225,
-    "IDcode": "FC2PPV-4656375",
-    "title": "第一次肛门处子之身",
+    "id": 225038,
+    "IDcode": "JUQ-235",
+    "title": "随时都可以打炮的肉肉爱人-白石茉莉奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/b4f25ed8865031c94cb7311b9b1b813e.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/c4dc8e0b4a611e70fe9ef3d9c724fa17.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656375"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-235"
   },
   {
-    "id": 153222,
-    "IDcode": "FC2PPV-4656379",
-    "title": "她在迈阿密认识的一位啦啦队长",
+    "id": 69503,
+    "IDcode": "JUQ-237",
+    "title": "梦想中的游泳俱乐部-波多野結衣",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "女教师",
+      "学校泳装",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/85ce15662d9a7453721e600018e9f783.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656379"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/c3b8c5d29aa7b79193fe29fbf3749711.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-237"
   },
   {
-    "id": 153223,
-    "IDcode": "FC2PPV-4656385",
-    "title": "被无情的电动按摩弄湿了",
+    "id": 97319,
+    "IDcode": "JUQ-238",
+    "title": "被妻子的好朋友勾引-黒川すみれ",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "浴衣",
+      "主观视角",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/16321d4d57a7297f47da337b440d4234.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656385"
+    "cover_url": "https://tutu1.space/images/2023/01/12/d6ac6790bd013f35c5cea92e1ec2c075.jpg",
+    "actress": [
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-238"
   },
   {
-    "id": 153117,
-    "IDcode": "FC2PPV-4656434",
-    "title": "美丽妻子爱好者团体",
+    "id": 225028,
+    "IDcode": "JUQ-239",
+    "title": "高傲的酒店前台-佐田茉莉子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/d2c723eb78df732e9fc0bf09e4b2d73b.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/e8ff8ad55b935ec64ce8f58543c1ea41.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656434"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-239"
   },
   {
-    "id": 153118,
-    "IDcode": "FC2PPV-4656542",
-    "title": "一位具有京都式优雅气质的美女",
+    "id": 223343,
+    "IDcode": "JUQ-240",
+    "title": "生理上绝对接受不了性骚扰-水川堇",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/16d76e07f779d4874dd02cc1f72117f0.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/7f44498da5fbd678d82c756292e8f85a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656542"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-240"
   },
   {
-    "id": 153119,
-    "IDcode": "FC2PPV-4656561",
-    "title": "-【個撮】美脚フェラ美人22歳の超絶ひょっとこバキュームフェラと無洗アナル舐めに余裕",
+    "id": 224865,
+    "IDcode": "JUQ-241",
+    "title": "浸满汗水的人妻秘书-椎名ゆな",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250330-1/ff295ca8babb37f918ecde3f709560fb.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/5c1b39f942c5812f4e43d16cc8880238.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656561"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-241"
   },
   {
-    "id": 153120,
-    "IDcode": "FC2PPV-4656566",
-    "title": "第一次用玩具夹阴蒂",
+    "id": 168157,
+    "IDcode": "JUQ-244",
+    "title": "攒钱和禁欲的一个月后-木下凛凛子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/2b470c65d15e852b73ca85678868a986.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/70a9cb60ee467ed9c53c5562a5527103.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656566"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-244"
   },
   {
-    "id": 153121,
-    "IDcode": "FC2PPV-4656689",
-    "title": "大胸身材是缓解大叔压力的好方法",
+    "id": 168218,
+    "IDcode": "JUQ-246",
+    "title": "和丈夫造人SEX之后-藤加奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/1f669041f261fee7bc26729a1e9d7b1d.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/f5998d3af23e00b3bb56344d801dbc82.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656689"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-246"
   },
   {
-    "id": 153116,
-    "IDcode": "FC2PPV-4656812",
-    "title": "S级美女办公室女郎",
+    "id": 168159,
+    "IDcode": "JUQ-247",
+    "title": "妻子妊娠中-风间由美",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/f420549109da5e5e8f10eaf2f58db523.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/ba9e232f4f33c16edd92fc16a00b7c3d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656812"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-247"
   },
   {
-    "id": 200315,
-    "IDcode": "FC2PPV-4656859",
-    "title": "保育员潮吹高潮",
+    "id": 168219,
+    "IDcode": "JUQ-248",
+    "title": "老婆对我的忠诚度-上羽绚",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/0cf0089d1a8d22cccd38b6552613bfb8.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/4898ed6384db7a3c79ee693d8a168d9c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656859"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-248"
   },
   {
-    "id": 153114,
-    "IDcode": "FC2PPV-4656879",
-    "title": "这个女人欠巨额的金钱躲到了乡下",
+    "id": 90949,
+    "IDcode": "JUQ-250",
+    "title": "高傲的酒店前台-佐田茉莉子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "浴衣",
+      "婆婆",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/1da4ef4be369f72f3369e123e53ad0cf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656879"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/4b448812aebec21ee23643e482b69486.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-250"
   },
   {
-    "id": 153115,
-    "IDcode": "FC2PPV-4656892",
-    "title": "美丽的牙医助理",
+    "id": 90948,
+    "IDcode": "JUQ-251",
+    "title": "绝对不能让老公知道-向井蓝",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "流汗",
+      "浴衣",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/5f94bcbb6955c45750e44bbd93da9e9d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656892"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/fcbe60b10a70c6e0b9e9480af173fee7.jpg",
+    "actress": [
+      "向井藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-251"
   },
   {
-    "id": 153112,
-    "IDcode": "FC2PPV-4656911",
-    "title": "身高 149 厘米短小精悍从四月起担任警察",
+    "id": 169725,
+    "IDcode": "JUQ-251-C",
+    "title": "夫には口が裂けても言えません、お義父さんに孕ませられたなんて…。 -1泊2日の温泉旅行で、何",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/3e4111cb1529e5dbbf9e0d9415c51954.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20241026-1/cb3817c0692fa4476424070d01dc0630.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656911"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-251-C"
   },
   {
-    "id": 153113,
-    "IDcode": "FC2PPV-4656912",
-    "title": "幼儿园老师",
+    "id": 90947,
+    "IDcode": "JUQ-252",
+    "title": "町内露营NTR-流川春香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "NTR",
+      "淫妻",
+      "中出",
+      "白天出轨",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/6fe8e61caea0ffd54dbc0c4fbe264dc1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656912"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/150bbce1d5978348a353a4cb0c6043c6.jpg",
+    "actress": [
+      "流川はる香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-252"
   },
   {
-    "id": 196446,
-    "IDcode": "FC2PPV-4656949",
-    "title": "来商务酒店按摩服务的JD",
+    "id": 100679,
+    "IDcode": "JUQ-253",
+    "title": "代替双亲抚养长大-栗山莉绪",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "白天出轨",
+      "单体作品",
+      "巨大屁股",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/7c61285897bc841a202d52a574606a3d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656949"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/07c6249e97d65750327801f0ade65ff2.jpg",
+    "actress": [
+      "栗山莉绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-253"
   },
   {
-    "id": 154071,
-    "IDcode": "FC2PPV-4656961",
-    "title": "20岁白皙苗条受欢迎的男士女孩",
+    "id": 140243,
+    "IDcode": "JUQ-254",
+    "title": "每晚听到邻居太太的娇喘声让我好在意… 和欲求不满的人妻满身流汗猛烈打炮的午后时光 爱弓凉",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/5e7b9b4cdaaf24a9d5d6a0ed3beb5184.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4656961"
+    "cover_url": "/upload/vod/20250715-2/dd7f58eb718c86976c8db4de3fe0d077.jpg",
+    "actress": [
+      "爱弓凉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-254"
   },
   {
-    "id": 196385,
-    "IDcode": "FC2PPV-4657013",
-    "title": "看我和女友的真实性爱",
+    "id": 90946,
+    "IDcode": "JUQ-255",
+    "title": "裸模NTR-一乃葵",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "NTR",
+      "淫妻",
+      "中出",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/f289bd3c83e185dfcb3d934e32639cd4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657013"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/6526ad4f0c3dfa49bec890519b405b3a.jpg",
+    "actress": [
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-255"
   },
   {
-    "id": 153111,
-    "IDcode": "FC2PPV-4657153",
-    "title": "敏感的阴部出色的灵敏度",
+    "id": 168547,
+    "IDcode": "JUQ-257",
+    "title": "积攒精液和金钱的一个月后",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/1f1cf9cf43054bf9741fd1a2b32d6cfd.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/80ff1d80a377bc0864df24460fc4cb37.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657153"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-257"
   },
   {
-    "id": 153109,
-    "IDcode": "FC2PPV-4657251",
-    "title": "小胖妞与中年鸡巴的六人狂欢",
+    "id": 77517,
+    "IDcode": "JUQ-258",
+    "title": "成为对义父言听计从的玩宠-上户真理",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "接吻",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/06e88a107aeab0fa6d7f89c0e811c9ce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657251"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/c5eebefedf3a0136f5f9fee5a678c432.jpg",
+    "actress": [
+      "上戶真理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-258"
   },
   {
-    "id": 153110,
-    "IDcode": "FC2PPV-4657254",
-    "title": "精液的质量",
+    "id": 169718,
+    "IDcode": "JUQ-258-C",
+    "title": "夫不在の間、執拗な焦らしと寸止めで義父に言いなりペットとして飼われた7日間ー。",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/c372894bee99402a0faa6bf31dd5b6b1.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20241026-1/8f52ff537caab54773cf46effbbaf97f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657254"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-258-C"
   },
   {
-    "id": 153107,
-    "IDcode": "FC2PPV-4657268",
-    "title": "作为一个欠钱不还的人",
+    "id": 224919,
+    "IDcode": "JUQ-259",
+    "title": "对不善拒绝的叔母-北条麻妃",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/175a2128fa40cc8d8f8b36f1c4a002e7.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/f135daea7bcd3211b40e63e295de7342.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657268"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-259"
   },
   {
-    "id": 153108,
-    "IDcode": "FC2PPV-4657299",
-    "title": "工作休息一天逛街回来头发干净又顺滑",
+    "id": 77572,
+    "IDcode": "JUQ-260",
+    "title": "作为让你拖欠房租的代价-泷结菜",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "戏剧",
+      "中出",
+      "单体作品",
+      "巨大屁股"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/eb5e5032a79242d53cd43812c652e174.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657299"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/cebd0ce0aed4c883eff3157ed948909d.jpg",
+    "actress": [
+      "滝ゆいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-260"
   },
   {
-    "id": 153100,
-    "IDcode": "FC2PPV-4657337",
-    "title": "牙医助理",
+    "id": 100582,
+    "IDcode": "JUQ-262",
+    "title": "以前明明是纤细朴素的-花柳杏奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "巨乳",
+      "胖女人",
+      "单体作品",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/aea2abcf95e4b17e961754547a801895.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/3cfb1102191d4be081117b72f8cc6ce2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657337"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-262"
   },
   {
-    "id": 200328,
-    "IDcode": "FC2PPV-4657382",
-    "title": "毕业一年的女孩是个粗俗的肉便盆",
+    "id": 100559,
+    "IDcode": "JUQ-263",
+    "title": "被住在隔壁的中年男性盯上的入住者",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "多P",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/f63af1668c804ac033f1933bed7c073c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657382"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/76df053772f0d161ad80f1612fbc8367.jpg",
+    "actress": [
+      "美咲佳奈",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-263"
   },
   {
-    "id": 154760,
-    "IDcode": "FC2PPV-4657464",
-    "title": "美胸性伴侣",
+    "id": 100541,
+    "IDcode": "JUQ-264",
+    "title": "对严厉女上司性骚扰-君塚日向",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "巨乳",
+      "单体作品",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250508-1/0f544ddda965e4674f5f5325ae723421.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657464"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/9acbd94c3f5d5d979ba51ec76639105d.jpg",
+    "actress": [
+      "君塚ひなた"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-264"
   },
   {
-    "id": 153101,
-    "IDcode": "FC2PPV-4657477",
-    "title": "与美女的秘密会面",
+    "id": 77568,
+    "IDcode": "JUQ-265",
+    "title": "彻底欣赏夫从未见过的究极羞耻部位",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "屁股",
+      "羞耻",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/84cb09e45c62fd42b327afa486404da2.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/22bd7890c8b5b1d3962e8541786921c3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657477"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-265"
   },
   {
-    "id": 200325,
-    "IDcode": "FC2PPV-4657486",
-    "title": "职业白衣天使",
+    "id": 100522,
+    "IDcode": "JUQ-266",
+    "title": "以前喜欢我的学生-新井里真",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "巨乳",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/d4726a07d0f69f5cc3445214800470e8.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/0eebbc1729329a0247acd17d6c4d8f94.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657486"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-266"
   },
   {
-    "id": 200317,
-    "IDcode": "FC2PPV-4657644",
-    "title": "丰满的美裸体魅惑的身体3连续发射",
+    "id": 100466,
+    "IDcode": "JUQ-267",
+    "title": "在同学会上被下媚药的人-夏川步美",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "成熟的女人",
+      "药物",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/40469c15f8be4cf663348347604820c3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657644"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/6cb9f7bfd333ebadda579278de3398cc.jpg",
+    "actress": [
+      "夏川步美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-267"
   },
   {
-    "id": 200319,
-    "IDcode": "FC2PPV-4657648",
-    "title": "聚会后美丽的秋田妻子喷出原始性爱和中出",
+    "id": 168220,
+    "IDcode": "JUQ-268",
+    "title": "因为不贞而闪耀的三天-叶山纱由里",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/746d0f7c85f5babee0396aae6148e0d2.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/329675c63ce4331e9196e3a7fd7cf5dc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657648"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-268"
   },
   {
-    "id": 197423,
-    "IDcode": "FC2PPV-4657765",
-    "title": "头脑清醒的人",
+    "id": 168160,
+    "IDcode": "JUQ-270",
+    "title": "曾是RACE QUEEN的人妻-美澄诗音",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-3/ed56ad4bd3700233cbcfa5cb1052b137.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/a552a14bbdfcec31fc29703207d934e8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657765"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-270"
   },
   {
-    "id": 200311,
-    "IDcode": "FC2PPV-4657771",
-    "title": "一位已婚妇女借钱给我超过10年",
+    "id": 90954,
+    "IDcode": "JUQ-272",
+    "title": "大肉棒教训看不起我的小姨子-神宫寺奈绪",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "妹妹",
+      "乱伦",
+      "羞耻",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/ff19c3143d5f1e9e2acd1308b59e0168.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657771"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/08e28345c3e1f5a3501658437cea7ed4.jpg",
+    "actress": [
+      "神宫寺奈绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-272"
   },
   {
-    "id": 197176,
-    "IDcode": "FC2PPV-4657856",
-    "title": "未发行影片合集",
+    "id": 225720,
+    "IDcode": "JUQ-273",
+    "title": "沉溺麻绳捆绑的人妻-木下凛凛子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/9cf2f69f8bb9ce2c5cf504779957c498.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/584e6b51eeaeab9868188a2c9e5f8908.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657856"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-273"
   },
   {
-    "id": 154754,
-    "IDcode": "FC2PPV-4657857",
-    "title": "上半期総集編2未公開蔵出映像",
+    "id": 168337,
+    "IDcode": "JUQ-274",
+    "title": "女上司秘密的副业-风间由美",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250424-1/be936bda8830a22a79b9d5a2fe0762e4.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/f213aec5fc8cd049d4f4332295464384.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657857"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-274"
   },
   {
-    "id": 154181,
-    "IDcode": "FC2PPV-4657858",
-    "title": "我和一位胸部美丽的性朋友",
+    "id": 77539,
+    "IDcode": "JUQ-275",
+    "title": "超大型新人-叶山小百合",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "接吻",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250411-1/fe248adfa6e496abb3d0c19947412235.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4657858"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/b37e9a7b07afd7b2671b72dcc6691b2f.jpg",
+    "actress": [
+      "葉山小百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-275"
   },
   {
-    "id": 200313,
-    "IDcode": "FC2PPV-4658002",
-    "title": "清纯好奇的白皙美乳",
+    "id": 100496,
+    "IDcode": "JUQ-276",
+    "title": "妻子妊娠中-椎名由奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "婆婆",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/6d8fb19bc201b92b5a0702abadd6e63c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658002"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/31ab74da9bf9b0baeaea4982d28b9935.jpg",
+    "actress": [
+      "椎名由奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-276"
   },
   {
-    "id": 153102,
-    "IDcode": "FC2PPV-4658198",
-    "title": "一个什么都不懂的 19 岁女孩",
+    "id": 77538,
+    "IDcode": "JUQ-277",
+    "title": "被义弟侵犯后-上羽珣",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/adef8b3d1a22475ea93135e177eaa271.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/ae323a72768bc8fa51eff1b53005d288.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-277"
   },
   {
-    "id": 196443,
-    "IDcode": "FC2PPV-4658201",
-    "title": "女孩在一家大屌牙医诊所工作",
+    "id": 100417,
+    "IDcode": "JUQ-278",
+    "title": "对儿子的朋友们燃起欲情的我",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "处男",
+      "乱伦",
+      "单体作品",
+      "荡妇",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/000c4c0b0fa3b5cb58f03c75dc2e56cf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658201"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/19f3a1c2bf8e07e70fc88a8f2242c5f0.jpg",
+    "actress": [
+      "多田有花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-278"
   },
   {
-    "id": 200329,
-    "IDcode": "FC2PPV-4658241",
-    "title": "天真无邪的女子",
+    "id": 169727,
+    "IDcode": "JUQ-278-C",
+    "title": "「ごめんね、もう我慢できないの…」息子の友達に欲情してしまった私は…。",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/ed89d099eb275d982f4826425d76c4dc.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20241026-1/775bd917659e9548c0a65be6dfdfb154.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658241"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-278-C"
   },
   {
-    "id": 196437,
-    "IDcode": "FC2PPV-4658295",
-    "title": "前空乘人员一位美丽的高个子女性",
+    "id": 225592,
+    "IDcode": "JUQ-279",
+    "title": "出轨的事被岳母知道-北条麻妃",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "乱伦"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/200072583ee0043961b0c0e28329a278.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/7ade03376afbfcf954a0aa3a1540426f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658295"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-279"
   },
   {
-    "id": 200322,
-    "IDcode": "FC2PPV-4658299",
-    "title": "18岁纤细小胸",
+    "id": 91017,
+    "IDcode": "JUQ-280",
+    "title": "出差处的商务酒店-藤加奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "白天出轨",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/8df3b5417303c6973d276531f5a2af47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658299"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/e084ee42f58e1120da38f9fa313aee8c.jpg",
+    "actress": [
+      "藤環奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-280"
   },
   {
-    "id": 196442,
-    "IDcode": "FC2PPV-4658306",
-    "title": "娃娃脸的素人",
+    "id": 155684,
+    "IDcode": "JUQ-281",
+    "title": "交换夫妇NTR-藤加奈 流川春香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/7ae150e37eae4f11529dcbdc5db1c38a.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/c8ea1b48141a5519fde8c45fe02a4d3f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658306"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-281"
   },
   {
-    "id": 200324,
-    "IDcode": "FC2PPV-4658307",
-    "title": "美丽的服装相关落魄角色扮演者",
+    "id": 168550,
+    "IDcode": "JUQ-282",
+    "title": "人妻秘书-佐田茉莉子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/ba3756916901804a1578949b5aedfbf2.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/f14a79b00e370956a8eca78bbb7e796e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658307"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-282"
   },
   {
-    "id": 153103,
-    "IDcode": "FC2PPV-4658455",
-    "title": "超美淫荡精致身材人妻",
+    "id": 104448,
+    "IDcode": "JUQ-284",
+    "title": "丈夫故意把妻子交给其他人轮奸",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/91e27678dd559daaf95d632d81c88ede.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658455"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/4f029651f290a909db145e5a0485cebf.jpg",
+    "actress": [
+      "栗山莉緒",
+      "左慈半造",
+      "栗山莉绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-284"
   },
   {
-    "id": 196438,
-    "IDcode": "FC2PPV-4658477",
-    "title": "超性感肉体唤醒你的性欲",
+    "id": 168551,
+    "IDcode": "JUQ-285",
+    "title": "开始甜蜜圈养年下男-香椎佳穗",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/137af0f425cdef846623b9072e8a4d29.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/e2061154b0d49b94a4fe1ec5f8b44487.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658477"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-285"
   },
   {
-    "id": 196439,
-    "IDcode": "FC2PPV-4658718",
-    "title": "拥有大屌22岁的混血美女",
+    "id": 87154,
+    "IDcode": "JUQ-287",
+    "title": "生时代的性骚扰教师-流川春香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "凌辱",
+      "羞耻",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/7a1935dc8dc72ca3006994274a8ed7c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658718"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/4d77ec1a799877784befd456a2b69af4.jpg",
+    "actress": [
+      "流川はる香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-287"
   },
   {
-    "id": 200312,
-    "IDcode": "FC2PPV-4658825",
-    "title": "用你的阴茎喷射的挑战",
+    "id": 107707,
+    "IDcode": "JUQ-288",
+    "title": "身心相性拔群的二人-一乃葵",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "接吻",
+      "中出",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/03bd3160ed00cb328b0a265bb9200ff1.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/fb4f550ecc57fc7cae7e1b43ebd7f509.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658825"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-288"
   },
   {
-    "id": 200320,
-    "IDcode": "FC2PPV-4658854",
-    "title": "他们将与人气偶像组合以同一家制作公司出道",
+    "id": 107557,
+    "IDcode": "JUQ-290",
+    "title": "專屬人妻-水戶香奈",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "各种职业",
+      "人妻",
+      "无码破解",
+      "跳舞",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/5c27c81cdabc5872b86a5b343c2d91d7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658854"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/f8ba5e55ef43a7441f5fe3625bb2fdf3.jpg",
+    "actress": [
+      "水户香奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-290"
   },
   {
-    "id": 196440,
-    "IDcode": "FC2PPV-4658866",
-    "title": "一个美丽纯真的已婚女人",
+    "id": 91014,
+    "IDcode": "JUQ-291",
+    "title": "欲求不满人妻-大岛优香",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出轨",
+      "成熟的女人",
+      "人妻",
+      "巨乳",
+      "单体作品",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/88a2ac5768ed1b2295109dbee3085d2f.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/93e2c7c116f28a10dc5d8d8cb350735e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658866"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-291"
   },
   {
-    "id": 153104,
-    "IDcode": "FC2PPV-4658889",
-    "title": "办公室职员隐藏的性欲",
+    "id": 168221,
+    "IDcode": "JUQ-292",
+    "title": "陷入在无套性爱里面的我-中野真子",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/31fe5ff123040071ec6410ed6c11136d.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/04cf2a1892a743e9fd4300c947c93da6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658889"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-292"
   },
   {
-    "id": 200310,
-    "IDcode": "FC2PPV-4658917",
-    "title": "一个奴隶妻子",
+    "id": 225224,
+    "IDcode": "JUQ-293",
+    "title": "恶魔一般的ICUP-都丸梓",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250401-1/0e7d94a800a6a9a6057c5a873c785ad2.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/1e91d83e3a7e46c29d792c8ed08993cc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658917"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-293"
   },
   {
-    "id": 196436,
-    "IDcode": "FC2PPV-4658949",
-    "title": "有着娃娃脸的可爱 19 岁女孩",
+    "id": 225189,
+    "IDcode": "JUQ-295",
+    "title": "人妻的调教研修-玉城夏帆",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/e97c1bd892856c1b4053ea1261e12859.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/f1a55af1c4cf0eaac7de0db4675309f1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658949"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-295"
   },
   {
-    "id": 196445,
-    "IDcode": "FC2PPV-4659088",
-    "title": "高大上的真竞选女孩",
+    "id": 87162,
+    "IDcode": "JUQ-296",
+    "title": "这是对部下严厉的肉感女上司性骚扰后生气做爱的故事 吉根柚莉爱",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "各种职业",
+      "巨乳",
+      "单体作品",
+      "荡妇"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/baa5a9dbacddd5f2675bab42b96a1811.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4659088"
+    "cover_url": "/upload/vod/20250715-2/172da9b9678b56e42647a500d026f1b2.jpg",
+    "actress": [
+      "吉根柚莉爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-296"
   },
   {
-    "id": 196447,
-    "IDcode": "FC2PPV-4659306",
-    "title": "新婚妻子经验不足",
+    "id": 168204,
+    "IDcode": "JUQ-298",
+    "title": "看起来很寂寞的人妻-花狩麻衣",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/578aca829b05698018d14298788fd5ce.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/46edd4df021a6e0759d318b24ff46196.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4659306"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-298"
   },
   {
-    "id": 196444,
-    "IDcode": "FC2PPV-4659326",
-    "title": "纯真的 18 岁艺术学校学生",
+    "id": 169723,
+    "IDcode": "JUQ-298-C",
+    "title": "家を追い出され寂しそうに震えている隣の奥さんと密かにヤリ続けた日々…。",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/b126cf6b2ff262debb9e70bdbd73fde8.jpg",
+    "cover_url": "http://p.155250718p.com/upload/vod/20241026-1/b4e7b4c2cf4ffaf7abf8a186b8b567b5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4659326"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-298-C"
   },
   {
-    "id": 196441,
-    "IDcode": "FC2PPV-4659339",
-    "title": "一位敏感的妻子已经怀孕2个月了",
+    "id": 107706,
+    "IDcode": "JUQ-301",
+    "title": "内腔的最深处-织本濑莉乃",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "已婚妇女",
+      "成熟的女人",
+      "首次亮相",
+      "纪录片",
+      "单体作品",
+      "苗条"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/d1be86bcc8775ce6096ea49dbfe7ca39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4659339"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/92df15d4660c4fc2271c566b71349933.jpg",
+    "actress": [
+      "織本せりの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-301"
   },
   {
-    "id": 154182,
-    "IDcode": "FC2PPV-4659345",
-    "title": "G罩杯专家",
+    "id": 168319,
+    "IDcode": "JUQ-305",
+    "title": "曾是空姐的人妻-东条实澪",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "人妻"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/f49ec044a6b1f6fe9f9fc0e44c471043.jpg",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/15a37d1325442c848a36e801cfbffee9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4659345"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-305"
   },
   {
-    "id": 154697,
-    "IDcode": "FC2PPV-4659454",
-    "title": "一个金发大屁股被人从后面猛干",
+    "id": 91012,
+    "IDcode": "JUQ-306",
+    "title": "允许中出-东条实澪",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "出轨",
+      "已婚妇女",
+      "成熟的女人",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250424-1/326296a11b92b29921a082dbb842424e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4659454"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/6d25aa26e3094fcff92620a65dd017af.jpg",
+    "actress": [
+      "東条実澪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-306"
   },
   {
-    "id": 196479,
-    "IDcode": "FC2PPV-4659466",
-    "title": "百货商店美容女售货员",
+    "id": 107705,
+    "IDcode": "JUQ-308",
+    "title": "亲吻中出三本番-吉泽友贵",
     "year": "",
     "country": "",
     "genre": "",
+    "genres": [
+      "成熟的女人",
+      "接吻",
+      "中出",
+      "单体作品",
+      "乳房"
+    ],
     "type": "有码",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/74b044035ac738ee1342061598cda621.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4659466"
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/df375624a987fc59558c0a4dcb300907.jpg",
+    "actress": [
+      "吉泽友贵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-308"
   }
 ];
