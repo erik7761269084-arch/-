@@ -1,1574 +1,1647 @@
 window.PAGE_DATA = [
   {
-    "id": 92996,
-    "IDcode": "NNPJ-553-C",
-    "title": "港区社長 年収2800万 タワマン住み 高スペック嘘プロフで顔面偏差値200の高級ラウンジ",
+    "id": 18030,
+    "IDcode": "CAWD-600",
+    "title": "人生初次大禁欲SP-西元美莎",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240929-1/ce77a0244bb2beab38c68bc22ab8111b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-553-C"
-  },
-  {
-    "id": 87723,
-    "IDcode": "NNPJ-564",
-    "title": "ごっくん＆中出し！！ 婚約者に浮気されて…≪1日限りのヤリ返し火遊び。≫セルフ寝取られ ヤケクソSEX 6連発。 れんちゃん（25歳）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-08-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230816-1/df6eb1720c060649fbc258aa6f9bc167.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-564"
-  },
-  {
-    "id": 90671,
-    "IDcode": "NNPJ-570",
-    "title": "≪立ちんぼ女子に声かけたら…≫ 彼氏にフラれて傷心、絶倫ナンパ師の餌食になっちゃった女の子。 失恋女子:みと 職業:看護師 ※強がり作り笑顔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-09-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/8aa1ffa678a967e33ad1caca5a770ad2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-570"
-  },
-  {
-    "id": 90669,
-    "IDcode": "NNPJ-571",
-    "title": "≪ノンストップREC≫ 絶倫ギャル人妻スワップNTRドキュメント 【SMホテル寝取らせ映像でシコる旦那。】 ギャル妻めるさん。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-10-03",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/069f36157f74b8280efb0663da009985.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/cf08104b338cac890dba4ea0d57fe0ec.jpg",
     "actress": [
-      "イセドン内村"
+      "西元美紗"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-571"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-600"
   },
   {
-    "id": 90667,
-    "IDcode": "NNPJ-572",
-    "title": "「SMプレイで寝取られたい…」 即マン再び！セクシー美人妻は即効型の都合のイイ絶倫ビッチ。 【SM寝取らせ編】盛り妻:かなさん。",
+    "id": 16961,
+    "IDcode": "CAWD-602",
+    "title": "奇迹的高挑素人OL-观月爱奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2023-09-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/c0b6396836b7449d808c97e2f8742373.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240118-1/c4453ccc9196acabc685eab3b562672d.jpg",
     "actress": [
-      "森澤佳奈"
+      "觀月愛菜",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-572"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-602"
   },
   {
-    "id": 90670,
-    "IDcode": "NNPJ-573",
-    "title": "男の人とデートしたことがない清楚系女子大生をデート後、ホテルに誘ってみたら… 超絶敏感・●トゥー・大量潮吹き…ギャップの天使降臨 さつき",
+    "id": 16960,
+    "IDcode": "CAWD-604",
+    "title": "復活的禁慾紀錄片-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2023-09-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/7ea34f2792e3fa9f94963608e63d8240.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240116-1/7a245bef0ab5c744600d02a3197d8cbe.jpg",
     "actress": [
-      "柊有希"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-573"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-604"
   },
   {
-    "id": 90668,
-    "IDcode": "NNPJ-575",
-    "title": "【FANZA限定】六本木の超高級ラウンジNo.1の超イイ女とハメたい 太客にドタキャンされてシャンパンおろしたお礼に極上GカップBODY独占朝までラッキーアフター中出し メアリー 生写真2枚付き",
+    "id": 16959,
+    "IDcode": "CAWD-606",
+    "title": "在治療的時候被玩弄胸部跟鮑魚",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2023-11-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/fb15b440e7069bcb85760d1cc5dfd5f9.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240118-1/d0eaaf4766a60baa0067f3da564c8680.jpg",
     "actress": [
-      "橘瑪麗"
+      "設樂夕日"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-575"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-606"
   },
   {
-    "id": 17979,
-    "IDcode": "NNPJ-576",
-    "title": "REC. 寢取的肉便器實拍7發連出",
+    "id": 16462,
+    "IDcode": "CAWD-608",
+    "title": "跟女兒有肉體關係-松岡美櫻",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231106/20231105234442148148.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240219-1/c1b1192b6745ddb828ef2f9d8d7ffaba.jpg",
     "actress": [
-      "小花暖"
+      "松岡美桜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-576"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-608"
   },
   {
-    "id": 90665,
-    "IDcode": "NNPJ-577",
-    "title": "マッチングアプリでゲット！！ 出会って超速ホテルIN即ハメ！ギャル美人妻は即効型の都合のイイ絶倫タダマンビッチだった。 人妻:さりなさん",
+    "id": 16962,
+    "IDcode": "CAWD-610",
+    "title": "人生第一次冲动-野坂诗织",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/2c84be013bb5ad5f812518e5c3dd0279.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-577"
-  },
-  {
-    "id": 17981,
-    "IDcode": "NNPJ-579",
-    "title": "舔巨乳大胸妹~調教~用媚藥連續5發內射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105233936378378.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240118-1/79a8af7eea20cd18148f91c66248ca70.jpg",
     "actress": [
-      "弓乃凜夢"
+      "野坂志保里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-579"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-610"
   },
   {
-    "id": 90666,
-    "IDcode": "NNPJ-580",
-    "title": "銀〇コリドー街で見つけたどエロい女 釣ったつもりが釣られてた コリドー街を歩くイイ女をナンパしたら超セックス狂い 誘われ待ちで男のチ〇ポに飢えた巨乳美少女とナマ4発 めぐみ",
+    "id": 17448,
+    "IDcode": "CAWD-612",
+    "title": "在雨中侵犯的女学生-花柳杏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/0b523bdba30c10fdb82a3ce3e535d227.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-580"
-  },
-  {
-    "id": 73227,
-    "IDcode": "NOSKN-009",
-    "title": "《中出しドキュメント》天然Jカップ最強美乳女神 月野かすみ@ノースキンズ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2022-07-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250122-1/166d4384eaf24c7942d058fa25ce987c.jpg",
-    "actress": [
-      "月野香澄"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-009"
-  },
-  {
-    "id": 85798,
-    "IDcode": "NOSKN-014",
-    "title": "超無敵えんこうせい 沙月恵奈@ノースキンズ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2022-09-21",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230129-1/54d387a60801718d4e63846ee15ede21.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-014"
-  },
-  {
-    "id": 90647,
-    "IDcode": "NOSKN-024",
-    "title": "NOSKN-024",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2023-01-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/1b141b66cfd42b58247e0048513f1884.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-024"
-  },
-  {
-    "id": 90645,
-    "IDcode": "NOSKN-025",
-    "title": "ガチ中出し5P大輪●！計16発膣内射精する146cmミニマム美少女コスプレイヤーひかる（21） 皆月ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2023-02-03",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/10bb37e2e02ec2a781f7a5382d03aa45.jpg",
-    "actress": [
-      "皆月光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-025"
-  },
-  {
-    "id": 90646,
-    "IDcode": "NOSKN-040",
-    "title": "SNSで話題のタトゥー美少女が会ったその日に初めての生ハメ 大量潮吹き＆中出しオフパコ 柊ゆうき@ノースキンズ！【中出しドキュメント】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2023-06-02",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/001d57e5a3c3c8de84165acd277dc113.jpg",
-    "actress": [
-      "柊有希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-040"
-  },
-  {
-    "id": 87729,
-    "IDcode": "NOSKN-041",
-    "title": "ガチ中出し4P大輪●！パパ活で生計を立てるアパレル系ピンクギャルヤリマン23歳が大量中出し＆ぶっかけ絶叫イキ 素人コスプレイヤーえな（23） 沙月恵奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2023-07-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230816-1/8e91b0b974bf7f801fe58751cc1fc76a.jpg",
-    "actress": [
-      "沙月惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-041"
-  },
-  {
-    "id": 90644,
-    "IDcode": "NOSKN-053",
-    "title": "ガチ中出し5P大輪●！149cmちびカワ素人女子20歳が初めてのハプバー輪●で中出しまみれ 素人コスプレイヤーななみ（20） 横宮七海",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2023-10-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/d839a7817ea6d90fcbb6b42410592866.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-053"
-  },
-  {
-    "id": 18373,
-    "IDcode": "NOSKN-056",
-    "title": "與G罩杯有着3个孩子的人妻玉城夏帆度過一晚醉酒后的原始性愛和體內射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2023-10-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010002257806806.jpg",
-    "actress": [
-      "玉城夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-056"
-  },
-  {
-    "id": 17195,
-    "IDcode": "NOSKN-064",
-    "title": "超级无敌性工作者 齋藤亞美里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2023-12-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20231218/598fbe0b-9b7c-4642-87ef-4d70e641b262.jpg",
-    "actress": [
-      "齋藤亞美里",
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-064"
-  },
-  {
-    "id": 90643,
-    "IDcode": "NOSKN-066",
-    "title": "彼女裏切りネトラセ【鬼畜NTR】瀬戸ひなこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2023-12-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/642637fb739661ab762b4de9796f6d28.jpg",
-    "actress": [
-      "瀬戸ひなこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-066"
-  },
-  {
-    "id": 14039,
-    "IDcode": "NOSKN-091",
-    "title": "來自關西的變態受虐狂大奶子女大學生喜歡大雞巴，晃動她的 G 罩杯大奶子 花柳杏奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2024-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610041159202202.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/12/24/0ba04c3b9025e59d52ae93d7fbe426e8.jpg",
     "actress": [
       "花柳杏奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-091"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-612"
   },
   {
-    "id": 14584,
-    "IDcode": "NOSKN-092",
-    "title": "兩人的恩愛NS溫泉之旅 ~ 水川潤",
+    "id": 17478,
+    "IDcode": "CAWD-613",
+    "title": "沉溺于密会不伦中出SEX的我-西元美莎",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2024-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519222559389389.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/12/24/10a71ba0ec10169ace0ac4e442e7ceb0.jpg",
     "actress": [
-      "水川潤",
-      "由爱可奈"
+      "西元美紗"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-092"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-613"
   },
   {
-    "id": 14585,
-    "IDcode": "NOSKN-094",
-    "title": "迷人的幸運後宮！ W小惡魔黑發短反3P ~ 東城ゆい 市川りく",
+    "id": 16463,
+    "IDcode": "CAWD-621",
+    "title": "想要再一次幹老婆-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2024-06-21",
-    "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519222708571571.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240219-1/f165745ead4f0068a8aeb236618d3c3d.jpg",
     "actress": [
-      "市川りく",
-      "東城ゆい"
+      "伊藤舞雪",
+      "イセドン内村"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-094"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-621"
   },
   {
-    "id": 13762,
-    "IDcode": "NOSKN-095",
-    "title": "月乃露娜是個變態的OL，她很害羞，但卻與她的虐待狂男友一起亂交",
+    "id": 16965,
+    "IDcode": "CAWD-622",
+    "title": "处男的臭味-日向夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2024-07-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20240624/20240624023457936936.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240118-1/648b6db466ad5ea62077468db9491c2c.jpg",
     "actress": [
-      "月乃露娜"
+      "日向夏",
+      "Qべぇ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-095"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-622"
   },
   {
-    "id": 14068,
-    "IDcode": "NOSKN-096",
-    "title": "友田彩香兩人的恩愛NS溫泉之旅",
+    "id": 16963,
+    "IDcode": "CAWD-624",
+    "title": "浴室就给你借用一下吧-天川空",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2024-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035041806806.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240118-1/640f0d26f915dbea56681499ae6969bc.jpg",
     "actress": [
-      "友田彩也香"
+      "天川空"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-096"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-624"
   },
   {
-    "id": 93597,
-    "IDcode": "NOSKN-097",
-    "title": "魅惑のラッキーハーレム！W小悪魔美少女逆3P せいら＆りょう",
+    "id": 16964,
+    "IDcode": "CAWD-627",
+    "title": "年輕女同事-沙月芽衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NOSKINS",
-    "publish_date": "2024-08-02",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/116d42d7d52354efc8a3e00e6fb280ae.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240118-1/55202754ebf73ccd7fc1650ce0b7e60a.jpg",
     "actress": [
-      "久和原聖羅",
-      "月美りょう"
+      "乙愛麗絲",
+      "齋藤亞美里",
+      "沙月芽衣",
+      "斋藤亚美里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-097"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-627"
   },
   {
-    "id": 87067,
-    "IDcode": "NPJB-095",
-    "title": "南麻布某高級メンズエステ盗撮 交渉不要マルチアングル中出し基盤4名",
+    "id": 15981,
+    "IDcode": "CAWD-628",
+    "title": "飞机起飞前我已经性欲极盛了-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2023-05-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230709-1/3fd60eaf7f191da0ce6183a27ccfec4b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJB-095"
-  },
-  {
-    "id": 87044,
-    "IDcode": "NPJB-101",
-    "title": "睡姦サークル白昼夢制服女子4人無許可中出しBEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2023-05-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230709-1/cb99848f3ea2ccabeca522b73fb9ad86.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJB-101"
-  },
-  {
-    "id": 94583,
-    "IDcode": "NPJB-107",
-    "title": "男なら一度は抱きたい！高級ラウンジ嬢の超イイ女達とハメまくり7時間ベスト",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-07-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/21b4dcadf8dc0712b088913e785baaf7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJB-107"
-  },
-  {
-    "id": 4108,
-    "IDcode": "NPJB-111",
-    "title": "爆乳大奶精選 NPJ隱藏的極品奶子素人妹子5人240分鐘",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-07-25",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250725/20250725101056749749_73098_thumbnail.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJB-111"
-  },
-  {
-    "id": 14265,
-    "IDcode": "NPJS-033",
-    "title": "與美豔美女的中出喝酒援交約會……平時得不到的高級女人，如果你有錢的話，隨時都可以操！ ~ 柳可憐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240601/20240601080944393393.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240413-1/85899f98f55fc9fbf6fbd9e76f812a9f.jpg",
     "actress": [
-      "柳可憐"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-033"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-628"
   },
   {
-    "id": 14351,
-    "IDcode": "NPJS-035",
-    "title": "Instagram上遇到的肌肉辣妹，性欲超超超愛馬上做愛！ ！發布#我想和喜歡肌肉訓練的人聯系的女孩會立即被操！ ？ ~ 三嶽祐奈",
+    "id": 15996,
+    "IDcode": "CAWD-629",
+    "title": "和回老家的姐姐商量处男毕业的事之后",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531012129239239.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240327-1/55de4e103a9bbfea51c0627942165e88.jpg",
     "actress": [
-      "三岳祐奈"
+      "日向夏",
+      "まーち"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-035"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-629"
   },
   {
-    "id": 14277,
-    "IDcode": "NPJS-038",
-    "title": "最近喪失了童貞的處女後沉迷於約炮的興奮，可愛女人 (27)，忍不住享受她剛剛學到的性愛",
+    "id": 16000,
+    "IDcode": "CAWD-630",
+    "title": "人生第一次的精子逆流性愛-設樂夕日",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/202405310442061212.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240327-1/5c814dd91f3ffdc70ba826d68fcf9754.jpg",
     "actress": [
-      "大槻ゆりか"
+      "設樂夕日",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-038"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-630"
   },
   {
-    "id": 14287,
-    "IDcode": "NPJS-041",
-    "title": "女孩隨便就脫衣服的時代，被年長男性吸引的在SNS上認識了喜歡做愛的素人女大學生（21歲）",
+    "id": 15773,
+    "IDcode": "CAWD-639",
+    "title": "法律实习生被监禁调教-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531040839580580.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-041"
-  },
-  {
-    "id": 13653,
-    "IDcode": "NPJS-044",
-    "title": "賭女啓示錄～ 帕科拉編",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628010345523523.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-044"
-  },
-  {
-    "id": 93593,
-    "IDcode": "NPJS-045K",
-    "title": "NPJS045Kカップ111cmヤレそうでヤレない調布の爆乳スナックママ行きつけのスナックのママさんの誕生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/56290e213ceed4b668a55e2fffa6f66c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-045K"
-  },
-  {
-    "id": 13689,
-    "IDcode": "NPJS-050",
-    "title": "絞姦——計劃強奸毫無反抗能力的G罩杯女性，用專業技術將其擊倒昏倒出張按摩妹 ~ 白石なぎさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628010736159159.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240418-1/f75a083c9a3983ae5c743e35f94b04fb.jpg",
     "actress": [
-      "白石渚"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-639"
   },
   {
-    "id": 13659,
-    "IDcode": "NPJS-055",
-    "title": "令人驚嘆的巨乳美女~在聚會上遇到大奶子女孩着迷！ ~ 辻井ほのか",
+    "id": 15777,
+    "IDcode": "CAWD-640",
+    "title": "长得超像某个人气萝莉偶像-日向夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628004424480480.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240424-1/29d472499004188f8a1da39bb42df62e.jpg",
     "actress": [
-      "辻井穗乃果"
+      "日向夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-640"
   },
   {
-    "id": 13652,
-    "IDcode": "NPJS-057",
-    "title": "快，在我老公回家前我們有時間！於是我們去了一家快捷酒店而且馬上就開始做愛 ~ 都月楓",
+    "id": 15778,
+    "IDcode": "CAWD-641",
+    "title": "无内无防备诱惑绝伦巨乳少女-设乐悠日",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-07-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628010819864864.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240424-1/6e50a25613d0c230f6e45fbf04c8bb04.jpg",
     "actress": [
-      "都月楓"
+      "設樂夕日"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-641"
   },
   {
-    "id": 14278,
-    "IDcode": "NPJS-058",
-    "title": "騙錢然後被私人逮捕的女孩",
+    "id": 103815,
+    "IDcode": "CAWD-643",
+    "title": "现役偶像是我的同学-西元美莎",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531044121722722.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240424-1/690a84a65c521890dfabb894a956d390.jpg",
     "actress": [
-      "雫月心桜"
+      "日森一"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-058"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-643"
   },
   {
-    "id": 13008,
-    "IDcode": "NPJS-061",
-    "title": "網上約的充滿好奇想看男人雞巴的素人妹子，被同時6根雞巴操",
+    "id": 15987,
+    "IDcode": "CAWD-644",
+    "title": "穿上就瘦的F罩杯-神谷のこ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/202408020318574343.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-061"
-  },
-  {
-    "id": 12993,
-    "IDcode": "NPJS-062",
-    "title": "澀谷搭訕女大學生，咧着嘴口雞巴的感覺太好了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/202408020531443535.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-062"
-  },
-  {
-    "id": 10245,
-    "IDcode": "NPJS-063",
-    "title": "出現在秋葉原的似乎對男性毫無經驗的宅女（脫掉衣服的樣子很驚豔）被邀請參加女性用風俗體驗，立刻就被淹沒了 ~ 岡本莉里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128103150182182.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240327-1/fa95be753bf4e43334ce90e34f135f93.jpg",
     "actress": [
-      "岡本莉里",
-      "向理来"
+      "神谷のこ",
+      "イセドン内村"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-063"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-644"
   },
   {
-    "id": 13014,
-    "IDcode": "NPJS-066",
-    "title": "○○學校同學的媽媽，在接孩子的路上總是秀乳溝。我在等紅綠燈時喊了她一聲，然後就跟着她回家了。老公不在的時間9點⇒17點不間斷乳房享受無套性愛中出 ~ 森澤佳奈",
+    "id": 15037,
+    "IDcode": "CAWD-646",
+    "title": "被逼着做极度羞耻的泳装模特-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-08-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802021521391391.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240528-1/ceeca388714ed7fb6438619738271e5f.jpg",
     "actress": [
-      "森澤佳奈"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-066"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-646"
   },
   {
-    "id": 10246,
-    "IDcode": "NPJS-094",
-    "title": "釣魚高手撿起釣魚女孩帶回家，讓她哭、射、射在她體內，給她無限的後續性愛！ ~ 杏可可",
+    "id": 15070,
+    "IDcode": "CAWD-648",
+    "title": "害人不成反被害-设乐悠日",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128103417364364.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240528-1/a3a9165bf44cb414216df487fc26aea0.jpg",
     "actress": [
-      "杏可可"
+      "設樂夕日"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-094"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-648"
   },
   {
-    "id": 10921,
-    "IDcode": "NPJS-096",
-    "title": "「我想體驗刺激的性愛。」 渚（20 歲），薄幸系早漏素人上京娘，在她的AV首次亮相中，令人留下深刻印象",
+    "id": 15772,
+    "IDcode": "CAWD-651",
+    "title": "比起结婚更想选性爱-佐佐木美优",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-11-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031073127517517.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240819-1/610536b70fa3be438c2ffb7c6949a058.jpg",
     "actress": [
-      "高城なぎさ"
+      "佐々木みゆ",
+      "小田切ジュン"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-096"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-651"
   },
   {
-    "id": 10249,
-    "IDcode": "NPJS-099",
-    "title": "免費炮的質量：復活咒語 (The●Lal) 給很久沒聯系的前炮友發了電郵！那個欲求不滿的人妻果然回信了！ ！ ~ 宇佐美すい",
+    "id": 15775,
+    "IDcode": "CAWD-652",
+    "title": "唤醒仍缺乏经验和抽搐 神谷乃子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102751468468.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240819-1/d7b50525db0709cf7582d701099558e4.jpg",
     "actress": [
-      "宇佐美すい"
+      "神谷のこ",
+      "小田切ジュン"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-099"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-652"
   },
   {
-    "id": 10267,
-    "IDcode": "NPJS-106",
-    "title": "有點麻煩，約炮APP上約到的是位住在鄉下的田舍娘。但最終還是開了3小時車去見她...太棒了，內射！中出！ ~ 小阪七香",
+    "id": 15771,
+    "IDcode": "CAWD-654",
+    "title": "离花花世界非常遥远的报道担当",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128092856714714.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240819-1/21eaa6a18581ef7ae6b490d75e9674fc.jpg",
     "actress": [
-      "小坂七香"
+      "如月りいさ",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-106"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-654"
   },
   {
-    "id": 7867,
-    "IDcode": "NPJS-109",
-    "title": "全國人妻背德名錄#2 ~ 長瀨麻美 (38)",
+    "id": 13707,
+    "IDcode": "CAWD-656",
+    "title": "御宅辣妹肉偿房租-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227073220652652.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240801-1/713c22e988768c2b2513a1681efb7743.jpg",
     "actress": [
-      "长濑麻美"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-109"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-656"
   },
   {
-    "id": 10254,
-    "IDcode": "NPJS-110",
-    "title": "全國不道德人妻名錄 ~ 水川潤(28歲)",
+    "id": 14325,
+    "IDcode": "CAWD-658",
+    "title": "对女友妹妹实行强奸计划-设乐悠日",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102031321321.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240624-1/1657cc85e15fed6856580258393b4c2c.jpg",
     "actress": [
-      "水川潤",
-      "由爱可奈"
+      "設樂夕日",
+      "日森一"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-658"
   },
   {
-    "id": 10250,
-    "IDcode": "NPJS-112",
-    "title": "在銀座高級俱樂部工作的黑短發美女！能在夜場釣到最好的魚了！ ~ 桐山ここみ",
+    "id": 15038,
+    "IDcode": "CAWD-659",
+    "title": "比起结婚我更想要活下去-佐佐木美优",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102702413413.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240528-1/f7e73d1a68ad3a80409a46d63ebb63a7.jpg",
     "actress": [
-      "桐山ここみ"
+      "佐々木みゆ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-112"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-659"
   },
   {
-    "id": 8650,
-    "IDcode": "NPJS-113",
-    "title": "與穿着JK最可愛的高中女生的酒店中出約會 ~ 逢澤美優",
+    "id": 15034,
+    "IDcode": "CAWD-660",
+    "title": "美体大觉醒-神谷乃子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-02-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130081004919919.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240609-1/d9afea2775862adf6ab0fb5519f4fd46.jpg",
     "actress": [
-      "逢澤美優"
+      "神谷のこ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-113"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-660"
   },
   {
-    "id": 9408,
-    "IDcode": "NPJS-115",
-    "title": "與新昭和系女孩的盛夏海邊約會。我們走進酒店，狠狠地做愛 ~ 靜河",
+    "id": 14324,
+    "IDcode": "CAWD-662",
+    "title": "禁欲生活一个月-如月里依莎",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-01-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102085314243243.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240624-1/823c296b56f302b75ed3a705d4745a95.jpg",
     "actress": [
-      "静河"
+      "如月りいさ",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-115"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-662"
   },
   {
-    "id": 9409,
-    "IDcode": "NPJS-116",
-    "title": "在高寺車站前發掘的寶藏美少女劇團演員出現在AV中！ 看起來很清楚系！風格拔羣！可愛笑顏的劇團公主，竟然是個醉酒小惡魔！等着男人來搭訕！ ~ 有馬美月",
+    "id": 14326,
+    "IDcode": "CAWD-676",
+    "title": "和好兄弟旅游遇-伊藤舞雪 樱空桃",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-01-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102085250157157.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240706-1/115f66497c3185dc90ac52aea190de4b.jpg",
     "actress": [
-      "有馬美月"
+      "桜空桃",
+      "伊藤舞雪",
+      "七尾神"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-116"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-676"
   },
   {
-    "id": 10264,
-    "IDcode": "NPJS-117",
-    "title": "某校選美候補被強奸視頻泄露 - 未來女播音員候選人被奴役輪奸受孕計劃 ~ 相月菜緒",
+    "id": 12967,
+    "IDcode": "CAWD-677",
+    "title": "持续三年的洗脑-设乐悠日",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128094217522522.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240921-4/ebd7fccc606c7e42cb3c9ff941679abf.jpg",
+    "actress": [
+      "設樂夕日"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-677"
+  },
+  {
+    "id": 14329,
+    "IDcode": "CAWD-679",
+    "title": "一个穿制服的女孩-西元めいさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240624-1/59956be4ecb2bc909f4cc88e8fe15f59.jpg",
+    "actress": [
+      "西元美紗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-679"
+  },
+  {
+    "id": 14328,
+    "IDcode": "CAWD-680",
+    "title": "即使婚约破局也仍想继续的梦般大乱交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240706-1/1db6949cfbe9caffaf73c8a3c46b05b6.jpg",
+    "actress": [
+      "佐々木みゆ",
+      "鲛岛",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-680"
+  },
+  {
+    "id": 14336,
+    "IDcode": "CAWD-684",
+    "title": "我下令禁欲长达一个月-松井日奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240706-1/2dc46b51ec3cc80db31cb89a0d9b0948.jpg",
+    "actress": [
+      "松井日奈子",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-684"
+  },
+  {
+    "id": 14321,
+    "IDcode": "CAWD-686",
+    "title": "当你摘下它时你会惊讶于超薄的身材",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240706-1/724d4a906b35cae6617c7c89eaf7383b.jpg",
+    "actress": [
+      "水城りん",
+      "小田切ジュン",
+      "南佳也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-686"
+  },
+  {
+    "id": 12976,
+    "IDcode": "CAWD-688",
+    "title": "便利店打工的妻子-伊藤舞雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240820-1/a3296dfb60c0396cbf8616fdadec410e.jpg",
+    "actress": [
+      "伊藤舞雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-688"
+  },
+  {
+    "id": 12977,
+    "IDcode": "CAWD-690",
+    "title": "晨间剧的新女主角-相月菜绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240921-4/d368689ca7ce6ce0a1194b7974218107.jpg",
     "actress": [
       "相月菜緒"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-690"
   },
   {
-    "id": 9414,
-    "IDcode": "NPJS-119",
-    "title": "偷拍！素人H罩杯大奶子到家援交服務被偷拍！ ~ 小阪ひまり",
+    "id": 13711,
+    "IDcode": "CAWD-691",
+    "title": "一个皮肤白皙的女孩-秋山百香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-01-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250102/202501020850042323.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240801-1/808e4c9b37a509ceeb28de1c8b46cbcd.jpg",
     "actress": [
-      "小坂ひまり"
+      "秋山ももか",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-119"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-691"
   },
   {
-    "id": 9422,
-    "IDcode": "NPJS-121",
-    "title": "我在IInstagram上發現的肌肉妹，性欲超強！發布了 #我想和喜歡肌肉訓練的人做愛 的女孩會立即被操！ ？性欲太強烈了！ ！ ~ 鳳可怜",
+    "id": 13670,
+    "IDcode": "CAWD-693",
+    "title": "便利商店非钟点工人佐佐木美优",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-01-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102082644229229.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240801-1/314a2ce0613b58182fdcd829ac7c84db.jpg",
     "actress": [
-      "鳳可怜"
+      "佐々木みゆ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-121"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-693"
   },
   {
-    "id": 10256,
-    "IDcode": "NPJS-122",
-    "title": "傳銷團夥利用美巨乳女把我成功吸引了進來，爲了報復她，我爲她準備了一場媚藥輪奸盛宴 ~ 羽月乃蒼",
+    "id": 96678,
+    "IDcode": "CAWD-694",
+    "title": "第一次的無套插入-七瀨由愛",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128101210960960.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240819-1/e36cf2ad460eaae029a67a9c931f2cfa.jpg",
     "actress": [
-      "羽月乃蒼"
+      "七瀬ゆあ",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-122"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-694"
   },
   {
-    "id": 73299,
-    "IDcode": "NPJS-123",
-    "title": "「子供のお迎えの時間まで抱いて…」 マッチングした子持ち巨乳妻は自宅へセフレを連れ込み性欲発散するビッチワイフだった。 人妻:わかさん。",
+    "id": 96725,
+    "IDcode": "CAWD-695",
+    "title": "连害羞都一扫而空的恶魔高潮-松井日菜子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-01-07",
-    "cover_url": "https://tutu1.space/images/2025/01/30/837c24c463b538705d9aa4899e9325d4.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240801-1/728ac96b6e1a4cb631074250a4ff3a5a.jpg",
     "actress": [
-      "美園和花"
+      "松井日奈子",
+      "鲛岛",
+      "イセドン内村"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-123"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-695"
   },
   {
-    "id": 9419,
-    "IDcode": "NPJS-124",
-    "title": "通過約炮APP找到的已婚人妻，她脫掉衣服後我馬上就操了她 （不要告訴你的丈夫） ~ 水澄せいら",
+    "id": 12248,
+    "IDcode": "CAWD-706",
+    "title": "交了一个温柔又稳定的男友-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-01-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102082928164164.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240930-2/95c1cc8c4e89e047a48e3c0ea2458af1.jpg",
     "actress": [
-      "水澄せいら"
+      "伊藤舞雪",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-124"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-706"
   },
   {
-    "id": 9404,
-    "IDcode": "NPJS-125",
-    "title": "新人出道！邂逅了超可愛的小姐姐！ ？出色的姿色和風格！無與倫比的性欲！就讓你AV出道吧！ 首次亮相 AV DEBUT ~ 葉月まゆ",
+    "id": 12980,
+    "IDcode": "CAWD-707",
+    "title": "内向图书委员的性爱浸渍-日向夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-01-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102074653556556.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240921-4/a5c315c17a2d613391f17d5306249a2b.jpg",
     "actress": [
-      "葉月まゆ",
-      "タツ"
+      "日向夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-125"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-707"
   },
   {
-    "id": 10244,
-    "IDcode": "NPJS-126",
-    "title": "援交！ ！ 援交娘做愛的視頻，被胖顧客報復。 六本木援交娘 ~ 春陽モカ",
+    "id": 12351,
+    "IDcode": "CAWD-708",
+    "title": "看起来很成熟的女友妹妹-设乐悠日",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128104041595595.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240930-2/fa7aed0c9c40603ea51caa150aced8d2.jpg",
     "actress": [
-      "春陽萌花"
+      "設樂夕日"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-126"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-708"
   },
   {
-    "id": 10258,
-    "IDcode": "NPJS-127",
-    "title": "【瞞着男友的第一槍】抗壓能力弱的女大學生被帶回家中！ ？最後變成了我的肉便器池（20歲）。~ 永野鈴",
+    "id": 12945,
+    "IDcode": "CAWD-718",
+    "title": "21发颜射在美少女脸上-小坂七香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2024-12-03",
-    "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128100714766766.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240823-1/d5d04a8a089c6f9bb4d731a55ebba5db.jpg",
     "actress": [
-      "永野鈴"
+      "小坂七香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-718"
   },
   {
-    "id": 8649,
-    "IDcode": "NPJS-130",
-    "title": "有記錄以來最熱的一天！充滿汗水的夏日性愛故事，在東京夏日祭上邂逅穿着和服的混血美人！ ~ 水色乃亞",
+    "id": 12373,
+    "IDcode": "CAWD-721",
+    "title": "沉溺于最讨厌的课长-小坂七香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-02-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130083622663663.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240921-3/d07948dafc210a6f8f50ee9fce219d77.jpg",
     "actress": [
-      "桃咲乃亞"
+      "小坂七香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-130"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-721"
   },
   {
-    "id": 7887,
-    "IDcode": "NPJS-132",
-    "title": "九州某肌肉酒吧玩耍的女子徹底淪陷 被肌肉猛男中出SEX一夜實錄 ~ 水川蓳",
+    "id": 12257,
+    "IDcode": "CAWD-722",
+    "title": "外表看上去很正经的日向前辈-日向夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227073404284284.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240930-2/b150044d4b425eb8dd7f7a16583c22aa.jpg",
     "actress": [
-      "水川蓳"
+      "日向夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-132"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-722"
   },
   {
-    "id": 8665,
-    "IDcode": "NPJS-133",
-    "title": "[不倫調查] 衝擊... 明天結婚的女友正在經歷她最後的約會！ ？爲NTR證據而截獲的原始性愛視頻被公開 ~ 藤原真帆",
+    "id": 11638,
+    "IDcode": "CAWD-723",
+    "title": "被迫从事高收入的非法兼职-設楽ゆうひ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-02-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130084545947947.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241015-1/007ef3eef9a24b9b61bbc7f286d88e06.jpg",
     "actress": [
-      "藤原真帆"
+      "設樂夕日"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-723"
   },
   {
-    "id": 7844,
-    "IDcode": "NPJS-140",
-    "title": "狂熱粉在地下偶像演唱會後成功約炮 偷拍視頻外泄後連同事務所調教SEX一起賣了 ~ 鈴芽由羅",
+    "id": 12331,
+    "IDcode": "CAWD-726",
+    "title": "尽管我是第一次有男朋友-川上雫",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227073534534534.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240921-3/d561fa5bf2d30199a1b56d8df78007d8.jpg",
     "actress": [
-      "鈴芽由羅"
+      "川上しずく"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-140"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-726"
   },
   {
-    "id": 7882,
-    "IDcode": "NPJS-141",
-    "title": "被超霸道帥氣搭訕大師強勢追求 付了飯錢酒店錢還要被拍下性愛視頻的笨女孩 ~ 赤名いと",
+    "id": 11687,
+    "IDcode": "CAWD-729",
+    "title": "性欲旺盛的前女友-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227071931115115.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241015-1/28904a772bf026d31cbc5db108eeea37.jpg",
     "actress": [
-      "赤名いと"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-141"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-729"
   },
   {
-    "id": 7858,
-    "IDcode": "NPJS-142",
-    "title": "通過直播做愛賺了5億日元！？那個情侶色情主播的16部色色視頻流出合集 ~ 小野阪唯香",
+    "id": 13015,
+    "IDcode": "CAWD-730",
+    "title": "从与经验丰富的变态老男人的调情约会",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072212861861.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240823-1/a6be5d0cc81f2caef0d28c9f3f247227.jpg",
     "actress": [
-      "小野坂唯香"
+      "水城りん",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-142"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-730"
   },
   {
-    "id": 7866,
-    "IDcode": "NPJS-144",
-    "title": "【素人投稿】實在太想看女友被寢取 我讓朋友上了她並分享了這段鬱悶勃起視頻 ~ 雪代一鳳",
+    "id": 11659,
+    "IDcode": "CAWD-731",
+    "title": "「俺のチ●ポ舐めさせてやるよ」テク不足で彼氏に戦力外通告された幼馴染の練習台に…フェラビッチに育つまで口マ●コに中出しし放題で俺得なんですが？ 日向なつ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072443538538.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/6bee22d4/vod.jpg",
     "actress": [
-      "雪代一鳳"
+      "日向夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-144"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-731"
   },
   {
-    "id": 7845,
-    "IDcode": "NPJS-146",
-    "title": "【#INS野球女子】約橫濱的女孩看球，日本大勝後立刻逆襲開幹！ ~ 末広純",
+    "id": 10903,
+    "IDcode": "CAWD-735",
+    "title": "可愛い子にモノみたいに雑に扱われたい…見下されながら賢者タイム無視してドシャクソ抜かれまくる 日向なつ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072155259259.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/12/61c46a2563c97d96c6c994a50301452c.jpg",
     "actress": [
-      "末広純"
+      "日向夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-735"
   },
   {
-    "id": 7182,
-    "IDcode": "NPJS-148",
-    "title": "【個撮】嗨翻巨乳妻 爲了捧場牛郎賺錢跑來拍片的巨乳人妻「看錢多少生幹也行…」 ~ 若宮穗乃",
+    "id": 11639,
+    "IDcode": "CAWD-736",
+    "title": "スレンダーセラピストのエグイくびれムーブで搾り抜く生絞り100％ 中出しメンズエステ 双葉れぇな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-04-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084841393393.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/3c8132ec/vod.jpg",
     "actress": [
-      "若宮穂乃"
+      "雙葉麗奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-148"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-736"
   },
   {
-    "id": 7159,
-    "IDcode": "NPJS-153",
-    "title": "真實情人旅館女生的淫亂4P聚會流出 ~ 本田桃 久和原聖羅 真白みのり",
+    "id": 11691,
+    "IDcode": "CAWD-738",
+    "title": "我屈服于打工小恶魔的诱惑-川上雫",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-04-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084512865865.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241015-1/9db932b4dceb57e71bda130f81b37b5a.jpg",
     "actress": [
-      "本田桃",
-      "久和原聖羅",
-      "真白みのり"
+      "川上しずく"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-153"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-738"
   },
   {
-    "id": 6475,
-    "IDcode": "NPJS-154",
-    "title": "風俗小姐姐超會玩，牀上更是嗨翻天！情人旅館直接開幹婚外情 ~ 佐伯蓮加",
+    "id": 10314,
+    "IDcode": "CAWD-739",
+    "title": "看似普通的宅男朋友-設楽ゆうひ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-02",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/202505010439298888_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241212-1/26b48575a2ed92d0fc8eea2732d500b7.jpg",
     "actress": [
-      "佐伯蓮加"
+      "設樂夕日"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-154"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-739"
   },
   {
-    "id": 7189,
-    "IDcode": "NPJS-155",
-    "title": "跟拍街頭快照的巨乳美女，看多少錢她肯脫衣服多少幹@新宿 紀子醬 ~ 蘆名穗花",
+    "id": 10964,
+    "IDcode": "CAWD-740",
+    "title": "嫉妒发狂的女性朋友-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-04-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327085141321321.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241117-1/3b63e91c111e4ffab4fa5519bcefe10f.jpg",
     "actress": [
-      "蘆名穗花"
+      "伊藤舞雪",
+      "まーち"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-155"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-740"
   },
   {
-    "id": 6428,
-    "IDcode": "NPJS-157",
-    "title": "免費炮的尊嚴：給前炮友發復活咒語郵件，欲求不滿的人妻秒回瘋狂開戰 ~ 小野阪ゆいか",
+    "id": 10965,
+    "IDcode": "CAWD-741",
+    "title": "我的肛门被继父的扭曲性教育中舔舔舔",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-02",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044952149149_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241114-1/4a2265dd91dfac6e42f7fb08d0b17e42.jpg",
     "actress": [
-      "小野坂唯香"
+      "設樂夕日"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-157"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-741"
   },
   {
-    "id": 7193,
-    "IDcode": "NPJS-158",
-    "title": "匹配租賃女友YSP 幹完就丟 把約會對象拖進酒店猛攻一頓後丟棄的視頻 ~ 天馬唯",
+    "id": 11654,
+    "IDcode": "CAWD-743",
+    "title": "隔壁邻居的垃圾房间里-小坂七香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-04-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327085214725725.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241015-1/bb0598e558d6c2f39e519929bc8ec59a.jpg",
     "actress": [
-      "天馬唯"
+      "小坂七香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-158"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-743"
   },
   {
-    "id": 7196,
-    "IDcode": "NPJS-159",
-    "title": "「開香檳就給你爽」 捧場傳播妹被帶回家結果是抖S超猛變態女反殺我的那一夜 ~ 浜崎真緒",
+    "id": 10317,
+    "IDcode": "CAWD-744",
+    "title": "SEXガチ勢‘日向なつ’のいっちばんエロいプライベートSEXを覗く1ヶ月禁欲×相性抜群男優と1週間同棲×生々しいハメ撮りドキュメント",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-04-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084454436436.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/a474b798/vod.jpg",
     "actress": [
-      "浜崎真緒"
+      "日向夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-159"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-744"
   },
   {
-    "id": 67487,
-    "IDcode": "NPJS-161",
-    "title": "悪徳メンエス店長の芋づる式懲らしめ動画Vol.3 店から100万前借りして飛んだホス狂女しおん、アウト。",
+    "id": 11621,
+    "IDcode": "CAWD-746",
+    "title": "アイドルフェイスの裏に隠したもう一つの私…息苦しくてダークな世界 新人！kawaiiデビュー 桃瀬ひまり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-06",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/01/1dbf52af/vod.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/f204b780/vod.jpg",
+    "actress": [
+      "桃瀨日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-746"
+  },
+  {
+    "id": 11672,
+    "IDcode": "CAWD-747",
+    "title": "弓道の天才少女 令和の大和撫子 相坂すみれAVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/25/c3c0ec84cf85fc7f53254082109c0541.jpg",
+    "actress": [
+      "相坂すみれ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-747"
+  },
+  {
+    "id": 10299,
+    "IDcode": "CAWD-749",
+    "title": "出道7年后终于完全了解女性身体",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241217-1/8c653bb7951d68106ddcb786eb2a295d.jpg",
+    "actress": [
+      "伊藤舞雪",
+      "田渊正浩",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-749"
+  },
+  {
+    "id": 10979,
+    "IDcode": "CAWD-751",
+    "title": "泡春药的经理反复怀孕高潮-双葉れぇな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241116-1/0f3d811dc8482d4a219a4e446c794d37.jpg",
+    "actress": [
+      "雙葉麗奈",
+      "じゅうもんじ",
+      "アリト"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-751"
+  },
+  {
+    "id": 10932,
+    "IDcode": "CAWD-752",
+    "title": "川上雫的一个月禁欲指令",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241116-1/8fcd5a2ad9437dacaca6923f7815949e.jpg",
+    "actress": [
+      "川上しずく",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-752"
+  },
+  {
+    "id": 10908,
+    "IDcode": "CAWD-753",
+    "title": "想被叔叔贪婪地调教早熟的身体-桃瀬葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241116-1/0d4104cfec91f84cb82d32bdbffec8c5.jpg",
+    "actress": [
+      "桃瀨日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-753"
+  },
+  {
+    "id": 11620,
+    "IDcode": "CAWD-754",
+    "title": "ドキッとするロリ感×あざとい笑顔 見た目にそぐわない不適切なエロさがクセになる某有名店指名NO.1！超人気メイドAV転身デビュー 花乃はるひ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/25/93c40e4656726c09b80737d518c495c0.jpg",
+    "actress": [
+      "花乃春日"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-754"
+  },
+  {
+    "id": 10957,
+    "IDcode": "CAWD-755",
+    "title": "萝莉脸的最佳射精-花乃はるひ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241116-1/6c40d24061abcd0f47b6bd57a01cc11d.jpg",
+    "actress": [
+      "花乃春日",
+      "鲛岛",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-755"
+  },
+  {
+    "id": 10966,
+    "IDcode": "CAWD-756",
+    "title": "経験人数3人なのに自信満々でなんでも信じ込んじゃう超ポジティブ素人 朝日ゆうな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/13/768faf8c30a1b088d2d49fa5df67d4dd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-161"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-756"
   },
   {
-    "id": 7840,
-    "IDcode": "NPJS-163",
-    "title": "惡德按摩店長報復視頻 舉報本番跑路後被抓回來狠狠教訓 ~ 皆瀨明裏",
+    "id": 10930,
+    "IDcode": "CAWD-757",
+    "title": "身バレ絶対NGのため1本限定販売！AV男優にイカされてみたくて応募してきたドスケベGカップ保育士さんデビュー 長門りほ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/2025022707351777.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/13/fc1d3aa82d79f1766d626f19e31ce61d.jpg",
     "actress": [
-      "皆瀨明里"
+      "長門里穗"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-163"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-757"
   },
   {
-    "id": 7195,
-    "IDcode": "NPJS-164",
-    "title": "惡德按摩店長的連環懲罰視頻Vol.2 與牛郎勾結把店裏女孩轉賣他店後跑路的歌醬，完蛋 ~ 響乃詩",
+    "id": 10288,
+    "IDcode": "CAWD-758",
+    "title": "在邻居的垃圾房间里-月野江すい",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-04-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084824811811.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250124-1/4fceb442644a63920a63af941baaebca.jpg",
     "actress": [
-      "響乃詩"
+      "月野江翠"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-164"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-758"
   },
   {
-    "id": 7194,
-    "IDcode": "NPJS-165",
-    "title": "想跟某高級酒廊No.1的超正妹開幹 在高檔餐廳吃飯後酒店套房續攤，微醉甜蜜過夜中出性愛 ~ 小野阪唯香",
+    "id": 9438,
+    "IDcode": "CAWD-762",
+    "title": "和性感火辣的辣妹家教合体后-伊藤舞雪",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-04-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083107243243.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250201-1/4cf56c207a7df1eed55771412294a75f.jpg",
     "actress": [
-      "小野坂唯香"
+      "伊藤舞雪",
+      "蓝井优太"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-165"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-762"
   },
   {
-    "id": 7873,
-    "IDcode": "NPJS-166",
-    "title": "把以前交往女友的素顏、裸體和性愛全曝光 私自流出的大學生實錄 從夜間宅飲到翹課晨愛 ~ 逢月ひまり",
+    "id": 9432,
+    "IDcode": "CAWD-763",
+    "title": "比全裸更丢脸的青少年泳装模特-日向なつ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-03-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227073055760760.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250201-1/7f5296dcd49c8f3806d6b85c0eadd5d6.jpg",
     "actress": [
-      "逢月日葵"
+      "日向夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-166"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-763"
   },
   {
-    "id": 5657,
-    "IDcode": "NPJS-167",
-    "title": "街頭採訪居然被套路！節目後臺未婚人妻被助理導演搶先無套猛幹，高潮爽到滿頭大汗，極品身材人妻乳頭硬到炸裂的淫蕩畫面，行業黑幕大曝光 ~ 靜河",
+    "id": 9426,
+    "IDcode": "CAWD-764",
+    "title": "我的第一个女朋友是一个放荡的婊子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-30",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173140622622_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250201-1/93c9a62e17ceea5c79d8b647d4fd5908.jpg",
     "actress": [
-      "静河"
+      "設樂夕日",
+      "タクト",
+      "すぱいく",
+      "はるま"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-167"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-764"
   },
   {
-    "id": 6474,
-    "IDcode": "NPJS-169",
-    "title": "高身長成女學生酒店援交內射激烈中出 ~ 本田桃",
+    "id": 10284,
+    "IDcode": "CAWD-765",
+    "title": "当地火车性骚扰者-川上雫",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-02",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044005514514_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241217-1/0ad08699d502cf583524236f67c45d5b.jpg",
     "actress": [
-      "本田桃"
+      "川上しずく"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-169"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-765"
   },
   {
-    "id": 6467,
-    "IDcode": "NPJS-177",
-    "title": "約會租借女友一夜激戰隨便玩",
+    "id": 10279,
+    "IDcode": "CAWD-766",
+    "title": "超爱笑的甜美技师-桃瀬ひまり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-02",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042644537537_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241217-1/c9e394800ad2d3e7b977af4a963b2ebb.jpg",
     "actress": [
-      "藤井一夜"
+      "桃瀨日葵",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-766"
   },
   {
-    "id": 5652,
-    "IDcode": "NPJS-181",
-    "title": "肌肉猛男狂抽猛送大奶晃不停。和SNS爆紅點贊破萬的巨乳網紅線下約啪，硬到爆的肉棒開啓淫亂派對，超濃精液連射6發中出 ~ 佐山由依",
+    "id": 10337,
+    "IDcode": "CAWD-767",
+    "title": "学生过于拼命的猛烈要求-花乃はるひ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-30",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173145588588_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241217-1/4b08714afef49f9a9ed6b87d655ee5cd.jpg",
     "actress": [
-      "佐山由依"
+      "花乃春日"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-181"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-767"
   },
   {
-    "id": 3874,
-    "IDcode": "NPJS-187",
-    "title": "真實記錄偷窺屋：你家被裝了竊聽器知道嗎？ ~ 工藤百合 真白みのり 上田紗奈",
+    "id": 10298,
+    "IDcode": "CAWD-771",
+    "title": "【緊急AV発売】グラビアアイドル…それともAV女優…次世代グラビアスター 新人 天羽りりか AV DEBUT",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-08-01",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101433379379_34119_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/80a2cf7c/vod.jpg",
     "actress": [
-      "工藤百合",
-      "真白みのり",
-      "上田紗奈"
+      "天羽梨梨花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-187"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-771"
   },
   {
-    "id": 5662,
-    "IDcode": "NPJS-188",
-    "title": "下班後宅飲み狂歡，銀座OL被同事輪番上陣的瘋狂視頻 ~ 今井栞菜",
+    "id": 10324,
+    "IDcode": "CAWD-772",
+    "title": "と杭打ち騎乗位 武器はモッチモチの白柔肌とGcupおっぱい「わたし、AV女優になれますか？」あどけない童顔美少女が目をキラキラ輝かせてAVデビュー 宮瀬るか",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-30",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173136777777_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/894398e2/vod.jpg",
     "actress": [
-      "今井栞菜"
+      "宮瀨流花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-188"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-772"
   },
   {
-    "id": 5664,
-    "IDcode": "NPJS-190",
-    "title": "絕密片段外流？地下偶像的私密枕營業攝影會 ~ 結月莉亞",
+    "id": 10923,
+    "IDcode": "CAWD-773",
+    "title": "无防备的胸部和光脚让我兴奋一晚上",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-05-30",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172253513513_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241116-1/fd4468947389189bed5a662ca1b10a81.jpg",
     "actress": [
-      "結月莉亞"
+      "小坂七香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-190"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-773"
   },
   {
-    "id": 4950,
-    "IDcode": "NPJS-201",
-    "title": "自慰不夠爽 主動在X上應徵 SNS爆火絕倫大神和人妻的線下約啪實錄 ~ 美咲佳奈",
+    "id": 10292,
+    "IDcode": "CAWD-774",
+    "title": "痛みや苦しみの中にしか存在意義を見出せないkawaii史上類を見ないアブノーマルな女の子 この子、こう見えてド変態なマゾ AVデビュー 三葉やよい",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-06-27",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626033211517517_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/acf59d51/vod.jpg",
     "actress": [
-      "美咲佳奈"
+      "三葉彌生"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-201"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-774"
   },
   {
-    "id": 3141,
-    "IDcode": "NPJS-202",
-    "title": "暗黑潛入實錄 被邀請當網紅直播的男主角 ~ 工藤百合 上田紗奈",
+    "id": 10290,
+    "IDcode": "CAWD-777",
+    "title": "24歳、女起業家 AVデビュー 美白ボディと、大絶頂セックスがたまらない美人社長の1本限定AVを撮ってしまった。 一ノ瀬心菜",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-08-28",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828034858445445_69161_thumbnail.webp",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/dff5eaec/vod.jpg",
     "actress": [
-      "工藤百合",
-      "上田紗奈"
+      "一之瀨心菜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-202"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-777"
   },
   {
-    "id": 4938,
-    "IDcode": "NPJS-203",
-    "title": "全國人妻禁忌檔案＃4 35歲光彩美人釋放壓力 ～ 妃光莉",
+    "id": 9451,
+    "IDcode": "CAWD-778",
+    "title": "SNSバズリFile01 スタイル抜群！可愛くて色白スレンダーよ●こ●ダンサー・某私立有名大学・某有名よ●こ●団体所属・よ●こ●発祥の地生まれ密着取材の撮影してたら",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-06-27",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626033217128128_thumbnail.webp",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-203"
-  },
-  {
-    "id": 3890,
-    "IDcode": "NPJS-206",
-    "title": "夢想當主播的清純大學生初次下海：從爲網絡紅人的夢碎到沉迷性愛的變態小美人 ~ 神樂阪愛琉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "NAPA-JAPAN",
-    "publish_date": "2025-08-01",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101302902902_51398_thumbnail.webp",
-    "actress": [
-      "神樂坂愛琉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-206"
-  },
-  {
-    "id": 87043,
-    "IDcode": "NPL-022",
-    "title": "【FANZA独占】【配信専用】美ジョガーGet！2 素人ランニング女子 フェチハメ撮り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-06-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230709-1/abace79b4fea864192e84d2120cf5d31.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/28/88ef2adc/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPL-022"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-778"
   },
   {
-    "id": 87046,
-    "IDcode": "NPL-024",
-    "title": "【FANZA独占】【配信専用】流出！！乳首イキの天才！！超敏感で1度イキ出したらもう止まらないセフレの個人撮影動画",
+    "id": 8681,
+    "IDcode": "CAWD-780",
+    "title": "时隔8年看到妻子再次穿上制服的样子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "",
-    "publish_date": "2023-06-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230709-1/95e087b1bcebe6551032166a48aa5d58.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPL-024"
-  },
-  {
-    "id": 93571,
-    "IDcode": "NPRV-00110",
-    "title": "NPRV00110～15分もあれば必ず発射できる、おしゃぶり上手なエロ女のフェラチオvol.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/79a8b88baf04514436a1d9a85b4ef6ae.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPRV-00110"
-  },
-  {
-    "id": 77706,
-    "IDcode": "NPS-369",
-    "title": "ガチナンパ！池袋産直！ ウブかわ女子大生狙い打ち！妊娠しちゃうよぉ～！イっても止めないガン無視ピストン！合計15発射！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2019-01-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241201-1/63e0d17bb03580165bafb67cb5d82764.jpg",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250216-1/0e780748ff97b8b4bf4c70c2da77a021.jpg",
     "actress": [
-      "立花瑠莉",
-      "望月理沙",
-      "梦咲ひなみ"
+      "伊藤舞雪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-369"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-780"
   },
   {
-    "id": 87724,
-    "IDcode": "NPS-438",
-    "title": "ガチナンパ！ 絶対にイっちゃダメ！痴●イキ我慢チャレンジ！ 全身まさぐられながらも快感に「恥ずかしいっ！これ以上は止めて！もう…声も潮もガマンできない…！」",
+    "id": 8668,
+    "IDcode": "CAWD-781",
+    "title": "騒音トラブル逆上レ×プ 大音量でAVを垂れ流す隣部屋のデブオヤジに騒音に紛れ三日三晩犯●れ馬乗り種付けプレスされ続けた私… 日向なつ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-07-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230816-1/f317a0d152bd2543cca0a3f637774d3e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-438"
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/81dbd4e59255eea3b252ae36e3404eea.jpg",
+    "actress": [
+      "日向夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-781"
+  },
+  {
+    "id": 75294,
+    "IDcode": "CAWD-783",
+    "title": "隣人のゴミ部屋で異臭中年おやじに抜かずの連撃中出し39発で孕まされた制服女子の末路… 川上しずく",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/28/a07d2f7d/vod.jpg",
+    "actress": [
+      "川上しずく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-783"
+  },
+  {
+    "id": 72991,
+    "IDcode": "CAWD-785",
+    "title": "真正偶像里面的偷拍影片-天羽梨梨花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250201-1/59abc7b48fa85773e2d4374510e6464f.jpg",
+    "actress": [
+      "天羽梨梨花",
+      "鲛岛",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-785"
+  },
+  {
+    "id": 9445,
+    "IDcode": "CAWD-786",
+    "title": "榻榻米和精液的气味朦胧发育-宮瀬るか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250201-1/109e9ccc0a4fc86ad90e6b34bca68711.jpg",
+    "actress": [
+      "宮瀨流花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-786"
+  },
+  {
+    "id": 75293,
+    "IDcode": "CAWD-787",
+    "title": "泣かされるほど追い込まれたい…仄暗いヤリ部屋で骨の髄まで蹂躙マゾ調教 三葉やよい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/28/16ca635a/vod.jpg",
+    "actress": [
+      "三葉彌生"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-787"
+  },
+  {
+    "id": 75241,
+    "IDcode": "CAWD-790",
+    "title": "ヘアメイク歴2年目 メイクアップアーティスト牧野怜奈 20歳 AVデビュー kawaii裏方女子は、AV女優よりもスケベでした",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/28/a5304446/vod.jpg",
+    "actress": [
+      "牧野怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-790"
+  },
+  {
+    "id": 9440,
+    "IDcode": "CAWD-792",
+    "title": "石原青 20歳 AV DEBUT 元アイドル、今は地元で本屋バイトの一般女子 AV女優から最も遠い女子大生はAVにドストライクなカラダと感度の持ち主でした…。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/28/3b896ac8/vod.jpg",
+    "actress": [
+      "石原青",
+      "鲛岛",
+      "小田切ジュン",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-792"
+  },
+  {
+    "id": 8549,
+    "IDcode": "CAWD-793",
+    "title": "现任音乐老师茅野华AV正式出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250216-1/7b0b73ad99c7c0a07bc43f97da1d9edc.jpg",
+    "actress": [
+      "茅野華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-793"
+  },
+  {
+    "id": 9400,
+    "IDcode": "CAWD-794",
+    "title": "沉浸在只有两人的世界里的笑容-桃瀬葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250201-1/5136b4d1c437c9ddfb31cf73f3684f5a.jpg",
+    "actress": [
+      "桃瀨日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-794"
+  },
+  {
+    "id": 7842,
+    "IDcode": "CAWD-795",
+    "title": "如果想要去上大学那就怀上我的孩子吧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250323-1/46173e435845c8670afc754b29c4cc8c.jpg",
+    "actress": [
+      "宍戸里帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-795"
+  },
+  {
+    "id": 8707,
+    "IDcode": "CAWD-796",
+    "title": "隣人のゴミ部屋で異臭中年おやじに監禁調教…抜かずの連撃中出し56発で孕まされた制服女子の末路… 逢沢みゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/bf32ff69dd3af877d7151fa15b095854.jpg",
+    "actress": [
+      "逢澤美優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-796"
+  },
+  {
+    "id": 7903,
+    "IDcode": "CAWD-797",
+    "title": "被散发异味的中年大叔揉搓大奶-羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250323-1/f23cca2b486c5eb887bd537710bc8a35.jpg",
+    "actress": [
+      "羽月乃蒼",
+      "羽月乃苍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-797"
+  },
+  {
+    "id": 7906,
+    "IDcode": "CAWD-799",
+    "title": "脸上被浓稠白浊精液淹没 喘不过气的极限颜射盛宴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250323-1/8610c4cfb8d497ba10f53b2226417b2c.jpg",
+    "actress": [
+      "伊藤舞雪",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-799"
+  },
+  {
+    "id": 7865,
+    "IDcode": "CAWD-800",
+    "title": "「なつは俺の所有物なんだよ？」防犯対策で男女共同シェアハウスに入居したのに...イタい勘違い同居人が彼氏面してきて束縛ストーカー化…強●退去させたら大逆上して合鍵侵入報復レ●プ 日向なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/1234a4221dbb8cd2e7a4653bc8469026.jpg",
+    "actress": [
+      "日向夏",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-800"
+  },
+  {
+    "id": 7889,
+    "IDcode": "CAWD-801",
+    "title": "抱歉我的小穴实在是太没用了-设乐夕日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250323-1/c3df1f512acc65a6a9a2adaf13064b84.jpg",
+    "actress": [
+      "設樂夕日",
+      "コグレハルト"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-801"
   }
 ];

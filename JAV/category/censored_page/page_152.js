@@ -1,1567 +1,1592 @@
 window.PAGE_DATA = [
   {
-    "id": 81957,
-    "IDcode": "SDNT-018",
-    "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case15 エステ勤務・大友京香（仮名）30歳 東京都在住 AVデビュー 主人のためにネトラレます",
+    "id": 10998,
+    "IDcode": "DLDSS-355",
+    "title": "专攻乳头的痴女-小野夕子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "2020-02-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/1cd9dce4a312494de21590af072ab766.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241121-1/bf7a6a075344653109375d571254cec2.jpg",
     "actress": [
-      "市川润",
-      "大友京香"
+      "小野夕子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-018"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-355"
   },
   {
-    "id": 92854,
-    "IDcode": "SDSS-014",
-    "title": "SDSS014鄰家的巨乳美女大姐姐葵用我的身體來練習騎乘位完全主管性愛小野夕子。。",
+    "id": 11059,
+    "IDcode": "DLDSS-356",
+    "title": "＃性欲強い男性が好き 欲求不満の超絶倫人妻が、SNSの裏垢でチ○ポ募集して密会ママ活不倫を女友達に撮影してもらいました。 入田真綾",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "Luxury TV",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/f44efd3a63b99a87e0e089d4dcdc280d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-014"
-  },
-  {
-    "id": 92753,
-    "IDcode": "SDSS-057",
-    "title": "女教師だってガマンできない DX7",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "Luxury TV",
-    "publish_date": "2006-04-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/045007baaa7f2281f439c13467427d69.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/26/3f4321c9/vod.jpg",
     "actress": [
-      "桃宮もも",
-      "春日峰子",
-      "山口智美",
-      "藤井さやか"
+      "入田真綾",
+      "ニック",
+      "タイ",
+      "向理来",
+      "ナイアガラ翔"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-356"
   },
   {
-    "id": 92853,
-    "IDcode": "SDSS-110",
-    "title": "MEGAグラマラス 100cm Gカップ 豊田じゅんな",
+    "id": 11777,
+    "IDcode": "DLDSS-358",
+    "title": "在豪雨中湿透的日子里-峰玲子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "Luxury TV",
-    "publish_date": "2008-03-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/d75506277e14b151fbd6678de3832ff2.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241105-1/02fa475df14b1fcca075b9a18ef0267c.jpg",
     "actress": [
-      "豊田じゅんな"
+      "峰玲子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-358"
   },
   {
-    "id": 92758,
-    "IDcode": "SDSS-259",
-    "title": "SDSS259想射精了就呼叫我哦！用口交給病人最棒的關懷唾液和愛液濕潤的護士橋本有菜。。",
+    "id": 11410,
+    "IDcode": "DLDSS-360",
+    "title": "违反规定的性爱-神谷咲良",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "Luxury TV",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/0897a1fac31d89b60a2b3c179d4ea1ca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-259"
-  },
-  {
-    "id": 92755,
-    "IDcode": "SDSS-283LuxurySoap",
-    "title": "SDSS283LuxurySoap用禮貌的淫語和打樁的騎乘位款待。天使萌。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "Luxury TV",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/15f4bc4ef1cafdf71f74ee40e377fdba.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-283LuxurySoap"
-  },
-  {
-    "id": 92850,
-    "IDcode": "SDSS-376",
-    "title": "SDSS376極上快感服務！射精無限制的ASIAN回春沙龍橋本有菜。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "Luxury TV",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/4e89ce3dd6f3bdbc055ea3cdcb281f55.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-376"
-  },
-  {
-    "id": 92849,
-    "IDcode": "SDSS-408",
-    "title": "SDSS408家庭教師在學習時的耳邊淫語玩弄乳頭這樣好像會更學不進去...橋本有菜。。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "Luxury TV",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/9b14f63080d023e29af234c1e784c2c8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-408"
-  },
-  {
-    "id": 79555,
-    "IDcode": "SDTH-006",
-    "title": "喉奥でドMに豹変する 低音ボイスのむっつり上京娘 東京 板橋区 ■■商店街 看護師1年目 イラマ大好き白石なずなさん（仮名・21歳）夜勤明けに東京観光×AVデビューで中出しまで人生初体験！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2021-08-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/2326c6b778612974fb0901269c47e263.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241113-1/8910d326c46487fccdd25631b55eaeb1.jpg",
     "actress": [
+      "神谷咲良",
+      "小田切ジュン",
+      "えいおき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-360"
+  },
+  {
+    "id": 8383,
+    "IDcode": "DLDSS-361",
+    "title": "将要被降职，心烦意乱叫了援交服务发泄。来的居然是那位巨乳社长秘书！自从，她被我胁迫，那张冷熬的脸只能撅着屁股等着我操 ~ 朝海汐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250714-2/2c47a1d556391f21c2a9f8561286e8ed.webp",
+    "actress": [
+      "朝海汐",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-361"
+  },
+  {
+    "id": 10805,
+    "IDcode": "DLDSS-362",
+    "title": "当你遇到衣着巨乳-朝海汐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241228-1/48a0794d3cf01683d3d3f238cee48397.jpg",
+    "actress": [
+      "朝海汐",
+      "鲛岛",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-362"
+  },
+  {
+    "id": 11007,
+    "IDcode": "DLDSS-364",
+    "title": "「ヤリモク×」なアラサー婚活女子の愚痴を聞いてあげたら滅茶苦茶セックスできた。 峰玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/b99a8466/vod.jpg",
+    "actress": [
+      "峰玲子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-364"
+  },
+  {
+    "id": 10340,
+    "IDcode": "DLDSS-365",
+    "title": "母から父を奪った愛人から大人の唾液キスとマン汁中出し誘惑接吻中出し同時性交 蒼山愛奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/cb61ff88/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-365"
+  },
+  {
+    "id": 10524,
+    "IDcode": "DLDSS-367",
+    "title": "元有名巨乳コスプレイヤーさんは、結婚して人妻になったけど週末だけオフパコOK撮影会で回されまくってストレス解消する変態さんです。 入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/db46f714/vod.jpg",
+    "actress": [
+      "入田真綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-367"
+  },
+  {
+    "id": 10385,
+    "IDcode": "DLDSS-368",
+    "title": "没有丈夫的午后-小野夕子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241221-1/97b2aab6d0db143318749efa0fa7ae36.jpg",
+    "actress": [
+      "小野夕子",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-368"
+  },
+  {
+    "id": 10398,
+    "IDcode": "DLDSS-369",
+    "title": "巨乳美妻下海替夫还债-美乃雀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241221-1/36e5192c6f4849b11bc6f76d9dd86fb6.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-369"
+  },
+  {
+    "id": 10360,
+    "IDcode": "DLDSS-370",
+    "title": "うっかりTバックで市民プールに来たママはナンパを断れず旦那に内緒で即ズボバックピストン 峰玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/23/e77a2acfe660a807d0185fe1889bfe31.jpg",
+    "actress": [
+      "峰玲子",
+      "輝大"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-370"
+  },
+  {
+    "id": 10946,
+    "IDcode": "DLDSS-371",
+    "title": "初恋是朋友他妈-小沢菜穗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241206-1/bfdb6e167ab3edc52be70cf8ac796da7.jpg",
+    "actress": [
+      "小沢菜穂",
+      "アリト"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-371"
+  },
+  {
+    "id": 10053,
+    "IDcode": "DLDSS-372",
+    "title": "夫の親友の濃厚ベロキスに理性を忘れ求め合う不倫性交 接吻NTR 朝海汐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/12/6754ed10ddc9791dadc25897f2f4845a.jpg",
+    "actress": [
+      "朝海汐"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-372"
+  },
+  {
+    "id": 9599,
+    "IDcode": "DLDSS-374",
+    "title": "デリヘル呼んだら毎日通う弁当屋の美人店員さんと遭遇「お得意様だから特別に…」と本番をサービスしてくれて店外でも肉欲を満たし合う仲に 峰玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/b4335e887637ef6f25ecee5f3435f4d9.jpg",
+    "actress": [
+      "峰玲子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-374"
+  },
+  {
+    "id": 9640,
+    "IDcode": "DLDSS-375",
+    "title": "汗だくデカ尻家事代行お姉さん女人禁制！でせわしなく働き揺れ動く汗濡れ下半身ラインに勃起するとこっそり抜いてくれるらしい… 小野夕子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/071bc5ea8ca67d5f3bdb87d157edaea5.jpg",
+    "actress": [
+      "小野夕子",
       "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-375"
   },
   {
-    "id": 67580,
-    "IDcode": "SDTH-017",
-    "title": "エゴマゾ変態ぽちゃ巨乳は首絞めエッチでストレス発散 昼はベビーシッター 子供の笑顔が大好きだけどお酒とHはもっと好き 東京都江戸川区 ■■商店街 シッター3年目七瀬乃愛(仮名・23歳) 仕事終わりに中出しシ放題 AVデビュー",
+    "id": 10116,
+    "IDcode": "DLDSS-379",
+    "title": "20年ぶりの同窓会で最低のゲス男だけどカラダの相性抜群だった元カレと再会…。 小沢菜穂",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "2022-06-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250423-1/9f9eeeb69a7595fecba871ed942a0519.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/e9fb09b3/vod.jpg",
     "actress": [
-      "七瀬乃愛"
+      "小沢菜穂"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-017"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-379"
   },
   {
-    "id": 86249,
-    "IDcode": "SDTH-024",
-    "title": "これで見納め!?某ショークラブダンサー・愛咲きららクン「最後は思いっきりシたい!」SEXしたくて、有名になりたくてAVに来たザーメン大好きメチャエロ素人ギャルクン!最後は青空の下でSEXもしちゃってエロ詰め込みまくりザーメン出しきり3本番!",
+    "id": 7300,
+    "IDcode": "DLDSS-381",
+    "title": "謊稱出差過夜… 公司I杯巨乳後輩與我的首次私拍溫泉偷情約會 ~ 朝海汐",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "SOD",
-    "publish_date": "2022-08-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/f58085c66130dd094c563762822d8e3d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-024"
-  },
-  {
-    "id": 67194,
-    "IDcode": "SDTH-027",
-    "title": "スーツを脱いだらメス丸出し。アクメまでがチョロい早漏デカ尻ヤリマン姉さん。 東京都新宿区■■百貨店・宝石販売員 出し尽くすまで潮を吹く遠山まきさん(仮名・28歳)仕事終わりに1週間密着AVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2022-09-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250414-1/8a12a60872d570eb79acb67a117cfacf.jpg",
-    "actress": [
-      "遠山まき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-027"
-  },
-  {
-    "id": 107570,
-    "IDcode": "SDTH-037",
-    "title": "大量中出しの翌日も元気に出社♪ 東京都新宿区■■駅南口でよく路上ライブしている会社員とシンガーソングライター二足の草鞋を履く夏花さん(仮名・21歳) 痙攣ビクビク!感極まってナマ挿入をおねだりし、初めての中出しをしてしまった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2023-04-20",
-    "cover_url": "https://tutu1.space/images/2023/05/17/7e4b9d3bc3b12ff746f616a547d51549.jpg",
-    "actress": [
-      "夏花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-037"
-  },
-  {
-    "id": 2372,
-    "IDcode": "SDTH-042",
-    "title": "嘴裏含着精液慢慢品味！羣馬最溫柔的吞精素人小妹初登場 ~ 園田すい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2025-09-29",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250930/20250930223124950950_46569_thumbnail.webp",
-    "actress": [
-      "園田すい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-042"
-  },
-  {
-    "id": 5096,
-    "IDcode": "SDZS-005",
-    "title": "軟體妊娠啦啦隊 美尻編 ~ 涼宮るな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "豊彥",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622051736544544_thumbnail.webp",
-    "actress": [
-      "涼宮るな",
-      "伊吹ちな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDZS-005"
-  },
-  {
-    "id": 81575,
-    "IDcode": "SE-158",
-    "title": "素人援交生中出し 158",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2013-06-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/911e28a219691b307f5de9c72385215c.jpg",
-    "actress": [
-      "矢部ひまり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SE-158"
-  },
-  {
-    "id": 83212,
-    "IDcode": "SENN-002",
-    "title": "美人看護師が痴女になって患者の性癖分析するために密着中出し性交！ 大浦真奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2019-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/f4bdcf557c3d173fe87ca89fdbf08d45.jpg",
-    "actress": [
-      "大浦真奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-002"
-  },
-  {
-    "id": 83213,
-    "IDcode": "SENN-003",
-    "title": "爆乳看護師が不妊で悩む既婚男性患者を治療するために中出し性交 三島奈津子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2019-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/22f1f3e39586b3c7b6db49ff01346a92.jpg",
-    "actress": [
-      "三岛奈津子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-003"
-  },
-  {
-    "id": 83214,
-    "IDcode": "SENN-004",
-    "title": "ベテラン看護師が患者の命を救うために中出し性交！家族が見守る中、即フェラ、即ハメ騎乗位で懸命に腰を振り続ける！ 水谷あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2019-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/e44d6556109ddd0d1a0a0dba91f0f735.jpg",
-    "actress": [
-      "水谷あおい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-004"
-  },
-  {
-    "id": 83220,
-    "IDcode": "SENN-008",
-    "title": "綺麗な美尻の看護師さんのお尻を揉みっぱなしで治療が受けられる尻フェチ特化性交！ 黒川すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2020-01-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/de99fcd83f88b8c5a4bfab8c3b5f9c04.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-008"
-  },
-  {
-    "id": 83370,
-    "IDcode": "SENN-009",
-    "title": "騎乗位特化性交 蓮実看護師 蓮実クレア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2020-02-18",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/805116d26d590759ec924ee358089312.jpg",
-    "actress": [
-      "蓮実クレア"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-009"
-  },
-  {
-    "id": 82029,
-    "IDcode": "SENN-012",
-    "title": "アマゾネス second episode",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2020-03-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/3a784f1078d156d90bf9f4c28fb865dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-012"
-  },
-  {
-    "id": 69018,
-    "IDcode": "SENN-019",
-    "title": "お受験ママが勉強に集中できなくなったショタ息子に性教育 通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2020-07-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250409-1/af701285d0891be66462ee9129c6eb51.jpg",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SENN-019"
-  },
-  {
-    "id": 65016,
-    "IDcode": "SEON",
-    "title": "偷拍露出臀部的野身姿的女生12名300分-有贺美奈穗。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240811-1/47d5a1251c0562b22132554377682a9a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEON"
-  },
-  {
-    "id": 95105,
-    "IDcode": "SERO-170",
-    "title": "入国審査で脱がされた女子大生 愛沢有紗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2013-03-22",
-    "cover_url": "https://tutu1.space/images/2024/11/17/dd143753aef7c14141833098e4937f6e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-170"
-  },
-  {
-    "id": 94265,
-    "IDcode": "SETM-024",
-    "title": "スタンガン感電ショック003",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-08-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/24c1a3df5adbf1f5c2c2ddbb3025b2db.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-024"
-  },
-  {
-    "id": 94244,
-    "IDcode": "SETM-028",
-    "title": "カップル○襲催○ガスNTR記録映像集4組284分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-07-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/a0e04f134c0ebb7243b513aee9216f90.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-028"
-  },
-  {
-    "id": 13879,
-    "IDcode": "SETM-029",
-    "title": "入院前健康檢查 ~ 望実かなえ 甘井くるみ 空野きら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-07-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240618/6664cc96-83ac-454d-8f38-d2c0396a7e05.jpg",
-    "actress": [
-      "甘井くるみ",
-      "望実かなえ",
-      "空野きら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-029"
-  },
-  {
-    "id": 94270,
-    "IDcode": "SETM-030",
-    "title": "カップル〇襲 催〇ガスNTR記録映像集4組246分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SOD",
-    "publish_date": "2024-08-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/b9bb17196da276227fc2574885db74b4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-030"
-  },
-  {
-    "id": 14063,
-    "IDcode": "SEVEN-001",
-    "title": "我的淫蕩色情體驗......在海濱別墅遇到了一個可愛淫蕩的GAL店員，在女友洗澡的時候她偷偷摸摸地約我出去 ~ 乙愛麗絲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "BOTAN",
-    "publish_date": "2024-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035802546546.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEVEN-001"
-  },
-  {
-    "id": 12900,
-    "IDcode": "SEVEN-002",
-    "title": "夏日裏的愛麗絲。我初戀的情感色情物語..... ~ 乙愛麗絲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "BOTAN",
-    "publish_date": "2024-09-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240804/20240804223444110110.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEVEN-002"
-  },
-  {
-    "id": 13507,
-    "IDcode": "SEVEN-003",
-    "title": "我的幸運約炮體驗，在約炮APP上約了位咖啡店的美女店員，做愛後才發現她是個性變態 ~ 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "BOTAN",
-    "publish_date": "2024-08-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240707/202407070351276161.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEVEN-003"
-  },
-  {
-    "id": 11120,
-    "IDcode": "SEVEN-007",
-    "title": "婚禮上遇到的非常色情的婚外故事 ~ 波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "BOTAN",
-    "publish_date": "2024-11-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20241020/202410202224538282.jpg",
-    "actress": [
-      "波多野结衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEVEN-007"
-  },
-  {
-    "id": 64150,
-    "IDcode": "SEX-28",
-    "title": "【租借阿姨】只要求她就可以偷偷中出SEX28-花井滴。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240830-1/06b9546553f52cc93c2b05c848188006.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEX-28"
-  },
-  {
-    "id": 64149,
-    "IDcode": "SEX-29",
-    "title": "【租借阿姨】只要求她就可以偷偷中出SEX29-広瀬结香。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240830-1/33b4733314cad731e7966e54c4b0c656.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEX-29"
-  },
-  {
-    "id": 92375,
-    "IDcode": "SEX-5",
-    "title": "实录东京人妻乱交SEX5时间W中出·颜射·鬼…。昆士松格列兹14组！-未知演员。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240822-1/b8ba6c5b7103424ae2b722d6e475fe91.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEX-5"
-  },
-  {
-    "id": 92355,
-    "IDcode": "SEXVOL",
-    "title": "熟女的花心是真心的.68-白川圣子。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240816-1/7cd5e13d1c27f3eff02cc37821fb65ef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SEXVOL"
-  },
-  {
-    "id": 60027,
-    "IDcode": "SFCG-002",
-    "title": "【FANZA限定】素人とパコパコ 訳あり アウトレット シングルマザー 薫子 パンティとチェキ付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MILK",
-    "publish_date": "2025-09-17",
-    "cover_url": "https://tutu1.space/images/2025/09/28/831e55d0f39de70f34a16bfe99b37be8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SFCG-002"
-  },
-  {
-    "id": 89371,
-    "IDcode": "SG-002",
-    "title": "芸能人 素人ひろ●えりょう●生中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MILK",
-    "publish_date": "2010-04-15",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/f92b7722bd520a7cdd1e6f242b894d3b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SG-002"
-  },
-  {
-    "id": 88222,
-    "IDcode": "SGA-025",
-    "title": "ド変態過ぎる元CA人妻 葵千恵 32歳 AVデビュー 70歳の旦那と毎日セックス＋αセフレ3人と日替わりでセックスしても欲求不満な性豪人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MILK",
-    "publish_date": "2015-05-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/a9515b23d7ef710f622944b7da2c004e.jpg",
-    "actress": [
-      "葵千恵",
-      "森林原人",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-025"
-  },
-  {
-    "id": 88220,
-    "IDcode": "SGA-026",
-    "title": "逸材過ぎる才色兼備人妻 坂口れな 27歳 AVデビュー 「自分の知らないアブノーマルな世界を覗いてみたい…」 AVとは無縁な老舗料亭若女将が…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MILK",
-    "publish_date": "2015-06-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/442bd6a6930c244bcec5620f6f766c01.jpg",
-    "actress": [
-      "小田切ジュン",
-      "坂口れな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-026"
-  },
-  {
-    "id": 74445,
-    "IDcode": "SGA-134",
-    "title": "最高の愛人と、最高の中出し性交。 48 極上美尻超エロボディ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MILK",
-    "publish_date": "2019-10-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241228-1/582f8cbf0defc2a86293716b5277f33c.jpg",
-    "actress": [
-      "橋本怜奈",
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-134"
-  },
-  {
-    "id": 70776,
-    "IDcode": "SGA-136",
-    "title": "最高の愛人と、最高の中出し性交。 50 極上猥尻くびれボディ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MILK",
-    "publish_date": "2019-11-29",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/4c7789a3c8ced8e750c84591aeb4feb1.jpg",
-    "actress": [
-      "森林原人"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-136"
-  },
-  {
-    "id": 75045,
-    "IDcode": "SGA-138",
-    "title": "最高の愛人と、最高の中出し性交。 52 絶頂する度キスを求めるGカップスレンダー＆グラマラス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MILK",
-    "publish_date": "2020-01-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241228-1/3e07b62b30b673ad207f21a09c91154a.jpg",
-    "actress": [
-      "藤森里穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-138"
-  },
-  {
-    "id": 16566,
-    "IDcode": "SGKI-010",
-    "title": "性犯罪根除治療診”女獄警M（已婚）對性欲異常犯罪進行冷漠指導",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-02-22",
-    "cover_url": "https://picture.yoshiclub.xyz/20240128/996e1d89-f01a-40ff-a75d-4225c10007d5.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-010"
-  },
-  {
-    "id": 14563,
-    "IDcode": "SGKI-020",
-    "title": "新中野高專 A Team 觸手部 - 由認真的技術學院女孩創造的神奇改造的觸手 ~ 九井珠奈緒 響乃詩 長谷川禮奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-06-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240520/20240520205155960960.jpg",
-    "actress": [
-      "九井珠奈緒",
-      "響乃詩",
-      "長谷川礼奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-020"
-  },
-  {
-    "id": 14047,
-    "IDcode": "SGKI-021",
-    "title": "瘋狂！目間新聞「ON AIR直播時表情不變」，3年經驗的超職業主持人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-07-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240611/20240611001548674674.jpg",
-    "actress": [
-      "月乃露娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-021"
-  },
-  {
-    "id": 13883,
-    "IDcode": "SGKI-022",
-    "title": "謝謝你們久等了。這是一家微笑咖啡館，咖啡館的工作人員在服務顧客時，無論做什麼，臉上總是掛着微笑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-07-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240618/20240618002835320320.jpg",
-    "actress": [
-      "前田美波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-022"
-  },
-  {
-    "id": 13253,
-    "IDcode": "SGKI-023",
-    "title": "人氣女優熱線電話：人生相談 ~ 月乃露娜 倉本菫 長谷川禮奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2023-11-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20240718/c3962a35-0cff-474f-a4af-71b4163c230a.jpg",
-    "actress": [
-      "倉本菫",
-      "月乃露娜",
-      "長谷川礼奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-023"
-  },
-  {
-    "id": 13415,
-    "IDcode": "SGKI-024",
-    "title": "瘋狂的目間新聞：主持新聞直播中永遠不要改變你的表情 電臺播音員，3年工作經驗帶來的專業意識 ~ 尾崎惠梨香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2023-12-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20240711/a7bac1ec-8dfa-43fb-b8e5-5e9ea7872911.jpg",
-    "actress": [
-      "尾崎惠梨香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-024"
-  },
-  {
-    "id": 12744,
-    "IDcode": "SGKI-026",
-    "title": "不動的話代表自願哦。友人不客氣的就把大雞巴插入了排球女將的身體",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-08-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20240812/dd256e4a-0526-42e3-a697-6bc71d3531ee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-026"
-  },
-  {
-    "id": 10347,
-    "IDcode": "SGKI-028",
-    "title": "滿頭大汗的女熱浪治療師，即使在桑拿房被插入後仍繼續用毛巾擡頭看着你 ~ 綾瀨心 森澤佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-07-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20241127/c3771647-4f2e-4540-8a91-82a42553a9c0.jpg",
-    "actress": [
-      "森澤佳奈",
-      "绫濑心"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-028"
-  },
-  {
-    "id": 11074,
-    "IDcode": "SGKI-032",
-    "title": "太瘋狂了！播報實時新聞時，絕對不允許表情有任何變化 - 新聞臺播音員×天氣解說員高潮SP ~ 天馬唯 森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20241025/47fd856e-eb5c-4c1e-8f90-819f02f47576.jpg",
-    "actress": [
-      "天馬唯",
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-032"
-  },
-  {
-    "id": 10379,
-    "IDcode": "SGKI-034",
-    "title": "2024年度新中野高專 觸手運動會 ~ 水原みその 天月梓 綾瀨心",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20241125/302c37a2-9e59-48d6-9cf8-a3a83f6f1641.jpg",
-    "actress": [
-      "天月梓",
-      "绫濑心",
-      "水原みその"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-034"
-  },
-  {
-    "id": 10378,
-    "IDcode": "SGKI-035",
-    "title": "我想被大人狠狠的操 ~ 九井珠奈緒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-12-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20241125/52c132cf-866e-4f80-b4e4-714c93783f50.jpg",
-    "actress": [
-      "九井珠奈緒"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-035"
-  },
-  {
-    "id": 10384,
-    "IDcode": "SGKI-036",
-    "title": "請心情享受蒸汽浴！ 女熱波師在桑拿房被操的滿頭大汗仰起頭看着你 ~ 逢月ひまり 美園和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2024-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241125/9b82c832-293c-4a88-9d3a-58f3cba2aaab.jpg",
-    "actress": [
-      "美園和花",
-      "逢月日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-036"
-  },
-  {
-    "id": 9654,
-    "IDcode": "SGKI-039",
-    "title": "街頭促銷的玩偶實際上是巨乳美女，無論怎麼弄她，她都毫無反應。 ~ 小阪ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2025-01-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20241223/70a5d3fd-9f99-46f5-bdbf-84263cb30620.jpg",
-    "actress": [
-      "小坂ひまり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-039"
-  },
-  {
-    "id": 9653,
-    "IDcode": "SGKI-045",
-    "title": "奇怪的證件攝影間，聽說只要貼着這邊的照片報完名就一定可以過。準備高考的高中女生無論如何都要在拍照的時候保持笑容 ~ 乙愛麗絲 天馬唯 沙月惠奈 小那海綾 椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2025-01-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20241223/20241223034739480480.jpg",
-    "actress": [
-      "天馬唯",
-      "乙愛麗絲",
-      "椿莉香",
-      "沙月惠奈",
-      "小那海綾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-045"
-  },
-  {
-    "id": 7418,
-    "IDcode": "SGKI-046",
-    "title": "上班女被時間靜止強制交尾，隨心所欲變身成人偶 ~ 小阪ひまり 菊池まや 羽月乃蒼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "SHIGEKI",
+    "company": "DAHLIA",
     "publish_date": "2025-04-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320054212581581.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20250323/20250323220924865865.jpg",
     "actress": [
-      "羽月乃蒼",
-      "小坂ひまり",
-      "桃木結愛"
+      "朝海汐",
+      "向理来"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-046"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-381"
   },
   {
-    "id": 6660,
-    "IDcode": "SGKI-050",
-    "title": "人氣AV女優大挑戰！在街頭攤位被搞到高潮還得賣熱狗 ~ 天馬唯 赤名いと",
+    "id": 9459,
+    "IDcode": "DLDSS-382",
+    "title": "出張先で長年一緒に働く女子社員と相部屋。「お前だけとは無いわ…」と冗談を言い合っていた関係なのにセックスしたら最高すぎた。 小沢菜穂",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2025-04-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/20250421073819888888_thumbnail.webp",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/c73264e8/vod.jpg",
     "actress": [
-      "天馬唯",
-      "赤名いと"
+      "小沢菜穂"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-382"
   },
   {
-    "id": 5951,
-    "IDcode": "SGKI-054",
-    "title": "拍張照就能穩過面試的活塞振動拍照亭2：求職女大學生被猛衝也不失笑容 ~ 月乃露娜 小阪ひまり 森澤佳奈 羽月乃蒼",
+    "id": 9189,
+    "IDcode": "DLDSS-383",
+    "title": "婚礼NTR-入田真绫",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2025-05-16",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522020750109109_thumbnail.webp",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250216-1/ab453eeaff58339e15a268961a453c32.jpg",
     "actress": [
-      "森澤佳奈",
-      "羽月乃蒼",
-      "小坂ひまり",
-      "月乃露娜"
+      "入田真綾"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-054"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-383"
   },
   {
-    "id": 5262,
-    "IDcode": "SGKI-055",
-    "title": "2025年7月大災難也不怕！忍住高潮的防災訓練：極端生存神技 ~ 出演女優：都月楓",
+    "id": 8727,
+    "IDcode": "DLDSS-384",
+    "title": "地味OLの私は潮を吹かされる淫らな指マンにハマりました。 峰玲子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "SHIGEKI",
-    "publish_date": "2025-06-16",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617091148634634_thumbnail.webp",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/b4ad9928e7e7e2f5c746f5579446c487.jpg",
     "actress": [
-      "都月楓"
+      "峰玲子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-055"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-384"
   },
   {
-    "id": 94246,
-    "IDcode": "SGKX-036",
-    "title": "ギャルすたグラム♯022【GAL数珠つなぎドキュメント】",
+    "id": 8763,
+    "IDcode": "DLDSS-385",
+    "title": "帅气按摩师与巨乳人妻的纯爱性事",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MILK",
-    "publish_date": "2024-05-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/f214a99db9af4c1173880f4434af6410.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250218-1/3ae24f8955d7001c74c74fdc75cb513a.jpg",
+    "actress": [
+      "小野夕子",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-385"
+  },
+  {
+    "id": 9896,
+    "IDcode": "DLDSS-386",
+    "title": "10歳離れた新入社員の童貞クンを、焦らしシャブりまくりで暴発しまくりの筆下ろし休日デート。 入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/8466288f/vod.jpg",
+    "actress": [
+      "入田真綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-386"
+  },
+  {
+    "id": 8598,
+    "IDcode": "DLDSS-387",
+    "title": "禁欲中的敏感阴道内大量射精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250315-1/9ba00a281773830184b504a4e7ba6b23.jpg",
+    "actress": [
+      "小沢菜穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-387"
+  },
+  {
+    "id": 8127,
+    "IDcode": "DLDSS-388",
+    "title": "向保险女业务员暗示签约-峰玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250424-1/255223b560f74e38910d7acc76f57ac0.jpg",
+    "actress": [
+      "峰玲子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-388"
+  },
+  {
+    "id": 9504,
+    "IDcode": "DLDSS-389",
+    "title": "好友被妻子反向NTR中出-美乃雀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250131-1/1628f5d7fc0c178b6cdbf1ad9d889c44.jpg",
+    "actress": [
+      "美乃雀",
+      "ナイアガラ翔"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-389"
+  },
+  {
+    "id": 8032,
+    "IDcode": "DLDSS-390",
+    "title": "G奶高颜值人妻为了替丈夫赎罪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250420-1/de6d8be769e2726ec3d98b5f08212fb2.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-390"
+  },
+  {
+    "id": 7386,
+    "IDcode": "DLDSS-391",
+    "title": "某有名ハンバーガー店で働き始めた巨乳人妻と、チャラいヤリチン大学生バイト君の歳の差セクハラ不倫映像が流出してます。 入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/dc5baab249c09dab9a7ff805ab02401e.jpg",
+    "actress": [
+      "入田真綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-391"
+  },
+  {
+    "id": 7214,
+    "IDcode": "DLDSS-392",
+    "title": "发现未婚夫出轨后纵情性爱的放荡社长",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250420-1/5e4e46862913623da5491fc739916390.jpg",
+    "actress": [
+      "美乃雀",
+      "左慈半造",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-392"
+  },
+  {
+    "id": 7504,
+    "IDcode": "DLDSS-393",
+    "title": "以她压倒性的风格迷住了男人心-角奈保",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250420-1/6d3c076f2b1d7464944420a8ac652f05.jpg",
+    "actress": [
+      "仁藤沙耶香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-393"
+  },
+  {
+    "id": 7661,
+    "IDcode": "DLDSS-394",
+    "title": "夫の愚痴を聞いてくれる上司と欲求不満が解消するまで唾液を絡ませ求め合った接吻中出し性交 小沢菜穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/d3ca2b5fcd31add674670ade95e7635a.jpg",
+    "actress": [
+      "小沢菜穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-394"
+  },
+  {
+    "id": 8394,
+    "IDcode": "DLDSS-395",
+    "title": "H罩杯巨乳AV女优租借-入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250315-1/553f79be65658e2a67ad1e5d7323426c.jpg",
+    "actress": [
+      "入田真綾"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-395"
+  },
+  {
+    "id": 8794,
+    "IDcode": "DLDSS-396",
+    "title": "オナニーを見られた向かい部屋の人妻は旦那に内緒で中出しオナホに堕とされた 美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/89e3ae63b5ca8c4d8123fa7f08239be2.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-396"
+  },
+  {
+    "id": 6976,
+    "IDcode": "DLDSS-397",
+    "title": "级美女首次无套内射解禁做爱SPECIAL",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250506-1/80f9cf8689e877ce8fe579ffa48093eb.jpg",
+    "actress": [
+      "仁藤沙耶香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-397"
+  },
+  {
+    "id": 7092,
+    "IDcode": "DLDSS-398",
+    "title": "3个月禁欲后的性欲解放-三葉ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250507-1/e1aefa6be136fd7d30ed447fe59869ba.jpg",
+    "actress": [
+      "三葉千春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-398"
+  },
+  {
+    "id": 6587,
+    "IDcode": "DLDSS-399",
+    "title": "大奶人妻上司美乃雀小姐与新人部下蓝井的监禁play",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250512-1/419f00dac4d09cf3ae70a64001074c19.jpg",
+    "actress": [
+      "美乃雀",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-399"
+  },
+  {
+    "id": 6718,
+    "IDcode": "DLDSS-400",
+    "title": "长途飞行结束的空姐在阴道高潮隔离房间内被连续内射32发不拔出-入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250624-1/8b1da0a22e21c55d028d70da76733ca4.jpg",
+    "actress": [
+      "入田真綾",
+      "鲛岛",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-400"
+  },
+  {
+    "id": 5830,
+    "IDcode": "DLDSS-402",
+    "title": "会社では地味な巨乳OLとおっパブで遭遇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250601-1/4982453dd49d830bac88dc4108fad674.jpg",
+    "actress": [
+      "朝海汐",
+      "七尾神"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-402"
+  },
+  {
+    "id": 5299,
+    "IDcode": "DLDSS-403",
+    "title": "长腿御姐被肏到颤抖抽搐-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250710-2/babcf153c1744c341152a8c7785556c9.jpg",
+    "actress": [
+      "美乃雀",
+      "鲛岛",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-403"
+  },
+  {
+    "id": 6419,
+    "IDcode": "DLDSS-404",
+    "title": "短发巨乳人妻欲求不满趁老公不在家找男人中出-角奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250624-1/e28231c55ce6f978ea4aaab0bf21d1ae.jpg",
+    "actress": [
+      "仁藤沙耶香",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-404"
+  },
+  {
+    "id": 5370,
+    "IDcode": "DLDSS-405",
+    "title": "妻の居ない週末、妻の親友の誘惑に負けて、舌を絡ませ跨りイキ狂う腰遣いに何度も、何度も、中出しをしてしまったボク。 三葉ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250620-1/3378565e10e4d98ab871a6fe7f13d023.jpg",
+    "actress": [
+      "三葉千春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-405"
+  },
+  {
+    "id": 4889,
+    "IDcode": "DLDSS-406",
+    "title": "無自覚にこぼれるIcupおっぱい 貧乳彼女の姉が爆乳すぎて理性崩壊、むしゃぶりハメ狂ってしまった僕。 朝海汐",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/17e17d5f057f26f639a6909b6d358c77.jpg",
+    "actress": [
+      "朝海汐"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-406"
+  },
+  {
+    "id": 6086,
+    "IDcode": "DLDSS-407",
+    "title": "巨乳人妻入田真綾在夏祭狂欢会上被尽情NTR中出-入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250801-1/fa9fad1a2223985eb42d87de2b9ebe32.jpg",
+    "actress": [
+      "入田真綾",
+      "タクト"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-407"
+  },
+  {
+    "id": 6228,
+    "IDcode": "DLDSS-408",
+    "title": "错过末班车住在女上司家-小沢菜穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250710-2/ba5ada54af66e0381bf48c15199fcdda.jpg",
+    "actress": [
+      "小沢菜穂",
+      "左慈半造"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-408"
+  },
+  {
+    "id": 4679,
+    "IDcode": "DLDSS-409",
+    "title": "高颜值好身材大胸人妻想要小孩但是丈夫性无能-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250727-1/1de3b369eaa2992ac9ac428a3d912843.jpg",
+    "actress": [
+      "美乃雀",
+      "羽田貴史"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-409"
+  },
+  {
+    "id": 5123,
+    "IDcode": "DLDSS-410",
+    "title": "公司男职员们与赤裸上身变身顽皮逆兔女郎啪啪-角奈保",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250816-1/f7e3d8ecc414576bd57c8c7735a10740.jpg",
+    "actress": [
+      "仁藤沙耶香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-410"
+  },
+  {
+    "id": 4465,
+    "IDcode": "DLDSS-411",
+    "title": "被太过膨胀的港区辣妹搞到被纯情系女大学生下药的復仇影像-三叶千春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250816-1/b2c80fb2256e6483c15d6d0cad50d1e8.jpg",
+    "actress": [
+      "三葉千春",
+      "三叶千春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-411"
+  },
+  {
+    "id": 4927,
+    "IDcode": "DLDSS-413",
+    "title": "在小型超市充满亲切感的假小子姐姐因隐藏巨乳被发现-入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250816-1/a865bc98b790d54c8bd84b37ad7817ba.jpg",
+    "actress": [
+      "入田真綾",
+      "ナイアガラ翔"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-413"
+  },
+  {
+    "id": 5458,
+    "IDcode": "DLDSS-414",
+    "title": "性感美人妻被邻居家猥琐老头的大鸡巴弄得欲仙欲死-小沢菜穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250723-1/8aafcb252fd4c8f2f36eb75fba101e3b.jpg",
+    "actress": [
+      "小沢菜穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-414"
+  },
+  {
+    "id": 5608,
+    "IDcode": "DLDSS-415",
+    "title": "禁欲三个月后解除限制性欲释放-善場まみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250806-1/47ed854c80553051cda79eb5a36183b9.jpg",
+    "actress": [
+      "善場麻美",
+      "鲛岛",
+      "羽田貴史"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-415"
+  },
+  {
+    "id": 4690,
+    "IDcode": "DLDSS-416",
+    "title": "終電を逃してキス魔の後輩と相部屋…彼女がいるのに我を忘れて朝まで舌を絡ませ腰を振り中出しし続けた。 善場まみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250712-1/2d94d8edd2c38821cded16ee36bdc8f1.jpg",
+    "actress": [
+      "善場麻美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-416"
+  },
+  {
+    "id": 4256,
+    "IDcode": "DLDSS-417",
+    "title": "欲求不满的短发大奶人妻角奈保只听主人的话-角奈保",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/25/1ab545b3/vod.jpg",
+    "actress": [
+      "仁藤沙耶香",
+      "コグレハルト"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-417"
+  },
+  {
+    "id": 3951,
+    "IDcode": "DLDSS-419",
+    "title": "巨乳老婆交换温泉打发无聊时间-美乃すずめ 角奈保",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/18/f7936bae/vod.jpg",
+    "actress": [
+      "美乃雀",
+      "仁藤沙耶香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-419"
+  },
+  {
+    "id": 4198,
+    "IDcode": "DLDSS-420",
+    "title": "工作中被老板塞入跳蛋远程自慰高潮边缘控制-入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/e8071a71/vod.jpg",
+    "actress": [
+      "入田真綾",
+      "青沼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-420"
+  },
+  {
+    "id": 4084,
+    "IDcode": "DLDSS-421",
+    "title": "【喪服キメセクNTR】亡くなった旦那の親友と葬式前夜に不謹慎なSEXでチ。 小沢菜穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/db71d64c0936364f5f70d9b60b460294.jpg",
+    "actress": [
+      "小沢菜穂",
+      "ラヴズ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-421"
+  },
+  {
+    "id": 3711,
+    "IDcode": "DLDSS-422",
+    "title": "工場勤務の隠れ巨乳の地味メガネ女子と遊び半分でSEXしたら実はド淫乱でイキ狂。 善場まみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/6a7af646f240b2782448634c7ac79183.jpg",
+    "actress": [
+      "善場麻美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-422"
+  },
+  {
+    "id": 4000,
+    "IDcode": "DLDSS-423",
+    "title": "你懂我吗前女演员现经营沙龙的梅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/c0be7896/vod.jpg",
+    "actress": [
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-423"
+  },
+  {
+    "id": 3086,
+    "IDcode": "DLDSS-424",
+    "title": "PtoM不倫スイートルームで終わらない絶倫チ○ポ食べ放題 発情人妻のランジェリーと、下品なフェラと小沢菜穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/c3fe665c/vod.jpg",
+    "actress": [
+      "小沢菜穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-424"
+  },
+  {
+    "id": 3741,
+    "IDcode": "DLDSS-425",
+    "title": "和最棒的老婆第一次真实的怀孕中出-三叶千春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/4378068e/vod.jpg",
+    "actress": [
+      "三葉千春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-425"
+  },
+  {
+    "id": 3112,
+    "IDcode": "DLDSS-426",
+    "title": "权力骚扰和性骚扰听话的反向兔子妻子在公司旅行中羞耻暴露-入田真綾",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/04/4a9cf16b826748cf78f6e101b10aae00.jpg",
+    "actress": [
+      "入田真綾",
+      "青沼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-426"
+  },
+  {
+    "id": 3061,
+    "IDcode": "DLDSS-427",
+    "title": "与淫靡白皙美人共赴温泉旅行性欲全开受孕全记录-糸矢めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/07/2b62c303e47714ed45c55a9bfa0c516c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKX-036"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-427"
   },
   {
-    "id": 13736,
-    "IDcode": "SGKX-037",
-    "title": "素人路上搭訕後被帶入酒店狂操",
+    "id": 2950,
+    "IDcode": "DLDSS-428",
+    "title": "在秘密账号上猎捕M男的淫荡人妻-美乃すずめ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MILK",
-    "publish_date": "2024-06-29",
-    "cover_url": "https://picture.yoshiclub.xyz/20240624/4e91b149-8a5f-4c35-a814-331bf3626e38.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/5587bc81/vod.jpg",
     "actress": [
-      "鳳可怜"
+      "美乃雀",
+      "日森一",
+      "七尾神"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKX-037"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-428"
   },
   {
-    "id": 82027,
-    "IDcode": "SGM-014",
-    "title": "人妻捕鯨船 水着の三十路美熟女 大量潮吹きドキュメント 川上ゆう",
+    "id": 2951,
+    "IDcode": "DLDSS-429",
+    "title": "人生初次的大乱交Special-三叶千春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MILK",
-    "publish_date": "2019-06-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/0ae3b729a34dcc559a07bb5db83a80a9.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/09663f01/vod.jpg",
     "actress": [
-      "川上優"
+      "三葉千春",
+      "ラヴズ",
+      "鲛岛"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-429"
   },
   {
-    "id": 83827,
-    "IDcode": "SGM-027",
-    "title": "新・麗しの熟女湯屋 濃厚ねっとり高級ソープ 小野さち子",
+    "id": 2425,
+    "IDcode": "DLDSS-430",
+    "title": "「だって…パパさんの事が好きな性癖なんだもん。」娘達の担任保育士さんの誘惑不倫でチ○ポは狂わされ、寝取られました。 善場まみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MILK",
-    "publish_date": "2020-02-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221231-1/b2c351337cd6c7e8c8689adf9340bb4b.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/a54d7e8d/vod.jpg",
     "actress": [
-      "小野さち子"
+      "善場麻美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-027"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-430"
   },
   {
-    "id": 60314,
-    "IDcode": "SGM-060",
-    "title": "翔田千里デビュー20周年記念特別作品 熟年不倫妻 歳を重ねて増した性欲を持て余す助平で淫らな人妻 中高年同士の濃厚交尾と若い燕を誘惑して満たす激しいセックス【写真集連動企画】ハメ撮り動画＋メイキング＆オフショットムービー収録！！ 翔田千里",
+    "id": 2399,
+    "IDcode": "DLDSS-431",
+    "title": "欲求不満をママさんバレーで解消する人妻と練習後にひたすら汗だく不倫セックス 角奈保",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MILK",
-    "publish_date": "2025-09-23",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/af8ff750/vod.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/05/585739854e377aec02387094713f3bd3.jpg",
     "actress": [
-      "翔田千里"
+      "仁藤沙耶香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGM-060"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-431"
   },
   {
-    "id": 95902,
-    "IDcode": "SGOR-022",
-    "title": "ダメ男にイライラするほど欲情しちゃう天然ドS女/宇佐美唯",
+    "id": 2556,
+    "IDcode": "DLDSS-432",
+    "title": "下半身穿着性感丝袜的骚护士-入田真綾",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MILK",
-    "publish_date": "2024-10-30",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/08/05ea336a/vod.jpg",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/de996f27/vod.jpg",
     "actress": [
-      "宇佐美唯"
+      "入田真綾"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGOR-022"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-432"
   },
   {
-    "id": 70774,
-    "IDcode": "SGSR-223",
-    "title": "お酒のシーズン到来！！ ずっと気になってた可愛い同僚女子社員を酔わせて理性吹っ飛び濃厚SEX 12人4時間",
+    "id": 2294,
+    "IDcode": "DLDSS-435",
+    "title": "「大丈夫？おっぱい揉む？」落ち込みチ〇ポを巨乳と甘々淫語でとろっとろに励ま 小花のん",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "Big Morkal",
-    "publish_date": "2018-11-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/635fcd954d1ae3e8b08510ac45142cbf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-223"
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/af8f3e22/vod.jpg",
+    "actress": [
+      "小花暖"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-435"
   },
   {
-    "id": 70821,
-    "IDcode": "SGSR-235",
-    "title": "撮影後も勝手に、勃起チ●コ見て潮吹きオナニーしまくるくらい、ドスケベなお姉さんたちが、生マ●コを見た事がない童貞オタク男子たちを筆下ろししまくる 濃密14人BEST 4時間",
+    "id": 2376,
+    "IDcode": "DLDSS-436",
+    "title": "バクハツアクメ 美乃すずめ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "Big Morkal",
-    "publish_date": "2019-05-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/3e6230c4f9c33551b56a31b306cca027.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-235"
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/9619d2c2/vod.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-436"
   },
   {
-    "id": 82031,
-    "IDcode": "SGSR-250",
-    "title": "ナンパされたエッチな素人女性たち 厳選鉄板人妻セレクション 4時間",
+    "id": 173769,
+    "IDcode": "DLDSS-437",
+    "title": "妊娠中の妻にこっそり隠れて行った人妻デリヘルで義母と遭遇！ 小沢菜穂",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "Big Morkal",
-    "publish_date": "2020-01-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/12d121ad4103a46b9feae6a9a3b75d5a.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/04/65c8ee0c/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-250"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-437"
   },
   {
-    "id": 94269,
-    "IDcode": "SGSR-352",
-    "title": "リアルモニタリング実験 半年以上SEXする暇もない人妻看護師に 深夜の入院病棟で押しに弱そうな人妻限定でエッチをお願いしてみたら…その結果がコレ 超絶エロい化学反応！！スペシャル4時間12人",
+    "id": 2357,
+    "IDcode": "DLDSS-438",
+    "title": "神乳素人！？ 圧倒的なスタイルで男を虜にするショートカット美女 角奈保",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "Big Morkal",
-    "publish_date": "2024-06-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/b3fba97044c8b68178b0219144644386.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-352"
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/05/1fcdf723aa9d4f661f97d4da67d7b829.jpg",
+    "actress": [
+      "糸矢芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-438"
   },
   {
-    "id": 94267,
-    "IDcode": "SGSR-353",
-    "title": "街角シロウト母娘ちゃんねる 死ぬほどはずかしい体験です。不倫に欲情した母に娘の嫉妬が大爆発！ガチエグ親子丼SEX 4時間 10組",
+    "id": 174203,
+    "IDcode": "DLDSS-439",
+    "title": "人が良すぎる福祉課職員、訪問先ゴミ部屋住人の中出しを受け入れ続けて泡だく 角奈保",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "Big Morkal",
-    "publish_date": "2024-06-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/8685a6dfe357995413611b3127df8da8.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/30/56b5c8381f1cd8a21648b182d1100bb8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGSR-353"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-439"
   },
   {
-    "id": 81276,
-    "IDcode": "SH-015",
-    "title": "naked truth 和泉ありさ",
+    "id": 176290,
+    "IDcode": "DLDSS-440",
+    "title": "妻の大親友がナイトプールで逆NTR『脱いだらモデル級のビキニ姿に- 三葉ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/21/55625b91/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-440"
+  },
+  {
+    "id": 173259,
+    "IDcode": "DLDSS-441",
+    "title": "退職代行の実績No1の善場さんが、ブラック企業から罵倒されまくり号泣失禁お漏らし。 善場まみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/06/2b6417db/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-441"
+  },
+  {
+    "id": 174734,
+    "IDcode": "DLDSS-442",
+    "title": "ムチムチBODY極映えハミ出し水着肉感アングルオナニーサポート 愛生らん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/02/31b246ba09e27990ea0e1ef4f50a9cd9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-442"
+  },
+  {
+    "id": 173434,
+    "IDcode": "DLDSS-447",
+    "title": "コンドーム３枚で絶倫おじさん達の精子からあなたの卵子守ってください 三葉ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/07/dc6d949e/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-447"
+  },
+  {
+    "id": 170776,
+    "IDcode": "DLDSS219",
+    "title": "パート帰り相部屋NTR夫の愚痴を聞いてくれる後輩と性欲解消するまでヤリまくった絶倫性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20250521-1/2c11b7258ba7b49e8c0a41c782fa9a41.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS219"
+  },
+  {
+    "id": 170777,
+    "IDcode": "DLDSS223",
+    "title": "令和で一番エロい学園祭！廃校寸前の学校で逆バニー·逆レースクイーン·逆チャイナ·逆ナース",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20250521-1/9cfc00d159fea1c693eb0c584ce94b41.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS223"
+  },
+  {
+    "id": 170704,
+    "IDcode": "DLDSS242",
+    "title": "絶倫の童貞大学生宅にコンドームを一つだけ渡された友田彩也香が一泊したら…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250521-1/e59eed54bee9c4fce28d0f2e5878f498.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS242"
+  },
+  {
+    "id": 170705,
+    "IDcode": "DLDSS247",
+    "title": "濡れて、乱れて、イキ果てる…性欲剥き出しハメまくり一泊二日温泉旅行デート",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250521-1/1fd53c34cf01e4a2f3774c2345ec4f7c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS247"
+  },
+  {
+    "id": 170713,
+    "IDcode": "DLDSS255",
+    "title": "新人教師には、あるまじき性欲西園寺うたAVデビュー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250521-1/dceef6d75b2262b3794892cc985010a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS255"
+  },
+  {
+    "id": 170707,
+    "IDcode": "DLDSS276",
+    "title": "禁欲させて性欲覚醒はじめての生ハメ大絶頂中に中出し解禁ドキュメント",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250521-1/67c38365367acc75a0af90d9271d1a0b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS276"
+  },
+  {
+    "id": 170706,
+    "IDcode": "DLDSS297",
+    "title": "実家暮らしの私、実はグラドルをしながら38年引きこもり兄の性欲処理をしています。峰玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250521-1/c6efbe57ab33cc91b0ea2af2ee58447f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS297"
+  },
+  {
+    "id": 74760,
+    "IDcode": "DLIS-014",
+    "title": "発情娘に種付生ハメ！ド変態覚醒イクイクOL 星あめり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
     "company": "TMA",
-    "publish_date": "2006-09-29",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220914-1/71c5d951b7e7971b9ac0a71b101632fa.jpg",
-    "actress": [
-      "和泉ありさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SH-015"
+    "publish_date": "2019-07-29",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250101-1/2d45e7c0fa9bab0416fe05745c08981c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLIS-014"
   },
   {
-    "id": 88218,
-    "IDcode": "SHE-475",
-    "title": "淫らな人妻との温泉中出しの旅 平穏な毎日に不満があるわけではないがどこか物足りない。もう一度だけときめきを感じたくて女は見知らぬ男に抱かれる… 4",
+    "id": 216441,
+    "IDcode": "dlpn-015",
+    "title": "潮吹-保奈美さん",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2017-10-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/6f8f5fb93fd9196a277d2bb643825029.jpg",
-    "actress": [
-      "希咲彩",
-      "原千草",
-      "大冢れん",
-      "篠田优"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHE-475"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/07/8b6d90bcee6f064c3af8c84c21e6c27b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=dlpn-015"
   },
   {
-    "id": 13028,
-    "IDcode": "SHF-003",
-    "title": "最高的愛人，最高的中出性交 Vol.74",
+    "id": 88615,
+    "IDcode": "DLPN-019",
+    "title": "我想念你的嘴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/11/557240d30d90e7ca4765b8b5acb3923d.jpg",
+    "actress": [
+      "白雪麻衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-019"
+  },
+  {
+    "id": 88629,
+    "IDcode": "DLPN-020",
+    "title": "变态的国君愿望",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/11/0ae53c043ede4fcdc6d780ce072c1b7d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-020"
+  },
+  {
+    "id": 84367,
+    "IDcode": "DLPN-023",
+    "title": "巨乳美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/13/1f0597c01882ebaaf62985f635eb34f9.jpg",
+    "actress": [
+      "莲美柚香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-023"
+  },
+  {
+    "id": 68942,
+    "IDcode": "DLPN-024",
+    "title": "欲求不満",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/17/726e477c96f3241cfa1d089df0d9185f.jpg",
+    "actress": [
+      "永野司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-024"
+  },
+  {
+    "id": 88631,
+    "IDcode": "DLPN-026",
+    "title": "「對屁股有些自豪」搖晃肉感出眾的豐滿大臀，沉溺在性慾之中的卑猥人妻 美月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-3/9bad65262b0885b8bf21287cd61d337c.webp",
+    "actress": [
+      "美月",
+      "弥生美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-026"
+  },
+  {
+    "id": 88630,
+    "IDcode": "DLPN-027",
+    "title": "S级身材和大奶子的妻子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/4dec1b39d51f3580a2c80885d99b226c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-027"
+  },
+  {
+    "id": 88611,
+    "IDcode": "DLPN-028",
+    "title": "茂密的阴毛-爱乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/78c4bbbde46980d3220e805551224614.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-028"
+  },
+  {
+    "id": 101112,
+    "IDcode": "DLPN-030",
+    "title": "优雅的脸庞-末広純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240116-1/729f9fb62496d2a9f8a619561caf2caa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-030"
+  },
+  {
+    "id": 182778,
+    "IDcode": "DLPN-034",
+    "title": "「出すなら言ってよ！！」不意打ち口内発射！フェラチオ中にいきなり射精されちゃう素人妻たち",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/d6fb5f2c/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLPN-034"
+  },
+  {
+    "id": 3623,
+    "IDcode": "DLV-005",
+    "title": "新・絶対的美少女、お貸しします。 ACT.121 中森ななみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
     "company": "蚊香社",
-    "publish_date": "2024-08-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20240801/5b214664-248d-4638-9988-1d3336726617.jpg",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/19/c08c9612/vod.jpg",
+    "actress": [
+      "中森七海"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-005"
+  },
+  {
+    "id": 194970,
+    "IDcode": "DLY-007",
+    "title": "新闻发布会上赔罪道歉的女OL社员在全国观众面前被干",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250710-1/4f4cf69bcaa95b7ef31f3703787ed64d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHF-003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLY-007"
   },
   {
-    "id": 12697,
-    "IDcode": "SHF-004",
-    "title": "最高的愛人和最高的中出性愛。Vol. 75",
+    "id": 82963,
+    "IDcode": "DMAT-185",
+    "title": "声の出せない状況で、生徒の親に犯●れた熟女教師",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "2024-08-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20240815/7ecfdd66-70ea-41aa-8905-83c1f340ee83.jpg",
+    "company": "TMA",
+    "publish_date": "2019-12-20",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221204-1/106206373be66703249a2a02a3968960.jpg",
     "actress": [
-      "橘日向"
+      "岩下たろう"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHF-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMAT-185"
   },
   {
-    "id": 8894,
-    "IDcode": "SHF-005",
-    "title": "最高的愛人，最高的中出性交 Vol.76",
+    "id": 212687,
+    "IDcode": "dmat-194",
+    "title": "一个兄弟目睹他的妹妹在手淫",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "蚊香社",
-    "publish_date": "2025-01-23",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/7790d6ec-a6c3-4360-9e8f-abfc28e927a9.jpg",
-    "actress": [
-      "小野坂唯香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHF-005"
-  },
-  {
-    "id": 94268,
-    "IDcode": "SHIC-298",
-    "title": "変態思春期娘と乱交9人4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "思春期.com",
-    "publish_date": "2024-05-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/31f55d4ed43fff038e1cd98d3f5f2294.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/08/09/b94e11caf0fefc96d971b7d2eb6d1418.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIC-298"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=dmat-194"
   },
   {
-    "id": 94218,
-    "IDcode": "SHIC-299",
-    "title": "今夜、お隣の娘さんは一人でお留守番中です… ゆめ",
+    "id": 170003,
+    "IDcode": "DMAT185",
+    "title": "声の出せない状況で、生徒の親に犯●れた熟女教師(乱伦).",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "思春期.com",
-    "publish_date": "2024-06-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/9baf3d957fc918f2c463fe6b132614af.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20241224-1/621c16e092ce4c16d0c80723eab88533.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIC-299"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMAT185"
   },
   {
-    "id": 60190,
-    "IDcode": "SHIC-317",
-    "title": "口内発射 お口にいっぱい出して欲しいの…14人4時間",
+    "id": 80589,
+    "IDcode": "DMDG-052",
+    "title": "マゾ乳中出し 美波もも",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "思春期.com",
-    "publish_date": "2025-09-30",
-    "cover_url": "https://tutu1.space/images/2025/10/05/f5892024e4a960828191ffc26ccf979a.jpg",
+    "company": "Gain Corporation",
+    "publish_date": "2022-02-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/b23de284ed48cecee2474a585f375cc9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIC-317"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-052"
   },
   {
-    "id": 94247,
-    "IDcode": "SHIND-081",
-    "title": "粘着ストーカーMの再会・自宅侵入記録＃113・114",
+    "id": 10530,
+    "IDcode": "DMDG-057",
+    "title": "マゾ乳中出し Mカップ 吉根ゆりあ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-06-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/50eed24650c779d689b7403ab7ea84eb.jpg",
+    "company": "Gain Corporation",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/24/78e6e0b0/vod.jpg",
     "actress": [
-      "木下日葵"
+      "吉根柚莉爱"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIND-081"
-  },
-  {
-    "id": 94245,
-    "IDcode": "SHIND-085",
-    "title": "粘着ス●●カーMの追跡・自宅侵入記録＃115・116",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-08-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/1426ebf89326e664813fa556634ae5e9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIND-085"
-  },
-  {
-    "id": 13032,
-    "IDcode": "SHIND-086",
-    "title": "酒店犯罪集團 5 ~女客房服務員被無恥行爲摧毀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-08-01",
-    "cover_url": "https://picture.yoshiclub.xyz/20240801/03739b03-39ac-46e3-871f-b10dd07f11a2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIND-086"
-  },
-  {
-    "id": 95425,
-    "IDcode": "SHIND-091",
-    "title": "粘着ス●●カーMの追跡・自宅●禁記録＃117・118",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-11-07",
-    "cover_url": "https://tutu1.space/images/2025/09/27/334304d6697f11412d387a01dfa0c69b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIND-091"
-  },
-  {
-    "id": 66598,
-    "IDcode": "SHIND-100",
-    "title": "色狂い隠撮魔Wの二人同時パパ活記録＃57・58",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2025-06-12",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/f9fa5ad2/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHIND-100"
-  },
-  {
-    "id": 99648,
-    "IDcode": "SHKD-405",
-    "title": "女子大生就活レイプ 私の涙とひきかえに…。 叶えたい夢の代償-。 大沢美加",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2010-04-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd405/shkd405pl.jpg",
-    "actress": [
-      "大沢美加"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-405"
-  },
-  {
-    "id": 99552,
-    "IDcode": "SHKD-428",
-    "title": "ミスキャンパス 私はあなたに逆らえない…2 鈴音りおな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2010-12-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd428/shkd428pl.jpg",
-    "actress": [
-      "铃音りおな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-428"
-  },
-  {
-    "id": 103249,
-    "IDcode": "SHKD-431",
-    "title": "キチクリンカン93",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-01-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd431/shkd431pl.jpg",
-    "actress": [
-      "桃夏凛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-431"
-  },
-  {
-    "id": 99137,
-    "IDcode": "SHKD-432",
-    "title": "元サッカー部マネージャー 同窓会で再会したマドンナを犯したい！ 春咲あずみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-01-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd432/shkd432pl.jpg",
-    "actress": [
-      "春咲和津实"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-432"
-  },
-  {
-    "id": 88198,
-    "IDcode": "SHKD-454",
-    "title": "キチクリンカン100",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2011-10-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/3c9ccf1edcb373462fafd4ca7e2e44a8.jpg",
-    "actress": [
-      "今井ひろの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-454"
-  },
-  {
-    "id": 77234,
-    "IDcode": "SHKD-530",
-    "title": "被虐の家庭教師6 KAORI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2014-01-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/cbf0fe4c8c7ee8d9cc4c17647ae198b5.jpg",
-    "actress": [
-      "桃田香織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-530"
-  },
-  {
-    "id": 77232,
-    "IDcode": "SHKD-532",
-    "title": "學生妹監禁凌辱 鬼畜輪姦 110 佳苗瑠華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2014-01-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/4f373a29e21e2d4355eb0f2aa1352ba0.jpg",
-    "actress": [
-      "佳苗瑠華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-532"
-  },
-  {
-    "id": 79771,
-    "IDcode": "SHKD-583",
-    "title": "女教師 暴虐的放課後 立花美涼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2014-12-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d1261ad65f16db2f17cd5826ff468f82.jpg",
-    "actress": [
-      "立花美涼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-583"
-  },
-  {
-    "id": 97797,
-    "IDcode": "SHKD-662",
-    "title": "まだまだ犯し足りない女 初美沙希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2016-01-07",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd662/shkd662pl.jpg",
-    "actress": [
-      "しずく"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-662"
-  },
-  {
-    "id": 88223,
-    "IDcode": "SHKD-710",
-    "title": "午後三時の団地妻 白石すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2016-09-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/ae60415da67cb8a311e7c8260a1f4b06.jpg",
-    "actress": [
-      "白石すみれ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-710"
-  },
-  {
-    "id": 61678,
-    "IDcode": "SHKD-737",
-    "title": "脫獄者 松下紗栄子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2017-04-25",
-    "cover_url": "https://tutu1.space/images/2023/05/16/7958d46dbd6abb9ad627286f2ddb9148.jpg",
-    "actress": [
-      "松下纱栄子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-737"
-  },
-  {
-    "id": 19534,
-    "IDcode": "shkd-744",
-    "title": "銷售經理的濕連褲襪 小泉彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2017-05-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20230408/813a5ce4-d85e-40f1-aa79-d1aedb065db6.jpg",
-    "actress": [
-      "小泉彩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=shkd-744"
-  },
-  {
-    "id": 73344,
-    "IDcode": "SHKD-753",
-    "title": "お尻の穴まで犯されて…。 西田カリナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2017-07-25",
-    "cover_url": "https://tutu1.space/images/2025/01/27/4b72b16f7c9c22ef663209ae5d18789a.jpg",
-    "actress": [
-      "西田卡莉娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-753"
-  },
-  {
-    "id": 106275,
-    "IDcode": "SHKD-769",
-    "title": "高飛車女社長 下克上輪姦 希島あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2017-11-25",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd769/shkd769pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-769"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMDG-057"
   }
 ];

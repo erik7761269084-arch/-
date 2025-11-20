@@ -1,1717 +1,1594 @@
 window.PAGE_DATA = [
   {
-    "id": 79436,
-    "IDcode": "HUNTB-082",
-    "title": "本日実習生として来て頂いたのは「接客業」や「介護士」や「キャリアウーマン」になるのが目標の、笑顔がとっても素敵な女子生徒さんたちです。最初…",
+    "id": 80639,
+    "IDcode": "ADN-372",
+    "title": "挫折和诱惑着我-夏目彩春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-08-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/2d1439c4740079c8f46ce8138f35a49d.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/10/0159c3784f66befb3f78a794f5d8a0fd.jpg",
+    "actress": [
+      "夏目彩春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-372"
+  },
+  {
+    "id": 80632,
+    "IDcode": "ADN-373",
+    "title": "我心爱的妻子有外遇-日下部加奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/10/708f6d00a6944792c570eea371bd9dc0.jpg",
+    "actress": [
+      "日下部加奈",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-373"
+  },
+  {
+    "id": 80608,
+    "IDcode": "ADN-374",
+    "title": "妻子不在的时候-伊賀まこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/10/a7dfecc83438d50a9a6ba1d6347c19eb.jpg",
+    "actress": [
+      "イセドン内村",
+      "伊贺まこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-374"
+  },
+  {
+    "id": 216147,
+    "IDcode": "adn-375",
+    "title": "遠距離恋愛中-希島あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/15/11987faa72bb4e6acf492c322a6acba1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-082"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=adn-375"
   },
   {
-    "id": 79435,
-    "IDcode": "HUNTB-083",
-    "title": "兄嫁のスケスケワンピースがエロ過ぎる件 受験のために兄夫婦の家に居候したら兄嫁のノーブラスケスケワンピースがエロ過ぎて目のやり場に困る！",
+    "id": 80635,
+    "IDcode": "ADN-376",
+    "title": "当着丈夫面被强奸-希代あみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-08-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/c3ad3600e7f3ec608a87cff28afea6ec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-083"
-  },
-  {
-    "id": 79530,
-    "IDcode": "HUNTB-104",
-    "title": "「勉強を教えてくれたら、代わりにエッチなこと教えてあげる」ヤリマンすぎて成績が壊滅的な義妹と、勉強命で童貞のボクとの交換条件付き個人授業。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-09-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/4131120bd6ab98ddfd838f0481cd5f20.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-104"
-  },
-  {
-    "id": 79656,
-    "IDcode": "HUNTB-105",
-    "title": "「ゴメンなさい…！イッちゃいます！」出張先で相部屋になった傲慢後輩女子社員が帯拘束ピストンで汗だく謝りイキ！ボクのミスで出張中の宿が後輩女子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-09-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/49f3cb8bf8657469ac265e52781df453.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/15/00466f483a6f62b6ac73cbae84acbeba.jpg",
     "actress": [
-      "星仲ここみ",
-      "宇佐美雪",
-      "爱须みのん",
-      "生田みく"
+      "希志亞美",
+      "大岛丈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-105"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-376"
   },
   {
-    "id": 84823,
-    "IDcode": "HUNTB-143",
-    "title": "お尻のパンティラインが丸分かりのタイトワンピに超絶フル勃起！！2 ご近所さんはみんな薄手のタイトワンピなので、お尻のラインが強調されて丸わかり",
+    "id": 80611,
+    "IDcode": "ADN-377",
+    "title": "姐夫的肉欲-水谷心音",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-11-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/83765bbfd17b4bbfa19d258475b58471.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/02/15/d85ca5a70941afbfa477429e9daa5d2d.jpg",
     "actress": [
-      "桃井杏南",
-      "弥生美月",
-      "白鸟すわん"
+      "水谷心音",
+      "蓝井优太"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-143"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-377"
   },
   {
-    "id": 80060,
-    "IDcode": "HUNTB-146",
-    "title": "『私のおっぱいで良ければいくらでも見せてあげるから…』姉の巨乳をオカズに何度もぶっかけまくり！連日ぶっかけまくる絶倫弟に発情した姉もチ○ポを",
+    "id": 80997,
+    "IDcode": "ADN-378",
+    "title": "女上司-夏目彩春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-11-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/0058ccc7f4899a5531da3145d8cc0304.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/10/4bc3ef4837353d860e28c48d9c1746ba.jpg",
     "actress": [
-      "乙愛麗絲",
-      "椎叶みくる"
+      "夏目彩春"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-378"
   },
   {
-    "id": 84813,
-    "IDcode": "HUNTB-151",
-    "title": "どこへでもドア「キャー、エッチ！何でここにいるの！？早く出てってよ！」そのドアを使うとどこへでも行けるんです！そしてどこででもイケるんです！",
+    "id": 81004,
+    "IDcode": "ADN-379",
+    "title": "欲求不満-日下部加奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-11-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/4e218a010395cbbe9b58f4ee34c30153.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/13/9d46e84ad6beb6f98898b33b10f1fe41.jpg",
     "actress": [
-      "天馬唯",
-      "椿莉香",
-      "泉莉音",
-      "葵玲奈"
+      "日下部加奈",
+      "蓝井优太"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-151"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-379"
   },
   {
-    "id": 80062,
-    "IDcode": "HUNTB-152",
-    "title": "『あっダメ！激しく突いたらバレちゃう…』義妹がロングスカートの中でこっそり即ハメ要求！親の目の前でバレずにドキドキのこっそり連続イキ！超仲の",
+    "id": 81003,
+    "IDcode": "ADN-380",
+    "title": "和一个医学生做爱-伊賀まこ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-11-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/18883f45a83dc8fb6163fc13c3f3e4b6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-152"
-  },
-  {
-    "id": 84833,
-    "IDcode": "HUNTB-166",
-    "title": "『ダメ…バレちゃうよ！』自宅でテレワーク中の姉の格好がエロ過ぎ！上はスーツで下は下着姿！仕事中で声が出せない姉にエッチなイタズラを続けたら…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-12-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/ec01596b3f0d2f549b5e892cf319fc6a.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/13/84892f91ce32ceb8b780eacefbb44f57.jpg",
     "actress": [
-      "乃木遥",
-      "今井まい",
-      "河西乃爱"
+      "小田切ジュン",
+      "伊贺まこ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-166"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-380"
   },
   {
-    "id": 84834,
-    "IDcode": "HUNTB-170",
-    "title": "スライムの様に柔らかくて大き過ぎる妹の胸に我慢できずに揉んでしまった件。ボクには巨乳過ぎる妹がいます！触れたら想像以上に柔らかく大興奮！",
+    "id": 80998,
+    "IDcode": "ADN-381",
+    "title": "求我和她做爱-明里つむぎ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-12-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/1356d9a6e96a14408441404a8d137245.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/09/798e3edd967c7008bbf05f829731f998.jpg",
     "actress": [
-      "椿莉香"
+      "明里䌷"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-170"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-381"
   },
   {
-    "id": 84817,
-    "IDcode": "HUNTB-173",
-    "title": "仲良し姉妹は彼氏もセフレもチ○ポも精子も何でもシェア！妹がSEXしていたら姉を、姉がSEXしていたら妹を呼んで仲良く3Pするんです！勃起…",
+    "id": 59967,
+    "IDcode": "ADN-382",
+    "title": "亲爱的妻子-二宮ひかり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2021-12-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/09c0cac1f340bfe7a48d5b66c469f52c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-173"
-  },
-  {
-    "id": 84812,
-    "IDcode": "HUNTB-198",
-    "title": "帰宅後30秒で『お帰り』からの即挿入！ボクの家が問題児女子生徒のたまり場になってしまい次々と教え子相手にハメまくり！中出ししまくり！教師で…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-02-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/688958fb165d39451a75dc54ac822535.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/13/1b307b8cb8451850570af585f7a8664f.jpg",
     "actress": [
-      "皆月光",
-      "爱须みのん",
-      "高梨有纱"
+      "イセドン内村",
+      "二宫ひかり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-382"
   },
   {
-    "id": 80662,
-    "IDcode": "HUNTB-199",
-    "title": "「覚えてる？昨日は嬉しかったよ！」朝起きたら部屋に下着姿の同期女子社員！2 いつも口うるさくてケンカばかりしている同期女子社員が甘えてきた…",
+    "id": 59966,
+    "IDcode": "ADN-383",
+    "title": "和他做爱的故事-篠田ゆう",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-02-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/e6d1981b47b45980a471ee3422621c35.jpg",
-    "actress": [
-      "泉莉音",
-      "高瀬りな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-199"
-  },
-  {
-    "id": 80658,
-    "IDcode": "HUNTB-202",
-    "title": "『エッチしたいんでしょう？』元ヤリマンの血が騒ぐ！弟のデカ過ぎる勃起チ○ポを見た義姉が即尺＆即ハメ！バキュームマ○コで強烈ピストン！何度も…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-02-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/d93523d04f7ce7b086ac5c4dd9587965.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/13/ce37448ef8dbc39674c9085d1838b8e2.jpg",
     "actress": [
       "白川柚子",
-      "凉南佳奈",
-      "白鸟すわん",
-      "凉美ほのか"
+      "篠田优"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-202"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-383"
   },
   {
-    "id": 80661,
-    "IDcode": "HUNTB-203",
-    "title": "「姉ちゃんって意外と胸デカイんだな…」ガテン系の姉が仕事終わりに作業着を脱いだら汗でインナーが貼り付いていて胸の形が丸わかり！思わずガン見…",
+    "id": 81009,
+    "IDcode": "ADN-384",
+    "title": "老年婚姻的隐患-広瀬りおな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-02-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/99d1416c9cede7af75c114a91816acd4.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/13/c48d0287ffdecb2c122663459ebe0254.jpg",
     "actress": [
-      "神无月れな"
+      "廣瀨里緒菜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-203"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-384"
   },
   {
-    "id": 80251,
-    "IDcode": "HUNTB-207",
-    "title": "男子校に通う冴えないボクだけど家に帰れば5人の義姉妹たちと毎日ヤリまくりのハーレム生活！学校の友達には絶対言えないボクの秘密。それは家に…",
+    "id": 106643,
+    "IDcode": "ADN-388",
+    "title": "女上班族-三宮つばき",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-02-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3196ccda4bcd99406026f567ac883870.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/04/12/1ed55f7d9b85d66c37da7a5e4e9b1784.jpg",
     "actress": [
-      "白川柚子",
-      "凉南佳奈",
-      "水谷あおい",
-      "宫崎リン"
+      "三宫つばき"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-207"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-388"
   },
   {
-    "id": 80925,
-    "IDcode": "HUNTB-213",
-    "title": "「おち○ちん触ってると落ち着く…」幼い頃からボクの股間を触ると落ち着く姉が、大人になった今でも不安なことがあると触ってくる。ボクが拒否して…",
+    "id": 106582,
+    "IDcode": "ADN-394",
+    "title": "培训经理-二宮ひかり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-02-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/bf90b088caaf338676975783482ab98f.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/05/15/3701eec8629c936d35a1cc10c5cffc0b.jpg",
     "actress": [
-      "高瀬りな",
-      "星仲ここみ",
-      "爱须みのん"
+      "二宫ひかり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-213"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-394"
   },
   {
-    "id": 80926,
-    "IDcode": "HUNTB-214",
-    "title": "「触って確かめてください！私の胸って人より大きいですよね？」周りからエロい目でジロジロ見られ、巨乳なのが恥ずかしくて不登校になった女生徒の…",
+    "id": 67085,
+    "IDcode": "ADN-396",
+    "title": "密室接吻社長室-白峰ミウ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-02-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/030fb6092fe76579a091c4a8b2e7087c.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/05/18/e8674cb0f5d03d2ff1c964badf17017d.jpg",
     "actress": [
-      "初爱ねんね",
-      "今井まい"
+      "白峰美羽"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-214"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-396"
   },
   {
-    "id": 80927,
-    "IDcode": "HUNTB-215",
-    "title": "「仕事できなくてもいいからチ○ポしゃぶらせて！」普段は厳しいのに男がボクだけになると…よだれを垂らして執拗にチ○ポを舐めまわすド淫乱女上司。",
+    "id": 218301,
+    "IDcode": "adn-398",
+    "title": "被我丈夫的一个老朋友强奸了",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-02-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/36a45b8ab2c1865f175bc491ac774199.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/16/ac2944706974463898c07ccf92a1386f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-215"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=adn-398"
   },
   {
-    "id": 80730,
-    "IDcode": "HUNTB-231",
-    "title": "いつでも好きなタイミングで誰とでもエッチ出来ちゃう巨乳OLだらけのシェアハウスに入居したボクは勉強そっちのけでヤったりヤラレたり夢のヤリチン",
+    "id": 223856,
+    "IDcode": "adn-399",
+    "title": "当我们单独在一起时-夏目彩春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-03-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/f020927321bb58601b70842f97e67691.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/31/714e77e9c890bcfcbd697fd24eba460b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=adn-399"
+  },
+  {
+    "id": 223848,
+    "IDcode": "adn-400",
+    "title": "没有吸引力的女孩-明里つむぎ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/31/df62c2cfdccff46b3303b253f84f3257.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=adn-400"
+  },
+  {
+    "id": 106559,
+    "IDcode": "ADN-401",
+    "title": "不道德的行为和背叛-櫻井まみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/16/d03f9993556a09606b002fd66fd233db.jpg",
     "actress": [
-      "乙愛麗絲",
-      "吉根柚莉爱",
-      "辻井穗乃果",
-      "奥井楓"
+      "田渊正浩",
+      "樱井まみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-231"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-401"
   },
   {
-    "id": 84821,
-    "IDcode": "HUNTB-275",
-    "title": "風俗掲示板で書き込みNGの超人気ピンサロ！純粋にエッチが好きなヤリマンのみ在籍！ピンサロ嬢が満足するまで帰れない搾り取り専門ピンサロ爆誕！",
+    "id": 218399,
+    "IDcode": "adn-402",
+    "title": "密室接吻社長室-三宮つばき",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-05-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/a1dfeb05b3d3dcf053f362cacb97e541.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/06/21/4242731f57056834cd6ed525363d91d7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=adn-402"
+  },
+  {
+    "id": 227139,
+    "IDcode": "ADN-403",
+    "title": "工厂工作的朴素女成为炮友的故事-二宫光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/62c0c0c36537b28b3299dca8fa24ff67.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-403"
+  },
+  {
+    "id": 66892,
+    "IDcode": "ADN-404",
+    "title": "愛人秘書-夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/20/411c85d6271e9d97acee4b7438d13c88.jpg",
     "actress": [
-      "桃井杏南"
+      "夏目彩春"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-275"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-404"
   },
   {
-    "id": 87473,
-    "IDcode": "HUNTB-333",
-    "title": "目が覚めると…見下しマウント騎乗位で腰を振って勝手にイキまくってる後輩女子社員！出張先で相部屋になって超険悪！だったのに…いつも上から目線の",
+    "id": 66814,
+    "IDcode": "ADN-405",
+    "title": "允许我的继父插入我的身体-白峰ミウ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230728-1/c1d1b5193c2aedeee09d56abb2ab4c31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-333"
-  },
-  {
-    "id": 87476,
-    "IDcode": "HUNTB-339",
-    "title": "「お兄ちゃんのこと気持ち良くするバイト始めました」バイトを禁止されている私がお兄ちゃんに相談したら【お兄ちゃんのことを気持ち良くするバイト】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230728-1/77914b518c8c408bad0880e80371a0b2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-339"
-  },
-  {
-    "id": 84839,
-    "IDcode": "HUNTB-342",
-    "title": "お嬢様女子○生寮で軟禁されてるボクは性欲旺盛お嬢様たちに拒否権無しでヤラれまくり！入れ代わり立ち代わり数珠繋ぎ状態で朝から晩まで中出し…2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/02bff2184b0bab3b2f866b423b17d7d2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-342"
-  },
-  {
-    "id": 84810,
-    "IDcode": "HUNTB-343",
-    "title": "お触り厳禁のビキニオイルマッサージで施術師にガマンできずこっそりタッチ！「ウチはそういうお店ではないので」とキッパリ断られるも我慢できずに…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/264d65c50e599f605a146b065a580ad3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-343"
-  },
-  {
-    "id": 84785,
-    "IDcode": "HUNTB-344",
-    "title": "無防備に透けている下着はワザと？隣の患者の彼女のパンツが透けてて超絶フル勃起！絶対にボクを誘惑しているとしか思えずガン見してたら勃起がバレて",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/51a794a98475757a6923d3a2fdb22f83.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-344"
-  },
-  {
-    "id": 84836,
-    "IDcode": "HUNTB-347",
-    "title": "ボクと彼女と幼馴染（女子）の3人で宅飲みしてたら何と幼馴染が夜●いしてきた！ボクの彼女に！悔しいけどあんなにエロい彼女今まで見た事ありません",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/b98f9e18405f561c5ceddf0eefbe63da.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-347"
-  },
-  {
-    "id": 84818,
-    "IDcode": "HUNTB-348",
-    "title": "「生徒に手を出すなんて教師失格だね。これ以上はダメ…わたし本気になっちゃう…」年齢差や立場を超え時間を忘れて愛し合ってしまった女教師と生徒。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/bf564259c7a0d75c4ba1ecda84a69b5c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-348"
-  },
-  {
-    "id": 84822,
-    "IDcode": "HUNTB-349",
-    "title": "滑り込み初体験！『学校を卒業するまでには処女を捨てたい』『童貞を卒業したい』と思う幼馴染同士のウィンウィンSEX！卒業まであとわずか。ヤバい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/b63e21bac12dfe97c4e97adae7ab4136.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-349"
-  },
-  {
-    "id": 67914,
-    "IDcode": "HUNTB-353",
-    "title": "3人の美人母娘の家に居候することになったボク。「ママとお姉ちゃんには内緒だよ」「妹とママには内緒だからね」「娘たちには絶対内緒よ」と近くに家族が…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-09-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250420-1/45c20300fa3d5d6cd82a000986c5e44d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-353"
-  },
-  {
-    "id": 69139,
-    "IDcode": "HUNTB-388",
-    "title": "拒絕穿上制服！口氣也最爛最悪！不過既溫柔工作也超有禮！父親的看護是淫蕩辣妹過頭讓我…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-10-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250328-1/bacda032e9a98319b3ae0737f1883334.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/20/33d27c2b1875de55531679bc87defcf5.jpg",
     "actress": [
-      "夏希栗",
-      "蘭々"
+      "白峰美羽",
+      "田渊正浩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-388"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-405"
   },
   {
-    "id": 106971,
-    "IDcode": "HUNTB-396",
-    "title": "誰都能繳費盡情抽插到飽！溫泉旅館編 2",
+    "id": 67310,
+    "IDcode": "ADN-406",
+    "title": "被我姐姐的男朋友强奸-櫻井まみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2022-11-08",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/huntb396/huntb396pl.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/09/ce1874426c9205042e7bb26dd535099d.jpg",
     "actress": [
-      "大空七海",
-      "タツ",
-      "ハカー",
-      "若宫はずき"
+      "樱井まみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-396"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-406"
   },
   {
-    "id": 68803,
-    "IDcode": "HUNTB-452",
-    "title": "「キスだけ。それ以上はダメ…」兄に隠れて兄嫁とキスだけの約束のはずが…。舌が絡み合う情熱的なキスに燃え上がってしまった2人は我慢しきれず…。",
+    "id": 73535,
+    "IDcode": "ADN-407",
+    "title": "我希望这是个梦-椎花乃 広仲みなみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-01-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250327-1/4bcea46c3aeb83bfb058267f09bfa55b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-452"
-  },
-  {
-    "id": 66882,
-    "IDcode": "HUNTB-465",
-    "title": "HUNTB-465",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-01-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/fdeefedb413a285dc3f235576e4c2ed2.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/20/44e72bb3b1cfeceb73cb35a3b7bee67a.jpg",
     "actress": [
-      "前乃菜菜"
+      "香椎花乃"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-465"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-407"
   },
   {
-    "id": 69236,
-    "IDcode": "HUNTB-518",
-    "title": "登校拒否児で童貞だったボクの人生が一変！突然出来た超優しい3人の巨乳義姉はボクを王様扱い！好きな時に好きなだけヤラせてくれるボク専用ヤリマン",
+    "id": 66732,
+    "IDcode": "ADN-408",
+    "title": "沉迷于放荡的性爱-夏目彩春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-03-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250406-1/2f19dad843ed4e179aea1778caba751c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-518"
-  },
-  {
-    "id": 107541,
-    "IDcode": "HUNTB-593",
-    "title": "開始早々秒でエッチ！いきなりアクセル全開AV！！即挿入＆連続爆イキ！無責任な親のせいで超エッチな3人の性獣巨乳義姉とボクとの4人だけで同居…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-07-25",
-    "cover_url": "https://tutu1.space/images/2023/08/23/21233da330539b4ccf20464e66b988a1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-593"
-  },
-  {
-    "id": 107542,
-    "IDcode": "HUNTB-605",
-    "title": "社員旅行で美人女子社員たちと男はボク1人の夢の王様ゲームで大乱交！日常を離れ、温泉宿でまさかの激エロ体験出来ちゃいました！アラサー女子社員…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-07-25",
-    "cover_url": "https://tutu1.space/images/2023/08/23/50c09392b84e8a9d89bc055491716350.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-605"
-  },
-  {
-    "id": 107355,
-    "IDcode": "HUNTB-630",
-    "title": "男女8人ワケ有り即席大家族。～家庭内セックスをしまくる血の繋がっていない私たち～離婚再婚を繰り返し血の繋がりがない兄妹・親子でセックスを…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-08",
-    "cover_url": "https://tutu1.space/images/2023/09/02/4176c0b60f82208dce5466d808382120.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-630"
-  },
-  {
-    "id": 107087,
-    "IDcode": "HUNTB-634",
-    "title": "僕にハーレムセフレができた理由2 弄んでくれるセフレギャルから【オナ禁】指令-実写版- 美園和花 水原みその 姫咲はな 宝田もなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-22",
-    "cover_url": "https://tutu1.space/images/2023/09/27/ec45b9518f19cb729d40c2a52892da2d.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/07/bb9b1a3919f02eec081499549b898199.jpg",
     "actress": [
-      "美園和花",
-      "姫咲華"
+      "夏目彩春",
+      "蓝井优太"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-634"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-408"
   },
   {
-    "id": 107354,
-    "IDcode": "HUNTB-641",
-    "title": "「そんな恰好するなよ！」●校時代のボクのジャージ＋セクシーな下着で家をうろつく義姉。中途半端にエロい格好をされるとエロすぎてフル勃起！しかも",
+    "id": 86994,
+    "IDcode": "ADN-409",
+    "title": "好色之徒-日下部加奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-08",
-    "cover_url": "https://tutu1.space/images/2023/09/02/62e3fb662cff04a9c9ef38effcb7c482.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/07/323a6c5fb68b6e14bc6fec0dd417eb4a.jpg",
     "actress": [
-      "ニック",
-      "タイ",
-      "ナイアガラ翔"
+      "日下部加奈",
+      "田渊正浩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-641"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-409"
   },
   {
-    "id": 100826,
-    "IDcode": "HUNTB-659",
-    "title": "『これ見ても私たちとエッチしたいと思わないの？本当は我慢してるんでしょう？』ボクとエッチしたがる超絶可愛い清楚系ヤリマンビッチの幼馴染たち2",
+    "id": 156142,
+    "IDcode": "ADN-410",
+    "title": "妻子在半年里每天都被一个男人内射",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://tutu1.space/images/2023/11/19/af7534c1f2cf65f04e1289f03a421940.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/07/92f2b71bc7048c002d0c1aa559f77dcb.jpg",
+    "actress": [
+      "希島愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-410"
+  },
+  {
+    "id": 86993,
+    "IDcode": "ADN-411",
+    "title": "不显眼的邻居-月乃ルナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/08/12/1da7409b798b728da1c651bc9a32a6e5.jpg",
+    "actress": [
+      "月乃露娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-411"
+  },
+  {
+    "id": 66743,
+    "IDcode": "ADN-412",
+    "title": "男士美容治疗-夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/10/f82c3b0a10ff45fa146677a91b07c3db.jpg",
+    "actress": [
+      "夏目彩春",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-412"
+  },
+  {
+    "id": 67136,
+    "IDcode": "ADN-413",
+    "title": "女教師玩具化計画-白峰ミウ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/10/672d107af99d70c67975bb0a312ab989.jpg",
+    "actress": [
+      "白峰美羽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-413"
+  },
+  {
+    "id": 66631,
+    "IDcode": "ADN-414",
+    "title": "在她丈夫不在的时候-三宮つばき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/10/7038ae9d1884d8ce846d7e6acd853f3a.jpg",
+    "actress": [
+      "三宫つばき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-414"
+  },
+  {
+    "id": 89977,
+    "IDcode": "ADN-415",
+    "title": "当我允许继父插入我的身体-希島あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/10/ceef967aa5abb9d6e17687ac86e8a2e7.jpg",
+    "actress": [
+      "希島愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-415"
+  },
+  {
+    "id": 157659,
+    "IDcode": "ADN-415-C",
+    "title": "和义父约定只插入10秒…相性拔群忍不住绝顶的我 希岛爱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20250426-1/15bcd16bfacd641886eda32f2b5540a1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-659"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-415-C"
   },
   {
-    "id": 106649,
-    "IDcode": "HUNTB-660",
-    "title": "若妻だらけの料理教室に参加したら男はボク1人でハーレム状態！実習そっちのけで超欲求不満の若妻たちにボクのデカチンが料理されまくり！旦那の…",
+    "id": 67788,
+    "IDcode": "ADN-416",
+    "title": "禁止的不道德行为-岬ななみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-10-31",
-    "cover_url": "https://tutu1.space/images/2023/11/25/db2908ee10980dbaf5ab50b762d158bf.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/10/1d18d00487ebe7605423210d691344b9.jpg",
+    "actress": [
+      "岬奈奈美",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-416"
+  },
+  {
+    "id": 66744,
+    "IDcode": "ADN-417",
+    "title": "人妻女上司-黒川すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/11/166e3837d8fcd7a4fd19724ebf237d5a.jpg",
+    "actress": [
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-417"
+  },
+  {
+    "id": 66751,
+    "IDcode": "ADN-418",
+    "title": "已婚妇女被人干来干去的故事-森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/11/7349f22100f3526e66ec2a619f63580b.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-418"
+  },
+  {
+    "id": 68126,
+    "IDcode": "ADN-419",
+    "title": "被强奸的夫妇还有未来吗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/11/8f13d396037f5f52d43f33397a441eec.jpg",
+    "actress": [
+      "香椎花乃",
+      "樱井まみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-419"
+  },
+  {
+    "id": 67253,
+    "IDcode": "ADN-420",
+    "title": "被我丈夫最好的朋友拥抱了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/efcbefa04ee2a8db97d0b139b985d9b9.jpg",
+    "actress": [
+      "妃光莉"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-420"
+  },
+  {
+    "id": 67224,
+    "IDcode": "ADN-421",
+    "title": "愛人女上司-夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/08/b948e6fc48a7bef04d5c6ed2d76aa587.jpg",
+    "actress": [
+      "夏目彩春",
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-421"
+  },
+  {
+    "id": 67958,
+    "IDcode": "ADN-422",
+    "title": "把一个喝醉的下属带回家-二宮ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/08/4bd5fa9e72bb03cea91ca5b6d3d1a383.jpg",
+    "actress": [
+      "二宫ひかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-422"
+  },
+  {
+    "id": 67420,
+    "IDcode": "ADN-423",
+    "title": "为公公的亲吻-希島あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/13/0fd7d5fcffe66e8a08bb912b02670c1c.jpg",
+    "actress": [
+      "希島愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-423"
+  },
+  {
+    "id": 66742,
+    "IDcode": "ADN-424",
+    "title": "夫婦交換-岬ななみ 大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/13/b429f6be62ac5ce060c935541bbf7913.jpg",
+    "actress": [
+      "大槻响",
+      "岬奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-424"
+  },
+  {
+    "id": 61500,
+    "IDcode": "ADN-425",
+    "title": "与梦想中的女老板-三宮つばき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/13/0599e1ddb609a08422b15b1133c8ba0d.jpg",
+    "actress": [
+      "三宫つばき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-425"
+  },
+  {
+    "id": 90105,
+    "IDcode": "ADN-426",
+    "title": "被我女儿的男朋友抱着-森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/10/13/6bfc717010ac6334c31d1d27fe4c2b51.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-426"
+  },
+  {
+    "id": 67118,
+    "IDcode": "ADN-428",
+    "title": "你的妻子-夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/11/d60fc9a72e4b25ca027f9300573067c3.jpg",
+    "actress": [
+      "夏目彩春",
+      "小田切ジュン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-428"
+  },
+  {
+    "id": 67239,
+    "IDcode": "ADN-429",
+    "title": "社長秘書-岬ななみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/08/720dbb355add7f9968c87e5b23660fb0.jpg",
+    "actress": [
+      "岬奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-429"
+  },
+  {
+    "id": 67182,
+    "IDcode": "ADN-430",
+    "title": "在一次商务旅行中-希島あいり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/11/5d84b15f834a7a6a43d1d802db501904.jpg",
+    "actress": [
+      "希島愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-430"
+  },
+  {
+    "id": 104499,
+    "IDcode": "ADN-432",
+    "title": "密室接吻社長室-蜜美杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/08/174b53d1041677c3037d2bc39c8f96c4.jpg",
+    "actress": [
+      "藤井蘭々"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-432"
+  },
+  {
+    "id": 166833,
+    "IDcode": "ADN-433",
+    "title": "沮丧的美丽妻子-加藤結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/11/25cd02ce3e906fc377735110ca3b7355.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-660"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-433"
   },
   {
-    "id": 107353,
-    "IDcode": "HUNTB-686",
-    "title": "「おっぱいで洗ってあげるね！」「じゃあ私はお尻で洗ってあげるね！」「だってもっとお兄ちゃんと仲良くなりたいんだもん！」いきなり風呂凸義姉妹！",
+    "id": 67571,
+    "IDcode": "ADN-434",
+    "title": "长大后成为一个荡妇-月妃さら",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-08",
-    "cover_url": "https://tutu1.space/images/2023/09/02/49c0e37c27355a76079828775c7a1f0d.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/14/aca2dd627e012cb94b0b168fe3374a13.jpg",
+    "actress": [
+      "月妃さら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-434"
+  },
+  {
+    "id": 157614,
+    "IDcode": "ADN-434-C",
+    "title": "父亲，对不起。请原谅成长变得淫荡的我 月妃沙罗 月妃さら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250425-1/7a0a13a964431ff2b401c8e42c8f5e67.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-686"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-434-C"
   },
   {
-    "id": 105835,
-    "IDcode": "HUNTB-727",
-    "title": "夫婦円満の秘訣はスワッピング！？結婚生活も長くセックスレスになってしまった倦怠期の夫婦が仲良し夫婦に誘われて夫婦交換スワッピングにハマって…",
+    "id": 66746,
+    "IDcode": "ADN-435",
+    "title": "羞辱性地使用臀部-櫻井まみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://tutu1.space/images/2024/02/23/772448fdeb470ac4947324ff8227cd3d.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/11/11/a60a001b2c5789c62ca7d8d9bb9561b5.jpg",
+    "actress": [
+      "田渊正浩",
+      "樱井まみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-435"
+  },
+  {
+    "id": 90183,
+    "IDcode": "ADN-436",
+    "title": "被她丈夫的老板强奸-夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/15/5842feb8182a9088c64d471758073578.jpg",
+    "actress": [
+      "夏目彩春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-436"
+  },
+  {
+    "id": 67120,
+    "IDcode": "ADN-437",
+    "title": "对我进行性处理-二宮ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/9ccc4a1101631e217de15f3fb623c850.jpg",
+    "actress": [
+      "二宫ひかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-437"
+  },
+  {
+    "id": 67131,
+    "IDcode": "ADN-438",
+    "title": "女教师玩具表-岬ななみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/dfcdc8c8e610bcfdca7efaf24b86a61f.jpg",
+    "actress": [
+      "岬奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-438"
+  },
+  {
+    "id": 66917,
+    "IDcode": "ADN-439",
+    "title": "你的岳父-櫻井まみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/d8ed3a52b8746de4190eb9257607de93.jpg",
+    "actress": [
+      "樱井まみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-439"
+  },
+  {
+    "id": 157624,
+    "IDcode": "ADN-439-C",
+    "title": "义父你是 怎么看我的？樱井真美 樱井麻美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250503-1/71bee30786a31fcc62cf94b4c75b063a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-439-C"
+  },
+  {
+    "id": 67132,
+    "IDcode": "ADN-440",
+    "title": "制造回忆-末広純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/b55f2f36ad59f0b66d3f9f6738648ab2.jpg",
+    "actress": [
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-440"
+  },
+  {
+    "id": 66673,
+    "IDcode": "ADN-441",
+    "title": "在她丈夫面前被侵犯-本田瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/afe624e0e96553f164efe3270ae8e3cd.jpg",
     "actress": [
       "本田瞳"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-727"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-441"
   },
   {
-    "id": 10408,
-    "IDcode": "HUNTC-126",
-    "title": "去看一部很想看的電影，整個電影院只有我一個人，然後走進來了一個漂亮的女人",
+    "id": 157606,
+    "IDcode": "ADN-441-C",
+    "title": "在丈夫面前被侵犯 真夏情事 本田瞳",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003333742742.jpg",
-    "actress": [
-      "椿莉香",
-      "蘭々",
-      "NATSUKA",
-      "有星青理",
-      "宫名初季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-126"
-  },
-  {
-    "id": 8361,
-    "IDcode": "HUNTC-145",
-    "title": "啊，你一直在偷看我，喜歡的話那就請....沒關系。 被大嫂的巨乳誘惑 ~ 辻井ほのか 足立るい 若宮葉月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206081012629629.jpg",
-    "actress": [
-      "辻井穗乃果",
-      "有岡みう",
-      "若宮葉月",
-      "足立るい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-145"
-  },
-  {
-    "id": 7638,
-    "IDcode": "HUNTC-146",
-    "title": "姐姐的朋友太色了！姐姐就在旁邊她卻用巨乳貼身誘惑我還允許中出！結果連姐姐都暗自發情加入近親相奸追擊戰！ ~ 通野未帆 咲野瑞希 泉莉音 安部藍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-03-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305125417653653.jpg",
-    "actress": [
-      "通野未帆",
-      "泉莉音",
-      "咲野瑞希",
-      "安部藍"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-146"
-  },
-  {
-    "id": 4567,
-    "IDcode": "HUNTC-149",
-    "title": "兩個巨乳美人娘同性戀自己玩！好久沒試男人了有點想！醒來發現巨乳蕾絲上司互撩，偷看被抓後直接被撲倒 ~ 辻井穗乃果 星空萌愛 咲野瑞希 岬梓沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703073418789789_thumbnail.webp",
-    "actress": [
-      "辻井穗乃果",
-      "岬梓沙",
-      "咲野瑞希",
-      "星空萌愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-149"
-  },
-  {
-    "id": 8045,
-    "IDcode": "HUNTC-161",
-    "title": "“請！今天就射進我的體內吧！欲求不滿的妻子在丈夫外出 60 分鍾時發生了一段激情外遇 ~ 夏白麻矢 藤井蕾菈 優䔧舞奈 美園和花 山本蓮加",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094226471471.jpg",
-    "actress": [
-      "美園和花",
-      "優梨舞奈",
-      "藤井蕾菈",
-      "夏白麻矢",
-      "山本蓮加"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-161"
-  },
-  {
-    "id": 76269,
-    "IDcode": "HUNTC-198",
-    "title": "総イキ回数120回以上！『チンコでかいの？』『隠してないで見せなよ！』ボクのデカチンが二人の酔った巨乳上司にバレた！欲求不満の性欲モンスター2匹",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/8590c30b/vod.jpg",
-    "actress": [
-      "永野司"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-198"
-  },
-  {
-    "id": 8073,
-    "IDcode": "HUNTC-201",
-    "title": "很羞恥，別看啊（其實我真的很飢渴……）要是沒人看見，那就沒什麼可羞恥的了！地味害羞青梅竹馬的本性太淫蕩了！ ~ 夢川りあ 小野寺舞 五十嵐美月 宇流木沙羅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094554133133.jpg",
-    "actress": [
-      "宇流木沙羅",
-      "小野寺舞",
-      "五十嵐美月",
-      "夢川りあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-201"
-  },
-  {
-    "id": 4806,
-    "IDcode": "HUNTC-202",
-    "title": "不愛穿內衣的貧乳妹妹乳頭超敏感！無防備晃蕩被哥哥玩弄到主動求高潮 ~ 桐谷すずね 五十嵐美月 水瀬りた 愛野ひなた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/2025061909223233_thumbnail.webp",
-    "actress": [
-      "五十嵐美月",
-      "桐谷すずね",
-      "水瀬りた",
-      "愛野ひなた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
-  },
-  {
-    "id": 7951,
-    "IDcode": "HUNTC-214",
-    "title": "每日中出任務！在學校，我們有一個中出任務系統，女孩們每天輪流讓你中出她們，可以在上課期間進行無限制的中出性愛！ ~ 夢川りあ 雅子里菜 広瀬みつき 美澄玲衣 市川りく",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093833467467.jpg",
-    "actress": [
-      "美澄玲衣",
-      "雅子裡菜",
-      "市川りく",
-      "広瀬みつき",
-      "夢川りあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-214"
-  },
-  {
-    "id": 8805,
-    "IDcode": "HUNTC-217",
-    "title": "當脫掉衣服時，她看起來棒極了！ 我的青梅竹馬，印象裏一直是個小女孩，居然變成了身材拔羣的巨乳女子，都不好意思說我已經完全勃起了！ ~ 有村希 前田美波 椿りか 百仁花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074703276276.jpg",
-    "actress": [
-      "椿莉香",
-      "有村希",
-      "前田美波",
-      "百仁花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-217"
-  },
-  {
-    "id": 7948,
-    "IDcode": "HUNTC-219",
-    "title": "小惡魔女子校生挑逗處男，將他逼到失去童貞的邊緣，中間僅隔1釐米！ 被戲弄的你再也忍不住了…… ~ 雫月心桜 川栄結愛 千石もなか 今井惠美 葵美玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094454501501.jpg",
-    "actress": [
-      "千石もなか",
-      "雫月心桜",
-      "今井惠美",
-      "葵美玲",
-      "川栄結愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-219"
-  },
-  {
-    "id": 10078,
-    "IDcode": "HUNTC-223",
-    "title": "附近的雞巴都慢慢的靠近因跑步而興奮的巨乳若妻 ~ 藤井蕾菈 若宮葉月 中丸未來",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205100833865865.jpg",
-    "actress": [
-      "若宮葉月",
-      "藤井蕾菈",
-      "中丸未来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-223"
-  },
-  {
-    "id": 8070,
-    "IDcode": "HUNTC-224",
-    "title": "和M氣質的2位繼妹練習深喉口交時，她們內褲都溼透了！不停着要我快點操她們 ~ 伊織雛乃 皆月光 泉莉音 美園和花 加賀美さら 美澄玲衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094810604604.jpg",
-    "actress": [
-      "美園和花",
-      "皆月光",
-      "美澄玲衣",
-      "泉莉音",
-      "伊織雛乃",
-      "加賀美さら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-224"
-  },
-  {
-    "id": 61750,
-    "IDcode": "HUNTC-225",
-    "title": "ギャル女子○生のたまり場と化したボクの部屋でギャルたちと川の字数珠つなぎFUCK！ボクの部屋をたまり場として利用しているギャルたちはボクを男として意識していないので余裕でお泊り！一緒に川の字で寝てると寝相が超悪く服がかなりはだけて派手な下着が見えたり…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-08-12",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/16ad6853/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-225"
-  },
-  {
-    "id": 8780,
-    "IDcode": "HUNTC-228",
-    "title": "「S男這麼變態的嗎？」風俗按摩店氣弱新人被S男操到頂 ~ 二宮桃 美波汐裏 音羽美鈴 川上麗亞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075750408408.jpg",
-    "actress": [
-      "美波汐里",
-      "二宮桃",
-      "音羽美鈴",
-      "川上麗亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-228"
-  },
-  {
-    "id": 4805,
-    "IDcode": "HUNTC-233",
-    "title": "怎麼這麼硬了？惡霸女同學把我這處男給調教得服服帖帖！ ~ 藍瀬ミナ 雫月心桜 皆瀨明裏 日向ひかげ 真白みのり 市川りく",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092038592592_thumbnail.webp",
-    "actress": [
-      "皆瀨明里",
-      "市川りく",
-      "日向ひかげ",
-      "雫月心桜",
-      "真白みのり",
-      "藍瀬ミナ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-233"
-  },
-  {
-    "id": 4801,
-    "IDcode": "HUNTC-234",
-    "title": "出租我的小窩當情趣酒店 ~ 夏白麻矢 柏木小夏 皆瀨明裏 綾瀬ひまり 星仲ここみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091747494494_thumbnail.webp",
-    "actress": [
-      "柏木小夏",
-      "皆瀨明里",
-      "星仲ここみ",
-      "夏白麻矢",
-      "綾瀬ひまり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-234"
-  },
-  {
-    "id": 10427,
-    "IDcode": "HUNTC-237",
-    "title": "和女孩子的共租生活！超可能無防備！處男也無法不動心！ ~ 五十嵐清華 咲野瑞希 千石もなか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122010324628628.jpg",
-    "actress": [
-      "千石もなか",
-      "五十嵐清華",
-      "咲野瑞希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-237"
-  },
-  {
-    "id": 66651,
-    "IDcode": "HUNTC-241",
-    "title": "「今日からいっぱい甘えていいからね」父が2度目の離婚！ボクは若くて美人で巨乳な義母に引き取られる事に！超エロいので同居生活が楽しみ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-13",
-    "cover_url": "https://tutu1.space/images/2025/06/15/6417f7d32204139b81f61902665a1367.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-241"
-  },
-  {
-    "id": 8828,
-    "IDcode": "HUNTC-247",
-    "title": "沒關系……今天射在我體內也可以…… 她的情人是她的丈夫的弟弟，無法抗拒自己的本能，陷入了不倫和對性的貪婪之中 ~ 戶川奈美 有村希 咲野瑞希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073535689689.jpg",
-    "actress": [
-      "有村希",
-      "戶川奈美",
-      "咲野瑞希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-247"
-  },
-  {
-    "id": 4804,
-    "IDcode": "HUNTC-252",
-    "title": "學妹和老師都在這裏兼職？廢棄體育倉庫裏的祕密回春按摩店，課後無限爽到爆 ~ 岡本莉裏 桃木結愛 岬梓沙 美澄玲衣 乃木ちはる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091935996996_thumbnail.webp",
-    "actress": [
-      "美澄玲衣",
-      "岡本莉里",
-      "岬梓沙",
-      "乃木ちはる",
-      "桃木結愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-252"
-  },
-  {
-    "id": 8779,
-    "IDcode": "HUNTC-256",
-    "title": "爲什麼我這麼粗俗？發自心底的聲音！超內氣繼妹被我每天操，她變的非常敏感早漏體質！3變態女子編 ~ 泉莉音 前田美波 小島美子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/202501230753342020.jpg",
-    "actress": [
-      "前田美波",
-      "泉莉音",
-      "小島美子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-256"
-  },
-  {
-    "id": 10423,
-    "IDcode": "HUNTC-262",
-    "title": "把無家可歸的神待少女帶回家後立即推倒操她 ~ 藍瀬ミナ 柏木小夏 菊池春 五十嵐美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/2024112200555066.jpg",
-    "actress": [
-      "柏木小夏",
-      "菊池春",
-      "五十嵐美月",
-      "藍瀬ミナ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-262"
-  },
-  {
-    "id": 3324,
-    "IDcode": "HUNTC-263",
-    "title": "思春期騷動 不管誰插都能讓我爽到爆！ ~ 雫月心桜 柏木小夏 五十嵐清華 千石もなか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024949632632_55364_thumbnail.webp",
-    "actress": [
-      "柏木小夏",
-      "千石もなか",
-      "五十嵐清華",
-      "雫月心桜",
-      "マサムー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-263"
-  },
-  {
-    "id": 76069,
-    "IDcode": "HUNTC-268",
-    "title": "触れられた瞬間、溜まりに溜まった性欲が大暴発！ケガで両手が使えない（オナニーもできない）ボクのために日直女子がオシッコの手伝いを…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/22595de7/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-268"
-  },
-  {
-    "id": 4595,
-    "IDcode": "HUNTC-270",
-    "title": "天啊…我咋能露出這麼色情的表情？溫柔又膽小的義姐被我天天玩弄乳頭後，變成敏感小騷貨瘋狂高潮 ~ 葉月ひな 木下日葵 宮西光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/202507030838219393_thumbnail.webp",
-    "actress": [
-      "木下日葵",
-      "宮西光",
-      "葉月ひな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-270"
-  },
-  {
-    "id": 69455,
-    "IDcode": "HUNTC-274",
-    "title": "- 妻の女友達2人とヤッては寝て…を繰り返すだけの狂った三日間。ボクの妻が帰省中に妻の友達と浮気セックスしまくりのヤリ部屋となったボクと妻の寝室 - JAV目錄大全javmenu.com",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/d45fc7e5/vod.jpg",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250504-1/0424acc94184c65b2f28d7188cac08de.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-274"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-441-C"
   },
   {
-    "id": 8469,
-    "IDcode": "HUNTC-277",
-    "title": "我不知道我能堅持多久 我的青梅竹馬是女同，她和她的女友都想被我操 ~ 藤田柚 天馬唯 雅子裡菜 千石もなか 五十嵐美月 加賀美さら",
+    "id": 67168,
+    "IDcode": "ADN-442",
+    "title": "允许我的继父插入我-花柳杏奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080354780780.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/62cf67e769a5254af9b21383423d7ff1.jpg",
     "actress": [
-      "天馬唯",
-      "千石もなか",
-      "雅子裡菜",
-      "藤田柚",
-      "五十嵐美月",
-      "加賀美さら"
+      "田渊正浩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-277"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-442"
   },
   {
-    "id": 63866,
-    "IDcode": "HUNTC-279",
-    "title": "見逃さないで！ヤリたがりのサイン。言葉なんていらない！やたらと視線を合わせてくる美女は100％ヤれる！！",
+    "id": 157619,
+    "IDcode": "ADN-442-C",
+    "title": "和义父约定只插入十秒…相性拔群 忍不住绝顶的我 花柳杏奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-27",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/03/b18343ed/vod.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250426-1/da4051cfde53fdb40c7f90da509fcec4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-279"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-442-C"
   },
   {
-    "id": 66650,
-    "IDcode": "HUNTC-283",
-    "title": "「そんなに乳首いじられたら、おち○ちん欲しくなっちゃう…」上司の娘をチクビハラスメントで敏感早漏体質に仕立てあげ何度もチクビイキさせまくり！",
+    "id": 67250,
+    "IDcode": "ADN-443",
+    "title": "被我丈夫的童年朋友拥抱-田中なな実",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-13",
-    "cover_url": "https://tutu1.space/images/2025/06/15/ca2576608d114995aacef6d1b7c06838.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/12/25/954c4f048a3bea11f1a48e10e72d28fe.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-283"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-443"
   },
   {
-    "id": 72814,
-    "IDcode": "HUNTC-284",
-    "title": "すごい…しゃぶりつきたい…ボクの朝勃ちチ〇ポで欲情した兄嫁が即尺！何度射精しようが追撃バキュームフェラで何度も何度も搾り尽くされました！",
+    "id": 157584,
+    "IDcode": "ADN-443-C",
+    "title": "老公 请原谅我… 被丈夫的发小抱紧的欧文 田中なな実",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/07/15fe84a4/vod.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20250427-1/12c1c75adf005d8c68e0550b67d67cec.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-284"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-443-C"
   },
   {
-    "id": 8360,
-    "IDcode": "HUNTC-285",
-    "title": "我們這樣學習正經嗎? 復習累了的女同學們，開始釋放她們的性欲了... ~ 乙羽あむ 泉莉音 市井結夏 宇流木沙羅 市川りく 泉田栞",
+    "id": 90258,
+    "IDcode": "ADN-445",
+    "title": "ADN-445",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080953584584.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "2023-02-03",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240116-1/866a4264de565da4b1a25d220f375aee.jpg",
     "actress": [
-      "宇流木沙羅",
-      "泉莉音",
-      "市川りく",
-      "市井結夏",
-      "乙羽あむ",
-      "泉田栞"
+      "三宫つばき"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-285"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-445"
   },
   {
-    "id": 10786,
-    "IDcode": "HUNTC-291",
-    "title": "學校公認！插入率100%！每個月的7日是幸運日！校內將舉辦激烈的大亂交活動！與高規格女孩做愛吧！ ~ 本田瞳 王十嵐清華 愛瀨優裏 小野寺舞 千鶴えま",
+    "id": 90257,
+    "IDcode": "ADN-447",
+    "title": "人妻女上司-希島あいり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-12",
-    "cover_url": "https://picture.yoshiclub.xyz/20241108/20241108045851607607.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/0b8d8c10c1edc491e1f1cfc9eabd574c.jpg",
     "actress": [
-      "本田瞳",
-      "五十嵐清華",
-      "愛瀬優里",
-      "小野寺舞",
-      "千鶴えま"
+      "希島愛理"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-291"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-447"
   },
   {
-    "id": 10111,
-    "IDcode": "HUNTC-295",
-    "title": "如果有大雞巴犒勞的話，我們一定好好練習！ 女子田徑合宿我的雞巴根本沒有喘息的機會!！",
+    "id": 67227,
+    "IDcode": "ADN-448",
+    "title": "与我儿子的朋友做爱-夏目彩春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20241206/20241206065355719719.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/6dac43aaa520180a28eb888423e05487.jpg",
     "actress": [
-      "皆月光",
-      "由良佳奈",
-      "有栖舞衣",
-      "五十嵐清華",
-      "泉莉音",
-      "愛瀬優里",
-      "市川りく",
-      "乙羽あむ"
+      "夏目彩春"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-295"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-448"
   },
   {
-    "id": 10463,
-    "IDcode": "HUNTC-296",
-    "title": "會讀心術的電車癡漢！第2作！ 請不要，不要停！ 癡漢完全聽到了被害者女性心裏真正的想法 ~ 藤井蕾菈 椿りか 宮西光",
+    "id": 67641,
+    "IDcode": "ADN-449",
+    "title": "女教師玩具化計画-藤井いよな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-11-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122002624892892.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/8b5d0e8396ce7d5e257e71e39a8e1736.jpg",
     "actress": [
-      "椿莉香",
-      "宮西光",
-      "藤井蕾菈"
+      "藤井一夜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-296"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-449"
   },
   {
-    "id": 76147,
-    "IDcode": "HUNTC-297",
-    "title": "だれとでも定額挿れ放題！零細企業編 月々定額料金さえ支払えば、社内に出入りする女性であれば誰でも、出前の配達員でも清掃員でも…",
+    "id": 67898,
+    "IDcode": "ADN-450",
+    "title": "刚毕业就教我工作-月乃ルナ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/images/2025/09/12/29b72147473de58495cd82fe994025e4.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/11ccf89d65d9f08b6e96bb0a3330ced8.jpg",
     "actress": [
-      "椿莉香",
-      "宮城理惠",
-      "五十嵐美月"
+      "月乃露娜"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-297"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-450"
   },
   {
-    "id": 8804,
-    "IDcode": "HUNTC-298",
-    "title": "「我們是不是很有魅力？」巨乳女子們爭搶我的雞巴 ~ 清巳麗乃 愛瀨里裏 花柳杏奈 千鶴えま",
+    "id": 66940,
+    "IDcode": "ADN-451",
+    "title": "义父仅十秒的插入-三宫椿",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075623148148.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240207-1/c2c85fde1a7c0362a67bf466d5d32ef5.jpg",
     "actress": [
-      "清巳麗乃",
-      "愛瀬優里",
-      "花柳杏奈",
-      "千鶴えま"
+      "田渊正浩",
+      "三宫つばき"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-298"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-451"
   },
   {
-    "id": 10076,
-    "IDcode": "HUNTC-302",
-    "title": "就站在樓道上的風俗若妻！1.5K如何？可以在我家做，不需要花酒店錢！大久保公園的援交若妻最近被嚴厲鎮取締 ~ 堀北実來",
+    "id": 66719,
+    "IDcode": "ADN-452",
+    "title": "即使我想射精也不让我射-加藤結衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-10",
-    "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205100917414414.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/9bfc9f2625c74c67c2da92592c291381.jpg",
     "actress": [
-      "本田瞳",
-      "葵百合香",
-      "堀北実来",
-      "真木今日子"
+      "左慈半造"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-302"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-452"
   },
   {
-    "id": 8064,
-    "IDcode": "HUNTC-303",
-    "title": "隨時隨地隨便操！町工場編 。爲了挽救瀕臨破產的工廠，只要每個月付點錢，廠裏的女性員工包括社長夫在在內都可以隨便操！ Vol.2 ~ 乙愛麗絲 椎菜える 藤井蕾菈 瀬那瑠美奈 高橋ほなみ 由良佳奈",
+    "id": 68049,
+    "IDcode": "ADN-453",
+    "title": "抱着我-君塚ひなた",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093745721721.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/ecb620886f650f19cf119b8697e03738.jpg",
     "actress": [
-      "乙愛麗絲",
-      "由良佳奈",
-      "藤井蕾菈",
-      "瀬那瑠美奈",
-      "高橋ほなみ",
-      "椎菜える"
+      "君塚ひなた"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-303"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-453"
   },
   {
-    "id": 71231,
-    "IDcode": "HUNTC-304",
-    "title": "エロ漫画の様な被害者女性の心の声が聞こえる電車痴●！！＆時間停止×心の声ver特別収録！",
+    "id": 225388,
+    "IDcode": "ADN-455",
+    "title": "社长室的密室接吻-小松杏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-03-11",
-    "cover_url": "https://tutu1.space/images/2025/07/26/85b787832b4a9de676f3b1dc4129633a.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/5fe50146d475334bd9ed532e3624624c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-304"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-455"
   },
   {
-    "id": 8767,
-    "IDcode": "HUNTC-306",
-    "title": "任何人都可以插入！老虎機編！ 定額制的老虎機店，如果你贏了，店裏的女人都可以插 ~ 美木雛乃 雅子裡菜 五十嵐清華 星七奈奈美 白石なぎさ 宇佐美みおん",
+    "id": 106919,
+    "IDcode": "ADN-456",
+    "title": "丈夫所不知道的-小野寺真优",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073229643643.jpg",
-    "actress": [
-      "五十嵐清華",
-      "白石渚",
-      "雅子裡菜",
-      "美木雛乃",
-      "星七奈奈美",
-      "宇佐美みおん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-306"
-  },
-  {
-    "id": 8059,
-    "IDcode": "HUNTC-307",
-    "title": "什麼東西？別藏起來！給我看看！公司旅行中，巨乳女同事發現了我的大雞巴並且開始爭搶它！ ~ 藤井蕾菈 星七奈奈美 美丘さとみ 天宮かすみ 沙優七羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-25",
-    "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093334783783.jpg",
-    "actress": [
-      "藤井蕾菈",
-      "美丘さとみ",
-      "星七奈奈美",
-      "天宮かすみ",
-      "沙優七羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-307"
-  },
-  {
-    "id": 76268,
-    "IDcode": "HUNTC-308",
-    "title": "巨乳ばかりのシェアハウスに入居したら…その日に即童貞喪失！初めてなのに一日に5人の巨乳美女とSEX！でも一度では満足してもらえず…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/6daa990d/vod.jpg",
-    "actress": [
-      "永野司"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-308"
-  },
-  {
-    "id": 69570,
-    "IDcode": "HUNTC-310",
-    "title": "えっ！？80％？なにこの数字？ヤレる確率が可視化されてボクだけに見える世界！オフィス編 なんだその頭の上に見えてる数字は！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-04-08",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/76dae883/vod.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/97717791cd37fddf578bc06ea5c54420.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-310"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-456"
   },
   {
-    "id": 8771,
-    "IDcode": "HUNTC-311",
-    "title": "3年C組的文化祭模擬店 時間停止 3。隨時停止！時間停止咖啡館隨時允許插入 ~ 藤田柚 天美めあ 川栄結愛 雅子裏菜 星七奈奈美 宮崎玲",
+    "id": 90374,
+    "IDcode": "ADN-459",
+    "title": "为了最爱的丈夫守住身体-加藤结衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073114732732.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/41f854a105d1903d0dd80da4ecc3ce24.jpg",
     "actress": [
-      "雅子裡菜",
-      "星七奈奈美",
-      "藤田梢",
-      "天美めあ",
-      "藤田柚",
-      "川栄結愛",
-      "宮崎玲"
+      "加藤結衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-311"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-459"
   },
   {
-    "id": 8770,
-    "IDcode": "HUNTC-312",
-    "title": "潮噴女生宿舍！從早上就開始噴！被關在女生宿舍裏，裏面擠滿了欲求不滿的姐姐 ~ 桐香悠裡 天晴乃愛 前田美波 星空萌愛 咲野瑞希 鬆井日奈子 上阪芽衣",
+    "id": 90375,
+    "IDcode": "ADN-460",
+    "title": "妻子和闺蜜们去旅行-藤井伊由奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-01-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/202501230739531212.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/ae79c8bfc50a89acec231e8aa636135f.jpg",
     "actress": [
-      "前田美波",
-      "松井日奈子",
-      "天晴乃愛",
-      "桐香悠裡",
-      "上坂芽衣",
-      "咲野瑞希",
-      "星空萌愛"
+      "藤井一夜",
+      "足立める"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-312"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-460"
   },
   {
-    "id": 76065,
-    "IDcode": "HUNTC-314",
-    "title": "「えっ！？コレが実習？」エステ専門学校に入学したら男はボク1人！実習はタオル1枚の女子の体を触りまくり！ボクの股間は触られまくりでフル勃起6",
+    "id": 90373,
+    "IDcode": "ADN-461",
+    "title": "拿着备用钥匙和人妻沉溺SEX-希岛爱理",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2024-12-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/ddb06851/vod.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/4106c89319fb0dbefd93291c3e4b3d04.jpg",
     "actress": [
-      "前乃菜菜",
-      "冬爱琴音"
+      "希島愛理",
+      "まーち"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-314"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-461"
   },
   {
-    "id": 8363,
-    "IDcode": "HUNTC-315",
-    "title": "修學旅行，與10名可愛女同學進行200％親密後宮亂交！ 2 ~ 川栄結愛 乙葉らぶ 有棲舞衣 愛瀬優裏 泉莉音 等",
+    "id": 90377,
+    "IDcode": "ADN-462",
+    "title": "意外看到公公自慰-三宫椿",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-02-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080232110110.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/c56b5459013f9ec411e83f1834bb1ba0.jpg",
     "actress": [
-      "有栖舞衣",
-      "宇流木沙羅",
-      "泉莉音",
-      "愛瀬優里",
-      "市川りく",
-      "小島美子",
-      "市井結夏",
-      "五十嵐美月",
-      "川栄結愛",
-      "乙葉らぶ"
+      "三宮椿",
+      "三宫つばき"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-315"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-462"
   },
   {
-    "id": 4802,
-    "IDcode": "HUNTC-324",
-    "title": "第一次看AV就這麼興奮...巨乳少婦看片後直接發情，搞起百合大亂鬥！ ~ 月野香澄 前田美波 星空萌愛 愛瀬優裏 宇佐美みおん",
+    "id": 90383,
+    "IDcode": "ADN-463",
+    "title": "半夜起来发现妻子不在旁边-夏目彩春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091833576576_thumbnail.webp",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/58da58cfc473bd96ca3e191e5a3e228f.jpg",
     "actress": [
-      "月野香澄",
-      "前田美波",
-      "愛瀬優里",
-      "宇佐美みおん",
-      "星空萌愛"
+      "夏目彩春",
+      "小田切ジュン"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-324"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-463"
   },
   {
-    "id": 69551,
-    "IDcode": "HUNTC-326",
-    "title": "『生理前だから誰でもいい！エッチしたい…※心の声』クラスメイト女子のビッチな心の声が聞こえる様になったボクはレベル高め女子たちを抱ける様に…",
+    "id": 90385,
+    "IDcode": "ADN-464",
+    "title": "禁忌之淫8太年轻的后妈-纱纱原百合",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-04-08",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/802b0a0b/vod.jpg",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/7b22b6dad46e77f4b43f6080009e5229.jpg",
+    "actress": [
+      "蓝井优太",
+      "纱々原ゆり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-464"
+  },
+  {
+    "id": 90386,
+    "IDcode": "ADN-465",
+    "title": "那个让人火大的男人-藤井伊由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/cc6f5220fa2492946aa3a343ea5b9942.jpg",
+    "actress": [
+      "藤井一夜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-465"
+  },
+  {
+    "id": 90384,
+    "IDcode": "ADN-466",
+    "title": "侄女的胸部已经发育的很好了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/41aa0516b58c6fd27b4a0ced21f513e6.jpg",
+    "actress": [
+      "绫濑心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-466"
+  },
+  {
+    "id": 168289,
+    "IDcode": "ADN-467",
+    "title": "用視訊電話跟愛人打炮-夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/b193f34415afec9e982cbbe0bd45676b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-326"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-467"
   },
   {
-    "id": 63772,
-    "IDcode": "HUNTC-331",
-    "title": "だれとでも定額挿れ放題！映画館編 毎月、新作映画見放題！挿れ放題の映画館！",
+    "id": 168290,
+    "IDcode": "ADN-468",
+    "title": "青梅竹马女子想做出回忆逼迫已有婚约的我的故事【宫西光】",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-27",
-    "cover_url": "https://tutu1.space/images/2025/06/07/7fed796d6c6770324acf9fff636334ef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-331"
-  },
-  {
-    "id": 66214,
-    "IDcode": "HUNTC-339",
-    "title": "性欲爆発処理班 性欲処理のエキスパートたちが爆発寸前の性欲を処理するべく現場に急行！ 行くぞ！イクぞ！イカせまくるぞ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-13",
-    "cover_url": "https://tutu1.space/images/2025/06/15/6998ca76928f9f8ff36ca683c0abdeae.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-339"
-  },
-  {
-    "id": 4591,
-    "IDcode": "HUNTC-344",
-    "title": "色色幻想成真了！去脫毛診所被性感小姐姐假裝認真工作故意撩撥我的VIO！不只是毛毛被清理... ~ 沙つむぐ 五十嵐清華 依本詩織 小野寺舞 加賀美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703075656231231_thumbnail.webp",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-2/460723b1d5fb5e82416d667567be8f43.jpg",
     "actress": [
-      "五十嵐清華",
-      "小野寺舞",
-      "依本詩織",
-      "加賀美さら",
-      "沙つむぐ"
+      "宫西光"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-344"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-468"
   },
   {
-    "id": 4592,
-    "IDcode": "HUNTC-349",
-    "title": "媽媽排球隊的緊身ブルマ誘惑，翹臀太犯規了！繼母帶隊友來秀制服勾引我 ~ 小鬆杏 戶川奈美 胡桃多惠 大槻響 星川りく",
+    "id": 91689,
+    "IDcode": "ADN-470",
+    "title": "被轻视的公公强迫不期待的怀孕的人妻 岬奈奈美",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083034429429_thumbnail.webp",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-1/5107f99852eeb37cd6b556021ed5f890.jpg",
     "actress": [
-      "大槻响",
-      "小松杏",
-      "戶川奈美",
-      "胡桃多惠",
-      "星川りく"
+      "岬奈奈美",
+      "田渊正浩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-349"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-470"
   },
   {
-    "id": 63862,
-    "IDcode": "HUNTC-352",
-    "title": "「先生！私たちの成長した姿見せてあげるね」以前、手を出してしまった女子生徒からの何発発射しても絶対に許してくれない復讐ハーレム乱交！",
+    "id": 157510,
+    "IDcode": "ADN-471",
+    "title": "被已故丈夫的父亲弄怀孕的未亡人",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-05-27",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/06/f150140f/vod.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/9034a860d6004e6ec7524145867ad288.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-352"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-471"
   },
   {
-    "id": 3316,
-    "IDcode": "HUNTC-353",
-    "title": "老師！今天也要開幹對吧？ ~ 白石環奈 廣瀬好美 由良佳奈 上阪芽衣",
+    "id": 155528,
+    "IDcode": "ADN-472",
+    "title": "比常人性欲强一倍的人妻-夏目彩春",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "HUNTER",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025114417417_51713_thumbnail.webp",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/5a41903b93d55fb567d6fae89e349495.jpg",
     "actress": [
-      "由良佳奈",
-      "上坂芽衣",
-      "廣瀬好美",
-      "白石環奈"
+      "夏目西春"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-353"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-472"
+  },
+  {
+    "id": 106881,
+    "IDcode": "ADN-473",
+    "title": "性欲很强的义父-二宫光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/10/24/1f25dab87f019e848aef1d512cd09c22.jpg",
+    "actress": [
+      "二宮光",
+      "田渊正浩",
+      "二宫ひかり",
+      "二宫光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-473"
+  },
+  {
+    "id": 168558,
+    "IDcode": "ADN-474",
+    "title": "堕落于媚药沙龙的人妻-末广纯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/3d675ba779395dccfa310e140ee36161.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-474"
+  },
+  {
+    "id": 168559,
+    "IDcode": "ADN-475",
+    "title": "刺激的代价 偷东西人妻堕落成为便利店店主的性玩具 岬奈奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-1/f4f76eace9fa567b74bb45aae45a51e9.jpg",
+    "actress": [
+      "岬奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-475"
+  },
+  {
+    "id": 91691,
+    "IDcode": "ADN-476",
+    "title": "父亲对不起-宫西光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240819-2/61fe8a5cea1b4f7607a99c7f78a7d0a2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-476"
+  },
+  {
+    "id": 107501,
+    "IDcode": "ADN-477",
+    "title": "下班回家中的人妻会迷上的媚药失禁按摩沙龙 藤井一夜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-2/7efdeb98b82508371ff29d9b04588d94.jpg",
+    "actress": [
+      "藤井一夜",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-477"
+  },
+  {
+    "id": 107500,
+    "IDcode": "ADN-478",
+    "title": "妻子怀孕中无法做爱的我禁欲状态忍耐达到极限 被邻居人妻引诱持续做爱 末广纯",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-2/59634b4a955d4ba2fe12c9481b63dbbf.jpg",
+    "actress": [
+      "末广纯"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-478"
+  },
+  {
+    "id": 107499,
+    "IDcode": "ADN-480",
+    "title": "我会安慰你的… 妃光莉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-2/ff3838bcc64a8b2d5d32a6e1d4da57f5.jpg",
+    "actress": [
+      "妃光莉",
+      "大岛丈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-480"
+  },
+  {
+    "id": 107498,
+    "IDcode": "ADN-481",
+    "title": "老公原谅我…湿濡的再会 一场莉乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-2/1d74e8d322b1b90e3437a8c0976d33bb.jpg",
+    "actress": [
+      "一場れいか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-481"
+  },
+  {
+    "id": 168695,
+    "IDcode": "ADN-482",
+    "title": "被讨厌性骚扰上司大肉棒搞到高潮连连耻辱的按摩师 希岛爱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-2/df2001d9c8d18d2694c86b4fe665b057.jpg",
+    "actress": [
+      "希島愛理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-482"
+  },
+  {
+    "id": 18838,
+    "IDcode": "ADN-483",
+    "title": "代替无精症的父亲-藤井伊由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/e1e1f09c30546714d9cb8f9efe8a08d8.jpg",
+    "actress": [
+      "藤井一夜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-483"
+  },
+  {
+    "id": 18007,
+    "IDcode": "ADN-484",
+    "title": "老婆連續半年被黑道大哥插入-倉本堇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/afd5514e41fbefab12c1149dd9719d07.jpg",
+    "actress": [
+      "倉本菫",
+      "仓本堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-484"
   }
 ];

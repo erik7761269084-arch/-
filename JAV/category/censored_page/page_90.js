@@ -1,1663 +1,1550 @@
 window.PAGE_DATA = [
   {
-    "id": 5532,
-    "IDcode": "JUR-354",
-    "title": "汗流浹背的人妻瘋狂搖臀，我一次都沒動就直接內射了 ~ 藤浦惠",
+    "id": 174728,
+    "IDcode": "ATID-651",
+    "title": "淫魔パーティー 第1話 狙われた美人妻",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042115621621_thumbnail.webp",
-    "actress": [
-      "藤浦惠",
-      "トイボーイ相沢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-354"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/02/5e7aa1459ddce8251dcb1f69d47e323e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-651"
   },
   {
-    "id": 5160,
-    "IDcode": "JUR-355",
-    "title": "我的肉便器人妻！10次中出前不許走，乖乖聽話去土豪老頭的豪宅 ~ 日下部加奈",
+    "id": 170665,
+    "IDcode": "ATID593THEFIRSTANALSEX",
+    "title": "ザファーストアナルセックス",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703031743784784_thumbnail.webp",
-    "actress": [
-      "日下部加奈",
-      "ラリアット黒川"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-355"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250516-1/358c13a6f88c1d4a962f8437a17ca375.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID593THEFIRSTANALSEX"
   },
   {
-    "id": 5118,
-    "IDcode": "JUR-356",
-    "title": "打死也不能跟老婆說，我居然讓岳母懷孕了...一泊兩日溫泉旅行，忍不住狂中出 ~ 篠原伊代",
+    "id": 196289,
+    "IDcode": "ATK-050",
+    "title": "蛇缚姐妹玩弄完全版",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064737524524_thumbnail.webp",
-    "actress": [
-      "篠原伊代",
-      "トミフミ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-356"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250615-4/50c1c96685e81226327a400a8094d54b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATK-050"
   },
   {
-    "id": 4316,
-    "IDcode": "JUR-357",
-    "title": "汗水狂飆，理性崩塌！盛夏瘋狂大痙攣不倫SEX ~ 水戶香奈",
+    "id": 92418,
+    "IDcode": "ATM",
+    "title": "因为她把我当取款机来勒索，所以让心地善良的苗条巨乳妹用小胖墩追求大胖墩的变态肉便桶完成1发10万-穂花爱里。",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717015529581581_55065_thumbnail.webp",
-    "actress": [
-      "水户香奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-357"
+    "company": "TMA",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240903-1/ac236b5596493528353d80604b9f288e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATM"
   },
   {
-    "id": 4325,
-    "IDcode": "JUR-359",
-    "title": "打死也不能讓老婆知道，我居然讓岳母懷孕了…一泊兩日的溫泉旅行，忍不住狂中出 ~ 盛永彩葉",
+    "id": 87990,
+    "IDcode": "ATOM-214",
+    "title": "限定ジャンケン野球拳",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717171505825825_45593_thumbnail.webp",
-    "actress": [
-      "盛永彩葉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-359"
+    "company": "TMA",
+    "publish_date": "2015-02-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230902-1/e430c9517cbf753c4849fc9900cec640.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-214"
   },
   {
-    "id": 4326,
-    "IDcode": "JUR-360",
-    "title": "拜託啦！就插一下下嘛！童貞小叔子讓我心軟，結果爽到停不下來 ~ 藤森里穂",
+    "id": 166629,
+    "IDcode": "ATOM-267",
+    "title": "黑色连裤袜OL",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717172029510510_44805_thumbnail.webp",
-    "actress": [
-      "藤森里穂",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-360"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/15/59fc445a2c222614bed3bbc63687e164.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-267"
   },
   {
-    "id": 4735,
-    "IDcode": "JUR-361",
-    "title": "給3萬塊 有人願意跟我這個大媽來一發嗎 ~ 木下凜々子",
+    "id": 218893,
+    "IDcode": "atom-275",
+    "title": "浴衣测验时间",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703045150789789_thumbnail.webp",
-    "actress": [
-      "木下凜々子",
-      "ニック",
-      "木下凛凛子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-361"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/21/6140ab325b2bda488f4870f5958c014b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=atom-275"
   },
   {
-    "id": 5146,
-    "IDcode": "JUR-362",
-    "title": "人妻兔女郎被迫服侍老公無理上司：羞恥Cosplay中出招待 ~ 通野未帆",
+    "id": 71856,
+    "IDcode": "ATOM-352",
+    "title": "水着が溶けてポロリ確定！マンチラ必至！どさくさ紛れにヌルっと挿入！？素人限定！溶ける水着でぬるぬるソープ体験！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091443600600_thumbnail.webp",
+    "company": "TMA",
+    "publish_date": "2018-11-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/a324c6a5b6fada9212721d7b8c0ddd4b.jpg",
     "actress": [
-      "通野未帆"
+      "今井由亞",
+      "花笑一杏",
+      "タツ",
+      "池田结爱",
+      "星咲伶美",
+      "岬澪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-362"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-352"
   },
   {
-    "id": 5524,
-    "IDcode": "JUR-363",
-    "title": "一二三木頭人！羞恥的學校輪奸 人妻實習教師淪爲學生的恥辱娛樂肉便器 ~ 美之島惠理",
+    "id": 94895,
+    "IDcode": "ATOM-377",
+    "title": "ブルマ＆体操着でスケスケ！ポロリ必至！ぬるぬる！ローション組体操",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605044336275275_thumbnail.webp",
-    "actress": [
-      "美之島惠理",
-      "レンジャー鏑木",
-      "ドピュー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-363"
+    "company": "TMA",
+    "publish_date": "2019-06-07",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241106-1/71a8035c89dc73cf646765b742b9699c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-377"
   },
   {
-    "id": 4745,
-    "IDcode": "JUR-364",
-    "title": "逃亡途中被絕倫大叔藏匿，破舊公寓裡罪惡女囚的7天激烈纏綿 ~ 一乃葵",
+    "id": 86906,
+    "IDcode": "ATOM-394",
+    "title": "プルルンおっぱい揉みまくり！おっぱいパブで働くお嬢さん！揉まれるプロなら当ててみろ！誰がおっぱい揉んだでしょ～か！？",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703063313692692_thumbnail.webp",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20240716-1/1aae1fc7b8a5bfce5a71e4e2273cf734.jpg",
     "actress": [
-      "一乃葵"
+      "葵百合香",
+      "星空萌愛",
+      "雪美千夏",
+      "纱々原ゆり",
+      "凉川えいみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-364"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-394"
   },
   {
-    "id": 5151,
-    "IDcode": "JUR-365",
-    "title": "人妻秘書，汗水與熱吻交織的社長室激戰 ~ 友田真希",
+    "id": 169233,
+    "IDcode": "ATOM-394-CN",
+    "title": "プルルンおっぱい揉みまくり！おっぱいパブで働くお嬢さん！揉まれるプロなら当ててみろ！誰がおっぱい揉んだでしょ～か！",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063356952952_thumbnail.webp",
-    "actress": [
-      "友田真希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-365"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20240716-1/2dda8341275679061eb51c7715dd222b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-394-CN"
   },
   {
-    "id": 5182,
-    "IDcode": "JUR-366",
-    "title": "聽說我們的游泳部變成了混浴溫泉，我二話不說就加入了 ~ 木村玲衣 伊織雛乃 須崎美羽",
+    "id": 83060,
+    "IDcode": "ATOM-395",
+    "title": "素人限定！目指せ！高額賞金！リモコンバイブのリモコン探しゲーム2",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091611418418_thumbnail.webp",
-    "actress": [
-      "伊織雛乃",
-      "木村玲衣",
-      "須崎美羽",
-      "日森一",
-      "向理来",
-      "ナイアガラ翔"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-366"
+    "company": "TMA",
+    "publish_date": "2019-12-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221217-1/18d40f0b7cebcfa5a79cf038c049470f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM-395"
   },
   {
-    "id": 5183,
-    "IDcode": "JUR-367",
-    "title": "朋友炫耀每週跟老婆激戰3次，我直接每週5天狂射20發把她老婆給寝取了 ~ 竹內有紀",
+    "id": 169967,
+    "IDcode": "ATOM377",
+    "title": "運動褲與體育服都透明！保證走光！滑溜潤滑液疊羅漢.",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/2025061906345444_thumbnail.webp",
-    "actress": [
-      "竹内有紀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-367"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/20241202-1/bfb66649668ec8775e6277341603ba64.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATOM377"
   },
   {
-    "id": 5152,
-    "IDcode": "JUR-368",
-    "title": "獨家 絕世美女的誘惑與情慾大公開！請來寢取我那聽話的變態老婆 ~ 加藤綾乃",
+    "id": 9855,
+    "IDcode": "ATYA-015",
+    "title": "敏感すぎ！ほんわか奥さん性欲と好奇心で出演…結婚後初浮気でアクメ連発 小春まり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091611761761_thumbnail.webp",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/4577fa2e/vod.jpg",
     "actress": [
-      "加藤あやの"
+      "上戶真理"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-368"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-015"
   },
   {
-    "id": 3747,
-    "IDcode": "JUR-369",
-    "title": "人妻NTR酒吧 原本不情不願的老婆不知不覺被一羣男人迷住了 ~ 白石茉莉奈 藤井蕾菈",
+    "id": 7469,
+    "IDcode": "ATYA-018",
+    "title": "シャイなくせに性欲がすごすぎるドM奥さんガツガツ来る絶倫おじさんにヤラれまくり理性ぶっ飛び浮気アクメ連発 冬愛ことね",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030128400400_33616_thumbnail.webp",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/91403bc10535681990a30f0694ea6ded.jpg",
     "actress": [
-      "藤井蕾菈",
-      "白石茉莉奈",
-      "羽田貴史"
+      "冬愛琴音",
+      "冬爱琴音"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-369"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-018"
   },
   {
-    "id": 4715,
-    "IDcode": "JUR-370",
-    "title": "換妻酒吧人妻NTR：老婆最終迷戀上了被羣P的快感 ~ 新妻優香 大空七海",
+    "id": 6857,
+    "IDcode": "ATYA-019",
+    "title": "おぢチ●ポ大好き！巨乳ギャル若妻結婚しても全然性欲が収まらず浮気交尾ヤリ散らかした 椿りか",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040707563563_thumbnail.webp",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/acacad130fe11ac8528b90d9e8a7288e.jpg",
     "actress": [
-      "大空七海",
-      "新妻優香",
-      "大岛丈"
+      "椿莉香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-370"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-019"
   },
   {
-    "id": 5565,
-    "IDcode": "JUR-371",
-    "title": "親密纏綿 出差途中與上司的禁忌之情 ~ 新妻優香",
+    "id": 4393,
+    "IDcode": "ATYA-023",
+    "title": "ミニマムボディにJカップボイン！爆乳童顔妻が他人おぢチ●ポ（絶倫）でヨガり絶頂 夕美しおん",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035855490490_thumbnail.webp",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/7b1a2db5fec589cab2dcc5fa9ee37583.jpg",
     "actress": [
-      "新妻優香"
+      "夕美紫苑"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-371"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-023"
   },
   {
-    "id": 5527,
-    "IDcode": "JUR-372",
-    "title": "女教師NTR 被不良學生搶走最愛的老婆 ~ 藤環奈",
+    "id": 3472,
+    "IDcode": "ATYA-025",
+    "title": "愛嬌抜群でムチムチなGカップ若妻デカチンおじさんに突きまくられ本物のガチイキを知ってしまう！ 有村のぞみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605040012935935_thumbnail.webp",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/05d95ab6/vod.jpg",
     "actress": [
-      "藤環奈",
-      "ニック"
+      "有村希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-372"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-025"
   },
   {
-    "id": 5510,
-    "IDcode": "JUR-373",
-    "title": "跟兒子的朋友當了五年炮友，禁忌關係讓我沉淪 ~ 小野梨花",
+    "id": 3498,
+    "IDcode": "ATYA-026",
+    "title": "フェロモンダダ漏れ！ヤリたがり美人妻全身敏感で常にチ●ポを欲してる…絶倫おじさんの巨根で乱れ狂う！ 響つかさ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605043134361361_thumbnail.webp",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/d67e785e/vod.jpg",
     "actress": [
-      "小野梨花"
+      "永野司"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-373"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-026"
   },
   {
-    "id": 5511,
-    "IDcode": "JUR-374",
-    "title": "愛液狂噴小穴被叔父用超猛口技和無敵巨棒塞滿的反向玩法 ~ 星宮一花",
+    "id": 2665,
+    "IDcode": "ATYA-027",
+    "title": "おじさんのデカマラにもう夢中…全身エッチな人妻がドスケベ婚外交尾で潮吹きアクメ 南條彩",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605043543153153_thumbnail.webp",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/2b9601b5/vod.jpg",
     "actress": [
-      "星宮一花",
-      "星宫一花"
+      "南條彩"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-374"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-027"
   },
   {
-    "id": 5200,
-    "IDcode": "JUR-375",
-    "title": "背德寝取劇場：貞潔人妻被猥瑣男的醜陋肉棒玷污 ~ 愛弓涼",
+    "id": 2690,
+    "IDcode": "ATYA-028",
+    "title": "豊満ムチムチ…Hカップ奥さん白モチ肌エロすぎ…爆乳スケベ妻が潮吹きイキ狂い交尾 小梅えな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063356131131_thumbnail.webp",
+    "company": "妄想族",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/539539bc/vod.jpg",
     "actress": [
-      "愛弓涼"
+      "小梅惠奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-375"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-028"
   },
   {
-    "id": 5180,
-    "IDcode": "JUR-377",
-    "title": "爆乳N杯美熟女首次中出解禁 老公造人完就被精力旺盛的繼子狂灌滿 ~ 城崎百瀨",
+    "id": 174824,
+    "IDcode": "ATYA-029",
+    "title": "セックスレス妻カラダだけの不倫で快楽堕ち完熟Gカップ奥さん絶倫おじにぶっ刺されて連続昇天 長瀬麻美",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063353926926_thumbnail.webp",
-    "actress": [
-      "城崎百瀨",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-377"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/dbfc34e7/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-029"
   },
   {
-    "id": 4337,
-    "IDcode": "JUR-378",
-    "title": "豐滿繼母教你大人的吻技，幫你破處啦 ~ 古東麻里子",
+    "id": 71736,
+    "IDcode": "AUKB-096",
+    "title": "レズビアンに寝取られた人妻たち2 BEST4時間",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717003006630630_45682_thumbnail.webp",
+    "company": "",
+    "publish_date": "2019-06-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/8ecf0a0190be1494d7c9df478ead6cef.jpg",
     "actress": [
-      "古東まりこ",
-      "ニック"
+      "葵百合香",
+      "真木今日子",
+      "翔田千里",
+      "杉浦花音",
+      "本庄優花",
+      "森下美绪",
+      "樱井菜々子",
+      "新堂有望"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-378"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-096"
   },
   {
-    "id": 5176,
-    "IDcode": "JUR-379",
-    "title": "瑜伽喚醒的敏感肉身，慾求不滿的豐滿阿姨被猛舔狂幹到潮吹滿身 ~ 盛永彩葉",
+    "id": 170166,
+    "IDcode": "AUKB093",
+    "title": "秘密浴室湿润肌肤紧贴蕾丝爱240う分钟.",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091707769769_thumbnail.webp",
-    "actress": [
-      "盛永彩葉",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-379"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20250220-1/e67fab4ec1b903ff53e4c56c33665fd4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB093"
   },
   {
-    "id": 4724,
-    "IDcode": "JUR-380",
-    "title": "靈魂肉體超合拍的兩人！深情熱吻風俗店的纏綿時光 ~ 藤浦惠",
+    "id": 225096,
+    "IDcode": "AUKG-367",
+    "title": "被义妹搞女同的人妻",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703051334749749_thumbnail.webp",
-    "actress": [
-      "藤浦惠",
-      "太刀茜祢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-380"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/ca8811658fd17fe36fc1b6f40327f848.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-367"
   },
   {
-    "id": 5203,
-    "IDcode": "JUR-381",
-    "title": "天生I罩杯極品，專屬女神登場！老公播種後總是被公公內射到不行 ~ 桃園怜奈",
+    "id": 98216,
+    "IDcode": "AUKG-462",
+    "title": "中文字幕レズビアンの馆～家政妇が见た！淫乱セレブの乱れ爱欲～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619082110632632_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/ke4wy121btf.jpg",
     "actress": [
-      "桃園怜奈"
+      "音羽文子",
+      "夏树カオル",
+      "中岛京子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-381"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-462"
   },
   {
-    "id": 5208,
-    "IDcode": "JUR-382",
-    "title": "託卵妻：夢想中的婚姻和性生活全是虛假的！ ~ 美谷朱裏",
+    "id": 164353,
+    "IDcode": "AUKG-465",
+    "title": "中文字幕レズビアンストーカー～浮気",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091530514514_thumbnail.webp",
-    "actress": [
-      "美谷朱里",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-382"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/czeuz42cpry.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-465"
   },
   {
-    "id": 5526,
-    "IDcode": "JUR-383",
-    "title": "被輪奸的女人質：搶劫銀行的劫匪輪奸高冷人妻最終淪爲中出肉便器 ~ 紗彌佳",
+    "id": 102842,
+    "IDcode": "AUKG-466",
+    "title": "中文字幕嫁姑レズ～元レズデリヘル嬢の嫁を寝取る淫乱",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/202506050400167878_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/iyrtl4fkuej.jpg",
     "actress": [
-      "紗弥佳",
-      "大岛丈"
+      "牧村柚希",
+      "山口椿"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-383"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-466"
   },
   {
-    "id": 5512,
-    "IDcode": "JUR-384",
-    "title": "還能有這種服務！？ 5秒鍾就射了！ 鄰居人妻將自宅改裝成風俗按摩店後，我的榨幹日常 ~ 岬光莉",
+    "id": 98093,
+    "IDcode": "AUKG-467",
+    "title": "中文字幕人妻とその彼女～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042723202202_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/hjdj52kweqf.jpg",
     "actress": [
-      "岬光莉"
+      "吉永塔子",
+      "篠原友香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-384"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-467"
   },
   {
-    "id": 5147,
-    "IDcode": "JUR-385",
-    "title": "新人人妻淪為肉便器，溫泉團建全部門一起上 ~ 小花暖",
+    "id": 98397,
+    "IDcode": "AUKG-468",
+    "title": "女同性恋教育-佐久間恵美 香苗レノン",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619074253808808_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/05/752bc1f84cc1e6b2956c4cbf1373cc72.jpg",
     "actress": [
-      "小花暖"
+      "香苗レノン",
+      "佐久间恵美"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-385"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-468"
   },
   {
-    "id": 4296,
-    "IDcode": "JUR-389",
-    "title": "人妻秘書，汗水與熱吻交織的社長室激情內射 美熟女女王震撼登場秘書系列 ~ 北条麻妃",
+    "id": 97956,
+    "IDcode": "AUKG-474",
+    "title": "中文字幕レズ堕ち義姉妹～がまんできない喪服未",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717001830515515_27881_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "http://p.155250718p.com/upload/vod/2022/09/yz3qs3jffjc.jpg",
     "actress": [
-      "北条麻妃"
+      "松尾江里子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-389"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-474"
   },
   {
-    "id": 3779,
-    "IDcode": "JUR-390",
-    "title": "錢全花光了！老婆回娘家的這一周，包下極上《神美貌》風俗妹無限內射的同居生活 ~ 新妻優香",
+    "id": 81500,
+    "IDcode": "AUKG-477",
+    "title": "極上・身長差レズビアン ～性欲もカラダもLLサイズ～ 宮沢ちはる 筧えりか",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030235114114_90669_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "2020-01-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/0c90da547bef47247037a3135aa09cf0.jpg",
     "actress": [
-      "新妻優香",
-      "羽田貴史"
+      "宫泽千春"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-390"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-477"
   },
   {
-    "id": 4297,
-    "IDcode": "JUR-392",
-    "title": "女上司淪陷扭曲刺激與調教，SM偷情大戰 ~ 加藤綾乃",
+    "id": 213294,
+    "IDcode": "aukg-485",
+    "title": "邻家女孩的邀请",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717023740487487_91014_thumbnail.webp",
-    "actress": [
-      "加藤あやの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-392"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/09/9e909a4768d897abd6a94b6f6dab21f7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=aukg-485"
   },
   {
-    "id": 4759,
-    "IDcode": "JUR-395",
-    "title": "為了女兒替身出道同人AV的火辣媽媽 ~ 風間由美 賀川かのこ",
+    "id": 213353,
+    "IDcode": "aukg-486",
+    "title": "女同性恋老师",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053607832832_thumbnail.webp",
-    "actress": [
-      "風間由美",
-      "賀川かのこ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-395"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/12/09d952a805e04db35c140589ffe491f9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=aukg-486"
   },
   {
-    "id": 4746,
-    "IDcode": "JUR-396",
-    "title": "公司慰安旅行NTR：老婆被上司們輪流侵犯的羞恥之夜 ~ 星宮一花",
+    "id": 213325,
+    "IDcode": "aukg-492",
+    "title": "邀请直女到你的房间",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/202507030547491919_thumbnail.webp",
-    "actress": [
-      "星宮一花",
-      "星宫一花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-396"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/11/e6a4b3e947e4064cefc182ef0e34a747.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=aukg-492"
   },
   {
-    "id": 4749,
-    "IDcode": "JUR-397",
-    "title": "畢業典禮後的祕密禮物：繼母的禁忌誘惑 ~ 岬光莉",
+    "id": 91726,
+    "IDcode": "AUKG-495",
+    "title": "生徒会長×ギャルビアン ～白が黒に染まるとき～ 五十嵐かな 冬愛ことね",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703050555390390_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "2020-09-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221019-1/0d0e3136cd0e705f581477de9760e530.jpg",
     "actress": [
-      "岬光莉",
-      "ナイアガラ翔"
+      "冬爱琴音",
+      "五十岚かな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-397"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-495"
   },
   {
-    "id": 3363,
-    "IDcode": "JUR-398",
-    "title": "朋友炫耀一週跟老婆開戰3次，我直接一週5天每次4發共20發中出搶了他老婆 ~ 水戶香奈",
+    "id": 81378,
+    "IDcode": "AUKG-517",
+    "title": "五十路レズ ～昼下がり密会欲情ラブホテル～ 翔田千里 西園寺美緒",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023625877877_91750_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "2021-07-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221003-1/3f5730a9dd5b2aa5ded9f42c98a59f8e.jpg",
     "actress": [
-      "水户香奈",
-      "ニック"
+      "翔田千里",
+      "森下美绪"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-398"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-517"
   },
   {
-    "id": 4295,
-    "IDcode": "JUR-399",
-    "title": "透明感120％！人人都想要的完美人妻中出解禁！老公不行就靠公公來滿足 ~ 京香栞",
+    "id": 81330,
+    "IDcode": "AUKG-523",
+    "title": "おねロリ プライベートレズ ～ど痴女vsロリっ娘ヌルテカレズ中毒～ 美波沙耶 涼花くるみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717032916133133_38327_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "2021-10-19",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220924-1/73df580d94c46ec48341fb4adb445a24.jpg",
     "actress": [
-      "京香栞"
+      "凉南佳奈",
+      "美波沙耶"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-399"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-523"
   },
   {
-    "id": 4744,
-    "IDcode": "JUR-400",
-    "title": "被甜言蜜語迷得神魂顛倒，我沉迷人妻窩居激情，連大學都留級了 ~ 竹田夢",
+    "id": 173563,
+    "IDcode": "AUKG-605",
+    "title": "変態レズビアン ～体液マニア 唾液もマン汁も舐めつくしたい～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703063313943943_thumbnail.webp",
-    "actress": [
-      "竹田夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-400"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/08/3d777369/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-605"
   },
   {
-    "id": 5175,
-    "IDcode": "JUR-401",
-    "title": "離家出走被小姨麻妃收留，每晚陪她下班後解壓即插激戰 ~ 北条麻妃",
+    "id": 173641,
+    "IDcode": "AUKG-606",
+    "title": "熟女夜●いレズ ～ノンケの人妻を酔わせて寝取る肉食系ビアン～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-06-20",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064903192192_thumbnail.webp",
-    "actress": [
-      "北条麻妃",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-401"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/08/1094f9eb98ef574d232840f47dbcbd95.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-606"
   },
   {
-    "id": 4320,
-    "IDcode": "JUR-402",
-    "title": "為了摯愛的丈夫，甘心淪為週末肉便器！被超絶倫惡霸大叔狂中出到懷孕 ~ 篠原伊代",
+    "id": 175348,
+    "IDcode": "AUKG-607",
+    "title": "人妻不倫レズ ～夫のいない3日間 愛欲不倫は夫婦のベッドで～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717001831750750_29961_thumbnail.webp",
-    "actress": [
-      "篠原伊代",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-402"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/9a66f045/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-607"
   },
   {
-    "id": 3740,
-    "IDcode": "JUR-403",
-    "title": "你的肉便器人妻，就當利息借給我玩玩！不被我中出10次不準回家，乖乖聽話拜訪極惡土豪老男人 ~ 上羽絢",
+    "id": 176551,
+    "IDcode": "AUKG-608",
+    "title": "姉妹レズ ～ずっと好きだった憧れのお姉ちゃんと…禁断レズ相姦～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030455687687_11340_thumbnail.webp",
-    "actress": [
-      "上羽絢",
-      "羽田貴史"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-403"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/16/c4bcc45af87356f23cce06534ac270a2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-608"
   },
   {
-    "id": 4324,
-    "IDcode": "JUR-404",
-    "title": "永無止境的內射中出輪●日常 ~ 通野未帆",
+    "id": 176487,
+    "IDcode": "AUKG-609",
+    "title": "汚部屋レズ ～匂います？お風呂キャンセル女子の汚部屋レズ誘惑～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717023902578578_25118_thumbnail.webp",
-    "actress": [
-      "通野未帆",
-      "羽田貴史"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-404"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/16/c64dc545/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-609"
   },
   {
-    "id": 4291,
-    "IDcode": "JUR-406",
-    "title": "神級聯動雙爆乳人妻初共演！偷東西被逮後發現超猛巨乳，直接調教成我的專屬雙乳玩具 ~ 日下部加奈 桃園怜奈",
+    "id": 178292,
+    "IDcode": "AUKG-610",
+    "title": "好色 美熟女レズビアン ～触れるたび敏感に震える熟女の肉欲～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/2025071700194911_71976_thumbnail.webp",
-    "actress": [
-      "日下部加奈",
-      "桃園怜奈",
-      "羽田貴史"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-406"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/10/e4743231/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-610"
   },
   {
-    "id": 4751,
-    "IDcode": "JUR-407",
-    "title": "連老公都沒看過的極致羞恥部位曝光！肛門全裸羞辱懷孕性愛 ~ 藤環奈",
+    "id": 178262,
+    "IDcode": "AUKG-611",
+    "title": "レズ録CH ～イマドキ女子の告白！！ビアンセックス密着撮影～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703050225250250_thumbnail.webp",
-    "actress": [
-      "藤環奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-407"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/10/ad7240e1/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-611"
   },
   {
-    "id": 2996,
-    "IDcode": "JUR-408",
-    "title": "打掃時不設防的大屁股被直接開幹，菊花大開爽到發狂，絕美人妻家政婦一次次沉淪生猛性愛 ~ 白石茉莉奈",
+    "id": 181559,
+    "IDcode": "AUKG-612",
+    "title": "レズ堕ち未亡人 ～遺影の前で絡み合う喪服熟女の性愛～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020934877877_24349_thumbnail.webp",
-    "actress": [
-      "白石茉莉奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-408"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/24/c3eddd6d/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-612"
   },
   {
-    "id": 3785,
-    "IDcode": "JUR-409",
-    "title": "考驗妻子對我的愛 讓妻子和猛男後輩獨處3小時...連發16次中出被奪妻的NTR悲慘故事 ~ 竹田夢",
+    "id": 186436,
+    "IDcode": "AUKG-613",
+    "title": "夫の代わりに抱いてください ～セックスレス若妻を寝取るレズデリヘル嬢～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030736713713_13519_thumbnail.webp",
-    "actress": [
-      "竹田夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-409"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/11/10a34a459ade365c3beebb17f3c9c896.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-613"
   },
   {
-    "id": 3386,
-    "IDcode": "JUR-413",
-    "title": "深夜辦公室的不貞之戀：與保安的激情纏綿 ~ 小島南",
+    "id": 76584,
+    "IDcode": "AUKG-614",
+    "title": "義姉妹レズビアン ～ビアンの義妹が美人兄嫁と全力レズセックス～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821022829846846_63116_thumbnail.webp",
-    "actress": [
-      "小島南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-413"
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/5def8be2/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-614"
   },
   {
-    "id": 4755,
-    "IDcode": "JUR-414",
-    "title": "考驗老婆對我的愛，在和猛男後輩獨處3小時中...連發16次不拔追擊中出，我被NTR的故事 ~ 美之島惠理",
+    "id": 75259,
+    "IDcode": "AUKG-615",
+    "title": "人妻レズ覚醒 ～仲良し夫婦のスワッピングから始まる人妻同士のレズSEX！！～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703054635516516_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/aab6eac7/vod.jpg",
     "actress": [
-      "美之島惠理",
-      "左慈半造"
+      "白河花清",
+      "纱々原ゆり"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-414"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-615"
   },
   {
-    "id": 4742,
-    "IDcode": "JUR-415",
-    "title": "汗如雨下的人妻狂甩臀部，我一次都沒動就直接內射啦 ~ 宮下華奈",
+    "id": 73178,
+    "IDcode": "AUKG-618",
+    "title": "不倫レズ ～性欲処理レズビアン飼育～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703072729284284_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250816-2/f0e583e25b37c2d6635beb194a0ca92a.jpg",
     "actress": [
-      "宮下華奈"
+      "友田彩也香",
+      "由爱可奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-415"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-618"
   },
   {
-    "id": 2640,
-    "IDcode": "JUR-425",
-    "title": "和絕倫阿姨的1泊2日榨精之旅 童貞覺醒後沉迷連續中出 ~ 古東まりこ",
+    "id": 189318,
+    "IDcode": "AUKG-619",
+    "title": "熟女レズビアン ～愛欲四畳半の快楽女遊戯～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918021321322322_74913_thumbnail.webp",
-    "actress": [
-      "古東まりこ",
-      "青沼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-425"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/f9bd6d6fbafc92473932d1ac4fb47e6b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-619"
   },
   {
-    "id": 2589,
-    "IDcode": "JUR-426",
-    "title": "繼母，妳不是想要孩子嗎？讓我來滿足妳吧 ~ 水戶香奈",
+    "id": 189311,
+    "IDcode": "AUKG-620",
+    "title": "誰か来たらどうするの…？狭いトイレで濃厚密着レズ愛撫",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918023753272272_48681_thumbnail.webp",
-    "actress": [
-      "水户香奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-426"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/cfedd2ad11f3a5551eb9ae5b7099be2d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-620"
   },
   {
-    "id": 3794,
-    "IDcode": "JUR-427",
-    "title": "公司慰安旅行NTR：老婆被慾火焚身的上司們輪流侵犯 ~ 岬光莉",
+    "id": 71893,
+    "IDcode": "AUKG-621",
+    "title": "人妻百合族 ～再会レズセックス、懐かしさの手前でこみ上げる愛欲～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030452685685_84055_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/7093e2b9db319cd4440c6b0f3c03befb.jpg",
     "actress": [
-      "岬光莉"
+      "岬櫻"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-427"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-621"
   },
   {
-    "id": 4758,
-    "IDcode": "JUR-430",
-    "title": "人妻拿了男大學生的房間鑰匙，天天去他家被幹到飽的生活直到他畢業爲止吧 ~ 小野梨花",
+    "id": 70888,
+    "IDcode": "AUKG-622",
+    "title": "継母と私 ～レズの快感教えてあげる パパには内緒の強●レズ強要～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703054825835835_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/7ea78dc1488b8d635ead05e30632f9b9.jpg",
     "actress": [
-      "小野梨花"
+      "祈山愛",
+      "黑川纱里奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-430"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-622"
   },
   {
-    "id": 2642,
-    "IDcode": "JUR-432",
-    "title": "無盡的中出輪⬤日常 ~ 小島南",
+    "id": 68901,
+    "IDcode": "AUKG-624",
+    "title": "ダメ女に恋した私 ～合鍵わたします…同棲契約レズビアン～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918023752580580_30923_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-3/d222dd0958f8365e25cfd87106066671.jpg",
     "actress": [
-      "小島南",
-      "ラリアット黒川",
-      "トミフミ",
-      "ラヴズ"
+      "幾田真知"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-432"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-624"
   },
   {
-    "id": 3372,
-    "IDcode": "JUR-434",
-    "title": "老公從未見過的極致羞恥部位，肛門完全暴露羞辱孕育玩法 ~ 北条麻妃",
+    "id": 67320,
+    "IDcode": "AUKG-626",
+    "title": "先生と私 ～レオタード女生徒と体育倉庫でレズレッスン～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821022825193193_38590_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "2025-05-06",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/1e383550/vod.jpg",
     "actress": [
-      "北条麻妃"
+      "天然美月",
+      "北山憂"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-434"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-626"
   },
   {
-    "id": 3387,
-    "IDcode": "JUR-435",
-    "title": "『電撃専屬』決定物悽肉感H杯芸能人 和老公做愛後還被公公中出不停 ~ 七海蒂娜",
+    "id": 66405,
+    "IDcode": "AUKG-627",
+    "title": "人妻レズ不倫 ～ご近所のセックスレス奥様同士が夫の留守に…姫川礼子 碓氷紗也",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/202508210228323939_66485_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250603-1/5a2f788604517d535cbba1a0c86a6664.jpg",
     "actress": [
-      "七海蒂娜"
+      "姫川礼子",
+      "碓氷紗也"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-435"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-627"
   },
   {
-    "id": 4747,
-    "IDcode": "JUR-436",
-    "title": "跟兒子的朋友當了5年砲友，年下小鮮肉讓我淪陷中出狂熱 ~ 沖宮那美",
+    "id": 63940,
+    "IDcode": "AUKG-628",
+    "title": "性愛マッチングレズビアン ～マッチングサイトで女を誘う美女ビアン～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703054633315315_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "2025-06-17",
+    "cover_url": "https://tutu1.space/images/2025/06/21/a6ec0f8d48e772387d5c8990a18c996f.jpg",
     "actress": [
-      "沖宮那美"
+      "花衣つばき",
+      "響かれん"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-436"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-628"
   },
   {
-    "id": 3360,
-    "IDcode": "JUR-438",
-    "title": "背德的寝取劇場：貞潔人妻被猥瑣男的醜陋肉棒玷污 ~ 篠原伊代",
+    "id": 63303,
+    "IDcode": "AUKG-629",
+    "title": "片思いレズビアン ～お兄ちゃんの彼女に恋する制服レズビアン～",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821022823677677_39063_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/18432739eb793ef02cc8c5005e49fc0d.jpg",
     "actress": [
-      "篠原伊代"
+      "葵井みずほ",
+      "野原なこ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-438"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-629"
   },
   {
-    "id": 4748,
-    "IDcode": "JUR-443",
-    "title": "寝取らせ狂熱串刺玩法 把我最愛的妻子交給陌生男人盡情蹂躪 ~ 椎名由奈",
+    "id": 63287,
+    "IDcode": "AUKG-630",
+    "title": "美熟女レズビアン レズ堕ち家政婦と有閑マダム",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703051440182182_thumbnail.webp",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/9d970d43cd99557f7c2e44234b1e9c20.jpg",
+    "actress": [
+      "祈山愛",
+      "田所百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-630"
+  },
+  {
+    "id": 192358,
+    "IDcode": "AUKG-631",
+    "title": "レズ回春エステサロン ～性欲回復！！秘密のベロ舐め施術～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/4f39bd818ee67b66ed3d4f8f1dc0b13e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-631"
+  },
+  {
+    "id": 62095,
+    "IDcode": "AUKG-632",
+    "title": "＃裏アカ女子レズビアン ～美少女の性欲処理します！裏垢で女を漁る美人レズビアン～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/ebb2a841034e660c06250aa7ebda593a.jpg",
+    "actress": [
+      "瀬戸ひなこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-632"
+  },
+  {
+    "id": 182755,
+    "IDcode": "AUKG-633",
+    "title": "潮吹きレズビアン ～潮まみれで愛し合う禁断レズセックス～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/f182f5eb/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-633"
+  },
+  {
+    "id": 61165,
+    "IDcode": "AUKG-634",
+    "title": "レズデリヘル ～自宅OK！女性専用デリヘル 今すぐ遊べる新人嬢はこちらになります！～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/a093ba8a/vod.jpg",
+    "actress": [
+      "花衣つばき",
+      "天然美月",
+      "葵井みずほ",
+      "響かれん",
+      "北山憂",
+      "野原なこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-634"
+  },
+  {
+    "id": 60723,
+    "IDcode": "AUKG-635",
+    "title": "レズ堕ち未亡人 ～喪服の襟から覗く白く熟れた乳房～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "MILK",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/cee7d299/vod.jpg",
+    "actress": [
+      "葉山小百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-635"
+  },
+  {
+    "id": 174816,
+    "IDcode": "AUKG-636",
+    "title": "嫁姑レズ ～潮吹き新婚妻と豊満義母の禁断レズ関係～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/d4d9a0ea/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-636"
+  },
+  {
+    "id": 174019,
+    "IDcode": "AUKG-637",
+    "title": "濡れ髪旅情レズビアン ～わけあり熟女旅 湯上りレズ一夜～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/05/82c73cc7/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-637"
+  },
+  {
+    "id": 216400,
+    "IDcode": "auks-096",
+    "title": "和一个变性人一起租别墅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/05/0fceb9e9382e2eee771ff379b72f1cf9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=auks-096"
+  },
+  {
+    "id": 72082,
+    "IDcode": "AUKS-100",
+    "title": "童顔巨乳女子-増田ゆめ 後藤里香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/03/06/8a7d54d01e38eb4821d429c15c5d628c.jpg",
+    "actress": [
+      "后藤里香",
+      "増田ゆめ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-100"
+  },
+  {
+    "id": 83447,
+    "IDcode": "AUKS-112",
+    "title": "ど淫乱レズ売春木賃宿 ～レズの巣窟 ボロ家屋四畳半～ 神ユキ 伊東沙蘭",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/e7da2da5bdb781ebf121026bdbd710c5.jpg",
+    "actress": [
+      "神ユキ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-112"
+  },
+  {
+    "id": 76661,
+    "IDcode": "AUKS-151",
+    "title": "レズ売春 淫欲の館 ～レズ風俗で繰り広げられる三つ巴レズセックス～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/5f4b4775/vod.jpg",
+    "actress": [
+      "佐倉陽菜",
+      "明里友香",
+      "黒木歩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-151"
+  },
+  {
+    "id": 66036,
+    "IDcode": "AUKS-152",
+    "title": "ニューハーフレズビアン ～アナルペニバンに悶絶する美人ニューハーフ家庭教師～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/c8fc5bf1ef8eb61672f3247b2b689bd6.jpg",
+    "actress": [
+      "天馬唯",
+      "咲雪华奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-152"
+  },
+  {
+    "id": 191596,
+    "IDcode": "AVGL-002",
+    "title": "为了保护公主一路上被各种残忍凌辱内射虐待的女忍最后也无法护住公主的贞操",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250723-1/587d731559205da9b3e2baa4da6740fb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVGL-002"
+  },
+  {
+    "id": 210327,
+    "IDcode": "avop-014",
+    "title": "他从来没有对我这么好过-赤井美月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/09/23/0f60ad7be5a5235de5381cb28323a14a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-014"
+  },
+  {
+    "id": 214897,
+    "IDcode": "avop-016",
+    "title": "你的母亲-川菜美鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/12/06/a15c7592952269a77edbdaf96d67eaf1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-016"
+  },
+  {
+    "id": 35313,
+    "IDcode": "AVOP-029",
+    "title": "-赤裸族2东京蚁居物語无家可归的夫妻在狭小的帐篷-椎名由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/27/504700974f002cac82e33079cf492662.jpg",
     "actress": [
       "椎名由奈",
+      "森林原人",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-029"
+  },
+  {
+    "id": 155617,
+    "IDcode": "AVOP-056",
+    "title": "無碼破解版歡淫光臨kawaii學園文化祭2014露內褲JK們來迎接您",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20240924-1/762aeff05d02ff8ecc9e57c38098a197.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-056"
+  },
+  {
+    "id": 210758,
+    "IDcode": "avop-059",
+    "title": "家里的妻子-川上ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/11/02/76d363c0648f8db3119abc56c3cecf1d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-059"
+  },
+  {
+    "id": 207184,
+    "IDcode": "AVOP-065",
+    "title": "冬月枫的性爱教学",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240404-1/8418beb7f63542e81645763387e5b123.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-065"
+  },
+  {
+    "id": 209728,
+    "IDcode": "avop-072",
+    "title": "母娘の檻地獄の始まり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/07/23/3e2d3c0957a192a053b6fb7bcb4b07dd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-072"
+  },
+  {
+    "id": 155235,
+    "IDcode": "AVOP-073",
+    "title": "下集住在遠離人煙的度假勝地遇到有著日曬痕跡的校外旅行學生們完全無毛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fqjpg4.top/upload/vod/20240918-1/66baae8ac8698b35a595c22ef411ab21.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-073"
+  },
+  {
+    "id": 210708,
+    "IDcode": "avop-110",
+    "title": "償い-内村りな 堀内秋美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/10/28/73f92e2ce283a69605c8e0a7c4c47380.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-110"
+  },
+  {
+    "id": 72932,
+    "IDcode": "AVOP-125",
+    "title": "美竹铃真正中出解禁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240819-1/9e1c6388b503063e8bc4f9f0b27ba8ca.jpg",
+    "actress": [
       "大岛丈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-443"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-125"
   },
   {
-    "id": 3001,
-    "IDcode": "JUR-448",
-    "title": "被老公的年下上司調教成專屬乳奴，我徹底淪陷了！~ 藤浦惠",
+    "id": 221518,
+    "IDcode": "AVOP-126",
+    "title": "香澄はる AVDebut",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021034148148_14701_thumbnail.webp",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/12/9a6555b4902d1292e248736f922524aa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-126"
+  },
+  {
+    "id": 87995,
+    "IDcode": "AVOP-127",
+    "title": "和七个小仙女妹妹的同居生活",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/aff66e0747bcba89a4bb0f1b21a0e6b7.jpg",
     "actress": [
-      "藤浦惠",
-      "左慈半造"
+      "奥田咲",
+      "天使萌",
+      "小島南",
+      "小野夕子",
+      "葵司",
+      "星野娜美",
+      "美里有纱"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-448"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-127"
   },
   {
-    "id": 3749,
-    "IDcode": "JUR-450",
-    "title": "出道三周年紀念作！Madonna專屬女優藤環奈粉絲感恩祭 濃烈欲望性欲爆棚爆射大亂交 ~ 藤環奈",
+    "id": 209294,
+    "IDcode": "avop-128",
+    "title": "篠田あゆみ 大場ゆい 汗尻",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030130202202_41550_thumbnail.webp",
-    "actress": [
-      "藤環奈",
-      "トミフミ",
-      "ラヴズ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-450"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/06/02/QQ20200603051157ae2b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-128"
   },
   {
-    "id": 3362,
-    "IDcode": "JUR-452",
-    "title": "寝取らせ串刺玩法 拜託你們狠狠侵犯我最愛的妻子 ~ 愛弓涼",
+    "id": 82292,
+    "IDcode": "AVOP-137",
+    "title": "波老师和大槻响的禁断介护",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023950817817_21127_thumbnail.webp",
-    "actress": [
-      "愛弓涼",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-452"
-  },
-  {
-    "id": 3381,
-    "IDcode": "JUR-454",
-    "title": "離家出走後賴在性感小姨家，她的風騷讓我HOLD不住，天天無套瘋狂纏綿 ~ 通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025113773773_92417_thumbnail.webp",
-    "actress": [
-      "通野未帆",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-454"
-  },
-  {
-    "id": 3383,
-    "IDcode": "JUR-455",
-    "title": "出差陪酒被囂張客戶社長瘋狂中出 公司頭牌美女的制服誘惑 ~ 瑶真由香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/202508210247253131_16665_thumbnail.webp",
-    "actress": [
-      "瑶真由香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-455"
-  },
-  {
-    "id": 3373,
-    "IDcode": "JUR-456",
-    "title": "被甜言蜜語迷倒，和人妻窩在家裏的操的天昏地暗連大學學業都耽誤了 ~ 日下部加奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023952393393_49726_thumbnail.webp",
-    "actress": [
-      "日下部加奈",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-456"
-  },
-  {
-    "id": 2992,
-    "IDcode": "JUR-459",
-    "title": "為了女兒代打上陣同人AV出道的火辣媽媽 ~ 藤環奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025158482482_21375_thumbnail.webp",
-    "actress": [
-      "藤環奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-459"
-  },
-  {
-    "id": 3396,
-    "IDcode": "JUR-460",
-    "title": "通勤路上天天被痴漢騷擾… 被鄰居小混混輪流欺負的N杯巨乳人妻 ~ 城崎百瀨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024222335335_37525_thumbnail.webp",
-    "actress": [
-      "城崎百瀨",
-      "ラリアット黒川",
-      "いち",
-      "マサムー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-460"
-  },
-  {
-    "id": 3419,
-    "IDcode": "JUR-461",
-    "title": "只允許進3釐米…被欲求不滿的絕倫公公誘惑後，溫柔人妻竟然和他竟然超合拍，高潮迭起根本停不下來 ~ 美谷朱音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-21",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024455798798_27704_thumbnail.webp",
-    "actress": [
-      "美谷朱里",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-461"
-  },
-  {
-    "id": 3008,
-    "IDcode": "JUR-464",
-    "title": "新人人妻女社員被調教成肉便器了，部門全員的溫泉旅行爽的狂幹不停 ~ 宮下華奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045537229229_82248_thumbnail.webp",
-    "actress": [
-      "宮下華奈",
-      "ラヴズ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-464"
-  },
-  {
-    "id": 2981,
-    "IDcode": "JUR-465",
-    "title": "和公公一起住的4年裏，我被他生中出到迷失自我幹到懷孕 ~ 岬光莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021029952952_22339_thumbnail.webp",
-    "actress": [
-      "岬光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-465"
-  },
-  {
-    "id": 2600,
-    "IDcode": "JUR-468",
-    "title": "爺爺把我小穴吸幹，骨髓的欲望都開始騷動了 ~ 京香栞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043334256256_80953_thumbnail.webp",
-    "actress": [
-      "京香栞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-468"
-  },
-  {
-    "id": 2995,
-    "IDcode": "JUR-469",
-    "title": "町內熟女肉便器 大叔們的輪⬤集會 ~ 風間由美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020933801801_91754_thumbnail.webp",
-    "actress": [
-      "風間由美",
-      "大志"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-469"
-  },
-  {
-    "id": 3744,
-    "IDcode": "JUR-471",
-    "title": "汗濕小麥色肌膚，緊緻身材誘惑難擋！工地系人妻上司總關照我，バイト先禁忌之戀沉淪 ~ 宮下華奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031018308308_83641_thumbnail.webp",
-    "actress": [
-      "宮下華奈",
-      "トイボーイ相沢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-471"
-  },
-  {
-    "id": 3773,
-    "IDcode": "JUR-472",
-    "title": "人質交奸24小時 精英女搜查官被強盜輪●的全記錄 ~ 波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-08-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030456986986_46431_thumbnail.webp",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240322-1/a78807adab9e43755d6a9adc74ce1954.jpg",
     "actress": [
       "波多野结衣",
-      "虹村由美"
+      "大槻响",
+      "徳田重男"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-472"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-137"
   },
   {
-    "id": 3003,
-    "IDcode": "JUR-475",
-    "title": "曾經暗戀我的小雞雞青梅竹馬進化成慾望爆表的巨屌男，讓我一次次沉迷無套啪啪 ~ 沖宮那美",
+    "id": 218892,
+    "IDcode": "avop-147",
+    "title": "风骚的大胸黑妞",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025157396396_80732_thumbnail.webp",
-    "actress": [
-      "沖宮那美",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-475"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/21/32a3faab40c8ecb63c66223130680f70.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-147"
   },
   {
-    "id": 2650,
-    "IDcode": "JUR-486",
-    "title": "被甜言蜜語迷倒，我荒廢學業沉迷於人妻姐姐的溫柔鄉 ~ 木村玲衣",
+    "id": 224470,
+    "IDcode": "avop-166",
+    "title": "周年庆吞精国际大赛-みづなれい",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/2025091802375277_89124_thumbnail.webp",
-    "actress": [
-      "木村玲衣",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-486"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/09/08/7371eba6af0f546f15b24bc2741372e1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-166"
   },
   {
-    "id": 3029,
-    "IDcode": "JUR-487",
-    "title": "出差借宿的阿姨讓我慾火焚身 下班後滿身香汗的肉感絲襪腿搞得我理智崩潰 ~ 星冬香",
+    "id": 155221,
+    "IDcode": "AVOP-1704",
+    "title": "破解版 失踪的女孩-有本紗世",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-04",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021840424424_86751_thumbnail.webp",
-    "actress": [
-      "星冬香",
-      "羽田貴史"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-487"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250306-1/b32c267a69b6f6562c1f1ca8d7c0f118.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-1704"
   },
   {
-    "id": 2622,
-    "IDcode": "JUR-493",
-    "title": "被老公的年下上司調教成專屬乳奴的我 ~ 桃園怜奈",
+    "id": 82253,
+    "IDcode": "AVOP-178",
+    "title": "偏远村庄被强奸的波多野结衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-09-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918021318597597_98204_thumbnail.webp",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240421-1/2189d3c4cc4b2c6d993b7a15dbbb70a1.jpg",
     "actress": [
-      "桃園怜奈",
-      "左慈半造"
+      "波多野结衣"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-493"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-178"
   },
   {
-    "id": 75163,
-    "IDcode": "JURA-022",
-    "title": "初撮り六十路妻、ふたたび。 秋吉慶子",
+    "id": 19439,
+    "IDcode": "AVOP-201",
+    "title": "不世出的19岁偶像AV女优诞生",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2020-01-02",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/7df290116b8b3668ea498dde5d7c8388.jpg",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/7ac4d6e5c5891720ec67e06c72283112.jpg",
     "actress": [
-      "秋吉庆子"
+      "相澤南"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-022"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-201"
   },
   {
-    "id": 71928,
-    "IDcode": "JURA-023",
-    "title": "初撮り五十路妻、ふたたび。 天宮よし子",
+    "id": 207080,
+    "IDcode": "AVOP-205",
+    "title": "四个极品辣妹真诱人掏棒狂插干到爽",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2020-01-23",
-    "cover_url": "https://tutu1.space/images/2025/03/10/7623c0ef39804ec3495d8fcb8d3ed41a.jpg",
-    "actress": [
-      "天宫よし子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-023"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240413-1/e3431864d43aab391aeab6d2cc3290ca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-205"
   },
   {
-    "id": 75164,
-    "IDcode": "JURA-024",
-    "title": "初撮り五十路妻、ふたたび。 磯山恵子",
+    "id": 1874,
+    "IDcode": "avop-208",
+    "title": "在与她可爱的侄子-由愛可奈无码流出",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2020-02-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/e321ab7b0f194390d0804dff4ce2cbb0.jpg",
+    "company": "MAXING",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/30/bd69061caccdc05dc73b5e21939b9ac4.jpg",
     "actress": [
-      "矶山恵子"
+      "水川潤",
+      "由爱可奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-024"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-208"
   },
   {
-    "id": 107634,
-    "IDcode": "JURA-068",
-    "title": "初撮り人妻、ふたたび。 相河沙季",
+    "id": 223805,
+    "IDcode": "avop-211",
+    "title": "时间停止",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-06-22",
-    "cover_url": "https://tutu1.space/images/2023/08/12/c585bf8a1664899055ca3ed0f83ee65c.jpg",
-    "actress": [
-      "相河沙季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-068"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/26/682fec268ac1faa180615e032d017837.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-211"
   },
   {
-    "id": 91962,
-    "IDcode": "JURA-073",
-    "title": "初撮り人妻、ふたたび。 長原あきな",
+    "id": 87991,
+    "IDcode": "AVOP-212",
+    "title": "kawaii*10周年SPECIAL企画 夢の共演Wパイパン中出し 鈴木心春 AIKA",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-07-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240620-1/d1693f604ac24c883dfd78e21ce952f2.jpg",
+    "company": "IDEA POCKET",
+    "publish_date": "2016-09-01",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230902-1/f54f349915aab24dc94fde4c15c594c1.jpg",
     "actress": [
-      "長原あきな"
+      "AIKA",
+      "鈴木心春"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-073"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-212"
   },
   {
-    "id": 91029,
-    "IDcode": "JURA-077",
-    "title": "初撮り人妻、ふたたび。 河波れみ",
+    "id": 74995,
+    "IDcode": "AVOP-227",
+    "title": "温柔的大姐姐-石原莉奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-08-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240309-1/b0c24b9f62bf2c3cbd3203dcbbd4064a.jpg",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2023/01/13/16b33a18edc66a678b73944c9119bc06.jpg",
     "actress": [
-      "河波れみ"
+      "石原莉奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-077"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-227"
   },
   {
-    "id": 106778,
-    "IDcode": "JURA-078",
-    "title": "初撮り人妻、みたび。 長原あきな",
+    "id": 223832,
+    "IDcode": "avop-235",
+    "title": "他收留了一个泡妞达人",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-08-17",
-    "cover_url": "https://tutu1.space/images/2023/11/05/136d6538919510f7fcb9a4c79deb339f.jpg",
-    "actress": [
-      "長原あきな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-078"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2022/07/29/7841df185414ba179758b54e20fb486e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=avop-235"
   },
   {
-    "id": 91030,
-    "IDcode": "JURA-079",
-    "title": "初撮り人妻、みたび。 深月ちぐさ",
+    "id": 104822,
+    "IDcode": "AVOP-245",
+    "title": "重口女王三原穗花吞精饮尿三穴无所不能",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-08-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240309-1/9289a06ac6075f867548d27633e2033b.jpg",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20240609-1/97462d4d3ecb525cc755dcf3918d9c6d.jpg",
     "actress": [
-      "タツ",
-      "深月ちぐさ"
+      "三原穗香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-079"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-245"
   },
   {
-    "id": 91028,
-    "IDcode": "JURA-080",
-    "title": "初撮り人妻、ふたたび。 立岡杏菜",
+    "id": 169185,
+    "IDcode": "AVOP-245-CN",
+    "title": "3穴吞精超多發！ 三原穗花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-08-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240309-1/20711e264d80217b01002f649a94bf20.jpg",
-    "actress": [
-      "立岡杏菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-080"
-  },
-  {
-    "id": 91964,
-    "IDcode": "JURA-087",
-    "title": "初撮り五十路妻、ふたたび。 菱田由紀乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-10-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240621-1/51fd0ffa1619e9a28b894c09f6c224c7.jpg",
-    "actress": [
-      "菱田由紀乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-087"
-  },
-  {
-    "id": 91031,
-    "IDcode": "JURA-089",
-    "title": "初撮り五十路妻、みたび。 菱田由紀乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2023-11-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240309-1/ed25d9fda3c7e015da9c543785b4dc4a.jpg",
-    "actress": [
-      "菱田由紀乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-089"
-  },
-  {
-    "id": 91966,
-    "IDcode": "JURA-091",
-    "title": "初撮り五十路妻、ふたたび。 日吉みよの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240621-1/1badca669b9d26ca0b84f0c4311def02.jpg",
-    "actress": [
-      "日吉みよの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-091"
-  },
-  {
-    "id": 91965,
-    "IDcode": "JURA-092",
-    "title": "初撮り五十路妻、ふたたび。 宮下昌代",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-01-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240621-1/7d410855496b146192160c739441111a.jpg",
-    "actress": [
-      "宮下昌代"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-092"
-  },
-  {
-    "id": 75937,
-    "IDcode": "JURA-124",
-    "title": "初撮り人妻ドキュメント第二章 有坂祥子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2024-11-07",
-    "cover_url": "https://tutu1.space/images/2024/12/21/762958b2b7492d92cf1aad116c56d153.jpg",
-    "actress": [
-      "有坂祥子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-124"
-  },
-  {
-    "id": 9788,
-    "IDcode": "JURA-131",
-    "title": "AV剛入行的人妻第3作 ~ 伊織知世",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "熟女人妻最強廠",
-    "publish_date": "2024-12-19",
-    "cover_url": "https://picture.yoshiclub.xyz/20241219/56c6fa3d-9a7c-40c9-8d14-117b8239a640.jpg",
-    "actress": [
-      "伊織知世"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-131"
-  },
-  {
-    "id": 73218,
-    "IDcode": "JURA-134",
-    "title": "初撮り人妻ドキュメント第二章 琴宮まみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-01-30",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/14/a67af285/vod.jpg",
-    "actress": [
-      "琴宮まみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-134"
-  },
-  {
-    "id": 70108,
-    "IDcode": "JURA-142",
-    "title": "初撮り人妻ドキュメント第二章 東ふうか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-03-27",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/dd6d8543/vod.jpg",
-    "actress": [
-      "東ふうか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-142"
-  },
-  {
-    "id": 67005,
-    "IDcode": "JURA-145",
-    "title": "初撮り人妻ドキュメント第三章 東ふうか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-04-24",
-    "cover_url": "https://tutu1.space/images/2025/05/13/5ff0d2f32fb623f21fd85813fba42aa9.jpg",
-    "actress": [
-      "東ふうか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-145"
-  },
-  {
-    "id": 64079,
-    "IDcode": "JURA-146",
-    "title": "初撮り五十路妻ドキュメント第二章 赤川しおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-05-08",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/a0fdf096/vod.jpg",
-    "actress": [
-      "赤川しおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-146"
-  },
-  {
-    "id": 62040,
-    "IDcode": "JURA-148",
-    "title": "初撮り六十路妻ドキュメント第二章 沢口紫乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-10",
-    "cover_url": "https://tutu1.space/images/2025/07/16/7dfe8637573dddc821fe9463a57bdf48.jpg",
-    "actress": [
-      "沢口紫乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-148"
-  },
-  {
-    "id": 61492,
-    "IDcode": "JURA-150",
-    "title": "初撮り五十路妻ドキュメント第二章 小倉みきね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "2025-07-24",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/27/fa21d8e5/vod.jpg",
-    "actress": [
-      "小倉みきね"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-150"
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240716-1/f491bc93ed41706ea18573652fb0e7c6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-245-CN"
   }
 ];

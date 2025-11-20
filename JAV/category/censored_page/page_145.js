@@ -1,1617 +1,1646 @@
 window.PAGE_DATA = [
   {
-    "id": 89806,
-    "IDcode": "RURB-002",
-    "title": "【流出映像】変態カップル 公然SEX盗撮 250分 屋外変態露出、愛撫、フェラ、腰振り交尾…これがアマチュアカップルの隠れSEXのリアル",
+    "id": 177393,
+    "IDcode": "DASS-486",
+    "title": "純粋な優等生は不良ギャルとのエビ反りキメセクでレズ堕ちしました。 白石もも 百永さりな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
     "company": "",
-    "publish_date": "2022-08-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/6bfcf313959acf93d79acd2ce526e864.jpg",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/14/d435e454384875fb1f039d56a4e5cbda.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RURB-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-486"
   },
   {
-    "id": 89778,
-    "IDcode": "RVG-174",
-    "title": "W巨乳奴●BEST VOL.1",
+    "id": 77204,
+    "IDcode": "DASS-487",
+    "title": "愛のスキマすら唾液も体温も愛液も求めあう秘密の空間 日常を忘れ没頭する初ニューハーフ筆おろしレズデート 松本いちか 西野めぐ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2022-09-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/c448c247b65bbe4c3fee15e537639b01.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/12/3e316488739bd2644c9c3a3119218587.jpg",
     "actress": [
-      "姫咲華",
-      "小梅惠奈",
-      "佐知子",
-      "新村晶",
-      "浜崎真绪",
-      "夏希ゆめ",
-      "月岛さくら",
-      "春风光",
-      "海空花"
+      "松本一香",
+      "輝大",
+      "女優×NH",
+      "西野めぐ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-174"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-487"
   },
   {
-    "id": 89782,
-    "IDcode": "RVG-175",
-    "title": "エロガキに迫られて股間を濡らす5人の優しいママさん ママシ●タ実話BEST VOL.3",
+    "id": 11523,
+    "IDcode": "DASS-488",
+    "title": "誰もが羨むボクの美乳妻に理性を失った銀行強盗は一日中イラマ輪●し続けた。 二葉エマ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2022-09-20",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/0fd5387f894af6b172ffb7d46c53c69e.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/2ca5036e/vod.jpg",
     "actress": [
-      "翔田千里",
-      "赤瀬尚子",
-      "羽月希",
-      "若槻みづな",
-      "大森しずか"
+      "二葉惠麻"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-175"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-488"
   },
   {
-    "id": 87881,
-    "IDcode": "RVG-200",
-    "title": "露出・輪●・ぶっかけ願望に憑りつかれた女BEST VOL.2",
+    "id": 10775,
+    "IDcode": "DASS-489",
+    "title": "淫荡女老师诱惑男学生-藤森里穗",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2023-07-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/57bc04e1ebd4c16921462b6924d592f9.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241124-1/ed5b72d835906ef8286cb9ec6583f58d.jpg",
     "actress": [
-      "波多野结衣",
-      "木下日葵",
-      "渚光希",
-      "春原未来",
-      "君岛美绪",
-      "花宫あむ"
+      "藤森里穂",
+      "天美めあ",
+      "ハドイ",
+      "ハイド",
+      "藤森里穗"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-200"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-489"
   },
   {
-    "id": 89803,
-    "IDcode": "RVG-205",
-    "title": "音琴るい BEST Vol.1",
+    "id": 76924,
+    "IDcode": "DASS-490",
+    "title": "如果港区女子成为有钱大叔的情妇",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2023-09-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/8ba82a9df0bb3ccbb075e1fdfa7d3a5a.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241204-1/bdf6d0ecdc32c2b6c940a10647f4535e.jpg",
     "actress": [
-      "妃月るい"
+      "橘瑪麗",
+      "タクト",
+      "橘玛丽"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-205"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-490"
   },
   {
-    "id": 89805,
-    "IDcode": "RVG-206",
-    "title": "ダブルアナルビッチBEST VOL.2",
+    "id": 11178,
+    "IDcode": "DASS-491",
+    "title": "社内拘束イラマレ×プ 大嫌いな上司に捻じ伏せられ喉奥を突かれる度にマゾ本性が覚醒するスレンダーOL 月野江すい",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2023-09-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ff5c0a7a7bc9bc0ff791f1d030078795.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/14/ce7f938b6c91d452a104f591195df92c.jpg",
     "actress": [
-      "望月綾香",
-      "佐倉陽菜",
-      "妃月るい",
-      "瓊·洛夫喬伊",
-      "西田卡莉娜",
-      "松ゆきの",
-      "新村晶",
-      "管野静香",
-      "山井すず",
-      "七海ゆあ"
+      "月野江翠"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-206"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-491"
   },
   {
-    "id": 89783,
-    "IDcode": "RVG-209",
-    "title": "穴ワイフBEST VOL.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/1d3a046808f213f525b1cf317aa720c2.jpg",
-    "actress": [
-      "吉冈ひより"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-209"
-  },
-  {
-    "id": 89802,
-    "IDcode": "RVG-212",
-    "title": "推川ゆうり BEST VOL.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2023-12-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ae94e53a35861a75188ce356607597d5.jpg",
-    "actress": [
-      "推川悠里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-212"
-  },
-  {
-    "id": 14757,
-    "IDcode": "RVG-219",
-    "title": "性感P●A主席&妖媚女教師&壞男孩學生會BEST VOL.5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2024-05-14",
-    "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512220912223223.jpg",
-    "actress": [
-      "紗紗原百合",
-      "七瀬いおり",
-      "田所百合",
-      "瀬名未来",
-      "木村穂乃香",
-      "影山櫻",
-      "水川由里",
-      "纱々原ゆり",
-      "朝阳えま"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-219"
-  },
-  {
-    "id": 94127,
-    "IDcode": "RVG-221",
-    "title": "心底嫌いな色ボケじじい社長に粘着セクハラされ続ける美人秘書BEST VOL.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2024-06-11",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/4bc123199665118d36fe5fad7e4a0981.jpg",
-    "actress": [
-      "森澤佳奈",
-      "绀野光",
-      "八乃翼",
-      "凛音とうか",
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-221"
-  },
-  {
-    "id": 94126,
-    "IDcode": "RVG-223",
-    "title": "ボイン大好きしょう太くんのHなイタズラ BEST VOL.13",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2024-08-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/7ea71f34711809d8f9992db63fd8e2e0.jpg",
-    "actress": [
-      "姫咲華",
-      "斎藤みくる",
-      "麻仓ゆあ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-223"
-  },
-  {
-    "id": 77182,
-    "IDcode": "RVG-229",
-    "title": "不良生徒の巣に堕ちた美人教師BEST VOL.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2024-12-10",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/7bf2d250/vod.jpg",
-    "actress": [
-      "森澤佳奈",
-      "通野未帆",
-      "君岛美绪"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-229"
-  },
-  {
-    "id": 5226,
-    "IDcode": "RVG-240",
-    "title": "變態大叔的淫窩監禁調教，天天被幹到爽翻天，徹底淪為肉棒上癮的騷貨 ~ 鳳美優 森下琴乃 天川空 和久井美兔 白石桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2025-06-07",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014919912912_thumbnail.webp",
-    "actress": [
-      "白石桃",
-      "和久井美兎",
-      "鳳美優",
-      "天川空",
-      "森下ことの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-240"
-  },
-  {
-    "id": 4674,
-    "IDcode": "RVG-241",
-    "title": "溫泉慰安旅行被寢取，旅館裏被瘋狂輸出的人妻 ~ 森日向子 沙月惠奈 都月楓 上阪芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2025-07-05",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/202507051158349090_thumbnail.webp",
-    "actress": [
-      "都月楓",
-      "森日向子",
-      "沙月惠奈",
-      "上坂芽衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-241"
-  },
-  {
-    "id": 3713,
-    "IDcode": "RVG-242",
-    "title": "母子姦BEST VOL.7 ~ 成咲優美 米倉穂香 加藤ツバキ 武藤彩香 小笠原留衣 一之瀨綾乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "GLORY QUEST",
-    "publish_date": "2025-08-08",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809081414829829_25720_thumbnail.webp",
-    "actress": [
-      "武藤彩香",
-      "加藤ツバキ",
-      "成咲優美",
-      "米倉穂香",
-      "小笠原留衣",
-      "一之瀨綾乃",
-      "夏树カオル"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-242"
-  },
-  {
-    "id": 92851,
-    "IDcode": "RW-867",
-    "title": "RW867出会い系援○売○の恐怖永瀨由衣。。",
+    "id": 179385,
+    "IDcode": "DASS-492",
+    "title": "男をダメにする美脚堪能。甘すぎる極上足フェティスイートルーム。蒸れパンスト神聖おみ足でペニス挟撃コキシコぎゅむゥの極ズリ射精焦らし。 松本いちか",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
     "company": "",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/e017b2a16b360de3a5a03d39ca007c56.jpg",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/773bdb17/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RW-867"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-492"
   },
   {
-    "id": 6747,
-    "IDcode": "RYZR-006",
-    "title": "口水狂舔欲火焚身大屁股沙龍妹 ~ 永木真知子",
+    "id": 11868,
+    "IDcode": "DASS-493",
+    "title": "说教丧女姐姐后-都月流衣纱",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "豊彥",
-    "publish_date": "2025-04-18",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092542600600_thumbnail.webp",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241015-1/57e1cb5eb082ebb0d08a17682a1503aa.jpg",
     "actress": [
-      "恵沙也香",
-      "永木真知子"
+      "都月楓"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RYZR-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-493"
   },
   {
-    "id": 77637,
-    "IDcode": "SABA-406",
-    "title": "完全顔出しガチナンパ！とっても優しい天使みたいなナースさんに包茎インポ童貞3重苦男子のオナニーの介抱してもらいました！！かわいすぎる裸体にズル剥けフル勃起したち●ぽを白衣の奥にズブリ！金玉空になるまで何度も中に出しました！2",
+    "id": 11459,
+    "IDcode": "DASS-494",
+    "title": "被派遣按摩师触到私处-松井日奈子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2018-04-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/4883cc309e39d4d6634ccfa23d8f36e4.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241016-1/38ef0435980af61c5d3e2457cf55db63.jpg",
     "actress": [
-      "星奈爱",
-      "神宫寺奈绪",
-      "天野美优",
-      "ななせ麻衣"
+      "松井日奈子",
+      "ニック"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-406"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-494"
   },
   {
-    "id": 77639,
-    "IDcode": "SABA-419",
-    "title": "0歳児ママ限定ガチナンパ！甘～いミルクたっぷりのぷるぷるおっぱいで童貞君に授乳筆おろししてもらえませんか？ベビーカーで眠る赤ちゃんが起きないよう声我慢する優しいママにぬぷぬぷ抜き挿し！出産以来のご無沙汰ま●こにたっぷり生中出し！",
+    "id": 11461,
+    "IDcode": "DASS-497",
+    "title": "美丽爆乳的她被我老爸戴了绿帽子",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2018-05-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/5c56d5bf91ab26386eeaca9a1b698c82.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241016-1/60e3b7609ca01ef2a3a3ceb3b0aaf32e.jpg",
     "actress": [
-      "桐岛莉乃",
-      "椎叶みくる",
-      "石川祐奈",
-      "有马かれん"
+      "瀬田一花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-419"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-497"
   },
   {
-    "id": 77640,
-    "IDcode": "SABA-429",
-    "title": "素人巨乳妻の皆さん！旦那に内緒で童貞君の筆おろし体験してみませんか？ママ友で一番Hな奥様紹介してもらってそのママともSEX！パパたちが知ったら泣いて悲しむ禁断の連続SEXスペシャル！",
+    "id": 10422,
+    "IDcode": "DASS-498",
+    "title": "被校工反复中出强奸到堕落-弓乃立梦",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2018-06-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/0d3bd05ca9572c46566a331fea207d1a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-429"
-  },
-  {
-    "id": 88510,
-    "IDcode": "SABA-472",
-    "title": "地味だけどエロイ！すぐにイクイク！全身性感帯！S級素人出演！！Vol.006 街の本屋さんで働く眼鏡で控えめ系女子は実は…調教されたがるアニオタど変態娘だった。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2018-11-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/f98cbd018e9d11b7789f067998036b19.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241207-1/ae35031b6e7b821222b7a054d207cfbc.jpg",
     "actress": [
-      "八寻麻衣"
+      "弓乃凜夢"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-472"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-498"
   },
   {
-    "id": 88487,
-    "IDcode": "SABA-473",
-    "title": "私にチ○ポをしゃぶらせて おしゃぶり大好き凄テク素人AVデビュー",
+    "id": 95363,
+    "IDcode": "DASS-499",
+    "title": "失去理智的妈妈和我-葵百合香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2018-11-09",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/84caedc1733c545a22c194d2587e646e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-473"
-  },
-  {
-    "id": 76052,
-    "IDcode": "SABA-497",
-    "title": "私、性経験も少ないのにすぐ濡れちゃうムッツリスケベなんです。地味娘の糸引くマン汁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2019-01-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/3c3adc42adad336c566362866f592afd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-497"
-  },
-  {
-    "id": 76051,
-    "IDcode": "SABA-512",
-    "title": "就職活動女子大生生中出し面接Vol.004",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2019-03-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/98155d988cc800b25eac890222b03ec5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-512"
-  },
-  {
-    "id": 95036,
-    "IDcode": "SABA-512CN",
-    "title": "SABA512CN 就職活動女子大生生中出し面接Vol.004.",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241119-1/11d4e910244e86b75688ef7a43d8ef8f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-512CN"
-  },
-  {
-    "id": 73244,
-    "IDcode": "SABA-524",
-    "title": "男装趣味の女の子の初めての男装SEX こはる（22）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2019-05-17",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/c787d205f5231d8b930fecdc9c081f36.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-524"
-  },
-  {
-    "id": 76484,
-    "IDcode": "SABA-549",
-    "title": "童貞さんいらっしゃい！天使のような優しい巨乳介護士さんチャレンジ・ザ・ミッション！授乳手コキ＆おっぱいハグ！恥じらい赤面素股プレイ中ぐちょぐちょマ●コにヌルッと挿入筆おろし5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2019-08-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/89fa02ed1c33171a3daf964910459994.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241105-1/b0338c2dc74aa060af281322a27810f2.jpg",
     "actress": [
-      "咲々原リン",
-      "あゆみ莉花"
+      "葵百合香",
+      "日森一"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-549"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-499"
   },
   {
-    "id": 83807,
-    "IDcode": "SABA-587",
-    "title": "真夜中に彼氏と喧嘩してスマホも持たず途方に暮れているノーブラパジャマ女子は果たしてスケベなのか徹底検証してみた件 Vol.001",
+    "id": 10149,
+    "IDcode": "DASS-500",
+    "title": "被父亲戴上绿帽并受精-仓本堇",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2019-12-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221231-1/8e91f96686b7828be7e9bfe5b1ffe5ff.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-587"
-  },
-  {
-    "id": 75210,
-    "IDcode": "SABA-592",
-    "title": "令和の奥様は月曜から不倫狂い。 Vol.001 中年男が大好き！ケツ穴ヒクヒク濃厚でえげつないご奉仕をするお下品いいなり素人奥様 練馬区在住こどもピアノ講師 結婚8年目6歳の子持ちはなさん（仮名）32歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2020-01-17",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241224-1/277613514cb20758fd33f63acff1dad0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-592"
-  },
-  {
-    "id": 82200,
-    "IDcode": "SABA-615",
-    "title": "現役巨乳保育士さんAV出演 裏バイト映像 Vol.001",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2020-04-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221110-1/5aa16c1923e6001e64721641a5092032.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241218-1/881b6c72d414d4108e23d2f9bb54a08a.jpg",
     "actress": [
-      "有村希",
-      "岬梓沙",
-      "目黑惠",
-      "逢坂りの"
+      "倉本菫"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-615"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-500"
   },
   {
-    "id": 104586,
-    "IDcode": "SABA-650",
-    "title": "♯新・制服娘ワリキリ裏￥募集 04 野球部マネージャー みなみ",
+    "id": 177310,
+    "IDcode": "DASS-501",
+    "title": "清純人妻ニューハーフ 絶頂の度とろり透明な天然水を吹き散らす奇跡のド変態NH AV debut 春澤りお",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2020-10-09",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_244saba650/h_244saba650pl.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/b4717a9c/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-650"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-501"
   },
   {
-    "id": 89804,
-    "IDcode": "SABA-780",
-    "title": "【FANZA限定】童貞さんいらっしゃい！！天使のように優しい現役介護士さんチャレンジ・ザ・ミッション！授乳手コキ＆おっぱいハグ！恥じらい赤面素股プレイ中ぐちょぐちょマ●コにヌルっと挿入筆おろしSP チェキ付き",
+    "id": 11860,
+    "IDcode": "DASS-502",
+    "title": "因压力而超过极限的公司-五日市芽依",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2022-07-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/620ebfcca19006e11339f0468309aa68.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-780"
-  },
-  {
-    "id": 86108,
-    "IDcode": "SABA-794",
-    "title": "都合の良いいいなり人妻ぺットセフレ。01 みや子さん（仮名）29歳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2022-10-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/cfd917eff499ad267737c88c2212efd2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-794"
-  },
-  {
-    "id": 68136,
-    "IDcode": "SABA-807",
-    "title": "SABA-807",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-01-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250414-1/712b42dc306980e5eb9fc80fcd3d1b80.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241015-1/4dcb4368b08383d246c24e73264544fc.jpg",
     "actress": [
-      "如月夏希"
+      "五日市芽依"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-807"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-502"
   },
   {
-    "id": 100605,
-    "IDcode": "SABA-813",
-    "title": "SABA-813",
+    "id": 177306,
+    "IDcode": "DASS-505",
+    "title": "おち○ぽギュンギュン反り勃つ・ビンビンもっこり精液ぶしゃあ卑猥エロカワ衣装でAFしてくれるド痴女NH 池田マリナ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-02-14",
-    "cover_url": "https://tutu1.space/images/2023/03/10/652e42e0d91d5309aea77160b890f6f7.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/bf7d03be/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-505"
+  },
+  {
+    "id": 175377,
+    "IDcode": "DASS-506",
+    "title": "女装させられた僕は、親友に私が男の娘だとワカラセられる。 鬼頭りりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/23/27f31ab4a26ea7598c6be07c0ed7327b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-506"
+  },
+  {
+    "id": 10779,
+    "IDcode": "DASS-507",
+    "title": "叫应召女郎没想到来的是那个狂妄后辈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241124-1/242a32c719043fe0e39eda35d97d17bb.jpg",
     "actress": [
-      "若宫はずき"
+      "松井日奈子"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-813"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-507"
   },
   {
-    "id": 89777,
-    "IDcode": "SABA-828",
-    "title": "素人ヘアヌード大図鑑～未成熟な10代女子校生編",
+    "id": 10795,
+    "IDcode": "DASS-508",
+    "title": "粉领族被变态上司性侵-美谷朱音",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-05-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/4d81f889a3a3202af394a429fa68ce51.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-828"
-  },
-  {
-    "id": 87886,
-    "IDcode": "SABA-831",
-    "title": "暴露映像 都内某マンションにある生中出しが出来るメンズエステ 01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-06-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/fc01dcbc2855c7be2f2b574b55216237.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241124-1/d4ea771f1a1999e3dd667edd86d8ff82.jpg",
     "actress": [
-      "星空萌愛",
-      "尾上若叶",
-      "凉川绚音"
+      "美谷朱里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-831"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-508"
   },
   {
-    "id": 87891,
-    "IDcode": "SABA-832",
-    "title": "暴露映像 有名人がお忍びで通う会員制リフレ 02",
+    "id": 10471,
+    "IDcode": "DASS-509",
+    "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 胡桃さくら",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-06-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/1c6d1fef3af4f7f5ed1ace269aee430f.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/e9b5a72f/vod.jpg",
     "actress": [
-      "なつめ爱梨",
-      "高城姫华"
+      "胡桃櫻花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-832"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-509"
   },
   {
-    "id": 87883,
-    "IDcode": "SABA-835",
-    "title": "「一瞬だけでイイので挿れさせて下さい！！」 悩める童貞くんに同情して一生の願いを受け挿れたらww相性バツグンすぎちゃって生中出し筆おろしSEXさせてくれた素人女神たち-超厳選素人美女//たっぷり300分SP-",
+    "id": 9771,
+    "IDcode": "DASS-510",
+    "title": "もしも、保健の先生が草食系男子とセフレ関係だったら… 橘メアリー",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-06-27",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/9ee23e085e392d1fdbbe081d3860a20a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-835"
-  },
-  {
-    "id": 89758,
-    "IDcode": "SABA-846",
-    "title": "暴露映像 有名人がお忍びで通う会員制リフレ 03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-08-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/3b3a2fb27567c6f75c2ab102045df964.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-846"
-  },
-  {
-    "id": 89755,
-    "IDcode": "SABA-849",
-    "title": "照れ屋だけどスケベっぷり半端ないショートカット美少女たちの極みイキ！！超オーガズム中おま○こ怒涛の追撃ピストン中出しSPECIAL300分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-08-22",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/0dc4ad8b8cab66450c34dfba80f3cf1e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-849"
-  },
-  {
-    "id": 89756,
-    "IDcode": "SABA-850",
-    "title": "過激すぎるパワハラ面接映像流出 生中出し就職活動女子大生 カラダをウリにして内定を手にいれる就活生たち Vol.002",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-09-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/c06a81bdc6ced87c6005d0757586e18d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-850"
-  },
-  {
-    "id": 89759,
-    "IDcode": "SABA-851",
-    "title": "即ハメ生中出しOKセフレちゃんハメ撮りAV撮影 02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-09-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/fa0c70df569ca90d8bfb451b737ef75c.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/09/5752d7e1/vod.jpg",
     "actress": [
-      "東條夏",
-      "宫崎リン"
+      "橘瑪麗",
+      "橘玛丽"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-851"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-510"
   },
   {
-    "id": 89757,
-    "IDcode": "SABA-853",
-    "title": "【素人個撮】どこでもフェラチオ6 激レア美少女10名",
+    "id": 78365,
+    "IDcode": "DASS-511",
+    "title": "射精麻木M性感-百永纱里奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-09-26",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/865ef709a59da06bc8fad864874f1cb3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-853"
-  },
-  {
-    "id": 89877,
-    "IDcode": "SABA-861",
-    "title": "僕のセフレ晒します。思い出ハメ撮りAV発売 まきちゃん20歳（大学生時々デリヘル嬢）いろんなプレイで12SEX240分たっぷり収録！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-11-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/e430dd273b5ca3f3994387d0db75c6d5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-861"
-  },
-  {
-    "id": 89873,
-    "IDcode": "SABA-867",
-    "title": "即ハメOK！変態裏垢女子発掘！オフパコレポ 毛深い女子好き必見 何でもご奉仕してくれる剛毛オマ●コうららちゃん Vol.04",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/054a9cddb05e9b946cdc11fae047329c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-867"
-  },
-  {
-    "id": 89878,
-    "IDcode": "SABA-869",
-    "title": "孕ませ懇願 クソ雑魚マ●コ広げてデカチン媚び媚び性交 01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2023-12-12",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/70fee7a9074b562e73343396d0ac4a8b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-869"
-  },
-  {
-    "id": 94099,
-    "IDcode": "SABA-897",
-    "title": "ヤリ部屋ナンパ連れ込みSEX隠し撮り01 4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-05-14",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/ad6c70f25a688cff6ac36581e8265a03.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-897"
-  },
-  {
-    "id": 94122,
-    "IDcode": "SABA-898",
-    "title": "素人おま○こくぱぁ観察2輝くビラビラが透けて見えそうなほど4Kカメラ超接写至近距離で照れイキオナニー30ま○こ5時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-05-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/43dcf120b4e0a35de7e065b3e4f1126b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-898"
-  },
-  {
-    "id": 94125,
-    "IDcode": "SABA-899",
-    "title": "【車で個人撮影】素人美少女ヨダレまみれ手コキ10人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-05-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/1fb7621113e57de6f17c3cbdf46b2b73.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-899"
-  },
-  {
-    "id": 94103,
-    "IDcode": "SABA-905",
-    "title": "ビーチにいた水着美女に濃厚精子を大量ぶっかけ！怒涛の即フェラ顔面口内どぴゅぴゅ射精ラッシュ！真夏の陽気でいつもより大胆な濃厚フェラチオかます素人ビキニギャル10名",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-07-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/9b2d23287bea81bf0053586cd5b642df.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-905"
-  },
-  {
-    "id": 94101,
-    "IDcode": "SABA-906",
-    "title": "「もうイッちゃうの？まだダメ～っ」美少女寸止め焦らしローション手コキ射精ギリギリまで何度も寸止めされてヌルヌルシコシコ大暴発！精子枯渇！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-07-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/18fedb16f9977c9eb93c6f93c961e697.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-906"
-  },
-  {
-    "id": 94123,
-    "IDcode": "SABA-907",
-    "title": "「一瞬だけでイイので挿れさせて下さい！！」「えっ…私みたいなおばさんが初めてでもいいの…？」マジ女神！！悩める童貞くんの願いを優しく受け挿れたらww相性バツグンすぎちゃって生中出し筆おろしSEXさせてくれた奥様たちSP2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2024-07-23",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/93a24a89172dd95350ff84e8e5de9a38.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-907"
-  },
-  {
-    "id": 60309,
-    "IDcode": "SABA-952",
-    "title": "美少女寸止め焦らしローション手コキ射精ギリギリまで何度も寸止めされてヌルヌルシコシコ大暴発！精子枯渇！4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "S級素人",
-    "publish_date": "2025-09-02",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/6ec63383/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-952"
-  },
-  {
-    "id": 89855,
-    "IDcode": "SAIT-029",
-    "title": "美少女エージェント千●＆た●な×3穴串刺しファック×Wギロチン中出し制裁×大量ザーメンぶっかけ アリス＆めい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2023-08-25",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/51fb1fb83a64a0360ffad6bed033b678.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAIT-029"
-  },
-  {
-    "id": 14429,
-    "IDcode": "SAIT-030",
-    "title": "美少女魔導師柏木小夏 & 由良佳奈被集團中出輪奸羣x 大量精液顏射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2024-05-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20240526/a0890ea5-326a-4e5e-b90a-cad7f4eb9229.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241124-1/d5e6f67a334f9e5681557da8bfc2dbc1.jpg",
     "actress": [
-      "柏木小夏",
-      "由良佳奈"
+      "百永纱里奈",
+      "左慈半造",
+      "黑川纱里奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAIT-030"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-511"
   },
   {
-    "id": 4192,
-    "IDcode": "SAIT-031",
-    "title": "地雷系美少女雙人組 集團輪●中出 大量精液噴射 ~ 有村希 椿莉香",
+    "id": 177347,
+    "IDcode": "DASS-512",
+    "title": "柊かな、サクセス始動。理論値最強のAV女優で育成させてみた。featuring 浜崎真緒",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2025-07-22",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250721/20250721204255253253_71454_thumbnail.webp",
-    "actress": [
-      "椿莉香",
-      "有村希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAIT-031"
-  },
-  {
-    "id": 62395,
-    "IDcode": "SAKA-023",
-    "title": "ヤリマン巨乳のW痴女ママ活 発射無制限2対2絶倫オフパコ乱交 ゆの様＆しゅんか様（女子大生/20歳/G～Hカップ）【SNSで〇〇女子と繋がってみた！】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "TMA",
-    "publish_date": "2025-06-28",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/03/d8947ee8/vod.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/673ace52/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAKA-023"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-512"
   },
   {
-    "id": 81912,
-    "IDcode": "SALO-012",
-    "title": "まいな女王様の調教部屋 優梨まいな",
+    "id": 11168,
+    "IDcode": "DASS-513",
+    "title": "三大骚女共演",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2020-03-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/dd67763fb1e59a3260b46e23abfd678a.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241105-1/a5cd4c848c26b46485154f97cb44eb4e.jpg",
     "actress": [
-      "优梨まいな"
+      "真木今日子",
+      "初音實",
+      "美泉咲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SALO-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-513"
   },
   {
-    "id": 107163,
-    "IDcode": "SALO-023",
-    "title": "調教医院 紺野ひかる",
+    "id": 10470,
+    "IDcode": "DASS-514",
+    "title": "她纤细女友的紧实阴部被大鸡巴流浪汉",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "TMA",
-    "publish_date": "2020-09-11",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/84salo023/84salo023pl.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241215-1/11d92b39168faa360d7bb02466f8cf15.jpg",
     "actress": [
-      "绀野光"
+      "千川とわ",
+      "しょーと"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SALO-023"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-514"
   },
   {
-    "id": 86084,
-    "IDcode": "SAME-001",
-    "title": "ATTACKERS 引退 女教師、お礼参り輪●。 川上奈々美",
+    "id": 10084,
+    "IDcode": "DASS-515",
+    "title": "我叫了没性行为过的熟人上门服务",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-06-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/cde9011d92adf049ce69bbe0f8429f2d.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241220-1/7d0c5945b792139242ba18f3dd07bee6.jpg",
     "actress": [
-      "川上奈奈美"
+      "藤森里穂",
+      "いち"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-515"
   },
   {
-    "id": 86081,
-    "IDcode": "SAME-002",
-    "title": "サッカー部の女子マネージャーは毎日、顧問教師の性処理をさせられています。 倉本すみれ",
+    "id": 10459,
+    "IDcode": "DASS-517",
+    "title": "姉萌えの俺が風呂上がり義姉の色気ムンムン無自覚デカ尻誘惑を我慢できるわけがない。 高橋ほなみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-06-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/87c2a3cd1eba67023fb2562f3b179532.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/17/add929865b09cab0ee46426b4b9de571.jpg",
     "actress": [
-      "田渊正浩"
+      "高橋ほなみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-517"
   },
   {
-    "id": 86060,
-    "IDcode": "SAME-004",
-    "title": "年上の使えないおじさんバイトに犯●れた女子大生 吉岡ひより",
+    "id": 10794,
+    "IDcode": "DASS-518",
+    "title": "性骚扰顾问的媚药按摩-宫城理惠",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-06-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/baea8ff8e2faad62fdae688a10a0d7e7.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241124-1/087dfb2aea32d759c719b4a335974b64.jpg",
     "actress": [
-      "吉冈ひより"
+      "宮城理惠"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-518"
   },
   {
-    "id": 86085,
-    "IDcode": "SAME-005",
-    "title": "なんで私がこんな目に… 堀中未来",
+    "id": 77202,
+    "IDcode": "DASS-519",
+    "title": "爆ヌキ鬼どぴゅパネェ性欲えげつねー超肉感女に唾液にゅっるにゅるでメスサド誘惑されたらもうわしゃオシマイや！いっぱいローションぬ～るぬる！トランス性交 藤沢麗央",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-06-07",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/d29b657e7ab04e5d306c78b035f8e343.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/22189446/vod.jpg",
     "actress": [
-      "藤田梢"
+      "藤沢麗央",
+      "七尾神"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-519"
   },
   {
-    "id": 86063,
-    "IDcode": "SAME-006",
-    "title": "刑期結束的強姦魔睽違10年侵犯女人的日子。 東條夏",
+    "id": 9209,
+    "IDcode": "DASS-520",
+    "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 倉本すみれ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-07-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/a44f654b214b02addf5cc8097827a1cd.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/aecd9343/vod.jpg",
+    "actress": [
+      "倉本菫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-520"
+  },
+  {
+    "id": 10435,
+    "IDcode": "DASS-522",
+    "title": "云上肉感HIGH-碓井芹奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241215-1/62b6817304aa7f865cc37db238adefa6.jpg",
+    "actress": [
+      "碓井せりな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-522"
+  },
+  {
+    "id": 10781,
+    "IDcode": "DASS-523",
+    "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 黒木奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/28/bfe0e5643035b4435f6339aee028db3d.jpg",
+    "actress": [
+      "黒木奈美",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-523"
+  },
+  {
+    "id": 95332,
+    "IDcode": "DASS-524",
+    "title": "僕の妻が僕の女友達にネトラレるわけがない。 寝取らせレズ不倫 美園和花 松本梨穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/5e9023a9/vod.jpg",
+    "actress": [
+      "美園和花",
+      "松本梨穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-524"
+  },
+  {
+    "id": 78585,
+    "IDcode": "DASS-525",
+    "title": "お隣さん、おちんちん貸してください。 旦那とのセックスレスで鎮まらぬペニ勃起妻のマラ騒ぎ 池田マリナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/17/2fdbf6ed126224bcd2a3afa6f52ca4e3.jpg",
+    "actress": [
+      "もんご",
+      "池田マリナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-525"
+  },
+  {
+    "id": 76159,
+    "IDcode": "DASS-528",
+    "title": "酔うと何度も抜いてくれるねっとりベロキスおち〇ぽ上司 池田マリナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/09/8e574441/vod.jpg",
+    "actress": [
+      "池田マリナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-528"
+  },
+  {
+    "id": 8498,
+    "IDcode": "DASS-530",
+    "title": "えっタオル一枚で男湯入るのぉ！？でも超たのしい！！恥ずかしい羞恥ミッションで大量中出し！！ファン獲得！？過激フル勃起混浴旅in湯○原温泉 倉本すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/c16300a5dc28b4f20c61094ecd991644.jpg",
+    "actress": [
+      "倉本菫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-530"
+  },
+  {
+    "id": 10467,
+    "IDcode": "DASS-531",
+    "title": "左右とめどなく！濃縮還元！エグすぎる本物バイノーラルしこしこ射精管理 脳汁どぷどぷ垂れ流すエキサイティング淫汁パイズリおなにーさぽーと 五日市芽依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/17/48627d9b4dcc4227a2dc6dd28b3750d6.jpg",
+    "actress": [
+      "五日市芽依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-531"
+  },
+  {
+    "id": 10156,
+    "IDcode": "DASS-532",
+    "title": "在游戏中迅速接近隐藏的淫荡内向大胸女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241218-1/27e93f5ef2e6d9e13ae77def6c4651dd.jpg",
+    "actress": [
+      "美谷朱里",
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-532"
+  },
+  {
+    "id": 76421,
+    "IDcode": "DASS-533",
+    "title": "熟人竟是应召女郎-大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241207-1/a54eac5b78e98e67784039a0fe958943.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-533"
+  },
+  {
+    "id": 9774,
+    "IDcode": "DASS-534",
+    "title": "激斗游戏-美園和花 弥生みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250122-1/0ed23fe9aad7484a135dd9dda443a6c8.jpg",
+    "actress": [
+      "美園和花",
+      "彌生美月",
+      "幾田真知",
+      "五十嵐美月",
+      "弥生美月",
+      "五十岚美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-534"
+  },
+  {
+    "id": 9247,
+    "IDcode": "DASS-535",
+    "title": "モテない俺らの夢が叶った！憧れのマドンナを徹底的に味わい精子ブチ込む！時間停止レ●プ学級 松本いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/3abe1c3f/vod.jpg",
+    "actress": [
+      "松本一香",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-535"
+  },
+  {
+    "id": 10088,
+    "IDcode": "DASS-536",
+    "title": "厳格な巨乳上司にママ活で遭遇したら、子宮密着ホールド求愛されてオレの中出しで本当のママにしてしまった件。 水川スミレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/09/12/662fd3d961dc3235952b8ce164262e27.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-536"
+  },
+  {
+    "id": 9719,
+    "IDcode": "DASS-539",
+    "title": "只有我不能做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250122-1/d1580e2bf3dc2cbc21e4edea0a545e12.jpg",
+    "actress": [
+      "碓井せりな",
+      "谷梓",
+      "トンガ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-539"
+  },
+  {
+    "id": 8784,
+    "IDcode": "DASS-540",
+    "title": "傲娇巨乳的王道女主角-弓乃りむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250219-1/95b29bb9cd4ccbbd9f8237a5a3a554d5.jpg",
+    "actress": [
+      "弓乃凜夢",
+      "まーち"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-540"
+  },
+  {
+    "id": 8819,
+    "IDcode": "DASS-541",
+    "title": "人妻外卖妹与中年男性外遇-橘玛丽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250414-1/588dba96a7ce842a91da6a65a0669a81.jpg",
+    "actress": [
+      "橘瑪麗",
+      "橘玛丽"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-541"
+  },
+  {
+    "id": 9718,
+    "IDcode": "DASS-542",
+    "title": "ぴったりウェアのチクポチ巨乳で男を誘惑する逆ナン痴ジョギング 五日市芽依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/c662d2ed/vod.jpg",
+    "actress": [
+      "五日市芽依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-542"
+  },
+  {
+    "id": 8768,
+    "IDcode": "DASS-543",
+    "title": "洗脳LIKEボタンで巨乳パパ活ビッチをガチ恋服従させられる神マッチングアプリ 宍戸里帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/17/4edd8de7deb3499c4cb020da42a167d6.jpg",
+    "actress": [
+      "宍戸里帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-543"
+  },
+  {
+    "id": 9756,
+    "IDcode": "DASS-545",
+    "title": "美人母女-织田真子 羽月乃苍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250122-1/4cd605037e782c2f91e32d0110cae93b.jpg",
+    "actress": [
+      "羽月乃蒼",
+      "織田真子",
+      "羽月乃苍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-545"
+  },
+  {
+    "id": 9720,
+    "IDcode": "DASS-546",
+    "title": "我总是有机会-森泽佳奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250122-1/4293602f57b1a109143c0a5dc50c8110.jpg",
+    "actress": [
+      "森澤佳奈",
+      "日森一"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-546"
+  },
+  {
+    "id": 78586,
+    "IDcode": "DASS-547",
+    "title": "台本・演出・演技一切ナシ 本能の赴くまま、快楽に身をゆだねる1VS1 柊かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/5d142a99/vod.jpg",
+    "actress": [
+      "鲛岛",
+      "柊かな",
+      "ハドイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-547"
+  },
+  {
+    "id": 9210,
+    "IDcode": "DASS-548",
+    "title": "阿姨和不太擅长的我玩摔跤游戏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250131-1/146bfbbb28b1be276fee7428fb7c2658.jpg",
+    "actress": [
+      "藤森里穂",
+      "藤森里穗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-548"
+  },
+  {
+    "id": 9202,
+    "IDcode": "DASS-549",
+    "title": "高挑丰臀女是我的菜。矮个小处男和高个大姐姐的超猛干炮 濑田一花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250715-1/d0c62c84c337f6e228f80434120a4fd2.jpg",
+    "actress": [
+      "瀬田一花",
+      "タイ",
+      "トンガ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-549"
+  },
+  {
+    "id": 10086,
+    "IDcode": "DASS-550",
+    "title": "当厌恶的上司用色情香水后-七瀨愛麗絲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241226-1/a441d2827035c7b5374f2eef185878ce.jpg",
+    "actress": [
+      "七瀨愛麗絲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-550"
+  },
+  {
+    "id": 8457,
+    "IDcode": "DASS-551",
+    "title": "被强势巨乳女上司陷害的我-藤森理惠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250224-1/e849f9299c91a1ca15cda12fa3d447e6.jpg",
+    "actress": [
+      "藤森里穂",
+      "藤森里穗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-551"
+  },
+  {
+    "id": 8496,
+    "IDcode": "DASS-552",
+    "title": "さて、オジサンの本気を見せてあげよう。俺の精子が腐る程の膣内汚染レ○プ 松本いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/baa6366c786d2b87d223d972d76f0fd4.jpg",
+    "actress": [
+      "松本一香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-552"
+  },
+  {
+    "id": 75969,
+    "IDcode": "DASS-553",
+    "title": "妻子的出轨唤醒了丈夫的本能-東條なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241218-1/2369222f0fab11dd886d8ed825744bf0.jpg",
     "actress": [
       "東條夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-553"
   },
   {
-    "id": 68116,
-    "IDcode": "SAME-007",
-    "title": "【FANZA限定】新婚の美奈先生は校内一、問題児の性玩具をさせられている。 日下部加奈 生写真付き",
+    "id": 10074,
+    "IDcode": "DASS-554",
+    "title": "被阴险的客人拍了一整天-都月るいさ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-07-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250416-1/877675486851d3edabae296314bbb88a.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20241218-1/020e469e397854f57f5554c513c4a947.jpg",
     "actress": [
-      "日下部加奈"
+      "都月楓"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-554"
   },
   {
-    "id": 67990,
-    "IDcode": "SAME-008",
-    "title": "睽違數年成為教師回到母校的我侵犯了喜愛的恩師。 明里紬",
+    "id": 9705,
+    "IDcode": "DASS-555",
+    "title": "去外遇旅行的巨乳女友-胡桃さくら",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-07-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250415-1/72b5aa800c793d23c89b5372e51fd310.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250122-1/f4cb48213c551822fe04c7375a83b1f0.jpg",
     "actress": [
-      "大岛丈",
-      "明里䌷"
+      "胡桃櫻花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-555"
   },
   {
-    "id": 86082,
-    "IDcode": "SAME-015",
-    "title": "オフィスレディの湿ったパンスト 香椎花乃",
+    "id": 8807,
+    "IDcode": "DASS-556",
+    "title": "爆ヌキ鬼どぴゅパネェ性欲えげつねー超肉感女に唾液にゅっるにゅるでメスサド誘惑されたらもうわしゃオシマイや 瀬田一花",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-08-02",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/cb6a4239984f88dd9f2e64ddb77ab1b8.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/fdefba79/vod.jpg",
     "actress": [
-      "香椎花乃",
-      "大岛丈"
+      "瀬田一花",
+      "ナイアガラ翔",
+      "アリト"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-556"
   },
   {
-    "id": 86083,
-    "IDcode": "SAME-016",
-    "title": "僕をイジメてたアイツらが1カ月前から僕をイジメなくなった。だけど、姉が僕の身代わりになって犯●れていたなんて。 明里つむぎ",
+    "id": 181773,
+    "IDcode": "DASS-557",
+    "title": "興奮を隠せない勃起感。筋肉デカチンに寝取られる巨乳NHの彼女 池田マリナ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-09-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/d6625caf594155494a45475fde255a4d.jpg",
-    "actress": [
-      "明里䌷"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-016"
-  },
-  {
-    "id": 68491,
-    "IDcode": "SAME-020",
-    "title": "對學生時代霸凌我的那位女性復仇。即使搞到壞掉般高潮連連我依舊持續侵犯。 明里紬",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-10-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250416-1/b1bdd7162f7673e9740f250b6fb6375b.jpg",
-    "actress": [
-      "明里䌷"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-020"
-  },
-  {
-    "id": 86059,
-    "IDcode": "SAME-022",
-    "title": "誘拐犯 社長大小姐贖金誘拐監禁凌辱事件簿 香椎花乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-10-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/199a9ae603408c9df8d7bcc9a8d2f180.jpg",
-    "actress": [
-      "香椎花乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-022"
-  },
-  {
-    "id": 86183,
-    "IDcode": "SAME-026",
-    "title": "輪●計画 新入社員編 倉本すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-11-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230203-1/2e802026bb7904da1cc913a598ebf5c6.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/4835eba8/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-026"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-557"
   },
   {
-    "id": 106463,
-    "IDcode": "SAME-029",
-    "title": "侵犯我的討厭男人、無法忘懷他的扭腰… 小野寺真優",
+    "id": 9204,
+    "IDcode": "DASS-558",
+    "title": "回到乡下老家的被前男友疯狂的抽插",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-12-07",
-    "cover_url": "https://tutu1.space/images/2022/12/21/449babd0756efbd148cffa50552d8d60.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-029"
-  },
-  {
-    "id": 69163,
-    "IDcode": "SAME-039",
-    "title": "SAME-039",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2022-12-30",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250330-1/d7989fa5e8bd05997c6c379bfab0aea4.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250206-1/a7d1130de77a2c3726a66cfe8ce6c9f5.jpg",
     "actress": [
-      "鳳美優",
-      "田渊正浩"
+      "美谷朱里",
+      "小田切ジュン"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-558"
   },
   {
-    "id": 69075,
-    "IDcode": "SAME-041",
-    "title": "SAME-041",
+    "id": 8840,
+    "IDcode": "DASS-559",
+    "title": "出差地在讨厌上司面前喝醉了-五日市芽依",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-02-03",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250407-1/889aa6bd9c8d9de8cf5a4d760b2d7ee5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-041"
-  },
-  {
-    "id": 63096,
-    "IDcode": "SAME-044",
-    "title": "娘の前で雌犬のように激しく突かれて 美咲かんな 東雲あずさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-03-07",
-    "cover_url": "https://tutu1.space/images/2023/04/13/19232b7bd5e8da3a233c6fc5bc9d39b0.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250219-1/23a12f3391c80efe0d48d0a0255a4de7.jpg",
     "actress": [
-      "美咲佳奈",
-      "大岛丈"
+      "五日市芽依"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-044"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-559"
   },
   {
-    "id": 104466,
-    "IDcode": "SAME-046",
-    "title": "輪●計画 社長秘書編 新村あかり",
+    "id": 8117,
+    "IDcode": "DASS-560",
+    "title": "潜入搜查官-橘玛丽",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-04-04",
-    "cover_url": "https://tutu1.space/images/2023/05/07/ece03dcf982c8d316558eadc83d05aee.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250307-1/9b3e5b0fee9f12894ce09c94dc7e126a.jpg",
     "actress": [
-      "新村晶"
+      "弓乃凜夢"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-046"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-560"
   },
   {
-    "id": 89851,
-    "IDcode": "SAME-053",
-    "title": "最後に義母さんは、「中に出して」と俺に言った。 妃ひかり",
+    "id": 8107,
+    "IDcode": "DASS-561",
+    "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 希島あいり",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-07-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ed60dd254f96cdf176767c6476ccb4e6.jpg",
-    "actress": [
-      "妃光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-053"
-  },
-  {
-    "id": 89852,
-    "IDcode": "SAME-055",
-    "title": "刑期を終えた強●魔が10年ぶりに女を犯した日。 木下ひまり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-06-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/9f1bae1151c033a53ee0b27372314893.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-055"
-  },
-  {
-    "id": 89876,
-    "IDcode": "SAME-056",
-    "title": "姉ちゃんがセックスした金で食わせてもらってます。 希島あいり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-06-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/eefb88b83c9403efda29f9b7e83d25a6.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/4a83a9a0a272c2a7f9ea56620d6c4953.jpg",
     "actress": [
       "希島愛理"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-056"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-561"
   },
   {
-    "id": 63095,
-    "IDcode": "SAME-057",
-    "title": "娘の前で雌犬のように激しく突かれて 紗々原ゆり 芹沢ひな",
+    "id": 9772,
+    "IDcode": "DASS-562",
+    "title": "出差在讨厌的上司面前喝醉-逢沢みゆ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-07-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/825546ab0b860dfbffa4f4869224f717.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250122-1/c34c07156ca048ad5fdfce17459b4fd3.jpg",
     "actress": [
-      "纱々原ゆり",
-      "芹沢ひな"
+      "逢澤美優"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-057"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-562"
   },
   {
-    "id": 89875,
-    "IDcode": "SAME-059",
-    "title": "輪●計画 巨乳インフルエンサー編",
+    "id": 74666,
+    "IDcode": "DASS-563",
+    "title": "夫の留守中に年下くんを甘く誘惑してオチ○ポ食べ比べる隣の人妻ニューハーフ 春澤りお",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-06-06",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/2c0b1b2de0880380e71fa092687811b2.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/dfb2599e/vod.jpg",
+    "actress": [
+      "向理来",
+      "輝大",
+      "春澤りお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-563"
+  },
+  {
+    "id": 8837,
+    "IDcode": "DASS-564",
+    "title": "優等生がマン汁・涎・汗ドバドバ失禁アクメ 媚薬漬け校内キメセク 永野鈴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/e6d34c90/vod.jpg",
+    "actress": [
+      "永野鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-564"
+  },
+  {
+    "id": 9253,
+    "IDcode": "DASS-565",
+    "title": "我漂亮的女朋友-東條なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250131-1/fa8010ea08579ede550e9b5bd88b1fda.jpg",
+    "actress": [
+      "東條夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-565"
+  },
+  {
+    "id": 8083,
+    "IDcode": "DASS-566",
+    "title": "抵抗媚药快感侵蚀的坚贞女人-橘玛丽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250307-1/389bcb78fc284f4b544aae432ec62188.jpg",
+    "actress": [
+      "橘瑪麗",
+      "ラリアット黒川",
+      "ジェイ."
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-566"
+  },
+  {
+    "id": 8838,
+    "IDcode": "DASS-567",
+    "title": "被派遣按摩师触碰过头-优梨舞奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250219-1/c37a8551183d9e3298bf3b4098ab0a2e.jpg",
+    "actress": [
+      "優梨舞奈",
+      "ニック",
+      "优梨まいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-567"
+  },
+  {
+    "id": 184573,
+    "IDcode": "DASS-568",
+    "title": "変態ニューハーフの私が満足するまで射精し続けた話。 柊かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/09290b28/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-059"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-568"
   },
   {
-    "id": 18734,
-    "IDcode": "SAME-060",
-    "title": "越獄",
+    "id": 7725,
+    "IDcode": "DASS-570",
+    "title": "痴汉父亲的野外寸止遥控震动调教-倉本すみれ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-09-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20230911/20230911233150253253.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250326-1/27cf09df5457c4cc23c257d9922dfcfa.jpg",
     "actress": [
-      "妃光莉"
+      "倉本菫"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-060"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-570"
   },
   {
-    "id": 89874,
-    "IDcode": "SAME-061",
-    "title": "お前が負けたら奥さんとセックスさせろよ。 中出し寝取られゲーム 希島あいり",
+    "id": 8839,
+    "IDcode": "DASS-571",
+    "title": "痴女サンバはチ○ポを救う 射精アミーゴ！ハイテンポ腰振りで常夏テンアゲ金髪ギャルまぢ感謝（あざす） 春陽モカ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-07-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/fa35515ef750e67a69d5babe264f14c7.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/fcda8ae1/vod.jpg",
     "actress": [
-      "希島愛理",
-      "田渊正浩"
+      "春陽萌花"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-061"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-571"
   },
   {
-    "id": 89854,
-    "IDcode": "SAME-064",
-    "title": "輪●計画 就活生編 円井萌華",
+    "id": 7690,
+    "IDcode": "DASS-572",
+    "title": "夺取傲慢巨乳女的身体代替她与男友交欢",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-07-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/b8f652bc4bc9c51a01e75c15efe69640.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250324-1/b25ce0930db9caea89f628d5e15fadfa.jpg",
     "actress": [
-      "円井萌華"
+      "藤森里穂"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-064"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-572"
   },
   {
-    "id": 89853,
-    "IDcode": "SAME-066",
-    "title": "競泳水着インストラクター失禁中出し鬼畜レ●プ 乃木絢愛",
+    "id": 7377,
+    "IDcode": "DASS-573",
+    "title": "女AV編劇出道 — 被交往的女優忽悠進AV圈啦！~ 大槻響 橘瑪麗",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-07-04",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/3bfb7068fba7904ac22faad7c1af9e02.jpg",
+    "company": "DASDAS",
+    "publish_date": "2025-03-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320113429966966.jpg",
     "actress": [
-      "南佳也"
+      "橘瑪麗",
+      "大槻响",
+      "輝大"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-066"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-573"
   },
   {
-    "id": 89879,
-    "IDcode": "SAME-070",
-    "title": "母親の再婚相手のオジサンに毎日レ●プされています。 二葉エマ",
+    "id": 7684,
+    "IDcode": "DASS-574",
+    "title": "被继父偷偷喂了春药-東條なつ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-08-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/f19d300b6c99310090ead2290415f91d.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250326-1/71ad86cd36fd24464a491b729993c57b.jpg",
     "actress": [
-      "二叶エマ"
+      "東條夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-070"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-574"
   },
   {
-    "id": 17989,
-    "IDcode": "SAME-080",
-    "title": "「長大了喲..」 今天幹了我從小看著長大的女兒的閨蜜",
+    "id": 189371,
+    "IDcode": "DASS-575",
+    "title": "爆ヌキ鬼どぴゅパネェ性欲えげつねー卑猥女に唾液にゅっるにゅるでメスサド誘惑されたらもうわしゃオシマイや！いっぱいローションぬ～るぬる！トランス性交 月野かすみ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105225852498498.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/d675b2d4cd1e28d6ba1c294e01fb004b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-575"
+  },
+  {
+    "id": 8079,
+    "IDcode": "DASS-576",
+    "title": "ヤクザに監禁され、キメセク乱交に堕ちていく華奢な彼女を信じて見守るしかない一週間。 逢沢みゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/4fe9ceb51081d180bf97a26688f8f718.jpg",
     "actress": [
-      "二葉惠麻",
-      "二叶エマ"
+      "逢澤美優",
+      "いち"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-080"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-576"
   },
   {
-    "id": 17988,
-    "IDcode": "SAME-082",
-    "title": "在女兒面前我就像只賤母狗一樣...",
+    "id": 8482,
+    "IDcode": "DASS-577",
+    "title": "媚薬を盛られ発汗発情！自然と下品ガニ股ジョバジョバお漏らし！ガクガク痙攣敏感ホットヨガ教室 美谷朱音",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/202311052259276767.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/830503dc795a423b5f224e49cff406d0.jpg",
     "actress": [
-      "通野未帆",
-      "工藤拉拉",
-      "大岛丈"
+      "美谷朱里"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-082"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-577"
   },
   {
-    "id": 17991,
-    "IDcode": "SAME-083",
-    "title": "漂流少女 Runaway girl 工藤由羅",
+    "id": 8044,
+    "IDcode": "DASS-578",
+    "title": "爱上牛郎的恋爱脑美少女-五日市芽衣",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-11-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105225815546546.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250307-1/d38e73579b2f3c6a591c1a0becd2f3e9.jpg",
     "actress": [
-      "工藤由羅",
-      "日森一"
+      "五日市芽依"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-083"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-578"
   },
   {
-    "id": 17462,
-    "IDcode": "SAME-084",
-    "title": "輪姦計畫：美麗辦公室女郎版",
+    "id": 8487,
+    "IDcode": "DASS-579",
+    "title": "比起女朋友她妈妈更符合我的性癖-安斉愛結",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-12-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/ba62175a-1705-4577-b35a-7a9125b20115.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250223-1/21d5f1bd028df0356d8ceadc800e7a95.jpg",
     "actress": [
-      "三尾惠"
+      "雫月心桜",
+      "安斉愛結"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-084"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-579"
   },
   {
-    "id": 17457,
-    "IDcode": "SAME-085",
-    "title": "母親的再婚對象，我應該叫繼父的老頭每天都強暴我",
+    "id": 7696,
+    "IDcode": "DASS-580",
+    "title": "被上门的人妻美甲师大胸诱惑-わか菜ほの",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-12-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/9e73f07b-7816-4dc1-9901-a7bca5ff41d3.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250326-1/29fb2155e0240d6d4828f1f23dc605b0.jpg",
     "actress": [
-      "五芭"
+      "若宮穂乃"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-085"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-580"
   },
   {
-    "id": 17421,
-    "IDcode": "SAME-086",
-    "title": "潛入强奸巨乳美少女 沉浸在性愛中",
+    "id": 7708,
+    "IDcode": "DASS-581",
+    "title": "夏天空调坏掉的闷热日子-松本一香",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-12-05",
-    "cover_url": "https://picture.yoshiclub.xyz/20231203/f1c7f9d3-3a75-4fdf-80d2-5cf07b84a5fa.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250326-1/c1e04c3342344d8c00ab37cdf704fa0e.jpg",
     "actress": [
-      "星乃夏月"
+      "松本一香",
+      "ラヴズ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-086"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-581"
   },
   {
-    "id": 89850,
-    "IDcode": "SAME-087",
-    "title": "娘の前で雌犬のように激しく突かれて 織田真子 泉りおん",
+    "id": 181780,
+    "IDcode": "DASS-582",
+    "title": "天然男の娘アイドル 荒木ゆあ",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2023-12-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/7050213380af40157900077451825770.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/e5540b9b/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-582"
+  },
+  {
+    "id": 8831,
+    "IDcode": "DASS-583",
+    "title": "欢喜害羞的侄女洗澡时间-葵百合香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250219-1/f235dc365683020aadf93601050bc48a.jpg",
     "actress": [
-      "泉莉音",
-      "織田真子"
+      "葵百合香"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-583"
   },
   {
-    "id": 16940,
-    "IDcode": "SAME-088",
-    "title": "被街頭綁架並囚禁的OL。錄制的鏡頭被泄露",
+    "id": 8422,
+    "IDcode": "DASS-584",
+    "title": "應該懲罰做乾爹的美少女-東條夏",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2024-01-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240103/20240103073147899899.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250223-1/69eb7de67f6392dba653aebba89f2302.jpg",
     "actress": [
-      "前田美波"
+      "東條夏"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-088"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-584"
   },
   {
-    "id": 16936,
-    "IDcode": "SAME-090",
-    "title": "和即將結婚的女老板單獨加班。我無法抑制對她的感情",
+    "id": 8455,
+    "IDcode": "DASS-585",
+    "title": "被情夫们的肉棒多次抽插绝顶-七濑爱丽丝",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2024-01-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240103/20240103073427354354.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250223-1/d55469dc8c441ba4dbb128c3129868d2.jpg",
     "actress": [
-      "七海蒂娜"
+      "七瀨愛麗絲"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-090"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-585"
   },
   {
-    "id": 16422,
-    "IDcode": "SAME-094",
-    "title": "對於社會地位不同的我來說，和年輕漂亮的你發生性關系只有一種方法。就是現在要強奸你",
+    "id": 8461,
+    "IDcode": "DASS-587",
+    "title": "房间里的妈妈和儿子-森泽佳奈",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2024-02-06",
-    "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207080826714714.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250218-1/2859cef11ba751aa919bcfa75ec22756.jpg",
     "actress": [
-      "遠藤沙耶",
-      "左慈半造"
+      "森澤佳奈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-094"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-587"
   },
   {
-    "id": 14281,
-    "IDcode": "SAME-110",
-    "title": "作爲應屆畢業生加入公司的新人培訓旅行時被迫和男同事同住 ~ 結月莉亞",
+    "id": 72859,
+    "IDcode": "DASS-588",
+    "title": "3年ぶりに幼なじみに会ったら、絶世の美女NHになっていて肉体関係を持ってしまった。 柊かな",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531022409856856.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/51b75a183ede60778373f6a881131687.jpg",
     "actress": [
-      "結月莉亞"
+      "柊かな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-588"
   },
   {
-    "id": 14286,
-    "IDcode": "SAME-111",
-    "title": "在女兒面前像個母狗一樣被強奸 ~ 泉りおん 玉城夏帆",
+    "id": 8081,
+    "IDcode": "DASS-589",
+    "title": "被傲慢的叔叔收养的清纯苗条姐妹",
     "year": "",
     "country": "",
     "genre": "",
     "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531041032687687.jpg",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250307-1/8ef93a0068671a6a6c2e3530a371d932.jpg",
     "actress": [
-      "泉莉音",
-      "玉城夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-111"
-  },
-  {
-    "id": 14294,
-    "IDcode": "SAME-112",
-    "title": "街頭強奸綁架女大學生。監控鏡頭被泄露 ~ 白石桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "type": "有码",
-    "company": "ATTACKERS",
-    "publish_date": "2024-06-04",
-    "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531030727627627.jpg",
-    "actress": [
+      "北岡果林",
       "白石桃"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-112"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-589"
+  },
+  {
+    "id": 7048,
+    "IDcode": "DASS-590",
+    "title": "猛插！！國王遊戲 真人版 ~ 姫野らん 倉本菫 美園和花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "2025-04-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093319885885.jpg",
+    "actress": [
+      "美園和花",
+      "倉本菫",
+      "姫野らん",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-590"
+  },
+  {
+    "id": 7401,
+    "IDcode": "DASS-591",
+    "title": "甜美美女播音员-希岛爱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250331-1/24b190888ca975436355976f6072d589.jpg",
+    "actress": [
+      "希島愛理",
+      "いち",
+      "大村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-591"
+  },
+  {
+    "id": 8502,
+    "IDcode": "DASS-593",
+    "title": "ふわとろ巨乳のバブみある年下義母に死ぬほど甘やかされ、オギャり射精を繰り返したボク。 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250811-1/9332afb7a2c739d05f5a9b002fc0b4f6.jpg",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-593"
+  },
+  {
+    "id": 7312,
+    "IDcode": "DASS-594",
+    "title": "爆射鬼噴超變態性欲炸裂肉感女 用滑溜溜唾液勾引抖S本性，我完蛋啦！滿身潤滑油滑膩膩！迷幻性愛 ~ 天晴乃愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "2025-03-25",
+    "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320113047678678.jpg",
+    "actress": [
+      "天晴乃愛",
+      "トミフミ",
+      "トイボーイ相沢",
+      "ナイアガラ翔"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-594"
+  },
+  {
+    "id": 8056,
+    "IDcode": "DASS-595",
+    "title": "把母亲当成一名女性看待的我",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250311-1/b5b4d5f9f336a67265a092bd1e7f2afd.jpg",
+    "actress": [
+      "葵百合香",
+      "トイボーイ相沢"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-595"
+  },
+  {
+    "id": 190605,
+    "IDcode": "DASS-596",
+    "title": "ぷるつやリップと舌が溶け合うねっとりレズキスで長身美人BAにレズ堕ちする華奢美少女 北岡果林 木下ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250727-1/9574aa03af8c164beabb6f776dd2463a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-596"
+  },
+  {
+    "id": 189345,
+    "IDcode": "DASS-598",
+    "title": "いちゃKISS甘あまレズデート。夜が全て忘れさせる前に唾液を絡めてスキを伝えて、キミの体温も愛液も愛しくて。世界に必要なのは私たち2人だけ。 胡桃さくら 斎藤あみり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/b174d1e62a4ab9f36bd3083c0e5fed01.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-598"
+  },
+  {
+    "id": 6285,
+    "IDcode": "DASS-599",
+    "title": "美しすぎる酒池肉林の無限快楽ハーレムレズビアン天国BEST 女だらけの大乱交スペシャル240分乃木蛍 妃月るい 八乃つばさ 波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://avtdc107.cc/upload/vod/20250615-1/aa69b577ff56be07ac47aac466b7e8a6.jpg",
+    "actress": [
+      "倉本菫",
+      "松本一香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-599"
+  },
+  {
+    "id": 7030,
+    "IDcode": "DASS-600",
+    "title": "人生啥遺憾都沒啦！那好…在你死前就當去地獄的禮物狠狠幹你吧！媚藥安眠藥啥都狂嗑嗨翻的女的，被超濃精液射爆1次、2次、3次…無限∞中出的極樂嗑藥SEX ~ 新井裏真",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "2025-04-08",
+    "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093929461461.jpg",
+    "actress": [
+      "新井里真",
+      "ナイアガラ翔"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-600"
+  },
+  {
+    "id": 70799,
+    "IDcode": "DASS-601",
+    "title": "我被上门服务的按摩师抚摸私处",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250326-1/8a655ab015649cf1804e68d87ff94048.jpg",
+    "actress": [
+      "滝冬煇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-601"
   }
 ];
