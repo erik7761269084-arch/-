@@ -1,0 +1,33 @@
+{
+  "episodes": {
+    "主线路": "https://1.mysqldata3202s4l.com/20241024/3QIA2J6s/index.m3u8",
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/673778b0238a4e1c37eb550e.m3u8",
+    "线路3": "https://t27.cdn2020.com/video/m3u8/2024/08/12/230acfc4/index.m3u8",
+    "线路4": "https://m3u8.cdn2025.life/movie/auto/673778b0238a4e1c37eb550e.m3u8"
+  },
+  "seriesInfo": {
+    "id": 13219,
+    "IDcode": "SONE-272",
+    "title": "年末年初-浅野こころ",
+    "publish_date": "",
+    "type": "有码",
+    "company": "S1",
+    "genres": [],
+    "description": "",
+    "cover_url": "/upload/vod/20240813-1/66dcb5075a6ed9b9d3d4f0137e88fa06.jpg",
+    "background_img": "",
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-272",
+    "actresses": [
+      {
+        "name": "淺野心",
+        "img_url": "https://picture.yoshiclub.xyz/20230923/e82d408d-ffb4-4feb-9a6a-78f4a4affd1a.jpg",
+        "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=258&name=%E6%B7%BA%E9%87%8E%E5%BF%83"
+      },
+      {
+        "name": "浅野心",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=7751&name=%E6%B5%85%E9%87%8E%E5%BF%83"
+      }
+    ]
+  }
+}
