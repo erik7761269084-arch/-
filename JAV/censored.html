@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>日本有码AV专区</title>
+<title>日本有码AV</title>
 <style>
 body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; color:#fff; padding-top:60px; }
 .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:20px; padding:20px; }
@@ -42,16 +42,51 @@ body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; colo
 <div class="pagination" id="pagination"></div>
 
 <script>
-// 最大页数
-const MAX_PAGE = 683;
+/* -------------------------------
+      动态读取最大页数 MAX_PAGE
+-------------------------------- */
+let MAX_PAGE = 1;
 
-/* ======= 加载 header.html + header.js ======= */
+async function loadMaxPage(){
+  try{
+    const res = await fetch("https://yunvgong.com/JAV/category/stats.json");
+    const json = await res.json();
+    MAX_PAGE = parseInt(json["censored_page"]) || 1;
+  }catch(e){
+    console.error("stats.json 加载失败，使用默认 MAX_PAGE = 1");
+  }
+
+  initPage();  // 等 MAX_PAGE 读取完再运行内容
+}
+
+/* -------------------------------
+         主初始化流程
+-------------------------------- */
+function initPage(){
+  const pageNumber = getPageFromURL();
+  renderPagination(pageNumber);
+
+  // 加载对应分页的数据文件
+  const script = document.createElement('script');
+  script.src = `https://yunvgong.com/JAV/category/censored_page/page_${pageNumber}.js`;
+  script.onload = ()=>{
+    if(typeof window.PAGE_DATA !== 'undefined'){
+      renderAll(window.PAGE_DATA);
+    } else {
+      console.error(`page_${pageNumber}.js 未定义 window.PAGE_DATA`);
+    }
+  };
+  document.body.appendChild(script);
+}
+
+/* -------------------------------
+            Header 载入
+-------------------------------- */
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
-    // 加载 header.js 文件
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
@@ -60,18 +95,23 @@ fetch('header.html')
     };
     document.body.appendChild(script);
   });
-  
-fetch('https://yunvgong.com/footer.html').then(r=>r.text()).then(html=>{
-  const footer=document.createElement('div'); footer.innerHTML = html; document.body.appendChild(footer);
-});
 
-// 点击播放
+fetch('https://yunvgong.com/footer.html')
+  .then(r=>r.text())
+  .then(html=>{
+    const footer=document.createElement('div');
+    footer.innerHTML = html;
+    document.body.appendChild(footer);
+  });
+
+/* -------------------------------
+           功能方法
+-------------------------------- */
 function goPlay(url){
   localStorage.setItem('dramaScroll', window.scrollY);
   location.href = url;
 }
 
-// 渲染全部影片
 function renderAll(data){
   const box = document.getElementById('dramaGrid');
   box.innerHTML = '';
@@ -98,12 +138,10 @@ function renderAll(data){
     `;
   });
 
-  // 恢复滚动位置
   const savedScroll = parseInt(localStorage.getItem('dramaScroll'));
   if(savedScroll) window.scrollTo(0,savedScroll);
 }
 
-// 获取 URL 参数 ?pages=N，并限制范围 1~MAX_PAGE
 function getPageFromURL(){
   const params = new URLSearchParams(window.location.search);
   let pages = parseInt(params.get('pages'));
@@ -112,7 +150,6 @@ function getPageFromURL(){
   return pages;
 }
 
-// 渲染分页控件
 function renderPagination(currentPage){
   const pagination = document.getElementById('pagination');
   pagination.innerHTML = `
@@ -123,7 +160,6 @@ function renderPagination(currentPage){
   `;
 }
 
-// 跳转到指定页
 function jumpToPage(){
   let p = parseInt(document.getElementById('jumpPage').value);
   if(!p || p < 1) p = 1;
@@ -131,28 +167,16 @@ function jumpToPage(){
   location.href = `${window.location.pathname}?pages=${p}`;
 }
 
-// 上下页切换
 function changePage(p){
   if(p < 1) p = 1;
   if(p > MAX_PAGE) p = MAX_PAGE;
   location.href = `${window.location.pathname}?pages=${p}`;
 }
 
-// 初始化
-const pageNumber = getPageFromURL();
-renderPagination(pageNumber);
-
-// 动态加载对应页 JS
-const script = document.createElement('script');
-script.src = `https://yunvgong.com/JAV/category/censored_page/page_${pageNumber}.js`;
-script.onload = ()=>{
-  if(typeof window.PAGE_DATA !== 'undefined'){
-    renderAll(window.PAGE_DATA);
-  } else {
-    console.error(`page_${pageNumber}.js 未定义 window.PAGE_DATA`);
-  }
-};
-document.body.appendChild(script);
+/* -------------------------------
+        🚀 页面启动入口
+-------------------------------- */
+loadMaxPage();
 </script>
 
 </body>
