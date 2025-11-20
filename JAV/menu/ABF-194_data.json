@@ -1,18 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/25/4902a56d/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/25/4902a56d/index.m3u8",
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/67e5f2cc938687be7cce23f8.m3u8",
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/67e5f2cc938687be7cce23f8.m3u8",
+    "线路4": "https://t30.cdn2020.com/video/m3u8/2025/03/26/fcdb18e6/index.m3u8"
   },
   "seriesInfo": {
     "id": 8892,
     "IDcode": "ABF-194",
-    "title": "絶対忠実祕書 七嶋舞",
-    "publish_date": "2025-01-23",
+    "title": "绝对忠实秘书-七嶋舞",
+    "publish_date": "",
     "type": "有码",
     "company": "蚊香社",
     "genres": [],
     "description": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250123/410b0655-aceb-4af7-9395-d6424de96564.jpg",
-    "background_img": "https://picture.yoshiclub.xyz/20250123/410b0655-aceb-4af7-9395-d6424de96564.jpg",
+    "cover_url": "/upload/vod/20250325-1/5049d4720a2f1281de6ab37550f88a01.jpg",
+    "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-194",
     "actresses": [
       {

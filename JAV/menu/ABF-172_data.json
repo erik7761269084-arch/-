@@ -1,24 +1,32 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/25/d9d3c057/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/25/d9d3c057/index.m3u8",
+    "线路2": "https://m3u8.cdn202511.com/movie/auto/6785fc579e64e6bdd4e9c281.m3u8",
+    "线路3": "https://t33.cdn2020.com/video/m3u8/2025/10/01/71d7ea0c/index.m3u8",
+    "线路4": "https://m3u8.cdn2025.life/movie/auto/6785fc579e64e6bdd4e9c281.m3u8"
   },
   "seriesInfo": {
     "id": 10645,
     "IDcode": "ABF-172",
-    "title": "超級潮噴娘 ~ 蒼乃美月",
-    "publish_date": "2024-11-14",
+    "title": "喷来喷去的美月 苍乃美月",
+    "publish_date": "",
     "type": "有码",
     "company": "蚊香社",
     "genres": [],
     "description": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20241114/6ef8ea65-75a9-4f52-9151-ad5cda32161e.jpg",
-    "background_img": "https://picture.yoshiclub.xyz/20241114/6ef8ea65-75a9-4f52-9151-ad5cda32161e.jpg",
+    "cover_url": "/upload/vod/20250715-1/193d227d7af1af67439fee1c94a05f00.webp",
+    "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-172",
     "actresses": [
       {
         "name": "蒼乃美月",
         "img_url": "https://picture.yoshiclub.xyz/20231208/4dc98d20-c362-4e82-a356-cbe6a730a902.jpg",
         "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=424&name=%E8%92%BC%E4%B9%83%E7%BE%8E%E6%9C%88"
+      },
+      {
+        "name": "美月",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=2073&name=%E7%BE%8E%E6%9C%88"
       },
       {
         "name": "イセドン内村",
