@@ -9,7 +9,9 @@
     "publish_date": "2023-05-25",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/540bece68f7d88d8cd440ecb696a6a43.jpg",
     "background_img": "",

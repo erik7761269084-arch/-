@@ -9,7 +9,11 @@
     "publish_date": "2020-11-26",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "高中女生",
+      "户外",
+      "美少女电影"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/f6791944b79e9548ece5a280ffe3e131.jpg",
     "background_img": "",

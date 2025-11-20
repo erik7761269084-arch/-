@@ -9,7 +9,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "各种职业",
+      "企画",
+      "吞精",
+      "角色扮演"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/09/19/a2a617b7bcb3c53510a878bca40eaa95.jpg",
     "background_img": "",

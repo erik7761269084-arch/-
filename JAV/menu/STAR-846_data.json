@@ -10,7 +10,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "护士",
+      "单体作品",
+      "已婚妇女",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/07/07/16f5e07be577a75755e988180f0dd3a7.jpg",
     "background_img": "",

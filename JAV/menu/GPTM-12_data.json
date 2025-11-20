@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "战斗行动",
+      "女战士",
+      "格斗家"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240318-1/78ba5f71a50d75e5d11e5910be4f98ba.jpg",
     "background_img": "",

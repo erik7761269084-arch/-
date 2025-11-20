@@ -9,7 +9,11 @@
     "publish_date": "2020-04-23",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "角色扮演者",
+      "企画",
+      "素人作品"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230411-41/773338e6b94e3df52bf1ea344f3294ff.jpg",
     "background_img": "",

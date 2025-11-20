@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "处男",
+      "姐姐"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240404-1/c32ca86f56270a47ea47dd5daa06f108.jpg",
     "background_img": "",

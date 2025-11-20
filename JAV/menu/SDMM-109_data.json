@@ -11,7 +11,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "猎艳",
+      "业余"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/06/21/307bbb58f4cd3450fb4e3ba63f5ed5cf.jpg",
     "background_img": "",

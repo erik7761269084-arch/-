@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "中文字幕"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/f3d0aefd39477c47a0c87701f92a907a.jpg",
     "background_img": "",

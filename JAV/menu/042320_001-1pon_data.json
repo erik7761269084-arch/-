@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[\"一本道\"]",
-    "genres": [],
+    "genres": [
+      "一本道"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-11/2aa30a47d3115926e67f133f5bd85000.jpg",
     "background_img": "",

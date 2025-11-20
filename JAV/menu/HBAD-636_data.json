@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "女教师",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/10/26/2eb3e4685127d589a2118ecbe0867549.jpg",
     "background_img": "",

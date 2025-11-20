@@ -10,7 +10,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "处女",
+      "美少女"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/08/16/debf6ec6a9f42c9277d28fc7fcf5bd1a.jpg",
     "background_img": "",

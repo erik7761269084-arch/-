@@ -11,7 +11,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "4K",
+      "美少女",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/12/21/5c8967ac6f0c9c4d6681b6802cff0d2d.jpg",
     "background_img": "",

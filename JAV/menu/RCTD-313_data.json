@@ -9,7 +9,12 @@
     "publish_date": "2020-03-12",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "各种职业",
+      "羞耻",
+      "恶作剧",
+      "妄想"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/961e39cd79e0c794d38d1d70bbaf9ecc.jpg",
     "background_img": "",

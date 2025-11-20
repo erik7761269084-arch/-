@@ -9,7 +9,9 @@
     "publish_date": "2020-03-12",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "角色扮演者"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/25ddc174f9592be8a61ea19d14a9096d.jpg",
     "background_img": "",

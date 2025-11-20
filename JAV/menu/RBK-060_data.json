@@ -12,7 +12,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "大小姐",
+      "单体作品",
+      "监禁"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/11/23/691c81543766e5e7b13dd760126fc7f3.jpg",
     "background_img": "",

@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "介绍影片",
+      "偶像",
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20250723-1/4e3d3b3c5fa73ff83c97f3a86bf0401b.jpg",
     "background_img": "",

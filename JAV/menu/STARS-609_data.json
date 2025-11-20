@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/09/13/5fd07032a4232ab02e3b91804bc0679f.jpg",
     "background_img": "",

@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "药物",
+      "学校泳装",
+      "女教师"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/12/19/29c4a1761c6a2995e01aedb38a740897.jpg",
     "background_img": "",

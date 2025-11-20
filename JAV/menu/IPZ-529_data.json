@@ -9,7 +9,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "OL",
+      "主观视角",
+      "艺人",
+      "数位马赛克"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240502-1/348f1c41213442ea07bb4e72e4258d89.jpg",
     "background_img": "",

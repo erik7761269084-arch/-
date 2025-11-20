@@ -11,7 +11,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女電影",
+      "打手槍",
+      "接吻",
+      "偶像"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/02/28/3c6f33409c3ccc20f8a49dd65ea805fe.jpg",
     "background_img": "",

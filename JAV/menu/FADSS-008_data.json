@@ -9,7 +9,10 @@
     "publish_date": "2019-12-26",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "礼仪小姐",
+      "美少女电影"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/1c914d4d962d90bf401895a97f8e5d78.jpg",
     "background_img": "",

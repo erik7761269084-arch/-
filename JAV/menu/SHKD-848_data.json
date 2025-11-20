@@ -10,7 +10,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "女教师",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240418-1/36fee54f96de523f7c03e16050e03435.jpg",
     "background_img": "",

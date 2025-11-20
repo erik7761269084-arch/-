@@ -11,7 +11,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "潮吹",
+      "流汗",
+      "战斗行动",
+      "接吻"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/b2c9465ecc98f94949cd7945e206a894.jpg",
     "background_img": "",

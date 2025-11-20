@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "中文字幕"
+    ],
     "description": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20250721-1/3c8a15f65611d4aadefe30053b1950c7.jpg",
     "background_img": "",

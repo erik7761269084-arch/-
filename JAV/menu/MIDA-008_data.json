@@ -14,7 +14,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250211-1/05b70025613dc59682f012b0022dfef5.jpg",
     "background_img": "",

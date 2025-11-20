@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "戏剧",
+      "女佣",
+      "户外"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/6c1c72ee393284c3f6f5bc2faa926352.jpg",
     "background_img": "",

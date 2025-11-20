@@ -9,7 +9,9 @@
     "publish_date": "2020-03-25",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "介绍影片"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/9378eba71fbe1fd7d11427cbc60b660a.jpg",
     "background_img": "",

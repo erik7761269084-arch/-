@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "OL",
+      "单体作品",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/11/14/aca2dd627e012cb94b0b168fe3374a13.jpg",
     "background_img": "",

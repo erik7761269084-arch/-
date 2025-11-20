@@ -9,7 +9,9 @@
     "publish_date": "2023-09-21",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "业余"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/f89fafd9325fbeb35c30ab4d0ded25de.jpg",
     "background_img": "",

@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "教学",
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/11004cc588f94e2e9d48bdd5ed3a60ed.jpg",
     "background_img": "",

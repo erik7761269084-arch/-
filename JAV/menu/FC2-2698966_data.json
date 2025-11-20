@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "无码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250315-1/a4b4409193f81e9e959a95b59ecce5ed.jpg",
     "background_img": "",

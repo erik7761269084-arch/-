@@ -9,7 +9,9 @@
     "publish_date": "2022-05-04",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "中文字幕"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/46e56792c4bada46eba607e573b0d77c.jpg",
     "background_img": "",

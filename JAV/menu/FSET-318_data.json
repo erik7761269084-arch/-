@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "企画",
+      "家教",
+      "数位马赛克"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/07/25/b683f01d332e21925f699b0e55912000.jpg",
     "background_img": "",

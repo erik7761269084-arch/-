@@ -9,7 +9,11 @@
     "publish_date": "2012-04-01",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "高中女生",
+      "美少女",
+      "数位马赛克"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241208-1/778e534cd8150b4290308dda6beebce4.jpg",
     "background_img": "",

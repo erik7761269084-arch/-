@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "介绍影片",
+      "偶像",
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/08/17/b2af606d00f24b868f58a8a9b7fdb1c6.jpg",
     "background_img": "",

@@ -10,7 +10,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "恋爱",
+      "给女性观众",
+      "情侣",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240404-1/de1e31e3a3c0b0b8950e1636914cf0af.jpg",
     "background_img": "",

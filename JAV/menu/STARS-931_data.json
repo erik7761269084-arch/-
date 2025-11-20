@@ -11,7 +11,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "女優",
+      "出道作品",
+      "紀錄片",
+      "出道作",
+      "芸能人"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250715-2/5cf1a9c13f1b02c40ed23ace419efa57.webp",
     "background_img": "",

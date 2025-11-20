@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "戏剧",
+      "已婚妇女",
+      "美少女电影"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240225-1/d10a9b8b92d0c53312359139a433eb39.jpg",
     "background_img": "",

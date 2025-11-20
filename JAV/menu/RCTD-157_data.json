@@ -9,7 +9,12 @@
     "publish_date": "2018-10-25",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "戏剧",
+      "企画",
+      "其他恋物癖",
+      "妄想"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/4fcba8744cc61cf7e8ee10562f7a0f9f.jpg",
     "background_img": "",

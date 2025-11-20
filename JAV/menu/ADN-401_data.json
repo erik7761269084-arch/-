@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/06/16/d03f9993556a09606b002fd66fd233db.jpg",
     "background_img": "",

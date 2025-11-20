@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "SM",
+      "已婚妇女",
+      "监禁"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2019/09/13/QQ201909131253074424f.jpg",
     "background_img": "",

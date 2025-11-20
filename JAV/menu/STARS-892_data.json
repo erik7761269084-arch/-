@@ -12,7 +12,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250715-2/804333f4127d6bef31c0530f82aa9c8b.webp",
     "background_img": "",

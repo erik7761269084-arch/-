@@ -10,7 +10,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "角色扮演"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/53cab307101fa06568fe3a98c3554459.jpg",
     "background_img": "",

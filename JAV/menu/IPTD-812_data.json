@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "乳液",
+      "数位马赛克"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250615-1/dc970404dbf5d06da4761124c2b14fe4.jpg",
     "background_img": "",

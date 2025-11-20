@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240819-1/0aae2c2eeac858766d2b59cf9a22d4de.jpg",
     "background_img": "",

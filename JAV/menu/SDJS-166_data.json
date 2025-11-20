@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "业余",
+      "纪录片",
+      "美少女"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/09/27/2bea4a9341a1c30bfb9803bb816dec54.jpg",
     "background_img": "",

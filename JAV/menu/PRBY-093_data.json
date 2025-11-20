@@ -9,7 +9,11 @@
     "publish_date": "2023-09-28",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "介绍影片",
+      "偶像",
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240121-1/85c76257473a61b92dfbab23ea16fb36.jpg",
     "background_img": "",

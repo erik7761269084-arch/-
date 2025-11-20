@@ -12,7 +12,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "高清画质"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250715-2/ee2bb7efdfcb3c25996705da7aad3289.webp",
     "background_img": "",

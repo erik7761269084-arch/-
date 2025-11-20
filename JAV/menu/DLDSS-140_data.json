@@ -12,7 +12,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "潮吹",
+      "首次亮相",
+      "纪录片",
+      "姐姐"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/09/27/3b83fb029c790de0c85e6ae8eb2db017.jpg",
     "background_img": "",

@@ -9,7 +9,10 @@
     "publish_date": "2021-12-07",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "SM",
+      "女检察官"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230116-1/202e7ead07477615b000a272413762a0.jpg",
     "background_img": "",

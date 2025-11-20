@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "OL"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20250620-1/9dcf19fa73e92d045ba8463b4ee43137.jpg",
     "background_img": "",

@@ -10,7 +10,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/0c49f90862050576fee5d9b5128d2508.jpg",
     "background_img": "",

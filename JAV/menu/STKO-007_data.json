@@ -9,7 +9,11 @@
     "publish_date": "2020-03-10",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "第一人称摄影",
+      "纪录片",
+      "素人作品"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/d155c279cfa946feafb683c8311cd4f9.jpg",
     "background_img": "",

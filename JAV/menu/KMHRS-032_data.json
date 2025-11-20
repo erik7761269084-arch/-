@@ -9,7 +9,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "首次亮相",
+      "纪录片",
+      "女生",
+      "业余"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/11/08/c7119c771169465ddb46ab9f87f6d194.jpg",
     "background_img": "",

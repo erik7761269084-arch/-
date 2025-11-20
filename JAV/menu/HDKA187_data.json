@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "高清画质",
+      "中文字幕"
+    ],
     "description": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20241209-1/abed28aa28d607817e7297f28d9e9a1b.jpg",
     "background_img": "",

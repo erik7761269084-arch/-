@@ -10,7 +10,9 @@
     "publish_date": "",
     "type": "无码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/11/02/8774bb4bd40700b827369d45f6f1699d.jpg",
     "background_img": "",

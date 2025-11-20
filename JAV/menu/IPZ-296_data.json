@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "户外",
+      "数位马赛克"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240427-1/495e0b8287d1260db0c75c7f7b8f67c8.jpg",
     "background_img": "",

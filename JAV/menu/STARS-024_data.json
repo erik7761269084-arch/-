@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "紀錄片",
+      "女學生",
+      "數位馬賽克"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250615-2/608e13586cd8700072e14d43452d99d3.jpg",
     "background_img": "",

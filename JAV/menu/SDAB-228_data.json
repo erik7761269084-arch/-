@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "主观视角",
+      "美少女"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/09/03/89b14bcdaf615ae5821b47d1f9e73b79.jpg",
     "background_img": "",

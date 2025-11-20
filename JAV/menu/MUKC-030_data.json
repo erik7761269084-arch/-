@@ -10,7 +10,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女电影",
+      "单体作品",
+      "角色扮演者",
+      "情侣",
+      "和服，丧服"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2023/01/10/6e96d9add0510ec187a221a7d0808e7c.jpg",
     "background_img": "",

@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "介绍影片",
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/07/bd9fdf250a94890af1ddacf806f27989.jpg",
     "background_img": "",

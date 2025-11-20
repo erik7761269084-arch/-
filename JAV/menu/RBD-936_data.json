@@ -10,7 +10,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女电影",
+      "纪录片",
+      "接吻",
+      "凌辱",
+      "女大学生"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/12/14/b84e48856184a017a15f67d91928c948.jpg",
     "background_img": "",

@@ -12,7 +12,14 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "運動服裝",
+      "其他職業",
+      "角色扮演",
+      "兔女郎妝扮",
+      "貓耳裝飾",
+      "COSPLAY服飾"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/05/20/26d969413bb6bd9ef50c0d3c7fece702.jpg",
     "background_img": "",

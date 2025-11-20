@@ -12,7 +12,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "4K",
+      "家教",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250715-2/088b15dfd6dfe8eb57d0c5e88273d143.webp",
     "background_img": "",

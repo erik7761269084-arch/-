@@ -9,7 +9,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "角色扮演",
+      "动画人物",
+      "戏剧",
+      "无毛"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240404-1/0621509c6f13528c5f28614d7ce9464a.jpg",
     "background_img": "",

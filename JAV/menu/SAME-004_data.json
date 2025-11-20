@@ -9,7 +9,10 @@
     "publish_date": "2022-06-07",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "女大学生"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/baea8ff8e2faad62fdae688a10a0d7e7.jpg",
     "background_img": "",

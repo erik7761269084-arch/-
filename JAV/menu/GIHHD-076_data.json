@@ -9,7 +9,12 @@
     "publish_date": "2019-12-05",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "介绍影片",
+      "偶像",
+      "素人作品",
+      "猥亵穿着"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/a356c893baa5d7b1ca274e7dde0cef27.jpg",
     "background_img": "",

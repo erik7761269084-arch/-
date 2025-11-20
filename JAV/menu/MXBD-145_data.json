@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2023/01/10/df3af3cd18399e6e6962ecb5cbc99f95.jpg",
     "background_img": "",

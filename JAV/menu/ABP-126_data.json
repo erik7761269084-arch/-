@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "各种职业",
+      "美少女",
+      "和服，丧服"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240413-1/a0089be359cbcab92418448bbcb582d0.jpg",
     "background_img": "",

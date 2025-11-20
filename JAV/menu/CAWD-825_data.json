@@ -9,7 +9,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "第一人称摄影",
+      "偷窥",
+      "首次亮相",
+      "纪录片"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/dc7b408b6e77f9dc1c6998358588ccdc.jpg",
     "background_img": "",

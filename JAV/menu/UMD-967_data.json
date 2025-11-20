@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美容院",
+      "药物"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20250718-1/3aec81ba6127c28fa7fe6721d5cb1ffa.jpg",
     "background_img": "",

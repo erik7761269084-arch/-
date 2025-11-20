@@ -12,7 +12,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "首次亮相",
+      "业余"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250715-2/8ba6c9ffc3431cce83cf17d1d33ea139.webp",
     "background_img": "",

@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "4K"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240207-1/854f1b59f6ba48ef5f1e0c8344b8f1d8.jpg",
     "background_img": "",

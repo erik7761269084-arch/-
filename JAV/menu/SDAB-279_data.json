@@ -11,7 +11,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "纪录片",
+      "女上位"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250715-2/8d6a31b6ecb6f71112caf0d0b8a7b111.webp",
     "background_img": "",

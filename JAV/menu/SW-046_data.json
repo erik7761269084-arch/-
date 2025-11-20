@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "高中女生",
+      "企画",
+      "美少女"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/12/08/a9dfe0d9bde2de73f045dd1f48ecce3c.jpg",
     "background_img": "",

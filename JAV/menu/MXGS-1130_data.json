@@ -9,7 +9,11 @@
     "publish_date": "2020-01-16",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "各种职业",
+      "素人作品",
+      "美少女电影"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/35fc7ee2ca54d63919c354c5515a5bd4.jpg",
     "background_img": "",

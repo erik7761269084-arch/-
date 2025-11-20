@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "SM",
+      "苗条",
+      "M男"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/10/15/2b85e27fa041db312513eeda31467ea2.jpg",
     "background_img": "",

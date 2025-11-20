@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "纪录片",
+      "美少女",
+      "第一人称摄影"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2023/01/11/7086f0416283f9eef14f825db290ea7a.jpg",
     "background_img": "",

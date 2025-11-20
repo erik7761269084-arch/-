@@ -9,7 +9,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "主观视角",
+      "女战士",
+      "科幻",
+      "素人作品"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/10/03/83763e54c8ae0149edfd9496b9de63bc.jpg",
     "background_img": "",

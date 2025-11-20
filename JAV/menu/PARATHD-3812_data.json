@@ -9,7 +9,11 @@
     "publish_date": "2023-10-01",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "介绍影片",
+      "滑稽模仿",
+      "素人作品"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240117-1/350616db9cac1b29a08630222f0a3f7b.jpg",
     "background_img": "",

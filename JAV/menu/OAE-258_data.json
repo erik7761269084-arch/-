@@ -9,7 +9,10 @@
     "publish_date": "2024-06-26",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "介绍影片",
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241015-1/5ebae0c336d2e747f3ce32b9fbb71ab1.jpg",
     "background_img": "",

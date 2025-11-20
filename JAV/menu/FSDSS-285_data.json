@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美容院",
+      "按摩",
+      "美少女电影"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/10/ba0a06710d0226f9666803e30e354593.jpg",
     "background_img": "",

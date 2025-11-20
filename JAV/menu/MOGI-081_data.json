@@ -10,7 +10,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "第一人称摄影",
+      "业余",
+      "纪录片",
+      "潮吹"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/04ec0f6ba862194eedfe995c73bb97a4.jpg",
     "background_img": "",

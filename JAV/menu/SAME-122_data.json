@@ -10,7 +10,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "戏剧",
+      "单体作品",
+      "制服",
+      "高中女生",
+      "乱伦"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240816-1/98b9656779d2395037f615dbe3d34cdb.jpg",
     "background_img": "",

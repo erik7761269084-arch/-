@@ -9,7 +9,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "按摩・物理治療・美容",
+      "按摩・美容店",
+      "苗條",
+      "潮吹"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/06/10/QQ2020061102560727831.jpg",
     "background_img": "",

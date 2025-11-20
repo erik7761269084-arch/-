@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "纪录片"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/1077f8e0d8be74ff08f8cbf3de52e83c.jpg",
     "background_img": "",

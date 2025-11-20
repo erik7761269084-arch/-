@@ -9,7 +9,10 @@
     "publish_date": "2021-01-08",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "4小时以上作品",
+      "精选，综合"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221004-1/5d23e44da6096b10bcc7d94911ee06d1.jpg",
     "background_img": "",

@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女电影",
+      "第一人称摄影",
+      "和服，丧服"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/12/05/d711cbf8b8ef45370123f1710abe7a15.jpg",
     "background_img": "",

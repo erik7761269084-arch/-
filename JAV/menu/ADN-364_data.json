@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "戏剧",
+      "已婚妇女",
+      "出轨"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/01/10/ac5e34c668f5a03c233379b9ace67246.jpg",
     "background_img": "",

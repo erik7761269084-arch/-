@@ -9,7 +9,10 @@
     "publish_date": "2022-03-01",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "已婚妇女"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/6192da3fbb20e30a0ab679600038f072.jpg",
     "background_img": "",

@@ -9,7 +9,12 @@
     "publish_date": "2021-12-23",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "首次亮相",
+      "纪录片",
+      "美少女",
+      "第一人称摄影"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/25e90939d23604ca7d9e20d085e96985.jpg",
     "background_img": "",

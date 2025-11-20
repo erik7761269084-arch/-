@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "业余"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/03/02/20d2b08d2f0629e8660aeaee293ab980.jpg",
     "background_img": "",

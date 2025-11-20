@@ -9,7 +9,12 @@
     "publish_date": "2018-12-25",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美容院",
+      "按摩",
+      "美少女",
+      "女装人妖"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241121-1/3c5d21e095bcad07857665d4c0507f44.jpg",
     "background_img": "",

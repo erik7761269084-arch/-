@@ -11,7 +11,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "OL",
+      "单体作品",
+      "恋爱",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/12/25/b55f2f36ad59f0b66d3f9f6738648ab2.jpg",
     "background_img": "",

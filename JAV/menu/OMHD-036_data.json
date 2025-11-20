@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240415-1/81de53615d3142d3f051417dbec4eb00.jpg",
     "background_img": "",

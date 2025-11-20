@@ -9,7 +9,12 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "各种职业",
+      "凌辱",
+      "企画",
+      "角色扮演"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250111-1/1fbafa29ae463f99299e323e9c78bd9f.jpg",
     "background_img": "",

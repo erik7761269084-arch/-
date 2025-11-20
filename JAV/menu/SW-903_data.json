@@ -9,7 +9,11 @@
     "publish_date": "2023-07-06",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "高中女生",
+      "内衣",
+      "校服"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241103-1/ccac72cdab4c854218dff3a2c5343b21.jpg",
     "background_img": "",

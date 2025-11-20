@@ -9,7 +9,11 @@
     "publish_date": "2019-07-26",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "纪录片",
+      "素人作品",
+      "美少女电影"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250109-1/339f4947b33feeeddda56018ed2ebb0e.jpg",
     "background_img": "",

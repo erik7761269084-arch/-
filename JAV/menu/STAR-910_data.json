@@ -9,7 +9,10 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女",
+      "艺人"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240313-1/b67aa775dd30d46dde8fb8b847031d11.jpg",
     "background_img": "",

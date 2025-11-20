@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "业余",
+      "纪录片",
+      "第一人称摄影"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/556c0750e2a8aaaf8c6ac397deb082ab.jpg",
     "background_img": "",

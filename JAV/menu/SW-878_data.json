@@ -10,7 +10,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "内衣"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2023/01/20/80d2d601895482d8bf2e452cabbf65be.jpg",
     "background_img": "",

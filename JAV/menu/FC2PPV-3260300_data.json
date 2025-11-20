@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "无码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "无码"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250320-1/2db7554b613e6d69384801f9efafbe57.jpg",
     "background_img": "",

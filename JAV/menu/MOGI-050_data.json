@@ -9,7 +9,9 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "首次亮相"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/10/06/6a14ed318cd30e0e1a7762c270d90eb0.jpg",
     "background_img": "",

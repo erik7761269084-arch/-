@@ -13,7 +13,13 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女电影",
+      "偶像",
+      "单体作品",
+      "首次亮相",
+      "4K"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/12/23/65227610535e051f1e0a1e147ade60c2.jpg",
     "background_img": "",

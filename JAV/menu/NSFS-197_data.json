@@ -9,7 +9,11 @@
     "publish_date": "2023-06-27",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "单体作品",
+      "已婚妇女",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230709-1/a348c3abc2c8f706ce76b48727d87f61.jpg",
     "background_img": "",

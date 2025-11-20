@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "高",
+      "首次亮相",
+      "单体作品"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2022/03/10/66f924a11e0446ad50272b1ba16323b1.jpg",
     "background_img": "",

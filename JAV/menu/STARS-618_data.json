@@ -9,7 +9,11 @@
     "publish_date": "2022-06-23",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "纪录片",
+      "姐姐",
+      "角色扮演"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250320-1/76d1cd44e388da71fc5150d49c2652c4.jpg",
     "background_img": "",

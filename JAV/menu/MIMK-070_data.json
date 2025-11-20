@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "美少女电影",
+      "学校作品",
+      "戏剧"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20250710-2/373f375595cd923551e1e5ed030d920b.jpg",
     "background_img": "",

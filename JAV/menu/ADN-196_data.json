@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "戏剧",
+      "已婚妇女",
+      "出轨"
+    ],
     "description": "",
     "cover_url": "/upload/vod/20240313-1/a4caa703835f109d5c53e906788a0b97.jpg",
     "background_img": "",

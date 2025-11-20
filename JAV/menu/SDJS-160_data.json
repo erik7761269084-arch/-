@@ -9,7 +9,10 @@
     "publish_date": "2022-07-07",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "纪录片",
+      "美少女"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250121-1/22894fcbb6bf4d1132592987677eee71.jpg",
     "background_img": "",

@@ -10,7 +10,11 @@
     "publish_date": "",
     "type": "有码",
     "company": "[]",
-    "genres": [],
+    "genres": [
+      "OL",
+      "单体作品",
+      "颜射"
+    ],
     "description": "",
     "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/3c08cdcaf9cb96c4b15d4cd01d381e90.jpg",
     "background_img": "",
