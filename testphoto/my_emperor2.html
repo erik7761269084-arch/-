@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>哦！我的皇帝陛下第二季​​</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f5f5f5; text-align: center; }
+    h2 { margin-top: 20px; }
+    .playlist { margin: 20px auto; width: 80%; display: flex; flex-wrap: wrap; justify-content: center; }
+    .playlist button {
+      margin: 5px;
+      padding: 10px 15px;
+      border: none;
+      background: #4CAF50;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .playlist button:hover { background: #45a049; }
+    iframe { width: 80%; height: 500px; border: none; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h2>《哦！我的皇帝陛下第二季​​》全集播放</h2>
+  <p>点击集数进行播放：</p>
+
+  <div class="playlist">
+    <button onclick="play(1)">第1集</button>
+    <button onclick="play(2)">第2集</button>
+    <button onclick="play(3)">第3集</button>
+    <button onclick="play(4)">第4集</button>
+    <button onclick="play(5)">第5集</button>
+    <button onclick="play(6)">第6集</button>
+    <button onclick="play(7)">第7集</button>
+    <button onclick="play(8)">第8集</button>
+    <button onclick="play(9)">第9集</button>
+    <button onclick="play(10)">第10集</button>
+    <button onclick="play(11)">第11集</button>
+    <button onclick="play(12)">第12集</button>
+    <button onclick="play(13)">第13集</button>
+    <button onclick="play(14)">第14集</button>
+    <button onclick="play(15)">第15集</button>
+    <button onclick="play(16)">第16集</button>
+    <button onclick="play(17)">第17集</button>
+    <button onclick="play(18)">第18集</button>
+    <button onclick="play(19)">第19集</button>
+    <button onclick="play(20)">第20集</button>
+    <button onclick="play(21)">第21集</button>
+ 
+  </div>
+
+  <div id="player"></div>
+  
+  <a class="vip-link" href="https://ljt462625949.github.io/testphoto/sousuo" target="_blank">
+    🔗 前往 VIP 视频解析播放
+  </a>
+
+  <script>
+    const urls = {
+      1: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/b0660902a7k.html",
+      2: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/a0660cs1xbv.html",
+      3: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/t0661lo7nuy.html",
+      4: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/n0660b92ej2.html",
+      5: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/u0660hb39dt.html",
+      6: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/q06601i78ul.html",
+      7: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/c066038rvjw.html",
+      8: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/h0660nozbf2.html",
+      9: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/k0660f9do9l.html",
+      10:"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/h06602b73iv.html",
+      11:"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/c0660gm7sz2.html",
+      12:"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/g0660ktongr.html",
+      13: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/v06685p9mdy.html",
+      14: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/r0668qej3l2.html",
+      15: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/k0668kdpfsf.html",
+      16: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/c0668rio9o2.html",
+      17: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/t06689pjlhk.html",
+      18: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/v0668a0sqkk.html",
+      19: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/b06763k2tcu.html",
+      20:"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/p06761ymcqx.html",
+      21: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/idcrbac503kxzap/c0676cqrgav.html",
+	  
+    };
+
+    function play(ep) {
+      let url = urls[ep];
+      document.getElementById("player").innerHTML =
+        `<iframe src="${url}" allowfullscreen></iframe>`;
+    }
+  </script>
+</body>
+</html>
