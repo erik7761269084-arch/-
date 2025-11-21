@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>月升沧海 - 播放器</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f5f5f5; text-align: center; }
+    h2 { margin-top: 20px; }
+    .playlist { margin: 20px auto; width: 80%; display: flex; flex-wrap: wrap; justify-content: center; }
+    .playlist button {
+      margin: 5px;
+      padding: 10px 15px;
+      border: none;
+      background: #4CAF50;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .playlist button:hover { background: #45a049; }
+    iframe { width: 80%; height: 500px; border: none; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h2>《月升沧海1-27 星汉灿烂28-56》全集播放</h2>
+  <p>点击集数进行播放：</p>
+
+  <div class="playlist">
+    <button onclick="play(1)">第1集</button>
+    <button onclick="play(2)">第2集</button>
+    <button onclick="play(3)">第3集</button>
+    <button onclick="play(4)">第4集</button>
+    <button onclick="play(5)">第5集</button>
+    <button onclick="play(6)">第6集</button>
+    <button onclick="play(7)">第7集</button>
+    <button onclick="play(8)">第8集</button>
+    <button onclick="play(9)">第9集</button>
+    <button onclick="play(10)">第10集</button>
+    <button onclick="play(11)">第11集</button>
+    <button onclick="play(12)">第12集</button>
+    <button onclick="play(13)">第13集</button>
+    <button onclick="play(14)">第14集</button>
+    <button onclick="play(15)">第15集</button>
+    <button onclick="play(16)">第16集</button>
+    <button onclick="play(17)">第17集</button>
+    <button onclick="play(18)">第18集</button>
+    <button onclick="play(19)">第19集</button>
+    <button onclick="play(20)">第20集</button>
+    <button onclick="play(21)">第21集</button>
+    <button onclick="play(22)">第22集</button>
+    <button onclick="play(23)">第23集</button>
+    <button onclick="play(24)">第24集</button>
+    <button onclick="play(25)">第25集</button>
+    <button onclick="play(26)">第26集</button>
+    <button onclick="play(27)">第27集</button>
+    <button onclick="play(28)">第28集</button>
+    <button onclick="play(29)">第29集</button>
+    <button onclick="play(30)">第30集</button>
+    <button onclick="play(31)">第31集</button>
+    <button onclick="play(32)">第32集</button>
+	<button onclick="play(33)">第33集</button>
+	<button onclick="play(34)">第34集</button>
+	<button onclick="play(35)">第35集</button>
+	<button onclick="play(36)">第36集</button>
+	<button onclick="play(37)">第37集</button>
+    <button onclick="play(38)">第38集</button>
+	<button onclick="play(39)">第39集</button>
+	<button onclick="play(40)">第40集</button>
+    <button onclick="play(41)">第41集</button>
+    <button onclick="play(42)">第42集</button>
+    <button onclick="play(43)">第43集</button>
+    <button onclick="play(44)">第44集</button>
+    <button onclick="play(45)">第45集</button>
+    <button onclick="play(46)">第46集</button>
+    <button onclick="play(47)">第47集</button>
+    <button onclick="play(48)">第48集</button>
+    <button onclick="play(49)">第49集</button>
+    <button onclick="play(50)">第50集</button>
+    <button onclick="play(51)">第51集</button>
+    <button onclick="play(52)">第52集</button>
+    <button onclick="play(53)">第53集</button>
+    <button onclick="play(54)">第54集</button>
+    <button onclick="play(55)">第55集</button>
+    <button onclick="play(56)">第56集</button>
+ 
+  </div>
+
+  <div id="player"></div>
+  
+  <a class="vip-link" href="https://ljt462625949.github.io/testphoto/sousuo" target="_blank">
+    🔗 前往 VIP 视频解析播放
+  </a>
+
+  <script>
+    const urls = {
+      1: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/x00444d3qj1.html",
+      2: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/g00443e8432.html",
+      3: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/a0044x244cu.html",
+      4: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/h0044uo68ur.html",
+      5: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/c0044z4jtbn.html",
+      6: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/e0044lznhbr.html",
+      7: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/j0044kdesw0.html",
+      8: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/e0044t5anol.html",
+      9: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/x0044579h8q.html",
+      10:"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/n0044kozynx.html",
+      11:"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/c0044umlvuq.html",
+      12:"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/n0044pz7ewi.html",
+      13: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/c004454un31.html",
+      14: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/x0044kj2n9s.html",
+      15: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/n00440sgrq3.html",
+      16: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/g0044x01gr4.html",
+      17: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/b00440blec6.html",
+      18: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/q0044l4s931.html",
+      19: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/a0044t0z2p6.html",
+      20:"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/s0044fpa26c.html",
+      21: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/o00441wm5mq.html",
+      22: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/p00448otin5.html",
+      23: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/v004479mrwc.html",
+      24: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/s0044tmxlpy.html",
+      25: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/x0044yh41gv.html",
+      26: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/p0044kmkwgz.html",
+      27: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/d0044k745de.html",
+      28: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/p0044qcq47i.html",
+      29: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/n0044l868xe.html",
+      30: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/r0044hgjznv.html",
+      31: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/v0044jl3tjp.html",
+      32: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/g0044apb6d0.html",
+      33: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/g0044l2bqy6.html",
+      34: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/x0044dvfwp4.html",
+      35: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/j0044pnoeh1.html",
+      36: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc002001mdwbhu/n0044r61kmk.html"
+	  
+    };
+
+    function play(ep) {
+      let url = urls[ep];
+      document.getElementById("player").innerHTML =
+        `<iframe src="${url}" allowfullscreen></iframe>`;
+    }
+  </script>
+</body>
+</html>
