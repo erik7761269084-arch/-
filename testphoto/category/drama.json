@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "定风波2025",
+    "category": "古装",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/定風波2025_528896.avif",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1"
+  },
+  {
+    "id": 2,
+    "title": "入夜玫瑰",
+    "category": "爱情",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/入夜玫瑰.avif",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2"
+  },
+  {
+    "id": 3,
+    "title": "隐秘的荣耀",
+    "category": "都市",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/隐秘的荣耀.avif",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3"
+  }
+]
