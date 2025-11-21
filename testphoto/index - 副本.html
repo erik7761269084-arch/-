@@ -94,15 +94,34 @@ body {
 
 let dramas = [];
 
+/* ------------------------
+   读取远程 JSON 数据
+------------------------ */
 async function loadDramas() {
-  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/testphoto/category/2025_dl_lxj.json");
-  dramas = await res.json();
-  renderDramas(dramas);
+  const url = "https://raw.githubusercontent.com/erik7761269084-arch/-/main/testphoto/category/2025_dl_lxj.json";
+
+  try {
+    const res = await fetch(url);
+
+    if (!res.ok) {
+      throw new Error("HTTP 错误: " + res.status);
+    }
+
+    dramas = await res.json();
+    renderDramas(dramas);
+
+  } catch (err) {
+    console.error("数据加载失败：", err);
+    document.getElementById("dramaGrid").innerHTML =
+      "<p style='color:red;font-size:18px;'>❌ 数据加载失败，请检查 JSON 路径！</p>";
+  }
 }
 
 loadDramas();
 
-
+/* ------------------------
+   渲染卡片
+------------------------ */
 function renderDramas(list) {
   const container = document.getElementById('dramaGrid');
   container.innerHTML = '';
@@ -118,6 +137,9 @@ function renderDramas(list) {
   });
 }
 
+/* ------------------------
+   分类按钮
+------------------------ */
 function filterCategory(cat) {
   document.querySelectorAll('.sidebar button').forEach(b => b.classList.remove('active'));
   event.target.classList.add('active');
@@ -125,8 +147,6 @@ function filterCategory(cat) {
   else renderDramas(dramas.filter(d => d.category === cat));
 }
 
-// 初始加载
-renderDramas(dramas);
 </script>
 
 </body>
