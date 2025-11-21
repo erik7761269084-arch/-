@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>青囊传 - 播放器</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f5f5f5; text-align: center; }
+    h2 { margin-top: 20px; }
+    .playlist { margin: 20px auto; width: 80%; display: flex; flex-wrap: wrap; justify-content: center; }
+    .playlist button {
+      margin: 5px;
+      padding: 10px 15px;
+      border: none;
+      background: #4CAF50;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .playlist button:hover { background: #45a049; }
+    iframe { width: 80%; height: 500px; border: none; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h2>《青囊传》全集播放</h2>
+  <p>点击集数进行播放：</p>
+
+  <div class="playlist">
+    <button onclick="play(1)">第1集</button>
+    <button onclick="play(2)">第2集</button>
+    <button onclick="play(3)">第3集</button>
+    <button onclick="play(4)">第4集</button>
+    <button onclick="play(5)">第5集</button>
+    <button onclick="play(6)">第6集</button>
+    <button onclick="play(7)">第7集</button>
+    <button onclick="play(8)">第8集</button>
+    <button onclick="play(9)">第9集</button>
+    <button onclick="play(10)">第10集</button>
+    <button onclick="play(11)">第11集</button>
+    <button onclick="play(12)">第12集</button>
+    <button onclick="play(13)">第13集</button>
+    <button onclick="play(14)">第14集</button>
+    <button onclick="play(15)">第15集</button>
+    <button onclick="play(16)">第16集</button>
+    <button onclick="play(17)">第17集</button>
+    <button onclick="play(18)">第18集</button>
+    <button onclick="play(19)">第19集</button>
+    <button onclick="play(20)">第20集</button>
+    <button onclick="play(21)">第21集</button>
+    <button onclick="play(22)">第22集</button>
+    <button onclick="play(23)">第23集</button>
+    <button onclick="play(24)">第24集</button>
+    <button onclick="play(25)">第25集</button>
+    <button onclick="play(26)">第26集</button>
+    <button onclick="play(27)">第27集</button>
+    <button onclick="play(28)">第28集</button>
+    <button onclick="play(29)">第29集</button>
+    <button onclick="play(30)">第30集</button>
+    <button onclick="play(31)">第31集</button>
+    <button onclick="play(32)">第32集</button>
+	<button onclick="play(33)">第33集</button>
+	<button onclick="play(34)">第34集</button>
+	<button onclick="play(35)">第35集</button>
+	<button onclick="play(36)">第36集</button>
+ 
+ 
+ 
+  </div>
+
+  <div id="player"></div>
+  
+  <a class="vip-link" href="https://ljt462625949.github.io/testphoto/sousuo" target="_blank">
+    🔗 前往 VIP 视频解析播放
+  </a>
+
+  <script>
+    const urls = {
+      1: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MDY2Njc4NA==.html?s=68f721ec03264e29a31a",
+      2: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTM0MDY1Ng==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTM0MDY1Ng==&spm=a2hkt.13141534.1_7.d_1_2",
+      3: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTM0MDY2MA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTM0MDY2MA==&spm=a2hkt.13141534.1_7.d_1_3",
+      4: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTE0NzA2MA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTE0NzA2MA==&spm=a2hkt.13141534.1_7.d_1_4",
+      5: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTc3Njc0NA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTc3Njc0NA==&spm=a2hkt.13141534.1_7.d_1_5",
+      6: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTUzMzUxMg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTUzMzUxMg==&spm=a2hkt.13141534.1_7.d_1_6",
+      7: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTUzMzUwNA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTUzMzUwNA==&spm=a2hkt.13141534.1_7.d_1_7",
+      8: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTUzMzUxNg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTUzMzUxNg==&spm=a2hkt.13141534.1_7.d_1_8",
+      9: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTUzMzUwMA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTUzMzUwMA==&spm=a2hkt.13141534.1_7.d_1_9",
+      10:"https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MTUzMzUwOA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MTUzMzUwOA==&spm=a2hkt.13141534.1_7.d_1_10",
+      11:"https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MjIwNDAxNg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MjIwNDAxNg==&spm=a2hkt.13141534.1_7.d_1_11",
+      12:"https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MjI1MjQ4MA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MjI1MjQ4MA==&spm=a2hkt.13141534.1_7.d_1_12",
+      13: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MjM1MDg5Ng==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MjM1MDg5Ng==&spm=a2hkt.13141534.1_7.d_1_13",
+      14: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzA0MzYzNg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzA0MzYzNg==&spm=a2hkt.13141534.1_7.d_1_14",
+      15: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MjQyMzA4MA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MjQyMzA4MA==&spm=a2hkt.13141534.1_7.d_1_15",
+      16: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE3MTg5ODc4MA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE3MTg5ODc4MA==&spm=a2hkt.13141534.1_7.d_1_16",
+      17: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzM0NjUzNg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzM0NjUzNg==&spm=a2hkt.13141534.1_7.d_1_17",
+      18: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzM0NjUzMg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzM0NjUzMg==&spm=a2hkt.13141534.1_7.d_1_18",
+      19: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzM0NjUyOA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzM0NjUyOA==&spm=a2hkt.13141534.1_7.d_1_19",
+      20:"https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzM0NjUyNA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzM0NjUyNA==&spm=a2hkt.13141534.1_7.d_1_20",
+      21: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjYwOA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjYwOA==&spm=a2hkt.13141534.1_7.d_1_21",
+      22: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjYxNg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjYxNg==&spm=a2hkt.13141534.1_7.d_1_22",
+      23: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjYxMg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjYxMg==&spm=a2hkt.13141534.1_7.d_1_23",
+      24: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjYyNA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjYyNA==&spm=a2hkt.13141534.1_7.d_1_24",
+      25: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjYyMA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjYyMA==&spm=a2hkt.13141534.1_7.d_1_25",
+      26: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjY1Ng==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjY1Ng==&spm=a2hkt.13141534.1_7.d_1_26",
+      27: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjY2NA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjY2NA==&spm=a2hkt.13141534.1_7.d_1_27",
+      28: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjY3Mg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjY3Mg==&spm=a2hkt.13141534.1_7.d_1_28",
+      29: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjY2OA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjY2OA==&spm=a2hkt.13141534.1_7.d_1_29",
+      30: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjY2MA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjY2MA==&spm=a2hkt.13141534.1_7.d_1_30",
+      31: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjcwNA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjcwNA==&spm=a2hkt.13141534.1_7.d_1_31",
+      32: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjcwOA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjcwOA==&spm=a2hkt.13141534.1_7.d_1_32",
+      33: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjcyMA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjcyMA==&spm=a2hkt.13141534.1_7.d_1_33",
+      34: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjcxNg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjcxNg==&spm=a2hkt.13141534.1_7.d_1_34",
+      35: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjcxMg==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjcxMg==&spm=a2hkt.13141534.1_7.d_1_35",
+      36: "https://jx.xmflv.com/?url=https://v.youku.com/v_show/id_XNDE2MzQxMjc0NA==.html?s=68f721ec03264e29a31a&scm=20140719.apircmd.298496.video_XNDE2MzQxMjc0NA==&spm=a2hkt.13141534.1_7.d_1_36"
+	  
+    };
+
+    function play(ep) {
+      let url = urls[ep];
+      document.getElementById("player").innerHTML =
+        `<iframe src="${url}" allowfullscreen></iframe>`;
+    }
+  </script>
+</body>
+</html>
