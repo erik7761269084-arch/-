@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>许我耀眼 - 播放器</title>
+
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      background: #f5f5f5; 
+      text-align: center; 
+    }
+    h2 { margin-top: 20px; }
+
+    .playlist { 
+      margin: 20px auto; 
+      width: 80%; 
+      display: flex; 
+      flex-wrap: wrap; 
+      justify-content: center; 
+    }
+
+    .playlist button {
+      margin: 5px;
+      padding: 10px 15px;
+      border: none;
+      background: #4CAF50;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .playlist button:hover { background: #45a049; }
+
+    iframe { 
+      width: 80%; 
+      height: 500px; 
+      border: none; 
+      margin-top: 20px; 
+    }
+
+    .vip-link {
+      display: inline-block;
+      margin-top: 30px;
+      font-size: 18px;
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    .vip-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>《浪浪山的小妖怪》电影播放</h2>
+  <p>点击集数进行播放：</p>
+
+  <div class="playlist">
+    <button onclick="play(1)">第1集</button>
+  </div>   <!-- 这里补上了你缺失的 div 结束符 -->
+
+  <div id="player"></div>
+
+  <a class="vip-link" href="https://ljt462625949.github.io/testphoto/sousuo" target="_blank">
+    🔗 前往 VIP 视频解析播放
+  </a>
+
+  <script>
+    const urls = {
+      1: "https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200tpgbo78/y4101ca2mcp.html"
+    };
+
+    function play(ep) {
+      let url = urls[ep];
+      document.getElementById("player").innerHTML =
+        `<iframe src="${url}" allowfullscreen></iframe>`;
+    }
+  </script>
+
+</body>
+</html>

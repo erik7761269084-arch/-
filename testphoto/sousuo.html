@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>VIP 视频解析播放</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      color: #000;
+      text-align: center;
+      background: url('https://ljt462625949.github.io/testphoto/sousuobeijing.jpg') no-repeat center top;
+      background-size: cover;
+      background-attachment: fixed;
+      min-height: 100vh;
+    }
+
+    h2 {
+      margin-top: 40px;
+      margin-bottom: 20px;
+      text-shadow: 0 2px 6px rgba(255,255,255,0.3);
+      color: #000;
+    }
+
+    /* 桌面端搜索框 */
+    .top-bar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      margin: 40px auto 20px auto;
+      width: 600px;
+      max-width: 90%;
+      background: rgba(255,255,255,0.0);
+      padding: 15px 20px;
+      border-radius: 15px;
+      position: relative;
+      z-index: 10;
+      color: #000;
+    }
+
+    select, input, button {
+      padding: 12px;
+      font-size: 18px;
+      border-radius: 8px;
+      border: 1px solid rgba(0,0,0,0.2);
+      outline: none;
+      color: #000;
+      background: rgba(255,255,255,0.85);
+      backdrop-filter: blur(5px);
+    }
+
+    input {
+      flex: 1;
+      min-width: 250px;
+    }
+
+    button {
+      background-color: #3385ff;
+      color: #fff;
+      cursor: pointer;
+      transition: background 0.3s;
+      font-weight: bold;
+    }
+
+    button:hover {
+      background-color: #2270e6;
+    }
+
+    #player iframe {
+      width: 80%;
+      aspect-ratio: 16/9;
+      border: none;
+      margin-top: 20px;
+      border-radius: 10px;
+      background: rgba(0,0,0,0.0);
+      box-shadow: 0 0 20px rgba(0,0,0,0.2);
+      transition: transform 0.3s ease;
+    }
+
+    .links {
+      margin-top: 20px;
+      display: inline-block;
+      padding: 12px 20px;
+      border-radius: 16px;
+      background: rgba(255,255,255,0.85);
+      backdrop-filter: blur(6px);
+      border: 1.5px solid #fff;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+      color: #000;
+      font-weight: 600;
+    }
+
+    .links a {
+      margin: 0 8px;
+      text-decoration: none;
+      color: #000;
+      transition: color 0.25s ease;
+    }
+
+    .links a:hover {
+      color: #444;
+    }
+
+    .instructions {
+      margin: 20px auto;
+      width: 80%;
+      max-width: 800px;
+      text-align: left;
+      background: rgba(255,255,255,0.6);
+      backdrop-filter: blur(6px);
+      padding: 15px 20px;
+      border-radius: 12px;
+      line-height: 1.6;
+      font-size: 16px;
+      color: #000;
+    }
+
+    /* ---------- 手机竖屏优化 ---------- */
+    @media screen and (max-width: 768px) {
+      .top-bar {
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        max-width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
+        margin-top: 25vh; /* 居中靠下 */
+      }
+      select {
+        display: none; /* 手机端隐藏选择框，简洁 */
+      }
+      input {
+        flex: 1;
+        width: 100%;
+        font-size: 18px;
+        height: 48px;
+        border-radius: 25px 0 0 25px;
+        background: #fff;
+      }
+      button {
+        width: 100px;
+        height: 48px;
+        border-radius: 0 25px 25px 0;
+        font-size: 18px;
+      }
+      #player iframe {
+        width: 100%;
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h2>VIP 视频解析播放</h2>
+
+  <div class="top-bar">
+    <select id="apiSelect">
+      <option value="https://jx.xmflv.com/?url=">解析源一</option>
+      <option value="https://jx.playerjy.com/?url=">解析源二</option>
+      <option value="https://www.yemu.xyz/?url=">解析源三</option>
+    </select>
+
+    <input type="text" id="videoUrl" placeholder="粘贴视频链接，例如 https://www.iqiyi.com/xxx.html">
+    <button onclick="playVideo()">播放</button>
+  </div>
+
+  <!-- 一开始显示在上面的说明 -->
+  <div class="instructions" id="instructions-top">
+    <b>使用说明：</b><br>
+    第一步，打开爱优腾官网，搜索你想看的视频：<br>
+    例如：哪吒魔童闹海 https://v.qq.com/x/cover/mzc00200tjkzeps/y4101qnn3jo.html <br><br>
+    第二步，复制你想看视频的视频链接到搜索框，点击播放。
+  </div>
+
+  <div id="player"></div>
+
+  <!-- 播放后显示在下面的说明 -->
+  <div class="instructions" id="instructions-bottom" style="display:none;">
+    <b>使用说明：</b><br>
+    第一步，打开爱优腾官网，搜索你想看的视频：<br>
+    例如：哪吒魔童闹海 https://v.qq.com/x/cover/mzc00200tjkzeps/y4101qnn3jo.html <br><br>
+    第二步，复制你想看视频的视频链接到搜索框，点击播放。
+  </div>
+
+  <div class="links">
+    <a href="https://v.qq.com" target="_blank">腾讯视频</a> |
+    <a href="https://www.iqiyi.com" target="_blank">爱奇艺</a> |
+    <a href="https://youku.com" target="_blank">优酷</a> |
+    <a href="https://mgtv.com" target="_blank">芒果TV</a>
+  </div>
+
+  <script>
+    function playVideo() {
+      const url = document.getElementById("videoUrl").value.trim();
+      if (!url) {
+        alert("请输入视频链接！");
+        return;
+      }
+
+      const api = document.getElementById("apiSelect").value;
+      const fullUrl = api + encodeURIComponent(url);
+
+      const playerDiv = document.getElementById("player");
+      const iframe = document.createElement("iframe");
+      iframe.src = fullUrl;
+      iframe.allowFullscreen = true;
+
+      playerDiv.innerHTML = "";
+      playerDiv.appendChild(iframe);
+
+      // 播放后隐藏上方说明，显示下方说明
+      document.getElementById("instructions-top").style.display = "none";
+      document.getElementById("instructions-bottom").style.display = "block";
+    }
+  </script>
+</body>
+</html>
