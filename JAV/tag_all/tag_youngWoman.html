@@ -88,7 +88,7 @@ fetch('../header.html')
     document.getElementById('header-placeholder').innerHTML = html;
 
     const script = document.createElement('script');
-    script.src = 'header.js';
+    script.src = '../header.js';
     script.onload = () => {
       if (typeof initHeaderMenu === 'function') initHeaderMenu();
       if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
