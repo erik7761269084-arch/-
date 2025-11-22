@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>女优标签分类 - 御女宫日本AV</title>
+<style>
+    body {
+        margin: 0;
+        font-family: "微软雅黑", sans-serif;
+        background: #0d0d0d;
+        color: #fff;
+        padding-top: 60px; /* 预留 Header 高度 */
+    }
+
+    .header {
+        padding: 20px;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        background: #1a1a1a;
+        border-bottom: 2px solid #333;
+    }
+
+    .tag-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 15px;
+        padding: 20px;
+    }
+
+    .tag-item {
+        padding: 12px;
+        background: #222;
+        text-align: center;
+        border-radius: 8px;
+        font-size: 18px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+    .tag-item:hover {
+        background: #444;
+        transform: scale(1.05);
+    }
+
+    a {
+        text-decoration: none;
+        color: #ffd700;  /* 黄色标签颜色 */
+        font-weight: bold;
+    }
+</style>
+</head>
+
+<body>
+
+<!-- Header 放置区 -->
+<div id="header-placeholder"></div>
+
+<div class="header">女优标签分类</div>
+
+<div class="tag-list" id="tagList"></div>
+
+<script>
+// -----------------------------------------------
+//                加载 header.html
+// -----------------------------------------------
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-tag');
+    };
+    document.body.appendChild(script);
+  });
+
+// -----------------------------------------------
+//                标签字典（完整 URL）
+// -----------------------------------------------
+const tags = {
+    "乱交": "https://yunvgong.com/JAV/tag_promiscuity",
+    "素人": "https://yunvgong.com/JAV/tag_Amateur",
+    "巨乳": "https://yunvgong.com/JAV/tag_bigBreasts",
+    "嫩妹": "https://yunvgong.com/JAV/tag_youngGirl",
+    "少妇": "https://yunvgong.com/JAV/tag_youngWoman",
+    "出道作": "https://yunvgong.com/JAV/tag_DebutWork",
+    "高清画质": "https://yunvgong.com/JAV/tag_HD",
+    "痴汉": "https://yunvgong.com/JAV/tag_pervert",
+    "女同": "https://yunvgong.com/JAV/tag_Lesbian",
+    "淫妻": "https://yunvgong.com/JAV/tag_adulterousWife",
+    "乱伦": "https://yunvgong.com/JAV/tag_incest",
+    "人妻": "https://yunvgong.com/JAV/tag_wife",
+    "孕妇": "https://yunvgong.com/JAV/tag_pregnantWomen",
+    "奶妈": "https://yunvgong.com/JAV/tag_wetNurse"
+};
+
+// 生成标签按钮
+const container = document.getElementById("tagList");
+
+for (const [name, url] of Object.entries(tags)) {
+    const div = document.createElement("div");
+    div.className = "tag-item";
+    div.innerHTML = `<a href="${url}">${name}</a>`;
+    container.appendChild(div);
+}
+</script>
+
+</body>
+</html>
