@@ -40,6 +40,14 @@
   align-items: center;
 }
 
+nav a.bold {
+    font-weight: bold;
+}
+
+nav a.yellow {
+    color: #FFD700; /* 金黄色 */
+}
+
 /* 菜单链接 */
 .headerbar nav a {
   color: #fff;
