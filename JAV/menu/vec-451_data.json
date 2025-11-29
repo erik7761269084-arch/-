@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/26/d62191af/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/26/d62191af/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250131/PkirHtfN/index.m3u8"
   },
   "seriesInfo": {
     "id": 211268,
     "IDcode": "VEC-451",
     "title": "友人母親-椿りか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [
       "乱伦"

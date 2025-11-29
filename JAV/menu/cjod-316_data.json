@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/33583f1a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/33583f1a/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230302/MarYEiyF/index.m3u8"
   },
   "seriesInfo": {
     "id": 214317,
     "IDcode": "CJOD-316",
     "title": "白天和雄性潮汐中-JULIA",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "癡女特化",
     "genres": [],
     "description": "",

@@ -1,18 +1,19 @@
 {
   "episodes": {
     "主线路": "https://vip2.slslvip12.com/20230131/cntTVDQF/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202409/24/yPJntqj5xJ1/video/index.m3u8"
+    "线路2": "https://bf3.qrtuv.com/smv1/202409/24/yPJntqj5xJ1/video/index.m3u8",
+    "线路3": "https://vip3.bfbfhao.com/20230510/XFXv8jsw/index.m3u8"
   },
   "seriesInfo": {
     "id": 86009,
     "IDcode": "RBK-054",
     "title": "女学生哀愿调教",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "单体作品",
       "制服",
+      "单体作品",
       "戏剧"
     ],
     "description": "",

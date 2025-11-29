@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/13/73ed5b66/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/13/73ed5b66/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221125/sCppLOJ2/index.m3u8"
   },
   "seriesInfo": {
     "id": 211468,
     "IDcode": "SHKD-538",
     "title": "在丈夫眼前被强奸-二宮沙樹",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

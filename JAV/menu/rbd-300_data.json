@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/030e2b01/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/030e2b01/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/04/004pArPVuc2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 213643,
     "IDcode": "RBD-300",
     "title": "奴隶党",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/845d29e6/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/845d29e6/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fd053f944bbe4ef05b0c43.m3u8"
   },
   "seriesInfo": {
     "id": 175915,
     "IDcode": "CEMD-748",
     "title": "波多野結衣を徹底解剖～丸一日クンニだらけでイカセまくり～",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "セレブの友",
     "genres": [],
     "description": "",

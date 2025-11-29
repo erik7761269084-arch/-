@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/10/11856647/index.m3u8",
-    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/678dd945/index.m3u8"
+    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/678dd945/index.m3u8",
+    "线路3": "https://thm3u8.com/20251006/5QpxcuZr/index.m3u8"
   },
   "seriesInfo": {
     "id": 178406,
     "IDcode": "DVRT-061",
     "title": "美容师的妹妹你能用你的神术改善患有射精障碍-神村さつき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "乱伦"

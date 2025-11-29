@@ -7,9 +7,11 @@
     "IDcode": "DHT-0095",
     "title": "無謀系女子-琴美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/09/07/1692756509a16e7409428767eae499a6.jpg",
     "background_img": "",

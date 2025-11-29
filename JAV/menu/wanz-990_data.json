@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/16/837c83e7/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/16/837c83e7/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230228/OzSVSoDm/index.m3u8",
+    "线路3": "https://vostrely.com/20240715/kozGRKTz/index.m3u8"
   },
   "seriesInfo": {
     "id": 210562,
     "IDcode": "WANZ-990",
     "title": "我老婆在家待产-佐山愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/25/8f24b576/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/25/8f24b576/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20210615/KJFIkUVa/index.m3u8"
   },
   "seriesInfo": {
     "id": 211816,
     "IDcode": "SOE-532",
     "title": "完美的身体-桜ここみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

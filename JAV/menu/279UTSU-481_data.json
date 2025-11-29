@@ -7,9 +7,11 @@
     "IDcode": "279UTSU-481",
     "title": "早苗",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/24/da7bc04f424a79e9511f95f2d6bcb1cb.jpg",
     "background_img": "",

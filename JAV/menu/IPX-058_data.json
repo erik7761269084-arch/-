@@ -1,21 +1,22 @@
 {
   "episodes": {
     "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/08/d77991f3/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202410/05/4FULFKh7GC1/video/index.m3u8"
+    "线路2": "https://bf3.qrtuv.com/smv1/202410/05/4FULFKh7GC1/video/index.m3u8",
+    "线路3": "https://krevonix.com/20221117/0JBHmgCM/index.m3u8"
   },
   "seriesInfo": {
     "id": 19431,
     "IDcode": "IPX-058",
     "title": "日常に潜むフェチマニアックス",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
-      "其他職業",
-      "數位馬賽克",
-      "COSPLAY服飾",
       "美少女",
-      "惡搞"
+      "惡搞",
+      "COSPLAY服飾",
+      "其他職業",
+      "數位馬賽克"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2019/08/08/QQ20190808213528b7d1b.jpg",

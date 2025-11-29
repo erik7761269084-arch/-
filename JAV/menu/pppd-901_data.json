@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/05/9512302b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/05/9512302b/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250128/KnA63dQs/index.m3u8"
   },
   "seriesInfo": {
     "id": 211887,
     "IDcode": "PPPD-901",
     "title": "中出発射-舞奈みく",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

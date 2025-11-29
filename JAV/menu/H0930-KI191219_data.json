@@ -1,15 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250106/wmbPQ7ph/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250106/wmbPQ7ph/index.m3u8",
+    "线路2": "https://krevonix.com/20221020/DUReEM3j/index.m3u8",
+    "线路3": "https://2.ddyunbo.com/20200420/XnvRRQ9e/index.m3u8"
   },
   "seriesInfo": {
     "id": 152607,
     "IDcode": "H0930-KI191219",
     "title": "楠木真奈美38岁",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250309-1/b45590f6bc1a3ef7f5adda9d4f989687.jpg",
     "background_img": "",

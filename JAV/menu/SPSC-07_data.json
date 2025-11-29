@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://1.mysqldata3202s4l.com/20241025/gyLRmPEO/index.m3u8"
+    "主线路": "https://1.mysqldata3202s4l.com/20241025/gyLRmPEO/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241023/DpIjq4BQ/index.m3u8",
+    "线路3": "https://krevonix.com/20240728/rMGdrLAL/index.m3u8"
   },
   "seriesInfo": {
     "id": 94387,
     "IDcode": "SPSC-07",
     "title": "美少女仮面オーロラ昭和浪漫ポルノ激情",
     "publish_date": "2024-11-22",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

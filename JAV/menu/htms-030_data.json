@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/05/657fbbe9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/05/657fbbe9/index.m3u8",
+    "线路2": "https://video22.bpzy1.com/video/20220416/822ec58e8f6a4e3092067c9964ab1af8/index.m3u8"
   },
   "seriesInfo": {
     "id": 213750,
     "IDcode": "HTMS-030",
     "title": "日光下的强奸",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241229/29mv3PRR/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241229/29mv3PRR/index.m3u8",
+    "线路2": "https://240311.sl3split.com/20240327/bUGHRS9F/index.m3u8"
   },
   "seriesInfo": {
     "id": 146420,
     "IDcode": "XXX-AV-24216",
     "title": "SkyAngelBlueVol.140一之濑玲香Part4",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

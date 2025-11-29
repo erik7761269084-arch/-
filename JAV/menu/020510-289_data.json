@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/PcXaCHdd/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/PcXaCHdd/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200705/GroUmz7s/index.m3u8"
   },
   "seriesInfo": {
     "id": 143549,
     "IDcode": "020510-289",
     "title": "真H故事13水野有栖",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250207-1/c03297f842f3a149a228a5f240441587.jpg",
     "background_img": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/01/cfa487fe/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/01/cfa487fe/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68e886e2631cc64eb5a41bf2.m3u8",
+    "线路3": "https://jkunnzyx.com/20230306/gvWiPr5c/index.m3u8"
   },
   "seriesInfo": {
     "id": 212127,
     "IDcode": "ABW-054",
     "title": "異世界性活ACT.07-涼森れむ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

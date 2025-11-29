@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/28/384ce6e8/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/28/384ce6e8/index.m3u8",
+    "线路2": "https://krevonix.com/20221013/1dA4OIq1/index.m3u8"
   },
   "seriesInfo": {
     "id": 209061,
     "IDcode": "MDTM-369",
     "title": "銀河級美少女Vol.002",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "宇宙企畫",
     "genres": [],
     "description": "",

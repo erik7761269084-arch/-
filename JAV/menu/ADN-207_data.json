@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/24/242d18d5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/24/242d18d5/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/07/677a84618daf6b1db43b68f2/6105b4/index.m3u8",
+    "线路3": "https://vip5.ddyunbo.com/20230420/4OXNve0q/index.m3u8",
+    "线路4": "https://vip4.ddyunbo.com/20241022/CNaG1UkE/index.m3u8"
   },
   "seriesInfo": {
     "id": 208561,
     "IDcode": "ADN-207",
     "title": "牙を剥いた猛獣 美谷朱里",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

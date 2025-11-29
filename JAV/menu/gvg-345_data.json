@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/19/244d01bd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/19/244d01bd/index.m3u8",
+    "线路2": "https://krevonix.com/20221013/SjYYMt09/index.m3u8"
   },
   "seriesInfo": {
     "id": 209680,
     "IDcode": "GVG-345",
     "title": "悪ガキ生徒会 佐々木あき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

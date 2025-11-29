@@ -1,17 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/04/69e4ac94/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/04/69e4ac94/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/14/678688495d57b64bfdbdcd04/c2ebce/index.m3u8",
+    "线路3": "https://www.lbbf9.com/20200426/YprjE9CC/index.m3u8"
   },
   "seriesInfo": {
     "id": 208695,
     "IDcode": "VDD-149",
     "title": "スチュワーデスin-藍川美夏",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "DREAMTICKET",
     "genres": [],
     "description": "",
-    "cover_url": "https://tutu1.space/images/2019/08/04/QQ201908041839128283a.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/678688495d57b64bfdbdcd04/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-149",
     "actresses": []

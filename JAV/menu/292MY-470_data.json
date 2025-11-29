@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20220811/nVSkdHsh/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20220811/nVSkdHsh/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/10/06/adca7ab9/index.m3u8",
+    "线路3": "https://1.mysqldata3202s4l.com/20220811/nVSkdHsh/index.m3u8"
   },
   "seriesInfo": {
     "id": 79748,
     "IDcode": "292MY-470",
     "title": "相原堇2",
     "publish_date": "2024-07-17",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/94f2f265824f93f8d5a00b9ebd131c28.jpg",
     "background_img": "",

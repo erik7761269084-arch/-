@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/11/e1f55b5c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/11/e1f55b5c/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240607/iFmZpuPJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 214387,
     "IDcode": "NGOD-074",
     "title": "薄情寡义的年轻妻子-双葉良香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

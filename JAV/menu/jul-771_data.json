@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/20/4af0cdf2/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/20/4af0cdf2/index.m3u8",
+    "线路2": "https://vip4.lbbf9.com/20241201/341htUOg/index.m3u8"
   },
   "seriesInfo": {
     "id": 214563,
     "IDcode": "JUL-771",
     "title": "学生時代-早見なな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

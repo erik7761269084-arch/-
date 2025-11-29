@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202501/10/72iLDv5FDJ1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202501/10/72iLDv5FDJ1/video/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20240801/0aqhT5Uk/index.m3u8"
   },
   "seriesInfo": {
     "id": 157515,
     "IDcode": "ACZD-125",
     "title": "繩子臟花茜",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

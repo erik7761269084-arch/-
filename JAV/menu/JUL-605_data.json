@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202409/24/gnaiLr1C231/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202409/24/gnaiLr1C231/video/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202510/02/75fa76263d58/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 156015,
     "IDcode": "JUL-605",
     "title": "被老公上司連幹7天到理性全失",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

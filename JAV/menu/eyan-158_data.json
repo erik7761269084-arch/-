@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/25/fbe77920/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/25/fbe77920/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/GuuGLvDk/index.m3u8"
   },
   "seriesInfo": {
     "id": 210374,
     "IDcode": "EYAN-158",
     "title": "誘惑人妻-深田えいみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "人妻"

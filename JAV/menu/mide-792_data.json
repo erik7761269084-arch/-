@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/11/d9d1f1ec/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/11/d9d1f1ec/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202510/07/c2a054a266bd/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209565,
     "IDcode": "MIDE-792",
     "title": "痴に溺れて-白坂有以",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

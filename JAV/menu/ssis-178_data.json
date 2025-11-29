@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/20/ac05bb9e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/20/ac05bb9e/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/07/1c79a261c0af/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 214025,
     "IDcode": "SSIS-178",
     "title": "亲密的性爱-和知すばる",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

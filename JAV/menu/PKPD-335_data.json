@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/11/221e1cef/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/11/221e1cef/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251018/DeYmwNi3/index.m3u8",
+    "线路3": "https://krevonix.com/20241208/E9lSycAg/index.m3u8"
   },
   "seriesInfo": {
     "id": 176893,
     "IDcode": "PKPD-335",
     "title": "半中半外半彼女 まち 幾野まち",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

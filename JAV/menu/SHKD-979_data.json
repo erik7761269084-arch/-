@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/14/bb6c3eb3/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/14/bb6c3eb3/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230304/OreufiOB/index.m3u8"
   },
   "seriesInfo": {
     "id": 80227,
     "IDcode": "SHKD-979",
     "title": "顧問教師-堀北わん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "制服",

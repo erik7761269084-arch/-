@@ -1,19 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20221221/LMPrRfSD/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20221221/LMPrRfSD/index.m3u8",
+    "线路2": "https://lsbbf2.com/20230924/U67Q0SHT/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68fa8b14d6fbef4e9008b9de.m3u8",
+    "线路4": "https://vostrely.com/20230310/yb6Gx6WG/index.m3u8"
   },
   "seriesInfo": {
     "id": 83184,
     "IDcode": "RCTD-294",
     "title": "ディープキス歯科クリニック2",
-    "publish_date": "2019-12-26",
-    "type": "有码",
+    "publish_date": "",
+    "type": null,
     "company": "ROCKET",
     "genres": [
+      "各种职业",
       "恋物癖",
       "荡妇",
-      "接吻",
-      "各种职业"
+      "接吻"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/2ac11b0ee2618317f2df717540acf284.jpg",

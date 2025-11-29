@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/05/681cb731/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/05/681cb731/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240218/Zs3kbXpA/index.m3u8"
   },
   "seriesInfo": {
     "id": 211879,
     "IDcode": "MVSD-452",
     "title": "魔鬼三明治-凪沙ゆきの 田中ねね",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "MVG GROUP",
     "genres": [],
     "description": "",

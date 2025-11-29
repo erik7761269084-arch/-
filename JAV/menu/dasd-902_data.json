@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/14/5afb54ae/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/14/5afb54ae/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/aea6441fdf4e/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212818,
     "IDcode": "DASD-902",
     "title": "看守所的女士-初川みなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

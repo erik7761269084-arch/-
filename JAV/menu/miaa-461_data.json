@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/30/7e311560/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/30/7e311560/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/C5xRO6U5/index.m3u8"
   },
   "seriesInfo": {
     "id": 212122,
     "IDcode": "MIAA-461",
     "title": "担任教師-小梅えな 姫咲はな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

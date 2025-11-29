@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/176cc55f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/176cc55f/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/gNVAiuQs/index.m3u8"
   },
   "seriesInfo": {
     "id": 210621,
     "IDcode": "CAWD-123",
     "title": "长时间的高潮-天ノうた",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

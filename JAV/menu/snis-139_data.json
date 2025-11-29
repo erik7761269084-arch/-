@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/09cb6965/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/09cb6965/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220708/2E5nnLmG/index.m3u8"
   },
   "seriesInfo": {
     "id": 212617,
     "IDcode": "SNIS-139",
     "title": "秘密捜査官-推川ゆうり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

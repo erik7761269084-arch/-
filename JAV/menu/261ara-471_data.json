@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/24/75b1820d/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/24/75b1820d/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240707/GJ1Nwnsp/index.m3u8"
   },
   "seriesInfo": {
     "id": 175606,
     "IDcode": "261ARA-471",
     "title": "超级可爱白衣天使23歳",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/13/8b80c19a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/13/8b80c19a/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/HP4Lh5SI/index.m3u8"
   },
   "seriesInfo": {
     "id": 213365,
     "IDcode": "MIAA-491",
     "title": "取代她哥哥的妹妹-広瀬みつき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [
       "乱伦"

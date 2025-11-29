@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/O3a6vxiK/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/O3a6vxiK/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202507/15/CGQwWRkPfS2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 153306,
     "IDcode": "ARA-130",
     "title": "招募酱118小樱20岁服饰店员",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "嫩妹"

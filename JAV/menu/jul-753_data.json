@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/05/24df51b6/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/05/24df51b6/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250124/V5D3Mbk2/index.m3u8"
   },
   "seriesInfo": {
     "id": 214254,
     "IDcode": "JUL-753",
     "title": "学生的爱情故事-叶愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

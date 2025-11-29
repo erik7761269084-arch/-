@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/13/f79a55c8/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/13/f79a55c8/index.m3u8",
+    "线路2": "https://krevonix.com/20241118/jqMyF0Ux/index.m3u8"
   },
   "seriesInfo": {
     "id": 177192,
     "IDcode": "ALDN-378",
     "title": "こころは無理…でも縛られたい 翔田千里",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TAKARA",
     "genres": [],
     "description": "",

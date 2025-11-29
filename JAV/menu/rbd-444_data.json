@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/12/6585c6d1/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/12/6585c6d1/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/12/6913dec61fcdee36fa89d688/10b5ba/index.m3u8"
   },
   "seriesInfo": {
     "id": 214445,
     "IDcode": "RBD-444",
     "title": "色女教師-周防ゆきこ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/pD5490wu/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/pD5490wu/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/9Nwe2xCHhj2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150407,
     "IDcode": "SIRO-1159",
     "title": "业馀个人摄影和发文211",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250228-1/bc617c9f157fbfb73b9a50dac72f9c11.jpg",
     "background_img": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/Wquqa6MS/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/Wquqa6MS/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/PsSXqYPB/index.m3u8"
   },
   "seriesInfo": {
     "id": 143503,
     "IDcode": "123111-901",
     "title": "第一次完整故事第2部分AiWakana",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

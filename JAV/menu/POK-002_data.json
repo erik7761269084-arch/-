@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/sWsT5SIY/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/sWsT5SIY/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/06/a5d4f5a1d973/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154623,
     "IDcode": "POK-002",
     "title": "娇小美丽的女孩和爱奇闻趣事HMio",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20221110/LXXH3whk/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/05/24/4b4cdf56/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/05/24/4b4cdf56/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20220816/yYczwEE7/index.m3u8"
   },
   "seriesInfo": {
     "id": 166170,
     "IDcode": "MDTM-626",
     "title": "排卵日子作り物語-岬あずさ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "宇宙企畫",
     "genres": [],
     "description": "",

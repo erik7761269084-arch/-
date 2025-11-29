@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/e0eYJinK/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/e0eYJinK/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/08/LG7RzwyFy52/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148569,
     "IDcode": "SIRO-3591",
     "title": "初拍网络上的AV应用AV体验拍摄766",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250222-1/4362b15cae209f122d3626656c22fbca.jpg",
     "background_img": "",

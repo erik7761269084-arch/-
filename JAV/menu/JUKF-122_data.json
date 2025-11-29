@@ -1,17 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/16/06f80f91/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/16/06f80f91/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68c26cc85f13d063bcdd05b5.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68ba945e5fdaf263a263fbac.m3u8",
+    "线路4": "https://krevonix.com/20241129/8DTowKOS/index.m3u8"
   },
   "seriesInfo": {
     "id": 176507,
     "IDcode": "JUKF-122",
     "title": "狂った果実 いちかちゃん 笠木いちか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "JUMP",
     "genres": [],
     "description": "",
-    "cover_url": "https://tutu1.space/images/2025/10/16/f5dda82d9caba404e04313f522371701.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba945e5fdaf263a263fbac/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-122",
     "actresses": []

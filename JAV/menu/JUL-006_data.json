@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221006/IKREvYeE/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221006/IKREvYeE/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/COuHwev8/index.m3u8"
   },
   "seriesInfo": {
     "id": 165845,
     "IDcode": "JUL-006",
     "title": "父親の再婚相手がどストライク過ぎて距離を",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

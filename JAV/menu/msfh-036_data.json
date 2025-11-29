@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/26/339e72de/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/26/339e72de/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/25/23a1a8f04c28/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211276,
     "IDcode": "MSFH-036",
     "title": "性玩具-希代あみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/08/c014323e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/08/c014323e/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202508/10/b86acca6baff/playlist.m3u8",
+    "线路3": "https://vip8.3sybf.com/20230125/NGGx0sqg/index.m3u8"
   },
   "seriesInfo": {
     "id": 211965,
     "IDcode": "UMSO-025",
     "title": "素人男優早漏-波多野結衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "K.M.P",
     "genres": [
       "素人"

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241229/j5hfGXhg/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241229/j5hfGXhg/index.m3u8",
+    "线路2": "https://240311.sl3split.com/20240327/e7dSEBJV/index.m3u8"
   },
   "seriesInfo": {
     "id": 146410,
     "IDcode": "XXX-AV-24203",
     "title": "我想出现在AV中中出原始松鼠到一个可爱的聊天女士与YanchaVol.01",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

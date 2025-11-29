@@ -1,19 +1,27 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/3cd8a14c/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/3cd8a14c/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2024/12/28/995fc767/index.m3u8",
+    "线路3": "https://krevonix.com/20250106/kb6wDyx4/index.m3u8"
   },
   "seriesInfo": {
     "id": 59867,
     "IDcode": "NUKA-72",
     "title": "抜かずの六発中出し 母と息子の密着交尾 三ツ谷優里",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/21/3cd8a14c/vod.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-72",
-    "actresses": []
+    "actresses": [
+      {
+        "name": "三ツ谷優里",
+        "img_url": "https://picture.yoshiclub.xyz/compressed/20251003/aeb30389-439b-4ec7-9776-641b5fe38ee7_s.webp",
+        "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=2568&name=%E4%B8%89%E3%83%84%E8%B0%B7%E5%84%AA%E9%87%8C"
+      }
+    ]
   }
 }

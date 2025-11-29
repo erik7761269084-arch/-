@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/ba1f7ed1/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/ba1f7ed1/index.m3u8",
+    "线路2": "https://krevonix.com/20221013/eYQHeUA9/index.m3u8"
   },
   "seriesInfo": {
     "id": 208797,
     "IDcode": "MUDR-034",
     "title": "彼女は最上位 麻里梨夏 佐々波綾",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "無垢",
     "genres": [],
     "description": "",

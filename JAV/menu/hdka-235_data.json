@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/23/455a7998/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/23/455a7998/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68dae527d6fbef4e90d1daa7.m3u8"
   },
   "seriesInfo": {
     "id": 212980,
     "IDcode": "HDKA-235",
     "title": "訪問介護士 -艶堂しほり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "PLANETPLUS",
     "genres": [],
     "description": "",

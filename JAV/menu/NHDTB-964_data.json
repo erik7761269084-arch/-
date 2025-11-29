@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/1ee1d2ff/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/1ee1d2ff/index.m3u8",
+    "线路2": "https://vostrely.com/20241008/tzAic9tm/index.m3u8"
   },
   "seriesInfo": {
     "id": 175164,
     "IDcode": "NHDTB-964",
     "title": "ナチュラルハイ25周年記念作品 生中集団9 増量SP＋シリーズ厳選11人総集編付き2枚組",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "NATURAL HIGH",
     "genres": [],
     "description": "",

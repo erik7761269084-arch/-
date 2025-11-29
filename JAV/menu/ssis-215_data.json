@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/08/9f1cd206/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/08/9f1cd206/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20240930/bD1yLdxq/index.m3u8"
   },
   "seriesInfo": {
     "id": 214357,
     "IDcode": "SSIS-215",
     "title": "年轻女房东-星宮一花",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

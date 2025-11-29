@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/qK1J1z5G/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/qK1J1z5G/index.m3u8",
+    "线路2": "https://cdn2.shayubf.com/20200304/2Kgn3TqK/index.m3u8"
   },
   "seriesInfo": {
     "id": 143434,
     "IDcode": "121516-325",
     "title": "THEUnreleased4HondenMaikaseMikiAimoto",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

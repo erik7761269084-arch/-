@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/21/7c0c899c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/21/7c0c899c/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202508/10/051e0b0ffc5c/playlist.m3u8",
+    "线路3": "https://www.lbbf9.com/20200405/YMZ29MUr/index.m3u8"
   },
   "seriesInfo": {
     "id": 208863,
     "IDcode": "VOSS-013",
     "title": "買い物帰りの満員電車-波多野結衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "痴汉"

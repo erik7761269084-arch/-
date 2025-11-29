@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/03/50ba0d8d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/03/50ba0d8d/index.m3u8",
+    "线路2": "https://v2024.sysybf.com/20241202/vgWWowgt/index.m3u8",
+    "线路3": "https://vostrely.com/20250302/nsjSVIzy/index.m3u8"
   },
   "seriesInfo": {
     "id": 211874,
     "IDcode": "MIDE-872",
     "title": "老婆回家三天-水卜さくら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

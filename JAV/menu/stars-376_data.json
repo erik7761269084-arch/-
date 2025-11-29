@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/4475139c/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/4475139c/index.m3u8",
+    "线路2": "https://video14.bpzy1.com/video/20220308/c3eb7c8cdfd81cb0021147073917e2ba/index.m3u8"
   },
   "seriesInfo": {
     "id": 212395,
     "IDcode": "STARS-376",
     "title": "相部屋NTR-宮島めい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "NTR",

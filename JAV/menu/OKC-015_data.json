@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/6d5c3c3d/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/6d5c3c3d/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251014/yP7xfcOB/index.m3u8",
+    "线路3": "https://vostrely.com/20241207/rpLb2Q1X/index.m3u8"
   },
   "seriesInfo": {
     "id": 175966,
     "IDcode": "OKC-015",
     "title": "神着衣ぶっかけ 8人8発射 250分 競泳水着・スク水編",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

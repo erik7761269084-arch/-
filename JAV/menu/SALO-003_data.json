@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/nh5GhbOf/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/nh5GhbOf/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20210206/lB43x1Fd/index.m3u8"
   },
   "seriesInfo": {
     "id": 165352,
     "IDcode": "SALO-003",
     "title": "れな女王様の調教部屋 くろいれな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

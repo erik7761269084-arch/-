@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/30/17f03811/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/30/17f03811/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/17/a3062a32dc05/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211351,
     "IDcode": "VOSS-189",
     "title": "女人是公司的高层",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

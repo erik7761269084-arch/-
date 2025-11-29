@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241228/uDbp95LM/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241228/uDbp95LM/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/0xx4ry3d/index.m3u8"
   },
   "seriesInfo": {
     "id": 144910,
     "IDcode": "122211-893",
     "title": "看到丽莎直到最后美咲梨沙",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

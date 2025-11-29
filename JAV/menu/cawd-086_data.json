@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/08/e89767f1/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/08/e89767f1/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231108/L1ilpkbf/index.m3u8"
   },
   "seriesInfo": {
     "id": 209898,
     "IDcode": "CAWD-086",
     "title": "童顔姉妹-松本いちか 白石かんな",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

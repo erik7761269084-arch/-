@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/134e390b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/134e390b/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230607/D71s37Do/index.m3u8"
   },
   "seriesInfo": {
     "id": 213997,
     "IDcode": "ADN-129",
     "title": "我想被你所爱-希崎ジェシカ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

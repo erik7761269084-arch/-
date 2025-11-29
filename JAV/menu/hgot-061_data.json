@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/09/24137eb3/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/09/24137eb3/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241202/640xupGu/index.m3u8"
   },
   "seriesInfo": {
     "id": 214951,
     "IDcode": "HGOT-061",
     "title": "六个男人和女人在一个巨大的狂欢中互相操弄",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

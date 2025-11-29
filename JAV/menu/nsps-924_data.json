@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/14/6a1afadd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/14/6a1afadd/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/KBwgevoR/index.m3u8"
   },
   "seriesInfo": {
     "id": 210229,
     "IDcode": "NSPS-924",
     "title": "爱好就是出轨-飯山香織",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "素人Only",
     "genres": [],
     "description": "",

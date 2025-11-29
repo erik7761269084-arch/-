@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/31/be956f40/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/31/be956f40/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230228/7KDvyMdH/index.m3u8"
   },
   "seriesInfo": {
     "id": 210740,
     "IDcode": "VEC-447",
     "title": "老婆的闺蜜们-夕季ちとせ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://1.mysqldata3202s4l.com/20241018/lOvfkjb0/index.m3u8"
+    "主线路": "https://1.mysqldata3202s4l.com/20241018/lOvfkjb0/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241018/coy0nUCZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 93980,
     "IDcode": "RBK-094",
     "title": "貞操帯の女34 西野絵美",
     "publish_date": "2024-06-28",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

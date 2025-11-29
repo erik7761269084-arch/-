@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/52816218/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/52816218/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20240222/HQ2NCF6T/index.m3u8"
   },
   "seriesInfo": {
     "id": 210771,
     "IDcode": "CAWD-128",
     "title": "制服少女-もなみ鈴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

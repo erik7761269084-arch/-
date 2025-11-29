@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/06/c44c405d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/06/c44c405d/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/b0eb04fc732e/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213233,
     "IDcode": "ABW-107",
     "title": "最喜欢的她被大叔抢走了",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

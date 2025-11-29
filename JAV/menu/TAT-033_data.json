@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/Qrhmgyjf/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/Qrhmgyjf/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/42b1a0e52dba/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154654,
     "IDcode": "TAT-033",
     "title": "奇闻趣事H玛丽亚和一个害羞的姐姐在乌布",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "乱伦"

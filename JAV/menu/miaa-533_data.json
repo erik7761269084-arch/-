@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/ff2138fa/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/ff2138fa/index.m3u8",
+    "线路2": "https://vip4.lbbf9.com/20241202/Ugfgdbxn/index.m3u8"
   },
   "seriesInfo": {
     "id": 214617,
     "IDcode": "MIAA-533",
     "title": "我是一名班主任-木下ひまり 一色彩葉",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/05/f52d37bd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/05/f52d37bd/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241201/dVVqd6yN/index.m3u8"
   },
   "seriesInfo": {
     "id": 213759,
     "IDcode": "KAWD-784",
     "title": "性服务的全过程-桜井まほ 村上りおな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

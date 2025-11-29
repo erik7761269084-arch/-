@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/10/33930f15/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/10/33930f15/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20200803/38vuud5r/index.m3u8"
   },
   "seriesInfo": {
     "id": 210499,
     "IDcode": "GVG-814",
     "title": "禁断介護 工藤まなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

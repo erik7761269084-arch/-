@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/05/bb691a9f/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/05/bb691a9f/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/26/d26f722f065a/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212594,
     "IDcode": "MRSS-112",
     "title": "男子大学生-花宮あむ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

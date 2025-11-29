@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/b541ab2f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/b541ab2f/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240223/omDao6Av/index.m3u8"
   },
   "seriesInfo": {
     "id": 210776,
     "IDcode": "CAWD-138",
     "title": "連続射精専門-あおいれな 樋口みつは",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

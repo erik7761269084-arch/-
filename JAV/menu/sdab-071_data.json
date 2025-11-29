@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/14/50bb8d58/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/14/50bb8d58/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241202/LMiD44kh/index.m3u8"
   },
   "seriesInfo": {
     "id": 215037,
     "IDcode": "SDAB-071",
     "title": "宵禁前六小时-百岡いつか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

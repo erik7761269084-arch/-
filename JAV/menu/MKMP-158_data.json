@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20230305/LXlUpkjs/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20230305/LXlUpkjs/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230601/zHbIelrQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 166672,
     "IDcode": "MKMP-158",
     "title": "緊縛大小姐AIKA",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "K.M.P",
     "genres": [
       "中文字幕"

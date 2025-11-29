@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250109/qGUrILMC/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250109/qGUrILMC/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/jnJ5VTw8sq2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 149925,
     "IDcode": "SIRO-1041",
     "title": "业馀个人摄影和发文131",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250227-1/d3681d580d5f0c6f4c25d36d87699a34.jpg",
     "background_img": "",

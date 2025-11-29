@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/08/56c33ab7/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/08/56c33ab7/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241129/mdZA2pN7/index.m3u8"
   },
   "seriesInfo": {
     "id": 213277,
     "IDcode": "IENF-085",
     "title": "被女孩包围的男人",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IENERGY",
     "genres": [],
     "description": "",

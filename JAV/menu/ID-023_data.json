@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/19859266/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/19859266/index.m3u8",
+    "线路2": "https://krevonix.com/20240729/tagtvMVo/index.m3u8"
   },
   "seriesInfo": {
     "id": 185452,
     "IDcode": "ID-023",
     "title": "西野絵美 SPECIAL BEST 3時間",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

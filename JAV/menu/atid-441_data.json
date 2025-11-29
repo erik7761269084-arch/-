@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/01/64d4af42/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/01/64d4af42/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20240222/OMNM8rYt/index.m3u8"
   },
   "seriesInfo": {
     "id": 210757,
     "IDcode": "ATID-441",
     "title": "義父の欲望-二宮ひかり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

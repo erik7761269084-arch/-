@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/JB9wT9dG/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/JB9wT9dG/index.m3u8",
+    "线路2": "https://vip23.newljlj2025.com/20200107/CVFdgIwO/index.m3u8"
   },
   "seriesInfo": {
     "id": 142376,
     "IDcode": "110219-001",
     "title": "下班后赛夫勒和爱情酒店水木安吉莉亚",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

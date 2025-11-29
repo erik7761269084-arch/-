@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/18/a703c32c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/18/a703c32c/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202409/21/eHH1Q8eHTw1/video/index.m3u8",
+    "线路3": "https://vip7.newljlj2025.com/20240707/t4AGWUaU/index.m3u8"
   },
   "seriesInfo": {
     "id": 102458,
     "IDcode": "PS-029",
     "title": "咖啡店搭讪温柔姐姐",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "素人Only",
     "genres": [
       "乱伦"

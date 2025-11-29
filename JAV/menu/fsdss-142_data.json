@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/12/3e97be5c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/12/3e97be5c/index.m3u8",
+    "线路2": "https://v.ddoucdn.com/20240906/yNCslvpc/index.m3u8"
   },
   "seriesInfo": {
     "id": 211441,
     "IDcode": "FSDSS-142",
     "title": "鼓励的淫言秽语-月乃さくら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

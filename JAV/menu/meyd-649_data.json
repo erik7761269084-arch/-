@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/28/d4481e18/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/28/d4481e18/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/27/DPENw1nuXy2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 211863,
     "IDcode": "MEYD-649",
     "title": "付不起房租的少妇-真木今日子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "溜池",
     "genres": [
       "人妻"

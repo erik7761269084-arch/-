@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/21/d960859b/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/21/d960859b/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221129/kAshNSFm/index.m3u8"
   },
   "seriesInfo": {
     "id": 212945,
     "IDcode": "RBD-273",
     "title": "无法忘记这种温暖-伊島香織",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

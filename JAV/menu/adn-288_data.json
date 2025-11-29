@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/20/629673ee/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/20/629673ee/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/30/0feb59774e44/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211560,
     "IDcode": "ADN-288",
     "title": "義父接吻-二宮ひかり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

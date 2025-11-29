@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/6U0DtXSY/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/6U0DtXSY/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/s7PjNtnj/index.m3u8"
   },
   "seriesInfo": {
     "id": 142385,
     "IDcode": "110719-001",
     "title": "猫图画书小川桃花小川桃花",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

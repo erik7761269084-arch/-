@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/28/076d02cc/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/28/076d02cc/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/10/Jr5tSZh3Ja2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 211300,
     "IDcode": "MEYD-641",
     "title": "毎日10発孕-樋口みつは",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "溜池",
     "genres": [],
     "description": "",

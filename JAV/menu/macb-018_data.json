@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/19/2d3dba11/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/19/2d3dba11/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/17/e501b758bf27/playlist.m3u8",
+    "线路3": "https://vostrely.com/20240919/dD2qjlls/index.m3u8"
   },
   "seriesInfo": {
     "id": 211772,
     "IDcode": "MACB-018",
     "title": "下流的妻子-河北はるな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

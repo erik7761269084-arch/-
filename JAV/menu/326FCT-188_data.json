@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/f8e379a5/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/f8e379a5/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f64459eb67774efbf631a3.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68f64477eb67774efbf631a5.m3u8"
   },
   "seriesInfo": {
     "id": 174878,
     "IDcode": "326FCT-188",
     "title": "Gカップむっつり女子つかさちゃん20歳 カップル記念で撮った顔出しハメ撮り",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/27/5bb6b480b2c22725c92db24c032b2910.jpg",
     "background_img": "",

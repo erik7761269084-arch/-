@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/283d0171/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/283d0171/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/04/690924cb4a81c2286fb29ce1/804f79/index.m3u8"
   },
   "seriesInfo": {
     "id": 212306,
     "IDcode": "RBD-537",
     "title": "野外露出調教",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

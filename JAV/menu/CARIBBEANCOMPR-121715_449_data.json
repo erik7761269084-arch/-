@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241229/QMHIBHs5/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241229/QMHIBHs5/index.m3u8",
+    "线路2": "https://3sybf.com/20200425/g4NJbGJ8/index.m3u8",
+    "线路3": "https://3sybf.com/20200425/IUBi9Dys/index.m3u8"
   },
   "seriesInfo": {
     "id": 145529,
@@ -8,8 +10,11 @@
     "title": "RedHotCollection113奥坎-水泽真央",
     "publish_date": "",
     "type": "无码",
-    "company": null,
-    "genres": [],
+    "company": "加勒比系",
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250212-1/d0fc4c67ef2f4c98a79bb1e917fb5f1f.jpg",
     "background_img": "",

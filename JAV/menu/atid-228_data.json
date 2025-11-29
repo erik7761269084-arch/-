@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/06/2e0a1b9a/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/06/2e0a1b9a/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20221228/cgaNxWCX/index.m3u8"
   },
   "seriesInfo": {
     "id": 214900,
     "IDcode": "ATID-228",
     "title": "强奸-春原未来 相沢恋",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

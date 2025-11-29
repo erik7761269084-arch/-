@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/24/12a5c52c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/24/12a5c52c/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250131/9aBaffrC/index.m3u8"
   },
   "seriesInfo": {
     "id": 210691,
     "IDcode": "SSNI-903",
     "title": "我的老板出差中-仲村みう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

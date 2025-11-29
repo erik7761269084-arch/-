@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/10f6a0b8/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/10f6a0b8/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221027/gBYCoSA4/index.m3u8"
   },
   "seriesInfo": {
     "id": 213403,
     "IDcode": "SHKD-467",
     "title": "恥辱の教育実習生-夏目優希",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

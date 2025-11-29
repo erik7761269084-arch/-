@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/16/e7d3d629/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/16/e7d3d629/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68ffd9b57de28f4edeabc33b.m3u8"
   },
   "seriesInfo": {
     "id": 212839,
     "IDcode": "EYAN-059",
     "title": "大奶子的诱惑-桃瀬友梨奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/s65cUDeA/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/s65cUDeA/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/U3UtiOw6/index.m3u8"
   },
   "seriesInfo": {
     "id": 164771,
     "IDcode": "DVDMS-452",
     "title": "一般男女モニタリングAV同窓会終わりに突撃交渉！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

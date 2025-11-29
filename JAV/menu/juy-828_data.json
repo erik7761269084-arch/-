@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/12/3cf4a559/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/12/3cf4a559/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/UgEnVRhP/index.m3u8"
   },
   "seriesInfo": {
     "id": 210529,
     "IDcode": "JUY-828",
     "title": "丈夫以外的男人-有村のぞみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

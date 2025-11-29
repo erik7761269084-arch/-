@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/b92b3ca8/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/b92b3ca8/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241223/9BPk5PIJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 214086,
     "IDcode": "JUKF-022",
     "title": "我的嫂子-浜崎真緒",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "JUMP",
     "genres": [
       "人妻"

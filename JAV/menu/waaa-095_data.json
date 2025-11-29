@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/14/3a305e7b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/14/3a305e7b/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/Hohsddzn/index.m3u8"
   },
   "seriesInfo": {
     "id": 213386,
     "IDcode": "WAAA-095",
     "title": "小悪魔部下-篠田ゆう 枢木あおい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

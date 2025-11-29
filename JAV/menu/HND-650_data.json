@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/wNq2Yewd/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/wNq2Yewd/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20220707/ktGCKA2r/index.m3u8"
   },
   "seriesInfo": {
     "id": 164768,
     "IDcode": "HND-650",
     "title": "大学であのグラドル四●王に似てると話題！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

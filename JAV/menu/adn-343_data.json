@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/6daa5e42/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/6daa5e42/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230302/L9KqNpbh/index.m3u8"
   },
   "seriesInfo": {
     "id": 213335,
     "IDcode": "ADN-343",
     "title": "妻子已经和一个男人在一起六个月了",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

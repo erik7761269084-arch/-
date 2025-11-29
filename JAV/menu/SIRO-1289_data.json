@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/eA1jsSR3/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/eA1jsSR3/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/WTAEWcfYXm2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150509,
     "IDcode": "SIRO-1289",
     "title": "业馀AV体验拍摄477",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/1b9001f4f1257998e48560f882607c25.jpg",
     "background_img": "",

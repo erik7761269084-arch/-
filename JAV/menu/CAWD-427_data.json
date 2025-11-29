@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20230105/yEqXUdjV/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20230105/yEqXUdjV/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230709/EulxB1QR/index.m3u8"
   },
   "seriesInfo": {
     "id": 84141,
     "IDcode": "CAWD-427",
     "title": "親友に贈る意味深な失恋ソング 初恋相手に似ていた親友の彼氏を寝取った悪女は私です。 瀬戸内ゆい",
     "publish_date": "2022-09-06",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [
       "苗条",
       "戏剧",
       "白天出轨",
-      "单体作品",
-      "美少女电影"
+      "美少女电影",
+      "单体作品"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/7fb27c2ad551274a37fa723bf4609102.jpg",

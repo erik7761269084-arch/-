@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/05/1d27c8f9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/05/1d27c8f9/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/8FFswkdY/index.m3u8"
   },
   "seriesInfo": {
     "id": 209847,
     "IDcode": "MIAA-278",
     "title": "初恋 蓮実クレア",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

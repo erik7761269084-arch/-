@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/11/6d916c65/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/11/6d916c65/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/ZJbzLS6V/index.m3u8"
   },
   "seriesInfo": {
     "id": 210204,
     "IDcode": "CAWD-105",
     "title": "社内研修相部屋NTR-伊藤舞雪",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [
       "NTR",

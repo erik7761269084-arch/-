@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/7943d888/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/7943d888/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251007/cffCnAS6/index.m3u8",
+    "线路3": "https://v8.lj20250710new.com/20251010/3kv7fqKZ/index.m3u8",
+    "线路4": "https://v202509.fhbbff.com/20251010/3kv7fqKZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 180666,
     "IDcode": "BOKO-012",
     "title": "接吻旅行 旅行中キスをして見つめあったら…もっと好きになって離れられなくなりました。身体と唇を重ね合った24時間限定のハニカミ恋人デート 栄川乃亜 一条みお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

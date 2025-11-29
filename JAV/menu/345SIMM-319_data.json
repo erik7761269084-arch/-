@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/706c796c/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/706c796c/index.m3u8",
+    "线路2": "https://krevonix.com/20220926/vXHvF8dr/index.m3u8",
+    "线路3": "https://jkunnzyx.com/20230302/XifZ1Xgx/index.m3u8"
   },
   "seriesInfo": {
     "id": 107575,
     "IDcode": "345SIMM-319",
     "title": "已婚老板和美女秘书的不伦出轨性爱",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/09/20/c1e6bb6840082d985c85eb7b5e88a1e3.jpg",
     "background_img": "",

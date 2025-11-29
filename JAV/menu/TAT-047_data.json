@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/4Ph6ipIT/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/4Ph6ipIT/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/10/315cf6f1cb37/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153210,
     "IDcode": "TAT-047",
     "title": "我拍下了那个天真的女孩的奇闻趣事醒来Karin",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

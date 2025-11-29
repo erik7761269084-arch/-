@@ -1,17 +1,24 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/12/a3a24c5b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/12/a3a24c5b/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250506/jei8WSPj/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202507/05/6868dd943ed39b57c0794874/fe8a5c/index.m3u8",
+    "线路4": "https://voddadaizi.com:52866/videos/202506/13/684bf7c23ed39b57c0527fe5/ga1gd1/index.m3u8",
+    "线路5": "https://voddadaizi.com:52866/movie/auto/68e4cdc2e4a73d4f15c1fe43.m3u8",
+    "线路6": "https://voddadaizi.com:52866/videos/202507/09/686e60443ed39b57c0b8d575/b1523a/index.m3u8",
+    "线路7": "https://vip3.newljlj.com/20250514/fp1J2PD2/index.m3u8",
+    "线路8": "https://v1.1bbffvip.com/20240322/IeQZr41C/index.m3u8"
   },
   "seriesInfo": {
     "id": 207743,
     "IDcode": "ALDN-273",
     "title": "没有丈夫的三天-冢田诗织",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TAKARA",
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20240313-1/7d302d69b41ff6ea52d9d3c1b908d48e.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4cdc2e4a73d4f15c1fe43/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-273",
     "actresses": []

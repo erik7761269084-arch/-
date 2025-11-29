@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221027/spY5XK22/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221027/spY5XK22/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230318/8sY0Jow6/index.m3u8"
   },
   "seriesInfo": {
     "id": 166025,
     "IDcode": "LXVS-043",
     "title": "ラグジュTV×PRESTIGESELECTION43",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

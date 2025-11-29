@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/13/b83f2de2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/13/b83f2de2/index.m3u8",
+    "线路2": "https://3sybf.com/20200401/YWlTf3gO/index.m3u8"
   },
   "seriesInfo": {
     "id": 209963,
     "IDcode": "STAR-702",
     "title": "美人教育実習生-市川まさみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/16/ed451843/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/16/ed451843/index.m3u8",
+    "线路2": "https://v2025.fhbbff.com/20250506/FC5BJOKI/index.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202506/16/acbefc3e4295/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209342,
     "IDcode": "FSDSS-040",
     "title": "頼む…妊娠し-友田彩也香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

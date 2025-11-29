@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/24/e018eb68/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/24/e018eb68/index.m3u8",
+    "线路2": "https://thm3u8.com/20250822/vnnFz53A/index.m3u8"
   },
   "seriesInfo": {
     "id": 183056,
     "IDcode": "FC2PPV-4745371",
     "title": "中出实验",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

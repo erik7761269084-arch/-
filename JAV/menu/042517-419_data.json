@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/YbouYeKH/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/YbouYeKH/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221006/fy817PCf/index.m3u8"
   },
   "seriesInfo": {
     "id": 142811,
     "IDcode": "042517-419",
     "title": "枕头销售也不容易NatsunoHimawari",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

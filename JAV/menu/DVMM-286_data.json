@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/10/da85df35/index.m3u8",
-    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/03/0365eb6c/index.m3u8"
+    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/03/0365eb6c/index.m3u8",
+    "线路3": "https://thm3u8.com/20251006/ZlL8x1pA/index.m3u8"
   },
   "seriesInfo": {
     "id": 178428,
     "IDcode": "DVMM-286",
     "title": "新型中出合法化的世界-柏木こなつ 天馬ゆい 本田瞳 美咲音",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

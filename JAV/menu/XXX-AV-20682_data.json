@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241229/WUsrQbJz/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241229/WUsrQbJz/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20200102/VOHTXKn7/index.m3u8",
+    "线路3": "https://www.lbbf9.com/20200102/o8HD64yV/index.m3u8"
   },
   "seriesInfo": {
     "id": 145764,
     "IDcode": "XXX-AV-20682",
     "title": "RICA来月经的时候找gal家教就可以轻松搞定全高清vol.01",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

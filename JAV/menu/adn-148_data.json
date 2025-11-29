@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/02/818ee895/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/02/818ee895/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230607/BpkGSyEf/index.m3u8"
   },
   "seriesInfo": {
     "id": 214243,
     "IDcode": "ADN-148",
     "title": "不貞上下関係-松下紗栄子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

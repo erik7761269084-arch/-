@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/22/ebedc36a/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/22/ebedc36a/index.m3u8",
+    "线路2": "https://video15.bpzy1.com/video/20220125/2a4c88aa48e3c65f4fb3a5187ac34328/index.m3u8"
   },
   "seriesInfo": {
     "id": 212957,
     "IDcode": "CLUB-645",
     "title": "我的日常生活",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "変態紳士倶楽部",
     "genres": [],
     "description": "",

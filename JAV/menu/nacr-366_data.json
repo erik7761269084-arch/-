@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/19/8a812d14/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/19/8a812d14/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/boJ7kxX9/index.m3u8"
   },
   "seriesInfo": {
     "id": 210941,
     "IDcode": "NACR-366",
     "title": "発情母 植木翔子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "PLANETPLUS",
     "genres": [],
     "description": "",

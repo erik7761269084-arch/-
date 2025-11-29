@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/11/228fa643/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/11/228fa643/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240607/HkWJjUil/index.m3u8"
   },
   "seriesInfo": {
     "id": 214993,
     "IDcode": "NHDTB-243",
     "title": "居酒屋痴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "NATURAL HIGH",
     "genres": [],
     "description": "",

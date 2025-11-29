@@ -1,14 +1,17 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/07/a9d4f57f/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/07/a9d4f57f/index.m3u8",
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2023/09/18/d805e018/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202504/04/67efb1d94e7d663df47d3bb8/721c9g/index.m3u8",
+    "线路4": "https://krevonix.com/20230630/PU6ZHPSf/index.m3u8"
   },
   "seriesInfo": {
     "id": 204003,
     "IDcode": "ABF-003",
     "title": "潮汁满天飞-流川夕",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2023/09/18/3a5f47c277cb867aed54ec854c89872b.jpg",

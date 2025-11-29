@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/03/d22713ad/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/03/d22713ad/index.m3u8",
+    "线路2": "https://v.ddoucdn.com/20240905/eF2zhMFT/index.m3u8"
   },
   "seriesInfo": {
     "id": 211657,
     "IDcode": "HND-822",
     "title": "告白3秒前-小泉ひなた",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/25/57956354/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/25/57956354/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20230508/zaDfv9x7/index.m3u8"
   },
   "seriesInfo": {
     "id": 211947,
     "IDcode": "MIAE-252",
     "title": "女教師-永井みひな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

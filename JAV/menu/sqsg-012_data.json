@@ -1,13 +1,17 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/d648c610/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/d648c610/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250902/TpPElck2/index.m3u8",
+    "线路3": "https://v2025.ddcdnbf.com/20250907/TXQPsCbB/index.m3u8",
+    "线路4": "https://v8.lj20250710new.com/20250907/TXQPsCbB/index.m3u8",
+    "线路5": "https://b.v155p.com/20250907/TXQPsCbB/index.m3u8"
   },
   "seriesInfo": {
     "id": 183557,
     "IDcode": "SQSG-012",
     "title": "『お客様、責めるのお好きなんですか？』メンズエステ嬢の裏サービス 優梨まいな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S-CUTE",
     "genres": [],
     "description": "",

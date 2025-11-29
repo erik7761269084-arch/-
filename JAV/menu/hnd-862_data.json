@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/08/88ef479c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/08/88ef479c/index.m3u8",
+    "线路2": "https://vostrely.com/20230318/znZMJbOG/index.m3u8"
   },
   "seriesInfo": {
     "id": 209885,
     "IDcode": "HND-862",
     "title": "夏天的雨-松本いちか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

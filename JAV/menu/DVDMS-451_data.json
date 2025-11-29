@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/M051kqNp/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/M051kqNp/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/TpVs204U/index.m3u8"
   },
   "seriesInfo": {
     "id": 164533,
     "IDcode": "DVDMS-451",
     "title": "一般男女モニタリングAV×マジッ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

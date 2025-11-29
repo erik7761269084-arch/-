@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202405/16/C4ELiMPGcp1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202405/16/C4ELiMPGcp1/video/index.m3u8",
+    "线路2": "https://video37.bpzy1.com/video/20221024/79e3042beae08bd7de6c9a5a81ac8231/index.m3u8"
   },
   "seriesInfo": {
     "id": 152667,
     "IDcode": "FC2-PPV-1035965",
     "title": "校园里的学生很性福",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/8ec8f880/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/8ec8f880/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/uCyA2mdh/index.m3u8"
   },
   "seriesInfo": {
     "id": 212610,
     "IDcode": "SOE-598",
     "title": "喷水特辑-真木こころ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

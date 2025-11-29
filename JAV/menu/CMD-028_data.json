@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/RYsXRSAF/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/RYsXRSAF/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/04/69094eaee264e6282dff67e1/9045d6/index.m3u8"
   },
   "seriesInfo": {
     "id": 164695,
     "IDcode": "CMD-028",
     "title": "誘惑◆美容室今井夏帆",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

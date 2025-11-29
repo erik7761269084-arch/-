@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/19/8f8cb908/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/19/8f8cb908/index.m3u8",
+    "线路2": "https://v.ddoucdn.com/20241227/ocsZNxpC/index.m3u8"
   },
   "seriesInfo": {
     "id": 212894,
     "IDcode": "BF-633",
     "title": "哥哥的诱惑-白桃はな",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/08/19/16cf86300773b2fbc8196089a2ed2eb4.jpg",

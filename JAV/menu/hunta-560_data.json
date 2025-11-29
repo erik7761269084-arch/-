@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/17/124d1dae/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/17/124d1dae/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20220724/7DZjsqiA/index.m3u8"
   },
   "seriesInfo": {
     "id": 213432,
     "IDcode": "HUNTA-560",
     "title": "混浴露天風",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/30/2e46bd4e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/30/2e46bd4e/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/23/8b71a8e49bfa/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210726,
     "IDcode": "STARS-267",
     "title": "女子校生-白川ゆず",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

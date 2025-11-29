@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/13/488d50f1/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/13/488d50f1/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f46e1ad6fbef4e90ffe508.m3u8"
   },
   "seriesInfo": {
     "id": 177155,
     "IDcode": "INSTV-646",
     "title": "みなちゃん 学生の喧嘩後の仲直りラブラブSEX",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

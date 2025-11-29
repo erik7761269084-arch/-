@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/28/c00b8b45/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/28/c00b8b45/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240510/ADZ0Lfnn/index.m3u8"
   },
   "seriesInfo": {
     "id": 211348,
     "IDcode": "MIDE-186",
     "title": "超乱交 沖田杏梨",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱交"

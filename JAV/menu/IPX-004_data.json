@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/08/e925a34a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/08/e925a34a/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20230920/50dZWXNx/index.m3u8"
   },
   "seriesInfo": {
     "id": 19428,
     "IDcode": "IPX-004",
     "title": "奇跡美少女-明里つむぎ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
+      "打手槍",
+      "美少女",
       "蕩婦",
       "數位馬賽克",
-      "接吻",
-      "打手槍",
-      "美少女"
+      "接吻"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/09/08/a1106cb36567f8a04ab757aabdec0347.jpg",

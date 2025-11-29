@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/21/4cb2948c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/21/4cb2948c/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202508/05/ba9316013868/playlist.m3u8",
+    "线路3": "https://vip3.bfbfhao.com/20230120/YZYNA5GI/index.m3u8"
   },
   "seriesInfo": {
     "id": 211797,
     "IDcode": "WANZ-129",
     "title": "诱惑的嫂子-波多野結衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "人妻"

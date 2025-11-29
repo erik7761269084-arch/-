@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/PX09mXoj/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/PX09mXoj/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/iK6u8LJ6/index.m3u8"
   },
   "seriesInfo": {
     "id": 164820,
     "IDcode": "HUNTA-644",
     "title": "『えっそのピタっとしたお尻はボクを誘ってるの？",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

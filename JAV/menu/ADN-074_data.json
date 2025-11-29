@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/07/2d133276/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/07/2d133276/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/raALrhLx/index.m3u8"
   },
   "seriesInfo": {
     "id": 99914,
     "IDcode": "ADN-074",
     "title": "每次被强奸的时候-川上ゆう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "已婚妇女",
-      "凌辱"
+      "凌辱",
+      "已婚妇女"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/07/34a2d869b467cbe7cccea8ff735c010a.jpg",

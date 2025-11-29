@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/24/7568ef48/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/24/7568ef48/index.m3u8",
+    "线路2": "https://lsbbf2.com/20230919/rAeh7GQa/index.m3u8",
+    "线路3": "https://vostrely.com/20250106/2CrpKvEX/index.m3u8",
+    "线路4": "https://v3-2.lbv3lb2025.com/20240930/h0nakJg2/index.m3u8"
   },
   "seriesInfo": {
     "id": 210692,
     "IDcode": "SSNI-901",
     "title": "跟義父玩3P-坂道みる 夕美しおん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

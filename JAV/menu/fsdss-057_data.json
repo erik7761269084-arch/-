@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/19/b4962236/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/19/b4962236/index.m3u8",
+    "线路2": "https://vostrely.com/20230318/d4LyVzMk/index.m3u8"
   },
   "seriesInfo": {
     "id": 209679,
     "IDcode": "FSDSS-057",
     "title": "椎名そらの女子旅ド",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

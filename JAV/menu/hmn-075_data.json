@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/02/19350e80/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/02/19350e80/index.m3u8",
+    "线路2": "https://xbzyw25.top/video/m3u8/202507/25/4e78e0fe717d/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 214821,
     "IDcode": "HMN-075",
     "title": "性爱天才-奏美りおん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "本中",
     "genres": [],
     "description": "",

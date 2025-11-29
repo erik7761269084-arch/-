@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/25/b2f2e31d/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/25/b2f2e31d/index.m3u8",
+    "线路2": "https://krevonix.com/20251004/8TIQwkDz/index.m3u8"
   },
   "seriesInfo": {
     "id": 179711,
     "IDcode": "ALDN-508",
     "title": "義母さんだって孕みたい。 寺島志保",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TAKARA",
     "genres": [],
     "description": "",

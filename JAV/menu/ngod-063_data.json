@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/17/ddfdeec8/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/17/ddfdeec8/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240406/PMluVt39/index.m3u8"
   },
   "seriesInfo": {
     "id": 212861,
     "IDcode": "NGOD-063",
     "title": "麻雀仲間-笹倉杏",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

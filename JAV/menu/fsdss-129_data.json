@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/08/9b8d568c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/08/9b8d568c/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/25/cf0721dac749/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211170,
     "IDcode": "FSDSS-129",
     "title": "裏歓楽街-七海ティナ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

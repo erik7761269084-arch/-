@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/09/e96ec64d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/09/e96ec64d/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230228/t14vnq4v/index.m3u8"
   },
   "seriesInfo": {
     "id": 210497,
     "IDcode": "MIAA-320",
     "title": "后宫护理-倉多まお 蓮実クレア",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

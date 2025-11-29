@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/16/da2e9ab1/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/16/da2e9ab1/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230302/U2ElN48b/index.m3u8"
   },
   "seriesInfo": {
     "id": 209625,
     "IDcode": "ADN-254",
     "title": "兄嫁NTR-夏目彩春",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "NTR",

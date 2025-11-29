@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/09/6b22836f/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/09/6b22836f/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241204/5n3IxCMz/index.m3u8"
   },
   "seriesInfo": {
     "id": 212704,
     "IDcode": "ADN-335",
     "title": "市政厅工作的的女孩-川上奈々美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

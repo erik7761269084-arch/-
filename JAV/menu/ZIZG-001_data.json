@@ -1,20 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/09/8260d194/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/09/8260d194/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221227/wsmUxUV4/index.m3u8",
+    "线路3": "https://cdn2.shayubf.com/20200222/9C1PXLx2/index.m3u8"
   },
   "seriesInfo": {
     "id": 82936,
     "IDcode": "ZIZG-001",
     "title": "经典漫改对魔忍三姐妹",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "潮吹",
-      "战斗行动",
-      "白天出轨",
       "凌辱",
-      "多P"
+      "战斗行动",
+      "多P",
+      "白天出轨"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/09/09/00467a7e8c7f22b33ee9f62e673abaa5.jpg",

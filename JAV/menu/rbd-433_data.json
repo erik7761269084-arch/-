@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/30eade80/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/30eade80/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/11/69125ef4c2496a27fd06e458/eg9f48/index.m3u8"
   },
   "seriesInfo": {
     "id": 213654,
     "IDcode": "RBD-433",
     "title": "性奴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

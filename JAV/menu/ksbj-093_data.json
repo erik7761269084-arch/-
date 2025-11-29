@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/12/5a1d301b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/12/5a1d301b/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231123/P4wRmBYN/index.m3u8"
   },
   "seriesInfo": {
     "id": 210528,
     "IDcode": "KSBJ-093",
     "title": "窈窕淑女君子好逑-武藤あやか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KSB企畫",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/1b6ee7e7/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/1b6ee7e7/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20220714/pChsuaHm/index.m3u8"
   },
   "seriesInfo": {
     "id": 212302,
     "IDcode": "HND-657",
     "title": "淫荡的女士-八乃つばさ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

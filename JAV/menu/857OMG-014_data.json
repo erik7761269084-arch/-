@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/05/7202a5a2/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/05/7202a5a2/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/30/MEE1ehsQKY2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 59674,
     "IDcode": "857OMG-014",
     "title": "密かに狙ってた青森の友達の彼女がついに上京。浮気なのに、ゆい 26歳 フリーター - 天馬ゆい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

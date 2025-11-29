@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/11/3b238b38/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/11/3b238b38/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250124/F5n5lPsQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 214380,
     "IDcode": "WAAA-115",
     "title": "性感女老板-妃ひかり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

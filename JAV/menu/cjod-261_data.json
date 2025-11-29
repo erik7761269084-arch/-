@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/d06465b3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/d06465b3/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240221/rUKJEEQJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 210777,
     "IDcode": "CJOD-261",
     "title": "在三个美女的簇拥下",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "癡女特化",
     "genres": [],
     "description": "",

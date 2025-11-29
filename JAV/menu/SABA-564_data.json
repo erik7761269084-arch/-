@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/FqE9N30F/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/FqE9N30F/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20210206/O0HfY2r1/index.m3u8"
   },
   "seriesInfo": {
     "id": 165632,
     "IDcode": "SABA-564",
     "title": "出張中のタイで見つけた現地妻 メイ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S級素人",
     "genres": [
+      "素人",
+      "素人企画",
       "中文字幕"
     ],
     "description": "",

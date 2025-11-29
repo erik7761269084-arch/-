@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/30/35318461/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/30/35318461/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/hPtoOeLv/index.m3u8"
   },
   "seriesInfo": {
     "id": 212119,
     "IDcode": "WAAA-074",
     "title": "射精状态-白川ゆず",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

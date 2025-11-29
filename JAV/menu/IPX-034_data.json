@@ -1,23 +1,25 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/30/e6de3025/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/30/e6de3025/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/13/6784d88fc179ffb1db852797/gg5b11/index.m3u8",
+    "线路3": "https://vip4.ddyunbo.com/20241022/8kVWXsNt/index.m3u8"
   },
   "seriesInfo": {
     "id": 82611,
     "IDcode": "IPX-034",
     "title": "被养父母出卖侵犯的爱女相泽南",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
       "数位马赛克",
-      "拘束",
-      "戏剧",
       "凌辱",
-      "美少女"
+      "戏剧",
+      "美少女",
+      "拘束"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20240404-1/da647f8a55e5a79aa29d9ee2cff61480.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6784d88fc179ffb1db852797/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-034",
     "actresses": [

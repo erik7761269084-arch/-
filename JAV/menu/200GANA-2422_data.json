@@ -1,15 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/3ae69d43/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/3ae69d43/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230819/eNWA1nKc/index.m3u8",
+    "线路3": "https://jkunnzyx.com/20230415/OGHDYUNV/index.m3u8"
   },
   "seriesInfo": {
     "id": 196706,
     "IDcode": "200GANA-2422",
     "title": "脚部按摩研讨会认识的短发动感女子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/29/32789f4d728c6f42ae9d2daea088c07a.jpg",
     "background_img": "",

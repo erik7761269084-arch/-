@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/37ce9ee2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/37ce9ee2/index.m3u8",
+    "线路2": "https://vip23.newljlj2025.com/20190912/ieEs3uNL/index.m3u8"
   },
   "seriesInfo": {
     "id": 208800,
     "IDcode": "MIDE-312",
     "title": "タイトスカート女教師 秋山祥子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

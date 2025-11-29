@@ -7,9 +7,12 @@
     "IDcode": "H0930-KI210206",
     "title": "请求作品集",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250310-1/ba2c6a6aab3a123ef302969ac8505e3d.jpg",
     "background_img": "",

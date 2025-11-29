@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/06/25ce0819/index.m3u8",
-    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/27/d88368fa/index.m3u8"
+    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/27/d88368fa/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202511/05/690b5d7e457fbf33fcfdcfdf/0a0328/index.m3u8"
   },
   "seriesInfo": {
     "id": 173393,
     "IDcode": "NACT-034",
     "title": "去了男士按摩居然遇到了女上司-盛永いろは",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

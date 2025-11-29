@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/12/3b293115/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/12/3b293115/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/c67321f3a378/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212772,
     "IDcode": "STARS-403",
     "title": "最高級美女-柊木楓",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

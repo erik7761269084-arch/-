@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/01/0b1a5e17/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/01/0b1a5e17/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230607/bKE6O7kt/index.m3u8"
   },
   "seriesInfo": {
     "id": 214188,
     "IDcode": "ADN-161",
     "title": "積年の欲望-春宮すず",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

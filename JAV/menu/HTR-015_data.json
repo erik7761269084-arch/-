@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/dOTdeHPX/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/dOTdeHPX/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/10/c9005f35d6d2/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154450,
     "IDcode": "HTR-015",
     "title": "感觉摇摆不定的美少女奇闻趣事H美月",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

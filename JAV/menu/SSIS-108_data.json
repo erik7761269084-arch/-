@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/3e4398c6/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/3e4398c6/index.m3u8",
+    "线路2": "https://video7.bpzy1.com/video/20211104/c0b68f269105f0995ce74c337f50a59f/index.m3u8"
   },
   "seriesInfo": {
     "id": 79205,
     "IDcode": "SSIS-108",
     "title": "絶倫義父-ひなたまりん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [
       "偶像",
       "纪录片",
       "薄马赛克",
-      "浴衣",
-      "第一人称摄影"
+      "第一人称摄影",
+      "浴衣"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/07/24/05ebc89d2ff574220fa737e7966f0107.jpg",

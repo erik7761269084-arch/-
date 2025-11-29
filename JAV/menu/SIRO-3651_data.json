@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/gmC9pNNd/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/gmC9pNNd/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/15/7T9RyzgPFX2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148638,
     "IDcode": "SIRO-3651",
     "title": "第一枪网络AV应用AV体验拍摄828",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250223-1/4318dc9fe3f50b56fc66cba1fc7d142f.jpg",
     "background_img": "",

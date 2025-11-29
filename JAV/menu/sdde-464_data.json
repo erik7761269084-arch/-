@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/16/53fc17ee/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/16/53fc17ee/index.m3u8",
+    "线路2": "https://video19.bpzy1.com/video/20220319/6ccbc6d272053f44f159f0af32ea3d20/index.m3u8"
   },
   "seriesInfo": {
     "id": 210001,
     "IDcode": "SDDE-464",
     "title": "変幻自在SEX玩具",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

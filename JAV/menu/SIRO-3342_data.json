@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/0tSEZcZR/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/0tSEZcZR/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/08/XKXGsE3xPY2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148030,
     "IDcode": "SIRO-3342",
     "title": "应用业馀第一次AV拍摄17",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250220-1/4fcf17dbe3bfaec57a1e8d4ad5379711.jpg",
     "background_img": "",

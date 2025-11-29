@@ -1,17 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/27/d3219bad/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/27/d3219bad/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/13/67853920c179ffb1db852995/cfg075/index.m3u8",
+    "线路3": "https://v.ddoucdn.com/20240915/9GeHORAJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 190047,
     "IDcode": "RBD-901",
     "title": "在绝望中乞求幸福的女OL本田岬",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20250801-1/abcbc6f10437586d5705c864a7c1c691.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/13/67853920c179ffb1db852995/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-901",
     "actresses": []

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/guO6iLK7/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/guO6iLK7/index.m3u8",
+    "线路2": "https://vostrely.com/20250513/ilaTj9RQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 164662,
     "IDcode": "GS-318",
     "title": "ソソる女子と民泊ダブルブッキング少しでも旅費を安くしようと",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "GOGOS",
     "genres": [
       "中文字幕"

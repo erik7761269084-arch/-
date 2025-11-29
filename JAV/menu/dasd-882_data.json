@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/05/a62b96b5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/05/a62b96b5/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/9h1t5CFb/index.m3u8"
   },
   "seriesInfo": {
     "id": 212193,
     "IDcode": "DASD-882",
     "title": "痴女校生 白桃はな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

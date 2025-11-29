@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/25/1bd215cd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/25/1bd215cd/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/dThndjyL/index.m3u8"
   },
   "seriesInfo": {
     "id": 106772,
     "IDcode": "GVH-087",
     "title": "挑発し-通野未帆",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "GLORY QUEST",
     "genres": [
-      "已婚妇女",
+      "戏剧",
       "荡妇",
-      "戏剧"
+      "已婚妇女"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/07/25/fe57aa40b22397ebdffa199f4061a613.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/9bcab36c/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/9bcab36c/index.m3u8",
+    "线路2": "https://krevonix.com/20230823/S05fGWKr/index.m3u8"
   },
   "seriesInfo": {
     "id": 115122,
     "IDcode": "FC2-3290196",
     "title": "小妹妹的最后一次拍片",
     "publish_date": "2025-09-06",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [
       "乱伦"

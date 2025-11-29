@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250624/ewh8zD5G/index.m3u8#第02集$https://thm3u8.vip/20250624/amhQeNJW/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250624/ewh8zD5G/index.m3u8#第02集$https://thm3u8.vip/20250624/amhQeNJW/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250624/ewh8zD5G/index.m3u8"
   },
   "seriesInfo": {
     "id": 155128,
     "IDcode": "FC2PPV-4707631",
     "title": "【無 / 第２弾】原宿で見つけたモデルの原石 メイドさんに大変身",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

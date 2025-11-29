@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/hGsdKPGX/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/hGsdKPGX/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/Q1bNHa28j22/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150464,
     "IDcode": "SIRO-1234",
     "title": "素人AV体验拍摄447",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "素人"

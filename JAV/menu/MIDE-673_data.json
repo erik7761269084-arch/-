@@ -1,14 +1,17 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220817/z5gPIWxV/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2019/09/13/ee12f10b/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2019/09/13/ee12f10b/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/12/6782a698478d611da774a90e/cbdeg0/index.m3u8",
+    "线路4": "https://vostrely.com/20250201/PTmHOdVz/index.m3u8",
+    "线路5": "https://www.bfbfhao.com/20200714/d2Y6uXju/index.m3u8"
   },
   "seriesInfo": {
     "id": 165233,
     "IDcode": "MIDE-673",
     "title": "芸能志望の彼女-七沢みあ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

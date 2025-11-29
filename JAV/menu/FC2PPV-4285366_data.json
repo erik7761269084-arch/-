@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/21/72adfb85/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/21/72adfb85/index.m3u8",
+    "线路2": "https://krevonix.com/20250915/CjlJA8Qi/index.m3u8"
   },
   "seriesInfo": {
     "id": 182612,
     "IDcode": "FC2PPV-4285366",
     "title": "前偶像樱井欧瑠",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

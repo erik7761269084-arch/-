@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/7c676f3b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/7c676f3b/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/05/8072d301424c/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 214007,
     "IDcode": "ECB-117",
     "title": "在这里喷水-凛音とうか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

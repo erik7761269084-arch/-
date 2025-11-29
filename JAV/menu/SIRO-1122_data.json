@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/tQ164gXV/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/tQ164gXV/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/N93EJCSHxu2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150370,
     "IDcode": "SIRO-1122",
     "title": "素人AV体验拍摄406",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "素人"

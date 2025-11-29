@@ -1,17 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/04/3763d36e/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/04/3763d36e/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f36d2feb67774efbf039ef.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/07/677c7c4af9a2e9b1d45c0d8f/ccfggc/index.m3u8",
+    "线路4": "https://thm3u8.vip/20250127/3S1LCmfy/index.m3u8"
   },
   "seriesInfo": {
     "id": 173932,
     "IDcode": "DASD-805",
     "title": "独自占有-朝日滴 永濑唯",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/04/3763d36e/vod.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c7c4af9a2e9b1d45c0d8f/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-805",
     "actresses": []

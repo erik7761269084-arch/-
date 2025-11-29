@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/26/2eebef1e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/26/2eebef1e/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220915/IMEYGfP0/index.m3u8"
   },
   "seriesInfo": {
     "id": 212077,
     "IDcode": "KAWD-939",
     "title": "恋愛禁止中-矢津田由貴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220818/ossu1Gvb/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220818/ossu1Gvb/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20210505/GLcivWa7/index.m3u8"
   },
   "seriesInfo": {
     "id": 165467,
     "IDcode": "SIV-038",
     "title": "シロウトTV×PRESTIGE PREMIUM 35 バイト",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

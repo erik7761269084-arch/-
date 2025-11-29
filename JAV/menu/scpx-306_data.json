@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/52e4a579/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/52e4a579/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241201/FSN4NJhe/index.m3u8"
   },
   "seriesInfo": {
     "id": 213990,
     "IDcode": "SCPX-306",
     "title": "他是妓院的常客",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "K.M.P",
     "genres": [],
     "description": "",

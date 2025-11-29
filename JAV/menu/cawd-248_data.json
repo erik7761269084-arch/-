@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/29/bed37d03/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/29/bed37d03/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20221118/28Kz9RLu/index.m3u8"
   },
   "seriesInfo": {
     "id": 212512,
     "IDcode": "CAWD-248",
     "title": "放課後-瀬名リリイ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

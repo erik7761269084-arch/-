@@ -1,16 +1,19 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220817/OhGQR96P/index.m3u8",
-    "线路2": "https://v1.1bbffvip.com/20220817/bAPjMk4c/index.m3u8"
+    "线路2": "https://v1.1bbffvip.com/20220817/bAPjMk4c/index.m3u8",
+    "线路3": "https://sy4.3sybf.com/20201107/DKl7kWMW/index.m3u8"
   },
   "seriesInfo": {
     "id": 165366,
     "IDcode": "SABA-554",
     "title": "いつでもどこでも言うことを聞いてくれる都合の",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S級素人",
     "genres": [
+      "素人",
+      "素人企画",
       "中文字幕"
     ],
     "description": "",

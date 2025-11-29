@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/03/ebf625c8/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/03/ebf625c8/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230512/nuky22v1/index.m3u8"
   },
   "seriesInfo": {
     "id": 211375,
     "IDcode": "SNIS-773",
     "title": "新人NO.1-雛形くるみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/57ab1dd7/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/57ab1dd7/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251026/0XaEMJbH/index.m3u8",
+    "线路3": "https://vostrely.com/20241209/md0RHw3E/index.m3u8"
   },
   "seriesInfo": {
     "id": 176155,
     "IDcode": "SAN-284",
     "title": "今でも現役のレジェンド女優 翔田千里240分",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "マザー",
     "genres": [],
     "description": "",

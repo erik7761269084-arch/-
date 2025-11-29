@@ -7,9 +7,11 @@
     "IDcode": "SIRO-1332",
     "title": "业馀个人摄影和发文第353章",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250212-1/792405ff7253c957050328d64ca5ba06.jpg",
     "background_img": "",

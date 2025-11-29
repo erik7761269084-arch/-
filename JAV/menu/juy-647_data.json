@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/002a33a0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/002a33a0/index.m3u8",
+    "线路2": "https://vip.newljlj2025.com/20190515/GSuW1Ldw/index.m3u8"
   },
   "seriesInfo": {
     "id": 212303,
     "IDcode": "JUY-647",
     "title": "内衣模特的妻子-佐野まり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

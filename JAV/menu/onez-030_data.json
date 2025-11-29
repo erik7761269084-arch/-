@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/497be010/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/497be010/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68ff48fddd88d14f0658030b.m3u8"
   },
   "seriesInfo": {
     "id": 180079,
     "IDcode": "ONEZ-030",
     "title": "天使和恶魔两种属性中转换自如的美少女有村千佳",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

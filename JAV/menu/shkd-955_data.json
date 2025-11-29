@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/6ae399fe/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/6ae399fe/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/TVfy3nJR/index.m3u8"
   },
   "seriesInfo": {
     "id": 212396,
     "IDcode": "SHKD-955",
     "title": "女子大生編-永野いち夏",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

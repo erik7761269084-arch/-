@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/04/1c0aefdf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/04/1c0aefdf/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/EhIGhzhW/index.m3u8"
   },
   "seriesInfo": {
     "id": 212164,
     "IDcode": "SDAB-180",
     "title": "元気少女 高橋りほ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/12/a49bddbe/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/12/a49bddbe/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241001/MUU9opyP/index.m3u8"
   },
   "seriesInfo": {
     "id": 209935,
     "IDcode": "JUL-287",
     "title": "1泊2日の温泉旅行-東凛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

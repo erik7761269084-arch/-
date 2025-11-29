@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/KC1vyzcZ/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/KC1vyzcZ/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/12/6782ae32478d611da774a96c/8641ac/index.m3u8",
+    "线路3": "https://vip1.bfbfhao.com/20200706/mSlU9hrX/index.m3u8"
   },
   "seriesInfo": {
     "id": 142236,
@@ -9,7 +11,10 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250131-1/a42354990ac88264d38381c05d9f48f6.jpg",
     "background_img": "",

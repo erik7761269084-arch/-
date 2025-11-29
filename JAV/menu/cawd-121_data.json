@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/f4459391/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/f4459391/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/23/1fb6d31f237d/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210620,
     "IDcode": "CAWD-121",
     "title": "AV現場-井上そら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

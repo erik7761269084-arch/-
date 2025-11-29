@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/07/d07fda20/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/07/d07fda20/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221027/OFSF2OIP/index.m3u8"
   },
   "seriesInfo": {
     "id": 211889,
     "IDcode": "SHKD-451",
     "title": "義弟欲望II-愛澄玲花",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

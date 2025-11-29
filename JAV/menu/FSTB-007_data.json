@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/tKd73C9p/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/tKd73C9p/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191104/zG4bwZAc/index.m3u8"
   },
   "seriesInfo": {
     "id": 164622,
     "IDcode": "FSTB-007",
     "title": "数あまたの芸能人、スポーツ選手",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

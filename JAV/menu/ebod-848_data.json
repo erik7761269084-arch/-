@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/05/81361425/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/05/81361425/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/5e212bd4499e/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 214267,
     "IDcode": "EBOD-848",
     "title": "与棒球队的女经理通奸-深月めい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "E-BODY",
     "genres": [
       "人妻"

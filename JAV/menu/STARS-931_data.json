@@ -2,24 +2,26 @@
   "episodes": {
     "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/04/f1fa92da/index.m3u8",
     "线路2": "https://m3u8.cdn202511.com/movie/auto/67389b43f514c41c435e3889.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/67389b43f514c41c435e3889.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/67389b43f514c41c435e3889.m3u8",
+    "线路4": "https://voddadaizi.com:52866/videos/202508/16/68a0013e9550e292a7766b4e/7220gd/index.m3u8",
+    "线路5": "https://krevonix.com/20240516/GqzcRBls/index.m3u8"
   },
   "seriesInfo": {
     "id": 18549,
     "IDcode": "STARS-931",
     "title": "藝能界引退後馬上AV出道 渚戀生",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
-      "芸能人",
       "出道作",
       "出道作品",
-      "女優",
-      "紀錄片"
+      "芸能人",
+      "紀錄片",
+      "女優"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20250715-2/5cf1a9c13f1b02c40ed23ace419efa57.webp",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a0013e9550e292a7766b4e/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-931",
     "actresses": [

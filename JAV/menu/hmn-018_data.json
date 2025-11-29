@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/08/23f1602d/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/08/23f1602d/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/0d7029078169/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212653,
     "IDcode": "HMN-018",
     "title": "她在射精后-初川みなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "本中",
     "genres": [],
     "description": "",

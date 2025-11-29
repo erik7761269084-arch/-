@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/bc1262bb/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/bc1262bb/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240225/7bIhtWLR/index.m3u8"
   },
   "seriesInfo": {
     "id": 105985,
     "IDcode": "FSDSS-114",
     "title": "吉高寧々 素顔のSEX",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [
-      "纪录片",
       "羞耻",
+      "纪录片",
       "第一人称摄影"
     ],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/15/04774e6f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/15/04774e6f/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20210415/uT50pNaE/index.m3u8"
   },
   "seriesInfo": {
     "id": 210893,
     "IDcode": "SNIS-940",
     "title": "国民偶像-三上悠亜",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -4,14 +4,15 @@
     "线路2": "https://bf3.qrtuv.com/smv1/202501/31/8MWgCXisAi1/video/index.m3u8",
     "线路3": "https://m3u8.cdn202511.com/movie/auto/673c82ad2c1c92ed2c458e4c.m3u8",
     "线路4": "https://t27.cdn2020.com/video/m3u8/2021/08/28/fd876ab1/index.m3u8",
-    "线路5": "https://m3u8.cdn2025.life/movie/auto/673c82ad2c1c92ed2c458e4c.m3u8"
+    "线路5": "https://m3u8.cdn2025.life/movie/auto/673c82ad2c1c92ed2c458e4c.m3u8",
+    "线路6": "https://vostrely.com/20250617/WoLVIXji/index.m3u8"
   },
   "seriesInfo": {
     "id": 155415,
     "IDcode": "FSDSS-274",
     "title": "連続射精-橋本ありな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

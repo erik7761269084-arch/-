@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/56f074ab/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/56f074ab/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250926/yWqurAYR/index.m3u8",
+    "线路3": "https://b.v155p.com/20251001/kQhc5luG/index.m3u8"
   },
   "seriesInfo": {
     "id": 60141,
     "IDcode": "PJAM-024",
     "title": "訳あり介護職員 依存症オンナの切ない末路 九井スナオ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "Purple Jam",
     "genres": [],
     "description": "",

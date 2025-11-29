@@ -2,14 +2,15 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/673f8ff67a65c438a11bd354.m3u8",
     "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/09/0578bf43/index.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/673f8ff67a65c438a11bd354.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/673f8ff67a65c438a11bd354.m3u8",
+    "线路4": "https://v2024.fhbbff.com/20241204/oYGylTaN/index.m3u8"
   },
   "seriesInfo": {
     "id": 171439,
     "IDcode": "DVAJ-519",
     "title": "我的大表姐-松本いちか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ALICE JAPAN",
     "genres": [
       "乱伦"

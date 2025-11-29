@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202410/07/3DXsXLPf8c1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202410/07/3DXsXLPf8c1/video/index.m3u8",
+    "线路2": "https://video21.bpzy1.com/video/20220326/37cd32500c5dd245cabcc03182baddc5/index.m3u8"
   },
   "seriesInfo": {
     "id": 155772,
     "IDcode": "TEK-098",
     "title": "令和写真偶像排行No.1安位薰MUTEKI出道安位薰",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "素人Only",
     "genres": [
-      "中文字幕",
-      "出道作"
+      "出道作",
+      "中文字幕"
     ],
     "description": "",
     "cover_url": "https://fqjpg4.top/upload/vod/20240928-1/3943781ff55f048a28e11906753d8904.jpg",

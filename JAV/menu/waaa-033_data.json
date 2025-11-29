@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/20/33f260b7/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/20/33f260b7/index.m3u8",
+    "线路2": "https://vostrely.com/20240611/IkHwW7v7/index.m3u8",
+    "线路3": "https://thm3u8.vip/20250128/goeSnp1H/index.m3u8"
   },
   "seriesInfo": {
     "id": 212017,
     "IDcode": "WAAA-033",
     "title": "色気女上司-佐山愛",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/3478ae6b/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/3478ae6b/index.m3u8",
+    "线路2": "https://video22.bpzy1.com/video/20220409/55b9a877855660a66ab942a7f219372d/index.m3u8"
   },
   "seriesInfo": {
     "id": 212386,
     "IDcode": "SPRD-1428",
     "title": "絶倫義父-塩見彩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

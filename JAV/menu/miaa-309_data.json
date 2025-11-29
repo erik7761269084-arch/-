@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/12/e1b13108/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/12/e1b13108/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68bf79d6735bb663f775194f.m3u8",
+    "线路3": "https://jkunnzyx.com/20230228/OC3nw1M1/index.m3u8"
   },
   "seriesInfo": {
     "id": 210218,
     "IDcode": "MIAA-309",
     "title": "授業教師-逢見リカ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

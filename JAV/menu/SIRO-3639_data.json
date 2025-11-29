@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/T3EGmQpl/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/T3EGmQpl/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/08/wCPukJrCS32/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148626,
     "IDcode": "SIRO-3639",
     "title": "应用业馀第一次AV拍摄58",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250223-1/9ebabf8bd0c8ccc2bf392b437971e4e0.jpg",
     "background_img": "",

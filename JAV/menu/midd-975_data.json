@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/26/9a123e3e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/26/9a123e3e/index.m3u8",
+    "线路2": "https://vostrely.com/20240623/6irIaK0r/index.m3u8",
+    "线路3": "https://krevonix.com/20221017/z9o7wKAB/index.m3u8"
   },
   "seriesInfo": {
     "id": 212072,
     "IDcode": "MIDD-975",
     "title": "淫語小姐姐-佐山愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

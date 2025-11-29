@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/83700d48/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/83700d48/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/10/31c754e6d797/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211144,
     "IDcode": "STARS-131",
     "title": "短发狂想曲-紗倉まな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

@@ -4,23 +4,25 @@
     "线路2": "https://bf3.qrtuv.com/smv1/202504/29/bU1VK1AQ0M2/video/index.m3u8",
     "线路3": "https://m3u8.cdn202511.com/movie/auto/67515633818ec220ab1768ef.m3u8",
     "线路4": "https://t27.cdn2020.com/video/m3u8/2024/12/07/ec3169ce/index.m3u8",
-    "线路5": "https://m3u8.cdn2025.life/movie/auto/67515633818ec220ab1768ef.m3u8"
+    "线路5": "https://m3u8.cdn2025.life/movie/auto/67515633818ec220ab1768ef.m3u8",
+    "线路6": "https://voddadaizi.com:52866/videos/202501/16/6787f5ec5d57b64bfd1a5842/dca416/index.m3u8",
+    "线路7": "https://b.v155p.com/20251013/8VpTviWc/index.m3u8"
   },
   "seriesInfo": {
     "id": 76421,
     "IDcode": "DASS-533",
     "title": "熟人竟是应召女郎-大槻ひびき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "DASDAS",
     "genres": [
-      "单体作品",
       "戏剧",
-      "礼仪小姐",
-      "中出"
+      "中出",
+      "单体作品",
+      "礼仪小姐"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20241207-1/a54eac5b78e98e67784039a0fe958943.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787f5ec5d57b64bfd1a5842/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-533",
     "actresses": [

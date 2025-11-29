@@ -7,9 +7,11 @@
     "IDcode": "435MFC-061",
     "title": "多莉丝",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/25/730095597735ddbedc2ea44b2414def2.jpg",
     "background_img": "",

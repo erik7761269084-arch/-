@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/03/b9c2f67d/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/03/b9c2f67d/index.m3u8",
+    "线路2": "https://vip3.bfbfhao.com/20240708/v9FV42J7/index.m3u8"
   },
   "seriesInfo": {
     "id": 173749,
     "IDcode": "483SGK-010",
     "title": "前所未有的狂潮高潮",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/11/03/cdae436154b0aeeb6925a6f5918c305f.jpg",
     "background_img": "",

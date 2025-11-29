@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220930/2paG2NaO/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220930/2paG2NaO/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/6WpQEvnR/index.m3u8"
   },
   "seriesInfo": {
     "id": 165698,
     "IDcode": "MCT-056",
     "title": "深田結梨を貸し切りドライブデート",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "中文字幕"

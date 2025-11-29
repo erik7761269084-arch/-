@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/y8siRKAl/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/y8siRKAl/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/EL6rXB0U/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20220816/5t6fiOQi/index.m3u8"
   },
   "seriesInfo": {
     "id": 141992,
@@ -9,7 +11,10 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250130-1/af475e2a6f3234ecfaf9629b751a1821.jpg",
     "background_img": "",

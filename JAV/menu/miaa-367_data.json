@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/17/15af2503/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/17/15af2503/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/28/145b6f12ddea/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211516,
     "IDcode": "MIAA-367",
     "title": "社内不倫-藤森里穂",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

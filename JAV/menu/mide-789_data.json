@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/24/07a64c1c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/24/07a64c1c/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/22/3c283cf7e7ee/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209395,
     "IDcode": "MIDE-789",
     "title": "初恋相手の義理姉-つぼみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

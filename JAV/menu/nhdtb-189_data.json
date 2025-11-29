@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/21/f79536fc/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/21/f79536fc/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230821/cVvllu88/index.m3u8"
   },
   "seriesInfo": {
     "id": 213476,
     "IDcode": "NHDTB-189",
     "title": "服破痴漢",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "NATURAL HIGH",
     "genres": [
       "痴汉"

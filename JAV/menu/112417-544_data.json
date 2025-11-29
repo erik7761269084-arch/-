@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/u8gJVhRx/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/u8gJVhRx/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221031/hRnFkAQI/index.m3u8"
   },
   "seriesInfo": {
     "id": 142415,
     "IDcode": "112417-544",
     "title": "SaraSaijo在空荡荡的办公室里突然从后面",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

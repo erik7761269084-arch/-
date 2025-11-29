@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/lylu8fQW/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/lylu8fQW/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/jG8SGxJsww2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150363,
     "IDcode": "SIRO-1111",
     "title": "第一次252",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250228-1/75fe10fcd3998f407df8bc9bb68ebbe9.jpg",
     "background_img": "",

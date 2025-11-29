@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/7MxDYyC2/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/7MxDYyC2/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20230327/AIxRyqkP/index.m3u8"
   },
   "seriesInfo": {
     "id": 165306,
     "IDcode": "PPPD-800",
     "title": "彼女が家族旅行で一週間留守にしたので",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

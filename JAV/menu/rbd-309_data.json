@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/03/e06156b9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/03/e06156b9/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221019/9VCqAR9i/index.m3u8"
   },
   "seriesInfo": {
     "id": 211101,
     "IDcode": "RBD-309",
     "title": "女社長-白石美咲",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

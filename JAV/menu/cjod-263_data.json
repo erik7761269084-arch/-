@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/1a81c7fd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/1a81c7fd/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240221/PNjgQtQY/index.m3u8"
   },
   "seriesInfo": {
     "id": 210779,
     "IDcode": "CJOD-263",
     "title": "突如痴女-枢木あおい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "癡女特化",
     "genres": [],
     "description": "",

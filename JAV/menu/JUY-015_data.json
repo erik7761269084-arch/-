@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/7490e8be/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/7490e8be/index.m3u8",
+    "线路2": "https://krevonix.com/20221013/50KTYL5L/index.m3u8"
   },
   "seriesInfo": {
     "id": 189104,
     "IDcode": "JUY-015",
     "title": "老妈的朋友佐佐木明希和男友吵架喝醉酒居然主动吻上了我",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

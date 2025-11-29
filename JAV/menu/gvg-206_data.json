@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/01/237c9631/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/01/237c9631/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/10/691105276b81af1f8544289f/fe589a/index.m3u8"
   },
   "seriesInfo": {
     "id": 212528,
     "IDcode": "GVG-206",
     "title": "强奸村",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

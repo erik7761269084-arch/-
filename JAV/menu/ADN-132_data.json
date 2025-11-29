@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202411/12/JtujWSj6zy1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/10/19/30340321/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/10/19/30340321/index.m3u8",
+    "线路3": "https://vip5.ddyunbo.com/20230607/ZKY2NTM8/index.m3u8"
   },
   "seriesInfo": {
     "id": 156986,
     "IDcode": "ADN-132",
     "title": "女教師玩具化計画-川上奈々美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

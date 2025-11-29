@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/6eeafa7f/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/6eeafa7f/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/09/ePQY0ssSdb2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 212745,
     "IDcode": "BF-501",
     "title": "美容部員-眞実かなえ",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/08/11/a6bf60fe6e36ca02f73fa2b913d2dd59.jpg",

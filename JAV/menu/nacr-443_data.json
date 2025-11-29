@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/13/4b3564aa/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/13/4b3564aa/index.m3u8",
+    "线路2": "https://v2024.fhbbff.com/20241201/gM3AiDae/index.m3u8"
   },
   "seriesInfo": {
     "id": 213912,
     "IDcode": "NACR-443",
     "title": "我隔壁的漂亮妻子-通野未帆",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "PLANETPLUS",
     "genres": [],
     "description": "",

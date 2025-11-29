@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/26/4a7e55ec/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/26/4a7e55ec/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202508/05/314205322860/playlist.m3u8",
+    "线路3": "https://vip3.bfbfhao.com/20230211/uauaWNeC/index.m3u8"
   },
   "seriesInfo": {
     "id": 213020,
     "IDcode": "ZUKO-122",
     "title": "给咖啡馆所有女仆配种",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

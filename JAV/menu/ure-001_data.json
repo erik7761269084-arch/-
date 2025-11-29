@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/e1b2fb6d/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/e1b2fb6d/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/12/6913de491fcdee36fa89d684/g70b85/index.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20240208/A0hQGx2m/index.m3u8"
   },
   "seriesInfo": {
     "id": 183809,
     "IDcode": "URE-001",
     "title": "经典漫改奴隶契约办公室",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MADONNA",
     "genres": [],
     "description": "",

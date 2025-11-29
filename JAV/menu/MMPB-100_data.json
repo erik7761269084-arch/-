@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/05/e28f5184/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/05/e28f5184/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/6907b301e264e6282dfd12fb.m3u8"
   },
   "seriesInfo": {
     "id": 174045,
     "IDcode": "MMPB-100",
     "title": "彼女たちが通った後に精子は残らない！コードネーム セクシャルプレデターギャル！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "桃太郎映像出版",
     "genres": [],
     "description": "",

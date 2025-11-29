@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/05/033e62c2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/05/033e62c2/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230304/VLsiqCMh/index.m3u8"
   },
   "seriesInfo": {
     "id": 210140,
     "IDcode": "ROYD-020",
     "title": "両親旅行的5天-新川愛七",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROYAL",
     "genres": [],
     "description": "",

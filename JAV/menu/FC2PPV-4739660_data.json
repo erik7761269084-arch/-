@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/16/3806d93c/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/16/3806d93c/index.m3u8",
+    "线路2": "https://thm3u8.com/20250814/AAbi4rGF/index.m3u8"
   },
   "seriesInfo": {
     "id": 181748,
     "IDcode": "FC2PPV-4739660",
     "title": "求你绝对别让老公知道",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

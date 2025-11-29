@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/7yr8TZSX/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/7yr8TZSX/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/2RL1RbU2B52/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150441,
     "IDcode": "SIRO-1200",
     "title": "素人AV体验拍摄437",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "素人"

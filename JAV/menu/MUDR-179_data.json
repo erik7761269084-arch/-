@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202410/23/3jvqtz8tEC1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202410/23/3jvqtz8tEC1/video/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20240801/OO0fhD9m/index.m3u8"
   },
   "seriesInfo": {
     "id": 155808,
     "IDcode": "MUDR-179",
     "title": "無碼破解版团鬼六无垢本格戏剧奴隶少女",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "無垢",
-    "genres": [],
+    "genres": [
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241024-1/ec052ade6d518c97bc6ff49d78ee07dc.jpg",
     "background_img": "",

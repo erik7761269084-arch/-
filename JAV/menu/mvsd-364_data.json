@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/13/9f88592e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/13/9f88592e/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20221109/IzFnv6Y3/index.m3u8"
   },
   "seriesInfo": {
     "id": 213905,
     "IDcode": "MVSD-364",
     "title": "与姐妹们一起过暑假",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MVG GROUP",
     "genres": [],
     "description": "",

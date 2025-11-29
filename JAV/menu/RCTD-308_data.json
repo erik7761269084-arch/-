@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/Gu2Hq6OF/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/Gu2Hq6OF/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220629/xDfKM2QR/index.m3u8"
   },
   "seriesInfo": {
     "id": 165314,
     "IDcode": "RCTD-308",
     "title": "妄想アイテム究極進化シリーズ 僕はエロガキ超能力者エスパーベルトでイタズラ三昧",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROCKET",
     "genres": [
       "中文字幕"

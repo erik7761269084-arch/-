@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/17/fe94a53e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/17/fe94a53e/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/rl0hVHAB/index.m3u8"
   },
   "seriesInfo": {
     "id": 209653,
     "IDcode": "NKKD-170",
     "title": "夫婦念願の田舎暮らし-向井藍",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

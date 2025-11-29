@@ -7,9 +7,11 @@
     "IDcode": "383REIW-020",
     "title": "真由",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/24/80e296cb501af11be171a5d8962d8924.jpg",
     "background_img": "",

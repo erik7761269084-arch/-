@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/a81d0756/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/a81d0756/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/G6l0GXv7/index.m3u8"
   },
   "seriesInfo": {
     "id": 99671,
     "IDcode": "ADN-042",
     "title": "湿地重逢-成田愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "已婚妇女",
       "凌辱",
-      "白天出轨"
+      "白天出轨",
+      "已婚妇女"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/09/28/7636afa6186c36f272eaba04bf9ac1a9.jpg",

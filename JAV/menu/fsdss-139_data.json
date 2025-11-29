@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/29/2e51af91/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/29/2e51af91/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/24/a3ee0900b38d/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211329,
     "IDcode": "FSDSS-139",
     "title": "射精後-吉高寧々",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

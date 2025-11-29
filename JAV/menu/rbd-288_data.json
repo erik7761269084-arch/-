@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/27/f8058bed/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/27/f8058bed/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221201/kpNFL0M7/index.m3u8"
   },
   "seriesInfo": {
     "id": 212098,
     "IDcode": "RBD-288",
     "title": "背徳感情- 愛咲れいら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

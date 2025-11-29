@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/12/174967e0/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/12/174967e0/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/21/088b9ef99595/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212777,
     "IDcode": "SSIS-131",
     "title": "美人の誘惑-小島みなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

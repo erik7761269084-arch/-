@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/02/f8b4a398/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/02/f8b4a398/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/03/690791dee264e6282dfca73b/3296b0/index.m3u8"
   },
   "seriesInfo": {
     "id": 174728,
     "IDcode": "ATID-651",
     "title": "淫魔パーティー 第1話 狙われた美人妻",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "人妻"

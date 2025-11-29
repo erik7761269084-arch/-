@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/08/aa83fd5a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/08/aa83fd5a/index.m3u8",
+    "线路2": "https://vostrely.com/20230318/GhOanL1d/index.m3u8"
   },
   "seriesInfo": {
     "id": 209884,
     "IDcode": "HND-863",
     "title": "人間世界-深田えいみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

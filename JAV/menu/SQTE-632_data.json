@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/01/d6db6384/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/01/d6db6384/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/08/690f0c322a997527cfd31fe0/5dbe71/index.m3u8"
   },
   "seriesInfo": {
     "id": 174547,
     "IDcode": "SQTE-632",
     "title": "休日に彼女と。みゆに夢中でハメまくる温泉旅行 逢沢みゆ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S-CUTE",
     "genres": [],
     "description": "",

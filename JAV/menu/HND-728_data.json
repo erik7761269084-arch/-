@@ -2,14 +2,15 @@
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220811/xJPMm5TC/index.m3u8",
     "线路2": "https://v1.1bbffvip.com/20220811/wdAvqNpJ/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2021/08/19/ca3779c7/index.m3u8"
+    "线路3": "https://t26.cdn2020.com/video/m3u8/2021/08/19/ca3779c7/index.m3u8",
+    "线路4": "https://vip5.ddyunbo.com/20230318/7TcxURTa/index.m3u8"
   },
   "seriesInfo": {
     "id": 164981,
     "IDcode": "HND-728",
     "title": "騎乗位中出-根尾あかり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

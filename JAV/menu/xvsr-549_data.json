@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/22/1e641640/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/22/1e641640/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250204/YxzDYzf7/index.m3u8"
   },
   "seriesInfo": {
     "id": 210322,
     "IDcode": "XVSR-549",
     "title": "感受母亲的温暖-倉多まお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MAX-A",
     "genres": [
       "乱伦"

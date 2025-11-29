@@ -1,17 +1,23 @@
 {
   "episodes": {
-    "主线路": "https://b.gg155gg1.com/20250512/JIdcdOp3/index.m3u8"
+    "主线路": "https://b.gg155gg1.com/20250512/JIdcdOp3/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250505/LNC1MnjN/index.m3u8",
+    "线路3": "https://lsbbf5.com/20241119/YQ5EC8yC/index.m3u8",
+    "线路4": "https://yutubf.lsbbf3.com/20250505/LNC1MnjN/index.m3u8",
+    "线路5": "https://v2024.sysybf.com/20250511/RhbglzzZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 170711,
     "IDcode": "811PWIFE-809",
     "title": "ゆみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250513-1/1b9056559ec6b8df2a3cc64939118a7f.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/46d053c2ba91452d694f25b5b25e9830.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-809",
     "actresses": []

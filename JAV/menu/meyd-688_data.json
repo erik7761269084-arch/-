@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/30/9459e3b4/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/30/9459e3b4/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/3525ae121c11/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212524,
     "IDcode": "MEYD-688",
     "title": "被丈夫的老板强奸-堀北わん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "溜池",
     "genres": [],
     "description": "",

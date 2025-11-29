@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/10/6f81a891/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/10/6f81a891/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20200521/wxp82P89/index.m3u8"
   },
   "seriesInfo": {
     "id": 212247,
     "IDcode": "DJE-084",
     "title": "熟女溺愛-並木塔子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

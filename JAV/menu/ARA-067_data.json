@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/6twbbzsb/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/6twbbzsb/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202507/12/4n1zYLj2he2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 153279,
     "IDcode": "ARA-067",
     "title": "招募酱067巫女20岁书店打工",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "嫩妹"

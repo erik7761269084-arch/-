@@ -7,9 +7,11 @@
     "IDcode": "383REIW-047",
     "title": "三木",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/11/03/943f242331e907da6cf03971fc01f53a.jpg",
     "background_img": "",

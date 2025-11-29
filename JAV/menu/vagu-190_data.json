@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/15/1ee61ca9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/15/1ee61ca9/index.m3u8",
+    "线路2": "https://vip.newljlj2025.com/20190515/FaNIRCwT/index.m3u8"
   },
   "seriesInfo": {
     "id": 210889,
     "IDcode": "VAGU-190",
     "title": "同棲生活吹石れな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [],
     "description": "",

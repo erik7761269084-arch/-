@@ -2,18 +2,21 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/673905bc238a4e1c37ebacc5.m3u8",
     "线路2": "https://t27.cdn2020.com/video/m3u8/2023/01/19/df34216d/index.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/673905bc238a4e1c37ebacc5.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/673905bc238a4e1c37ebacc5.m3u8",
+    "线路4": "https://voddadaizi.com:52866/videos/202504/13/67fb415dcf22ae3e0415a846/2gc6fg/index.m3u8",
+    "线路5": "https://v1.1bbffvip.com/20230727/5lEbTHru/index.m3u8",
+    "线路6": "https://vostrely.com/20240128/2zpZkrCJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 171534,
     "IDcode": "SSIS-602",
     "title": "窃贼是我的小舅子-奥田咲",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",
-    "cover_url": "https://tutu1.space/images/2023/01/19/98650be05887d346a0ea4845a32cb75e.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb415dcf22ae3e0415a846/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-602",
     "actresses": []

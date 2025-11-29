@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/Iw9doGeT/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/Iw9doGeT/index.m3u8",
+    "线路2": "https://cdn2.shayubf.com/20200229/c4gShhHB/index.m3u8"
   },
   "seriesInfo": {
     "id": 142453,
     "IDcode": "122017-559",
     "title": "月村光完全百科全书",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

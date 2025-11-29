@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/26/b3e9a5f0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/26/b3e9a5f0/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230304/M97mYiH2/index.m3u8"
   },
   "seriesInfo": {
     "id": 211596,
     "IDcode": "PRED-279",
     "title": "我的第一次-櫻井まみ",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "PREMIUM",
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/01/27/c0250721c491a1b7f3e2b0df178c9cb4.jpg",
     "background_img": "",

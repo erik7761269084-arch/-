@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/415aa670/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/415aa670/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/POwzUmJe/index.m3u8"
   },
   "seriesInfo": {
     "id": 210401,
     "IDcode": "ROYD-024",
     "title": "喜欢情色书籍的优等生-久留木玲",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROYAL",
     "genres": [],
     "description": "",

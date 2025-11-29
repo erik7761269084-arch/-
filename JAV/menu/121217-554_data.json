@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/Yks3cBOI/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/Yks3cBOI/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221102/eqLwGBvA/index.m3u8"
   },
   "seriesInfo": {
     "id": 142437,
     "IDcode": "121217-554",
     "title": "最佳女明星Vol.12朝雾明里",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

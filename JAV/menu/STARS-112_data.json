@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221113/GAw0TQ8F/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221113/GAw0TQ8F/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250102/3X2H6GMb/index.m3u8"
   },
   "seriesInfo": {
     "id": 166098,
     "IDcode": "STARS-112",
     "title": "AV Debut 2nd 性・欲・開・放 3本番 和久井まりあ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "中文字幕"

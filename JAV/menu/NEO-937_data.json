@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/06d6bb84/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/06d6bb84/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fd3870944bbe4ef05b9007.m3u8"
   },
   "seriesInfo": {
     "id": 175161,
     "IDcode": "NEO-937",
     "title": "全開鼻フック 菊池はる",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "RADIX",
     "genres": [],
     "description": "",

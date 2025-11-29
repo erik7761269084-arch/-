@@ -1,19 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/22/2114d3b1/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/22/2114d3b1/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231123/PI8XbpRm/index.m3u8"
   },
   "seriesInfo": {
     "id": 105940,
     "IDcode": "GVH-105",
     "title": "禁断介護 君島みお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "GLORY QUEST",
     "genres": [
-      "已婚妇女",
-      "恋物癖",
       "戏剧",
-      "乱伦"
+      "乱伦",
+      "已婚妇女",
+      "恋物癖"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/09/23/303190a9862941b5d50b47a70438b203.jpg",

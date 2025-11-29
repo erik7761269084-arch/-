@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/29/746bbebf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/29/746bbebf/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/29/387e8b020492/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211055,
     "IDcode": "PPPD-883",
     "title": "男朋友让我独身30天-中野七緒",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

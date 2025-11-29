@@ -4,24 +4,30 @@
     "线路2": "https://m3u8.cdn202511.com/movie/auto/687246c1d640eb31df21fd07.m3u8",
     "线路3": "https://t30.cdn2020.com/video/m3u8/2025/06/23/d604bbdf/index.m3u8",
     "线路4": "https://m3u8.cdn2025.life/movie/auto/687246c1d640eb31df21fd07.m3u8",
-    "线路5": "https://t30.cdn2020.com/video/m3u8/2025/06/26/63ae4d1e/index.m3u8"
+    "线路5": "https://t30.cdn2020.com/video/m3u8/2025/06/26/63ae4d1e/index.m3u8",
+    "线路6": "https://lsbbf5.com/20250628/RyEXpILL/index.m3u8",
+    "线路7": "https://lsbbf5.com/20250730/aIyJFbZc/index.m3u8",
+    "线路8": "https://voddadaizi.com:52866/videos/202505/12/6821c00fc7cb4ba33f7739ca/7cb961/index.m3u8",
+    "线路9": "https://voddadaizi.com:52866/videos/202507/13/6872c2a93ed39b57c0e7e1fc/g00cea/index.m3u8",
+    "线路10": "https://krevonix.com/20250914/bFS8yaY5/index.m3u8",
+    "线路11": "https://v2025.fhbbff.com/20250803/HMKkUzFa/index.m3u8"
   },
   "seriesInfo": {
     "id": 63094,
     "IDcode": "SAME-158",
     "title": "刚到东京不久的新人OL-永野鈴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "戏剧",
-      "中出",
-      "OL",
       "凌辱",
+      "戏剧",
+      "OL",
+      "中出",
       "单体作品"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20250627-1/fc5319ebb4bc0d1efba2daec8416ac46.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/12/6821c00fc7cb4ba33f7739ca/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-158",
     "actresses": [

@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/91c4a75b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/91c4a75b/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/QJ9oi8s5/index.m3u8"
   },
   "seriesInfo": {
     "id": 99763,
     "IDcode": "ADN-086",
     "title": "举行的一次访问-川上奈々美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "出轨",
-      "已婚妇女",
-      "凌辱"
+      "凌辱",
+      "已婚妇女"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/12/8823be416b292f9682de1ee8564cfa1e.jpg",

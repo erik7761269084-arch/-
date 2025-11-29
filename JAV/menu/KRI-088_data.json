@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220930/yMrlWiHE/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220930/yMrlWiHE/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/dk6EGZeI/index.m3u8"
   },
   "seriesInfo": {
     "id": 165697,
     "IDcode": "KRI-088",
     "title": "泥酔オンナ狩り！！vol",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

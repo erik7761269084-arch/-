@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20230304/53EMQ4Ho/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20230304/53EMQ4Ho/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f08dc631a2714f1c5b6e41.m3u8"
   },
   "seriesInfo": {
     "id": 166670,
     "IDcode": "NHDTB-008",
     "title": "泳池塞著按摩棒癡漢",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "NATURAL HIGH",
     "genres": [
       "中文字幕"

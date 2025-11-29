@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/05/18dccbae/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/05/18dccbae/index.m3u8",
+    "线路2": "https://thm3u8.com/20241120/Q5MbEnNU/index.m3u8"
   },
   "seriesInfo": {
     "id": 213741,
     "IDcode": "NKD-001",
     "title": "中出追跡24時",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

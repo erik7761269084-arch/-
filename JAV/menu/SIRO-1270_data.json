@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/7NlloqG5/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/7NlloqG5/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/rk2a0GpGXJ2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150497,
     "IDcode": "SIRO-1270",
     "title": "业馀个人射击和张贴251",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/4231021e590501f6a1d7584c7f391ad6.jpg",
     "background_img": "",

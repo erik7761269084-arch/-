@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/ed3tM3Yu/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/ed3tM3Yu/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202507/12/G5zMQbJYBx2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 153271,
     "IDcode": "ARA-075",
     "title": "招募酱089Yurina20岁专科生",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "嫩妹"

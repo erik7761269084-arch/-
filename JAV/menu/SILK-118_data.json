@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220818/5w3TsKNZ/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220818/5w3TsKNZ/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20210505/9bNNn3rm/index.m3u8"
   },
   "seriesInfo": {
     "id": 165670,
     "IDcode": "SILK-118",
     "title": "恋するサプリ 3錠目 ―不器用なカレ―",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SILK LABO",
     "genres": [
       "中文字幕"

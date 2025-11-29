@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/17/2df3e8b4/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/17/2df3e8b4/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231122/Ek4A3Ffr/index.m3u8"
   },
   "seriesInfo": {
     "id": 212868,
     "IDcode": "VENU-725",
     "title": "禁断事故中出-水谷あおい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

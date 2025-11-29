@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/21/226d4fc0/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/21/226d4fc0/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/28/200e424e8e8a/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212937,
     "IDcode": "STARS-399",
     "title": "抖动的乳房-朝田ひまり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

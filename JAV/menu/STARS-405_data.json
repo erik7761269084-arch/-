@@ -1,19 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/25/7f304182/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/25/7f304182/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20220811/gNbJbEpH/index.m3u8"
   },
   "seriesInfo": {
     "id": 79252,
     "IDcode": "STARS-405",
     "title": "15秒内达到高潮-夏目響",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "潮吹",
-      "第一人称摄影",
       "美少女电影",
-      "立即口交"
+      "立即口交",
+      "第一人称摄影"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/07/25/8d5696ce0b8cf1573b02539f0fa51cfc.jpg",

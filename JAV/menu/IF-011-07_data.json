@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/pMMLa5WH/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/pMMLa5WH/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/06/281d3eccc278/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154455,
     "IDcode": "IF-011-07",
     "title": "如果你放学后在学校发生性关系Sayumi",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

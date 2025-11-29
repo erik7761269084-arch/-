@@ -1,18 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/297c9e85/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/297c9e85/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251002/ljJo9QWn/index.m3u8",
+    "线路3": "https://v8.lj20250710new.com/20251006/WqgBrRh3/index.m3u8",
+    "线路4": "https://v202509.fhbbff.com/20251006/WqgBrRh3/index.m3u8"
   },
   "seriesInfo": {
     "id": 95077,
     "IDcode": "NEO-920",
     "title": "唾液天国 木下ひまり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "RADIX",
     "genres": [
       "姐姐",
-      "单体作品",
       "高",
+      "单体作品",
       "M男"
     ],
     "description": "",

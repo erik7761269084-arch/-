@@ -1,17 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/04/13/af8f887e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/04/13/af8f887e/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/14/678653ee5d57b64bfd9408de/ag6a2e/index.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20241022/LzkmvnGt/index.m3u8"
   },
   "seriesInfo": {
     "id": 207068,
     "IDcode": "STAR-872",
     "title": "欢迎来到治愈乐园-星乃莉子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20240413-1/464420a0fda45392f9398d15ffd85e19.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/678653ee5d57b64bfd9408de/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-872",
     "actresses": []

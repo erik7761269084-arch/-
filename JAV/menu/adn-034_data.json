@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/25/1cccffe6/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/25/1cccffe6/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230607/OsklpPJm/index.m3u8"
   },
   "seriesInfo": {
     "id": 213578,
     "IDcode": "ADN-034",
     "title": "每次我被强奸的时候都很美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

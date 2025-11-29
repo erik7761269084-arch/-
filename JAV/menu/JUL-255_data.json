@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202409/18/CXDGcQaTvH1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/07/04/6e5696ba/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/07/04/6e5696ba/index.m3u8",
+    "线路3": "https://jkunnzyx.com/20230303/Vc7Z7sOT/index.m3u8"
   },
   "seriesInfo": {
     "id": 155253,
     "IDcode": "JUL-255",
     "title": "マドンナ専属-白石茉莉奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

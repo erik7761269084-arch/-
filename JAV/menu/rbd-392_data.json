@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/05e1e70e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/05e1e70e/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/11/1Pmc4RNzvv2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 213964,
     "IDcode": "RBD-392",
     "title": "机舱服务员-御厨あおい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

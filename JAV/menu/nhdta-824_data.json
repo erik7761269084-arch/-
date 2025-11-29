@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/17d0fdb3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/17d0fdb3/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/6903d370d6fbef4e901a78e9.m3u8"
   },
   "seriesInfo": {
     "id": 213402,
     "IDcode": "NHDTA-824",
     "title": "丈夫不在家时被袭击",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

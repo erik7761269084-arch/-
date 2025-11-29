@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/3002c758/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/3002c758/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230304/c8fKgjej/index.m3u8"
   },
   "seriesInfo": {
     "id": 211146,
     "IDcode": "WAAA-012",
     "title": "元上司-辻井ほのか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

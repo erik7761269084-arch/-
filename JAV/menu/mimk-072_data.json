@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/4d220cd9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/4d220cd9/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231129/xRTlQTwr/index.m3u8"
   },
   "seriesInfo": {
     "id": 210393,
     "IDcode": "MIMK-072",
     "title": "董事长任命-深沢いのり",
     "publish_date": "",
-    "type": "有码",
-    "company": "MOODYZ",
+    "type": null,
+    "company": "DEEP'S",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/09/28/92453ff532500861f025f260be67ac38.jpg",

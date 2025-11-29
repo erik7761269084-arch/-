@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221110/vRuxJk6t/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221110/vRuxJk6t/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20220714/D2fwiNpw/index.m3u8"
   },
   "seriesInfo": {
     "id": 166042,
     "IDcode": "MCT-057",
     "title": "枢木あおいを贷し切りドライブデート",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "中文字幕"

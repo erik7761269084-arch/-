@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221006/0fNClGwO/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221006/0fNClGwO/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fdc5cadd88d14f065566b6.m3u8",
+    "线路3": "https://www.bfbfhao.com/20200712/pPgaqdP2/index.m3u8"
   },
   "seriesInfo": {
     "id": 165843,
     "IDcode": "JUL-004",
     "title": "堕ちた人妻女上司2泊3日の新人研修で仕事に厳",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "人妻",

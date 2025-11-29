@@ -7,9 +7,11 @@
     "IDcode": "413INST-080",
     "title": "那个引起热论的写真模特极其隐秘的个人摄影会",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/25/97f0dba2b9a1719a3b78c9825626e5fc.jpg",
     "background_img": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/c251b8fa/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/c251b8fa/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230417/B8Q34oF1/index.m3u8"
   },
   "seriesInfo": {
     "id": 214301,
     "IDcode": "ADN-164",
     "title": "一种新的生活 -妃月るい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

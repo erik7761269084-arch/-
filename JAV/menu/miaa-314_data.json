@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/30/880e9137/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/30/880e9137/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231214/WWa30s1O/index.m3u8"
   },
   "seriesInfo": {
     "id": 210434,
     "IDcode": "MIAA-314",
     "title": "女孩的性教育-丘えりな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

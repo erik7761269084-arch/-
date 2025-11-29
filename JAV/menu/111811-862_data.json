@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241228/P9MCdxNX/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241228/P9MCdxNX/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20200705/ttAtjqBf/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20240109/l9iLiBXT/index.m3u8",
+    "线路4": "https://v1.1bbffvip.com/20220810/muYUnNES/index.m3u8"
   },
   "seriesInfo": {
     "id": 144101,
     "IDcode": "111811-862",
     "title": "Lori蓬松第2部分AiriMiku",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

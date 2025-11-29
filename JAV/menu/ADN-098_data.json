@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/e8e2c0af/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/e8e2c0af/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/B2U44UKO/index.m3u8"
   },
   "seriesInfo": {
     "id": 59666,
     "IDcode": "ADN-098",
     "title": "雕刻的怜悯-小松千春",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "已婚妇女",
       "凌辱",
-      "白天出轨"
+      "白天出轨",
+      "已婚妇女"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/17/8ca7f70a2879fef9ad0ff4dddffc57f2.jpg",

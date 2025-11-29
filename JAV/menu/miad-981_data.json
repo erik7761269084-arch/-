@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/18/7f08ec90/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/18/7f08ec90/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230517/do0kE6bK/index.m3u8"
   },
   "seriesInfo": {
     "id": 211931,
     "IDcode": "MIAD-981",
     "title": "女子校生-浅田結梨",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

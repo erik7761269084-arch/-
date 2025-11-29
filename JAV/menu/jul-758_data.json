@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/05/f1b44945/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/05/f1b44945/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250124/CPrrKSLX/index.m3u8"
   },
   "seriesInfo": {
     "id": 214256,
     "IDcode": "JUL-758",
     "title": "木制公寓里-朝倉ここな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250106/b6ykwe8o/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250106/b6ykwe8o/index.m3u8",
+    "线路2": "https://2.ddyunbo.com/20200401/LIHxd6zj/index.m3u8"
   },
   "seriesInfo": {
     "id": 152614,
     "IDcode": "H0930-KI200109",
     "title": "室田纱佑45岁",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250309-1/23b4bf1c6bed2008cdc694f34c71e8a6.jpg",
     "background_img": "",

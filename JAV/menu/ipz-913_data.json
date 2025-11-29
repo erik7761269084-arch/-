@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/18/5de11296/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/18/5de11296/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/15/AXJHF6vgYK2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 211936,
     "IDcode": "IPZ-913",
     "title": "你们真坏-舞島あかり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,19 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/28/61c1f694/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/28/61c1f694/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/KwrUB0TZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 98231,
     "IDcode": "ATID-242",
     "title": "美人会計-あずみ恋",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "TMA",
     "genres": [
+      "各种职业",
       "强奸",
       "凌辱",
-      "无码破解",
-      "各种职业"
+      "无码破解"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/10/28/c306ef4fa3301ce8450d3caaade59739.jpg",

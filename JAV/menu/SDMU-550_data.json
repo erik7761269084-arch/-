@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220818/rQnAxHfJ/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220818/rQnAxHfJ/index.m3u8",
+    "线路2": "https://krevonix.com/20250409/fzE6ZWWr/index.m3u8"
   },
   "seriesInfo": {
     "id": 165442,
     "IDcode": "SDMU-550",
     "title": "ハメ撮りテストシュート",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

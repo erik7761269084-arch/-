@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/4ELP9O6K/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/4ELP9O6K/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/hNQVb0m5ph2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150518,
     "IDcode": "SIRO-1306",
     "title": "业馀个人摄影和发文264",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/a5a19c5d8fa4c7e74de057100c40b5c7.jpg",
     "background_img": "",

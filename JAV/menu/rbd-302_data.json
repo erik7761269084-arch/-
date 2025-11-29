@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/05/dd0db454/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/05/dd0db454/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221019/2IAzE9R1/index.m3u8"
   },
   "seriesInfo": {
     "id": 213761,
     "IDcode": "RBD-302",
     "title": "女教師-瞳りん かなみ芽梨",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

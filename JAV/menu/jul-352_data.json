@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/14/fd121f78/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/14/fd121f78/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/15/qZ4KbDEYmU2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210877,
     "IDcode": "JUL-352",
     "title": "朋友母亲的誘惑-山口珠理",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

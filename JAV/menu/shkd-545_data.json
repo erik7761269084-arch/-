@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/13/c1b47b62/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/13/c1b47b62/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221125/PY8AKRM0/index.m3u8"
   },
   "seriesInfo": {
     "id": 211469,
     "IDcode": "SHKD-545",
     "title": "生活中的强暴-Ray",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

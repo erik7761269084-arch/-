@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/7a9c2e3d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/7a9c2e3d/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/11/VgPcD7bmCt2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 213961,
     "IDcode": "RBD-367",
     "title": "絶対服従-かすみゆら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

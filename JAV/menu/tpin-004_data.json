@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/03/a37c1116/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/03/a37c1116/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/bbc8bec84fd4/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213166,
     "IDcode": "TPIN-004",
     "title": "脱衣舞2021",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "椿鳳院",
     "genres": [],
     "description": "",

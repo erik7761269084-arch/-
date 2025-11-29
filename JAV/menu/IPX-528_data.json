@@ -2,26 +2,27 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/67397c19f514c41c435e5cda.m3u8",
     "线路2": "https://t27.cdn2020.com/video/m3u8/2020/09/19/0e26531c/index.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/67397c19f514c41c435e5cda.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/67397c19f514c41c435e5cda.m3u8",
+    "线路4": "https://thm3u8.vip/20250130/lbqygYhf/index.m3u8"
   },
   "seriesInfo": {
     "id": 18902,
     "IDcode": "IPX-528",
     "title": "在温泉旅馆跟老板一个房间-楓カレン",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
-      "溫泉",
-      "女同事",
-      "出差",
-      "流汗",
       "美少女電影",
-      "OL",
       "和服・浴衣・喪服",
-      "酒醉",
+      "流汗",
+      "OL",
+      "溫泉",
+      "出差",
+      "劇情",
       "無碼破解",
-      "劇情"
+      "女同事",
+      "酒醉"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/09/20/c85b64424374f796675d93b0c126fa70.jpg",

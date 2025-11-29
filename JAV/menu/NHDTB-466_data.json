@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202504/26/CvF6jjHg2m2/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202504/26/CvF6jjHg2m2/video/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68dbae66ce5a404e9bc09845.m3u8"
   },
   "seriesInfo": {
     "id": 157028,
     "IDcode": "NHDTB-466",
     "title": "到哪打工都被X！每间店的经理都充满著不好的意图啊",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "NATURAL HIGH",
     "genres": [
       "中文字幕"

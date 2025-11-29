@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/16LPmJdK/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/16LPmJdK/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/J3fHod1H/index.m3u8"
   },
   "seriesInfo": {
     "id": 164696,
     "IDcode": "HMGL-174",
     "title": "恥ずかしいカラダ 調教かしこまり娘 森ほたる",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

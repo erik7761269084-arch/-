@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/FAjD1jXt/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/FAjD1jXt/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/hzPmZ3cAmh2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150458,
     "IDcode": "SIRO-1227",
     "title": "业馀个人摄影和发文第237章",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/81ab9b3bb3f70923f6b9586d8d2ec7bf.jpg",
     "background_img": "",

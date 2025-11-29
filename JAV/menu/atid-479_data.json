@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/11/78a0ddbf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/11/78a0ddbf/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/AoTfpZwO/index.m3u8"
   },
   "seriesInfo": {
     "id": 213322,
     "IDcode": "ATID-479",
     "title": "首席执行官的女儿-桜香美羽",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "乱伦"

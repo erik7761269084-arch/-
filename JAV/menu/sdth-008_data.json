@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/04/045c95bf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/04/045c95bf/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68da0340631cc64eb58a5c7b.m3u8"
   },
   "seriesInfo": {
     "id": 212167,
     "IDcode": "SDTH-008",
     "title": "愛嬌抜群-中島あつこ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

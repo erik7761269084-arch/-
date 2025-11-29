@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/11/eebbb6b5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/11/eebbb6b5/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241129/ySqr5vNy/index.m3u8"
   },
   "seriesInfo": {
     "id": 213333,
     "IDcode": "ATID-478",
     "title": "我的性玩具-南乃そら 枢木あおい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

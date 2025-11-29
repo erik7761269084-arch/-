@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241228/r65YND1s/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241228/r65YND1s/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220816/qWfyMymf/index.m3u8"
   },
   "seriesInfo": {
     "id": 144078,
     "IDcode": "110410-526",
     "title": "PerfectBody3森本明日香",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

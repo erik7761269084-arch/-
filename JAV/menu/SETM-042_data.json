@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/ba69f243/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/ba69f243/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251016/fI3bOUcn/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/6903f0bedd88d14f0660ea24.m3u8",
+    "线路4": "https://vostrely.com/20241210/I2mkIzTj/index.m3u8"
   },
   "seriesInfo": {
     "id": 176111,
     "IDcode": "SETM-042",
     "title": "発掘！えろえろ地方妻",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/Q4J9FcN7/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/Q4J9FcN7/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/2d1a8d893649/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153200,
     "IDcode": "TAT-037",
     "title": "奇闻趣事HRuka与一个可爱又猛烈地喘著粗气的女孩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

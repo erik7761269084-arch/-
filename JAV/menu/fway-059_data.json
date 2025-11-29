@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/13/35d69280/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/13/35d69280/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250617/4nWtTeQW/index.m3u8",
+    "线路3": "https://v2025.fhbbff.com/20250622/wgXQ4W4o/index.m3u8",
+    "线路4": "https://yutubf.lsbbf3.com/20250617/4nWtTeQW/index.m3u8"
   },
   "seriesInfo": {
     "id": 199009,
     "IDcode": "FWAY-059",
     "title": "another 宮地莉央",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

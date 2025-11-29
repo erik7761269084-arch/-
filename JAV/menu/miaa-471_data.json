@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/07/f2b5c4ac/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/07/f2b5c4ac/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/14/16acc867c5d2/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212638,
     "IDcode": "MIAA-471",
     "title": "汗流浃背的脸锁",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

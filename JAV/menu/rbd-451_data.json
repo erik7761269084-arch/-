@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/adef5162/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/adef5162/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/13/6914fd2746d2372859bc014f/32bf18/index.m3u8"
   },
   "seriesInfo": {
     "id": 214087,
     "IDcode": "RBD-451",
     "title": "被逼去做洗浴服务员的妻子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

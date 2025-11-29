@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/nWTpnSA7/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/nWTpnSA7/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/bjwvw4TB/index.m3u8"
   },
   "seriesInfo": {
     "id": 142388,
     "IDcode": "111219-001",
     "title": "垃圾清运是合适的性很好瞳",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

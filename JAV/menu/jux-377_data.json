@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/01/2819426e/index.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2023/05/29/bf7f5775/index.m3u8"
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2023/05/29/bf7f5775/index.m3u8",
+    "线路3": "https://v2024.fhbbff.com/20241129/3Nu3VgFk/index.m3u8"
   },
   "seriesInfo": {
     "id": 213139,
     "IDcode": "JUX-377",
     "title": "寡妇被绑-愛田奈々",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

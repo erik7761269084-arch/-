@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/f57904ea/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/f57904ea/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231004/yVXASVd9/index.m3u8",
+    "线路3": "https://lsbbf5.com/20231004/yVXASVd9/index.m3u8"
   },
   "seriesInfo": {
     "id": 210618,
     "IDcode": "ADN-268",
     "title": "求姐夫干我-志田雪奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "乱伦"

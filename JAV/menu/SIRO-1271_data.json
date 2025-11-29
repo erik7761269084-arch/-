@@ -7,9 +7,11 @@
     "IDcode": "SIRO-1271",
     "title": "业馀个人射击和张贴258",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/088c0c9e99cf0dabc7303b3afce0c482.jpg",
     "background_img": "",

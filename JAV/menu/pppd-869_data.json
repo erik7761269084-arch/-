@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/21/c79501a2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/21/c79501a2/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/Cv6iwgHo/index.m3u8"
   },
   "seriesInfo": {
     "id": 210644,
     "IDcode": "PPPD-869",
     "title": "乳腺開発-川村晴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/JBZ5aSJW/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/JBZ5aSJW/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/Kwv3MhavtU2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150455,
     "IDcode": "SIRO-1216",
     "title": "业馀个人摄影和发文230",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/89d438ca8e875a1601607c416b1182dc.jpg",
     "background_img": "",

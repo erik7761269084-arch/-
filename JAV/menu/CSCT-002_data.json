@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202502/01/CBWEcrP9GB1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202502/01/CBWEcrP9GB1/video/index.m3u8",
+    "线路2": "https://video40.bpzy1.com/video/20230113/c5e4718d171be163ed30f0402fd79684/index.m3u8"
   },
   "seriesInfo": {
     "id": 155355,
     "IDcode": "CSCT-002",
     "title": "鬼滅之穴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "中文字幕"

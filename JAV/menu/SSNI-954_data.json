@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202501/29/6VqmBagd0i1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/01/26/25928731/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/01/26/25928731/index.m3u8",
+    "线路3": "https://vip2.bfbfhao.com/20220712/pJQ7UIUY/index.m3u8"
   },
   "seriesInfo": {
     "id": 159001,
     "IDcode": "SSNI-954",
     "title": "我钟意的那个女孩-羽咲みはる",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

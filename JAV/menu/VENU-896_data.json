@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221129/zZNzo7Xn/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221129/zZNzo7Xn/index.m3u8",
+    "线路2": "https://krevonix.com/20220925/l8AVqqs0/index.m3u8",
+    "线路3": "https://vip2.bfbfhao.com/20220625/mHFMArmk/index.m3u8"
   },
   "seriesInfo": {
     "id": 166145,
     "IDcode": "VENU-896",
     "title": "突然押しかけてきた嫁の姉さんに抜かれっぱなしの1泊2日 藤白桃羽",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/29/0e65bf71/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/29/0e65bf71/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fe03aedd88d14f0655a67e.m3u8",
+    "线路3": "https://bf3.qrtuv.com/smv1/202508/29/uSAs7JutFD2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 214752,
     "IDcode": "MDYD-547",
     "title": "被丈夫欺骗的妻子-風間ゆみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

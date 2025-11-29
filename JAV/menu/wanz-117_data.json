@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/26/0d54e879/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/26/0d54e879/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221212/EKLdn8l8/index.m3u8"
   },
   "seriesInfo": {
     "id": 214095,
     "IDcode": "WANZ-117",
     "title": "女子校生-葉月可恋",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

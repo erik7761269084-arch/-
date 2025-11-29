@@ -2,14 +2,16 @@
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220928/KS8i2hAe/index.m3u8",
     "线路2": "https://v1.1bbffvip.com/20221027/8i8kVju5/index.m3u8",
-    "线路3": "https://t27.cdn2020.com/video/m3u8/2020/07/21/62005274/index.m3u8"
+    "线路3": "https://t27.cdn2020.com/video/m3u8/2020/07/21/62005274/index.m3u8",
+    "线路4": "https://voddadaizi.com:52866/movie/auto/69069e7b71eb543bb0e07c0f.m3u8",
+    "线路5": "https://www.bfbfhao.com/20200712/F58Pjtct/index.m3u8"
   },
   "seriesInfo": {
     "id": 165817,
     "IDcode": "JUY-979",
     "title": "新人の僕 深田えいみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

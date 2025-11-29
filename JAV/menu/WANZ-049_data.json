@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/08/eac428c9/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/08/eac428c9/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221212/fYb5BO0q/index.m3u8"
   },
   "seriesInfo": {
     "id": 173658,
     "IDcode": "WANZ-049",
     "title": "美人潜入搜查官-椎名由奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

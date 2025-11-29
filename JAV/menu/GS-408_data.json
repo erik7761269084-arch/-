@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/09/d136441d/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/09/d136441d/index.m3u8",
+    "线路2": "https://v2024.fhbbff.com/20241202/fulbGprC/index.m3u8"
   },
   "seriesInfo": {
     "id": 84462,
     "IDcode": "GS-408",
     "title": "小悪魔女子社員",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "GOGOS",
     "genres": [
       "恋物癖",

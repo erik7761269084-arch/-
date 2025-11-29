@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202409/24/TrjfMu1Q2r1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202409/24/TrjfMu1Q2r1/video/index.m3u8",
+    "线路2": "https://vip4.ddyunbo.com/20240920/qKNnZxYw/index.m3u8"
   },
   "seriesInfo": {
     "id": 156020,
     "IDcode": "IPZ-781",
     "title": "無碼破解版浓洨颜射火箭炮",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/144e428290947f2b4726a62065cca3c1.jpg",
     "background_img": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20220811/7jvXhU4O/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20220811/7jvXhU4O/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20220811/7jvXhU4O/index.m3u8"
   },
   "seriesInfo": {
     "id": 79746,
     "IDcode": "SAN-016",
     "title": "最高の寝取り！旦那のいない三日間の間に再びあの体を手に入れる！ / 高瀬りな",
     "publish_date": "2021-08-31",
-    "type": "有码",
+    "type": null,
     "company": "マザー",
     "genres": [
       "已婚妇女",

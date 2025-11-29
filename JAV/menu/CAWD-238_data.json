@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202411/15/2Awdsn327D1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/07/01/f4904334/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/07/01/f4904334/index.m3u8",
+    "线路3": "https://jkunnzyx.com/20230303/Dwi0fbnl/index.m3u8"
   },
   "seriesInfo": {
     "id": 157005,
     "IDcode": "CAWD-238",
     "title": "大学里最可爱的女孩-七瀬アリス",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221129/jxcPWcNc/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221129/jxcPWcNc/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220520/SZn5ihZE/index.m3u8"
   },
   "seriesInfo": {
     "id": 166212,
     "IDcode": "SVDVD-762",
     "title": "マジックミラー号 ハードボイルド 1秒に19回の激",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "Sadistic Village",
     "genres": [
       "中文字幕"

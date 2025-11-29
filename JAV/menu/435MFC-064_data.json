@@ -7,9 +7,11 @@
     "IDcode": "435MFC-064",
     "title": "愛美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/25/8fa97835f3b7f841f10d1150f2dd7aec.jpg",
     "background_img": "",

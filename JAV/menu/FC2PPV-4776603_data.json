@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/50d9c38f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/50d9c38f/index.m3u8",
+    "线路2": "https://thm3u8.com/20251010/rUh6eOXL/index.m3u8"
   },
   "seriesInfo": {
     "id": 176165,
     "IDcode": "FC2PPV-4776603",
     "title": "笑容甜美的美少女",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

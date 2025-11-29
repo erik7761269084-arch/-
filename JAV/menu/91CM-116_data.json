@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://vip2.slslvip12.com/20230115/aIrAFl5e/index.m3u8"
+    "主线路": "https://vip2.slslvip12.com/20230115/aIrAFl5e/index.m3u8",
+    "线路2": "https://v5.lbv325627.com/20250420/aNYUQSah/index.m3u8"
   },
   "seriesInfo": {
     "id": 84907,
     "IDcode": "91CM-116",
     "title": "离婚委托：恶毒老公请委托人诱骗妻子出轨结果却是",
     "publish_date": "2024-07-17",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

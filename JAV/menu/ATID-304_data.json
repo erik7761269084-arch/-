@@ -1,17 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/13/fe9fdd64/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/13/fe9fdd64/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/12/678285af89def9b1b8e47a31/8513a5/index.m3u8",
+    "线路3": "https://vip6.ljbfbf.com/20230611/Xu9XkrDg/index.m3u8",
+    "线路4": "https://vip5.ddyunbo.com/20230611/RJNfpmlO/index.m3u8"
   },
   "seriesInfo": {
     "id": 198953,
     "IDcode": "ATID-304",
     "title": "被侵犯到堕落的女大学生富田优衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20250615-1/911c2a8e7db63ba66a1bc8f79da62628.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678285af89def9b1b8e47a31/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-304",
     "actresses": []

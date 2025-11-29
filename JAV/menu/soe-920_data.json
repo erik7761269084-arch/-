@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/39ee46c8/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/39ee46c8/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230908/v1NDOd8M/index.m3u8"
   },
   "seriesInfo": {
     "id": 212628,
     "IDcode": "SOE-920",
     "title": "年轻的妻子-倉多まお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

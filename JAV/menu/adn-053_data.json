@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/01/e5f7fbad/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/01/e5f7fbad/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/r2BOeLef/index.m3u8"
   },
   "seriesInfo": {
     "id": 213704,
     "IDcode": "ADN-053",
     "title": "女教師-かすみ果穂",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

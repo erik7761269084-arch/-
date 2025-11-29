@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/28/08d629c3/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/28/08d629c3/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/ddc6a35991f3/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212490,
     "IDcode": "DASD-886",
     "title": "小悪魔逆NTR-冬愛ことね",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "NTR",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/d6bd91c5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/d6bd91c5/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240206/VqFOF5qY/index.m3u8"
   },
   "seriesInfo": {
     "id": 210781,
     "IDcode": "DASD-750",
     "title": "她太美了-木下ひまり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

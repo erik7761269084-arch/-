@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/08/7f77944f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/08/7f77944f/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250204/hV0qgn43/index.m3u8"
   },
   "seriesInfo": {
     "id": 211707,
     "IDcode": "ABP-980",
     "title": "異世界性活-河合あすな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

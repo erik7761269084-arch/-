@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/23/4b2fa7e5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/23/4b2fa7e5/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/PuxumWrY/index.m3u8"
   },
   "seriesInfo": {
     "id": 209730,
     "IDcode": "HBAD-545",
     "title": "父の介護と借金-川嶋せいら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "HIBINO",
     "genres": [],
     "description": "",

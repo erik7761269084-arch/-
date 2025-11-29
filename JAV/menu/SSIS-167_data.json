@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/19/42253a13/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/19/42253a13/index.m3u8",
+    "线路2": "https://video26.bpzy1.com/video/20220516/e5eee6d4296500f07cbdca203a64fb96/index.m3u8"
   },
   "seriesInfo": {
     "id": 79043,
     "IDcode": "SSIS-167",
     "title": "在出差的酒店里-小島みなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [
       "已婚妇女",

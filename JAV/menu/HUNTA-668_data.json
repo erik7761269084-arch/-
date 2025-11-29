@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220811/ww6AWP8o/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/12/29/56666cf9/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/12/29/56666cf9/index.m3u8",
+    "线路3": "https://www.bfbfhao.com/20200712/53oItHaE/index.m3u8"
   },
   "seriesInfo": {
     "id": 164882,
     "IDcode": "HUNTA-668",
     "title": "突如其来的大雨",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

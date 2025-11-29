@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/19/079bdcde/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/19/079bdcde/index.m3u8",
+    "线路2": "https://vip23.newljlj2025.com/20191127/EVbnL7Vw/index.m3u8"
   },
   "seriesInfo": {
     "id": 212896,
     "IDcode": "AQSH-043",
     "title": "新婚妻危険日中出-美甘りか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

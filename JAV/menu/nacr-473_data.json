@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/22/dbc3b1ab/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/22/dbc3b1ab/index.m3u8",
+    "线路2": "https://vip4.lbbf9.com/20241202/nzOqOkUF/index.m3u8"
   },
   "seriesInfo": {
     "id": 214600,
     "IDcode": "NACR-473",
     "title": "発情母-中野七緒",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "PLANETPLUS",
     "genres": [],
     "description": "",

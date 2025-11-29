@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/DZeXAe2n/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/DZeXAe2n/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/08/UE6iRLVbR02/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148529,
     "IDcode": "SIRO-3523",
     "title": "应用业馀第一次AV拍摄34",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250222-1/b786f43493b04b890223f1e3d669c821.jpg",
     "background_img": "",

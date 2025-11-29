@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241225/WQ82mFmT/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241225/WQ82mFmT/index.m3u8",
+    "线路2": "https://vip3.bfbfhao.com/20231024/f0KE8BMN/index.m3u8"
   },
   "seriesInfo": {
     "id": 141785,
     "IDcode": "120421-001",
     "title": "精致的成人疗愈馆两位美女的双重款待朝比奈菜菜菜子",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

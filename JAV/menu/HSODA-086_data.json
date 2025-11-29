@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/bb83ebc5/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/bb83ebc5/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68eb990f52c12b4e684573b5.m3u8"
   },
   "seriesInfo": {
     "id": 175988,
     "IDcode": "HSODA-086",
     "title": "時間停止学級5。時間を止める事が出来る神装置で、好きな時に挿れたり、止めたりし放題。",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "HUNTER",
     "genres": [],
     "description": "",

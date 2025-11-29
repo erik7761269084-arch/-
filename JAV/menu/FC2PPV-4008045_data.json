@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/24/a2a75661/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/24/a2a75661/index.m3u8",
+    "线路2": "https://krevonix.com/20250912/Wyn8zPZN/index.m3u8"
   },
   "seriesInfo": {
     "id": 183057,
     "IDcode": "FC2PPV-4008045",
     "title": "两个来自同一所学校的朋友",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

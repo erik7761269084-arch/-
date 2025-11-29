@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/05/8585a974/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/05/8585a974/index.m3u8",
+    "线路2": "https://krevonix.com/20241019/QAixaX1o/index.m3u8"
   },
   "seriesInfo": {
     "id": 174064,
     "IDcode": "BDA-202",
     "title": "新・全身刺青の女 雫（しずく）",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

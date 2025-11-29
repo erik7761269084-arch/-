@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/16/94571dcf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/16/94571dcf/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/16/1f52691a5100/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211755,
     "IDcode": "BF-608",
     "title": "幼馴染-花音うらら",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/02/16/f81a6f14f959919cc8f3556631364fc6.jpg",

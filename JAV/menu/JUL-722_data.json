@@ -1,21 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/06/8d262779/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/06/8d262779/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250124/niYFZ8k1/index.m3u8"
   },
   "seriesInfo": {
     "id": 79456,
     "IDcode": "JUL-722",
     "title": "母亲已经落入老师手中-長嶋沙央梨",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "戏剧",
       "流汗",
-      "母亲",
-      "乱伦"
+      "戏剧",
+      "已婚妇女",
+      "乱伦",
+      "成熟的女人",
+      "母亲"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/06/d84b9db5867bdb3a5b6372de5cd79103.jpg",

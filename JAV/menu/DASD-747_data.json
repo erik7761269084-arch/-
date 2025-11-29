@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202411/12/wScJhfsy1c1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/11/03/96d8d7d0/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/11/03/96d8d7d0/index.m3u8",
+    "线路3": "https://vip8.3sybf.com/20240209/9MhlxVAC/index.m3u8"
   },
   "seriesInfo": {
     "id": 157966,
     "IDcode": "DASD-747",
     "title": "和叔母同浴-篠田ゆう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

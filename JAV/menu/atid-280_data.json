@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/4cf7b86b/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/4cf7b86b/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202508/21/iDbLkE4rhN2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 212752,
     "IDcode": "ATID-280",
     "title": "后入的囚徒-小西悠",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

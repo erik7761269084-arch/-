@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/02/cc06513b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/02/cc06513b/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231010/nVgIjKcl/index.m3u8"
   },
   "seriesInfo": {
     "id": 209470,
     "IDcode": "NGOD-012",
     "title": "男に寝盗られた妻 菅野さゆき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

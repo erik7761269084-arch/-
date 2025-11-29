@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/EiJOHT4E/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/EiJOHT4E/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/15/zRsVJDr2u52/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148565,
     "IDcode": "SIRO-3587",
     "title": "应用业馀第一次AV拍摄44",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250222-1/e224fba92d45cfae26cbc45ad9f9ffdb.jpg",
     "background_img": "",

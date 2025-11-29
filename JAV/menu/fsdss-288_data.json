@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/23/54754c96/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/23/54754c96/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/XROo1gFP/index.m3u8"
   },
   "seriesInfo": {
     "id": 213520,
     "IDcode": "FSDSS-288",
     "title": "120分钟的课程-夏木りん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

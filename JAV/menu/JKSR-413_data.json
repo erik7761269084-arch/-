@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221005/0eKq5UT6/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221005/0eKq5UT6/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/6906a45171eb543bb0e0aa06.m3u8"
   },
   "seriesInfo": {
     "id": 165779,
     "IDcode": "JKSR-413",
     "title": "なりきりナンパの職業どうでしょうパティシエ編",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "Big Morkal",
     "genres": [
       "中文字幕"

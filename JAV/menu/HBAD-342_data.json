@@ -1,22 +1,24 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/14/77fca164/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/14/77fca164/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f633f0631cc64eb5bca1b1.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20241001/P6PMKr2n/index.m3u8"
   },
   "seriesInfo": {
     "id": 62211,
     "IDcode": "HBAD-342",
     "title": "昭和女1941-倉多まお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "HIBINO",
     "genres": [
-      "新娘，年轻妻子",
-      "戏剧",
-      "凌辱",
-      "企画",
-      "单体作品",
+      "户外",
       "和服，丧服",
-      "户外"
+      "凌辱",
+      "戏剧",
+      "新娘，年轻妻子",
+      "企画",
+      "单体作品"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/11/14/fe399f78faf104a93465e1be9d51f553.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/30/14b4220d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/30/14b4220d/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221019/K005jvuS/index.m3u8"
   },
   "seriesInfo": {
     "id": 211360,
     "IDcode": "RBD-306",
     "title": "被隔壁的男人强奸-西野翔",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/10/2f7dea52/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/10/2f7dea52/index.m3u8",
+    "线路2": "https://v2024.fhbbff.com/20241202/lPT1JKl5/index.m3u8"
   },
   "seriesInfo": {
     "id": 214978,
     "IDcode": "HIMA-096",
     "title": "母子姦通-三谷ちあき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

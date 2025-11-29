@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/06/9e669cda/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/06/9e669cda/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/176eb50a5f69/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213778,
     "IDcode": "EKW-072",
     "title": "快感伝道師-木下ひまり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

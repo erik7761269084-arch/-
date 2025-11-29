@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/OJT3HlIa/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/OJT3HlIa/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221002/s0XAbZEW/index.m3u8"
   },
   "seriesInfo": {
     "id": 143509,
     "IDcode": "123116-338",
     "title": "奇迹发生在除夕梦寐以求的Anoko以Deriheru小姐的身份出现加藤绘麻",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

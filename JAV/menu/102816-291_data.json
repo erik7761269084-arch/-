@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/1tjRqhXg/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/1tjRqhXg/index.m3u8",
+    "线路2": "https://dadi-bo.com/20181215/pjkmDRsA/index.m3u8"
   },
   "seriesInfo": {
     "id": 143306,
@@ -9,7 +10,10 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250206-1/7fc071aef7e6fe273a50101aa204a582.jpg",
     "background_img": "",

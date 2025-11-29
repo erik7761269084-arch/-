@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/ReHLpR4K/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/ReHLpR4K/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/3facfa73f32c/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154651,
     "IDcode": "TAT-036",
     "title": "捷径美少女和奇闻趣事HAi",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

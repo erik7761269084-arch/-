@@ -2,14 +2,15 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/6738ec6a238a4e1c37eba768.m3u8",
     "线路2": "https://t27.cdn2020.com/video/m3u8/2020/12/04/a2a33396/index.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/6738ec6a238a4e1c37eba768.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/6738ec6a238a4e1c37eba768.m3u8",
+    "线路4": "https://jkunnzyx.com/20230303/94707acP/index.m3u8"
   },
   "seriesInfo": {
     "id": 171687,
     "IDcode": "FSDSS-122",
     "title": "瞬间满足感-天使もえ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/18/5c011780/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/18/5c011780/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231112/tVZ89Xnj/index.m3u8"
   },
   "seriesInfo": {
     "id": 210036,
     "IDcode": "VENU-950",
     "title": "母と息子 吉根ゆりあ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

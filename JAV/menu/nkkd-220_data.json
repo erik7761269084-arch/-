@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/35e91262/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/35e91262/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241201/oyROH6xA/index.m3u8"
   },
   "seriesInfo": {
     "id": 213878,
     "IDcode": "NKKD-220",
     "title": "乡村生活梦想-夕季ちとせ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

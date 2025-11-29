@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202503/06/GgDUCnB0Ag2/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202503/06/GgDUCnB0Ag2/video/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202409/21/gCPTTSXAMr1/video/index.m3u8",
+    "线路3": "https://bf3.qrtuv.com/smv1/202409/21/b35MjPjQrQ1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 155218,
     "IDcode": "BT-101",
     "title": "日本制服恍惚菊原圓-菊原まどか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

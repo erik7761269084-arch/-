@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/02/49534c29/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/02/49534c29/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241129/xwJnUDpz/index.m3u8"
   },
   "seriesInfo": {
     "id": 213157,
     "IDcode": "RCT-481",
     "title": "羞恥宴会",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

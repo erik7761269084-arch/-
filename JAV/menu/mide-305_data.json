@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/07/8974ce23/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/07/8974ce23/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191031/yXwCt5qZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 209535,
     "IDcode": "MIDE-305",
     "title": "家庭教師 伊東ちなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

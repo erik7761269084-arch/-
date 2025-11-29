@@ -2,24 +2,25 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/67397d9d94b74ce103367549.m3u8",
     "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/08/76107a8f/index.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/67397d9d94b74ce103367549.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/67397d9d94b74ce103367549.m3u8",
+    "线路4": "https://v2024.ddcdnbf.com/20241204/8SuiPOZ8/index.m3u8"
   },
   "seriesInfo": {
     "id": 18638,
     "IDcode": "IPX-673",
     "title": "純心美女-楓カレン 辻かのん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
-      "女優",
-      "中出",
-      "街頭福利",
-      "口交",
+      "女優訪談",
       "美少女電影",
-      "企畫",
       "獵豔",
-      "女優訪談"
+      "中出",
+      "口交",
+      "企畫",
+      "街頭福利",
+      "女優"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/08/08/e8184a14b80c493e0353bc356af2138d.jpg",

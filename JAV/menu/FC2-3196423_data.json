@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/16/bcd1be08/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/16/bcd1be08/index.m3u8",
+    "线路2": "https://vostrely.com/20230515/xmCytwpE/index.m3u8"
   },
   "seriesInfo": {
     "id": 114623,
     "IDcode": "FC2-3196423",
     "title": "拿了性爱视频作为抵押",
     "publish_date": "2025-09-16",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250106/948OwEtE/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250106/948OwEtE/index.m3u8",
+    "线路2": "https://2.ddyunbo.com/20200419/m2HSL2yk/index.m3u8"
   },
   "seriesInfo": {
     "id": 152604,
     "IDcode": "H0930-KI191208",
     "title": "江澄美穗27岁",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250309-1/4daf927080167ea47532554ff0b5244b.jpg",
     "background_img": "",

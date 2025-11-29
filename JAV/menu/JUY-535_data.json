@@ -1,21 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/02/30bb5685/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/02/30bb5685/index.m3u8",
+    "线路2": "https://vip23.newljlj2025.com/20190928/NHkQoo7I/index.m3u8"
   },
   "seriesInfo": {
     "id": 107734,
     "IDcode": "JUY-535",
     "title": "夫の遺影の前-水川スミレ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "数位马赛克",
       "寡妇",
+      "数位马赛克",
+      "已婚妇女",
       "羞耻",
-      "乳房"
+      "乳房",
+      "成熟的女人"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2019/08/02/QQ20190802191617cd142.jpg",

@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250102/vVjNW7ZV/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250102/vVjNW7ZV/index.m3u8",
+    "线路2": "https://vostrely.com/20230315/BexVd7sG/index.m3u8"
   },
   "seriesInfo": {
     "id": 150027,
     "IDcode": "H4610-ORI1810",
     "title": "长渊由美子年龄24",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250227-1/60b51dee2646e68bb388a3e5bd5be433.jpg",
     "background_img": "",

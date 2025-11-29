@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/04/54c2b5a2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/04/54c2b5a2/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/25/b4e6d33ee3ca/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211108,
     "IDcode": "FSDSS-121",
     "title": "家庭訪問-吉高寧々",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

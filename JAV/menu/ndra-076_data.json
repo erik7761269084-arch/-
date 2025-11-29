@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/19/4a6d34cd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/19/4a6d34cd/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/18/f9119112e06c/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209681,
     "IDcode": "NDRA-076",
     "title": "内緒で彼女の母-瞳リョウ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "JET映像",
     "genres": [],
     "description": "",

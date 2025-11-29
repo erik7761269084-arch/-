@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/UVnN3XpX/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/UVnN3XpX/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220810/aVAKP6VS/index.m3u8"
   },
   "seriesInfo": {
     "id": 142393,
     "IDcode": "111419-001",
     "title": "Manko画报月城诗叶月城诗叶",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/29bda18b/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/29bda18b/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251009/O9utneF1/index.m3u8",
+    "线路3": "https://v202509.fhbbff.com/20251012/XZeRdmUn/index.m3u8"
   },
   "seriesInfo": {
     "id": 180647,
     "IDcode": "ARSO-24188",
     "title": "舞ワイフ ～セレブ倶楽部～ 188",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "AROUND",
     "genres": [],
     "description": "",

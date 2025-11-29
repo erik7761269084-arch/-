@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241225/bXWZGn4H/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241225/bXWZGn4H/index.m3u8",
+    "线路2": "https://vip4.ddyunbo.com/20210626/Tv7zBxfS/index.m3u8",
+    "线路3": "https://bf3.qrtuv.com/202406/04/ZPB9bz2fg61/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 141735,
     "IDcode": "111320-001",
     "title": "精致的成人疗愈亭请把它放在滑溜溜的无毛猫的后面NozomiNakase",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

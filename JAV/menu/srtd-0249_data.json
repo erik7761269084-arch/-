@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/02/1e2b798b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/02/1e2b798b/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20220810/eVtZJD0p/index.m3u8"
   },
   "seriesInfo": {
     "id": 214216,
     "IDcode": "SRTD-0249",
     "title": "厌倦了与男友的性生活",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

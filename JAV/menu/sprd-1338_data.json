@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/9879d6bf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/9879d6bf/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/23/9649956dfeb3/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210855,
     "IDcode": "SPRD-1338",
     "title": "我睡在岳阳身边-近藤郁",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

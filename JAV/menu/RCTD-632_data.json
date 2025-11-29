@@ -1,17 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/06ec2b82/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/06ec2b82/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250920/wPI2arNi/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68acb0d35f03a092cf746e12.m3u8",
+    "线路4": "https://v5.lbv325627.com/20250926/B8K0A4va/index.m3u8"
   },
   "seriesInfo": {
     "id": 180225,
     "IDcode": "RCTD-632",
     "title": "TSF世界改変 電車編",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROCKET",
     "genres": [],
     "description": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/06ec2b82/vod.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/26/68acb0d35f03a092cf746e12/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-632",
     "actresses": []

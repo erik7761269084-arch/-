@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/80e9ee43/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/80e9ee43/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/26/681ff794b6c3/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212749,
     "IDcode": "MIRD-185",
     "title": "卒業旅行中の女子大生6人組",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

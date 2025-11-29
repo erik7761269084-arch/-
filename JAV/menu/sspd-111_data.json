@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/10eab216/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/10eab216/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20220403/y1amRzaV/index.m3u8"
   },
   "seriesInfo": {
     "id": 211143,
     "IDcode": "SSPD-111",
     "title": "昭和姦獄-西野翔",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

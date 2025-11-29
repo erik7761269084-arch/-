@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/AQ0YGjEj/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/AQ0YGjEj/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/15/Ji1gL47Pa92/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148549,
     "IDcode": "SIRO-3553",
     "title": "应用业馀第一次AV拍摄49",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250222-1/3fe29331e699d76d57ddbe470be01ba4.jpg",
     "background_img": "",

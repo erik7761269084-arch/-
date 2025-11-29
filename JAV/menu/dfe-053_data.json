@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/16/72d07b50/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/16/72d07b50/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/29/96dcaffb41f4/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212843,
     "IDcode": "DFE-053",
     "title": "酒馆的天才-逢見リカ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WAAP GROUP",
     "genres": [],
     "description": "",

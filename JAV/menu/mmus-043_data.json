@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/09/298b2288/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/09/298b2288/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/17/2ce746e9fbd0/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209908,
     "IDcode": "MMUS-043",
     "title": "小悪魔挑発美少女 吉良りん",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "MARRION",
     "genres": [],
     "description": "",

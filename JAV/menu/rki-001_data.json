@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/05/11/ca4f4363/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/05/11/ca4f4363/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68d84c74d6fbef4e90cd20ed.m3u8"
   },
   "seriesInfo": {
     "id": 206240,
     "IDcode": "RKI-001",
     "title": "变态家族母女双双被凌辱",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROOKIE",
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20240512-1/796ca589285c72185d59225b28ef50e9.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d84c74d6fbef4e90cd20ed/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-001",
     "actresses": []

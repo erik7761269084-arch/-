@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/14971d83/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/14971d83/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/11/i47U6Sm3ff2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 211136,
     "IDcode": "RBD-374",
     "title": "義妹性感帯-愛葉みう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

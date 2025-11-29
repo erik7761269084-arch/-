@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/31/4bbb9700/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/31/4bbb9700/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20240224/FqMnhV0u/index.m3u8"
   },
   "seriesInfo": {
     "id": 213102,
     "IDcode": "EBOD-774",
     "title": "性感的女演员-凛音とうか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "E-BODY",
     "genres": [],
     "description": "",

@@ -2,14 +2,17 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/6738f631f514c41c435e4ec0.m3u8",
     "线路2": "https://t27.cdn2020.com/video/m3u8/2020/10/11/0ab621b0/index.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/6738f631f514c41c435e4ec0.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/6738f631f514c41c435e4ec0.m3u8",
+    "线路4": "https://lsbbf2.com/20231004/YbF2tesG/index.m3u8",
+    "线路5": "https://v.ddoucdn.com/20241227/iIYzqvxz/index.m3u8",
+    "线路6": "https://jkunnzyx.com/20250707/iggCGq4V/index.m3u8"
   },
   "seriesInfo": {
     "id": 171904,
     "IDcode": "ATID-440",
     "title": "被一个男人侵犯了多次-岬ななみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

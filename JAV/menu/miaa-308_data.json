@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/12/58d8fa77/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/12/58d8fa77/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230228/UX4y84z7/index.m3u8"
   },
   "seriesInfo": {
     "id": 210219,
     "IDcode": "MIAA-308",
     "title": "超高級中出-久留木玲",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

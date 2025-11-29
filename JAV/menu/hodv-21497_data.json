@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/05/09/5a02e3b0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/05/09/5a02e3b0/index.m3u8",
+    "线路2": "https://v.ddoucdn.com/20240906/OOZMI4mT/index.m3u8"
   },
   "seriesInfo": {
     "id": 212042,
     "IDcode": "HODV-21497",
     "title": "童年朋友-弥生みづき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "H.M.P 芳友舍",
     "genres": [],
     "description": "",

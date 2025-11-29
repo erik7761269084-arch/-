@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/e42e4964/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/e42e4964/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/16/vZm1ZPDWx82/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210411,
     "IDcode": "DASD-725",
     "title": "喜欢阳光的爱人-佐藤エル",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

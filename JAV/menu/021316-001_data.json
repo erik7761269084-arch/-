@@ -7,9 +7,11 @@
     "IDcode": "021316-001",
     "title": "猫图画书YuaArigaYuaAriga",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250202-1/a2f93e1bd75c4758c82d7259b683254d.jpg",
     "background_img": "",

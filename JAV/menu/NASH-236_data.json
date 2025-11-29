@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220817/5hOp5jv1/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/01/13/fa2f264f/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/01/13/fa2f264f/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20220817/1dd6kVGX/index.m3u8"
   },
   "seriesInfo": {
     "id": 165141,
     "IDcode": "NASH-236",
     "title": "身体的道歉",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

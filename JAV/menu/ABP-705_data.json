@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/04/85962ed7/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/04/85962ed7/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/11/67818d3b8a48711d81b7f8b8/2d0cf5/index.m3u8"
   },
   "seriesInfo": {
     "id": 208708,
     "IDcode": "ABP-705",
     "title": "誘惑ヤリたがり娘-黒川サリナ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

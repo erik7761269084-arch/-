@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/01/e22988e9/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/01/e22988e9/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202508/30/58ZHCQbD632/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 212531,
     "IDcode": "GVG-180",
     "title": "禁断介護-水樹りさ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

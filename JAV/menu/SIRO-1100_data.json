@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/1ncTOt3z/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/1ncTOt3z/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/rx86WY1pfz2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150353,
     "IDcode": "SIRO-1100",
     "title": "素人AV体验拍摄404",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "素人"

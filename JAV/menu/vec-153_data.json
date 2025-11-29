@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/10/958418c5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/10/958418c5/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202508/07/73c6b6196e05/playlist.m3u8",
+    "线路3": "https://vip8.3sybf.com/20230128/7SBdIU6K/index.m3u8",
+    "线路4": "https://vip4.ddyunbo.com/20240528/EcfW2NpZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 209549,
     "IDcode": "VEC-153",
     "title": "大失禁-波多野結衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [],
     "description": "",

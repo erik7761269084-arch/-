@@ -1,22 +1,25 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/26/457e41a0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/26/457e41a0/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/03/6907a372e264e6282dfcb7ca/6659ef/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/06/677c29e4f9a2e9b1d45ba4bb/gc792b/index.m3u8",
+    "线路4": "https://v3-2.lbv3lb2025.com/20230914/4IDMaP8g/index.m3u8"
   },
   "seriesInfo": {
     "id": 98811,
     "IDcode": "RCTD-310",
     "title": "新女同战斗-小西まりえ 神楽アイネ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROCKET",
     "genres": [
-      "女同",
-      "高中女生",
       "戏剧",
+      "高中女生",
+      "女同",
       "女同性恋"
     ],
     "description": "",
-    "cover_url": "https://tutu1.space/images/2022/11/26/bc7e6f0e8de69b7e0dffbc23d203796f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/06/677c29e4f9a2e9b1d45ba4bb/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-310",
     "actresses": [

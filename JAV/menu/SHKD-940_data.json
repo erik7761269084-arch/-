@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202409/25/r6LFDYya9n1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202409/25/r6LFDYya9n1/video/index.m3u8",
+    "线路2": "https://vip3.bfbfhao.com/20231109/kUttljKd/index.m3u8"
   },
   "seriesInfo": {
     "id": 155946,
     "IDcode": "SHKD-940",
     "title": "只要有我在就别想对我妹妹出手",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

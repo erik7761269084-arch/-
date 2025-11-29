@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/21/ceb10904/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/21/ceb10904/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/DNlBXRdO/index.m3u8"
   },
   "seriesInfo": {
     "id": 210055,
     "IDcode": "NKKD-173",
     "title": "和女上司在同一客房-春菜はな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

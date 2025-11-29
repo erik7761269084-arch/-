@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/4z02DmtW/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/4z02DmtW/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/2f2Bbzpn/index.m3u8"
   },
   "seriesInfo": {
     "id": 143470,
     "IDcode": "122516-332",
     "title": "炸药爱本美纪爱本美纪",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

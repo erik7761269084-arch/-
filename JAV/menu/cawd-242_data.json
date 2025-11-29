@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/05/ab00401b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/05/ab00401b/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/RypweYbf/index.m3u8"
   },
   "seriesInfo": {
     "id": 212177,
     "IDcode": "CAWD-242",
     "title": "絶対領域 橘ひなの",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

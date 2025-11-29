@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/01/12e927f6/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/01/12e927f6/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230228/r8N7d1Tk/index.m3u8"
   },
   "seriesInfo": {
     "id": 211634,
     "IDcode": "JUL-295",
     "title": "火辣的已婚女人-三岳ゆうな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

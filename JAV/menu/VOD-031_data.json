@@ -1,24 +1,27 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/09/05/6bab2e78/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/09/05/6bab2e78/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241219/Jte6VOoW/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68dbd798ce5a404e9bc165df.m3u8",
+    "线路4": "https://yutubf.lsbbf3.com/20241219/Jte6VOoW/index.m3u8"
   },
   "seriesInfo": {
     "id": 96237,
     "IDcode": "VOD-031",
     "title": "和川上优假装成恋人那样",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [
       "已婚妇女",
-      "成熟的女人",
-      "中出",
-      "口交",
       "纪录片",
+      "中出",
+      "成熟的女人",
+      "口交",
       "单体作品"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20240921-3/8c185db625817065e8c8ad82ce56a1da.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbd798ce5a404e9bc165df/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-031",
     "actresses": [

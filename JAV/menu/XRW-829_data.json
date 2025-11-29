@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221212/M8GmEAhX/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221212/M8GmEAhX/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220430/vxyys8h8/index.m3u8"
   },
   "seriesInfo": {
     "id": 166396,
     "IDcode": "XRW-829",
     "title": "人懐っこくて妹みたいなキャラな彼女をアクメ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

@@ -1,18 +1,20 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/673c85179db76f8179623ee6.m3u8",
-    "线路2": "https://m3u8.cdn2025.life/movie/auto/673c85179db76f8179623ee6.m3u8"
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/673c85179db76f8179623ee6.m3u8",
+    "线路3": "https://t33.cdn2020.com/video/m3u8/2025/11/12/e681aece/index.m3u8",
+    "线路4": "https://jkunnzyx.com/20230512/Ye9XMpkj/index.m3u8"
   },
   "seriesInfo": {
     "id": 171384,
     "IDcode": "SSNI-985",
     "title": "七森莉莉的白金泡泡浴 七森莉莉",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20250715-3/5b620d5ac523509216fb2cac5d96428c.webp",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/12/e681aece/vod.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-985",
     "actresses": [

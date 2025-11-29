@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/tWiMpEcd/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/tWiMpEcd/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/3463b7a7ea5d/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154604,
     "IDcode": "OSW-008",
     "title": "奇闻趣事HMako与健康丰满的女儿",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SWITCH",
     "genres": [
       "乱伦"

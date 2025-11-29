@@ -1,16 +1,19 @@
 {
   "episodes": {
     "主线路": "https://thm3u8.vip/20250107/BNlCKrcA/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/11/15/3b2ae9fb/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/11/15/3b2ae9fb/index.m3u8",
+    "线路3": "https://video6.bpzy1.com/video/20211117/035a5c53049a31613865bd8f27ae9680/index.m3u8"
   },
   "seriesInfo": {
     "id": 147960,
     "IDcode": "SIRO-4640",
     "title": "柔软美丽的乳房",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/11/15/331df81909d142c15de31da559286fe4.jpg",
     "background_img": "",

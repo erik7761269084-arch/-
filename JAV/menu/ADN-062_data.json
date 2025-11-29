@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/774892a8/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/774892a8/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191112/meaFPTzi/index.m3u8"
   },
   "seriesInfo": {
     "id": 61082,
     "IDcode": "ADN-062",
     "title": "官能小説-浅野えみ",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "已婚妇女",

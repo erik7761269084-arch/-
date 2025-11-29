@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/SmKECLbD/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/SmKECLbD/index.m3u8",
+    "线路2": "https://vip23.newljlj2025.com/20200107/Fwc880Tb/index.m3u8",
+    "线路3": "https://vip4.ddyunbo.com/20210626/l52QrT7W/index.m3u8",
+    "线路4": "https://bf3.qrtuv.com/202406/04/E2ZYffb1051/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 142390,
     "IDcode": "111519-001",
     "title": "我不会让你这么做的我无法阻止剑的不平",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

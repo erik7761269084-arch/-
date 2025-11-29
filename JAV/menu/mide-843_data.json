@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/11/df238197/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/11/df238197/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/29/b61ce6ae51f5/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211191,
     "IDcode": "MIDE-843",
     "title": "男潮吹-神宮寺ナオ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

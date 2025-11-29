@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/30/0f99228f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/30/0f99228f/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200714/ZHBNqFdr/index.m3u8"
   },
   "seriesInfo": {
     "id": 209785,
     "IDcode": "MRSS-072",
     "title": "社員旅行-倉多まお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

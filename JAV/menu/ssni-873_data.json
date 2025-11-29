@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/14ff051f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/14ff051f/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/23/c3d49da89571/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210408,
     "IDcode": "SSNI-873",
     "title": "絶倫上司に美人OL-吉岡ひより",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/Juhq0MNj/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/Juhq0MNj/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/10/a7cb39641b83/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154436,
     "IDcode": "IF-002-03",
     "title": "如果你被告知你可以自由使用受欢迎的演员克莱尔",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

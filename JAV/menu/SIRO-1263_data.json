@@ -7,9 +7,11 @@
     "IDcode": "SIRO-1263",
     "title": "业馀个人摄影和发文248",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/f7cc6580b5aade1cb440d92109c3f074.jpg",
     "background_img": "",

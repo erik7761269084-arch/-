@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/31/eaea9dcf/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/31/eaea9dcf/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220906/5c7Nx2Ed/index.m3u8"
   },
   "seriesInfo": {
     "id": 174438,
     "IDcode": "IPTD-500",
     "title": "第一映像-天海翼",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

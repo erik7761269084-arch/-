@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221231/E9meAZdA/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221231/E9meAZdA/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20220709/Te6fNQCv/index.m3u8"
   },
   "seriesInfo": {
     "id": 166591,
     "IDcode": "DASD-384",
     "title": "看人幹砲肏給我看",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

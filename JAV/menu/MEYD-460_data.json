@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/26/6cbb0126/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/26/6cbb0126/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/Ul3RmYbw/index.m3u8"
   },
   "seriesInfo": {
     "id": 175864,
     "IDcode": "MEYD-460",
     "title": "在銀座传说的超高級中出泡泡-松永纱奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "溜池",
     "genres": [],
     "description": "",

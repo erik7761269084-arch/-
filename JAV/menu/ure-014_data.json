@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/09/592f7359/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/09/592f7359/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231116/vhauOirJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 184528,
     "IDcode": "URE-014",
     "title": "经典漫改我和儿子的母猪私通复仇剧",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MADONNA",
     "genres": [
       "乱伦"

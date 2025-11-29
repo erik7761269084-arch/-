@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/21/9413384f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/21/9413384f/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f85e89dbf24d4ed3428886.m3u8"
   },
   "seriesInfo": {
     "id": 176292,
     "IDcode": "MIST-487",
     "title": "危険日直撃！！子作りできるソープランド60 天月あず",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "Mr.Michiru",
     "genres": [],
     "description": "",

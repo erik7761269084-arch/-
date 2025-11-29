@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/06/95308879/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/06/95308879/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20241028/nfu1HzRB/index.m3u8"
   },
   "seriesInfo": {
     "id": 209119,
     "IDcode": "WANZ-754",
     "title": "我慢できれば生中出し-鈴木心春",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

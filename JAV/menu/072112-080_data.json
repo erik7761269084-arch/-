@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/QWY2S4Ev/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/QWY2S4Ev/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220810/2Tpmlx6Q/index.m3u8"
   },
   "seriesInfo": {
     "id": 143019,
@@ -9,7 +10,10 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250205-1/76e30ae2f2d6678949f20945c2611fa9.jpg",
     "background_img": "",

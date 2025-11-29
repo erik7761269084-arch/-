@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/04/d103f7cc/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/04/d103f7cc/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250127/P8rrvvsl/index.m3u8"
   },
   "seriesInfo": {
     "id": 173943,
     "IDcode": "ADN-296",
     "title": "和憧憬的女上司每晚加班到深夜-筱田优",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

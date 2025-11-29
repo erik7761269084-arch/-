@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/b0724d56/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/b0724d56/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/KotW9lHS/index.m3u8"
   },
   "seriesInfo": {
     "id": 213724,
     "IDcode": "ADN-066",
     "title": "马特里的女人-かすみ果穂",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

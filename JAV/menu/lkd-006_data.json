@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/10/ea5baac3/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/10/ea5baac3/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241202/pE9TCBTU/index.m3u8"
   },
   "seriesInfo": {
     "id": 214983,
     "IDcode": "LKD-006",
     "title": "舔得最多的-川田みはる",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

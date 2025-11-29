@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/16/f936fd08/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/16/f936fd08/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/17/3abd44ba6508/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209999,
     "IDcode": "PRED-249",
     "title": "性感開発-三咲美憂",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "PREMIUM",
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/08/16/a0cf022bfabb0ad43c38a473db6737c8.jpg",
     "background_img": "",

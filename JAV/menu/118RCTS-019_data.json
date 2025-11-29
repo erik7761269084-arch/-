@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/24/087748c7/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/24/087748c7/index.m3u8",
+    "线路2": "https://vip3.bfbfhao.com/20231209/3ca0TgTB/index.m3u8"
   },
   "seriesInfo": {
     "id": 196782,
     "IDcode": "118RCTS-019",
     "title": "被诅咒的肌肤罪恶堕落超悪女戴假面篇-逢见梨花 凉花胡桃",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

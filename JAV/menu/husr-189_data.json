@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/05/c15dc6de/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220810/LzvQLC0U/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/11/05/c15dc6de/index.m3u8"
   },
   "seriesInfo": {
     "id": 214269,
     "IDcode": "HUSR-189",
     "title": "東欧美魔女",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/09/04/e0915ab2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/09/04/e0915ab2/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221113/tNMe5mao/index.m3u8"
   },
   "seriesInfo": {
     "id": 208979,
     "IDcode": "SNIS-166",
     "title": "秘密捜査官の女-宇都宮しをん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

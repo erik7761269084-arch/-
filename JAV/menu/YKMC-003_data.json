@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20221110/oRDIxfnx/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20221110/oRDIxfnx/index.m3u8",
+    "线路2": "https://2.ddyunbo.com/20200601/Z000UVo5/index.m3u8"
   },
   "seriesInfo": {
     "id": 82194,
     "IDcode": "YKMC-003",
     "title": "ゆいか/なお",
     "publish_date": "2020-03-27",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "已婚妇女",
       "女大学生",
-      "女生",
+      "已婚妇女",
+      "美少女电影",
       "鸭嘴",
-      "美少女电影"
+      "女生"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221110-1/bd82ded77cfa175d73f5096ee56325d2.jpg",

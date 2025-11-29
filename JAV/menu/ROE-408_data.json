@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/5a9a791a/index.m3u8",
-    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/23/a34ccd50/index.m3u8"
+    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/23/a34ccd50/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68ed1f4452c12b4e6848c43f.m3u8"
   },
   "seriesInfo": {
     "id": 175236,
     "IDcode": "ROE-408",
     "title": "一边见证女儿的幸福在婚礼上被女儿女婿强奸的母亲-桐冈五月",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MADONNA",
     "genres": [
       "乱伦"

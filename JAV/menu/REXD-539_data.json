@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/542170bb/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/542170bb/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251012/jS6Fxtfu/index.m3u8",
+    "线路3": "https://yutubf.lsbbf3.com/20251012/jS6Fxtfu/index.m3u8"
   },
   "seriesInfo": {
     "id": 175926,
     "IDcode": "REXD-539",
     "title": "挿入伝説 勝負師（ギャンブラー）えま 千鶴えま",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

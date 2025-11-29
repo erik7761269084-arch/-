@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/23a5ded3/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/23a5ded3/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/QJ5WrOnc/index.m3u8"
   },
   "seriesInfo": {
     "id": 212335,
     "IDcode": "JUL-639",
     "title": "女上司-風間ゆみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

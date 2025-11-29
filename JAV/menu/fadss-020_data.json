@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/29/8ba88d5a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/29/8ba88d5a/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/5InAoQNT/index.m3u8"
   },
   "seriesInfo": {
     "id": 209453,
     "IDcode": "FADSS-020",
     "title": "喉ハメエクスタシー 春風ひかる",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

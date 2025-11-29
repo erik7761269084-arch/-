@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/1cKLg8Mk/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/1cKLg8Mk/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/KMyp1ayUke2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150378,
     "IDcode": "SIRO-1128",
     "title": "业馀个人摄影和发文185",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250228-1/6f5877089c92466c4283b595e541d961.jpg",
     "background_img": "",

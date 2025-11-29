@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/04/28a7e93c/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/04/28a7e93c/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191121/zfCVwsu1/index.m3u8"
   },
   "seriesInfo": {
     "id": 103086,
     "IDcode": "RCTD-224",
     "title": "头像镜",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROCKET",
     "genres": [
-      "调教",
-      "戏剧",
       "妄想",
+      "戏剧",
+      "调教",
       "恋物癖",
       "女同性恋"
     ],

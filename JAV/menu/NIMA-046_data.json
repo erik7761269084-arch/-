@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/03/6009eb09/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/03/6009eb09/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250908/tWPznrwq/index.m3u8",
+    "线路3": "https://v8.lj20250710new.com/20250913/mEGx3ts6/index.m3u8",
+    "线路4": "https://vostrely.com/20250219/PZiNE0lR/index.m3u8"
   },
   "seriesInfo": {
     "id": 185150,
     "IDcode": "NIMA-046",
     "title": "実写版！パパとママがいない間に… 天月あず",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FITCH",
     "genres": [],
     "description": "",

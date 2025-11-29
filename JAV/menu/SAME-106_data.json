@@ -1,23 +1,26 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/06/04/d2140e73/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/06/04/d2140e73/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/15/6787adb92a47ebb1a8b497c8/7d5aa1/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68d99b01ce5a404e9bbbaffa.m3u8",
+    "线路4": "https://krevonix.com/20240509/JxbAsRt8/index.m3u8"
   },
   "seriesInfo": {
     "id": 104895,
     "IDcode": "SAME-106",
     "title": "新婚的静香老师-五芭",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "已婚妇女",
-      "女教师",
-      "白天出轨",
       "凌辱",
+      "已婚妇女",
+      "白天出轨",
+      "女教师",
       "单体作品"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20240609-1/d40dc4fed17f6e751dfcd67141cb928f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787adb92a47ebb1a8b497c8/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-106",
     "actresses": [

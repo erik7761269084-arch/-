@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/bd7b7553/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/29/bd7b7553/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f1c35752c12b4e68502263.m3u8"
   },
   "seriesInfo": {
     "id": 175139,
     "IDcode": "RCTD-694",
     "title": "妄想アイテム究極進化シリーズ 真・時間が止まる腕時計パート30 レストランでSEXマネキンチャレンジ編",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROCKET",
     "genres": [],
     "description": "",

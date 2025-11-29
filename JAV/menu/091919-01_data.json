@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/441ac606/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/441ac606/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/13/6784092e8a48711d81b820a7/eb98b0/index.m3u8",
+    "线路3": "https://vip2.newljlj.com/20241027/BWdR2yuC/index.m3u8"
   },
   "seriesInfo": {
     "id": 35568,
@@ -10,10 +12,11 @@
     "type": "无码",
     "company": null,
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20250703-1/d6b35c575350a96b62e07e6e25b303b4.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/30/441ac606/vod.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=091919-01",
     "actresses": []

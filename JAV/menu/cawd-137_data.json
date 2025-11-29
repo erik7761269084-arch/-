@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/3f969628/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/3f969628/index.m3u8",
+    "线路2": "https://video43.bpzy1.com/video/20230103/e808d388584751636e11c63c649e9ce6/index.m3u8"
   },
   "seriesInfo": {
     "id": 210775,
     "IDcode": "CAWD-137",
     "title": "天真爛漫-石原希望",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/d5b10a13/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/d5b10a13/index.m3u8",
+    "线路2": "https://vip7.3sybf.com/20220523/lMjJUHUl/index.m3u8"
   },
   "seriesInfo": {
     "id": 213716,
     "IDcode": "NKD-002",
     "title": "百戦錬磨",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

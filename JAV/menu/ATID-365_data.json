@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/11/1eadd457/index.m3u8",
-    "线路2": "https://v1.1bbffvip.com/20220810/ilf4O9Qv/index.m3u8"
+    "线路2": "https://v1.1bbffvip.com/20220810/ilf4O9Qv/index.m3u8",
+    "线路3": "https://lsbbf5.com/20241216/tPHEeCe9/index.m3u8"
   },
   "seriesInfo": {
     "id": 74747,
     "IDcode": "ATID-365",
     "title": "女子大生-高梨ゆあ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "女大学生"

@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/28/27bc4d0b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/28/27bc4d0b/index.m3u8",
+    "线路2": "https://vostrely.com/20250216/2qn5Ibk1/index.m3u8"
   },
   "seriesInfo": {
     "id": 100354,
     "IDcode": "MIMK-079",
     "title": "安静的书友-七沢みあ",
     "publish_date": "",
-    "type": "有码",
-    "company": "MOODYZ",
+    "type": null,
+    "company": "DEEP'S",
     "genres": [
-      "高中女生",
       "戏剧",
-      "美少女电影"
+      "美少女电影",
+      "高中女生"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/12/28/647f80ba32f437a13e584d95f98f27bf.jpg",

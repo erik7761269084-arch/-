@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/19/88a76f2c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/19/88a76f2c/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250131/KS4qhjwX/index.m3u8"
   },
   "seriesInfo": {
     "id": 210293,
     "IDcode": "WANZ-982",
     "title": "爱情旅馆里互换男友-AIKA 七海ひな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/nu8VD5sN/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/nu8VD5sN/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/15/A5g0nhERb72/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148038,
     "IDcode": "SIRO-3370",
     "title": "第一枪网络AV应用AV体验拍摄596",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250220-1/3480b7c6e9a81602dd48a5b6b8edc171.jpg",
     "background_img": "",

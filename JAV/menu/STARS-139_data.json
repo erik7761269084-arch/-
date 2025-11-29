@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221113/YI7epxdS/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221113/YI7epxdS/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220430/JHZUB8KY/index.m3u8"
   },
   "seriesInfo": {
     "id": 166259,
     "IDcode": "STARS-139",
     "title": "竹田ゆめ アニオタの兄（巨根ニート）",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "中文字幕"

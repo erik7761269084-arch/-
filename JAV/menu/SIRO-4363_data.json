@@ -1,16 +1,19 @@
 {
   "episodes": {
     "主线路": "https://thm3u8.vip/20250107/jpi2Xn8U/index.m3u8",
-    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/22/49491f4b/index.m3u8"
+    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/22/49491f4b/index.m3u8",
+    "线路3": "https://bf4.qrtuv.com/202509/20/gtDAG7d9JM2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 146919,
     "IDcode": "SIRO-4363",
     "title": "认生但是好奇心旺盛的童颜大学生",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/21/1385d57cbfdfbdc76abc5a20c6a564a1.jpg",
     "background_img": "",

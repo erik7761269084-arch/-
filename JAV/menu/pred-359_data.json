@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/01/20fb7c51/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/01/20fb7c51/index.m3u8",
+    "线路2": "https://vip4.lbbf9.com/20241202/UWrBlAWd/index.m3u8"
   },
   "seriesInfo": {
     "id": 214783,
     "IDcode": "PRED-359",
     "title": "她在我身上的气味-月乃ルナ",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "PREMIUM",
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/12/01/5e90b8b930132bb0acdad830fbe85aef.jpg",
     "background_img": "",

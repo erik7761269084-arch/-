@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/xQHj2hBw/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/xQHj2hBw/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/0d7411d928b8/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154415,
     "IDcode": "HTR-010",
     "title": "奇闻趣事在家里和她一起拿著相机HYuuri",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

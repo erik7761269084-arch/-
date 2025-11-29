@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/21/cac4bb1c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/21/cac4bb1c/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/23/06eecd43434e/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210649,
     "IDcode": "SSPD-163",
     "title": "欲求不満人妻-初音みのり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "人妻"

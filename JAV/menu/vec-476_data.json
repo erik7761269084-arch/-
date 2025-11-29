@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/15/7b6e8391/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/15/7b6e8391/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/26/33af09480994/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212824,
     "IDcode": "VEC-476",
     "title": "母の親友-衣吹かのん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [],
     "description": "",

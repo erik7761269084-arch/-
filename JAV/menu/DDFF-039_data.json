@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/24/76a7de19/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/24/76a7de19/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251007/X6OYTsmJ/index.m3u8",
+    "线路3": "https://v202509.fhbbff.com/20251010/eDEDdgyN/index.m3u8",
+    "线路4": "https://vostrely.com/20241219/JLoYzF5F/index.m3u8"
   },
   "seriesInfo": {
     "id": 181529,
     "IDcode": "DDFF-039",
     "title": "喉姦面接 祈山愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

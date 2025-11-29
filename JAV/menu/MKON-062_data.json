@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/b2ec7794/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/b2ec7794/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241130/BYtWYrkV/index.m3u8"
   },
   "seriesInfo": {
     "id": 213719,
     "IDcode": "MKON-062",
     "title": "童年的朋友即将与她的男朋友发生关系",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

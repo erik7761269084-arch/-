@@ -1,19 +1,21 @@
 {
   "episodes": {
     "主线路": "https://v2024.bbffsl.com/20250106/iUONPtfO/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/09/17/222941c0/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/09/17/222941c0/index.m3u8",
+    "线路3": "https://lsbbf5.com/20241222/6rIyQSNK/index.m3u8",
+    "线路4": "https://yutubf.lsbbf3.com/20241222/6rIyQSNK/index.m3u8"
   },
   "seriesInfo": {
     "id": 19132,
     "IDcode": "IPX-317",
     "title": "美少女情色潜力-大原向葵",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
+      "主觀視角",
       "美少女電影",
-      "亂交 • 群P",
-      "主觀視角"
+      "亂交 • 群P"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/09/17/c34d107e2fa7601a85e6c6ab3b39c78b.jpg",

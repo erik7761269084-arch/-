@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20230320/47KyuPVe/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/08/29/3ae8b25c/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/08/29/3ae8b25c/index.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20220714/qhjkzxMz/index.m3u8"
   },
   "seriesInfo": {
     "id": 166748,
     "IDcode": "VENU-692",
     "title": "近親相汗-藤澤美織",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

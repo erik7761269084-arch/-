@@ -1,18 +1,20 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/67706360938687be7c54c94b.m3u8",
-    "线路2": "https://m3u8.cdn2025.life/movie/auto/67706360938687be7c54c94b.m3u8"
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/67706360938687be7c54c94b.m3u8",
+    "线路3": "https://t26.cdn2020.com/video/m3u8/2022/04/03/0308e725/index.m3u8",
+    "线路4": "https://voddadaizi.com:52866/movie/auto/68e56fb47de28f4ede7eb8bc.m3u8"
   },
   "seriesInfo": {
     "id": 172755,
     "IDcode": "SSIS-357",
     "title": "美丽的脸庞-安齋らら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",
-    "cover_url": "https://tutu1.space/images/2022/04/03/881e3f5f7bea112c5433fff76ca47a1f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e56fb47de28f4ede7eb8bc/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-357",
     "actresses": [

@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20221203/kRHUqJ1E/index.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/17/d6b64f48/index.m3u8"
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/17/d6b64f48/index.m3u8",
+    "线路3": "https://vip2.bfbfhao.com/20220630/k2U3iyI5/index.m3u8"
   },
   "seriesInfo": {
     "id": 166183,
     "IDcode": "VOSS-168",
     "title": "我爱上了她",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

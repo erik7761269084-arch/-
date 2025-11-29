@@ -8,9 +8,11 @@
     "IDcode": "SIRO-4632",
     "title": "喫茶店員",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/11/04/cb430db1bb095663375052747472b922.jpg",
     "background_img": "",

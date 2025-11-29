@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/c8189870/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/c8189870/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251011/PHTCo0Oy/index.m3u8",
+    "线路3": "https://vostrely.com/20241207/nBBf6Vtd/index.m3u8"
   },
   "seriesInfo": {
     "id": 175991,
     "IDcode": "OPPW-177",
     "title": "洗脳調教の館 ヌルマユ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

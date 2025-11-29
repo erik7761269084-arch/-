@@ -1,15 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/28/052d3042/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/28/052d3042/index.m3u8",
+    "线路2": "https://vip23.newljlj2025.com/20200107/3w26OKXk/index.m3u8"
   },
   "seriesInfo": {
     "id": 209174,
     "IDcode": "259LUXU-1201",
     "title": "さらに刺激を求めてAV出演",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "蚊香社",
-    "genres": [],
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2019/12/28/QQ201912290138393acaf.jpg",
     "background_img": "",

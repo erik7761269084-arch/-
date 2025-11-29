@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/27/9b65972c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/27/9b65972c/index.m3u8",
+    "线路2": "https://krevonix.com/20220925/KUYHALlQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 78961,
     "IDcode": "RBD-223",
     "title": "窓辺の女-管野しずか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [
       "拘束",

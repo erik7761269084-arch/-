@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/25/26627d73/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/25/26627d73/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/28/b85f34293939/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213016,
     "IDcode": "SDDE-638",
     "title": "她已经失禁了还在读稿",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

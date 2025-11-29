@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/28/2ee11b1e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/28/2ee11b1e/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230417/aKpSTHXe/index.m3u8",
+    "线路3": "https://vip23.newljlj2025.com/20190912/N9LL86qt/index.m3u8"
   },
   "seriesInfo": {
     "id": 209077,
     "IDcode": "ADN-181",
     "title": "野獣に狙われたセレブ妻-柳みゆう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/31a07844/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/31a07844/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250131/dd4sEjGQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 210856,
     "IDcode": "STARS-295",
     "title": "相部屋NTR-戸田真琴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "NTR",

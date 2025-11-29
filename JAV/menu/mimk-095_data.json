@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/15/bc76f2d6/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/15/bc76f2d6/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/6UdJ10DX/index.m3u8"
   },
   "seriesInfo": {
     "id": 214464,
     "IDcode": "MIMK-095",
     "title": "無人駅-高瀬りな 美園和花",
     "publish_date": "",
-    "type": "有码",
-    "company": "MOODYZ",
+    "type": null,
+    "company": "DEEP'S",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/11/15/b1b01ce4f1c4e71d8ddfc12dfc474027.jpg",

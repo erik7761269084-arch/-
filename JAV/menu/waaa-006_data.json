@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/24/bfec8fa0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/24/bfec8fa0/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250131/hxjA7oLo/index.m3u8"
   },
   "seriesInfo": {
     "id": 211029,
     "IDcode": "WAAA-006",
     "title": "女子大生 神坂朋子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/25/0b1007ef/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/25/0b1007ef/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68dae416d6fbef4e90d1d498.m3u8",
+    "线路3": "https://v.ddoucdn.com/20240906/6BZLMDQD/index.m3u8"
   },
   "seriesInfo": {
     "id": 212440,
     "IDcode": "HDKA-236",
     "title": "全裸家政婦紹介所-宇佐木あいか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "PLANETPLUS",
     "genres": [],
     "description": "",

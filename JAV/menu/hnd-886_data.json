@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/02/f5eb7bc0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/02/f5eb7bc0/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240113/129QP901/index.m3u8"
   },
   "seriesInfo": {
     "id": 210458,
     "IDcode": "HND-886",
     "title": "家出少女-松本いちか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

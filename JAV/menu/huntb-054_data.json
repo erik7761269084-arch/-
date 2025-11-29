@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/04/8da47c53/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/04/8da47c53/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/a1f063d1783c/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212559,
     "IDcode": "HUNTB-054",
     "title": "地下男士美容院",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

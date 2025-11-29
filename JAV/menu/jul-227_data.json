@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/11/0fd5aaff/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/11/0fd5aaff/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/05/adc73d7079cb/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209325,
     "IDcode": "JUL-227",
     "title": "寝室の顔面-希島あいり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

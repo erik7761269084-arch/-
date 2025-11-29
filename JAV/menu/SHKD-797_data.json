@@ -1,21 +1,23 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/04/02/baa16eaf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/04/02/baa16eaf/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68b5789e2cbbe464027fbb42.m3u8",
+    "线路3": "https://krevonix.com/20221013/tQOXIfO7/index.m3u8"
   },
   "seriesInfo": {
     "id": 97530,
     "IDcode": "SHKD-797",
     "title": "家庭教师佐佐波绫凌辱调教专属计划",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "凌辱",
       "调教",
+      "凌辱",
       "家教"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20240404-1/008c0723711d9353fbf52e1e824aac05.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b5789e2cbbe464027fbb42/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-797",
     "actresses": [

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/20/945a9d17/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/20/945a9d17/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/2KNlcLSI/index.m3u8"
   },
   "seriesInfo": {
     "id": 210964,
     "IDcode": "RBD-992",
     "title": "外国人専用湯女-稲場るか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

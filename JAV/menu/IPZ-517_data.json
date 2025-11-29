@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20230214/dd2oIPBT/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2024/04/12/fc506262/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2024/04/12/fc506262/index.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20220706/udaU3jiB/index.m3u8"
   },
   "seriesInfo": {
     "id": 166568,
     "IDcode": "IPZ-517",
     "title": "黑道老大的女人初音实",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

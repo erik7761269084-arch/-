@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://vip3.slslvip3.com/20231210/EB9pdfCB/index.m3u8"
+    "主线路": "https://vip3.slslvip3.com/20231210/EB9pdfCB/index.m3u8",
+    "线路2": "https://krevonix.com/20240828/wqMqTwcj/index.m3u8"
   },
   "seriesInfo": {
     "id": 88890,
     "IDcode": "TSDS-46066",
     "title": "Greenレーベル Present/沖田杏梨",
     "publish_date": "2023-06-23",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "介绍影片",
       "偶像",
+      "介绍影片",
       "单体作品"
     ],
     "description": "",

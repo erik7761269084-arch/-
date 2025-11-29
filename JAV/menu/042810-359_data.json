@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/Ugg9Oq2c/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/Ugg9Oq2c/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220810/L9pbvz2l/index.m3u8"
   },
   "seriesInfo": {
     "id": 143659,
     "IDcode": "042810-359",
     "title": "雌豹美洲狮MariaAmane",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

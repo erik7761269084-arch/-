@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/5GWRP29j/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/5GWRP29j/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/08/X6BgkDeKXu2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148532,
     "IDcode": "SIRO-3526",
     "title": "第一枪网络AV应用AV体验拍摄717",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250222-1/10d558e0c59170cd728464fdf7810a81.jpg",
     "background_img": "",

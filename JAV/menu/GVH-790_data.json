@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/28/208719ad/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/28/208719ad/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68ffdf4b7de28f4edeabd520.m3u8"
   },
   "seriesInfo": {
     "id": 175003,
     "IDcode": "GVH-790",
     "title": "木更津女子陸上部ハラスメント合宿！ 宇流木さらら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "GLORY QUEST",
     "genres": [],
     "description": "",

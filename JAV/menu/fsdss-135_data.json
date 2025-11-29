@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/26/1f8ccc31/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/26/1f8ccc31/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/24/7d7f5f7f3feb/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211285,
     "IDcode": "FSDSS-135",
     "title": "Gcup美少女-有坂真宵",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [
       "巨乳"

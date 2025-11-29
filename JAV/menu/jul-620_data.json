@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/02/e57d44c1/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/02/e57d44c1/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/en8wgDSk/index.m3u8"
   },
   "seriesInfo": {
     "id": 212146,
     "IDcode": "JUL-620",
     "title": "美顔原石妻-本田瞳",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

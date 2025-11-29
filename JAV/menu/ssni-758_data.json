@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/24/3f450674/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/24/3f450674/index.m3u8",
+    "线路2": "https://vostrely.com/20240812/e2oZrdhk/index.m3u8",
+    "线路3": "https://vip1.bfbfhao.com/20210606/xQcLKOhW/index.m3u8"
   },
   "seriesInfo": {
     "id": 209235,
     "IDcode": "SSNI-758",
     "title": "巨乳少女-夢乃あいか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [
       "巨乳"

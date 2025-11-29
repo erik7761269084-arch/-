@@ -7,9 +7,11 @@
     "IDcode": "406FTHT-007",
     "title": "请把肉棒给我吧",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/1a2de9c4/vod.jpg",
     "background_img": "",

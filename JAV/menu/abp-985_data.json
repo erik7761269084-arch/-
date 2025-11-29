@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/13/e1e65123/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/13/e1e65123/index.m3u8",
+    "线路2": "https://v5.lbv325627.com/20250503/Git1DED2/index.m3u8"
   },
   "seriesInfo": {
     "id": 209333,
     "IDcode": "ABP-985",
     "title": "女の体液-野々浦暖",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/20/5bf8d8d2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/20/5bf8d8d2/index.m3u8",
+    "线路2": "https://vostrely.com/20250106/UUvB15O2/index.m3u8",
+    "线路3": "https://thm3u8.vip/20250131/OXgC7eFO/index.m3u8"
   },
   "seriesInfo": {
     "id": 210970,
     "IDcode": "SSNI-906",
     "title": "女上司-坂道みる",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

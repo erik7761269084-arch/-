@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250109/iXWiho1K/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250109/iXWiho1K/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/iP1d9C96ER2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 149902,
     "IDcode": "SIRO-1001",
     "title": "素人AV体验拍摄387",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "素人"

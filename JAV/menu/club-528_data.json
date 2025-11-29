@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/31/b77c4981/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/31/b77c4981/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/lwfDhymB/index.m3u8"
   },
   "seriesInfo": {
     "id": 213098,
     "IDcode": "CLUB-528",
     "title": "住在隔壁的已婚妇女",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "変態紳士倶楽部",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/937240fa/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/937240fa/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230614/XTDMnF5f/index.m3u8"
   },
   "seriesInfo": {
     "id": 213886,
     "IDcode": "JUFD-867",
     "title": "新来的机舱服务员-春菜はな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "DREAMTICKET",
     "genres": [],
     "description": "",

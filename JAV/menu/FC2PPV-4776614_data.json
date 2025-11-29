@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/cf7eb254/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/cf7eb254/index.m3u8",
+    "线路2": "https://thm3u8.com/20251010/h9HGYIQ4/index.m3u8"
   },
   "seriesInfo": {
     "id": 176210,
     "IDcode": "FC2PPV-4776614",
     "title": "穿着校服的她被两次中出",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

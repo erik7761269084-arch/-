@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/24/a46a7938/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/24/a46a7938/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/25/703a11868b70/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211020,
     "IDcode": "GG-209",
     "title": "太君的恶作剧-さとう遥希",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

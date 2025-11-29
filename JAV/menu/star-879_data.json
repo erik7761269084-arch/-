@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/18/7ad5ab57/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/18/7ad5ab57/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/01/6Fgz8QNg2k2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210595,
     "IDcode": "STAR-879",
     "title": "你婆婆是我的班主任-白石茉莉奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

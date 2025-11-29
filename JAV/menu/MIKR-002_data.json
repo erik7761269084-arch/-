@@ -1,14 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/18/66d46663/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/18/66d46663/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251017/CDiV1nfj/index.m3u8",
+    "线路3": "https://vostrely.com/20241203/gHeKnDHV/index.m3u8"
   },
   "seriesInfo": {
     "id": 176718,
     "IDcode": "MIKR-002",
     "title": "新人 綺麗なお姉さんは好きですか？銀座AGA専門クリニックで働く癒し系カウンセラー 工藤ゆり",
     "publish_date": "",
-    "type": "有码",
-    "company": "MOODYZ",
+    "type": null,
+    "company": "DEEP'S",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/18/66d46663/vod.jpg",

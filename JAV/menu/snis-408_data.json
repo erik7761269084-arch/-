@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/30/e677fb60/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/30/e677fb60/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191121/DxV0hTv6/index.m3u8"
   },
   "seriesInfo": {
     "id": 211356,
     "IDcode": "SNIS-408",
     "title": "内衣模特-桜井彩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

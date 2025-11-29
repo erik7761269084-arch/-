@@ -1,17 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/05/d72e0706/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/05/d72e0706/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250620/kBo2EqRZ/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202507/19/687b0b893ed39b57c04547e5/c7919a/index.m3u8",
+    "线路4": "https://v5.lbv325627.com/20250625/ZvTOnzAE/index.m3u8"
   },
   "seriesInfo": {
     "id": 95447,
     "IDcode": "MARAA-201",
     "title": "成瀬花奈 かなの快感ふるぬーど！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "介绍影片",
       "偶像",
+      "介绍影片",
       "单体作品"
     ],
     "description": "",

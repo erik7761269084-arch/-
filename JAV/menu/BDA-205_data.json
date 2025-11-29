@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/24/b01eec4c/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/24/b01eec4c/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251008/QMOWuyZT/index.m3u8",
+    "线路3": "https://yutubf.lsbbf3.com/20251008/QMOWuyZT/index.m3u8",
+    "线路4": "https://v202509.fhbbff.com/20251011/M9MKBn6K/index.m3u8"
   },
   "seriesInfo": {
     "id": 181565,
     "IDcode": "BDA-205",
     "title": "女王様の淫行オフィス 波多野結衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

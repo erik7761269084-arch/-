@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221110/1kxP4zl7/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221110/1kxP4zl7/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20220714/Yu1Qqm08/index.m3u8"
   },
   "seriesInfo": {
     "id": 166167,
     "IDcode": "MEKI-011",
     "title": "初心で可愛い女子校生をガチナンパ！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

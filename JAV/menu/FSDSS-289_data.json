@@ -1,19 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/21/b1767940/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/21/b1767940/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68e89782631cc64eb5a45789.m3u8"
   },
   "seriesInfo": {
     "id": 79801,
     "IDcode": "FSDSS-289",
     "title": "発射無制限-橋本ありな",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FALENO",
     "genres": [
+      "美少女电影",
       "足交",
       "礼仪小姐",
-      "无码破解",
-      "美少女电影"
+      "无码破解"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/21/9cfb61569b2190ad48bab182a59b2e16.jpg",

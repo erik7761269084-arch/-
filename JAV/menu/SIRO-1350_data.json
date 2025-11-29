@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/AokHBo7I/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/AokHBo7I/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/U5sWQZS9Wc2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 145553,
     "IDcode": "SIRO-1350",
     "title": "素人AV体验拍摄491",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "素人"

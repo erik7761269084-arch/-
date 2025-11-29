@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202409/18/147XQuPtfT1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/08/17/5a0f7a85/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/08/17/5a0f7a85/index.m3u8",
+    "线路3": "https://vip4.ddyunbo.com/20240928/PCZV1jcq/index.m3u8"
   },
   "seriesInfo": {
     "id": 153042,
     "IDcode": "DASD-706",
     "title": "被一个黑了绿了-冬愛ことね",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

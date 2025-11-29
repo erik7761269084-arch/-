@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/b0fdb68f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/20/b0fdb68f/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230415/KuKwhVq3/index.m3u8"
   },
   "seriesInfo": {
     "id": 196858,
     "IDcode": "200GANA-2400",
     "title": "首次拍摄采访新秀女大学生被下流话题慢慢打开心扉上马骑乘位一颗心乱了",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/20/1ec4fca07aa1dae1ee94919924967caf.jpg",
     "background_img": "",

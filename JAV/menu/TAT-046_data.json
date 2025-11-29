@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/BI6exG1o/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/BI6exG1o/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/11/81775000fe85/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153209,
     "IDcode": "TAT-046",
     "title": "GonzoHTsubasa和那个在顽皮的事情上有攻击性的孩子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

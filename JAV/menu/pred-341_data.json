@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/d783da33/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/d783da33/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230304/vdeETehs/index.m3u8"
   },
   "seriesInfo": {
     "id": 213649,
     "IDcode": "PRED-341",
     "title": "我和女老板在一个合租房里-香椎花乃",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "PREMIUM",
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/09/28/1cc020099be472be793bbddb3e2f1d7d.jpg",
     "background_img": "",

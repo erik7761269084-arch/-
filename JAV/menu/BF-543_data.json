@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/30/d2383bbe/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/30/d2383bbe/index.m3u8",
+    "线路2": "https://krevonix.com/20221113/QgSYJqDU/index.m3u8"
   },
   "seriesInfo": {
     "id": 209090,
     "IDcode": "BF-543",
     "title": "現役介護士あずさAVデビュー",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2019/11/29/QQ201911300606423617c.jpg",

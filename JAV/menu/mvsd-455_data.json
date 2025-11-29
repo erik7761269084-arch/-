@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/07/7f04aa0f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/07/7f04aa0f/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250128/XvyZjCge/index.m3u8"
   },
   "seriesInfo": {
     "id": 213263,
     "IDcode": "MVSD-455",
     "title": "母狗天堂-REMI 瀬崎彩音",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "MVG GROUP",
     "genres": [],
     "description": "",

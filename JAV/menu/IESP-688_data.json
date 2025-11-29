@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/11/59ff6cdb/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/11/59ff6cdb/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241202/ep2Fb5fD/index.m3u8"
   },
   "seriesInfo": {
     "id": 97787,
     "IDcode": "IESP-688",
     "title": "女子校生-柊木楓",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "多P",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/a7c9ac88/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/a7c9ac88/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/11/67804a9d478d611da7747e84/7e3b63/index.m3u8"
   },
   "seriesInfo": {
     "id": 208815,
     "IDcode": "ABP-695",
     "title": "天然成分由来-黒川さりな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

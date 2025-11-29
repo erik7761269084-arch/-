@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/06/470cca71/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/06/470cca71/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/13/6914ec1746d2372859bc0079/1e8f2c/index.m3u8"
   },
   "seriesInfo": {
     "id": 173303,
     "IDcode": "SCD-246",
     "title": "憧れのお義母さんが、ま、まさか 井上綾子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "RUBY",
     "genres": [],
     "description": "",

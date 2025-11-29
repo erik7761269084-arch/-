@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/IbZ2jggS/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/IbZ2jggS/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/08/g2vCFeiwrj2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148573,
     "IDcode": "SIRO-3595",
     "title": "首发网络AV应用AV体验拍摄776",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250222-1/8e54b553645fc88e333d9592699f9c1c.jpg",
     "background_img": "",

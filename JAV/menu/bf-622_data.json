@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/07/e39a10d3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/07/e39a10d3/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/24/a672cf818379/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212201,
     "IDcode": "BF-622",
     "title": "誘惑中出-藤森里穂",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/07/07/f7fce33f28ad9fe26d602c2a4070e0a6.jpg",

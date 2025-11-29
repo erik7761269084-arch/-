@@ -1,24 +1,28 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20221210/gqNV4tNI/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20221210/gqNV4tNI/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221210/gqNV4tNI/index.m3u8"
   },
   "seriesInfo": {
     "id": 83043,
     "IDcode": "AP-022",
     "title": "Aphrodite/古川いおり",
     "publish_date": "2018-05-18",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "艺人",
+      "介绍影片"
+    ],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/52e6028bfa799f5631b264b4ea604421.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-022",
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-022",
     "actresses": [
       {
         "name": "古川伊織",
         "img_url": "https://picture.yoshiclub.xyz/20230331/3889b3b2-bda0-4d8a-8f87-c152ddbf81bc.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/JAV/JAV_actressDatas.html?series=658&name=%E5%8F%A4%E5%B7%9D%E4%BC%8A%E7%B9%94"
+        "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=658&name=%E5%8F%A4%E5%B7%9D%E4%BC%8A%E7%B9%94"
       }
     ]
   }

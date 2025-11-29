@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/rUOINJcR/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/rUOINJcR/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220810/33dLryVK/index.m3u8"
   },
   "seriesInfo": {
     "id": 142486,
     "IDcode": "123119-001",
     "title": "女热大陆File.076北山神奈",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

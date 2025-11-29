@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/03/5d686da4/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/03/5d686da4/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250204/pPqghoTu/index.m3u8"
   },
   "seriesInfo": {
     "id": 209282,
     "IDcode": "VENU-934",
     "title": "結婚記念日-結々萌奈実",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

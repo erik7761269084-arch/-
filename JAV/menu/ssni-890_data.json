@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/01/45880c69/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/01/45880c69/index.m3u8",
+    "线路2": "https://vostrely.com/20240814/GWNj76To/index.m3u8",
+    "线路3": "https://v2024.sysybf.com/20250409/TpbvBgnD/index.m3u8",
+    "线路4": "https://thm3u8.vip/20250131/kExi3Hex/index.m3u8"
   },
   "seriesInfo": {
     "id": 210768,
     "IDcode": "SSNI-890",
     "title": "大雨淋湿了校服-夢乃あいか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

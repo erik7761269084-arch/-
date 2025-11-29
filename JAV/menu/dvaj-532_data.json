@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/21/4343bd8f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/21/4343bd8f/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/926adc583b5a/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213481,
     "IDcode": "DVAJ-532",
     "title": "在射精的那一刻-川上奈々美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ALICE JAPAN",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/109qK6UK/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/109qK6UK/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221030/vle4526a/index.m3u8"
   },
   "seriesInfo": {
     "id": 143366,
     "IDcode": "112117-005",
     "title": "垂直视频038小恶魔他妈的吉野真郎",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

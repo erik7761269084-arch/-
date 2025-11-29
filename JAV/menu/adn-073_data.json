@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/09/ded5f3de/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/09/ded5f3de/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241201/8U7mi3Dl/index.m3u8"
   },
   "seriesInfo": {
     "id": 213823,
     "IDcode": "ADN-073",
     "title": "在我丈夫的老板的怀里-宮部涼花",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

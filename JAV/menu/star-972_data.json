@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/14/5abe95ae/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/14/5abe95ae/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220907/S7fUSHXl/index.m3u8"
   },
   "seriesInfo": {
     "id": 211749,
     "IDcode": "STAR-972",
     "title": "温泉旅行-羽田あい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

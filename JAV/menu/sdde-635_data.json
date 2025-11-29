@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/19/9d7feabd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/19/9d7feabd/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/8t1WcqCF/index.m3u8"
   },
   "seriesInfo": {
     "id": 210288,
     "IDcode": "SDDE-635",
     "title": "洗浴场的女员工-相馬茜",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

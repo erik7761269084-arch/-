@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/04/13/5316a302/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/04/13/5316a302/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/07/677a86a98daf6b1db43b690f/e83657/index.m3u8"
   },
   "seriesInfo": {
     "id": 207093,
@@ -9,9 +10,12 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
-    "cover_url": "/upload/vod/20240413-1/4ff2010ae9859b59ba5e2fd1e9e5f1ef.jpg",
+    "cover_url": "https://tutu1.space/images/2024/04/13/e933b922d51837c81aede0a02188ad86.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=051413_591",
     "actresses": []

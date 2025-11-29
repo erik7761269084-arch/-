@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/23/8ed995c3/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/23/8ed995c3/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250924/fewFjiay/index.m3u8",
+    "线路3": "https://krevonix.com/20250121/dcmMvp0W/index.m3u8"
   },
   "seriesInfo": {
     "id": 183000,
     "IDcode": "ARSO-24189",
     "title": "舞ワイフ ～セレブ倶楽部～ 189",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "AROUND",
     "genres": [],
     "description": "",

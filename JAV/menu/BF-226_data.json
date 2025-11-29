@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/94652350/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/94652350/index.m3u8",
+    "线路2": "https://krevonix.com/20221020/zvE6mwZ5/index.m3u8"
   },
   "seriesInfo": {
     "id": 174928,
     "IDcode": "BF-226",
     "title": "家庭教师诱惑中出-椎名由奈",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/27/c77eb16c52f0e0df4678ad2a089fadfc.jpg",

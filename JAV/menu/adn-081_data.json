@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/11/e15483af/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/11/e15483af/index.m3u8",
+    "线路2": "https://3sybf.com/20200513/7dVkjeCn/index.m3u8"
   },
   "seriesInfo": {
     "id": 213861,
     "IDcode": "ADN-081",
     "title": "每次被强奸时都很美-灘ジュン",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

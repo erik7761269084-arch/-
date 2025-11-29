@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/01/142cc72d/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/01/142cc72d/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/11/69126364c2496a27fd06f9d4/4b81b1/index.m3u8"
   },
   "seriesInfo": {
     "id": 174459,
     "IDcode": "TKD-062",
     "title": "ルビー専属第1弾 優子女将 超VIPなおもてなし2発！ 白木優子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "RUBY",
     "genres": [],
     "description": "",

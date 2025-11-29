@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/06/a164b9f3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/06/a164b9f3/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20240730/WET44GZl/index.m3u8"
   },
   "seriesInfo": {
     "id": 211402,
     "IDcode": "DASD-788",
     "title": "心爱的女友看不到我-市来まひろ 水川スミレ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

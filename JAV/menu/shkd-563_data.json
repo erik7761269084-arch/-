@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/06/2a9664f7/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/06/2a9664f7/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221129/JRx7Foc7/index.m3u8"
   },
   "seriesInfo": {
     "id": 209516,
     "IDcode": "SHKD-563",
     "title": "女子大生編 鈴木心葉",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

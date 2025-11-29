@@ -7,9 +7,11 @@
     "IDcode": "801-YUI-01",
     "title": "这是一个非常可爱的蚀刻唯",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250411-1/97d6fb48e90a5a75e2eb018251bc50f9.jpg",
     "background_img": "",

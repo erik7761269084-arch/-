@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/e11Ijypn/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/e11Ijypn/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20210206/F5IY2RuJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 165372,
     "IDcode": "SABA-547",
     "title": "働くSEXの天才",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S級素人",
     "genres": [
+      "素人",
+      "素人企画",
       "中文字幕"
     ],
     "description": "",

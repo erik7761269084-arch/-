@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/fee0fdc9/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/fee0fdc9/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/5bdc1a0cffc3/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212748,
     "IDcode": "PRED-331",
     "title": "男子的房子-山岸逢花",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "PREMIUM",
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/08/11/08f3ce648fa44e68446fcbff48271e48.jpg",
     "background_img": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/19/ab8ad7fa/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/19/ab8ad7fa/index.m3u8",
+    "线路2": "https://v2024.sysybf.com/20241202/HSWk1iyW/index.m3u8"
   },
   "seriesInfo": {
     "id": 215160,
     "IDcode": "FSDSS-334",
     "title": "極限絶頂-夏木りん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

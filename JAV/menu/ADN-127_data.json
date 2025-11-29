@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/2f54ea2e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/2f54ea2e/index.m3u8",
+    "线路2": "https://krevonix.com/20220925/tBWhSRwI/index.m3u8"
   },
   "seriesInfo": {
     "id": 78828,
     "IDcode": "ADN-127",
     "title": "湿润的同情心-めぐり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "戏剧",
-      "白天出轨"
+      "白天出轨",
+      "戏剧"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/19/e70daa686de5d0f77b7ae4abb96e5921.jpg",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/09/ccf38b74/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/09/ccf38b74/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68dbc01cce5a404e9bc0c810.m3u8",
+    "线路3": "https://thm3u8.vip/20250127/G7HlD26k/index.m3u8"
   },
   "seriesInfo": {
     "id": 211430,
     "IDcode": "JUL-411",
     "title": "突然大雨-友田真希",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

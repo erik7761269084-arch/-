@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/22/6ae81829/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/22/6ae81829/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/03/SsDAQW7xmw2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210666,
     "IDcode": "JUL-318",
     "title": "家庭母子乱伦-瀬戸奈々子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

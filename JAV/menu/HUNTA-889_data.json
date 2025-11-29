@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202410/05/Fva22fU5fh1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202410/05/Fva22fU5fh1/video/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68e4e62ee4a73d4f15c24a07.m3u8",
+    "线路3": "https://vip4.ddyunbo.com/20240927/ZjPsjOEN/index.m3u8"
   },
   "seriesInfo": {
     "id": 153378,
     "IDcode": "HUNTA-889",
     "title": "我每天早上乘坐的电梯在运行时由于故障而紧急停止而且我是唯一的男人惊慌失措的",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

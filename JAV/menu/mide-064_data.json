@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/01/597d41b5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/01/597d41b5/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220822/BVGaAs2R/index.m3u8",
+    "线路3": "https://3sybf.com/20200513/IkHOg5Po/index.m3u8",
+    "线路4": "https://vip5.ddyunbo.com/20230520/9Sl4nPl9/index.m3u8"
   },
   "seriesInfo": {
     "id": 211644,
     "IDcode": "MIDE-064",
     "title": "今天被老板强奸了-夏目彩春",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

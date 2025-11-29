@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/07/4edf0b6b/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/07/4edf0b6b/index.m3u8",
+    "线路2": "https://video14.bpzy1.com/video/20220126/f264fb649a8a84021e0f087a9b3958b4/index.m3u8"
   },
   "seriesInfo": {
     "id": 173502,
     "IDcode": "WANZ-067",
     "title": "纯洁捜査官-蕾",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

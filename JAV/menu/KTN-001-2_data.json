@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/YM2A1O4U/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/YM2A1O4U/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/8c59d61e2dea/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154594,
     "IDcode": "KTN-001-2",
     "title": "可爱的M孩子和奇闻趣事H千春",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

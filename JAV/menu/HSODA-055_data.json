@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/04a540b1/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/04a540b1/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fccbd8ce5a404e9bfa07b3.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68bab8f2ce3e366423ce3c52.m3u8",
+    "线路4": "https://v2025.fhbbff.com/20250923/xS6rPkyr/index.m3u8"
   },
   "seriesInfo": {
     "id": 183626,
     "IDcode": "HSODA-055",
     "title": "SEXのハードルが低すぎる世界線！2 目の前で当たり前のようにSEX！朝の挨拶からSEX！授業中もSEX！休み時間も放課後もとにかくオープンSEX",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "HUNTER",
     "genres": [],
     "description": "",

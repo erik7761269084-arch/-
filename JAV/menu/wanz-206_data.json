@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/22/d71de642/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/22/d71de642/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202508/08/65892c805cbd/playlist.m3u8",
+    "线路3": "https://vip3.bfbfhao.com/20230122/Qd2W0eXm/index.m3u8"
   },
   "seriesInfo": {
     "id": 211248,
     "IDcode": "WANZ-206",
     "title": "重复地做爱-波多野結衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

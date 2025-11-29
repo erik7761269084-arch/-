@@ -1,19 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/78eb35e6/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/78eb35e6/index.m3u8",
+    "线路2": "https://vip4.lbbf9.com/20241202/Am2LSu7Z/index.m3u8"
   },
   "seriesInfo": {
     "id": 84820,
     "IDcode": "HODV-21614",
     "title": "方言女子-成田つむぎ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "H.M.P 芳友舍",
     "genres": [
-      "主观视角",
-      "情侣",
       "中出",
-      "企画"
+      "企画",
+      "主观视角",
+      "情侣"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/11/23/6b8b3da92f8d343e93358596880373f1.jpg",

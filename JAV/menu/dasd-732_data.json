@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/30/c7252114/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/30/c7252114/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202504/20/SVtbnusasm2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210422,
     "IDcode": "DASD-732",
     "title": "如果你和别的男人结婚-篠田ゆう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

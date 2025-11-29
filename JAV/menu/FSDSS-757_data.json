@@ -1,23 +1,25 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/31/4e7cab21/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/31/4e7cab21/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68deea7cdbf24d4ed31830ef.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202510/04/34d4c0f51fe8/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 105537,
     "IDcode": "FSDSS-757",
     "title": "有洁癖的姐姐-吉高宁宁",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [
-      "女上位",
       "接吻",
-      "妹妹",
       "乱伦",
+      "妹妹",
+      "女上位",
       "单体作品"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20240404-1/2813242b4ea0fc5285f613222e3ce24f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68deea7cdbf24d4ed31830ef/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-757",
     "actresses": [

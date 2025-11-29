@@ -1,17 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://v2024.bbffsl.com/20250115/HoPKEnzn/index.m3u8"
+    "主线路": "https://v2024.bbffsl.com/20250115/HoPKEnzn/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250104/RVl9RrmB/index.m3u8",
+    "线路3": "https://lsbbf5.com/20250104/tTKVgcLt/index.m3u8",
+    "线路4": "https://sy4.3sybf.com/20201107/ZzWaJMGH/index.m3u8"
   },
   "seriesInfo": {
     "id": 73247,
     "IDcode": "MIFD-077",
     "title": "激似高○充○デビュー",
     "publish_date": "2019-07-13",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [
-      "明星脸",
-      "苗条"
+      "苗条",
+      "明星脸"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/98e8cfce4d62f64dc631574a7f425a5e.jpg",

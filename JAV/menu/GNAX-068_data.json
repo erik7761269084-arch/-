@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/31/14724e14/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/31/14724e14/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/6903d489d6fbef4e901a7e62.m3u8"
   },
   "seriesInfo": {
     "id": 174296,
     "IDcode": "GNAX-068",
     "title": "あなた、一度だけ許して…。-32才人妻デビュードキュメント再現ドラマ- 小田ゆうか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "人妻"

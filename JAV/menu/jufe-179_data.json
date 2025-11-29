@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/22/75de865a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/22/75de865a/index.m3u8",
+    "线路2": "https://v2024.sysybf.com/20241129/w6TXJ1Ov/index.m3u8"
   },
   "seriesInfo": {
     "id": 209727,
     "IDcode": "JUFE-179",
     "title": "新婚の僕が出張-向井藍",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FITCH",
     "genres": [],
     "description": "",

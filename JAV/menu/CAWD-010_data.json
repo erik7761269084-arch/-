@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220810/k6kz0amc/index.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/19/8caff7de/index.m3u8"
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/19/8caff7de/index.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202506/11/6f87c0199fb3/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 164581,
     "IDcode": "CAWD-010",
     "title": "超濃厚白濁-桜もこ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

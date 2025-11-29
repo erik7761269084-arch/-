@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/08/2176476f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/08/2176476f/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251014/SaOkQMVI/index.m3u8",
+    "线路3": "https://vostrely.com/20241205/nRDtm6XA/index.m3u8"
   },
   "seriesInfo": {
     "id": 178026,
     "IDcode": "NEO-918",
     "title": "失禁ディープスロート 上坂めい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "RADIX",
     "genres": [],
     "description": "",

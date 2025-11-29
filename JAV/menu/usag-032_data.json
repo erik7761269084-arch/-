@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/25/35733905/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/25/35733905/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/2c19b5da4e45/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213575,
     "IDcode": "USAG-032",
     "title": "顔射中出3本番",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

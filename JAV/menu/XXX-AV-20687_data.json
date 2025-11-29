@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241229/iuJfgJzr/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241229/iuJfgJzr/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20200102/WyQg5rzd/index.m3u8",
+    "线路3": "https://www.lbbf9.com/20200102/aU8Wk4lg/index.m3u8"
   },
   "seriesInfo": {
     "id": 145770,
     "IDcode": "XXX-AV-20687",
     "title": "MisakiKoiMajiiki职业女性全高清vol.02",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

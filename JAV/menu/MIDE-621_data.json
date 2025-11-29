@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/26/bcc3b578/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/26/bcc3b578/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230710/zjXJbIxq/index.m3u8"
   },
   "seriesInfo": {
     "id": 208585,
     "IDcode": "MIDE-621",
     "title": "同棲生活 志田雪奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

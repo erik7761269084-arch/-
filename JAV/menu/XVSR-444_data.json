@@ -1,19 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/21/638eca02/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/21/638eca02/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231215/1iAr0GTF/index.m3u8"
   },
   "seriesInfo": {
     "id": 82924,
     "IDcode": "XVSR-444",
     "title": "同棲性活-彩乃なな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MAX-A",
     "genres": [
-      "主观视角",
       "美少女",
-      "戏剧",
-      "乳房"
+      "乳房",
+      "主观视角",
+      "戏剧"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2019/07/22/QQ2019072216061803819.jpg",

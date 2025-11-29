@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/10/c33b2c66/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/10/c33b2c66/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251015/pkXJs8gC/index.m3u8",
+    "线路3": "https://krevonix.com/20241210/pWAttfnG/index.m3u8"
   },
   "seriesInfo": {
     "id": 178300,
     "IDcode": "SAN-290",
     "title": "もしもレジェンド女優がレズビアンになったらPART4 255分",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "マザー",
     "genres": [],
     "description": "",

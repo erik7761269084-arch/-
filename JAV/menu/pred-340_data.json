@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/4b78c206/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/4b78c206/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241130/bNMwELqR/index.m3u8"
   },
   "seriesInfo": {
     "id": 213646,
     "IDcode": "PRED-340",
     "title": "公司以她的美丽而闻名-広瀬りおな",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "PREMIUM",
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/09/28/619078ffd77801cb65fa3e890f87a14c.jpg",
     "background_img": "",

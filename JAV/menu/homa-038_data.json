@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/09/15c4b0c8/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/09/15c4b0c8/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202502/22/bvJat3ngRG1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 211423,
     "IDcode": "HOMA-038",
     "title": "夫婦崩壊NTR-篠田ゆう 香椎りあ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "H.M.P 芳友舍",
     "genres": [
       "NTR",

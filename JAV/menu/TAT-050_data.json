@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/5twfkWhG/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/5twfkWhG/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/10/0106d0ce26be/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153213,
     "IDcode": "TAT-050",
     "title": "唤醒美丽的女孩和爱奇闻趣事H梅",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

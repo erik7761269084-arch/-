@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/22/941c3d61/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/22/941c3d61/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/07/858a80e3162d/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 156044,
     "IDcode": "VEMA-170",
     "title": "美人女教師-羽咲美亜",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [],
     "description": "",

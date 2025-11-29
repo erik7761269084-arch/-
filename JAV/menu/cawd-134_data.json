@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/4b9cb5fd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/4b9cb5fd/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240223/Jdgp1lnd/index.m3u8"
   },
   "seriesInfo": {
     "id": 210774,
     "IDcode": "CAWD-134",
     "title": "磨练骑姿-成田つむぎ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

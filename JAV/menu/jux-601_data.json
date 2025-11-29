@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/15/50496c78/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/15/50496c78/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191121/LfNhFkXe/index.m3u8"
   },
   "seriesInfo": {
     "id": 209619,
     "IDcode": "JUX-601",
     "title": "兄貴の嫁を犯し-早川瀬里奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

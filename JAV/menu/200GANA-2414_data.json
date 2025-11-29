@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/23/7ac2102b/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/23/7ac2102b/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230706/e8vIbWwB/index.m3u8"
   },
   "seriesInfo": {
     "id": 196731,
     "IDcode": "200GANA-2414",
     "title": "心地善良的保育士被把妹成功",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/23/ee2ddb12bc564f533b121a9c1bd12395.jpg",
     "background_img": "",

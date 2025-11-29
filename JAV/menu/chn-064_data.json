@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/19/addba477/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/19/addba477/index.m3u8",
+    "线路2": "https://krevonix.com/20220925/beWlTC14/index.m3u8"
   },
   "seriesInfo": {
     "id": 211240,
     "IDcode": "CHN-064",
     "title": "新素人娘VOL.30",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "素人"

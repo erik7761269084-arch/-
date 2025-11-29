@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/21/41e733e5/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/21/41e733e5/index.m3u8",
+    "线路2": "https://thm3u8.com/20250818/9Yw1AdYp/index.m3u8"
   },
   "seriesInfo": {
     "id": 182632,
     "IDcode": "FC2PPV-4740266",
     "title": "一次性女友",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

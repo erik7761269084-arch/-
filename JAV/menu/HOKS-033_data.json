@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/aRk2aAfU/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/aRk2aAfU/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20240930/Qa0YwVgl/index.m3u8"
   },
   "seriesInfo": {
     "id": 164849,
     "IDcode": "HOKS-033",
     "title": "食べられる女 養女・宮原愛子 星奈あい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FAプロ",
     "genres": [
       "中文字幕"

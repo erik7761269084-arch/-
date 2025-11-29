@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/28/1bd400f0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/28/1bd400f0/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/28/352ccea50ff2/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 214147,
     "IDcode": "SCPX-409",
     "title": "学校里经常欺负我的女孩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "K.M.P",
     "genres": [],
     "description": "",

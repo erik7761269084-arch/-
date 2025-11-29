@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/0187232f/index.m3u8",
-    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/06/965053c7/index.m3u8"
+    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/06/965053c7/index.m3u8",
+    "线路3": "https://thm3u8.com/20250924/hlRCNYpq/index.m3u8"
   },
   "seriesInfo": {
     "id": 59826,
     "IDcode": "JURA-157",
     "title": "初次拍摄的五十岁妻子纪录片第三章-小倉みきね",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

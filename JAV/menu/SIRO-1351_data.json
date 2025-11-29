@@ -7,9 +7,11 @@
     "IDcode": "SIRO-1351",
     "title": "业馀个人摄影和发文第286章",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250212-1/42d0ae52c118b7acbb482d4847dbfcdb.jpg",
     "background_img": "",

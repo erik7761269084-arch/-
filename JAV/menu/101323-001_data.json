@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241224/Ok3ok9PY/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241224/Ok3ok9PY/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/22/284193e9b5e5/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 140707,
@@ -9,7 +10,10 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250124-1/1b9aad348b34435b4b413a437058b016.jpg",
     "background_img": "",

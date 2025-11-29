@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/30/14b51114/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/30/14b51114/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20220707/UyGsIBLm/index.m3u8"
   },
   "seriesInfo": {
     "id": 209783,
     "IDcode": "SOE-878",
     "title": "暗殺者 麻美ゆま 吉沢明歩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

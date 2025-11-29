@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/20/3705a09d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/20/3705a09d/index.m3u8",
+    "线路2": "https://video44.bpzy1.com/video/20230127/78b8506043fe385a1db22acce4bf0412/index.m3u8"
   },
   "seriesInfo": {
     "id": 210955,
     "IDcode": "MEYD-338",
     "title": "同学的妈妈-椎名そら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "溜池",
     "genres": [
       "乱伦"

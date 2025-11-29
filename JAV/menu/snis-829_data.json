@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/20/d30d12ff/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/20/d30d12ff/index.m3u8",
+    "线路2": "https://vostrely.com/20240821/SW0ICnDS/index.m3u8",
+    "线路3": "https://video42.bpzy1.com/video/20221225/a8df6238d427a57424e434cf19048d2b/index.m3u8"
   },
   "seriesInfo": {
     "id": 209223,
     "IDcode": "SNIS-829",
     "title": "アナタ目線で揺らす-夢乃あいか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/29/51367c3a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/29/51367c3a/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/1W7JFCGz/index.m3u8"
   },
   "seriesInfo": {
     "id": 79628,
     "IDcode": "JUL-685",
     "title": "31日間禁欲生活-長嶋沙央梨",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
+      "苗条",
       "已婚妇女",
-      "成熟的女人",
-      "高",
       "纪录片",
-      "苗条"
+      "成熟的女人",
+      "高"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/08/29/e9e0c1442be473dac9775d802b4b6265.jpg",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/b889eae2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/b889eae2/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68d207b9e4a73d4f159b687c.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202507/07/f688f3cb4356/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 214079,
     "IDcode": "JUL-743",
     "title": "客户的女人-大槻ひびき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

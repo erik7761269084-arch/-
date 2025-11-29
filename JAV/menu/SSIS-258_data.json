@@ -1,21 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/21/170c5601/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/21/170c5601/index.m3u8",
+    "线路2": "https://video13.bpzy1.com/video/20220117/20c56171eec49806976a29f309e59ca6/index.m3u8"
   },
   "seriesInfo": {
     "id": 80396,
     "IDcode": "SSIS-258",
     "title": "她的丈夫在欺骗她-小島みなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [
-      "出轨",
-      "新娘，年轻妻子",
-      "接吻",
       "戏剧",
+      "出轨",
+      "正太控",
+      "新娘，年轻妻子",
       "薄马赛克",
-      "正太控"
+      "接吻"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/12/21/1a82b09b0977d42ebbb415c7fc0e056c.jpg",

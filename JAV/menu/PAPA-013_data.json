@@ -1,20 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://v2024.bbffsl.com/20250110/jc7gOWzf/index.m3u8"
+    "主线路": "https://v2024.bbffsl.com/20250110/jc7gOWzf/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241229/o5celd4i/index.m3u8",
+    "线路3": "https://yutubf.lsbbf3.com/20241229/o5celd4i/index.m3u8"
   },
   "seriesInfo": {
     "id": 74058,
     "IDcode": "PAPA-013",
     "title": "ゆにこ",
     "publish_date": "2019-12-30",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "素人作品",
-      "第一人称摄影",
       "企画",
+      "美少女电影",
+      "素人作品",
       "颜射",
-      "美少女电影"
+      "第一人称摄影"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250111-1/c6a62b01839fd10b7665e3347833624c.jpg",

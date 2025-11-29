@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250109/k8yWq6VT/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250109/k8yWq6VT/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/3SC8UN5Jcg2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 149911,
     "IDcode": "SIRO-1019",
     "title": "业馀个人摄影和发文110",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250227-1/b2b8789c4a55f78ca53b80415920b174.jpg",
     "background_img": "",

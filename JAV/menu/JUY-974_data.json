@@ -1,14 +1,16 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220928/7Annpqml/index.m3u8",
-    "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/c890b99c/index.m3u8"
+    "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/c890b99c/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202501/13/67840bec8a48711d81b820bb/6fc1d4/index.m3u8",
+    "线路4": "https://www.bfbfhao.com/20200712/7DDqzAdv/index.m3u8"
   },
   "seriesInfo": {
     "id": 165815,
     "IDcode": "JUY-974",
     "title": "妻子不在家的暴风雨夜和妻子的知性姐姐独处按捺不住的我",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

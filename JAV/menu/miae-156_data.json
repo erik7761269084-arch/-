@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/16/26323c12/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/16/26323c12/index.m3u8",
+    "线路2": "https://krevonix.com/20221028/EZr7xMi7/index.m3u8"
   },
   "seriesInfo": {
     "id": 211992,
     "IDcode": "MIAE-156",
     "title": "超高級中出-椎名そら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

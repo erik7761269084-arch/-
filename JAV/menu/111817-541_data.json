@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/QSwcp0OC/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/QSwcp0OC/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221030/iNKQFcBx/index.m3u8"
   },
   "seriesInfo": {
     "id": 143353,
     "IDcode": "111817-541",
     "title": "我亲爱的主人和我作为服务员3神田丽奈",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

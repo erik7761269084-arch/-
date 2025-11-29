@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/29bd2ed7/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/29bd2ed7/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191121/raChFDoK/index.m3u8"
   },
   "seriesInfo": {
     "id": 210852,
     "IDcode": "SHKD-620",
     "title": "暗箱交易-卯水咲流",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

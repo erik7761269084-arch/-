@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/08/a1fbfbc7/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/08/a1fbfbc7/index.m3u8",
+    "线路2": "https://vostrely.com/20240921/G3p1Kj6X/index.m3u8"
   },
   "seriesInfo": {
     "id": 173570,
     "IDcode": "ANAV-004",
     "title": "孕ませシンドローム 排卵日狙い種付け輪● 雅子りな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ANI＋I",
     "genres": [],
     "description": "",

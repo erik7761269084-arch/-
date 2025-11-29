@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/17/be0ab379/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/17/be0ab379/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/M5Z2ZIIe/index.m3u8"
   },
   "seriesInfo": {
     "id": 210018,
     "IDcode": "MIAA-301",
     "title": "夏休み補習NTR-久留木玲",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [
       "NTR",

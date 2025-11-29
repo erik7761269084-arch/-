@@ -2,21 +2,23 @@
   "episodes": {
     "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/01/7e2f62bb/index.m3u8",
     "线路2": "https://v1.1bbffvip.com/20220817/0ueqiwq2/index.m3u8",
-    "线路3": "https://v1.1bbffvip.com/20220817/4onSx3q9/index.m3u8"
+    "线路3": "https://v1.1bbffvip.com/20220817/4onSx3q9/index.m3u8",
+    "线路4": "https://vostrely.com/20250202/igc3uetv/index.m3u8",
+    "线路5": "https://www.bfbfhao.com/20200712/PBS2rGSI/index.m3u8"
   },
   "seriesInfo": {
     "id": 103317,
     "IDcode": "MIDE-681",
     "title": "美丽的女孩-七沢みあ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "美少女电影",
-      "高中女生",
-      "女佣",
+      "苗条",
       "荡妇",
-      "苗条"
+      "女佣",
+      "美少女电影",
+      "高中女生"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/02/02/7781fa4da1b2ffb0f28114f15d11df7e.jpg",

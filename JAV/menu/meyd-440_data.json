@@ -1,13 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/f850bc8b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/f850bc8b/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250329/QWHF8FR4/index.m3u8",
+    "线路3": "https://v2025.ddcdnbf.com/20250407/cY2GANQy/index.m3u8",
+    "线路4": "https://vip3.newljlj.com/20250407/cY2GANQy/index.m3u8",
+    "线路5": "https://v2025.fhbbff.com/20250407/cY2GANQy/index.m3u8",
+    "线路6": "https://v2024.sysybf.com/20250408/S6pQ7Fi0/index.m3u8",
+    "线路7": "https://v5.lbv325627.com/20250408/S6pQ7Fi0/index.m3u8",
+    "线路8": "https://yutubf.lsbbf3.com/20250329/QWHF8FR4/index.m3u8",
+    "线路9": "https://krevonix.com/20230627/PUlxl9LZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 212296,
     "IDcode": "MEYD-440",
     "title": "義父中出-高杉麻里",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "溜池",
     "genres": [],
     "description": "",

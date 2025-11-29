@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241228/yzO47cFn/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241228/yzO47cFn/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200705/UTj03nKl/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20220810/IjIfBrv0/index.m3u8"
   },
   "seriesInfo": {
     "id": 144863,
     "IDcode": "120311-877",
     "title": "性骚扰列车KotomiAsakura",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

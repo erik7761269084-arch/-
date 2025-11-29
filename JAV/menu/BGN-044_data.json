@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/30/c6c1cd01/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/30/c6c1cd01/index.m3u8",
+    "线路2": "https://krevonix.com/20221113/hwzBCVJq/index.m3u8"
   },
   "seriesInfo": {
     "id": 209089,
     "IDcode": "BGN-044",
     "title": "専属デビュー-瀬名きらり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

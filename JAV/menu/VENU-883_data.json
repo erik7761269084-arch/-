@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221129/Em2z1Lvk/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221129/Em2z1Lvk/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220624/vjlWWsva/index.m3u8"
   },
   "seriesInfo": {
     "id": 166148,
     "IDcode": "VENU-883",
     "title": "突然押しかけてきた嫁の姉さん",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

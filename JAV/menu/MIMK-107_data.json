@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202409/24/A6Zv7cJWhD1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202409/24/A6Zv7cJWhD1/video/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20240930/UoSBm7Ou/index.m3u8"
   },
   "seriesInfo": {
     "id": 155928,
     "IDcode": "MIMK-107",
     "title": "無碼破解版想要委托r老二的姊姊",
     "publish_date": "",
-    "type": "有码",
-    "company": "MOODYZ",
-    "genres": [],
+    "type": "无码",
+    "company": "DEEP'S",
+    "genres": [
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/3ae4ca234809e10324144e77f0490c3a.jpg",
     "background_img": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/21/68280bee/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/21/68280bee/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/11/8f92e890e99b/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212326,
     "IDcode": "JUY-960",
     "title": "美丽的老板娘-飯山香織",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

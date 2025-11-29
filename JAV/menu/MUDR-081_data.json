@@ -2,21 +2,23 @@
   "episodes": {
     "主线路": "https://v2024.bbffsl.com/20250115/aUSjndpA/index.m3u8",
     "线路2": "https://v1.1bbffvip.com/20220817/83SKyt39/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2021/08/13/0a826535/index.m3u8"
+    "线路3": "https://t26.cdn2020.com/video/m3u8/2021/08/13/0a826535/index.m3u8",
+    "线路4": "https://lsbbf5.com/20250104/hJbmnITI/index.m3u8",
+    "线路5": "https://yutubf.lsbbf3.com/20250104/hJbmnITI/index.m3u8"
   },
   "seriesInfo": {
     "id": 73837,
     "IDcode": "MUDR-081",
     "title": "制服美少女-有村のぞみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "無垢",
     "genres": [
-      "SM",
-      "中出",
+      "捆绑",
       "校服",
       "戏剧",
-      "捆绑"
+      "中出",
+      "SM"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/08/13/b3cdeedef2443b9675b64d66c61118dd.jpg",

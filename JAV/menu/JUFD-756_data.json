@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20230217/LPuvGqjD/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20230217/LPuvGqjD/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220726/PK3BovF7/index.m3u8"
   },
   "seriesInfo": {
     "id": 166710,
     "IDcode": "JUFD-756",
     "title": "惡男竟睡走我女友若菜奈央",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "DREAMTICKET",
     "genres": [
       "中文字幕"

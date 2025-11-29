@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/17/a69333e8/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/17/a69333e8/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250124/qCpgwsu3/index.m3u8"
   },
   "seriesInfo": {
     "id": 214518,
     "IDcode": "JUL-766",
     "title": "我儿子的朋友-水戸かな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

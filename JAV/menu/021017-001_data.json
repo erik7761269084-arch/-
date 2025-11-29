@@ -7,9 +7,11 @@
     "IDcode": "021017-001",
     "title": "猫图画书Ayumu",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250202-1/00fcc0b852ae3ac4d5c17d348f5dda8b.jpg",
     "background_img": "",

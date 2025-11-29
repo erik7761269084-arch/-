@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/c97b8a13/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/c97b8a13/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230302/dSlgc1fs/index.m3u8"
   },
   "seriesInfo": {
     "id": 213404,
     "IDcode": "PRED-305",
     "title": "専属美女共演240分",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "PREMIUM",
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/09/16/3d3ced0439bba19da422a45f4e712214.jpg",
     "background_img": "",

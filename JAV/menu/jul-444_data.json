@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/08/0ed69de3/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/08/0ed69de3/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230511/NsDaS7mA/index.m3u8"
   },
   "seriesInfo": {
     "id": 173673,
     "IDcode": "JUL-444",
     "title": "交易处被傲慢社长连续中出出差接待新人专属-春明润",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/KaFm3Fny/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/KaFm3Fny/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/19/1c8cc3852205/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154655,
     "IDcode": "TAT-032",
     "title": "活跃在奇闻趣事的美少女和情人旅馆HRika",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

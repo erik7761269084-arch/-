@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/12/a1e5e6fe/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/12/a1e5e6fe/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241216/UqkrdlYm/index.m3u8"
   },
   "seriesInfo": {
     "id": 210537,
     "IDcode": "ATID-354",
     "title": "深闺怨妇-有村のぞみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

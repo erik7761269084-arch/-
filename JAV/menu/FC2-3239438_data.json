@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/da557c9e/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/da557c9e/index.m3u8",
+    "线路2": "https://vostrely.com/20230614/gJJ4Qe2o/index.m3u8"
   },
   "seriesInfo": {
     "id": 114597,
     "IDcode": "FC2-3239438",
     "title": "前学生会长",
     "publish_date": "2025-09-18",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

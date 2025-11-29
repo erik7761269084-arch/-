@@ -7,9 +7,11 @@
     "IDcode": "SIRO-1291",
     "title": "业馀个人射击和张贴254",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/6f5fcf6145e0ab95d55492e0e4d500a1.jpg",
     "background_img": "",

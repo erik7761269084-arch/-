@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/15/97f96e0e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/15/97f96e0e/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202510/08/e2ec35cde885/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209644,
     "IDcode": "WANZ-966",
     "title": "終電を逃し-桐谷まつり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

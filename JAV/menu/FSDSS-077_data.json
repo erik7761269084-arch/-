@@ -2,14 +2,15 @@
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/6737d98bf514c41c435dce7e.m3u8",
     "线路2": "https://t27.cdn2020.com/video/m3u8/2020/09/05/a64d7346/index.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/6737d98bf514c41c435dce7e.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/6737d98bf514c41c435dce7e.m3u8",
+    "线路4": "https://jkunnzyx.com/20230303/ivm0wtTc/index.m3u8"
   },
   "seriesInfo": {
     "id": 172012,
     "IDcode": "FSDSS-077",
     "title": "性骚扰机长-天使もえ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

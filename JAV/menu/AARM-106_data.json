@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://vip3.slslvip3.com/20230721/8RTyqF7f/index.m3u8"
+    "主线路": "https://vip3.slslvip3.com/20230721/8RTyqF7f/index.m3u8",
+    "线路2": "https://232402.sl3split.com/20230721/8RTyqF7f/index.m3u8"
   },
   "seriesInfo": {
     "id": 87233,
     "IDcode": "AARM-106",
     "title": "♯個人店♯マッサージ♯裏メニュー♯確信犯…でヒットするマッサージ店は、ほぼ「○○あり」が多いと噂の件 ～マッサージで感じちゃった「あるある」BEST",
     "publish_date": "2022-07-26",
-    "type": "有码",
+    "type": null,
     "company": "AROMA PLANNING",
     "genres": [
-      "美容院",
-      "精选，综合",
       "按摩",
+      "4小时以上作品",
       "恋物癖",
-      "4小时以上作品"
+      "精选，综合",
+      "美容院"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230721-1/b0057a61e31b5cd6049fe588d9ad702c.jpg",

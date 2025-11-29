@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/rgEYCTIO/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/rgEYCTIO/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/e1FsWrZa/index.m3u8"
   },
   "seriesInfo": {
     "id": 143657,
     "IDcode": "042910-360",
     "title": "相川香织在我家",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

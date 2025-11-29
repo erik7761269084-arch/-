@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/469645e1/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/469645e1/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/J2oKNJsi/index.m3u8"
   },
   "seriesInfo": {
     "id": 214631,
     "IDcode": "EBOD-869",
     "title": "高級美容勤務-花咲亜弥",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "E-BODY",
     "genres": [],
     "description": "",

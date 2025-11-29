@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/06/ed5705c5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/06/ed5705c5/index.m3u8",
+    "线路2": "https://krevonix.com/20221013/k0ZCxa2j/index.m3u8"
   },
   "seriesInfo": {
     "id": 213234,
     "IDcode": "SHKD-764",
     "title": "午後三時の団地妻-佐々木あき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

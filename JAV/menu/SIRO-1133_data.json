@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/meKMZzVw/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/meKMZzVw/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/1Nuib9qkpb2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150382,
     "IDcode": "SIRO-1133",
     "title": "业馀个人摄影和发文181",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250228-1/650c82438de306c208acff87ddaac00d.jpg",
     "background_img": "",

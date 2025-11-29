@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/26/540fc428/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/26/540fc428/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/27/8d7c4f54dc78/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212456,
     "IDcode": "NSPS-991",
     "title": "妻子在有权势人的怀里-向井藍",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "素人Only",
     "genres": [],
     "description": "",

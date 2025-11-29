@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/09/50b58ee3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/09/50b58ee3/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68ff4af2dd88d14f065808ed.m3u8"
   },
   "seriesInfo": {
     "id": 211439,
     "IDcode": "JUX-418",
     "title": "調教人妻-岡咲かすみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "人妻"

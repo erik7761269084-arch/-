@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/23/4030feac/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/23/4030feac/index.m3u8",
+    "线路2": "https://krevonix.com/20221112/ozfzoKVC/index.m3u8"
   },
   "seriesInfo": {
     "id": 208908,
     "IDcode": "AMA-016",
     "title": "SEXの逸材VOL.16",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

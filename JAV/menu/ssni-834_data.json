@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/05/b9c9ac0e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/05/b9c9ac0e/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230929/rbJ7lYUQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 210139,
     "IDcode": "SSNI-834",
     "title": "帰宅難民-吉岡ひより",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

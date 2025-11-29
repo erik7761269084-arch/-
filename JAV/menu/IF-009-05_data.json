@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/F99R4iOH/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/F99R4iOH/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/06/b735a9923ba4/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154466,
     "IDcode": "IF-009-05",
     "title": "如果你被秘密邀请到Hvol.2Aoi",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

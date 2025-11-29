@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/20/8e9ccc15/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/20/8e9ccc15/index.m3u8",
+    "线路2": "https://vip4.lbbf9.com/20241201/lM7rq0mk/index.m3u8"
   },
   "seriesInfo": {
     "id": 214577,
     "IDcode": "JUL-770",
     "title": "魔镜NTR-風間ゆみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "NTR",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/03/542c0c5e/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/03/542c0c5e/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f358a1d6fbef4e90fe5eca.m3u8"
   },
   "seriesInfo": {
     "id": 212544,
     "IDcode": "DOKI-004",
     "title": "老板是个女人",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

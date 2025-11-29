@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/Px3tvGNP/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/Px3tvGNP/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20220930/8lqd6AUa/index.m3u8"
   },
   "seriesInfo": {
     "id": 141925,
     "IDcode": "021318-603",
     "title": "如果我的女朋友是爱里真城爱里真城",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250129-1/bb1dae4ee21e7f17f3740d95e0a66f5a.jpg",
     "background_img": "",

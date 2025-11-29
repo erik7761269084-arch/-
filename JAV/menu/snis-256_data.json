@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/25/5e64e739/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/25/5e64e739/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f46ac1d6fbef4e90ffc9b4.m3u8"
   },
   "seriesInfo": {
     "id": 211809,
     "IDcode": "SNIS-256",
     "title": "老人介護士-瑠川リナ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

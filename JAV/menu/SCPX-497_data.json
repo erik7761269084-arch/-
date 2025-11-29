@@ -1,23 +1,25 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/05/26/bf804368/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/05/26/bf804368/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68e18d25dd88d14f0620b8f2.m3u8",
+    "线路3": "https://vostrely.com/20240425/5WaSUMsh/index.m3u8"
   },
   "seriesInfo": {
     "id": 104939,
     "IDcode": "SCPX-497",
     "title": "男女友情监测",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "K.M.P",
     "genres": [
-      "业余",
       "潮吹",
-      "中出",
       "偷窥",
-      "情侣"
+      "情侣",
+      "业余",
+      "中出"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20240528-1/bf2ca088ca310f9d5130383de0080767.jpg",
+    "cover_url": "https://lust103.cc/upload/vod/20240528-1/1abdf8f95f1c0e611ea50dd856fdfebd.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-497",
     "actresses": []

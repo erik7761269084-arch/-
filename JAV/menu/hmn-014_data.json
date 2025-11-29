@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/09/85e42186/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/09/85e42186/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/181a4b7cf5a6/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212673,
     "IDcode": "HMN-014",
     "title": "她的第一次被中出-広仲みなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "本中",
     "genres": [],
     "description": "",

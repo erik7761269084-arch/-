@@ -1,17 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/26/7d49f8b2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/26/7d49f8b2/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/09/677e3dbef9a2e9b1d46439fe/0g4587/index.m3u8",
+    "线路3": "https://jkunnzyx.com/20230304/XVZO75wg/index.m3u8"
   },
   "seriesInfo": {
     "id": 207599,
     "IDcode": "MIAE-354",
     "title": "暗恋的女孩-星奈あい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20240327-1/a6d852737056479486af56218f7bd0b5.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677e3dbef9a2e9b1d46439fe/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAE-354",
     "actresses": []

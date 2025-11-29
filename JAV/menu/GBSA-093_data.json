@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/f38eb150/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/f38eb150/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/08/690f0e5e2a997527cfd32021/efda8c/index.m3u8"
   },
   "seriesInfo": {
     "id": 174836,
     "IDcode": "GBSA-093",
     "title": "背徳の秘湯 由紀恵（仮名）二十九歳 完全版",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

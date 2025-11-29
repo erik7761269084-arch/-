@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/03/195babd3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/03/195babd3/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220712/pFsXZ1Nv/index.m3u8"
   },
   "seriesInfo": {
     "id": 211387,
     "IDcode": "SSNI-951",
     "title": "色情偶像-山崎水愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

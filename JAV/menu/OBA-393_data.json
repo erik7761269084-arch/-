@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/O1Tz9Pet/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/O1Tz9Pet/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230511/AAJJYQOp/index.m3u8"
   },
   "seriesInfo": {
     "id": 165469,
     "IDcode": "OBA-393",
     "title": "Obasan専属 第2弾！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

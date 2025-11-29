@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/30/d616cb9a/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/30/d616cb9a/index.m3u8",
+    "线路2": "https://vostrely.com/20251010/KckslfP0/index.m3u8"
   },
   "seriesInfo": {
     "id": 184083,
     "IDcode": "CEAD-699",
     "title": "有坂深雪 2枚組ハイパーベスト4時間24分",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "セレブの友",
     "genres": [],
     "description": "",

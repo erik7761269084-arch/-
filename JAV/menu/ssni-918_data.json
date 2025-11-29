@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/29/9f2d0d89/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/29/9f2d0d89/index.m3u8",
+    "线路2": "https://vostrely.com/20240814/tPurWMK7/index.m3u8"
   },
   "seriesInfo": {
     "id": 211063,
     "IDcode": "SSNI-918",
     "title": "上品淫語-夢乃あいか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

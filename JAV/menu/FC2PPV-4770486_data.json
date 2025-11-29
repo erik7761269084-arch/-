@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/12/6b6a0b8c/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/12/6b6a0b8c/index.m3u8",
+    "线路2": "https://thm3u8.com/20250929/9ITBUGOB/index.m3u8"
   },
   "seriesInfo": {
     "id": 177038,
     "IDcode": "FC2PPV-4770486",
     "title": "我搭讪了隔壁喝酒的邻居老婆",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

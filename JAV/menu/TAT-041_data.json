@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/J1uFJut4/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/J1uFJut4/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/4dd174871901/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153204,
     "IDcode": "TAT-041",
     "title": "剃光的女孩在喷出时感到的奇闻趣事空",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

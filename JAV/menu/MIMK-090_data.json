@@ -1,15 +1,16 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202410/08/ZNGbZau9gP1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/06/30/d7b0b949/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/06/30/d7b0b949/index.m3u8",
+    "线路3": "https://bf3.qrtuv.com/smv1/202501/26/Hv0pp8gLy71/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 156720,
     "IDcode": "MIMK-090",
     "title": "与侄女一起的时间-八木奈々",
     "publish_date": "",
-    "type": "有码",
-    "company": "MOODYZ",
+    "type": null,
+    "company": "DEEP'S",
     "genres": [
       "乱伦"
     ],

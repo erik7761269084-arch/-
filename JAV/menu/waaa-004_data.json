@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/b9086add/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/b9086add/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250131/8jv1GUty/index.m3u8"
   },
   "seriesInfo": {
     "id": 210860,
     "IDcode": "WAAA-004",
     "title": "亀頭2.5cm-つぼみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

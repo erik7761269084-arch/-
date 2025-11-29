@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/30/21df58be/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/30/21df58be/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220817/zsBLrkDP/index.m3u8",
+    "线路3": "https://vostrely.com/20240624/MjMwWCNn/index.m3u8",
+    "线路4": "https://vip5.ddyunbo.com/20230706/CDUTy51y/index.m3u8"
   },
   "seriesInfo": {
     "id": 211371,
     "IDcode": "MIDE-190",
     "title": "性交和高潮-佐山愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

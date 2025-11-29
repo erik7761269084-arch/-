@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220818/Z29U2r0N/index.m3u8",
-    "线路2": "https://v1.1bbffvip.com/20220818/t9HEip1q/index.m3u8"
+    "线路2": "https://v1.1bbffvip.com/20220818/t9HEip1q/index.m3u8",
+    "线路3": "https://vip1.bfbfhao.com/20210403/k8ECj7nO/index.m3u8"
   },
   "seriesInfo": {
     "id": 165443,
     "IDcode": "SDMM-032",
     "title": "出張！マジックミラー号 大阪編 悪戯されても、ハメら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "中文字幕"

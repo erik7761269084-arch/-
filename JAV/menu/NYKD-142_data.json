@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/13/da0bce65/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/13/da0bce65/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68ed1e7c52c12b4e6848bd8d.m3u8"
   },
   "seriesInfo": {
     "id": 177180,
     "IDcode": "NYKD-142",
     "title": "還暦熟女 羽根透香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

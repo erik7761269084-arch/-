@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202501/31/rKPGzWfJP01/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202501/31/rKPGzWfJP01/video/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202501/19/Keyfj3CBWf1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 159295,
     "IDcode": "SPRD-1115",
     "title": "水果派一吻动芳心再吻动只因",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

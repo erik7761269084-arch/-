@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/09/df938be2/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/09/df938be2/index.m3u8",
+    "线路2": "https://vip7.3sybf.com/20221101/hgl2sBEW/index.m3u8"
   },
   "seriesInfo": {
     "id": 82447,
     "IDcode": "DGRE-003",
     "title": "接吻女王AIKA和态接吻M男优们的擂台对决到底冠军腰带将归属哪一方呢",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "女生",

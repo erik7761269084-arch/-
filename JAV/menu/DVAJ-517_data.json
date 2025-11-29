@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/07/ed8556ac/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/07/ed8556ac/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/713af0155496/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212199,
     "IDcode": "DVAJ-517",
     "title": "他在引诱我-川上奈々美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ALICE JAPAN",
     "genres": [],
     "description": "",

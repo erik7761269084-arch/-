@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/10/6bead900/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/10/6bead900/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f0b9e831a2714f1c5bc7ad.m3u8"
   },
   "seriesInfo": {
     "id": 213308,
     "IDcode": "TTYU-007",
     "title": "我叫了一个承包商来我家",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

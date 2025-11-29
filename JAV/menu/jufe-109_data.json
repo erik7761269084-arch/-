@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/22/4f43b132/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/22/4f43b132/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/j75btRjz/index.m3u8"
   },
   "seriesInfo": {
     "id": 215204,
     "IDcode": "JUFE-109",
     "title": "射精無制限-流田みな実",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FITCH",
     "genres": [],
     "description": "",

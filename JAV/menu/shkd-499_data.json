@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/24/a8b0601d/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/24/a8b0601d/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221027/6U6i6Qog/index.m3u8"
   },
   "seriesInfo": {
     "id": 214640,
     "IDcode": "SHKD-499",
     "title": "在丈夫面前被侵犯-柳朋子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "淫妻"

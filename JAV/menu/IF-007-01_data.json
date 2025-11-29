@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/JhUOzNFN/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/JhUOzNFN/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/c8e648d08540/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154471,
     "IDcode": "IF-007-01",
     "title": "如果一个女人使用分娩健康玛丽亚",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

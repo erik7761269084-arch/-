@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/DdNigyPz/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/DdNigyPz/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200705/GgNodKS1/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20220810/xxUyhoct/index.m3u8"
   },
   "seriesInfo": {
     "id": 142322,
@@ -9,9 +11,12 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
-    "cover_url": "/upload/vod/20250710-1/ea1424dacda09d1cad7d2d963f3dc9e6.jpg",
+    "cover_url": "https://tutu1.space/images/2025/07/07/272d2bf1ed8c382c49dc4b8bc1ab9331.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=092419-001",
     "actresses": []

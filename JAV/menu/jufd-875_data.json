@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/04/3fcc6495/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/04/3fcc6495/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230726/H4rQ0W3A/index.m3u8"
   },
   "seriesInfo": {
     "id": 209836,
     "IDcode": "JUFD-875",
     "title": "密着淫語-織田真子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "DREAMTICKET",
     "genres": [],
     "description": "",

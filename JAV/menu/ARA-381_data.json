@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/KakTk1nd/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/KakTk1nd/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/15/799b9b679a82/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153374,
     "IDcode": "ARA-381",
     "title": "晒黑的gal20岁美丽的大山雀",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "嫩妹"

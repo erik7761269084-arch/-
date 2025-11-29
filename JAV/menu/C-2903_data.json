@@ -1,17 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/19/4cd4c47d/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/19/4cd4c47d/index.m3u8",
+    "线路2": "https://krevonix.com/20250719/x48UEvou/index.m3u8"
   },
   "seriesInfo": {
     "id": 62794,
     "IDcode": "C-2903",
     "title": "秘めごと紀行＃018",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250619-1/6fbbcbefe8f6a487b6676fa1377f806e.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/4cd4c47d/vod.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C-2903",
     "actresses": []

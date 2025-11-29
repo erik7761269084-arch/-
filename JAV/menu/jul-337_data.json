@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/9526a890/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/9526a890/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/15/rDB4pM9n1f2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210632,
     "IDcode": "JUL-337",
     "title": "失去我的处女之身-加藤ツバキ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

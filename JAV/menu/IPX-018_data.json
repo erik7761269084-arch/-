@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/26/bb6c3ca5/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/26/bb6c3ca5/index.m3u8",
+    "线路2": "https://vip7.newljlj2025.com/20240706/hpIViOgA/index.m3u8"
   },
   "seriesInfo": {
     "id": 19432,
     "IDcode": "IPX-018",
     "title": "在家中满足粉丝-相沢みなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
-      "感謝祭",
-      "數位馬賽克",
-      "紀錄片",
       "美少女",
-      "女醫生"
+      "女醫生",
+      "感謝祭",
+      "紀錄片",
+      "數位馬賽克"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/08/26/65b641c742a1d11b5d28a20845b5625c.jpg",

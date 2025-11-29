@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202410/22/Bx2RUhg3cX1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202410/22/Bx2RUhg3cX1/video/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240814/FAMEg3sc/index.m3u8"
   },
   "seriesInfo": {
     "id": 156195,
     "IDcode": "ATID-463",
     "title": "持續侵犯兩位學生48小時讓他們身體變成沒有我就活不下去",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

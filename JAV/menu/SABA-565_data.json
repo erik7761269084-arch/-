@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/fZqYAC9x/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/fZqYAC9x/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220624/YsV26qB0/index.m3u8"
   },
   "seriesInfo": {
     "id": 165633,
     "IDcode": "SABA-565",
     "title": "♯制服を着たセフレ娘 30代塾講師投稿！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S級素人",
     "genres": [
+      "素人",
+      "素人企画",
       "中文字幕"
     ],
     "description": "",

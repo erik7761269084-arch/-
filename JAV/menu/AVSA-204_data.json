@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202501/09/Fb4bHZMvEN1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202501/09/Fb4bHZMvEN1/video/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/ibl4ccd3/index.m3u8"
   },
   "seriesInfo": {
     "id": 155497,
     "IDcode": "AVSA-204",
     "title": "下流痴女淫語",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

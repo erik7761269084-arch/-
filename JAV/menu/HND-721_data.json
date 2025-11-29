@@ -1,21 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/rqZpkDdW/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/rqZpkDdW/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/CjYBlaey/index.m3u8"
   },
   "seriesInfo": {
     "id": 103181,
     "IDcode": "HND-721",
     "title": "新人美少女ギャルと初中出し！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
+      "校服",
       "中文字幕",
+      "女佣",
       "首次亮相",
       "女生",
-      "校服",
-      "处男",
-      "女佣"
+      "处男"
     ],
     "description": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/2022/09/s1azsjyxcfo.jpg",

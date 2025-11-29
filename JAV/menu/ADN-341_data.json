@@ -1,22 +1,23 @@
 {
   "episodes": {
     "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/ff950885/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202409/22/Jq7DkRxT5x1/video/index.m3u8"
+    "线路2": "https://bf3.qrtuv.com/smv1/202409/22/Jq7DkRxT5x1/video/index.m3u8",
+    "线路3": "https://thm3u8.vip/20250125/iuEWbMox/index.m3u8"
   },
   "seriesInfo": {
     "id": 107750,
     "IDcode": "ADN-341",
     "title": "我的妻子讨厌我-明里つむぎ",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "已婚妇女",
       "戏剧",
       "白天出轨",
       "无码破解",
-      "单体作品",
-      "美少女电影"
+      "美少女电影",
+      "单体作品"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/09/12/1a86eeb4056c17ef619cbef2a969ba73.jpg",

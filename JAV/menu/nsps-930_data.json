@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/21/b2bf8f5a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/21/b2bf8f5a/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/tuIadizC/index.m3u8"
   },
   "seriesInfo": {
     "id": 210641,
     "IDcode": "NSPS-930",
     "title": "部下的妻子-舞原聖",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "素人Only",
     "genres": [],
     "description": "",

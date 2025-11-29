@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/vBGN8A2E/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/vBGN8A2E/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/15/6729bbb70f06/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153382,
     "IDcode": "ARA-459",
     "title": "非常可爱",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

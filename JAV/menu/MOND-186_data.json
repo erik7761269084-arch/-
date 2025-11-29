@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/mpQbBYHC/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/mpQbBYHC/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20200803/yvF3ngoE/index.m3u8"
   },
   "seriesInfo": {
     "id": 97685,
     "IDcode": "MOND-186",
     "title": "憧れの女上司と 篠崎かんな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "水晶映像",
     "genres": [
-      "中文字幕",
-      "出轨",
       "已婚妇女",
+      "出轨",
+      "中文字幕",
       "成熟的女人",
       "各种职业"
     ],

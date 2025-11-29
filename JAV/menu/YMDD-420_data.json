@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/12/421ed5be/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/12/421ed5be/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251012/IPL4KoCd/index.m3u8",
+    "线路3": "https://vostrely.com/20241214/Ws6cExnx/index.m3u8"
   },
   "seriesInfo": {
     "id": 177006,
     "IDcode": "YMDD-420",
     "title": "ふしだら国のアリス-乙アリスベスト-batch",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "桃太郎映像出版",
     "genres": [],
     "description": "",

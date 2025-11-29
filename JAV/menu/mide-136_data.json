@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/24/08470acf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/24/08470acf/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220817/xQ0KOdto/index.m3u8"
   },
   "seriesInfo": {
     "id": 211011,
     "IDcode": "MIDE-136",
     "title": "桃乳-神咲詩織",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

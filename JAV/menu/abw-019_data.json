@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/07/c0cbd2ea/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/07/c0cbd2ea/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230228/97cr8DEs/index.m3u8"
   },
   "seriesInfo": {
     "id": 211148,
     "IDcode": "ABW-019",
     "title": "射精執行官-河合あすな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/uY07ePHI/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/uY07ePHI/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/10/854e921e3a57/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154449,
     "IDcode": "HTR-016",
     "title": "放荡的奇闻趣事HKanon",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

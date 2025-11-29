@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/529384f9/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/529384f9/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68eb99dd52c12b4e68457814.m3u8"
   },
   "seriesInfo": {
     "id": 175969,
     "IDcode": "HUNTC-469",
     "title": "えっ！？80％？なにこの数字？ヤレる確率が可視化されてボクだけに見える世界！オフィス編2 なんだその頭の上に見えてる数字は！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "HUNTER",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/16/85afe2f3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/16/85afe2f3/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/17/1d81c1c9a446/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209996,
     "IDcode": "JUL-284",
     "title": "息子の家庭教師-さとう白音",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

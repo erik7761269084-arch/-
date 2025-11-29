@@ -2,21 +2,22 @@
   "episodes": {
     "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/03/ef95bd39/index.m3u8",
     "线路2": "https://m3u8.cdn202511.com/movie/auto/67397ba5f514c41c435e5cab.m3u8",
-    "线路3": "https://m3u8.cdn2025.life/movie/auto/67397ba5f514c41c435e5cab.m3u8"
+    "线路3": "https://m3u8.cdn2025.life/movie/auto/67397ba5f514c41c435e5cab.m3u8",
+    "线路4": "https://krevonix.com/20251011/kF2wAzYQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 19028,
     "IDcode": "IPX-427",
     "title": "痴女美少女-楓カレン",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
-      "M男・M女",
-      "蕩婦",
       "美少女電影",
       "淫語",
-      "過膝襪・小腿襪"
+      "M男・M女",
+      "過膝襪・小腿襪",
+      "蕩婦"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/09/04/eeba1463160f38be3937a10023257c4e.jpg",

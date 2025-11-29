@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/16/aaa93c92/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/16/aaa93c92/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20240904/zdXxF8An/index.m3u8"
   },
   "seriesInfo": {
     "id": 97483,
     "IDcode": "STAR-782",
     "title": "梦中情人-白石茉莉奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "已婚妇女",
       "戏剧",
+      "正太控",
       "中出",
-      "巨乳",
-      "正太控"
+      "巨乳"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/10/17/c364c5507782fd587de94fdbe480226b.jpg",

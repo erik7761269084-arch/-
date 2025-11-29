@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/01/365793e9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/01/365793e9/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20200413/mwBZMMsl/index.m3u8"
   },
   "seriesInfo": {
     "id": 106235,
     "IDcode": "ATID-211",
     "title": "完全催凌-小橋咲",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
       "催眠",

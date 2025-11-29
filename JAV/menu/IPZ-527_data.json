@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20230214/KQk2LeWv/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20230214/KQk2LeWv/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220721/Aj0HFjpl/index.m3u8"
   },
   "seriesInfo": {
     "id": 166569,
     "IDcode": "IPZ-527",
     "title": "美波那美180分本指名極上風俗4本番＋粉紅沙龍",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

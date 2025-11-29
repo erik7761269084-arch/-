@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/c1537eec/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/c1537eec/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20240225/oYYogtIc/index.m3u8"
   },
   "seriesInfo": {
     "id": 210806,
     "IDcode": "FSDSS-113",
     "title": "美容沙龙-友田彩也香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

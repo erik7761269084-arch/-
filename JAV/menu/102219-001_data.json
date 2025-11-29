@@ -1,6 +1,10 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/uxyqLApY/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/uxyqLApY/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231013/v1k1MiwZ/index.m3u8",
+    "线路3": "https://bf3.qrtuv.com/202405/25/EM0gW9jMeT1/video/index.m3u8",
+    "线路4": "https://lsbbf5.com/20231013/v1k1MiwZ/index.m3u8",
+    "线路5": "https://www.bfbfhao.com/20200712/zfvSsI2O/index.m3u8"
   },
   "seriesInfo": {
     "id": 142361,
@@ -9,9 +13,12 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
-    "cover_url": "/upload/vod/20250806-1/a885f47d85d1cdfefa441898e872bb30.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/4349c75d08ec581255989ed7e466f69e.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=102219-001",
     "actresses": []

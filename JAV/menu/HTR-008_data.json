@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/tDIZr3fu/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/tDIZr3fu/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/6dc4bb5ac74f/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154417,
     "IDcode": "HTR-008",
     "title": "奇闻趣事与微笑著的美丽女孩一起享受Shiori",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

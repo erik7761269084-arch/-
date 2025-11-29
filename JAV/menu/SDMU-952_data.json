@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220818/eZ6BY3dx/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220818/eZ6BY3dx/index.m3u8",
+    "线路2": "https://video29.bpzy1.com/video/20220606/d69eab925846eb055b76c67b8e8b20c2/index.m3u8"
   },
   "seriesInfo": {
     "id": 165430,
     "IDcode": "SDMU-952",
     "title": "奈良で捕まえた超絶オドオドビクビクデカちち子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

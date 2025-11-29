@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/14/dfd49acf/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/14/dfd49acf/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20241028/LK3NRlFu/index.m3u8"
   },
   "seriesInfo": {
     "id": 186830,
     "IDcode": "STAR-969",
     "title": "帮助处男粉丝童贞毕业的可爱偶像小仓由菜",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/09/55b5273b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/09/55b5273b/index.m3u8",
+    "线路2": "https://xbzyw25.top/video/m3u8/202507/23/0402029bc409/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212214,
     "IDcode": "ADN-329",
     "title": "結婚記念日-夏目彩春",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

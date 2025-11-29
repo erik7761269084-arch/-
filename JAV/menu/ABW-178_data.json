@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202504/28/DuXD7k5BTW2/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202504/28/DuXD7k5BTW2/video/index.m3u8",
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/12/25/ae7feac3/index.m3u8",
+    "线路3": "https://v2024.fhbbff.com/20241202/d6b0bi9u/index.m3u8"
   },
   "seriesInfo": {
     "id": 157506,
     "IDcode": "ABW-178",
     "title": "约定让她幸福的女友却被中年大叔NTR",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "NTR",

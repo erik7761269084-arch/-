@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202410/08/4WnZtB9h3b1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/02/03/80e0246d/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/02/03/80e0246d/index.m3u8",
+    "线路3": "https://thm3u8.vip/20250127/r2fjbLgH/index.m3u8"
   },
   "seriesInfo": {
     "id": 156768,
     "IDcode": "JUL-430",
     "title": "嫂子的照顾-川村晴",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "人妻"

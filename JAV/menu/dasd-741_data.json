@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/17/a3e8394c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/17/a3e8394c/index.m3u8",
+    "线路2": "https://v2024.fhbbff.com/20241129/Z9Ex5d9A/index.m3u8"
   },
   "seriesInfo": {
     "id": 210577,
     "IDcode": "DASD-741",
     "title": "干爹的大鸡巴-向井藍",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

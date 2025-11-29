@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202409/24/N2W5GagSYa1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202409/24/N2W5GagSYa1/video/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240129/H7WcLSUn/index.m3u8"
   },
   "seriesInfo": {
     "id": 156022,
     "IDcode": "IPZ-759",
     "title": "吞精吸洨鬼今晚也降临森咲满",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

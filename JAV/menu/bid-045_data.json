@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/14/b27f688e/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/14/b27f688e/index.m3u8",
+    "线路2": "https://vip4.ddyunbo.com/20240429/8VwdyFzI/index.m3u8"
   },
   "seriesInfo": {
     "id": 212808,
     "IDcode": "BID-045",
     "title": "超絶品完璧BODY",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

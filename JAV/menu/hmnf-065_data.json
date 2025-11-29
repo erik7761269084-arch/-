@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/13/609194ef/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/13/609194ef/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/17/3799ede6d076/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211730,
     "IDcode": "HMNF-065",
     "title": "AV女優17-神宮前直送",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

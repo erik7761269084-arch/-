@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/03/b39908e7/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/03/b39908e7/index.m3u8",
+    "线路2": "https://vostrely.com/20240913/UndLQm0r/index.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202506/24/3088d292a7a3/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211379,
     "IDcode": "SSNI-941",
     "title": "早上的倒垃圾时间-夢乃あいか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

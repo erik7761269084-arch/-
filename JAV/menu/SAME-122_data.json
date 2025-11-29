@@ -1,24 +1,28 @@
 {
   "episodes": {
     "主线路": "https://1.mysqldata3202s4l.com/20241020/d8JGZEcy/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2024/08/15/27d8304f/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2024/08/15/27d8304f/index.m3u8",
+    "线路3": "https://lsbbf5.com/20241020/1x3t88Yq/index.m3u8",
+    "线路4": "https://voddadaizi.com:52866/movie/auto/68d30073eb67774efbb2d26e.m3u8",
+    "线路5": "https://voddadaizi.com:52866/videos/202501/16/67878c8f2a47ebb1a8b4454c/3759e5/index.m3u8",
+    "线路6": "https://voddadaizi.com:52866/movie/auto/68db01dbd6fbef4e90d26b2c.m3u8"
   },
   "seriesInfo": {
     "id": 94075,
     "IDcode": "SAME-122",
     "title": "你是我的學生-望月蕾",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "戏剧",
-      "制服",
-      "高中女生",
       "乱伦",
-      "单体作品"
+      "制服",
+      "单体作品",
+      "高中女生"
     ],
     "description": "",
-    "cover_url": "/upload/vod/20240816-1/98b9656779d2395037f615dbe3d34cdb.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68db01dbd6fbef4e90d26b2c/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-122",
     "actresses": [

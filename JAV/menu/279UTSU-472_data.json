@@ -7,9 +7,11 @@
     "IDcode": "279UTSU-472",
     "title": "舞奈小姐",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/23/99d49c72345f5704d5b3399217e9a756.jpg",
     "background_img": "",

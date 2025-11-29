@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/30/64fb3dac/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/30/64fb3dac/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231215/ylTSqOx4/index.m3u8"
   },
   "seriesInfo": {
     "id": 210421,
     "IDcode": "VRTM-516",
     "title": "我可以教你如何接吻",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

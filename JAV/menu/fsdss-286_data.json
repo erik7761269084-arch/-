@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/23/56fdf740/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/23/56fdf740/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/42dd35527d30/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213532,
     "IDcode": "FSDSS-286",
     "title": "变态御宅族-永瀬みなも",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

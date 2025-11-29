@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/08/b39c9664/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/08/b39c9664/index.m3u8",
+    "线路2": "https://krevonix.com/20250705/bqwvW0oz/index.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202506/25/1dab8c3e61d1/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211169,
     "IDcode": "FSDSS-127",
     "title": "成人男性-橋本ありな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

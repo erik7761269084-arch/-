@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/27/825fd57a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/27/825fd57a/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/16/0YKr26mtV92/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210064,
     "IDcode": "DASD-712",
     "title": "用肉体赔偿-稲場るか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

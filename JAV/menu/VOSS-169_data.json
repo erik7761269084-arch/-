@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221203/t1LHEtU2/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221203/t1LHEtU2/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220630/YVgd11Zv/index.m3u8"
   },
   "seriesInfo": {
     "id": 166174,
     "IDcode": "VOSS-169",
     "title": "「童貞が恥ずかしいなら先生が筆下ろししてあげる！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

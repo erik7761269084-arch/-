@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/Xxp4jq8o/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/Xxp4jq8o/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220816/v5OBd6vH/index.m3u8"
   },
   "seriesInfo": {
     "id": 164631,
     "IDcode": "FIV-058",
     "title": "「オトナAV計画」VOL",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

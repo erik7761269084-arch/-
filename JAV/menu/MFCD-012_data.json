@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/5a24b58a/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/5a24b58a/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250928/oEB09cQV/index.m3u8",
+    "线路3": "https://b.v155p.com/20251002/BGWtyD09/index.m3u8"
   },
   "seriesInfo": {
     "id": 178462,
     "IDcode": "MFCD-012",
     "title": "MOON FORCE ぱこぱこしろうとコレクション。 vol.12",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "DOC",
     "genres": [],
     "description": "",

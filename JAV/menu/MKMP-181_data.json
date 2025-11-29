@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221231/HY5tD4Mm/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221231/HY5tD4Mm/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230601/wn45MtNJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 166351,
     "IDcode": "MKMP-181",
     "title": "出道3週年紀念作　京都逆搭訕大挑戰 佐倉絆",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "K.M.P",
     "genres": [
-      "中文字幕",
-      "出道作"
+      "出道作",
+      "中文字幕"
     ],
     "description": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/2023/01/jruzvocx3zi.jpg",

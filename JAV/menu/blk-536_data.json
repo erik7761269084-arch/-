@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/4b47f159/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/4b47f159/index.m3u8",
+    "线路2": "https://xbzyw25.top/video/m3u8/202507/25/d9740f9b0611/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 214628,
     "IDcode": "BLK-536",
     "title": "我搭上了一个离家出走的女孩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KIRAKIRA",
     "genres": [],
     "description": "",

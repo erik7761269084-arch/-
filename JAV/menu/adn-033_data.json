@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/25/9fdf6819/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/25/9fdf6819/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220928/xo70X6oG/index.m3u8"
   },
   "seriesInfo": {
     "id": 213564,
     "IDcode": "ADN-033",
     "title": "淫欲中-夏目彩春",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

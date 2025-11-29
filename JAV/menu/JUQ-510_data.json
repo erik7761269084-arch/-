@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202503/07/QnRh24cRba2/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202503/07/QnRh24cRba2/video/index.m3u8",
+    "线路2": "https://vip7.newljlj2025.com/20240706/t8XrLHdZ/index.m3u8",
+    "线路3": "https://krevonix.com/20231228/Srp238jO/index.m3u8"
   },
   "seriesInfo": {
     "id": 158683,
     "IDcode": "JUQ-510",
     "title": "水果派M记联欢会阿姨陪你过大年",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

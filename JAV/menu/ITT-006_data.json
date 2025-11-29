@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/A3IBNuQX/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/A3IBNuQX/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/fd3ede1ee12f/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154509,
     "IDcode": "ITT-006",
     "title": "奇闻趣事H步美与一个漂亮的微笑女孩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

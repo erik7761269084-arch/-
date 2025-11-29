@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/9da32b2e/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/9da32b2e/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/08/690f0cce2a997527cfd3201e/b0499a/index.m3u8"
   },
   "seriesInfo": {
     "id": 174860,
     "IDcode": "GS-2129",
     "title": "裏・不倫の果てに 番外篇 T智 39歳 不倫の果てに＃11・続",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "GOGOS",
     "genres": [],
     "description": "",

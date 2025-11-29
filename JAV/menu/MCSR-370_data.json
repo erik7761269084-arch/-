@@ -1,19 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20221102/DH2thOSB/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20221102/DH2thOSB/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221102/DH2thOSB/index.m3u8"
   },
   "seriesInfo": {
     "id": 81762,
     "IDcode": "MCSR-370",
     "title": "お見合いドキュメント！ 中高年シニアの出逢いの集い",
     "publish_date": "2019-12-28",
-    "type": "有码",
+    "type": null,
     "company": "Big Morkal",
     "genres": [
       "纪录片",
-      "已婚妇女",
       "成熟的女人",
-      "素人作品"
+      "素人作品",
+      "已婚妇女"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/63537dec7d54babc1abff20fba405dd4.jpg",

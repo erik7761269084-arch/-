@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/29/16b848a2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/29/16b848a2/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220812/fjUsFwCn/index.m3u8"
   },
   "seriesInfo": {
     "id": 211340,
     "IDcode": "MIAE-084",
     "title": "交换妹妹-椎名そら 麻里梨夏",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦",

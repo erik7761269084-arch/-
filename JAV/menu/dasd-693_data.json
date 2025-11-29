@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/04/fddb829a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/04/fddb829a/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202410/31/jfXB7RzzsA1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 209491,
     "IDcode": "DASD-693",
     "title": "両親が旅行-石原希望",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

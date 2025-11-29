@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/68311226/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/68311226/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/2609ccc2a6d8/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213976,
     "IDcode": "SDMM-094",
     "title": "她的男朋友是个很好的人",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

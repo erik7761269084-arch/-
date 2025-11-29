@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/09/f73b818a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/09/f73b818a/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220926/4Mbt5PP7/index.m3u8"
   },
   "seriesInfo": {
     "id": 98243,
     "IDcode": "ADN-007",
     "title": "一年多前的承诺-神ユキ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "已婚妇女",
       "强奸",
-      "凌辱"
+      "凌辱",
+      "已婚妇女"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/09/09/ff22f32491e0870cf990613f78e4dff2.jpg",

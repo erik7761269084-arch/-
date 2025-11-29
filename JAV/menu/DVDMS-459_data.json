@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/25IhjCHL/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/25IhjCHL/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/ePe0Rqfl/index.m3u8"
   },
   "seriesInfo": {
     "id": 164769,
     "IDcode": "DVDMS-459",
     "title": "一般男女モニタリングAV「",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

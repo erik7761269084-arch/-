@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20230212/Jcmx2DRi/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20230212/Jcmx2DRi/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f0914931a2714f1c5b747a.m3u8"
   },
   "seriesInfo": {
     "id": 166543,
     "IDcode": "HUNTA-331",
     "title": "正妹玩滑水道泳衣沖走大奶看光光",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

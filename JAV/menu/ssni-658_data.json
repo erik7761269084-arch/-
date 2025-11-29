@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/75ff3baf/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/75ff3baf/index.m3u8",
+    "线路2": "https://krevonix.com/20250718/cKNYM30w/index.m3u8",
+    "线路3": "https://vostrely.com/20250101/SQpV6CWb/index.m3u8",
+    "线路4": "https://bf4.qrtuv.com/202510/08/PHSEyY7xHg2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 181066,
     "IDcode": "SSNI-658",
     "title": "暗黑帝国S1豪华绚烂梦幻共演粉丝感谢会超级大乱交",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [
       "乱交"

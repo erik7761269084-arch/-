@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/19/9fd4b987/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/19/9fd4b987/index.m3u8",
+    "线路2": "https://krevonix.com/20221116/G4ngicJy/index.m3u8"
   },
   "seriesInfo": {
     "id": 82407,
     "IDcode": "GVG-256",
     "title": "会長と悪ガキ生徒会 卯水咲流",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "眼镜",
-      "各种职业",
       "戏剧",
-      "轮奸",
-      "正太控"
+      "正太控",
+      "各种职业",
+      "轮奸"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2019/12/19/QQ20191219161420dc6a6.jpg",

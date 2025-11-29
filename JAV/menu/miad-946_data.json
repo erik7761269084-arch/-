@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/dfd99c4a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/dfd99c4a/index.m3u8",
+    "线路2": "https://video49.bpzy1.com/video/20230321/019c5ea973625283f25a88529cc561c1/index.m3u8"
   },
   "seriesInfo": {
     "id": 214093,
     "IDcode": "MIAD-946",
     "title": "互相亲吻- さとう愛理",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

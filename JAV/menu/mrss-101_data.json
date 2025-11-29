@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/01/e08c4cf0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/01/e08c4cf0/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/04/y1KvzM8E742/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 211647,
     "IDcode": "MRSS-101",
     "title": "老婆让我戴绿帽-辻井ほのか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [
       "淫妻"

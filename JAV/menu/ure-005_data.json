@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/3b428ac9/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/3b428ac9/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231115/N6rzOveo/index.m3u8"
   },
   "seriesInfo": {
     "id": 183822,
     "IDcode": "URE-005",
     "title": "经典漫改最终篇历经波折老妈终于成为了只属于我的女人",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MADONNA",
     "genres": [],
     "description": "",

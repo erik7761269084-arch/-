@@ -1,14 +1,16 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202410/07/BpKqd50K871/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/06/24/6223f723/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/06/24/6223f723/index.m3u8",
+    "线路3": "https://vostrely.com/20250205/1IONKwX4/index.m3u8",
+    "线路4": "https://thm3u8.vip/20250203/fE0FXytC/index.m3u8"
   },
   "seriesInfo": {
     "id": 153447,
     "IDcode": "MIDE-786",
     "title": "生徒の誘惑-七沢みあ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

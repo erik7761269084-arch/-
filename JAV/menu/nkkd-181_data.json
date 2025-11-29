@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/ccac1492/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/ccac1492/index.m3u8",
+    "线路2": "https://sy4.3sybf.com/20201230/2UJIwHd3/index.m3u8",
+    "线路3": "https://vip4.ddyunbo.com/20210602/KUaVxPi2/index.m3u8",
+    "线路4": "https://thm3u8.vip/20250130/gwsEmMSE/index.m3u8"
   },
   "seriesInfo": {
     "id": 210798,
     "IDcode": "NKKD-181",
     "title": "我的妻子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

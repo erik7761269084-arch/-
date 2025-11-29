@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/27/5a830ea9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/27/5a830ea9/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241129/Vtwn9nmh/index.m3u8"
   },
   "seriesInfo": {
     "id": 213618,
     "IDcode": "ADN-028",
     "title": "没有我丈夫的陪伴-倉持結愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

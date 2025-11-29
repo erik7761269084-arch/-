@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20221203/i6JoDyYc/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/06/23/d928c028/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/06/23/d928c028/index.m3u8",
+    "线路3": "https://vip2.bfbfhao.com/20220629/HGRckb1p/index.m3u8"
   },
   "seriesInfo": {
     "id": 166176,
     "IDcode": "VOSS-158",
     "title": "息子が部屋から出てこない",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

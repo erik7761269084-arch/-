@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20221227/x3JmPN01/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20221227/x3JmPN01/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220817/Rxb2u4HI/index.m3u8"
   },
   "seriesInfo": {
     "id": 83613,
     "IDcode": "HYPN-010",
     "title": "催●レンタル 催●洗脳志願者 凛音とうか",
     "publish_date": "2020-02-20",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "素人作品",

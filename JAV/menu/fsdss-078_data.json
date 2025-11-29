@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/05/a455e139/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/05/a455e139/index.m3u8",
+    "线路2": "https://krevonix.com/20250704/8x3i1amI/index.m3u8",
+    "线路3": "https://video29.bpzy1.com/video/20220527/e64b06d3fe2b3949f9acaab4c1925c65/index.m3u8"
   },
   "seriesInfo": {
     "id": 210148,
     "IDcode": "FSDSS-078",
     "title": "女友的妹妹受不了了-橋本ありな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [
       "乱伦"

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/21/11d0741f/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/21/11d0741f/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230617/XSHBL0oj/index.m3u8"
   },
   "seriesInfo": {
     "id": 212934,
     "IDcode": "MDYD-665",
     "title": "義母奴-芦名未帆",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

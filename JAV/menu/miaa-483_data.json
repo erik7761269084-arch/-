@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/18/0758fd09/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/18/0758fd09/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/83155ee69513/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212890,
     "IDcode": "MIAA-483",
     "title": "教女儿男友如何避孕-藤森里穂",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [
       "乱伦"

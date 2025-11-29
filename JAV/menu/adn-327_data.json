@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/193f2d5e/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/193f2d5e/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/aQb56wZb/index.m3u8"
   },
   "seriesInfo": {
     "id": 212348,
     "IDcode": "ADN-327",
     "title": "年龄差距婚姻的隐患-東條なつ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

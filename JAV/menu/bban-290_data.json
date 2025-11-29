@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/18/f81518f9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/18/f81518f9/index.m3u8",
+    "线路2": "https://vip3.bfbfhao.com/20231224/DFLtYndF/index.m3u8"
   },
   "seriesInfo": {
     "id": 210617,
     "IDcode": "BBAN-290",
     "title": "女同性恋教师-西田カリナ 妃月るい",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "BIBIAN",
     "genres": [
       "女同"

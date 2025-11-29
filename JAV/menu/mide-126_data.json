@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/24/2392f12c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/24/2392f12c/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220817/lsyWUntn/index.m3u8",
+    "线路3": "https://vip5.ddyunbo.com/20230520/jyVAKu8Z/index.m3u8"
   },
   "seriesInfo": {
     "id": 211009,
     "IDcode": "MIDE-126",
     "title": "淫語姉-神咲詩織",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

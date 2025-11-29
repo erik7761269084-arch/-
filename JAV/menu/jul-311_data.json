@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/20/263e2650/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/20/263e2650/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/27/2e4QQy9Y0N2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210309,
     "IDcode": "JUL-311",
     "title": "親父粘着性交-向井藍",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/VqJrWQM1/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/VqJrWQM1/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/11/8ca72aed1885/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153206,
     "IDcode": "TAT-043",
     "title": "奇闻趣事HYua与一个具有出色密封性的美丽女孩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

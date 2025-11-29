@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/20/23a20ad0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/20/23a20ad0/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221127/dDpDKmSX/index.m3u8"
   },
   "seriesInfo": {
     "id": 214030,
     "IDcode": "VENU-788",
     "title": "退休的岳父对妻子的挑逗",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20230101/IBoFrdUw/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20230101/IBoFrdUw/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20230101/IBoFrdUw/index.m3u8"
   },
   "seriesInfo": {
     "id": 83897,
     "IDcode": "UMD-723",
     "title": "えっ！！友達のカノジョが僕の布団の中に潜り込んできたっ？！「ねえ、しよっか？布団の中だったらバレないからしてもいいよ◆」",
     "publish_date": "2020-03-06",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中出",

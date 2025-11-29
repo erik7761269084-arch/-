@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/11/881d6aef/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/11/881d6aef/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251018/NYwzh9i5/index.m3u8",
+    "线路3": "https://krevonix.com/20241206/7L4DVn1b/index.m3u8"
   },
   "seriesInfo": {
     "id": 176903,
     "IDcode": "NKD-322",
     "title": "調教依頼 月形はるひ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

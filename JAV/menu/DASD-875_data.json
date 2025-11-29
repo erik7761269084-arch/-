@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202503/03/RaDigwFrSV1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202503/03/RaDigwFrSV1/video/index.m3u8",
+    "线路2": "https://video40.bpzy1.com/video/20221122/11d60f04bf2332d910f6cc5280a41975/index.m3u8"
   },
   "seriesInfo": {
     "id": 155215,
     "IDcode": "DASD-875",
     "title": "請享用，美人母女。我去見了在數十年前讓她懷孕的女人和他女兒。 九條光瑠 冬愛琴音",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/27/f01eec50/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/27/f01eec50/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fd4d2d944bbe4ef05be262.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20240217/dpoZC0CZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 214689,
     "IDcode": "HBAD-259",
     "title": "被父亲带大的女儿",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "HIBINO",
     "genres": [
       "乱伦"

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/g3jpWOyl/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/g3jpWOyl/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/b8dc3647d1f5/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154434,
     "IDcode": "IF-004-01",
     "title": "如果我最好的朋友是AV演员Minori",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

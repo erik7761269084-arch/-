@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/24/14885f4a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/24/14885f4a/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68dcf77ace5a404e9bc46cc6.m3u8"
   },
   "seriesInfo": {
     "id": 211586,
     "IDcode": "JUL-437",
     "title": "新入社員-白木優子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

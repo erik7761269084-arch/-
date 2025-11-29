@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/24/b1983a71/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/24/b1983a71/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221129/7XS6Y2wm/index.m3u8"
   },
   "seriesInfo": {
     "id": 209242,
     "IDcode": "RBD-560",
     "title": "保健教諭-川上ゆう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MUGEN",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/27/4e259748/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/27/4e259748/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/2778861e6e15/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212477,
     "IDcode": "MIFD-169",
     "title": "絶倫中出-夜空あみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/07/d702e023/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/07/d702e023/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/18/8aa201cf1940/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 107244,
     "IDcode": "GENM-043",
     "title": "温泉女将-深田えいみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "老板娘，女主人",

@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/22/0f7215ac/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/22/0f7215ac/index.m3u8",
+    "线路2": "https://krevonix.com/20220925/o3GMHedq/index.m3u8"
   },
   "seriesInfo": {
     "id": 78824,
     "IDcode": "ADN-135",
     "title": "同情心-水野朝陽",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "戏剧",
-      "白天出轨"
+      "白天出轨",
+      "戏剧"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/22/e84892dfa477e0e9b70cee7e40c262a2.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/VlJ05XRr/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/VlJ05XRr/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/16/f9a5eef9d46d/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154664,
     "IDcode": "TAT-003",
     "title": "2FutariEcchiwithTwintailGirlIchika",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

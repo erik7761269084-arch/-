@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/27/45ffe2f3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/27/45ffe2f3/index.m3u8",
+    "线路2": "https://vostrely.com/20250301/ryg4YJCv/index.m3u8",
+    "线路3": "https://thm3u8.vip/20250203/Eov3zTpE/index.m3u8"
   },
   "seriesInfo": {
     "id": 209770,
     "IDcode": "MIDE-800",
     "title": "内露出痴女-水卜さくら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

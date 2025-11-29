@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/09/4b9a0a19/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/09/4b9a0a19/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/14f94a62bbe8/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212689,
     "IDcode": "HMN-016",
     "title": "王牌女排队员-木村詩織",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "本中",
     "genres": [],
     "description": "",

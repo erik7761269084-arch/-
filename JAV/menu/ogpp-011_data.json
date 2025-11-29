@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/17/b2d461d9/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/17/b2d461d9/index.m3u8",
+    "线路2": "https://v2024.sysybf.com/20241129/DUnlk5cH/index.m3u8"
   },
   "seriesInfo": {
     "id": 213427,
     "IDcode": "OGPP-011",
     "title": "先生已经两年没有做过了-通野未帆",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

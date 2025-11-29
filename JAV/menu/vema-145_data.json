@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/30/8655466a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/30/8655466a/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250204/sMkRFzxb/index.m3u8"
   },
   "seriesInfo": {
     "id": 210100,
     "IDcode": "VEMA-145",
     "title": "家庭訪問 澤村レイコ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [],
     "description": "",

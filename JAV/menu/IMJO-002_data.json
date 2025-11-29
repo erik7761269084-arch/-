@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/06/7f6fea9f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/06/7f6fea9f/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fc7bb91572686be7a48494.m3u8"
   },
   "seriesInfo": {
     "id": 173272,
     "IDcode": "IMJO-002",
     "title": "【女風盗●】カメラが捉えたイマドキ女子のリアルな性実態【女のアフター5】【かほ】",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

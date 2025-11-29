@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://vip4.bbffsl.com/20250502/t6GAiqH7/index.m3u8"
+    "主线路": "https://vip4.bbffsl.com/20250502/t6GAiqH7/index.m3u8",
+    "线路2": "https://krevonix.com/20221007/pJnGJkOH/index.m3u8"
   },
   "seriesInfo": {
     "id": 66718,
     "IDcode": "SPECIAL",
     "title": "SPECIAL",
     "publish_date": "2022-12-13",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

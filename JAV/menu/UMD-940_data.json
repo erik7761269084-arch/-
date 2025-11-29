@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/1a838fed/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/1a838fed/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251026/2kfMXikQ/index.m3u8",
+    "线路3": "https://vostrely.com/20241213/Z6wCPA8z/index.m3u8"
   },
   "seriesInfo": {
     "id": 95327,
     "IDcode": "UMD-940",
     "title": "至極の美ボディコレクション！！2ヌケるカラダのイイオンナTOP20",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "精选，综合"

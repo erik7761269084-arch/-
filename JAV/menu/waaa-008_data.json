@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/5f4ad9ca/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/5f4ad9ca/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250131/V380ztYv/index.m3u8"
   },
   "seriesInfo": {
     "id": 210863,
     "IDcode": "WAAA-008",
     "title": "我和她犯错了-根尾あかり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/10/af12a524/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/10/af12a524/index.m3u8",
+    "线路2": "https://vostrely.com/20251012/8hytyumL/index.m3u8"
   },
   "seriesInfo": {
     "id": 184564,
     "IDcode": "CPZ69-007",
     "title": "成人向け魔法少女まじか☆マジカ ワルベロキスの夜 千川とわ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

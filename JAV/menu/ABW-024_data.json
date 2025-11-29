@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://bf3.qrtuv.com/smv1/202410/07/9rvc20F8hX1/video/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/12/26/39f601f6/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/12/26/39f601f6/index.m3u8",
+    "线路3": "https://jkunnzyx.com/20230302/RBwbeB9p/index.m3u8"
   },
   "seriesInfo": {
     "id": 156772,
     "IDcode": "ABW-024",
     "title": "小悪魔-斎藤あみり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

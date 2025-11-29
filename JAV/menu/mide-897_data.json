@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/10/8eb6e81e/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/10/8eb6e81e/index.m3u8",
+    "线路2": "https://v2024.ddcdnbf.com/20241204/x1vHNlj7/index.m3u8",
+    "线路3": "https://vostrely.com/20250207/dI0Aozz7/index.m3u8"
   },
   "seriesInfo": {
     "id": 212737,
     "IDcode": "MIDE-897",
     "title": "小悪魔200％-七沢みあ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

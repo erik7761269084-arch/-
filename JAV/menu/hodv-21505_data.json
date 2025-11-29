@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/19/ef0e5ebe/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/19/ef0e5ebe/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/Jy3IyS44/index.m3u8"
   },
   "seriesInfo": {
     "id": 210282,
     "IDcode": "HODV-21505",
     "title": "美丽的身体-叶ユリア",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "H.M.P 芳友舍",
     "genres": [],
     "description": "",

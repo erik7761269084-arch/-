@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/03/f4aff332/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/03/f4aff332/index.m3u8",
+    "线路2": "https://vostrely.com/20230318/SPZ3nu6I/index.m3u8"
   },
   "seriesInfo": {
     "id": 211655,
     "IDcode": "HND-489",
     "title": "痴女中出-椎名そら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

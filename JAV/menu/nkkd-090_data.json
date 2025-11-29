@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/17/4975d160/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/17/4975d160/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220817/EGEhPyJd/index.m3u8"
   },
   "seriesInfo": {
     "id": 212862,
     "IDcode": "NKKD-090",
     "title": "帅气的勇士",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [],
     "description": "",

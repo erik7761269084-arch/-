@@ -7,9 +7,11 @@
     "IDcode": "021017-005",
     "title": "S型165首次亮相",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250210-1/1806d273124ca141a288865cd7af0851.jpg",
     "background_img": "",

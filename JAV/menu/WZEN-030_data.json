@@ -1,17 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221212/VhSpwKoe/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221212/VhSpwKoe/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/08/690f3de41fcdee36fa803ca2/3cd87d/index.m3u8",
+    "线路3": "https://vip2.bfbfhao.com/20220430/lt0Nuxsp/index.m3u8"
   },
   "seriesInfo": {
     "id": 166313,
     "IDcode": "WZEN-030",
     "title": "公式サイト 女男女@gyaku_3p",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WAAP GROUP",
     "genres": [
-      "中文字幕",
-      "乱交"
+      "乱交",
+      "中文字幕"
     ],
     "description": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/2022/12/ybrrbg5asbx.jpg",

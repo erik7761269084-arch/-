@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/15/df2e07bc/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/15/df2e07bc/index.m3u8",
+    "线路2": "https://vostrely.com/20230318/V84BetkK/index.m3u8"
   },
   "seriesInfo": {
     "id": 80120,
     "IDcode": "FSDSS-328",
     "title": "美丽的女人给你做按摩-天国るる",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [
-      "乳液",
       "按摩",
-      "乳房"
+      "乳房",
+      "乳液"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/12/15/9e0c9697347ed90b9c0ea8848c617001.jpg",

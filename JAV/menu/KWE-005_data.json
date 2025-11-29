@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221027/3YynyDht/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221027/3YynyDht/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191104/0gngg9hx/index.m3u8"
   },
   "seriesInfo": {
     "id": 166022,
     "IDcode": "KWE-005",
     "title": "W痴女～女は连続绝顶、男は寸止め、",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

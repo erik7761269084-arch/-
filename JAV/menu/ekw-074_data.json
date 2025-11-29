@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/08/36bbfca5/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/08/36bbfca5/index.m3u8",
+    "线路2": "https://v2024.ddcdnbf.com/20241202/l66wX8HK/index.m3u8"
   },
   "seriesInfo": {
     "id": 214937,
     "IDcode": "EKW-074",
     "title": "淫語INGO-平井栞奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

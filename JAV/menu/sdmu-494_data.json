@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/f61cb46b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/f61cb46b/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241201/NyHhzl2e/index.m3u8"
   },
   "seriesInfo": {
     "id": 213900,
     "IDcode": "SDMU-494",
     "title": "等待取货-若菜奈央",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/01/06e223ff/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/01/06e223ff/index.m3u8",
+    "线路2": "https://video40.bpzy1.com/video/20230113/875795f098d8379f2e11c25af9c6851f/index.m3u8"
   },
   "seriesInfo": {
     "id": 208648,
     "IDcode": "ATID-283",
     "title": "美人看護師連鎖喰い",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

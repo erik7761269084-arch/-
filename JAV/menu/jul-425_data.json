@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/24/ec12a520/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/24/ec12a520/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/29/3f1a4ff812e6/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211575,
     "IDcode": "JUL-425",
     "title": "不堪重负的臀部-木下凛々子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

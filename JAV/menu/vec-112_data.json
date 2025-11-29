@@ -1,19 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/02/f55ba286/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/02/f55ba286/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2020/10/16/c564fb07/index.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202507/27/ffd10b0542fc/playlist.m3u8",
+    "线路4": "https://vip8.3sybf.com/20230128/VqqoxV2e/index.m3u8"
   },
   "seriesInfo": {
     "id": 203561,
     "IDcode": "VEC-112",
     "title": "友人の母親 波多野結衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [
       "乱伦"
     ],
     "description": "",
-    "cover_url": "https://tutu1.space/images/2020/10/17/f1025e67d370b16261b3ec6eac523260.jpg",
+    "cover_url": "https://tutu1.space/images/2020/07/01/QQ2020070204242058319.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-112",
     "actresses": []

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/09fc6055/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/09fc6055/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230523/KTQfa4fj/index.m3u8",
+    "线路3": "https://vip23.newljlj2025.com/20190912/5uTQiYCh/index.m3u8"
   },
   "seriesInfo": {
     "id": 208798,
     "IDcode": "MIDE-453",
     "title": "団地妻が欲求不満-秋山祥子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

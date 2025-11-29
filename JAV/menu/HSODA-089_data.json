@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/2f6409bf/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/2f6409bf/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68eb99a252c12b4e68457813.m3u8"
   },
   "seriesInfo": {
     "id": 175971,
     "IDcode": "HSODA-089",
     "title": "着床器官 那津乃ちなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "HUNTER",
     "genres": [],
     "description": "",

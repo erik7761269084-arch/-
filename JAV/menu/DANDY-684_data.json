@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/eDn4CHi5/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/eDn4CHi5/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/lUVjdMFb/index.m3u8"
   },
   "seriesInfo": {
     "id": 164679,
     "IDcode": "DANDY-684",
     "title": "＜DANDYxひよこコラボ＞",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

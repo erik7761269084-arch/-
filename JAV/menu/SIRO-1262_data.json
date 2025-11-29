@@ -7,9 +7,11 @@
     "IDcode": "SIRO-1262",
     "title": "业馀个人射击和张贴260",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/eab7a527433bff1649a9d90d3935d44d.jpg",
     "background_img": "",

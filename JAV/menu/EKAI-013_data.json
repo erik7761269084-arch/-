@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20230119/hOLdrIlY/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20230119/hOLdrIlY/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f0927f31a2714f1c5b747d.m3u8"
   },
   "seriesInfo": {
     "id": 166522,
     "IDcode": "EKAI-013",
     "title": "篠田步美引退精選",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

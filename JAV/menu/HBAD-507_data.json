@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/Q5mpxgul/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/Q5mpxgul/index.m3u8",
+    "线路2": "https://video24.bpzy1.com/video/20220425/ee91400631eaf88a3e8d9cc715ce21e8/index.m3u8"
   },
   "seriesInfo": {
     "id": 164948,
     "IDcode": "HBAD-507",
     "title": "隣に越してきた高飛車独女がマセガキ達の",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "HIBINO",
     "genres": [
       "中文字幕"

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v2024.bbffsl.com/20250130/pRamYSQ3/index.m3u8"
+    "主线路": "https://v2024.bbffsl.com/20250130/pRamYSQ3/index.m3u8",
+    "线路2": "https://lsbbf2.com/20231012/Rr9Jo32t/index.m3u8"
   },
   "seriesInfo": {
     "id": 1111,
     "IDcode": "HEYZO-1594",
     "title": "這是成人玩具！ ？ ～行李裡的東西不好～",
     "publish_date": "2017-11-18",
-    "type": "无码",
+    "type": null,
     "company": "HEYZO",
     "genres": [
       "按摩棒",

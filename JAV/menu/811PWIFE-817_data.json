@@ -1,17 +1,23 @@
 {
   "episodes": {
-    "主线路": "https://b.gg155gg1.com/20250512/1HUYpVWp/index.m3u8"
+    "主线路": "https://b.gg155gg1.com/20250512/1HUYpVWp/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250505/nAW82K31/index.m3u8",
+    "线路3": "https://lsbbf5.com/20241119/fXzH8oGV/index.m3u8",
+    "线路4": "https://krevonix.com/20240803/LHxxy2EV/index.m3u8",
+    "线路5": "https://vip3.newljlj.com/20250512/1HUYpVWp/index.m3u8"
   },
   "seriesInfo": {
     "id": 170712,
     "IDcode": "811PWIFE-817",
     "title": "のぞみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20250513-1/c55039b34728eb0030d3a25e7d945464.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/472cccacf0944e2803de98722b54b684.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=811PWIFE-817",
     "actresses": []

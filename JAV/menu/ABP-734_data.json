@@ -1,17 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/23/2f3a3aa4/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/03/23/2f3a3aa4/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/10/67801955c179ffb1db615b56/g4g770/index.m3u8",
+    "线路3": "https://vip4.ddyunbo.com/20210409/NE37Wc9S/index.m3u8"
   },
   "seriesInfo": {
     "id": 207463,
     "IDcode": "ABP-734",
     "title": "粉色沙龙头牌技师爱音麻里亚",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20240327-1/a089166f780f0b331db2df0696268686.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67801955c179ffb1db615b56/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-734",
     "actresses": []

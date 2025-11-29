@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/05/ddf896d6/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/05/ddf896d6/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230302/B4OT3FHg/index.m3u8"
   },
   "seriesInfo": {
     "id": 211674,
     "IDcode": "MIDE-784",
     "title": "初体験4本番-小野六花",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

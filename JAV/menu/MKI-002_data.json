@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/JNodlpgf/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/JNodlpgf/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/06/ffddd11a0189/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154592,
     "IDcode": "MKI-002",
     "title": "色情有趣和可爱奇闻趣事HAoi",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

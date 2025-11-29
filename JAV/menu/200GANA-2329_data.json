@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/18/97310c7f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/18/97310c7f/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230415/tNarB9pC/index.m3u8"
   },
   "seriesInfo": {
     "id": 196950,
     "IDcode": "200GANA-2329",
     "title": "在秋叶原用遥控车搭讪可爱的音乐系美少女",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/18/bc1197515c2f956552e0801729ba42fd.jpg",
     "background_img": "",

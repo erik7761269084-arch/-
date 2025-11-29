@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20221127/Yx0nl84v/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20221127/Yx0nl84v/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20220629/NceZ8BXt/index.m3u8"
   },
   "seriesInfo": {
     "id": 166297,
     "IDcode": "VNDS-5188",
     "title": "五十路の母が…",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

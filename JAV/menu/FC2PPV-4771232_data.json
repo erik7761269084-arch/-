@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/12/c834021d/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/12/c834021d/index.m3u8",
+    "线路2": "https://thm3u8.com/20250929/948aAvSv/index.m3u8"
   },
   "seriesInfo": {
     "id": 177051,
     "IDcode": "FC2PPV-4771232",
     "title": "我可以舔你吗",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/05/10d9e30c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/05/10d9e30c/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250204/NEX5cCQe/index.m3u8"
   },
   "seriesInfo": {
     "id": 213213,
     "IDcode": "CMD-031",
     "title": "便利店-高美はるか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

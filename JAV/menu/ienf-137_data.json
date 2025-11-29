@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/30/39653347/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/30/39653347/index.m3u8",
+    "线路2": "https://video10.bpzy1.com/video/20211212/759c9957516bcbf867e25502abb45b4e/index.m3u8"
   },
   "seriesInfo": {
     "id": 212114,
     "IDcode": "IENF-137",
     "title": "小姨子突然决定搬来和我一起住",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IENERGY",
     "genres": [
       "乱伦"

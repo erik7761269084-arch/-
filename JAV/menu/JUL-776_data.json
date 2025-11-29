@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/28/aaa72ed9/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/28/aaa72ed9/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/b8B9bXKY/index.m3u8"
   },
   "seriesInfo": {
     "id": 84995,
     "IDcode": "JUL-776",
     "title": "不道德戏剧-小野寺真優",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
+      "苗条",
       "已婚妇女",
-      "成熟的女人",
-      "接吻",
       "白天出轨",
-      "苗条"
+      "成熟的女人",
+      "接吻"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/11/28/4738e2505870e57e49643b03857d0fc1.jpg",

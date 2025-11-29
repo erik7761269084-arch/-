@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/27/f68ee174/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/27/f68ee174/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/466097eda86f/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212469,
     "IDcode": "EBOD-841",
     "title": "禍性接待-北野未奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "E-BODY",
     "genres": [],
     "description": "",

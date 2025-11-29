@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/20/17f4d7e2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/20/17f4d7e2/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/wiUnfETC/index.m3u8"
   },
   "seriesInfo": {
     "id": 210304,
     "IDcode": "MOND-191",
     "title": "女上司 葵百合香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "水晶映像",
     "genres": [],
     "description": "",

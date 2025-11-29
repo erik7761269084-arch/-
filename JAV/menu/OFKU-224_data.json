@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/9f28a2c8/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/19/9f28a2c8/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251012/HUWhuVfe/index.m3u8",
+    "线路3": "https://yutubf.lsbbf3.com/20251012/HUWhuVfe/index.m3u8"
   },
   "seriesInfo": {
     "id": 176007,
     "IDcode": "OFKU-224",
     "title": "後妻の誘惑 欲求不満は息子で解消いたします 佐久間泉",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

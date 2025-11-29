@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/d035c232/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/d035c232/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/23/92d77a5c3f63/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210802,
     "IDcode": "KIRE-007",
     "title": "新婚新郎-橘萌々香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

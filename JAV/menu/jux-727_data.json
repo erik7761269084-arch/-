@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/25/b217bb9d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/25/b217bb9d/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202511/13/6914f26c46d2372859bc00b2/3cag66/index.m3u8"
   },
   "seriesInfo": {
     "id": 209754,
     "IDcode": "JUX-727",
     "title": "農家の嫁 織田真子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

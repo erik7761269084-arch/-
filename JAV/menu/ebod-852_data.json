@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/6f78b415/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/6f78b415/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/335f92c902eb/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 214303,
     "IDcode": "EBOD-852",
     "title": "逆转性骚扰",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "E-BODY",
     "genres": [],
     "description": "",

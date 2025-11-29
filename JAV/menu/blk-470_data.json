@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/22f7eda4/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/22f7eda4/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/23/9041956a3984/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210391,
     "IDcode": "BLK-470",
     "title": "勾引闺蜜男友-深田えいみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KIRAKIRA",
     "genres": [],
     "description": "",

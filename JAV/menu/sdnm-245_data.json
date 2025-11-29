@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/19/c8df4345/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/19/c8df4345/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/24/87cb86b078cc/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210044,
     "IDcode": "SDNM-245",
     "title": "老公出差了-相馬茜",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

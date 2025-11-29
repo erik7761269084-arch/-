@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20230430/1aDkgGMQ/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20230430/1aDkgGMQ/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250318/lS1KZIAE/index.m3u8",
+    "线路3": "https://v2024.sysybf.com/20250327/n30yISrv/index.m3u8",
+    "线路4": "https://jkunnzyx.com/20230303/hfA4v39x/index.m3u8"
   },
   "seriesInfo": {
     "id": 167062,
     "IDcode": "HOMA-123",
     "title": "「終電までウチで休憩していく？」会社の飲み会で泥●してしまった僕は終電まで女上司の部屋",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "H.M.P 芳友舍",
     "genres": [
       "中文字幕"

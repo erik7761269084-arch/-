@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/08/71279403/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/08/71279403/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202510/05/e2461a461a82/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212652,
     "IDcode": "GVH-239",
     "title": "悩殺女教師",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "GLORY QUEST",
     "genres": [],
     "description": "",

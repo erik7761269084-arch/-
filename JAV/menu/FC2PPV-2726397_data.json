@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/26/14fef59c/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/26/14fef59c/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20220809/D5yQmisp/index.m3u8"
   },
   "seriesInfo": {
     "id": 175844,
     "IDcode": "FC2PPV-2726397",
     "title": "毫无经验的少女",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

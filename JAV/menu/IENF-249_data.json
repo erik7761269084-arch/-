@@ -1,20 +1,31 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20230913/bsiXzbiM/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2023/03/07/ac282c67/index.m3u8"
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2023/03/07/ac282c67/index.m3u8",
+    "线路3": "https://lsbbf5.com/20250324/YQbMtj2d/index.m3u8",
+    "线路4": "https://voddadaizi.com:52866/videos/202505/19/682b496fe7e672bea5f38cf7/0f5g73/index.m3u8",
+    "线路5": "https://v2025.fhbbff.com/20250401/HoVzhHye/index.m3u8",
+    "线路6": "https://krevonix.com/20230318/MaPrTEw0/index.m3u8",
+    "线路7": "https://yutubf.lsbbf3.com/20250324/YQbMtj2d/index.m3u8"
   },
   "seriesInfo": {
     "id": 167574,
     "IDcode": "IENF-249",
     "title": "从早到晚的中出性爱-渋谷華",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IENERGY",
     "genres": [],
     "description": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-10/c60153ea2b09f1a3f1ec5e662b537ab0.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682b496fe7e672bea5f38cf7/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-249",
-    "actresses": []
+    "actresses": [
+      {
+        "name": "渋谷華",
+        "img_url": "https://picture.yoshiclub.xyz/20230903/670d6978-181c-4ccf-a1b2-fed540e5b78e.jpg",
+        "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=1282&name=%E6%B8%8B%E8%B0%B7%E8%8F%AF"
+      }
+    ]
   }
 }

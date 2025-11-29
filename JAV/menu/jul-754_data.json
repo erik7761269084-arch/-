@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/b980db6e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/b980db6e/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230511/ndM0qttj/index.m3u8"
   },
   "seriesInfo": {
     "id": 214288,
     "IDcode": "JUL-754",
     "title": "1泊2日の温泉旅行-初音みのり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

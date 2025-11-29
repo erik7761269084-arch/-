@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/10/13d6daac/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/10/13d6daac/index.m3u8",
+    "线路2": "https://krevonix.com/20221026/SYWzS3Q0/index.m3u8"
   },
   "seriesInfo": {
     "id": 211969,
     "IDcode": "BLK-284",
     "title": "荒唐的姐姐-椎名そら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KIRAKIRA",
     "genres": [
       "乱伦"

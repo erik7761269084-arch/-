@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/fNhq4Y0t/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/fNhq4Y0t/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/08/e3YNrCeSGW2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148648,
     "IDcode": "SIRO-3662",
     "title": "第一枪网络AV应用AV体验拍摄840",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250223-1/2656b8f580b2781c73129618b0f0f64b.jpg",
     "background_img": "",

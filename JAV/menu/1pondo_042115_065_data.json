@@ -9,7 +9,11 @@
     "publish_date": "",
     "type": "无码",
     "company": "一本道",
-    "genres": [],
+    "genres": [
+      "素人",
+      "一本道",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/07/09/97b2a848ec753c475c7e03aee594e8d2.jpg",
     "background_img": "",

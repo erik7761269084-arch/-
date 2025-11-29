@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/23/c5c2a78d/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/23/c5c2a78d/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231218/tqpStAV3/index.m3u8"
   },
   "seriesInfo": {
     "id": 212370,
     "IDcode": "IPTD-995",
     "title": "我的小妹妹-佳苗るか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250106/bF5nq3TO/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250106/bF5nq3TO/index.m3u8",
+    "线路2": "https://2.ddyunbo.com/20200419/BE0C1soL/index.m3u8"
   },
   "seriesInfo": {
     "id": 152600,
     "IDcode": "H0930-KI191207",
     "title": "请求作品集",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250309-1/3350f9e8628a1057eb79ef04d0f2b527.jpg",
     "background_img": "",

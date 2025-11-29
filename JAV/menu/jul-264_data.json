@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/04/19f8d079/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/04/19f8d079/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230228/oooZpYNV/index.m3u8"
   },
   "seriesInfo": {
     "id": 209488,
     "IDcode": "JUL-264",
     "title": "女好きの親父-丘えりな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

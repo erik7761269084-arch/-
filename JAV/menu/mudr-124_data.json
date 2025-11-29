@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/26/f1a1373f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/26/f1a1373f/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231210/mw2QRCf5/index.m3u8"
   },
   "seriesInfo": {
     "id": 210362,
     "IDcode": "MUDR-124",
     "title": "制服美少女-久留木玲",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "無垢",
     "genres": [],
     "description": "",

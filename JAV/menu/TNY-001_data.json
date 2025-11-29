@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/xCGhOOaX/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/xCGhOOaX/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/10/654e20ca65e9/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154554,
     "IDcode": "TNY-001",
     "title": "一个害羞的女孩HShizuku的奇闻趣事",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/29/772426fd/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/29/772426fd/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/16/59640d10d214/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 209252,
     "IDcode": "STARS-244",
     "title": "M男ハウスに一泊-永野いち夏",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

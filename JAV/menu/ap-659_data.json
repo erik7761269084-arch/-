@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/5134845f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/5134845f/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20221113/mepWY3GE/index.m3u8"
   },
   "seriesInfo": {
     "id": 213338,
     "IDcode": "AP-659",
     "title": "6人同時多発中出",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

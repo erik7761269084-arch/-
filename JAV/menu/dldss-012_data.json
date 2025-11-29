@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/21/c3de10b2/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/21/c3de10b2/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/sNObJPId/index.m3u8"
   },
   "seriesInfo": {
     "id": 212313,
     "IDcode": "DLDSS-012",
     "title": "直到你的身体被掏空-七海ティナ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "DAHLIA",
     "genres": [],
     "description": "",

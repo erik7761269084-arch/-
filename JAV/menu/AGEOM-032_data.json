@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/24/9b818319/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/24/9b818319/index.m3u8",
+    "线路2": "https://krevonix.com/20251003/fFK4lgve/index.m3u8"
   },
   "seriesInfo": {
     "id": 181542,
     "IDcode": "AGEOM-032",
     "title": "好きなよだれ見つけよう。～種類別・愛のクチ汁まみれ溺れ死に入門240分BEST～",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/18/a9d16213/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/18/a9d16213/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/GLpwYtVQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 210616,
     "IDcode": "BF-617",
     "title": "相性抜群-石原希望",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/10/19/4057e75d2726c2e5033b56284595c2bc.jpg",

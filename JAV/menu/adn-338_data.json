@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/e86529df/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/e86529df/index.m3u8",
+    "线路2": "https://video15.bpzy1.com/video/20220122/0b5b7392b41faf7526f7caa8469990b8/index.m3u8"
   },
   "seriesInfo": {
     "id": 212619,
     "IDcode": "ADN-338",
     "title": "非法性行为-舞原聖",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

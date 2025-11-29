@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/28/5ca34632/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/28/5ca34632/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220820/1EBMphqS/index.m3u8"
   },
   "seriesInfo": {
     "id": 214718,
     "IDcode": "STAR-673",
     "title": "被一群青春期的男孩强奸-白石茉莉奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

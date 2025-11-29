@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220810/4nI8rKBm/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220810/4nI8rKBm/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200706/jEd6wKJC/index.m3u8"
   },
   "seriesInfo": {
     "id": 164370,
     "IDcode": "AP-705",
     "title": "普段は優しい店長の裏の顔は…カフェで働く",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

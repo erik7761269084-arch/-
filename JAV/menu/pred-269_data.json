@@ -1,15 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/19/405fbf0e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/19/405fbf0e/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250130/epuK8Bgl/index.m3u8"
   },
   "seriesInfo": {
     "id": 210931,
     "IDcode": "PRED-269",
     "title": "温泉旅行-辻井ほのか",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": "无码",
     "company": "PREMIUM",
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/11/20/d03ef05625aeebc52318a664dc371785.jpg",
     "background_img": "",

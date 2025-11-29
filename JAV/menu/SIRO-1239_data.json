@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/ExyIbY1R/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/ExyIbY1R/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/WxQG5SvhQR2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150470,
     "IDcode": "SIRO-1239",
     "title": "业馀个人摄影和发文239",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/ee6a43bb388c7b59ae6f8a689a2c6cd6.jpg",
     "background_img": "",

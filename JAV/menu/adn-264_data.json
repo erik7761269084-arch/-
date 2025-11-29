@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/23/2e348e8f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/23/2e348e8f/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240220/BsikziDQ/index.m3u8"
   },
   "seriesInfo": {
     "id": 210653,
     "IDcode": "ADN-264",
     "title": "一直在被讨厌的姐夫侵犯-琴井しほり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "乱伦"

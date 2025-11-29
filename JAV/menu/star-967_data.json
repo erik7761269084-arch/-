@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/20/ad79f7fe/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/20/ad79f7fe/index.m3u8",
+    "线路2": "https://vip.newljlj2025.com/20190515/nlAIiz9N/index.m3u8"
   },
   "seriesInfo": {
     "id": 209221,
     "IDcode": "STAR-967",
     "title": "市川まさみ 高速からの低速",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

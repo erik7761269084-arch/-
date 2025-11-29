@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/27/7dc73553/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/27/7dc73553/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230228/S7ANucBd/index.m3u8"
   },
   "seriesInfo": {
     "id": 209779,
     "IDcode": "VAGU-231",
     "title": "夫人外伝～ 栗山絵麻",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [],
     "description": "",

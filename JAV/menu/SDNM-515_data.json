@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/6c6dfce4/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/6c6dfce4/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/6902953279f1ac4ec4ca42f2.m3u8"
   },
   "seriesInfo": {
     "id": 174864,
     "IDcode": "SDNM-515",
     "title": "人生最後の青い春。身長178cm、モデル級スタイルの奥さん。AV DEBUT 栗原早苗",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

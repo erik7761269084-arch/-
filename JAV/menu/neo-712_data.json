@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/12/fa51ab05/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/12/fa51ab05/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220817/t92CVA56/index.m3u8"
   },
   "seriesInfo": {
     "id": 212780,
     "IDcode": "NEO-712",
     "title": "想喝我的小便-冬愛ことね",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "RADIX",
     "genres": [],
     "description": "",

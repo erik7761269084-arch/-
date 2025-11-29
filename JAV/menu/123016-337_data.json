@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/K3r2yQSP/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/K3r2yQSP/index.m3u8",
+    "线路2": "https://dadi-bo.com/20181215/ZvQevHgZ/index.m3u8"
   },
   "seriesInfo": {
     "id": 143505,
     "IDcode": "123016-337",
     "title": "你说的是绝对的西川由衣",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

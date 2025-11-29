@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/d19562ef/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/d19562ef/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/KVFYzPPp/index.m3u8"
   },
   "seriesInfo": {
     "id": 212384,
     "IDcode": "STARS-415",
     "title": "永无止境之吻-紗倉まな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/13/fe2ca622/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/13/fe2ca622/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250617/49tkC5JH/index.m3u8",
+    "线路3": "https://v5.lbv325627.com/20250621/C4uhTtMF/index.m3u8"
   },
   "seriesInfo": {
     "id": 199005,
     "IDcode": "FWAY-065",
     "title": "指先が覚えている 伊藤舞雪",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

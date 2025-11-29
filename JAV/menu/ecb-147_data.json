@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/18/24a45a83/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/18/24a45a83/index.m3u8",
+    "线路2": "https://v2025.fhbbff.com/20241201/G8KYPy2p/index.m3u8"
   },
   "seriesInfo": {
     "id": 214539,
     "IDcode": "ECB-147",
     "title": "把我公寓的钥匙借给你-森日向子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

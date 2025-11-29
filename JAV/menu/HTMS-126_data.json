@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/akZa0qBH/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/akZa0qBH/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/cJl6mkD3/index.m3u8"
   },
   "seriesInfo": {
     "id": 164825,
     "IDcode": "HTMS-126",
     "title": "ヘンリー冢本ニッポンの",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/11/e188ee6c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/11/e188ee6c/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241216/uAzGRK71/index.m3u8"
   },
   "seriesInfo": {
     "id": 82744,
     "IDcode": "ATID-348",
     "title": "为他拥抱-有村のぞみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [
-      "出轨",
       "OL",
+      "出轨",
       "凌辱"
     ],
     "description": "",

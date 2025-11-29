@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/bs3JVgK9/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/bs3JVgK9/index.m3u8",
+    "线路2": "https://xbzyw25.top/video/m3u8/202504/02/b41abbe73a80/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153136,
     "IDcode": "TKS-005",
     "title": "头发凌乱的奇闻趣事H葵",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

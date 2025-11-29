@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/26/558c653f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/26/558c653f/index.m3u8",
+    "线路2": "https://vip4.ddyunbo.com/20240712/1lh445Nu/index.m3u8"
   },
   "seriesInfo": {
     "id": 175888,
     "IDcode": "422ION-0052",
     "title": "明明有男友却从不拒绝请求的肉便器",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/25/044724f21a5da7d0959bdb070f83a27c.jpg",
     "background_img": "",

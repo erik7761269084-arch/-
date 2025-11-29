@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/iVDjW5an/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/iVDjW5an/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/06/b16c38ddb2d4/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154448,
     "IDcode": "HTR-018",
     "title": "唤醒她沉睡中的奇闻趣事HMari",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

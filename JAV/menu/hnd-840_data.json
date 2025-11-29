@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/09/18d7f494/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/09/18d7f494/index.m3u8",
+    "线路2": "https://vostrely.com/20230318/VyJVfK3E/index.m3u8"
   },
   "seriesInfo": {
     "id": 209308,
     "IDcode": "HND-840",
     "title": "彼女の妹に愛さ-松本いちか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/RMq60jeF/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/RMq60jeF/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/aqSVGUSvai2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150352,
     "IDcode": "SIRO-1096",
     "title": "业馀个人摄影和发文163",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250228-1/7976213c36484df490c973487c4d42ed.jpg",
     "background_img": "",

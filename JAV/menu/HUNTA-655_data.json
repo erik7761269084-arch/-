@@ -2,14 +2,15 @@
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220811/knDI45nA/index.m3u8",
     "线路2": "https://v1.1bbffvip.com/20220811/UFkzt9pT/index.m3u8",
-    "线路3": "https://v1.1bbffvip.com/20220811/c5nOdbx2/index.m3u8"
+    "线路3": "https://v1.1bbffvip.com/20220811/c5nOdbx2/index.m3u8",
+    "线路4": "https://v1.1bbffvip.com/20220816/wxRkC45l/index.m3u8"
   },
   "seriesInfo": {
     "id": 164815,
     "IDcode": "HUNTA-655",
     "title": "『ねえ、そんなに動かしたら挿っちゃうよ！ダ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

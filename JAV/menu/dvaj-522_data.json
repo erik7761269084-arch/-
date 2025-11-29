@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/25/459ac000/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/25/459ac000/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/0e132dde9ac6/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212437,
     "IDcode": "DVAJ-522",
     "title": "不育的丈夫-川上奈々美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ALICE JAPAN",
     "genres": [],
     "description": "",

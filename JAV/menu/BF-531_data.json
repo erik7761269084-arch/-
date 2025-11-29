@@ -1,17 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/24/847e3c3a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/24/847e3c3a/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/10/67802bdc2a47ebb1a87f4242/b0a48d/index.m3u8",
+    "线路3": "https://vip5.ddyunbo.com/20230613/JkpBR9eX/index.m3u8",
+    "线路4": "https://krevonix.com/20221113/kQyGcy7O/index.m3u8"
   },
   "seriesInfo": {
     "id": 208555,
     "IDcode": "BF-531",
     "title": "同棲性活 星奈あい",
     "publish_date": "",
-    "type": "有码",
-    "company": "BeFree",
+    "type": null,
+    "company": "Baby Entertainment",
     "genres": [],
     "description": "",
-    "cover_url": "https://tutu1.space/images/2019/07/24/QQ201907250703174de5b.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67802bdc2a47ebb1a87f4242/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-531",
     "actresses": []

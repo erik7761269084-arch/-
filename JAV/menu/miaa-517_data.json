@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/07/c06fad5a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/07/c06fad5a/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/Bge2pIIm/index.m3u8"
   },
   "seriesInfo": {
     "id": 214329,
     "IDcode": "MIAA-517",
     "title": "一个已婚男人-月乃ルナ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

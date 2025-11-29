@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/21/5feea6bb/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/21/5feea6bb/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230918/yK0aopDA/index.m3u8"
   },
   "seriesInfo": {
     "id": 211786,
     "IDcode": "NSPS-873",
     "title": "禁断行為-北川礼子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "素人Only",
     "genres": [],
     "description": "",

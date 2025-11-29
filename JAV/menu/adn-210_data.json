@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/04/12/db0b865f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/04/12/db0b865f/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/08/677cf3df73f04b1d829a78bd/0c8b72/index.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20241024/2W0pW5jf/index.m3u8"
   },
   "seriesInfo": {
     "id": 206961,
     "IDcode": "ADN-210",
     "title": "新婚的女儿明里紬被养父持续侵犯",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "乱伦"

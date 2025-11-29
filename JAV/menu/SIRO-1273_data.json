@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/1u05pB3J/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/1u05pB3J/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/c2vahJireY2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150499,
     "IDcode": "SIRO-1273",
     "title": "业馀AV体验拍摄467",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/abec29f6839a5b9ab8ab4f4395a6908c.jpg",
     "background_img": "",

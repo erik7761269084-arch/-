@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/i4YOabbT/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/i4YOabbT/index.m3u8",
+    "线路2": "https://cdn2.shayubf.com/20200229/r0JS9aNF/index.m3u8"
   },
   "seriesInfo": {
     "id": 143108,
@@ -9,7 +10,10 @@
     "publish_date": "",
     "type": "无码",
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250205-1/b44566ed02bc6fa97e3eee78b3e1a560.jpg",
     "background_img": "",

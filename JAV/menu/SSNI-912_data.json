@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202409/25/Fe0F1tBQDr1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202409/25/Fe0F1tBQDr1/video/index.m3u8",
+    "线路2": "https://video58.bpzy1.com/video/20230725/38beb67530a08d2081a42be53f87b2d6/index.m3u8"
   },
   "seriesInfo": {
     "id": 155963,
     "IDcode": "SSNI-912",
     "title": "喜欢中年的由罗泉奈与喜欢美少女的絶伦变态大叔",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

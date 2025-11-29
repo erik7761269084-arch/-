@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/13/1a19479c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/13/1a19479c/index.m3u8",
+    "线路2": "https://v.ddoucdn.com/20240905/gKnZOvQk/index.m3u8",
+    "线路3": "https://vostrely.com/20230318/wYq1PmBx/index.m3u8"
   },
   "seriesInfo": {
     "id": 211734,
     "IDcode": "HND-940",
     "title": "与积精30天的单身男人性交-佐山愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

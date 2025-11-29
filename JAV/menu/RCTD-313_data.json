@@ -1,19 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20221221/4INjCHjy/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20221221/4INjCHjy/index.m3u8",
+    "线路2": "https://lsbbf2.com/20230924/7FBJjTHY/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68f713f079f1ac4ec4b2c3ff.m3u8",
+    "线路4": "https://vostrely.com/20230310/Es5YtsQ5/index.m3u8"
   },
   "seriesInfo": {
     "id": 83182,
     "IDcode": "RCTD-313",
     "title": "真・時間が止まる腕時計パート16",
-    "publish_date": "2020-03-12",
-    "type": "有码",
+    "publish_date": "",
+    "type": null,
     "company": "ROCKET",
     "genres": [
       "羞耻",
-      "恶作剧",
+      "妄想",
       "各种职业",
-      "妄想"
+      "恶作剧"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/961e39cd79e0c794d38d1d70bbaf9ecc.jpg",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/14/2cbb8943/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/14/2cbb8943/index.m3u8",
+    "线路2": "https://vostrely.com/20250313/WnhdZwOU/index.m3u8"
   },
   "seriesInfo": {
     "id": 210554,
     "IDcode": "SNIS-937",
     "title": "性感開発3時間ス-水卜さくら",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

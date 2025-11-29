@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/26/685cb319/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/26/685cb319/index.m3u8",
+    "线路2": "https://vostrely.com/20240620/1GajW1HB/index.m3u8",
+    "线路3": "https://vostrely.com/20240620/w3RGGoay/index.m3u8",
+    "线路4": "https://krevonix.com/20221017/Sg8fnf7v/index.m3u8"
   },
   "seriesInfo": {
     "id": 212090,
     "IDcode": "MIDD-899",
     "title": "M男専用回春术-佐山愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

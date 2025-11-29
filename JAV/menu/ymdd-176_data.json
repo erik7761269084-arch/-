@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/10/a17b9ee8/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/10/a17b9ee8/index.m3u8",
+    "线路2": "https://lsbbf2.com/20230926/BrCM1rla/index.m3u8",
+    "线路3": "https://lsbbf5.com/20241202/KnIqnzZV/index.m3u8"
   },
   "seriesInfo": {
     "id": 209554,
     "IDcode": "YMDD-176",
     "title": "深田えいみとリズの珍道中",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "桃太郎映像出版",
     "genres": [],
     "description": "",

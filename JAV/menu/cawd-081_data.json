@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/09/350edcd1/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/09/350edcd1/index.m3u8",
+    "线路2": "https://video28.bpzy1.com/video/20220602/0c27ba4c31408475282c42617db2af1b/index.m3u8"
   },
   "seriesInfo": {
     "id": 209301,
     "IDcode": "CAWD-081",
     "title": "同僚の彼氏が出張-伊藤舞雪",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

@@ -1,17 +1,20 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/05/12/589d469d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2024/05/12/589d469d/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/10/67803b112a47ebb1a883beef/4276ea/index.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20241001/DXAASP9P/index.m3u8",
+    "线路4": "https://vip5.ddyunbo.com/20230623/Hiv7z2uk/index.m3u8"
   },
   "seriesInfo": {
     "id": 206304,
     "IDcode": "MEYD-412",
     "title": "妻子犯下的错误- 希島あいり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "溜池",
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20240512-1/ef22e6a001d5d16ec59df71f9f2e82d6.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67803b112a47ebb1a883beef/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-412",
     "actresses": []

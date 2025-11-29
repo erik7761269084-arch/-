@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/jtPWjDkc/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/jtPWjDkc/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20191104/xMBz5Muk/index.m3u8"
   },
   "seriesInfo": {
     "id": 165345,
     "IDcode": "PXH-010",
     "title": "コスプレキャノンボールRUN",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

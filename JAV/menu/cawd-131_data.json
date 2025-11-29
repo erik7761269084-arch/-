@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/7c1325be/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/7c1325be/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20240222/66Ojk1rV/index.m3u8"
   },
   "seriesInfo": {
     "id": 210772,
     "IDcode": "CAWD-131",
     "title": "名古屋人気No.1-木ノ葉みう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

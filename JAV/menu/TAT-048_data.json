@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/NeTt3E2Y/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/NeTt3E2Y/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/10/67ad79396e64/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153211,
     "IDcode": "TAT-048",
     "title": "在西装中感到不安的奇闻趣事HMiu",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

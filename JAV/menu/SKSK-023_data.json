@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20221105/j0QHyKUS/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20221105/j0QHyKUS/index.m3u8",
+    "线路2": "https://2.ddyunbo.com/20200701/1VycINDp/index.m3u8"
   },
   "seriesInfo": {
     "id": 82004,
     "IDcode": "SKSK-023",
     "title": "栗栖みなみ×SUKESUKE＃23",
     "publish_date": "2020-04-03",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "恋物癖",
-      "苗条"
+      "苗条",
+      "恋物癖"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/67198c51b2cff85017c4dcbc7d701fc5.jpg",

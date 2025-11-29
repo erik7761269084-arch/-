@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/7add5ce0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/7add5ce0/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/11/We1cqqbThr2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 210799,
     "IDcode": "MXGS-968",
     "title": "媚薬痙攣- 波多野結衣",
     "publish_date": "",
-    "type": "有码",
-    "company": "MAXING",
+    "type": null,
+    "company": "GOGOS",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/11/05/2662dbbc7ceeba40bd9b0c597a590111.jpg",

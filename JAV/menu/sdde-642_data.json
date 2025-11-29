@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/25/0d76ea89/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/25/0d76ea89/index.m3u8",
+    "线路2": "https://krevonix.com/20250407/KwbKFj6B/index.m3u8",
+    "线路3": "https://thm3u8.vip/20250128/NyeAMQLv/index.m3u8"
   },
   "seriesInfo": {
     "id": 211806,
     "IDcode": "SDDE-642",
     "title": "内衣办公室",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

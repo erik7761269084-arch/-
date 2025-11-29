@@ -1,17 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/7f7e87d2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/17/7f7e87d2/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/rLE7ZN7t/index.m3u8"
   },
   "seriesInfo": {
     "id": 99735,
     "IDcode": "ADN-096",
     "title": "我想被你所爱-川上奈々美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
-      "已婚妇女",
-      "凌辱"
+      "凌辱",
+      "已婚妇女"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/10/17/668a285c08c66780b0762c758f732843.jpg",

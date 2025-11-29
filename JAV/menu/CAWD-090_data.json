@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/08/0cce29ae/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/08/0cce29ae/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/DUxQE07a/index.m3u8"
   },
   "seriesInfo": {
     "id": 106447,
     "IDcode": "CAWD-090",
     "title": "変態教師-桜もこ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [
       "拘束",
-      "高中女生",
-      "中出"
+      "中出",
+      "高中女生"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2020/08/09/56178a6511d8fdbcff545691a75a8bb4.jpg",

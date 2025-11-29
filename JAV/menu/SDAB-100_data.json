@@ -1,20 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://v2024.bbffsl.com/20250112/20zU5bXS/index.m3u8"
+    "主线路": "https://v2024.bbffsl.com/20250112/20zU5bXS/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241229/cjrXtcLa/index.m3u8"
   },
   "seriesInfo": {
     "id": 74039,
     "IDcode": "SDAB-100",
     "title": "この子、青春ど真ん中！ 久留木玲 SOD専属 AVデビュー",
     "publish_date": "2019-07-11",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
-      "素人作品",
-      "首次亮相",
       "校服",
+      "首次亮相",
       "纪录片",
-      "美少女电影"
+      "美少女电影",
+      "素人作品"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/621d301cfdb9e34dabf67010f5eec04a.jpg",

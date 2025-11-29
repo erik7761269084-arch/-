@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/21983129/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/21983129/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20221118/URdYahn2/index.m3u8"
   },
   "seriesInfo": {
     "id": 213351,
     "IDcode": "HMN-015",
     "title": "現役女子大生1年生20歳-岸井遥",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "本中",
     "genres": [],
     "description": "",

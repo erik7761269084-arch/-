@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://1.mysqldata3202s4l.com/20241014/ZFLaXP1P/index.m3u8"
+    "主线路": "https://1.mysqldata3202s4l.com/20241014/ZFLaXP1P/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241014/xdKyknLs/index.m3u8"
   },
   "seriesInfo": {
     "id": 93643,
     "IDcode": "OAE-261",
     "title": "【FANZA限定】♀ 楪カレン 生写真3枚付き",
     "publish_date": "2024-07-24",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "介绍影片",

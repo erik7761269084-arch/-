@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/6Gz6iS2Z/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/6Gz6iS2Z/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/26/P4AvPTCzqb2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150487,
     "IDcode": "SIRO-1258",
     "title": "业馀个人射击和张贴247",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/f7de391b01be8ed6c753db534c372a91.jpg",
     "background_img": "",

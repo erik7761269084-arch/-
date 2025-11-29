@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/19/36ef67e3/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/19/36ef67e3/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20220402/IdJGj8Ta/index.m3u8"
   },
   "seriesInfo": {
     "id": 213442,
     "IDcode": "SSPD-102",
     "title": "処刑遊戯2013-瞳リョウ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

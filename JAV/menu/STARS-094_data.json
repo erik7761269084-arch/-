@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/f1f8deff/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/24/f1f8deff/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250102/c7QrCYtN/index.m3u8",
+    "线路3": "https://lsbbf5.com/20250102/EgYMlsRP/index.m3u8"
   },
   "seriesInfo": {
     "id": 1613,
     "IDcode": "STARS-094",
     "title": "女上司-古川いおり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "OL",

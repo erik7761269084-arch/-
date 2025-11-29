@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/22/06d2ad40/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/22/06d2ad40/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/28/65fd188666dc/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212951,
     "IDcode": "VEC-478",
     "title": "漂亮的已婚妇女-赤城憂紀",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "VENUS",
     "genres": [],
     "description": "",

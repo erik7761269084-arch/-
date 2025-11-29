@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20240520/TxehxsZp/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20240520/TxehxsZp/index.m3u8",
+    "线路2": "https://krevonix.com/20240919/aItKGMYR/index.m3u8"
   },
   "seriesInfo": {
     "id": 168902,
     "IDcode": "YUJ-008",
     "title": "君には夫が居て、僕には妻がいるのに、職場の同僚と朝陽が昇るまで求め合った。 白峰ミウ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "中文字幕"

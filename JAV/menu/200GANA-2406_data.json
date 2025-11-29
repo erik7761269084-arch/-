@@ -1,15 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/23/4ab2330d/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/23/4ab2330d/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230622/7fgszPpm/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20230820/CK8Kp4Ff/index.m3u8",
+    "线路4": "https://jkunnzyx.com/20230415/PvkYrwdS/index.m3u8"
   },
   "seriesInfo": {
     "id": 196739,
     "IDcode": "200GANA-2406",
     "title": "听到来挑战获取现金的声音停下脚步的护士小姐但是交涉的代价是拍黄色影片",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人",
+      "搭讪素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/23/056eb5f1d764bf6d38e6c54a61d834c8.jpg",
     "background_img": "",

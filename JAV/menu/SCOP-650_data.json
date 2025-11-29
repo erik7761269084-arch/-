@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/JjYBk3QU/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/JjYBk3QU/index.m3u8",
+    "线路2": "https://vip1.bfbfhao.com/20210307/S4yHc8u2/index.m3u8"
   },
   "seriesInfo": {
     "id": 165411,
     "IDcode": "SCOP-650",
     "title": "プチ円光の約束でホテルに入ったギャルヤ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SCOOP",
     "genres": [
       "中文字幕"

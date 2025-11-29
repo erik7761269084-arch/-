@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/iw1KPi4l/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/iw1KPi4l/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20221031/49FTJjHz/index.m3u8"
   },
   "seriesInfo": {
     "id": 142425,
     "IDcode": "112917-547",
     "title": "猫图画书NanakoAsahinaNanakoAsahina",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,20 +1,21 @@
 {
   "episodes": {
     "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/7558f3a3/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202409/22/TEhY1xdeAp1/video/index.m3u8"
+    "线路2": "https://bf3.qrtuv.com/smv1/202409/22/TEhY1xdeAp1/video/index.m3u8",
+    "线路3": "https://thm3u8.vip/20250125/C4KwZgXp/index.m3u8"
   },
   "seriesInfo": {
     "id": 79200,
     "IDcode": "ATID-470",
     "title": "黒大蛇-九条みちる",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": "TMA",
     "genres": [
-      "单体作品",
+      "模特儿",
       "无码破解",
-      "黑人演员",
-      "模特儿"
+      "单体作品",
+      "黑人演员"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/07/22/91311d193032d4d126aae05a7b7aa030.jpg",

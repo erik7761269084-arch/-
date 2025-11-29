@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/14/d0b82a09/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/14/d0b82a09/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68e89f5c79f1ac4ec49b4bbb.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202506/28/5ff5a8424b58/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212811,
     "IDcode": "AMBI-129",
     "title": "恋の物語-永野いち夏",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "PLANETPLUS",
     "genres": [],
     "description": "",

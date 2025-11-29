@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/31/f747b117/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/31/f747b117/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68eb36501572686be7867748.m3u8"
   },
   "seriesInfo": {
     "id": 174427,
     "IDcode": "DVDES-831",
     "title": "妈妈失格2-莲实克蕾儿",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

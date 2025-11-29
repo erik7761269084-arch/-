@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/89a5dcd5/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/89a5dcd5/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/30/ef1a846c9b38/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212741,
     "IDcode": "KSBJ-135",
     "title": "允许自己被中出-大槻ひびき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KSB企畫",
     "genres": [],
     "description": "",

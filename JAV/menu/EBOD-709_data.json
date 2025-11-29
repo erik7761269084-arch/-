@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://v1.1bbffvip.com/20220811/VHFG1lg5/index.m3u8",
-    "线路2": "https://v1.1bbffvip.com/20220811/j7D4MeiH/index.m3u8"
+    "线路2": "https://v1.1bbffvip.com/20220811/j7D4MeiH/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20230602/OpKzNHpO/index.m3u8"
   },
   "seriesInfo": {
     "id": 164592,
     "IDcode": "EBOD-709",
     "title": "某有名週刊誌からグラビアオファーが殺到した逸材！",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "E-BODY",
     "genres": [
       "中文字幕"

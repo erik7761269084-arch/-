@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/04/5898fb25/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/04/5898fb25/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/08/4ff27cc8142a/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212560,
     "IDcode": "JUL-661",
     "title": "童年朋友- 篠田ゆう",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/23/d78b4b9e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/23/d78b4b9e/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/11/678192668a48711d81b7f8f8/df99fg/index.m3u8"
   },
   "seriesInfo": {
     "id": 208910,
     "IDcode": "ABP-812",
     "title": "絶対的下から目線-河合あすな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,14 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/04/a11444df/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/04/a11444df/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/11/1X2bd4bje42/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 212161,
     "IDcode": "MXGS-949",
     "title": "性感服装-神谷瑠里",
     "publish_date": "",
-    "type": "有码",
-    "company": "MAXING",
+    "type": null,
+    "company": "GOGOS",
     "genres": [],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/07/04/fd1bce8d92e92e0cea22fe35400e23ff.jpg",

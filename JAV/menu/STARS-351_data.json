@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202502/16/f27CR7VYjk1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202502/16/f27CR7VYjk1/video/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202502/14/ejckv08u3M1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 158671,
     "IDcode": "STARS-351",
     "title": "水果派纯欲系少女春药记",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [],
     "description": "",

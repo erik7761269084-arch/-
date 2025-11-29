@@ -1,14 +1,15 @@
 {
   "episodes": {
     "主线路": "https://m3u8.cdn202511.com/movie/auto/67400cf5d6b8f705ec72ab6e.m3u8",
-    "线路2": "https://m3u8.cdn2025.life/movie/auto/67400cf5d6b8f705ec72ab6e.m3u8"
+    "线路2": "https://m3u8.cdn2025.life/movie/auto/67400cf5d6b8f705ec72ab6e.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20241202/Ewo1uU9Y/index.m3u8"
   },
   "seriesInfo": {
     "id": 171360,
     "IDcode": "FSDSS-192",
     "title": "育成失敗 不對、是成功過頭變成男人婆反抗的性愛 椎名空",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

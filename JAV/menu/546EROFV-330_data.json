@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/b89b562f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/b89b562f/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/30/LpPwrVRTru2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 59686,
     "IDcode": "546EROFV-330",
     "title": "身長146cmの超ミニ美少女降臨☆清楚なパソコン部員の",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/10/04/6307d20a245c3d30d25341b78a47e8ab.jpg",
     "background_img": "",

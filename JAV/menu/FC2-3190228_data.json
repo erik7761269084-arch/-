@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/03/f13c1c9f/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/03/f13c1c9f/index.m3u8",
+    "线路2": "https://vostrely.com/20230328/bhZBFgb9/index.m3u8"
   },
   "seriesInfo": {
     "id": 113756,
     "IDcode": "FC2-3190228",
     "title": "容光焕发20岁的女大学生",
     "publish_date": "2025-10-03",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [
       "嫩妹"

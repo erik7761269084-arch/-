@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/02/38a47a97/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/02/38a47a97/index.m3u8",
+    "线路2": "https://v.ddoucdn.com/20240906/0BrkSoUF/index.m3u8"
   },
   "seriesInfo": {
     "id": 210457,
     "IDcode": "HND-884",
     "title": "儿子的大屁股女友-石原希望",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "乱伦"

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/09/13/3346239c/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/09/13/3346239c/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/12/6782a945478d611da774a930/g9066c/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20240510/u55izTjG/index.m3u8"
   },
   "seriesInfo": {
     "id": 209003,
     "IDcode": "JUY-933",
     "title": "夫よりも義父を愛-松本菜奈実",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

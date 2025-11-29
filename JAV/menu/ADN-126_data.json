@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/06/47266281/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/06/47266281/index.m3u8",
+    "线路2": "https://krevonix.com/20221106/ICgSTprK/index.m3u8"
   },
   "seriesInfo": {
     "id": 209129,
     "IDcode": "ADN-126",
     "title": "壺に堕とされた女-友田彩也香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

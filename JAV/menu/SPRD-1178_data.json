@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220818/bEnxBuz1/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220818/bEnxBuz1/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/08/459f9ce422af/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 165707,
     "IDcode": "SPRD-1178",
     "title": "息子の嫁と義父 森沢かな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

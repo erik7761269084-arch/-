@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/03/6b958fbf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/03/6b958fbf/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202506/25/99e1c7d199e5/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 211659,
     "IDcode": "HND-910",
     "title": "男友達全員-美谷朱里 あおいれな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

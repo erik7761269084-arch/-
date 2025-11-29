@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/25/75346756/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/25/75346756/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/fzhYxs1l/index.m3u8"
   },
   "seriesInfo": {
     "id": 209407,
     "IDcode": "SSNI-809",
     "title": "秘密捜査官の女-ひなたまりん",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

@@ -1,18 +1,21 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/07/7a1bb679/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/07/7a1bb679/index.m3u8",
+    "线路2": "https://lsbbf5.com/20250926/5jGTOctj/index.m3u8",
+    "线路3": "https://v8.lj20250710new.com/20251001/EgMR9hZq/index.m3u8",
+    "线路4": "https://yutubf.lsbbf3.com/20250926/5jGTOctj/index.m3u8"
   },
   "seriesInfo": {
     "id": 76705,
     "IDcode": "SILK-171",
     "title": "One’s Daily Life season 8 ？more＆more？",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SILK LABO",
     "genres": [
+      "戏剧",
       "给女性观众",
       "恋爱",
-      "戏剧",
       "情侣"
     ],
     "description": "",

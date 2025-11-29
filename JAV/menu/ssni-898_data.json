@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/24/d344c575/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/24/d344c575/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20220924/lIms1aNP/index.m3u8"
   },
   "seriesInfo": {
     "id": 210688,
     "IDcode": "SSNI-898",
     "title": "姐姐昏迷了三年-乙白さやか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [
       "乱伦"

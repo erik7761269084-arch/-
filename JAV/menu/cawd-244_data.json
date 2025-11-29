@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/29/bcc21e48/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/29/bcc21e48/index.m3u8",
+    "线路2": "https://krevonix.com/20221202/dUqzXK9A/index.m3u8"
   },
   "seriesInfo": {
     "id": 212513,
     "IDcode": "CAWD-244",
     "title": "女子大生-桜もこ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KAWAII",
     "genres": [],
     "description": "",

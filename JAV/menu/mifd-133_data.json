@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/23/da6a0a2e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/23/da6a0a2e/index.m3u8",
+    "线路2": "https://video28.bpzy1.com/video/20220608/87e5c902bc1b19db30d421191c22145a/index.m3u8"
   },
   "seriesInfo": {
     "id": 210671,
     "IDcode": "MIFD-133",
     "title": "捜査官-深沢いのり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "MOODYZ",
     "genres": [],
     "description": "",

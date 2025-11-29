@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250110/ycRdQzmM/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250110/ycRdQzmM/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202509/08/Us1LMJWrf82/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 150507,
     "IDcode": "SIRO-1287",
     "title": "业馀个人射击和张贴253",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250301-1/ed3f79e4f856ee8b879517e0e37f0f76.jpg",
     "background_img": "",

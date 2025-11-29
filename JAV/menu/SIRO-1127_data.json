@@ -7,9 +7,11 @@
     "IDcode": "SIRO-1127",
     "title": "业馀个人摄影和发文第241章",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250228-1/dfb2c295cbbc8fc5d4a5a69b2121b3a4.jpg",
     "background_img": "",

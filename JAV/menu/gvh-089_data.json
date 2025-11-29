@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/31/1164edab/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/31/1164edab/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/bKi3IURi/index.m3u8"
   },
   "seriesInfo": {
     "id": 209796,
     "IDcode": "GVH-089",
     "title": "義父と嫁-晶エリー",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "GLORY QUEST",
     "genres": [],
     "description": "",

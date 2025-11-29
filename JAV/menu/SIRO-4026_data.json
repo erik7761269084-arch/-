@@ -1,16 +1,19 @@
 {
   "episodes": {
     "主线路": "https://thm3u8.vip/20250108/GXc434Zu/index.m3u8",
-    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/b9740a5e/index.m3u8"
+    "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/b9740a5e/index.m3u8",
+    "线路3": "https://krevonix.com/20220926/vRpp3ZkF/index.m3u8"
   },
   "seriesInfo": {
     "id": 149601,
     "IDcode": "SIRO-4026",
     "title": "被攻击力MAX的辣妹舔屌真的立马就像缴械了",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2025/09/20/a1ab944b8aacbd6faee35bf9033d0192.jpg",
     "background_img": "",

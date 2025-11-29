@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20230121/2sJHGbjI/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20230121/2sJHGbjI/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68f090f331a2714f1c5b7478.m3u8"
   },
   "seriesInfo": {
     "id": 166467,
     "IDcode": "GETS-051",
     "title": "好友女友不穿奶罩來洗車！被我盯到興奮想幹炮…",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

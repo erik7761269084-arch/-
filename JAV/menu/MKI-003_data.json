@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/MzyczlV2/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/MzyczlV2/index.m3u8",
+    "线路2": "https://xbzyw25.top/video/m3u8/202504/04/c0d2e3544c8b/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154591,
     "IDcode": "MKI-003",
     "title": "强度逐渐增加的奇闻趣事HKou",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

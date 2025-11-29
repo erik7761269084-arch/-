@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/20/ab98c58e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/20/ab98c58e/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20231218/QPx6PNli/index.m3u8"
   },
   "seriesInfo": {
     "id": 210306,
     "IDcode": "JUX-828",
     "title": "叔母的誘惑-安野由美",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

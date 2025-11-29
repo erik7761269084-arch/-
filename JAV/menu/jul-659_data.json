@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/27/ef2ae375/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/27/ef2ae375/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68dae72ed6fbef4e90d1e01b.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202507/22/f073088ccda5/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212471,
     "IDcode": "JUL-659",
     "title": "理性崩壊-小林真梨香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

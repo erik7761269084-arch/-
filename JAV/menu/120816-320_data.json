@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241227/jZn5kk7L/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241227/jZn5kk7L/index.m3u8",
+    "线路2": "https://cdn2.shayubf.com/20200229/2f1fULiH/index.m3u8"
   },
   "seriesInfo": {
     "id": 143408,
     "IDcode": "120816-320",
     "title": "猫图画书奇诺狂三",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

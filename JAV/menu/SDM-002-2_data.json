@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/JRLh2DEd/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/JRLh2DEd/index.m3u8",
+    "线路2": "https://xbzyw25.top/video/m3u8/202504/02/15b712dbea54/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 153198,
     "IDcode": "SDM-002-2",
     "title": "奇闻趣事HMayu传递给一个业馀女孩的兴奋",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

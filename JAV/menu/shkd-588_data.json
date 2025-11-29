@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/13/deff6e94/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/13/deff6e94/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220821/NWMNauVk/index.m3u8"
   },
   "seriesInfo": {
     "id": 211471,
     "IDcode": "SHKD-588",
     "title": "暴虐-成田愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/30/472d615a/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/30/472d615a/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/51b536e19de9/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212521,
     "IDcode": "MEYD-690",
     "title": "店長夫人-壇凛沙",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "溜池",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/be1156d9/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/be1156d9/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/ec076ae29635/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212624,
     "IDcode": "ROYD-063",
     "title": "義兄家庭-百瀬あすか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ROYAL",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/d9b0be6b/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/06/d9b0be6b/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230304/2QBv8pW3/index.m3u8"
   },
   "seriesInfo": {
     "id": 211147,
     "IDcode": "WAAA-013",
     "title": "欲求不満-深田えいみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "WANZ FACTORY",
     "genres": [],
     "description": "",

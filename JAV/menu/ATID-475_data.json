@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202409/23/wBZD2ciYJF1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202409/23/wBZD2ciYJF1/video/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20240815/Ff14bq4S/index.m3u8"
   },
   "seriesInfo": {
     "id": 156137,
     "IDcode": "ATID-475",
     "title": "無碼破解版暗黑屁眼奴隸",
     "publish_date": "",
-    "type": "有码",
+    "type": "无码",
     "company": "TMA",
-    "genres": [],
+    "genres": [
+      "无码"
+    ],
     "description": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20240924-1/ab85b09efd3952b6e7f4e9365a64321f.jpg",
     "background_img": "",

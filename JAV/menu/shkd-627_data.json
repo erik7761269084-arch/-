@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/f1ca3eee/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/f1ca3eee/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20200413/JvGc7iCO/index.m3u8"
   },
   "seriesInfo": {
     "id": 213395,
     "IDcode": "SHKD-627",
     "title": "肉弾謝罪-KAORI",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

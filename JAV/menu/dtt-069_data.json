@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/02/f414487e/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/02/f414487e/index.m3u8",
+    "线路2": "https://b.v155p.com/20250903/fDnhn6ya/index.m3u8",
+    "线路3": "https://v8.lj20250710new.com/20250903/fDnhn6ya/index.m3u8"
   },
   "seriesInfo": {
     "id": 214794,
     "IDcode": "DTT-069",
     "title": "美丽笑容的接待员-花咲ゆの",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

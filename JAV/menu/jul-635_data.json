@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/40d10845/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/40d10845/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/22/eb14c41214ae/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212338,
     "IDcode": "JUL-635",
     "title": "同級生NTR-木下凛々子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "NTR",

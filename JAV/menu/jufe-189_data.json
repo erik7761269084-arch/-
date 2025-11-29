@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/11/0ad99baf/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/11/0ad99baf/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/7w1r68Ec/index.m3u8"
   },
   "seriesInfo": {
     "id": 209568,
     "IDcode": "JUFE-189",
     "title": "旅行先で黒人-瀬崎彩音",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FITCH",
     "genres": [],
     "description": "",

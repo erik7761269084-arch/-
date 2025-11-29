@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/21/74753c97/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/21/74753c97/index.m3u8",
+    "线路2": "https://dadi-bo.com/20181215/ijCPLIgi/index.m3u8"
   },
   "seriesInfo": {
     "id": 215184,
     "IDcode": "JUX-519",
     "title": "首次与陌生人发生关系-木下由美子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

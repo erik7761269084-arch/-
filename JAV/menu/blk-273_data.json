@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/05/72c5b213/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/05/72c5b213/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230428/DBTImvIF/index.m3u8"
   },
   "seriesInfo": {
     "id": 209841,
     "IDcode": "BLK-273",
     "title": "腰振り騎乗位 AIKA",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "KIRAKIRA",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/16/0c2f200a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/16/0c2f200a/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250127/pTaSHIrg/index.m3u8"
   },
   "seriesInfo": {
     "id": 211760,
     "IDcode": "JUL-446",
     "title": "濃密激情-友田真希",
-    "publish_date": "",
-    "type": "有码",
+    "publish_date": "2024-07-17",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/f7db3d3e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/19/f7db3d3e/index.m3u8",
+    "线路2": "https://krevonix.com/20250704/GyZJb1xR/index.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202506/23/8e2ada704433/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210626,
     "IDcode": "FSDSS-098",
     "title": "激烈战斗-橋本ありな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FALENO",
     "genres": [],
     "description": "",

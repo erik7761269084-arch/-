@@ -1,13 +1,16 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/08/6d60312a/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/08/6d60312a/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68dcf17fce5a404e9bc466e4.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68dbbfa6ce5a404e9bc0c7d2.m3u8",
+    "线路4": "https://thm3u8.vip/20250127/ZDmsebbM/index.m3u8"
   },
   "seriesInfo": {
     "id": 211415,
     "IDcode": "JUL-407",
     "title": "熟女的肉体-水野優香",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

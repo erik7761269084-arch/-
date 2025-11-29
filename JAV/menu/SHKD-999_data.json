@@ -1,21 +1,24 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/18/a8a7988c/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/18/a8a7988c/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202506/03/683ec38d0b69f1d816517e0e/a5f41a/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/movie/auto/68e880d2631cc64eb5a40978.m3u8",
+    "线路4": "https://jkunnzyx.com/20230315/ZZ2TDq60/index.m3u8"
   },
   "seriesInfo": {
     "id": 106565,
     "IDcode": "SHKD-999",
     "title": "我是一个狂妄的女孩-森日向子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
-      "单体作品",
       "女生",
+      "单体作品",
       "高中女生"
     ],
     "description": "",
-    "cover_url": "https://tutu1.space/images/2022/05/18/ab524759feecd72153280bc7ef79f9ea.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202506/03/683ec38d0b69f1d816517e0e/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-999",
     "actresses": [

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/07/c2c0d640/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/07/c2c0d640/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202509/29/ea6132784ee3/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 210828,
     "IDcode": "MIDE-841",
     "title": "我的同居男友不在-初川みなみ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

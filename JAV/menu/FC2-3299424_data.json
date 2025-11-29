@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/9417b205/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/9417b205/index.m3u8",
+    "线路2": "https://krevonix.com/20230831/tCufrIYI/index.m3u8"
   },
   "seriesInfo": {
     "id": 115125,
     "IDcode": "FC2-3299424",
     "title": "婚礼策划师被生肉棒救活",
     "publish_date": "2025-09-06",
-    "type": "无码",
+    "type": null,
     "company": "FC2",
     "genres": [],
     "description": "",

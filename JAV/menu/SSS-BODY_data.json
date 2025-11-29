@@ -1,13 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://vip1.slslvip12.com/20221006/YlnmNBG6/index.m3u8"
+    "主线路": "https://vip1.slslvip12.com/20221006/YlnmNBG6/index.m3u8",
+    "线路2": "https://ljljbf.com/20200301/dJ1G3hCg/index.m3u8",
+    "线路3": "https://2.ddyunbo.com/20190927/NJHtehoJ/index.m3u8",
+    "线路4": "https://vip2.lbbf9.com/20210804/U3ZPYzKj/index.m3u8",
+    "线路5": "https://vip2.lbbf9.com/20210906/97KDXkPS/index.m3u8",
+    "线路6": "https://vip5.ddyunbo.com/20230616/uHWrd7ww/index.m3u8"
   },
   "seriesInfo": {
     "id": 81383,
     "IDcode": "SSS-BODY",
     "title": "再光临  真正中出し4本番 part1",
     "publish_date": "2024-07-17",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

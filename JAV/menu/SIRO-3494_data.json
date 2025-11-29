@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250108/k2fFFlik/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250108/k2fFFlik/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202510/08/08tKDEHWK02/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 148507,
     "IDcode": "SIRO-3494",
     "title": "第一枪网络AV应用AV体验拍摄702",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250222-1/437d359164f7714fcfef4a0c9d719290.jpg",
     "background_img": "",

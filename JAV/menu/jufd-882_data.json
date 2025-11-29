@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/28/6ff46442/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/28/6ff46442/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20230918/hqJquf1T/index.m3u8"
   },
   "seriesInfo": {
     "id": 211854,
     "IDcode": "JUFD-882",
     "title": "調教計画 春菜はな",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "DREAMTICKET",
     "genres": [],
     "description": "",

@@ -1,17 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/21/163bb792/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/21/163bb792/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202501/09/6780100389def9b1b8cf344e/8fc04c/index.m3u8",
+    "线路3": "https://vip4.ddyunbo.com/20241022/EWijogqY/index.m3u8"
   },
   "seriesInfo": {
     "id": 200490,
     "IDcode": "SOE-455",
     "title": "寡妇吉泽明步艰难的温泉经营",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",
-    "cover_url": "/upload/vod/20250321-1/d56b90a548097ae2e6a91d21dbe0e3d9.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/6780100389def9b1b8cf344e/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-455",
     "actresses": []

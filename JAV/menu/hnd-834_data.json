@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/13/ee1e2233/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/13/ee1e2233/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250204/INF5wRzc/index.m3u8"
   },
   "seriesInfo": {
     "id": 209329,
     "IDcode": "HND-834",
     "title": "思春期と反抗期-羽鳥らむ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

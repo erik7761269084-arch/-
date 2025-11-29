@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/06/01ee1dce/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/06/01ee1dce/index.m3u8",
+    "线路2": "https://vostrely.com/20250119/aV13v58u/index.m3u8",
+    "线路3": "https://xibaocj.com/video/m3u8/202509/30/4cd5dd38b5e5/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213793,
     "IDcode": "SSIS-082",
     "title": "完全合意-三宮つばき",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "S1",
     "genres": [],
     "description": "",

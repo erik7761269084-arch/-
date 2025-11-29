@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220811/lUMFXh8N/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220811/lUMFXh8N/index.m3u8",
+    "线路2": "https://www.bfbfhao.com/20200712/EPh8Y1QU/index.m3u8"
   },
   "seriesInfo": {
     "id": 164887,
     "IDcode": "HUNTA-659",
     "title": "女子校内で超絶大な人気を誇っている姉のお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "中文字幕"

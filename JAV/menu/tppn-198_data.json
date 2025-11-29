@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/25/95e4390e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/25/95e4390e/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202507/09/fc220cc65df7/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 213579,
     "IDcode": "TPPN-198",
     "title": "競泳水着-さつき芽衣",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TEPPAN 鐵板",
     "genres": [],
     "description": "",

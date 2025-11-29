@@ -1,19 +1,28 @@
 {
   "episodes": {
-    "主线路": "https://vip4.bbffsl.com/20250416/eulnJS5j/index.m3u8"
+    "主线路": "https://vip4.bbffsl.com/20250416/eulnJS5j/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2022/09/13/281f86a1/index.m3u8",
+    "线路3": "https://lsbbf5.com/20250407/RYQT0XFk/index.m3u8",
+    "线路4": "https://v2025.ddcdnbf.com/20250415/OndZ4sqN/index.m3u8",
+    "线路5": "https://vip3.newljlj.com/20250415/OndZ4sqN/index.m3u8",
+    "线路6": "https://v2025.fhbbff.com/20250415/OndZ4sqN/index.m3u8",
+    "线路7": "https://v2024.sysybf.com/20250416/eulnJS5j/index.m3u8",
+    "线路8": "https://v5.lbv325627.com/20250416/eulnJS5j/index.m3u8",
+    "线路9": "https://yutubf.lsbbf3.com/20250407/RYQT0XFk/index.m3u8",
+    "线路10": "https://vostrely.com/20230526/u6OfcFQl/index.m3u8"
   },
   "seriesInfo": {
     "id": 68565,
     "IDcode": "KAAD-063",
     "title": "我が家の美しい姑 山口珠理",
     "publish_date": "2022-06-30",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [
       "已婚妇女",
-      "成熟的女人",
-      "中出",
       "乱伦",
+      "中出",
+      "成熟的女人",
       "单体作品"
     ],
     "description": "",

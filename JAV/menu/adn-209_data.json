@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/23/3dd830cc/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/23/3dd830cc/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202510/01/ba0adba24d88/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 212362,
     "IDcode": "ADN-209",
     "title": "女の味-優木なお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [],
     "description": "",

@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250118/M2fU5DkD/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250118/M2fU5DkD/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/19/69f29412556e/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154443,
     "IDcode": "ICK-002",
     "title": "GonzoHMizuki甜到美少女尖叫",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

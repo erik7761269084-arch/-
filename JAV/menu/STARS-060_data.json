@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/19/e927c1ae/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/19/e927c1ae/index.m3u8",
+    "线路2": "https://vip2.bfbfhao.com/20221217/pDBZfbxU/index.m3u8"
   },
   "seriesInfo": {
     "id": 19459,
     "IDcode": "STARS-060",
     "title": "学生時代-古川いおり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
       "紀錄片",
-      "姐姐・妹妹",
-      "偷窺"
+      "偷窺",
+      "姐姐・妹妹"
     ],
     "description": "",
     "cover_url": "https://tutu1.space/images/2021/01/20/edb30a30d2d64ffad244cc32a86d3066.jpg",

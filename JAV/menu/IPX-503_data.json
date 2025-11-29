@@ -1,18 +1,19 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/22/511b433d/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/22/511b433d/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20230308/oAhtCLzi/index.m3u8"
   },
   "seriesInfo": {
     "id": 18936,
     "IDcode": "IPX-503",
     "title": "熱帯夜-天海つばさ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "IDEA POCKET",
     "genres": [
       "出軌",
-      "蕩婦",
       "偷竊",
+      "蕩婦",
       "流汗"
     ],
     "description": "",

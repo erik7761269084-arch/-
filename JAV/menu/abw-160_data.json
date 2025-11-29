@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/16/0ceb7baf/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/16/0ceb7baf/index.m3u8",
+    "线路2": "https://vip4.lbbf9.com/20241201/Bpvk1Dca/index.m3u8"
   },
   "seriesInfo": {
     "id": 214496,
     "IDcode": "ABW-160",
     "title": "天然成分由来-乃木絢愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

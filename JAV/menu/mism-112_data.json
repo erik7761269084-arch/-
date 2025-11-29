@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/10/4ff123df/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/10/4ff123df/index.m3u8",
+    "线路2": "https://v2024.sysybf.com/20241202/tp9zkARV/index.m3u8"
   },
   "seriesInfo": {
     "id": 214982,
     "IDcode": "MISM-112",
     "title": "绝对服主人的命令",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "えむっ娘ラボ",
     "genres": [],
     "description": "",

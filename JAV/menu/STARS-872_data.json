@@ -1,22 +1,25 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/16/d6872d7c/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/16/d6872d7c/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/videos/202502/04/67a203ffcf22ae3e04a81753/b5f7d7/index.m3u8",
+    "线路3": "https://voddadaizi.com:52866/videos/202505/24/6831b077cb21006f00c89e63/28030d/index.m3u8",
+    "线路4": "https://vostrely.com/20240510/FGnQjxwl/index.m3u8"
   },
   "seriesInfo": {
     "id": 89313,
     "IDcode": "STARS-872",
     "title": "欢迎来到治愈乐园-星乃莉子",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "SOD",
     "genres": [
-      "户外",
-      "单体作品",
       "苗条",
-      "泳装"
+      "泳装",
+      "单体作品",
+      "户外"
     ],
     "description": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/4711efd3984bb120f0f2184fe66f848f.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a203ffcf22ae3e04a81753/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-872",
     "actresses": [

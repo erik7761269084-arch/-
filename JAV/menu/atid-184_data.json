@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/19/00ea6b22/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/19/00ea6b22/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220815/b7Fa75lz/index.m3u8"
   },
   "seriesInfo": {
     "id": 212906,
     "IDcode": "ATID-184",
     "title": "女怪盗-KAORI",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

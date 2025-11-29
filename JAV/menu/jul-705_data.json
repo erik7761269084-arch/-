@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/19/2adffa26/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/19/2adffa26/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250125/PZDkiq1B/index.m3u8"
   },
   "seriesInfo": {
     "id": 213441,
     "IDcode": "JUL-705",
     "title": "毕业典礼结束后-北条麻妃",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

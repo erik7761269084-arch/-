@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/24/a38aa76f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/24/a38aa76f/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250127/a4RDCL3o/index.m3u8"
   },
   "seriesInfo": {
     "id": 211580,
     "IDcode": "JUL-431",
     "title": "被丈夫的老板强暴7天后-市来まひろ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

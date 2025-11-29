@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/12/5576913f/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/12/5576913f/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20220816/HG8eWijL/index.m3u8"
   },
   "seriesInfo": {
     "id": 214436,
     "IDcode": "OBA-124",
     "title": "清洁员大婶-宮部涼花",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

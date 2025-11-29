@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/01/6ae8e8f2/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/01/6ae8e8f2/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250127/d59fP1E8/index.m3u8"
   },
   "seriesInfo": {
     "id": 211091,
     "IDcode": "JUL-377",
     "title": "美熟女-白石茉莉奈",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

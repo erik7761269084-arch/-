@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/YojKpIuc/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/YojKpIuc/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/18/bd01149106cd/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154653,
     "IDcode": "TAT-034",
     "title": "大山雀可爱的浴衣奇闻趣事打扰H法力",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

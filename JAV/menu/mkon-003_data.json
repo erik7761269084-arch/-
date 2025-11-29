@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/15/bdbf8058/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/15/bdbf8058/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20220531/b1Mcl3PJ/index.m3u8"
   },
   "seriesInfo": {
     "id": 214476,
     "IDcode": "MKON-003",
     "title": "我的女朋友-真白ここ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [],
     "description": "",

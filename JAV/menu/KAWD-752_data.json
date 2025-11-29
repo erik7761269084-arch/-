@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/27/49377a1e/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/27/49377a1e/index.m3u8",
+    "线路2": "https://lsbbf5.com/20251020/pfUpnmk6/index.m3u8"
   },
   "seriesInfo": {
     "id": 102575,
     "IDcode": "KAWD-752",
     "title": "女子大生-高城アミナ",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

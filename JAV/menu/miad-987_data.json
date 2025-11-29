@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/26/b68b29e8/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/06/26/b68b29e8/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20230517/IGQF0a1s/index.m3u8"
   },
   "seriesInfo": {
     "id": 212070,
     "IDcode": "MIAD-987",
     "title": "女教師-本田岬",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

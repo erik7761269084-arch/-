@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250119/oMKZOZ4l/index.m3u8"
+    "主线路": "https://thm3u8.vip/20250119/oMKZOZ4l/index.m3u8",
+    "线路2": "https://xibaocj.com/video/m3u8/202505/16/89ea9b428b46/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 154665,
     "IDcode": "TAT-002",
     "title": "2马尾辫美女与情人旅馆千寻",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

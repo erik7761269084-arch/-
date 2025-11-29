@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20241226/kCDwQIJC/index.m3u8"
+    "主线路": "https://thm3u8.vip/20241226/kCDwQIJC/index.m3u8",
+    "线路2": "https://vip23.newljlj2025.com/20200107/mZSWtCyS/index.m3u8",
+    "线路3": "https://v1.1bbffvip.com/20220810/rkT8bFw2/index.m3u8"
   },
   "seriesInfo": {
     "id": 142413,
     "IDcode": "112619-001",
     "title": "最佳泡泡公主故事Vol.71佐佐木由奈",
     "publish_date": "",
-    "type": "无码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

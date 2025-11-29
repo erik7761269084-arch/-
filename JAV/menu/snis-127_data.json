@@ -1,13 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/13/924e6ebb/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/13/924e6ebb/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221231/tAByMS9t/index.m3u8",
+    "线路3": "https://vostrely.com/20240806/9o8sbVvl/index.m3u8"
   },
   "seriesInfo": {
     "id": 209960,
     "IDcode": "SNIS-127",
     "title": "老年人爱情-夢乃あいか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

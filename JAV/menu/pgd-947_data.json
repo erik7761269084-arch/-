@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/26/b7ff2d8a/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/26/b7ff2d8a/index.m3u8",
+    "线路2": "https://bf4.qrtuv.com/202509/11/NT1aahaEXP2/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 212446,
     "IDcode": "PGD-947",
     "title": "时尚的金色浴室-麻里梨夏",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

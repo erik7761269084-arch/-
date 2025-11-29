@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/22/cf4576d0/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/22/cf4576d0/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250203/XRfVc2HY/index.m3u8"
   },
   "seriesInfo": {
     "id": 209724,
     "IDcode": "MEYD-602",
     "title": "上司に犯-松本いちか",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "溜池",
     "genres": [],
     "description": "",

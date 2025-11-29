@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/05/2463ca03/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/05/2463ca03/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230303/wlrjvvyg/index.m3u8"
   },
   "seriesInfo": {
     "id": 210471,
     "IDcode": "JUFE-208",
     "title": "与一名黑人合租-舞原聖",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "FITCH",
     "genres": [],
     "description": "",

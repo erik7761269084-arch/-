@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/2e2d921e/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/27/2e2d921e/index.m3u8",
+    "线路2": "https://voddadaizi.com:52866/movie/auto/68fc7adb1572686be7a48491.m3u8"
   },
   "seriesInfo": {
     "id": 174827,
     "IDcode": "NACT-029",
     "title": "快楽エステルーム キモおじの凄テクに快感を覚えてしまった私 二羽紗愛",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
     "genres": [],
     "description": "",

@@ -1,21 +1,22 @@
 {
   "episodes": {
-    "主线路": "https://1.mysqldata3202s4l.com/20241008/dmaFvMOY/index.m3u8"
+    "主线路": "https://1.mysqldata3202s4l.com/20241008/dmaFvMOY/index.m3u8",
+    "线路2": "https://krevonix.com/20240724/tbGFSscq/index.m3u8"
   },
   "seriesInfo": {
     "id": 93071,
     "IDcode": "MMGH-001",
     "title": "魔鏡號 浴衣美女挑戰羞恥野球拳！ 夏樹",
     "publish_date": "2017-09-15",
-    "type": "有码",
+    "type": null,
     "company": "妄想族",
     "genres": [
-      "HDTV",
-      "业余",
       "女大学生",
-      "浴衣",
+      "HDTV",
+      "猎艳",
+      "业余",
       "企画",
-      "猎艳"
+      "浴衣"
     ],
     "description": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/16ae8bad30e83f313a67c3a558448048.jpg",

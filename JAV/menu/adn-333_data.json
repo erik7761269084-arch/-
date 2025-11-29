@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/3688c0a5/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/06/3688c0a5/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230302/LQYFLopW/index.m3u8"
   },
   "seriesInfo": {
     "id": 212626,
     "IDcode": "ADN-333",
     "title": "和儿子的朋友发生关系-妃ひかり",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "ATTACKERS",
     "genres": [
       "乱伦"

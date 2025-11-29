@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/6ac9254c/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/11/6ac9254c/index.m3u8",
+    "线路2": "https://vip4.ddyunbo.com/20240517/rrlipVer/index.m3u8"
   },
   "seriesInfo": {
     "id": 212754,
     "IDcode": "MIDE-632",
     "title": "文系少女-有季なお",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": null,
     "genres": [],
     "description": "",

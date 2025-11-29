@@ -1,15 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/03/5f91b57a/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/11/03/5f91b57a/index.m3u8",
+    "线路2": "https://vip3.bfbfhao.com/20240630/iifoXu4l/index.m3u8"
   },
   "seriesInfo": {
     "id": 196654,
     "IDcode": "450OSST-008",
     "title": "在韓國遇到的這位在雨中讀書的神秘女孩",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "TMA",
-    "genres": [],
+    "genres": [
+      "素人"
+    ],
     "description": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/11/03/5f91b57a/vod.jpg",
     "background_img": "",

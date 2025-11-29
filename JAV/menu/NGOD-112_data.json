@@ -1,13 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://v1.1bbffvip.com/20220817/ZaV3pT3b/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20220817/ZaV3pT3b/index.m3u8",
+    "线路2": "https://www.lbbf9.com/20200102/QTzZZCzu/index.m3u8"
   },
   "seriesInfo": {
     "id": 165204,
     "IDcode": "NGOD-112",
     "title": "僕のねとられ話しを聞いてほしい 真面",
     "publish_date": "",
-    "type": "有码",
+    "type": null,
     "company": "卍GROUP",
     "genres": [
       "中文字幕"
