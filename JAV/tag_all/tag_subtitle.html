@@ -62,19 +62,25 @@
 <div class="tag-list" id="tagList"></div>
 
 <script>
-// -----------------------------------------------
-//                加载 header.html
-// -----------------------------------------------
+/* -------------------------------
+            Header 载入
+-------------------------------- */
 fetch('../header.html') 
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
+    // ⭐ 手动加载 header.css
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '../header.css';
+    document.head.appendChild(link);
+
     const script = document.createElement('script');
     script.src = '../header.js';
     script.onload = () => {
       if (typeof initHeaderMenu === 'function') initHeaderMenu();
-      if (typeof setActiveMenu === 'function') setActiveMenu('menu-tag');
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
     };
     document.body.appendChild(script);
   });
