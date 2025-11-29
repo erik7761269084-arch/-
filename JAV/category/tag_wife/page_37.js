@@ -1,2727 +1,1731 @@
 window.PAGE_DATA = [
   {
-    "id": 2622,
-    "IDcode": "JUR-493",
-    "title": "被驯服的我成为了丈夫上司的专属乳奴隶怜奈想要被揉捏乳头-桃园怜奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "正統派",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "接吻",
-      "美人",
-      "熟女",
-      "極品美人",
-      "大乳暈",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "豐滿",
-      "超爆乳",
-      "乳交",
-      "形象俱樂部",
-      "混血",
-      "中出",
-      "慾求不滿",
-      "色白",
-      "不倫",
-      "調教",
-      "巨尻",
-      "單體作品",
-      "蠻橫嬌羞",
-      "若妻",
-      "絕頂高潮",
-      "家庭主妇",
-      "自宅",
-      "潮吹",
-      "出軌",
-      "胸控・戀乳癖",
-      "猥褻穿著",
-      "三十路",
-      "下屬女友・妻子",
-      "性感",
-      "高顏值",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "綠茶婊",
-      "口爆",
-      "蕩婦",
-      "舔陰",
-      "流汗",
-      "口交",
-      "美人妻",
-      "寢取",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/03/2c391806faed85018067eaf83753b760.jpg",
-    "actress": [
-      "桃園怜奈",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-493"
-  },
-  {
-    "id": 2082,
-    "IDcode": "JUR-500",
-    "title": "毕业典礼之后来自继母的成人礼-宫下华奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "大奶头",
-      "美乳",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美人",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "御姐系",
-      "4K",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "不倫",
-      "單體作品",
-      "絕頂高潮",
-      "三十路",
-      "性感",
-      "高顏值",
-      "美腳",
-      "繼母",
-      "後入",
-      "口爆",
-      "貧乳",
-      "舔陰",
-      "口交",
-      "臀控",
-      "美人妻",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/1893fd073dd18348ad8286722c7d1716.jpg",
-    "actress": [
-      "宮下華奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-500"
-  },
-  {
-    "id": 2102,
-    "IDcode": "JUR-501",
-    "title": "绝对不能对妻子说竟然把岳母搞大了肚子-岬光莉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "大奶头",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美人",
-      "貴婦",
-      "劇情",
-      "美腿",
-      "濕身",
-      "淫亂",
-      "豐滿",
-      "御姐系",
-      "清楚系",
-      "4K",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "不倫",
-      "單體作品",
-      "和服・浴衣・喪服",
-      "絕頂高潮",
-      "溫泉",
-      "家庭主妇",
-      "胸控・戀乳癖",
-      "三十路",
-      "變態",
-      "性感",
-      "御姐控",
-      "旅行",
-      "高顏值",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "口爆",
-      "奇聞趣事",
-      "舔陰",
-      "口交",
-      "美人妻",
-      "寢取",
-      "乱伦",
-      "騎乗位",
-      "岳母",
-      "地味",
-      "阪道系"
-    ],
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/21/c9de89180cc4af747b6a9738c3967b91.jpg",
-    "actress": [
-      "岬光莉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-501"
-  },
-  {
-    "id": 2084,
-    "IDcode": "JUR-502",
-    "title": "就让我插一下下就好面对年届三十仍是处男的义弟-椎名由奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "大奶头",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美人",
-      "劇情",
-      "豐滿",
-      "御姐系",
-      "4K",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "不倫",
-      "巨尻",
-      "單體作品",
-      "絕頂高潮",
-      "家庭主妇",
-      "自宅",
-      "出軌",
-      "胸控・戀乳癖",
-      "四十路",
-      "性感",
-      "美腳",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "口爆",
-      "舔陰",
-      "口交",
-      "嫂嫂",
-      "美人妻",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/22/0923f804/vod.jpg",
-    "actress": [
-      "椎名由奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-502"
-  },
-  {
-    "id": 2108,
-    "IDcode": "JUR-506",
-    "title": "中年巨根老爹的脏乱房间里人妻上门按摩师陷入了无套狂热-仲宫那美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "大奶头",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "肉絲",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美人",
-      "極品美人",
-      "劇情",
-      "美腿",
-      "濕身",
-      "豐滿",
-      "御姐系",
-      "癡女",
-      "按摩女郎",
-      "拜金女",
-      "4K",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "巨尻",
-      "脅迫做愛",
-      "單體作品",
-      "女優訪談",
-      "絕頂高潮",
-      "胸控・戀乳癖",
-      "三十路",
-      "抹油",
-      "性感",
-      "無毛",
-      "高顏值",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "辣妹/GAL系",
-      "舔陰",
-      "口交",
-      "臀控",
-      "按摩・物理治療・美容",
-      "制服",
-      "美人妻",
-      "寢取",
-      "騎乗位",
-      "港區女子"
-    ],
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/21/c296a375f321fa34458a5cd20ba8f004.jpg",
-    "actress": [
-      "沖宮那美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-506"
-  },
-  {
-    "id": 2651,
-    "IDcode": "JUR-508",
-    "title": "妻子的朋友百濑小姐的爆乳N罩杯贴身治疗竟意外失控-城ヶ崎百瀬",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美人",
-      "艷遇",
-      "女友閨蜜",
-      "劇情",
-      "大乳暈",
-      "按摩・美容店",
-      "濕身",
-      "豐滿",
-      "超爆乳",
-      "清楚系",
-      "按摩女郎",
-      "癡女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "清純",
-      "不倫",
-      "巨尻",
-      "單體作品",
-      "絕頂高潮",
-      "早漏",
-      "出軌",
-      "胸控・戀乳癖",
-      "抹油",
-      "性感",
-      "高顏值",
-      "巨乳",
-      "後入",
-      "口爆",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "按摩・物理治療・美容",
-      "美人妻",
-      "勾引・誘惑",
-      "騎乗位",
-      "阪道系"
-    ],
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/06/ce61a94b/vod.jpg",
-    "actress": [
-      "城崎百瀨"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-508"
-  },
-  {
-    "id": 2076,
-    "IDcode": "JUR-516",
-    "title": "嘿你老婆真是太棒了-藤环奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美臀",
-      "大奶头",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "美人",
-      "艷遇",
-      "劇情",
-      "豐滿",
-      "御姐系",
-      "4K",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "高妹",
-      "慾求不滿",
-      "色白",
-      "不倫",
-      "單體作品",
-      "顔面騎乘",
-      "絕頂高潮",
-      "潮吹",
-      "出軌",
-      "胸控・戀乳癖",
-      "四十路",
-      "性感",
-      "無毛",
-      "美腳",
-      "上司女友・妻子",
-      "高顏值",
-      "巨乳",
-      "辦公室",
-      "職場",
-      "後入",
-      "口爆",
-      "蕩婦",
-      "舔陰",
-      "口交",
-      "OL",
-      "制服",
-      "美人妻",
-      "寢取",
-      "勾引・誘惑",
-      "騎乗位",
-      "阪道系"
-    ],
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/24/2b4485d5796c920c9df359c2e5538bb6.jpg",
-    "actress": [
-      "藤環奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-516"
-  },
-  {
-    "id": 174307,
-    "IDcode": "JUR-527",
-    "title": "新人 保科希帆 32歳 AV DEBUT 純真な保育士の人妻―。子供のようなあどけなさを。保科希帆",
+    "id": 199772,
+    "IDcode": "FC2PPV-4623728",
+    "title": "为未婚夫偿还债务的S级人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "MADONNA",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/31/ed67baaeb62dd5f8a937efb25d06a30d.jpg",
+    "cover_url": "https://tutu1.space/images/2025/05/05/334dc0b671616eb0b955c52ce8110a58.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-527"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4623728"
   },
   {
-    "id": 2091,
-    "IDcode": "JUR-552",
-    "title": "女教师NTR不良学生抢走了我最爱的妻子-橘玛丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "M男・M女",
-      "美臀",
-      "大奶头",
-      "美乳",
-      "NTR",
-      "手指插入",
-      "女教師",
-      "人妻",
-      "肉絲",
-      "女上位",
-      "接吻",
-      "美人",
-      "熟女",
-      "極品美人",
-      "劇情",
-      "美腿",
-      "淫亂",
-      "舔腳",
-      "御姐系",
-      "超爆乳",
-      "學校",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "高妹",
-      "色白",
-      "脅迫做愛",
-      "單體作品",
-      "苗條",
-      "顏射",
-      "更衣室",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "潮吹",
-      "淫妻",
-      "胸控・戀乳癖",
-      "三十路",
-      "變態",
-      "性感",
-      "高顏值",
-      "美腳",
-      "巨乳",
-      "羞恥",
-      "後入",
-      "校園生活",
-      "口爆",
-      "辣妹/GAL系",
-      "舔陰",
-      "口交",
-      "臀控",
-      "野性",
-      "寢取",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/23/932c72bcb79b1df10a5e30f7251d1ae4.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-552"
-  },
-  {
-    "id": 201029,
-    "IDcode": "JURA-015",
-    "title": "初次拍摄五十岁人妻-及川里香子",
+    "id": 152689,
+    "IDcode": "FC2PPV-4626823",
+    "title": "【モ無】【ハメ撮り】みず○○行で働く人妻OLをぐちゃぐちゃに掻き回し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250207-1/0312e670058fad1d57e7eb8382527aa7.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250310-1/f2ff37c83de329506d20f87e752f8967.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4626823"
   },
   {
-    "id": 223099,
-    "IDcode": "JURA-061",
-    "title": "初撮人妻-秋元美織",
+    "id": 152673,
+    "IDcode": "FC2PPV-4626856",
+    "title": "【モ無】【ハメ撮り】【中出し】淫乱人妻が旦那より硬いチンポに大興奮",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-9/112f0fd230682d8a7238fcfc12f1cd19.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250309-1/0afb3e793ecd1d02db78390685cbd689.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-061"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4626856"
   },
   {
-    "id": 225510,
-    "IDcode": "JURA-062",
-    "title": "初摄人妻-夏八木彩月",
+    "id": 153040,
+    "IDcode": "FC2PPV-4632274",
+    "title": "美女人妻专心致志打桩骑乘位",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/614fa2f37e540bee74be42678ee7b83e.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/13/e87d6de72f3acd27b0283bc3cca4dffb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-062"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4632274"
   },
   {
-    "id": 223277,
-    "IDcode": "JURA-063",
-    "title": "初次拍摄五十岁人妻-真木纱由里",
+    "id": 153009,
+    "IDcode": "FC2PPV-4632365",
+    "title": "素人人妻直接性交中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-8/b99e80fd70ed6d8f8e2f6e5a4b3c0e1e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-063"
-  },
-  {
-    "id": 225507,
-    "IDcode": "JURA-064",
-    "title": "初次拍摄人妻-—若槻惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/f263fdf201e1e39a5bdffffbf9bcaa5e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-064"
-  },
-  {
-    "id": 225240,
-    "IDcode": "JURA-065",
-    "title": "初次拍摄人妻-松冈三奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-7/3c41e320e1aa7de70e5d40eddde5aa33.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-065"
-  },
-  {
-    "id": 107634,
-    "IDcode": "JURA-068",
-    "title": "初次拍摄人妻-相河沙季",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
       "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/64080b780455820c7de8c4b747140ab0.jpg",
-    "actress": [
-      "相河沙季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-068"
-  },
-  {
-    "id": 107306,
-    "IDcode": "JURA-072",
-    "title": "初次拍摄人妻-相河沙季",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/2d609063a72c0f956f4a999f146bb58f.jpg",
-    "actress": [
-      "相河沙季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-072"
-  },
-  {
-    "id": 91962,
-    "IDcode": "JURA-073",
-    "title": "初次拍摄人妻-长原秋奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/bfaca4d209e241c7c7c23cf0ed23e9c3.jpg",
-    "actress": [
-      "長原あきな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-073"
-  },
-  {
-    "id": 107304,
-    "IDcode": "JURA-076",
-    "title": "初次拍摄人妻-常盘一夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/2641429d18e773aa0a2481918534404f.jpg",
-    "actress": [
-      "常盤いち夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-076"
-  },
-  {
-    "id": 91029,
-    "IDcode": "JURA-077",
-    "title": "初撮り人妻、ふたたび。 河波れみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-08-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240309-1/b0c24b9f62bf2c3cbd3203dcbbd4064a.jpg",
-    "actress": [
-      "河波れみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-077"
-  },
-  {
-    "id": 106778,
-    "IDcode": "JURA-078",
-    "title": "初攝人妻再次見面-長原秋菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/9c813dc77c5b77f5ccca3cba85bba49a.jpg",
-    "actress": [
-      "長原あきな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-078"
-  },
-  {
-    "id": 91030,
-    "IDcode": "JURA-079",
-    "title": "初次拍摄人妻-深月千草",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-4/5f050e5b5789521c03074f1eb14aaf9d.jpg",
-    "actress": [
-      "タツ",
-      "深月ちぐさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-079"
-  },
-  {
-    "id": 91028,
-    "IDcode": "JURA-080",
-    "title": "初撮り人妻、ふたたび。 立岡杏菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "2023-08-31",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240309-1/20711e264d80217b01002f649a94bf20.jpg",
-    "actress": [
-      "立岡杏菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-080"
-  },
-  {
-    "id": 91040,
-    "IDcode": "JURA-082",
-    "title": "初次拍摄人妻-河波怜美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/776f18e42053d4a1c34b43eb2cfa9b94.jpg",
-    "actress": [
-      "河波れみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-082"
-  },
-  {
-    "id": 91039,
-    "IDcode": "JURA-083",
-    "title": "初攝人妻-立岡杏菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-3/7067eb5264b95498212e7af066094929.jpg",
-    "actress": [
-      "立岡杏菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-083"
-  },
-  {
-    "id": 91038,
-    "IDcode": "JURA-086",
-    "title": "初次拍摄人妻-尾上美绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/4df4b52c0e1d658f6fc0485744cb9fa3.jpg",
-    "actress": [
-      "尾上みお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-086"
-  },
-  {
-    "id": 91964,
-    "IDcode": "JURA-087",
-    "title": "初摄五十岁人妻-菱田由纪乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/7addd6beff48303000230cbb176e2500.jpg",
-    "actress": [
-      "菱田由紀乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-087"
-  },
-  {
-    "id": 91037,
-    "IDcode": "JURA-090",
-    "title": "初次拍摄人妻-尾上美绪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240116-1/973cff98a7722b7b283c1f68ffb10364.jpg",
-    "actress": [
-      "尾上みお"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-090"
-  },
-  {
-    "id": 91966,
-    "IDcode": "JURA-091",
-    "title": "初次拍摄五十岁人妻-日吉美夜乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240215-1/b754e08ccc4e348d9f84d6927bb37ec8.jpg",
-    "actress": [
-      "日吉みよの"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-091"
-  },
-  {
-    "id": 91965,
-    "IDcode": "JURA-092",
-    "title": "初次拍摄五十岁人妻-宫下昌代",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "首次亮相",
-      "中出",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240131-1/a6144998a1f025b9d96977a98d5d1b72.jpg",
-    "actress": [
-      "宮下昌代"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-092"
-  },
-  {
-    "id": 91968,
-    "IDcode": "JURA-093",
-    "title": "初次拍摄五十岁人妻-桐生珠帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "首次亮相",
-      "中出",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240131-1/7ec6ccbe8f088a5621095328f2568c15.jpg",
-    "actress": [
-      "桐生珠帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-093"
-  },
-  {
-    "id": 91971,
-    "IDcode": "JURA-098",
-    "title": "第一次拍摄人妻-泽村花恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/54330e8ccbe17f163d09b7dc1d299788.jpg",
-    "actress": [
-      "沢村花恋"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-098"
-  },
-  {
-    "id": 91970,
-    "IDcode": "JURA-100",
-    "title": "初次拍摄六十岁人妻-樱井美由纪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/8a094b69738e8cf47962f5240b8dab0a.jpg",
-    "actress": [
-      "桜井美由紀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-100"
-  },
-  {
-    "id": 91967,
-    "IDcode": "JURA-101",
-    "title": "初次拍摄人妻-山宫一香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/e74012421a28406d5167449a05612e0b.jpg",
-    "actress": [
-      "山宮いち香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-101"
-  },
-  {
-    "id": 91972,
-    "IDcode": "JURA-102",
-    "title": "初次拍摄人妻-工藤里绪菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240413-1/5359e1a68dfdf1aaba027c68fe550592.jpg",
-    "actress": [
-      "工藤りおな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-102"
-  },
-  {
-    "id": 91985,
-    "IDcode": "JURA-108",
-    "title": "首次拍摄人妻-工藤りおな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240512-1/03120690dd8a6cb349528abcece547e2.jpg",
-    "actress": [
-      "工藤りおな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-108"
-  },
-  {
-    "id": 96682,
-    "IDcode": "JURA-114",
-    "title": "初次拍摄的人妻-栗山皐月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/2c2aeafefe5ccacbb3c3075d89f04860.jpg",
-    "actress": [
-      "栗山さつき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-114"
-  },
-  {
-    "id": 12526,
-    "IDcode": "JURA-116",
-    "title": "初次拍摄人妻document第二章-玉木香织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫亂",
-      "黑絲",
-      "人妻",
-      "後入",
-      "熟女",
-      "女上位",
-      "女優",
-      "中出",
-      "口交",
-      "多P",
-      "企畫",
-      "3P・4P",
-      "兩男一女",
       "素人"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240921-3/ed1a1bef438f1482d9b6472280f32eed.jpg",
-    "actress": [
-      "玉木かおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-116"
+    "cover_url": "https://tutu1.space/images/2025/04/28/16f1448e24f48dd03d5980b796ee960c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4632365"
   },
   {
-    "id": 95634,
-    "IDcode": "JURA-119",
-    "title": "第一次拍摄的人妻文献第二章-咲原井奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241019-1/a7503647f9a530b61a02ec1bafa50f54.jpg",
-    "actress": [
-      "タツ",
-      "咲原いおな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-119"
-  },
-  {
-    "id": 11362,
-    "IDcode": "JURA-121",
-    "title": "初撮り人妻ドキュメント第二章 澤北杏南",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "飯店",
-      "美乳",
-      "人妻",
-      "女上位",
-      "熟女",
-      "亂交 • 群P",
-      "淫亂",
-      "按摩棒",
-      "形象俱樂部",
-      "中出",
-      "色白",
-      "多P",
-      "巨尻",
-      "3P・4P",
-      "絕頂高潮",
-      "胸控・戀乳癖",
-      "性感",
-      "巨乳",
-      "辦公室",
-      "企畫",
-      "紀錄片",
-      "兩男一女",
-      "後入",
-      "女優",
-      "口交",
-      "OL",
-      "美人妻",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/7e1b57cc/vod.jpg",
-    "actress": [
-      "澤北杏南"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-121"
-  },
-  {
-    "id": 176695,
-    "IDcode": "JURA-122",
-    "title": "初撮り人妻ドキュメント第二章 三ツ谷優里",
+    "id": 152999,
+    "IDcode": "FC2PPV-4632746",
+    "title": "超美魔女人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/18/43d70af9/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/28/0a58b381417d9a4c2c7d0932bb6130f3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-122"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4632746"
   },
   {
-    "id": 75937,
-    "IDcode": "JURA-124",
-    "title": "初次拍摄人妻document第二章-有坂祥子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241221-1/4ba787a204c384fc63c685dfd8191c15.jpg",
-    "actress": [
-      "有坂祥子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-124"
-  },
-  {
-    "id": 75927,
-    "IDcode": "JURA-125",
-    "title": "初次拍摄人妻document第二章-堀口小百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241221-1/1134b27985d99f6e67d231c0b75c19ea.jpg",
-    "actress": [
-      "堀口小百合"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-125"
-  },
-  {
-    "id": 75363,
-    "IDcode": "JURA-126",
-    "title": "初次拍摄五十岁人妻-吉永羊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241227-1/32f4f480d25769cb11121593265746a9.jpg",
-    "actress": [
-      "吉永羊"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-126"
-  },
-  {
-    "id": 181393,
-    "IDcode": "JURA-127",
-    "title": "初撮り人妻ドキュメント第二章 宮本小雪",
+    "id": 151439,
+    "IDcode": "FC2PPV-4636742",
+    "title": "整洁人妻阳台曝光",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/23/f62898cd/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/23/d2604d1a610cd47ab9e00dd60a131088.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4636742"
   },
   {
-    "id": 75332,
-    "IDcode": "JURA-129",
-    "title": "初次拍摄五十岁人妻-須王亜紀",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20241227-1/f44ec5419cd2cca9eb912d5bd2d7ae2a.jpg",
-    "actress": [
-      "須王亜紀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-129"
-  },
-  {
-    "id": 9786,
-    "IDcode": "JURA-130",
-    "title": "初撮り人妻ドキュメント第二章 岸本藍花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "人妻",
-      "女上位",
-      "熟女",
-      "淫亂",
-      "乳交",
-      "按摩棒",
-      "形象俱樂部",
-      "中出",
-      "多P",
-      "巨尻",
-      "3P・4P",
-      "女優訪談",
-      "絕頂高潮",
-      "內衣",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "巨乳",
-      "企畫",
-      "兩男一女",
-      "羞恥",
-      "後入",
-      "口爆",
-      "女優",
-      "口交",
-      "美人妻",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/8b37339a/vod.jpg",
-    "actress": [
-      "岸本藍花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-130"
-  },
-  {
-    "id": 9788,
-    "IDcode": "JURA-131",
-    "title": "初射人妻文献第3章-伊织知世",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美乳",
-      "手指插入",
-      "真實拍攝",
-      "人妻",
-      "女上位",
-      "接吻",
-      "熟女",
-      "亂交 • 群P",
-      "美腿",
-      "淫亂",
-      "舔腳",
-      "形象俱樂部",
-      "中出",
-      "色白",
-      "多P",
-      "苗條",
-      "3P・4P",
-      "顏射",
-      "女優訪談",
-      "脚控・戀足癖",
-      "絕頂高潮",
-      "潮吹",
-      "美腳",
-      "企畫",
-      "兩男一女",
-      "後入",
-      "口爆",
-      "蕩婦",
-      "舔陰",
-      "女優",
-      "口交",
-      "野性",
-      "騎乗位"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250124-1/9b2d9a1bbc4997f5315c26040825ceed.jpg",
-    "actress": [
-      "伊織知世"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-131"
-  },
-  {
-    "id": 75101,
-    "IDcode": "JURA-132",
-    "title": "初次拍摄五十岁人妻-吉永羊",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250124-1/c3ab634b5b2671b50185502b5855c35b.jpg",
-    "actress": [
-      "吉永羊"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-132"
-  },
-  {
-    "id": 184292,
-    "IDcode": "JURA-133",
-    "title": "初次拍摄五十岁人妻-須王亜紀",
+    "id": 197136,
+    "IDcode": "FC2PPV-4639855",
+    "title": "美人妻早泄小穴湿透射精",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20250207-1/a900ef9307db8b382f3231f00120a720.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/12/0406a18d363199c728e336dff5ad0d47.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4639855"
   },
   {
-    "id": 73218,
-    "IDcode": "JURA-134",
-    "title": "初撮り人妻ドキュメント第二章 琴宮まみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "4K",
-      "人妻",
-      "素人作品",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250816-1/b3a94cfe5fc224dbabd8ccb38278ba0d.jpg",
-    "actress": [
-      "琴宮まみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-134"
-  },
-  {
-    "id": 189317,
-    "IDcode": "JURA-136",
-    "title": "初撮り人妻ドキュメント第二章 若菜れいか",
+    "id": 153097,
+    "IDcode": "FC2PPV-4640721",
+    "title": "借钱的人妻手淫口交技术太好了",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/a1b926805d0b9e48c5c5e41d41508e8f.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/19/b6bc92833b75d477e65d613b503bf06a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-136"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4640721"
   },
   {
-    "id": 189282,
-    "IDcode": "JURA-137",
-    "title": "初撮り人妻ドキュメント第二章 綾香あかね",
+    "id": 153095,
+    "IDcode": "FC2PPV-4640767",
+    "title": "苗条人妻对鸡巴发出欲望的呼喊",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250806-1/385700b31285820e744d31e9c20b6fdb.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/19/b3011ff638483635368a6dde6b294d74.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-137"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4640767"
   },
   {
-    "id": 70542,
-    "IDcode": "JURA-139",
-    "title": "初次拍攝人妻紀錄片第三章-琴宮麻美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250401-1/dfcc195cc465fafbc2097af075c4557b.jpg",
-    "actress": [
-      "琴宮まみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-139"
-  },
-  {
-    "id": 70541,
-    "IDcode": "JURA-140",
-    "title": "初次拍攝人妻紀錄片第二章-久保田早苗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250401-1/62c12634e3cd8b6fa0ac9e4a2f4dc2cb.jpg",
-    "actress": [
-      "久保田早苗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-140"
-  },
-  {
-    "id": 70108,
-    "IDcode": "JURA-142",
-    "title": "初撮り人妻ドキュメント第二章 東ふうか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250710-2/c1efce157bbf1609918fbc157446d532.jpg",
-    "actress": [
-      "東ふうか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-142"
-  },
-  {
-    "id": 67005,
-    "IDcode": "JURA-145",
-    "title": "初次拍攝人妻紀錄第三章-東風香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-3/5c9aa4a26d3edc64403d0ebde71b1fb7.jpg",
-    "actress": [
-      "東ふうか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-145"
-  },
-  {
-    "id": 64079,
-    "IDcode": "JURA-146",
-    "title": "初次拍摄五十岁人妻第二章-赤川诗织",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "中出",
-      "纪录片",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250615-3/e7430cef1087dc6fc73954c34153ad26.jpg",
-    "actress": [
-      "赤川しおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-146"
-  },
-  {
-    "id": 62266,
-    "IDcode": "JURA-147",
-    "title": "初次拍摄的少妇记录第二章-七瀬未歩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "纪录片",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250806-2/77a9af6669ea47c2f07c24e1b04c8e68.jpg",
-    "actress": [
-      "七瀬未歩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-147"
-  },
-  {
-    "id": 62040,
-    "IDcode": "JURA-148",
-    "title": "初次拍摄的六十岁少妇纪录片第二章-沢口紫乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "纪录片",
-      "多P",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250723-1/c844f2138ed0865a3ef1c6e41263dbca.jpg",
-    "actress": [
-      "沢口紫乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-148"
-  },
-  {
-    "id": 61487,
-    "IDcode": "JURA-149",
-    "title": "初撮り人妻ドキュメント第二章 岡名あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "纪录片",
-      "多P",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20250801-1/923c046d86f40f3d100a96a005ab5fbd.jpg",
-    "actress": [
-      "岡名あおい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-149"
-  },
-  {
-    "id": 184050,
-    "IDcode": "JURA-153",
-    "title": "初撮り人妻ドキュメント第二章 塚原かえで",
+    "id": 154753,
+    "IDcode": "FC2PPV-4641732",
+    "title": "与沉迷于通奸的性感迷人美丽妻子",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/b683c45b/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/21/8a72caff56fae33102d25a4099aeb1f9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-153"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4641732"
   },
   {
-    "id": 59827,
-    "IDcode": "JURA-156",
-    "title": "初次拍摄人妻纪录片第二章-柴田良香",
+    "id": 153067,
+    "IDcode": "FC2PPV-4642105",
+    "title": "秋田美人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/06/3de65f20/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/13/837be3c8617c30bd714d905dd691556a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-156"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4642105"
   },
   {
-    "id": 60249,
-    "IDcode": "JURA-158",
-    "title": "第一次的人妻纪录片第三章-岡名あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "纪录片",
-      "巨乳",
-      "单体作品",
-      "滥交"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/a85b91f4/vod.jpg",
-    "actress": [
-      "岡名あおい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-158"
-  },
-  {
-    "id": 186891,
-    "IDcode": "JURA-159",
-    "title": "初撮り人妻ドキュメント第二章 堀切菜未",
+    "id": 153063,
+    "IDcode": "FC2PPV-4642162",
+    "title": "【顔出し】【ハメ撮り】【中出し】某どらっぐストアでバイトしている人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/69a28871/vod.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250322-1/b1ac172fe08b8f232af2ca99c0457add.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-159"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4642162"
   },
   {
-    "id": 177488,
-    "IDcode": "JURA-160",
-    "title": "初次拍摄人妻纪录片第二章-夏目そら",
+    "id": 153103,
+    "IDcode": "FC2PPV-4658455",
+    "title": "超美淫荡精致身材人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/148bb5aa/vod.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/01/72a879b89abd24bb06c128e057b5fa26.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-160"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4658455"
   },
   {
-    "id": 59883,
-    "IDcode": "JURA-161",
-    "title": "初撮り人妻ドキュメント第三章 塚原かえで",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "拘束",
-      "纪录片",
-      "多P",
-      "单体作品"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/26/7097ef39/vod.jpg",
-    "actress": [
-      "塚原かえで"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-161"
-  },
-  {
-    "id": 175136,
-    "IDcode": "JURA-166",
-    "title": "初撮り人妻ドキュメント第二章 宮下まどか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/29/a0f9df53/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-166"
-  },
-  {
-    "id": 224043,
-    "IDcode": "JURA-55",
-    "title": "初撮人妻-久松美晴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2022/08/12/05d8a1bf37a08a4b89446d9befd57a1f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-55"
-  },
-  {
-    "id": 64127,
-    "IDcode": "JURA-67",
-    "title": "初次拍摄人妻-吉冈麻友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-6/b6917379620febc07ac08aa2dec0ca5a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-67"
-  },
-  {
-    "id": 168462,
-    "IDcode": "JURA-68",
-    "title": "初撮り人妻、ふたたび。 相河沙季",
+    "id": 154741,
+    "IDcode": "FC2PPV-4668297",
+    "title": "【無修正】【淫乱マゾペット】初めてのお散歩、アヘぐシロート人妻バイブ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "中文字幕"
+      "无码"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "无码",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240205/h_086jura68pl.jpg!320x216.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250430-1/291ae69297bad84a3e7541c5fb8c4898.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-68"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4668297"
   },
   {
-    "id": 169653,
-    "IDcode": "JURA-68-C",
-    "title": "初撮り人妻、ふたたび。",
+    "id": 154737,
+    "IDcode": "FC2PPV-4668448",
+    "title": "人妻是紧紧地勒紧的名器的持有者",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241022-1/ff5ae5ae47a8fcec81b3e20437655406.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/24/54cacd1e21b8efc312fe509115b7364d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-68-C"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4668448"
   },
   {
-    "id": 168786,
-    "IDcode": "JURA-72",
-    "title": "初撮り人妻、みたび。 相河沙季",
+    "id": 154715,
+    "IDcode": "FC2PPV-4669640",
+    "title": "【無修正】【顔出し】某どらっぐストアでバイトしている人妻は詐欺にあ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "中文字幕"
+      "无码"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "无码",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240315/h_086jura72pl.jpg!320x216.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250425-1/cb4eddc25ed1625aa21f55279ae80764.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-72"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4669640"
   },
   {
-    "id": 168787,
-    "IDcode": "JURA-73",
-    "title": "初撮り人妻、ふたたび。 長原あきな",
+    "id": 154705,
+    "IDcode": "FC2PPV-4670459",
+    "title": "【無修正】【顔出し】実オトートの為に脱ぐことを決意した人妻は",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "中文字幕"
+      "无码"
     ],
-    "type": "有码",
-    "company": "",
+    "type": "无码",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240315/h_086jura73pl.jpg!320x216.jpg",
+    "cover_url": "https://thjpg10.top/upload/vod/20250422-1/68155bb7c5153bdf513650f9773bf56c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-73"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4670459"
   },
   {
-    "id": 169656,
-    "IDcode": "JURA-78-C",
-    "title": "初撮り人妻、みたび。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20241022-1/14eaa8d04f0b1a1895570805d68c08e3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-78-C"
-  },
-  {
-    "id": 169044,
-    "IDcode": "JURA-79",
-    "title": "初撮り人妻、みたび。 深月ちぐさ",
+    "id": 154704,
+    "IDcode": "FC2PPV-4670476",
+    "title": "巨乳母犬人妻人妻调教中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240522/h_086jura79pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-79"
-  },
-  {
-    "id": 169139,
-    "IDcode": "JURA-82",
-    "title": "初撮り人妻、みたび。 河波れみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "中文字幕"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/2024/07/higdcxyxbwj.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-82"
-  },
-  {
-    "id": 170840,
-    "IDcode": "JURA086",
-    "title": "初撮り人妻、ふたたび。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250607-1/afbd1ec05d28d734773822850044c754.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA086"
-  },
-  {
-    "id": 170844,
-    "IDcode": "JURA098",
-    "title": "初撮り人妻、ふたたび。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250607-1/10c6f7f7f09e09911a3cdd9bafa3f690.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA098"
-  },
-  {
-    "id": 170839,
-    "IDcode": "JURA102",
-    "title": "初撮り人妻、ふたたび。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250607-1/3a7de6cb856f52d725c63301b2ae78c1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA102"
-  },
-  {
-    "id": 170230,
-    "IDcode": "JURA65C",
-    "title": "初撮り人妻、ふたうたび",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250309-1/1637363768912e4047e3d63b06f98f95.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA65C"
-  },
-  {
-    "id": 170231,
-    "IDcode": "JURA67C",
-    "title": "初撮り人妻、ふたうたび",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250309-1/5fa0816a3fb3bb03798bbc229b48da31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA67C"
-  },
-  {
-    "id": 170843,
-    "IDcode": "JURA68",
-    "title": "初撮り人妻、ふたたび。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250607-1/bb71d269b34bcc9cc95d045280c4374f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA68"
-  },
-  {
-    "id": 170838,
-    "IDcode": "JURA78",
-    "title": "初撮り人妻、みたび。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "有码",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20250607-1/01bf8cd6b053c896116b5966fa1b1346.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA78"
-  },
-  {
-    "id": 77680,
-    "IDcode": "JUTA-110",
-    "title": "40歲人妻終於下海幹砲啦！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "首次亮相",
-      "中出",
       "巨乳"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240820-1/cc6a0a20c6b3291702b56da5633c0774.jpg",
-    "actress": [
-      "安倍真知子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-110"
-  },
-  {
-    "id": 91986,
-    "IDcode": "JUTA-134",
-    "title": "三十岁人妻初脱-山岸泉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "首次亮相",
-      "中出",
-      "单体作品",
-      "苗条"
-    ],
-    "type": "有码",
-    "company": "熟女JAPAN",
-    "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-5/7cd8f0d2dadcfa3e11b7ec3f9d3e8c25.jpg",
+    "cover_url": "https://tutu1.space/images/2025/04/24/060b89f313c6b7421444374b1c339061.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-134"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4670476"
   },
   {
-    "id": 91036,
-    "IDcode": "JUTA-135",
-    "title": "三十岁人妻初脱-本上郁",
+    "id": 154766,
+    "IDcode": "FC2PPV-4675411",
+    "title": "【無修正】【顔出し】スポブラが良く似合うスタイル抜群の人妻は返済金額が足",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
       "人妻",
-      "首次亮相",
-      "中出",
-      "单体作品",
-      "巨大屁股"
+      "无码"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "无码",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://avtdc107.cc/upload/vod/20240118-2/ed71e584ea6b6438c45bf6a2a9a0d919.jpg",
-    "actress": [
-      "本上郁"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-135"
+    "cover_url": "https://thjpg10.top/upload/vod/20250506-1/087c1180efd227cfeb020ad7ca7cafd5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4675411"
   },
   {
-    "id": 91991,
-    "IDcode": "JUTA-136",
-    "title": "四十岁人妻初脱-星川沙月",
+    "id": 154827,
+    "IDcode": "FC2PPV-4677078",
+    "title": "【無修正】【顔出し】純白の下着が良く似合う顔もスタイルも最上級な人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
       "人妻",
-      "首次亮相",
-      "中出",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250519-1/f8d6939f4c9676739e0727c7b9e97618.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4677078"
+  },
+  {
+    "id": 154985,
+    "IDcode": "FC2PPV-4682512",
+    "title": "与美魔女级苗条人妻主妇的真实自拍视频",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/09/2497ac07/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4682512"
+  },
+  {
+    "id": 154879,
+    "IDcode": "FC2PPV-4688995",
+    "title": "在白天的酒店被叫去中出时正给主人买伴手礼的秋田美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/05/29/9624ea0d/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4688995"
+  },
+  {
+    "id": 154887,
+    "IDcode": "FC2PPV-4690305",
+    "title": "因渴望肉棒而哭叫发狂的苗条人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/02/ff216575/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4690305"
+  },
+  {
+    "id": 154886,
+    "IDcode": "FC2PPV-4690637",
+    "title": "【無修正】【顔出し】顔もスタイルも最上級な人妻と念願のハメ撮り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250531-1/ce97741cd1aa4191cd809a59c44f2411.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4690637"
+  },
+  {
+    "id": 154940,
+    "IDcode": "FC2PPV-4694032",
+    "title": "人妻酒店礼宾的秘密",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/d89e75ec/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4694032"
+  },
+  {
+    "id": 198497,
+    "IDcode": "FC2PPV-4696019",
+    "title": "与穿兔女郎装的人妻炮友在酒店密会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/09/1e2e1efe/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4696019"
+  },
+  {
+    "id": 154939,
+    "IDcode": "FC2PPV-4696679",
+    "title": "爱做菜的美人妻实则超淫荡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/08/71e79202/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4696679"
+  },
+  {
+    "id": 154946,
+    "IDcode": "FC2PPV-4697336",
+    "title": "再次被带来的27岁美肌美乳人妻被轮流玩弄后的悲惨结局",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/13c2c096/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4697336"
+  },
+  {
+    "id": 154961,
+    "IDcode": "FC2PPV-4698114",
+    "title": "酒店大厅工作的人妻故事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/08/4726029a/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4698114"
+  },
+  {
+    "id": 154984,
+    "IDcode": "FC2PPV-4698533",
+    "title": "丰满人妻为我服务的记录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/10/a7feda63/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4698533"
+  },
+  {
+    "id": 154978,
+    "IDcode": "FC2PPV-4698707",
+    "title": "午后高楼酒店中被欲望贯穿的美尻人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/10/5cf35b7b/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4698707"
+  },
+  {
+    "id": 155120,
+    "IDcode": "FC2PPV-4698754",
+    "title": "变成M属性的爆乳人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/21/8f57efd2/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4698754"
+  },
+  {
+    "id": 198730,
+    "IDcode": "FC2PPV-4699302",
+    "title": "性欲旺盛爆乳傲娇的25岁人妻连肛门都舔",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
       "巨乳",
-      "单体作品"
+      "嫩妹"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240131-1/ca358023089ac7b2d727ad11b5febcac.jpg",
-    "actress": [
-      "星川さつき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-136"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/11/081a7b8d/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4699302"
   },
   {
-    "id": 91992,
-    "IDcode": "JUTA-137",
-    "title": "三十岁人妻初脱-夏希栗",
+    "id": 198718,
+    "IDcode": "FC2PPV-4699681",
+    "title": "把超可爱人妻带进酒店为所欲为",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "首次亮相",
-      "中出",
-      "单体作品",
-      "苗条"
+      "人妻"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240131-1/6c096e61f865042fe7045458c840b4ef.jpg",
-    "actress": [
-      "夏希栗",
-      "石川あやみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-137"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/11/eec3590a/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4699681"
   },
   {
-    "id": 91988,
-    "IDcode": "JUTA-138",
-    "title": "四十岁人妻初脱-樱井文奈",
+    "id": 154990,
+    "IDcode": "FC2PPV-4700105",
+    "title": "在珠宝店工作的29岁已婚5年人妻渴望不再被动的性爱",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "首次亮相",
-      "中出",
-      "巨乳",
-      "单体作品"
+      "人妻"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240225-1/80c3244da9ed9dfa1aa36c2945bcb0d0.jpg",
-    "actress": [
-      "櫻井ふみ奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-138"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/10/90e051cd/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4700105"
   },
   {
-    "id": 91987,
-    "IDcode": "JUTA-139",
-    "title": "三十岁人妻初脱-青山沙耶",
+    "id": 198615,
+    "IDcode": "FC2PPV-4700109",
+    "title": "将自己交给多P欲望的美人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "首次亮相",
-      "中出",
-      "单体作品",
-      "苗条"
+      "人妻"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240327-1/e42e5208a6ac669617401e97bc4077c8.jpg",
-    "actress": [
-      "樱井まみ",
-      "青山沙耶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-139"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/10/db41c5be/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4700109"
   },
   {
-    "id": 96669,
-    "IDcode": "JUTA-144",
-    "title": "四十岁人妻初脱-小林里花子",
+    "id": 155044,
+    "IDcode": "FC2PPV-4700622",
+    "title": "亲自中出本人妻美女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "首次亮相",
-      "中出",
-      "单体作品",
-      "巨大屁股"
+      "人妻"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/da594f9782f0361590f294fc75362b4f.jpg",
-    "actress": [
-      "小林里花子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-144"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/64892753/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4700622"
   },
   {
-    "id": 13661,
-    "IDcode": "JUTA-145",
-    "title": "四十岁人妻初脱-村上紗枝",
+    "id": 155034,
+    "IDcode": "FC2PPV-4702439",
+    "title": "有苦衷的人妻陷入债务地狱被生肉棒深插大量中出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "出道作品",
-      "美乳",
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/359cf776/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4702439"
+  },
+  {
+    "id": 195578,
+    "IDcode": "FC2PPV-4702466",
+    "title": "因家丑被迫脱衣的巨乳丰满人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "人妻",
-      "女上位",
-      "熟女",
-      "情趣內衣",
-      "亂交 • 群P",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/15/330954c5/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4702466"
+  },
+  {
+    "id": 155040,
+    "IDcode": "FC2PPV-4703444",
+    "title": "在局里上班的风韵人妻下班后与邻居的秘密邂逅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/772163fe/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4703444"
+  },
+  {
+    "id": 155059,
+    "IDcode": "FC2PPV-4703534",
+    "title": "开门见全裸中出爱肉棒的清纯美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/18/cb3f68fa/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4703534"
+  },
+  {
+    "id": 155057,
+    "IDcode": "FC2PPV-4703915",
+    "title": "高潮20次以上约会网站邂逅人妻的激情实录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/18/63271dea/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4703915"
+  },
+  {
+    "id": 155109,
+    "IDcode": "FC2PPV-4705806",
+    "title": "人妻34岁丰熟身躯被他人肉棒带上巅峰",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "少妇"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/06/22/413d62b309964519b06155133ba8b933.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4705806"
+  },
+  {
+    "id": 155123,
+    "IDcode": "FC2PPV-4707283",
+    "title": "[即ハメ中出し素人妻］無修正≪旦那は仕事中に私は温泉旅行で中出しされちゃ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
       "素人",
-      "淫亂",
-      "乳交",
-      "按摩棒",
-      "中出",
-      "苗條",
-      "內衣",
-      "絕頂高潮",
-      "自宅",
-      "潮吹",
-      "胸控・戀乳癖",
-      "性感",
-      "美腳",
-      "巨乳",
-      "企畫",
-      "羞恥",
-      "後入",
-      "蕩婦",
-      "口交",
-      "美少女電影",
-      "騎乗位"
+      "无码"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "无码",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240819-1/7d081e3da6d618c4596fa25d945ca7fc.jpg",
-    "actress": [
-      "村上紗枝"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-145"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/ea4c0fc5/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4707283"
   },
   {
-    "id": 12884,
-    "IDcode": "JUTA-146",
-    "title": "第一次脱衣AV-雾岛香堀",
+    "id": 155144,
+    "IDcode": "FC2PPV-4712184",
+    "title": "前电视主播少妇女风手法泪喷痉挛中出实录",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "紀念作",
-      "人妻",
-      "熟女",
-      "重口味",
-      "中出",
-      "色白",
-      "企畫",
-      "苗條"
+      "人妻"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240824-1/9a12852e9b2321085145b9cc316b1e6b.jpg",
-    "actress": [
-      "三枝木玲実"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-146"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/4f9e9e87/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4712184"
   },
   {
-    "id": 12879,
-    "IDcode": "JUTA-147",
-    "title": "三十岁人妻初脱-木村望结",
+    "id": 193176,
+    "IDcode": "FC2PPV-4713206",
+    "title": "再次带来的27岁美肌美乳人妻双重玩具调教",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出道作品",
-      "美乳",
-      "手指插入",
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-2/1e2fc7683f4c9a558f1f616a2e6b7bef.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4713206"
+  },
+  {
+    "id": 161648,
+    "IDcode": "FC2PPV-4714796",
+    "title": "【S級美人妻降臨】いやらしいカラダの奥さん vol.37 豊満な身体が魅*",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/09/e188af23/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4714796"
+  },
+  {
+    "id": 161628,
+    "IDcode": "FC2PPV-4714987",
+    "title": "端庄人妻堕M鞭打强制口爆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250703-1/17c999da6a4208855d2575bf19f5b0df.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4714987"
+  },
+  {
+    "id": 161627,
+    "IDcode": "FC2PPV-4714989",
+    "title": "結婚生活5年で別居中の32歳人妻 完全版",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250710-1/be90c92f5be9b701a2ebaddc449ac0f3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4714989"
+  },
+  {
+    "id": 161626,
+    "IDcode": "FC2PPV-4715094",
+    "title": "[即ハメ中出し素人妻］無修正≪Gcupグラマー系❤️デカぃおっぱいＪＤ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
       "人妻",
-      "女上位",
-      "熟女",
-      "插入異物",
       "素人",
-      "中出",
-      "苗條",
-      "絕頂高潮",
-      "潮吹",
-      "企畫",
-      "羞恥",
-      "後入",
-      "女優",
-      "口交",
-      "自慰",
-      "騎乗位"
+      "巨乳",
+      "无码"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "无码",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240824-1/8f92df9b811a0e7f3017aef509e04747.jpg",
-    "actress": [
-      "木村望結"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-147"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/09/4512197e/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4715094"
   },
   {
-    "id": 12876,
-    "IDcode": "JUTA-148",
-    "title": "三十岁的真正处女-西河青奈",
+    "id": 277223,
+    "IDcode": "FC2PPV-4716966",
+    "title": "巨乳大臀四十美人妻向年下男央求即插即射出轨",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出道作品",
       "人妻",
-      "熟女",
-      "女上位",
-      "女優",
-      "中出",
-      "口交",
-      "企畫",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/16fbbadc/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4716966"
+  },
+  {
+    "id": 161695,
+    "IDcode": "FC2PPV-4717491",
+    "title": "【無】AI不要のSSS級美人人妻を撮影のついでに何度も中出し！【顔出し】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "/upload/vod/20250710-1/9432b8663607cdd6e9011a7f7937ed9a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4717491"
+  },
+  {
+    "id": 161724,
+    "IDcode": "FC2PPV-4717689",
+    "title": "未处理浓毛人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250718-1/2ce43450e01aa5a159f5a7826f8bbc7e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4717689"
+  },
+  {
+    "id": 161745,
+    "IDcode": "FC2PPV-4718168",
+    "title": "周中白昼尽情享受他人肉棒的28岁人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250718-1/5d02760b74a11c0641280da5f7ae9624.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4718168"
+  },
+  {
+    "id": 161832,
+    "IDcode": "FC2PPV-4718889",
+    "title": "和素颜超可爱的人妻成为炮友",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250714-1/d5ece01e278ffedc009b3154c041ae03.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4718889"
+  },
+  {
+    "id": 161929,
+    "IDcode": "FC2PPV-4719261",
+    "title": "不知被丈夫出卖的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250714-1/6ca19c0fd0962b8200e69336017aee5c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4719261"
+  },
+  {
+    "id": 161808,
+    "IDcode": "FC2PPV-4719274",
+    "title": "有两个大小姐的年轻人妻用骑乘位激发大叔软鸡鸡",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250714-1/6fc5b03eb9906f98c71c1a2ce45695d4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4719274"
+  },
+  {
+    "id": 161867,
+    "IDcode": "FC2PPV-4719404",
+    "title": "被背叛人妻的悲剧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250714-1/9a124551bd7053e84876d2367dc91755.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4719404"
+  },
+  {
+    "id": 162077,
+    "IDcode": "FC2PPV-4719480",
+    "title": "对人妻理疗师进行真性骚扰培训──男士SPA研修",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250718-1/41a4e866546661d9ad0f8f5992f0de84.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4719480"
+  },
+  {
+    "id": 192583,
+    "IDcode": "FC2PPV-4720138",
+    "title": "K罩杯爆乳人妻高潮喷水了几次",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "2025-07-13",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/13/78ecfcee/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4720138"
+  },
+  {
+    "id": 161985,
+    "IDcode": "FC2PPV-4721437",
+    "title": "前地下偶像出身的超可爱人妻在酒店街与两名陌生男子会合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/07/15/b1d3bf53/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4721437"
+  },
+  {
+    "id": 161962,
+    "IDcode": "FC2PPV-4722545",
+    "title": "【金欠爆乳ミケポ人妻】デブ専ぽっちゃりギャル系若妻が生◯費と養",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250718-1/29f784d1c74c40b1e0fdb41ac1f9ec41.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4722545"
+  },
+  {
+    "id": 161960,
+    "IDcode": "FC2PPV-4722768",
+    "title": "攀登快感巅峰的苗条人妻用嘴与脚玩弄他人肉棒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250718-1/07672598908bfca919140847644fb0bb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4722768"
+  },
+  {
+    "id": 527798,
+    "IDcode": "FC2PPV-4733004",
+    "title": "【无修正】【颜出し】颜もスタイルも最上级な人妻とハメ撮り",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250802-1/0b4e11f8a0fb6769976b1de887b949ce.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4733004"
+  },
+  {
+    "id": 189220,
+    "IDcode": "FC2PPV-4733053",
+    "title": "又被町屋带回的美腿29岁人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250806-1/e7e09f0bad2d51965c171e9505239cc9.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4733053"
+  },
+  {
+    "id": 527768,
+    "IDcode": "FC2PPV-4734156",
+    "title": "モ无/美脚/人妻/３P/连続生中 人妻*宫ガン突き中出しSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250806-1/347c55f514bb279c9fab3a4ca9edb9f4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4734156"
+  },
+  {
+    "id": 188686,
+    "IDcode": "FC2PPV-4736285",
+    "title": "兼职人妻男友家约会不伦偷拍中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250811-1/b23b819374ed48a83fa6dc1b7a721f69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4736285"
+  },
+  {
+    "id": 181758,
+    "IDcode": "FC2PPV-4739024",
+    "title": "再次被带来的27岁美肌美乳人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/16/c820cf7d6e4940c9da53b25819c90cf7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4739024"
+  },
+  {
+    "id": 181697,
+    "IDcode": "FC2PPV-4739124",
+    "title": "某SNS上约会的人妻再来",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/16/f2ab75b4/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4739124"
+  },
+  {
+    "id": 181715,
+    "IDcode": "FC2PPV-4739366",
+    "title": "白皙丰满人妻的出轨亲热中出性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/16/06d9c158/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4739366"
+  },
+  {
+    "id": 182642,
+    "IDcode": "FC2PPV-4739379",
+    "title": "出轨妄想癖的淫乱人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/21/8611d663/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4739379"
+  },
+  {
+    "id": 184655,
+    "IDcode": "FC2PPV-4739694",
+    "title": "人妻绫香的初次肛交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/311a8945/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4739694"
+  },
+  {
+    "id": 182651,
+    "IDcode": "FC2PPV-4742726",
+    "title": "最强平衡身体人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/21/70846d9c/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4742726"
+  },
+  {
+    "id": 182867,
+    "IDcode": "FC2PPV-4743559",
+    "title": "人妻治疗师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/70fa4d4f/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4743559"
+  },
+  {
+    "id": 182887,
+    "IDcode": "FC2PPV-4744224",
+    "title": "美女人妻被串烧和NTR",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/632444d6/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4744224"
+  },
+  {
+    "id": 184595,
+    "IDcode": "FC2PPV-4745324",
+    "title": "极品整洁苗条美人妻小百合3P",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/6baaa38b/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4745324"
+  },
+  {
+    "id": 185053,
+    "IDcode": "FC2PPV-4750671",
+    "title": "巨乳超美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/82290a99/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750671"
+  },
+  {
+    "id": 185026,
+    "IDcode": "FC2PPV-4750707",
+    "title": "喷奶释放欲望45岁丰满人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/afa221e9/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4750707"
+  },
+  {
+    "id": 527300,
+    "IDcode": "FC2PPV-4751882",
+    "title": "底なしの性欲モンスター人妻 ゆみさん 久しぶりのおチ○ポが気持ち良す",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250911-1/42b15cc89e12ac508473415d6e60a82a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4751882"
+  },
+  {
+    "id": 177028,
+    "IDcode": "FC2PPV-4759277",
+    "title": "连乳晕都是黑色的五十多岁人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/f44f9b8e/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4759277"
+  },
+  {
+    "id": 527152,
+    "IDcode": "FC2PPV-4759790",
+    "title": "先着100本【初回限定65％OFF！前作とのセットで更に20％OFF！】绮丽な人妻こ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://jpgjingpinx1.top/upload/vod/20250921-1/f2aee36b218c5dccbef8b83673f539c3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4759790"
+  },
+  {
+    "id": 181595,
+    "IDcode": "FC2PPV-4760261",
+    "title": "和52岁人妻期待已久的生吃中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/53db649f/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4760261"
+  },
+  {
+    "id": 176028,
+    "IDcode": "FC2PPV-4761680",
+    "title": "熟人妻的素人性爱写实",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
       "素人"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20240824-1/b9981fc8a6354c62e66494fcb3f0ed76.jpg",
-    "actress": [
-      "西河あおな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-148"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/c7f0fd6c/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4761680"
   },
   {
-    "id": 77784,
-    "IDcode": "JUTA-153",
-    "title": "四十岁人妻初脱AV-橘史乃",
+    "id": 179866,
+    "IDcode": "FC2PPV-4762059",
+    "title": "美丽的无毛人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "已婚妇女",
-      "成熟的女人",
-      "人妻",
-      "首次亮相",
-      "中出",
-      "巨乳",
-      "单体作品"
+      "人妻"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241129-1/37652c375d59fda8e06a611fc0289273.jpg",
-    "actress": [
-      "花柳里葎子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-153"
+    "cover_url": "https://tutu1.space/images/2025/09/25/170c6538aad55eaabae6c4d453ee1d2a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4762059"
   },
   {
-    "id": 10905,
-    "IDcode": "JUTA-154",
-    "title": "三十岁人妻初脱-萩原和花",
+    "id": 176044,
+    "IDcode": "FC2PPV-4765800",
+    "title": "巨乳美女人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "美臀",
-      "出道作品",
-      "美乳",
-      "手指插入",
-      "真實拍攝",
       "人妻",
-      "女上位",
-      "熟女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "色白",
-      "巨尻",
-      "絕頂高潮",
-      "紀念作",
-      "胸控・戀乳癖",
-      "性感",
-      "美腳",
-      "巨乳",
-      "企畫",
-      "後入",
-      "舔陰",
-      "女優",
-      "口交",
-      "美人妻",
-      "騎乗位"
+      "巨乳"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241114-1/073a2464e477a7943a3cc391f64ec2a8.jpg",
-    "actress": [
-      "萩原のどか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-154"
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/e39be9e9/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4765800"
   },
   {
-    "id": 10571,
-    "IDcode": "JUTA-155",
-    "title": "40年代妻子的第一次脱衣AV资料",
+    "id": 177058,
+    "IDcode": "FC2PPV-4770907",
+    "title": "极度淫荡的无毛美女人妻",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出道作品",
-      "美乳",
-      "真實拍攝",
-      "人妻",
-      "女上位",
-      "熟女",
-      "貴婦",
-      "形象俱樂部",
-      "中出",
-      "慾求不滿",
-      "色白",
-      "巨尻",
-      "苗條",
-      "女優訪談",
-      "家庭主妇",
-      "絕頂高潮",
-      "內衣",
-      "紀念作",
-      "美腳",
-      "企畫",
-      "後入",
-      "女優",
-      "口交",
-      "騎乗位"
+      "人妻"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241129-1/db6d96297a43bd929564e899bb0c4400.jpg",
-    "actress": [
-      "碓氷紗也"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-155"
+    "cover_url": "https://tutu1.space/images/2025/10/12/f824e5e9b01127035eaf74b803a62861.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4770907"
   },
   {
-    "id": 10573,
-    "IDcode": "JUTA-156",
-    "title": "三十岁人妻第一次脱衣AV-悠木刊",
+    "id": 527054,
+    "IDcode": "FC2PPV-4771033",
+    "title": "【神回】スレンダー人妻が夫に内绪で爱人と生ハメ＆连続中出し３P浓厚SEX",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "出道作品",
-      "美乳",
-      "真實拍攝",
-      "人妻",
-      "女上位",
-      "熟女",
-      "乳交",
-      "形象俱樂部",
-      "中出",
-      "短髮",
-      "紀念作",
-      "胸控・戀乳癖",
-      "性感",
-      "眼鏡",
-      "巨乳",
-      "企畫",
-      "羞恥",
-      "後入",
-      "文藝女",
-      "女優",
-      "口交",
-      "美人妻",
-      "騎乗位"
+      "人妻"
     ],
-    "type": "有码",
-    "company": "熟女JAPAN",
+    "type": "",
+    "company": "FC2",
     "publish_date": "",
-    "cover_url": "/upload/vod/20241129-1/c2f618ca821b06e12d953f4b0ffe73d4.jpg",
-    "actress": [
-      "悠木栞"
+    "cover_url": "https://jpgjingpinx1.top/upload/vod/20251001-1/591f796e5c066d82d1074f2e1f6e1748.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4771033"
+  },
+  {
+    "id": 177069,
+    "IDcode": "FC2PPV-4771213",
+    "title": "贱人妻被当成慰藉物最后爽快地吸干精液",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-156"
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/12/28d84489c79a80129786b71ce2b45867.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4771213"
+  },
+  {
+    "id": 177232,
+    "IDcode": "FC2PPV-4772572",
+    "title": "多毛淫荡人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/5719e3d6/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4772572"
+  },
+  {
+    "id": 177252,
+    "IDcode": "FC2PPV-4773576",
+    "title": "在新婚夫妇的家里一边想着她老公什么时候回家一边和淫荡的人妻做爱最后射在她体内",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/c4c6750c/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4773576"
+  },
+  {
+    "id": 176029,
+    "IDcode": "FC2PPV-4773602",
+    "title": "美丽的剃光人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/ca287690/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4773602"
+  },
+  {
+    "id": 177221,
+    "IDcode": "FC2PPV-4773895",
+    "title": "身材绝佳的美丽人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/96ce32d0/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4773895"
+  },
+  {
+    "id": 177246,
+    "IDcode": "FC2PPV-4774490",
+    "title": "情色漫画人妻被搭讪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/32fbefd5/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4774490"
+  },
+  {
+    "id": 177457,
+    "IDcode": "FC2PPV-4775677",
+    "title": "为了解决无性婚姻人妻她把一切都发泄在一个放荡的男人身上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/a10a8e30/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4775677"
+  },
+  {
+    "id": 177447,
+    "IDcode": "FC2PPV-4775796",
+    "title": "丰满人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/8e643d67/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4775796"
+  },
+  {
+    "id": 176034,
+    "IDcode": "FC2PPV-4775912",
+    "title": "超级敏感的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/87026c7f/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4775912"
+  },
+  {
+    "id": 176203,
+    "IDcode": "FC2PPV-4776896",
+    "title": "超美人妻激情爆棚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/908ff0db/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4776896"
+  },
+  {
+    "id": 174377,
+    "IDcode": "FC2PPV-4778974",
+    "title": "阴道紧致的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/7df00230/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4778974"
+  },
+  {
+    "id": 175404,
+    "IDcode": "FC2PPV-4780168",
+    "title": "乡下离婚人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/d4d529a8/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4780168"
   }
 ];
