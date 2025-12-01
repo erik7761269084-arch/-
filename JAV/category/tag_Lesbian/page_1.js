@@ -513,24 +513,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-364"
   },
   {
-    "id": 225096,
-    "IDcode": "AUKG-367",
-    "title": "被义妹搞女同的人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "女同"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/b1e546e64d7bdafc06c99dc9022f3dcc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-367"
-  },
-  {
     "id": 411118,
     "IDcode": "AUKG-377",
     "title": "寡婦兼前同學～愛女同～一條公香金島優子",
@@ -632,48 +614,6 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/688971eec92318f97d1d67ae/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-412"
-  },
-  {
-    "id": 98397,
-    "IDcode": "AUKG-468",
-    "title": "女同性恋教育-佐久間恵美 香苗レノン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女教师",
-      "舔阴",
-      "女同",
-      "学校作品",
-      "女同性恋",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/4268f6b25700cd802703f003d84dde55.jpg",
-    "actress": [
-      "香苗レノン",
-      "佐久间恵美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-468"
-  },
-  {
-    "id": 213353,
-    "IDcode": "AUKG-486",
-    "title": "女同性恋老师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/12/09d952a805e04db35c140589ffe491f9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-486"
   },
   {
     "id": 411322,
@@ -985,23 +925,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-098"
   },
   {
-    "id": 225104,
-    "IDcode": "BBAN-110",
-    "title": "被女同囚禁的女搜查官",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同"
-    ],
-    "type": "",
-    "company": "BIBIAN",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-3/9967c6abf3b751e4359f3d34084a71d3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-110"
-  },
-  {
     "id": 403340,
     "IDcode": "BBAN-155",
     "title": "在朋友面前被性交的女同性恋BBAN-155-水城奈绪",
@@ -1212,23 +1135,6 @@ window.PAGE_DATA = [
       "枢木葵"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-307"
-  },
-  {
-    "id": 536740,
-    "IDcode": "BBAN-320",
-    "title": "欲求不満のイマドキギャルが女ばっかりの学校で性欲を発散する方法を考えた。そうだ！女同士でエッチすればいいんじゃん！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同"
-    ],
-    "type": "",
-    "company": "BIBIAN",
-    "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-35/bff465db8dcabed75da83b1a69e54620.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-320"
   },
   {
     "id": 410513,
@@ -1624,7 +1530,7 @@ window.PAGE_DATA = [
     "type": "",
     "company": "KAWAII",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240118-1/8190cf6834679b0fcda6033cc784960f.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044054256256.jpg",
     "actress": [
       "乙愛麗絲",
       "齋藤亞美里",
@@ -1757,30 +1663,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-559"
   },
   {
-    "id": 98967,
-    "IDcode": "CESD-091",
-    "title": "シェアハウスの痴女住人 真性美痴女同居人誘惑チンポ喰い何度射精しても終わらない究極痴女攻め騎乗位セックス！ 蓮実クレア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫语",
-      "荡妇",
-      "姐姐",
-      "女同",
-      "足交",
-      "女上位"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2015-01-13",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/uyvpwqwatmp.jpg",
-    "actress": [
-      "蓮実クレア"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-091"
-  },
-  {
     "id": 536393,
     "IDcode": "CESD-444",
     "title": "女同士のレズビアン姊贞爱 桐嶋りの 篠田ゆう",
@@ -1796,32 +1678,6 @@ window.PAGE_DATA = [
     "cover_url": "http://15.155250922.com/upload/vod/20230718/cesd444pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-444"
-  },
-  {
-    "id": 99026,
-    "IDcode": "CESD-889",
-    "title": "女同士の寝取られルームシェア涼美ほのか月宮ねね水谷あおい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同接吻",
-      "白天出轨",
-      "女同",
-      "成熟的女人",
-      "女同性恋",
-      "放尿"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2020-04-25",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/ec3zjlcjqf0.jpg",
-    "actress": [
-      "水谷あおい",
-      "凉美ほのか",
-      "月宫ねね"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-889"
   },
   {
     "id": 516713,
@@ -1954,40 +1810,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-916"
   },
   {
-    "id": 584420,
-    "IDcode": "DANDY-935",
-    "title": "前辈空姐没想到是个女同志 工作中胸部被完弄不小心高潮 新人空姐 VOL.2 浜崎真绪,与田樱,天晴乃爱,咲野瑞希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://zyzf2dimage.ck3ksmw.com/uploads/images/movies/2024-09-16/1726428933883.jpeg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-935"
-  },
-  {
-    "id": 566532,
-    "IDcode": "DASD-527",
-    "title": "少女爱上继妹。从女同开始的恋爱故事。美谷朱里、樱杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女同"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/03-27/04/u34ygpvsihs0400u34ygpvsihs341678.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-527"
-  },
-  {
     "id": 78156,
     "IDcode": "DASD-600",
     "title": "妹妹居然和班上的女同学交往了作为哥哥我当然不能坐视不管直接射满她们的子宫教导他们做爱的快乐",
@@ -2045,5 +1867,250 @@ window.PAGE_DATA = [
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8670bb79847b5dc699a0f7b984d3a955.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-065"
+  },
+  {
+    "id": 18211,
+    "IDcode": "DASS-245",
+    "title": "被顛倒了的性癖 NH女同性戀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "舔陰",
+      "美少女電影",
+      "兩女一男",
+      "自拍性愛",
+      "女同性戀",
+      "女性向",
+      "中出",
+      "女同",
+      "飯店",
+      "亂交 • 群P",
+      "口交"
+    ],
+    "type": "",
+    "company": "DASDAS",
+    "publish_date": "2023-10-24",
+    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022040207372372.jpg",
+    "actress": [
+      "美園和花",
+      "ちびとり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-245"
+  },
+  {
+    "id": 17108,
+    "IDcode": "DASS-285",
+    "title": "女同性戀，你和你最喜歡的姐姐約會，然後在現實生活中墜入愛河。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "舔陰",
+      "泡泡浴店",
+      "無做愛場面",
+      "打手槍",
+      "美腳",
+      "乱伦",
+      "女同性戀",
+      "69",
+      "美乳",
+      "過膝襪・小腿襪",
+      "按摩棒",
+      "女同",
+      "巨乳",
+      "苗條"
+    ],
+    "type": "",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce07289def9b1b8bebe98/cover.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-285"
+  },
+  {
+    "id": 17294,
+    "IDcode": "DASS-286",
+    "title": "一名優等生齋藤亞美里與一名不良女孩倉本菫陷入了女同性戀關係，在教室體驗絕頂高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "舔陰",
+      "女學生",
+      "美腳",
+      "JK校服",
+      "媚藥・迷藥",
+      "女同性戀",
+      "出軌",
+      "美乳",
+      "制服",
+      "女同",
+      "學校",
+      "苗條",
+      "學姐・學妹"
+    ],
+    "type": "",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce2d089def9b1b8bebeb3/cover.jpg",
+    "actress": [
+      "倉本菫",
+      "齋藤亞美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-286"
+  },
+  {
+    "id": 15514,
+    "IDcode": "DASS-344",
+    "title": "肛門酷刑 女同性戀",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "無做愛場面",
+      "飯店",
+      "苗條",
+      "臀控",
+      "美少女",
+      "女同性戀",
+      "胸控・戀乳癖",
+      "美乳",
+      "女同",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "潮吹",
+      "淫亂",
+      "中出",
+      "少女",
+      "美臀",
+      "絕頂高潮",
+      "無毛",
+      "女性向",
+      "肛交"
+    ],
+    "type": "",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787bacc2a47ebb1a8b4b82d/cover.jpg",
+    "actress": [
+      "浜崎真緒",
+      "天晴乃愛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-344"
+  },
+  {
+    "id": 411431,
+    "IDcode": "DGCEMD-005",
+    "title": "★配信限定！特典映像付★潮の掛け合いは女同士の愛情表現。潮吹き密着レズビアン 永井美雛 神野雛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "",
+    "company": "セレブの友",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c917989def9b1b8bebc85/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-005"
+  },
+  {
+    "id": 492926,
+    "IDcode": "DSD-893",
+    "title": "女同志超级巨星 Blake Blossom,Kayley Gunner,ベラ·ローランド等演员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/8f24727eba47ece7c2c57bd0f811bd2a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSD-893"
+  },
+  {
+    "id": 14777,
+    "IDcode": "DVAJ-653",
+    "title": "早上起来旁边是只穿内衣的女同事",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "辦公室",
+      "美少女",
+      "美腳",
+      "OL",
+      "勾引・誘惑",
+      "美乳",
+      "女同",
+      "制服",
+      "口交",
+      "女上司",
+      "性感",
+      "形象俱樂部",
+      "內衣",
+      "蠻橫嬌羞",
+      "中出",
+      "蕩婦",
+      "絕頂高潮",
+      "美少女電影",
+      "劇情",
+      "騎乗位"
+    ],
+    "type": "",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20240512/7ced0f16-f1ad-440f-bc39-b6ed4213c9cc.jpg",
+    "actress": [
+      "五日市芽依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-653"
+  },
+  {
+    "id": 566457,
+    "IDcode": "DVDMS-794",
+    "title": "一般男女观察AV～同学会后的突击交涉。十多年未见的男女同学会在爱情旅馆干一发十万的连射性交吗！？10",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/92f1d7ec187a978827c0077e6e5b9039.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-794"
+  },
+  {
+    "id": 536943,
+    "IDcode": "EBOD-834",
+    "title": "有坂深雪- 电撃复活 究极スリム巨乳ボディ有坂深雪が限界のけ反りイク男女同时の超オーガズム中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女同",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "E-BODY",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250814/OuN7yCqw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-834"
   }
 ];

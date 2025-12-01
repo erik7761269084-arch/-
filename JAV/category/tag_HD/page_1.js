@@ -448,26 +448,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-032523_001"
   },
   {
-    "id": 497491,
-    "IDcode": "1PONDO-041323_001",
-    "title": "【无码】乳头激凸！真白亚梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "一本道",
-      "高清画质",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231029-1/1a59b0cacced0d1e9b7f3e27aeacfb53.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-041323_001"
-  },
-  {
     "id": 553733,
     "IDcode": "1PONDO-061023 _001",
     "title": "【超清无修正】望月しおん(Shion Mochizuki) 极致诱惑 Model Collection系列最新作 人妻湿身骑乘位实录",
@@ -610,48 +590,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-090723_001"
   },
   {
-    "id": 553829,
-    "IDcode": "1PONDO-091923_001",
-    "title": "_001- 村上琴野の超绝名器侍奉！膣内紧致蜜穴榨精实录 ~ 超敏感体质高潮痉挛中出解禁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "一本道",
-      "高清画质",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250501-1/726f49ecc22c1bac1f2a4e453f324f32.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-091923_001"
-  },
-  {
-    "id": 553826,
-    "IDcode": "1PONDO-092023_001",
-    "title": "立花りんか超近距离特写！魅惑假阳具自慰实录~蜜汁飞溅的私处诱惑",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "一本道",
-      "高清画质",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://sha.lashayu.com/upload/vod/20250501-1/c890c6f01098db9186a9536f45352717.jpg",
-    "actress": [
-      "立花りんか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-092023_001"
-  },
-  {
     "id": 558631,
     "IDcode": "1PONDO-120222_001",
     "title": "_001--朝ゴミ出しする近所の游び好きノーブラ奥さん 白川麻衣",
@@ -767,24 +705,6 @@ window.PAGE_DATA = [
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/7b64b48b65869dd33d4992a59802999e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0779"
-  },
-  {
-    "id": 592042,
-    "IDcode": "300NTK-138",
-    "title": "",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "高清画质"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://pic2.anzise.com/pic/20210926/ef09ca7d7afe4483e5da921cda7d2f16/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-138"
   },
   {
     "id": 73558,
@@ -929,23 +849,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=47KKBD00036 HIGH"
   },
   {
-    "id": 575429,
-    "IDcode": "50-60",
-    "title": "PARAT4207 10位路熟女极致缠绵性交第10集：骚浪腰技让人欲火焚身！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20250702-1/302f5088cb363963cf1956f4a2d5f022.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=50-60"
-  },
-  {
     "id": 576122,
     "IDcode": "722BARE-001",
     "title": "[] How to学园 観たら【絶対】SEXが上手くなる教科书AV 初级编 百瀬あすか 美园和香 浜崎真绪 大槻ひびき",
@@ -961,23 +864,6 @@ window.PAGE_DATA = [
     "cover_url": "http://15.155250922.com/upload/vod/20230620/pb_e_722bare-001.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=722BARE-001"
-  },
-  {
-    "id": 569225,
-    "IDcode": "91CM-187",
-    "title": "留学生刘玥房租肉偿大尺度偷拍 肉体支付交易现场真实记录 国产真实高清",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250504-1/0938f423583f511ede05c99d6892165c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=91CM-187"
   },
   {
     "id": 531463,
@@ -1357,23 +1243,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-080"
   },
   {
-    "id": 535730,
-    "IDcode": "BAGR-021",
-    "title": "[] 教室でレズッてるクラスメイトを见てしまった。それをネタに胁そうとしたら逆袭されて何度も射精させられた",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "BALTAN",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/202309113/bagr021pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-021"
-  },
-  {
     "id": 590106,
     "IDcode": "BAZX-197",
     "title": "() 眼镜腐女学生的变态妄想性行为中出 VOL002[有码高清]-",
@@ -1462,40 +1331,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-405"
   },
   {
-    "id": 408024,
-    "IDcode": "BDST-019-02",
-    "title": "「請深入我的子宮！！」已婚女子的陰部已經在J時代發育了！雖然我們現在的關係很不好...坐完末班車後,他又重新燃起熱情,把所有的時間都花在了婚外性行為上。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c80ccf79f1ac4ec45baadc/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-019-02"
-  },
-  {
-    "id": 408048,
-    "IDcode": "BDST-020-02",
-    "title": "吃了房地產經紀人M男的肉食系痴女  「你想射在我體內對吧？就讓它出來......」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2c8165f13d063bcde8d38/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDST-020-02"
-  },
-  {
     "id": 86910,
     "IDcode": "BIJN-168",
     "title": "豐滿人妻的超敏感精液滿臉夾射內射超爽亂交SEX 本多香織[有碼高清]",
@@ -1524,7 +1359,7 @@ window.PAGE_DATA = [
   {
     "id": 541601,
     "IDcode": "BKD-297",
-    "title": "[] 母子交尾 【続 日光明峰路】 远田恵未",
+    "title": "母子交尾 【続 日光明峰路】 远田恵未",
     "year": "",
     "country": "",
     "genre": "",
@@ -1542,7 +1377,7 @@ window.PAGE_DATA = [
   {
     "id": 541621,
     "IDcode": "BKD-298",
-    "title": "[] 母子交尾【家老岳路】 希咲铃々花",
+    "title": "母子交尾【家老岳路】 希咲铃々花",
     "year": "",
     "country": "",
     "genre": "",
@@ -1560,7 +1395,7 @@ window.PAGE_DATA = [
   {
     "id": 541629,
     "IDcode": "BKD-299",
-    "title": "[] 母子交尾【石打路】 よしい美希",
+    "title": "母子交尾【石打路】 よしい美希",
     "year": "",
     "country": "",
     "genre": "",
@@ -1578,7 +1413,7 @@ window.PAGE_DATA = [
   {
     "id": 541667,
     "IDcode": "BKD-302",
-    "title": "[] 母子交尾【上州月夜路】 波多野结衣",
+    "title": "母子交尾【上州月夜路】 波多野结衣",
     "year": "",
     "country": "",
     "genre": "",
@@ -1596,7 +1431,7 @@ window.PAGE_DATA = [
   {
     "id": 541682,
     "IDcode": "BKD-303",
-    "title": "[] 母子交尾【驹ヶ岳路】 翔田千里",
+    "title": "母子交尾【驹ヶ岳路】 翔田千里",
     "year": "",
     "country": "",
     "genre": "",
@@ -1614,7 +1449,7 @@ window.PAGE_DATA = [
   {
     "id": 541691,
     "IDcode": "BKD-304",
-    "title": "[] 母子交尾【赤城山路】 平清香",
+    "title": "母子交尾【赤城山路】 平清香",
     "year": "",
     "country": "",
     "genre": "",
@@ -1632,7 +1467,7 @@ window.PAGE_DATA = [
   {
     "id": 541720,
     "IDcode": "BKD-305",
-    "title": "[] 母子交尾【小野上温泉路】 中谷响",
+    "title": "母子交尾【小野上温泉路】 中谷响",
     "year": "",
     "country": "",
     "genre": "",
@@ -1650,7 +1485,7 @@ window.PAGE_DATA = [
   {
     "id": 541737,
     "IDcode": "BKD-306",
-    "title": "[] 母子交尾【南会津中ノ森路】 永瀬昭子",
+    "title": "母子交尾【南会津中ノ森路】 永瀬昭子",
     "year": "",
     "country": "",
     "genre": "",
@@ -1668,7 +1503,7 @@ window.PAGE_DATA = [
   {
     "id": 541765,
     "IDcode": "BKD-308",
-    "title": "[] 母子交尾【越后西中里路】 杉冈恵美子",
+    "title": "母子交尾【越后西中里路】 杉冈恵美子",
     "year": "",
     "country": "",
     "genre": "",
@@ -1704,7 +1539,7 @@ window.PAGE_DATA = [
   {
     "id": 541927,
     "IDcode": "BKD-319",
-    "title": "[] 母子交尾～利根川路～ 花城れん",
+    "title": "母子交尾～利根川路～ 花城れん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1722,7 +1557,7 @@ window.PAGE_DATA = [
   {
     "id": 542061,
     "IDcode": "BKD-327",
-    "title": "[] 母子交尾～川古温泉路～ 藤咲紫",
+    "title": "母子交尾～川古温泉路～ 藤咲紫",
     "year": "",
     "country": "",
     "genre": "",
@@ -1740,7 +1575,7 @@ window.PAGE_DATA = [
   {
     "id": 542129,
     "IDcode": "BKD-331",
-    "title": "[] 母子交尾～塩尻石打路～ 时田こずえ",
+    "title": "母子交尾～塩尻石打路～ 时田こずえ",
     "year": "",
     "country": "",
     "genre": "",
@@ -1754,23 +1589,6 @@ window.PAGE_DATA = [
     "cover_url": "http://15.155250922.com/upload/vod/20240606/bkd331pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-331"
-  },
-  {
-    "id": 576082,
-    "IDcode": "BNST-051",
-    "title": "[] ペロセク大好き！制服美少女パコ美たん 冬爱ことね",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2023/04/iogujuxqvbk.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNST-051"
   },
   {
     "id": 579020,
@@ -1825,5 +1643,179 @@ window.PAGE_DATA = [
     "cover_url": "https://tuaskbgnekr.com/20230426/XjDafwHQ/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C0930-HITOZUMA1422"
+  },
+  {
+    "id": 569871,
+    "IDcode": "C0930-KI230422",
+    "title": "-自画撮りオナニー特集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高清画质",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230426/dITHI6B7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C0930-KI230422"
+  },
+  {
+    "id": 569869,
+    "IDcode": "C0930-KI230423",
+    "title": "-纯情そうな颜してエロいです ~ 松居 唯子 26歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高清画质",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230425/54V7whgA/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=C0930-KI230423"
+  },
+  {
+    "id": 480720,
+    "IDcode": "CAPPV-012723_002",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/c41379f63169cfe4dc06fe39cb3d8bdb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAPPV-012723_002"
+  },
+  {
+    "id": 506976,
+    "IDcode": "CAPPV-021723_002",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/9308387e7a86bd3e4bb0760e994b995d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAPPV-021723_002"
+  },
+  {
+    "id": 461707,
+    "IDcode": "CAPPV-030523-001",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/2d88c2da05fe30d9ed83a0e72e2821e4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAPPV-030523-001"
+  },
+  {
+    "id": 480714,
+    "IDcode": "CAPPV-032423_002",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/d565c16755e259937c2303eb9712b0b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAPPV-032423_002"
+  },
+  {
+    "id": 556085,
+    "IDcode": "CAPPV-042123_002",
+    "title": "月刊 小川桃果3 ~ 小川桃果",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230423/D24ox6uf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAPPV-042123_002"
+  },
+  {
+    "id": 480730,
+    "IDcode": "CAPPV-072922_002",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/f0275c5a60b67e5aa05e670bd7d24594.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAPPV-072922_002"
+  },
+  {
+    "id": 480727,
+    "IDcode": "CAPPV-102122_004",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/a0686933ea07391ca6889e9a156563ba.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAPPV-102122_004"
+  },
+  {
+    "id": 497505,
+    "IDcode": "CAPPV-111122_006",
+    "title": "",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231031-1/ad7124ebbbea80275105178c5aa25533.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAPPV-111122_006"
   }
 ];

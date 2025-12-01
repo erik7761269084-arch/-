@@ -1,1820 +1,1704 @@
 window.PAGE_DATA = [
   {
-    "id": 568523,
-    "IDcode": "200GANA-1902",
-    "title": "认真的南帕，第1枪。 1184",
+    "id": 508733,
+    "IDcode": "230ORETD-616",
+    "title": "高橋さん(高●寺センター)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/c7ec678ab8951769ce244799f43eb329.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/11d83a0db067bb2f9f9cd578a1b190f0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1902"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-616"
   },
   {
-    "id": 568521,
-    "IDcode": "200GANA-1903",
-    "title": "认真的南帕，第1枪。 1188",
+    "id": 508809,
+    "IDcode": "230ORETD-617",
+    "title": "間崎さん(北●住センター)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/a21c28a68fa1bc692866eb4492aec1b6.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9b9617a996fd298d24d99d34ccb10b1a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1903"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-617"
   },
   {
-    "id": 568520,
-    "IDcode": "200GANA-1904",
-    "title": "认真的南帕，第1枪。 1180",
+    "id": 508707,
+    "IDcode": "230ORETD-618",
+    "title": "ARさん(交易会社人事事務部)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/e8662fb485c7d4049b1298fc77940409.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f6861cbc76b0ad89a0033a0be32cece2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1904"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-618"
   },
   {
-    "id": 568518,
-    "IDcode": "200GANA-1905",
-    "title": "在100战的南帕老师的枪房中，引入SEX隐藏射击090",
+    "id": 541129,
+    "IDcode": "230ORETD-619",
+    "title": "KJさん(大手出版会社総务部)1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/5f8f8153200e374b958076b4d1950304.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/eed6e7b2871836a8574e7040fd50c3be.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1905"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-619"
   },
   {
-    "id": 568516,
-    "IDcode": "200GANA-1906",
-    "title": "100战南帕老师的枪房，带入SEX隐藏射击093",
+    "id": 530835,
+    "IDcode": "230ORETD-620",
+    "title": "SRさん(证券会社管理部)1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/c8254187dbfd05ed6e2b485e4978c104.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/857fdebf93285abe8a1d5b1f2627ffff.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1906"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-620"
   },
   {
-    "id": 568514,
-    "IDcode": "200GANA-1907",
-    "title": "认真的南帕，第1枪。 1189",
+    "id": 529749,
+    "IDcode": "230ORETD-621",
+    "title": "IRさん(総合商社受付総务部)1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/0b9b9dd9d3888546b0910643035e1497.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20221231-1/b48ddda3baf347413338a3288a7574ba.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1907"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-621"
   },
   {
-    "id": 568511,
-    "IDcode": "200GANA-1908",
-    "title": "认真的南帕，第1枪。 1231",
+    "id": 83405,
+    "IDcode": "230ORETD-623",
+    "title": "RUKA",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/0ae011ade0b90262f5091b2ce8a06ceb.jpg",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/022a7c3113ea2e8f502a7ded54f1f088.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1908"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-623"
   },
   {
-    "id": 568513,
-    "IDcode": "200GANA-1909",
-    "title": "100战南帕老师的枪房，带入SEX隐藏射击099",
+    "id": 83404,
+    "IDcode": "230ORETD-624",
+    "title": "RIKAKO",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/7ac7825ab4925555ef8826bfdee9084e.jpg",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/5819a939b69ccc9cbb79e59c175ca731.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1909"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-624"
   },
   {
-    "id": 568512,
-    "IDcode": "200GANA-1910",
-    "title": "100战南帕老师的枪房，带入SEX隐藏射击096",
+    "id": 83398,
+    "IDcode": "230ORETD-625",
+    "title": "MIO",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/9232d12554d02a309324f03fbd93c131.jpg",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221224-1/4009a8b27fd0798c6d9ff48c9ff29319.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1910"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-625"
   },
   {
-    "id": 537444,
-    "IDcode": "200GANA-1911",
-    "title": "マジ软派、初撮。 1186",
+    "id": 574476,
+    "IDcode": "230ORETD-626",
+    "title": "RIO(Hカップ)1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_200gana-1911.jpg!320x216.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/fb2f797e7d9a726305f4e44a22263ed2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1911"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-626"
   },
   {
-    "id": 537443,
-    "IDcode": "200GANA-1912",
-    "title": "マジ软派、初撮。 1236",
+    "id": 508790,
+    "IDcode": "230ORETD-627",
+    "title": "新田さん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_200gana-1912.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3b541ccd07df7fd05b6fb0b26f6ac654.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1912"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-627"
   },
   {
-    "id": 568509,
-    "IDcode": "200GANA-1913",
-    "title": "认真的南帕，第1枪。 1191",
+    "id": 508778,
+    "IDcode": "230ORETD-628",
+    "title": "MIREI",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/4f9b2a7794ef89fef9fbd8f9c5d683b1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bb453ac2cdc0b7481ac2b7a0f1e51798.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1913"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-628"
   },
   {
-    "id": 568505,
-    "IDcode": "200GANA-1914",
-    "title": "认真的南帕，第1枪。 1192",
+    "id": 508722,
+    "IDcode": "230ORETD-632",
+    "title": "M.Nさん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/75d9881cbffcd66343c4a7143faae96a.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/277c5d368add3227fc326d9c220a79b3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1914"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-632"
   },
   {
-    "id": 568504,
-    "IDcode": "200GANA-1915",
-    "title": "认真的南帕，第1枪。 1193",
+    "id": 505637,
+    "IDcode": "230ORETD-633",
+    "title": "瑞安娜 悠月リアナ -C",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/7309dde2715f35a22a82b0c52e2c17ca.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/32bf5dc6073c59770de4834f96dd35cb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1915"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-633"
   },
   {
-    "id": 537442,
-    "IDcode": "200GANA-1916",
-    "title": "マジ软派、初撮。 1264",
+    "id": 157808,
+    "IDcode": "230ORETD-634",
+    "title": "Mioさん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_200gana-1916.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/ac74f0588dc6092fc6702753b8a7ff0f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1916"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-634"
   },
   {
-    "id": 568503,
-    "IDcode": "200GANA-1917",
-    "title": "认真的南帕，第1枪。 1273【大胸爱好者必看！ ] 他妈的棉花糖牛奶太大了！打倒丰满的身体，就会爆发出充满破坏力的巨乳，发出可爱的萌声喘著粗气！ 【可以牢牢捏住的G杯】",
+    "id": 157801,
+    "IDcode": "230ORETD-637",
+    "title": "るかちゃん 3",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/7ee0eb4b103a529da389705ad49c81c4.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/28abb0d485e592fdaa7b8db3eb7c51f7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1917"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-637"
   },
   {
-    "id": 568502,
-    "IDcode": "200GANA-1918",
-    "title": "慢跑南帕 21",
+    "id": 551326,
+    "IDcode": "230ORETD-638",
+    "title": "ひなっちちゃん1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/c7a06ff56bb0acc2e650995b65c511ff.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/e3d3f756161c86dad015b8b30a2c73f4.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1918"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-638"
   },
   {
-    "id": 537459,
-    "IDcode": "200GANA-1919",
-    "title": "マジ软派、初撮。 1239",
+    "id": 532058,
+    "IDcode": "230ORETD-639",
+    "title": "くるみちゃん1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231018/pb_e_200gana-1919.jpg!320x216.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/c5b85c54113ac2ef09214abaeec96db6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1919"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-639"
   },
   {
-    "id": 568501,
-    "IDcode": "200GANA-1920",
-    "title": "认真的南帕，第1枪。 1211",
+    "id": 567106,
+    "IDcode": "230ORETD-640",
+    "title": "みおみおちゃん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/4412a699a2faae37f00d6692e9580d86.jpg",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200715/230ORETD-640.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1920"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-640"
   },
   {
-    "id": 568496,
-    "IDcode": "200GANA-1921",
-    "title": "认真的南帕，第1枪。 1196",
+    "id": 508764,
+    "IDcode": "230ORETD-647",
+    "title": "七瀬さん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/b1e89566c147eb82fd376992b730f8d1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/abaaf162a9f8e54c214c9629266b1838.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1921"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-647"
   },
   {
-    "id": 568498,
-    "IDcode": "200GANA-1922",
-    "title": "认真的南帕，第1枪。 1202",
+    "id": 508685,
+    "IDcode": "230ORETD-648",
+    "title": "RUKA",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/aac37f4a16c596db9a0d851428ddb54e.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/217f23ca9df86f2af7e5a9a36b78ae8a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1922"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-648"
   },
   {
-    "id": 568497,
-    "IDcode": "200GANA-1923",
-    "title": "认真的南帕，第1枪。 1194",
+    "id": 508725,
+    "IDcode": "230ORETD-649",
+    "title": "MIO",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/e0d0364e44dda05cdc3154888a8d9253.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e4975bd7bdc1b66b6fa9170748780f4e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1923"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-649"
   },
   {
-    "id": 568500,
-    "IDcode": "200GANA-1924",
-    "title": "认真的南帕，第1枪。 1195",
+    "id": 508705,
+    "IDcode": "230ORETD-650",
+    "title": "ANNA",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/0be61f136b8d38b3a897da8fcbd2bb0c.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f8180fabf76c019bb17ed237361d5900.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1924"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-650"
   },
   {
-    "id": 537437,
-    "IDcode": "200GANA-1925",
-    "title": "マジ软派、初撮。 1269 Gカップのお姊さんが保険の営业！？はい！契约させてください！！",
+    "id": 508751,
+    "IDcode": "230ORETD-651",
+    "title": "SAKURAKO",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_200gana-1925.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bf9e62b770bb81dfb881b7447a4d5e42.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1925"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-651"
   },
   {
-    "id": 568495,
-    "IDcode": "200GANA-1926",
-    "title": "认真的南帕，第1枪。 1201",
+    "id": 196687,
+    "IDcode": "230ORETD-681",
+    "title": "用可爱的小狗吸引更可爱的制服学生妹爆操后射在她的长筒袜上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/c77471969290baefadff5786bb91f479.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/cf0229951623ce4a0e2f5d6afce765df.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1926"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-681"
   },
   {
-    "id": 568499,
-    "IDcode": "200GANA-1927",
-    "title": "认真的南帕，第1枪。 1246",
+    "id": 157824,
+    "IDcode": "230ORETD-685",
+    "title": "あいさん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/98cecdf6d30b8a19d18fc314c4736b61.jpg",
+    "cover_url": "https://sex8sex8sex8.com/20250220/mW5aJpjQ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1927"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-685"
   },
   {
-    "id": 537436,
-    "IDcode": "200GANA-1928",
-    "title": "渋谷ハロウィン当日！大騒ぎ！逮捕者続出のさなか、仮装ナンパ师突入！ピンク女豹の巨乳ギャル＆小悪魔セクシーな",
+    "id": 531573,
+    "IDcode": "230ORETD-741",
+    "title": "Aika",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2018-11-08",
-    "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_200gana-1928.jpg!320x216.jpg",
-    "actress": [
-      "咲々原リン",
-      "御坂莉亚"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1928"
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/8e8a1e19b90ce3cba8c1fb4cf8cb147a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-741"
   },
   {
-    "id": 568493,
-    "IDcode": "200GANA-1929",
-    "title": "认真的南帕，第1枪。 1200",
+    "id": 531572,
+    "IDcode": "230ORETD-746",
+    "title": "ゆず",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/3700bef5828250e757043db020172a9c.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/26b3963a0f507f1897437d98884888c8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1929"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-746"
   },
   {
-    "id": 568492,
-    "IDcode": "200GANA-1930",
-    "title": "认真的南帕，第1枪。 1197",
+    "id": 531570,
+    "IDcode": "230ORETD-747",
+    "title": "みつき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/e5ed07594882ff81c14a1c7e7e74fa92.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/50bbdc71cca0e16694877ffe7d29931d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1930"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-747"
   },
   {
-    "id": 568491,
-    "IDcode": "200GANA-1931",
-    "title": "认真的南帕，第1枪。 1204",
+    "id": 531571,
+    "IDcode": "230ORETD-748",
+    "title": "はる",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/ae947e622a5fc80d839909ae365eaaff.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/4a800fe76e27bbb7b07eb2438ce8cbe6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1931"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-748"
   },
   {
-    "id": 568489,
-    "IDcode": "200GANA-1932",
-    "title": "认真的南帕，第1枪。 1203",
+    "id": 531568,
+    "IDcode": "230ORETD-749",
+    "title": "あおい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/edd439beb5e7bf1f4590753c9333d293.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/a84f48b9599a445380d6c2164bc82809.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1932"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-749"
   },
   {
-    "id": 568488,
-    "IDcode": "200GANA-1933",
-    "title": "认真的南帕，第1枪。 1205",
+    "id": 531569,
+    "IDcode": "230ORETD-750",
+    "title": "かのん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/8818b740a60c39a78c9a4648a76d4e44.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/24b40401a751f811c932fe9a3d18d4a8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1933"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORETD-750"
   },
   {
-    "id": 568485,
-    "IDcode": "200GANA-1934",
-    "title": "认真的南帕，第1枪。 1209",
+    "id": 575312,
+    "IDcode": "230OREV-020",
+    "title": "真菜(22)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/1e92bbeea5185d7a72588c1ef6d970b6.jpg",
+    "cover_url": "https://sex8sex811.com/20250722/4q0u5q7k/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1934"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-020"
   },
   {
-    "id": 568490,
-    "IDcode": "200GANA-1935",
-    "title": "认真的南帕，第1枪。 1210",
+    "id": 575311,
+    "IDcode": "230OREV-021",
+    "title": "ナナ(18)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/abde20f5c2d8bddd267384fd2f770937.jpg",
+    "cover_url": "https://sex8sex811.com/20250722/MLp9rp6G/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1935"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-021"
   },
   {
-    "id": 568487,
-    "IDcode": "200GANA-1936",
-    "title": "认真的南帕，第1枪。 1249",
+    "id": 575313,
+    "IDcode": "230OREV-022",
+    "title": "ミユキ(27)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/49749400f8e7f3f2b56782fa8726917d.jpg",
+    "cover_url": "https://sex8sex811.com/20250722/WE1YBDOG/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1936"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-022"
   },
   {
-    "id": 568486,
-    "IDcode": "200GANA-1937",
-    "title": "认真的南帕，第1枪。 1214",
+    "id": 100375,
+    "IDcode": "230OREV-023",
+    "title": "漂亮人妻換上水手服誘惑 性感嫵媚連環榨精",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "人妻",
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/2329de07e1f4a3ef8b54fc70f3bf6b9a.jpg",
+    "cover_url": "https://sex8sex811.com/20250722/0bMNZvZ5/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1937"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-023"
   },
   {
-    "id": 568484,
-    "IDcode": "200GANA-1938",
-    "title": "认真的南帕，第1枪。 1212",
+    "id": 575315,
+    "IDcode": "230OREV-024",
+    "title": "かんな(28)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/1bd393f522918dbae7f9396fc0b76c60.jpg",
+    "cover_url": "https://sex8sex811.com/20250722/pze1cKll/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1938"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-024"
   },
   {
-    "id": 568483,
-    "IDcode": "200GANA-1939",
-    "title": "认真的南帕，第1枪。 1213",
+    "id": 575314,
+    "IDcode": "230OREV-025",
+    "title": "こずえ(18)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/c612434694e2dab5af5c21a82fbf7a99.jpg",
+    "cover_url": "https://sex8sex811.com/20250722/AfUdgXVM/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1939"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-025"
   },
   {
-    "id": 568478,
-    "IDcode": "200GANA-1940",
-    "title": "认真的南帕，第1枪。第1283章 摸胸就滴水的男人的敏感女儿！蓬松的 F 杯震动和抽搐暨性 ！ !!",
+    "id": 575316,
+    "IDcode": "230OREV-028",
+    "title": "アヤカ(31)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "乱伦",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/d4f4a44bbc3a4b4be3bc453704b1cc32.jpg",
+    "cover_url": "https://sex8sex811.com/20250722/4PgoBPds/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1940"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-028"
   },
   {
-    "id": 568482,
-    "IDcode": "200GANA-1941",
-    "title": "认真的南帕，第1枪。 1215",
+    "id": 576172,
+    "IDcode": "230OREV-029",
+    "title": "ゆき(27)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/bebd6c6f651c8ad9796cc5b69bb9f206.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230223/qCCgGJBf/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1941"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-029"
   },
   {
-    "id": 568479,
-    "IDcode": "200GANA-1942",
-    "title": "认真的南帕，第1枪。 1216",
+    "id": 532918,
+    "IDcode": "230OREV-030",
+    "title": "桜(22) (真宫あやな)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/2676d5bdf2762ac2b0ebb2b8679c67a7.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231123/pb_e_230orev-030.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1942"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-030"
   },
   {
-    "id": 97800,
-    "IDcode": "200GANA-1943",
-    "title": "マジ軟派、初撮。 1224",
+    "id": 576056,
+    "IDcode": "230OREV-036",
+    "title": "なつみ(20)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "平胸",
-      "美少女",
-      "HDTV",
-      "素人",
-      "猎艳",
-      "业余",
-      "无毛",
-      "搭讪素人",
-      "颜射"
+      "素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2018-12-19",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
-    "actress": [
-      "日泉舞香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1943"
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230525/xknMSmLA/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-036"
   },
   {
-    "id": 537057,
-    "IDcode": "200GANA-1944",
-    "title": "マジ软派、初撮。 1294 新宿のオフィス街で见つけた真面目で清楚なOL！！",
+    "id": 495917,
+    "IDcode": "230OREV-053",
+    "title": "えり(27)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230622/pb_e_200gana-1944.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/87df22c44ddc01d722c36164e310d2be.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1944"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-053"
   },
   {
-    "id": 568477,
-    "IDcode": "200GANA-1945",
-    "title": "认真的南帕，第1枪。 1222",
+    "id": 541310,
+    "IDcode": "230OREV-055",
+    "title": "瑠美奈(23)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/13be73fa7400db30871ad0e62b504bce.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231019/vHgZzTJo/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1945"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-055"
   },
   {
-    "id": 568476,
-    "IDcode": "200GANA-1946",
-    "title": "认真的南帕，第1枪。 1217",
+    "id": 541312,
+    "IDcode": "230OREV-056",
+    "title": "里帆(24)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/3e65109ae186785ef999418dd4e2acfc.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231020/n1Lxp4dM/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1946"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-056"
   },
   {
-    "id": 568481,
-    "IDcode": "200GANA-1947",
-    "title": "认真的南帕，第1枪。 1261",
+    "id": 541311,
+    "IDcode": "230OREV-057",
+    "title": "真绪(22)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/4d5c3507a9d5d4a52bd318596915814c.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231020/hXoOZeZv/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1947"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-057"
   },
   {
-    "id": 568474,
-    "IDcode": "200GANA-1948",
-    "title": "认真的南帕，第1枪。 1266",
+    "id": 541315,
+    "IDcode": "230OREV-058",
+    "title": "花(27)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/301036e4a920d4c43039062fb638fff6.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231020/Y4XvQvqb/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1948"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-058"
   },
   {
-    "id": 568473,
-    "IDcode": "200GANA-1950",
-    "title": "认真的南帕，第1枪。 1242",
+    "id": 541314,
+    "IDcode": "230OREV-059",
+    "title": "エリ(27)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/373af9f3f500741d4731e7c38389bc7b.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231020/HVU3quUa/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1950"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-059"
   },
   {
-    "id": 567784,
-    "IDcode": "200GANA-1951",
-    "title": "认真的南帕，第1枪。 1218",
+    "id": 541313,
+    "IDcode": "230OREV-060",
+    "title": "りほ(27)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230416-1/7654d95ce0c47fe875fd7fd84ad6f948.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231020/t6p9qumF/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1951"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-060"
   },
   {
-    "id": 568471,
-    "IDcode": "200GANA-1952",
-    "title": "认真的南帕，第1枪。 1221",
+    "id": 541317,
+    "IDcode": "230OREV-062",
+    "title": "はな(26)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/278f684abba6bed401b6c0158533da38.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231022/p9QcLVFm/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1952"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-062"
   },
   {
-    "id": 568472,
-    "IDcode": "200GANA-1953",
-    "title": "认真的南帕，第1枪。 1219",
+    "id": 541352,
+    "IDcode": "230OREV-063",
+    "title": "あゆみ(29)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/a766d627d3c3d3036374c26a47fee868.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231109/L5iZQh36/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1953"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-063"
   },
   {
-    "id": 568470,
-    "IDcode": "200GANA-1954",
-    "title": "认真的南帕，第1枪。 1220",
+    "id": 520859,
+    "IDcode": "230OREV-064",
+    "title": "かほ(26)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/c8cb42ba8a405bccc3f2a7d0aebfdf19.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240120/yIwOt6a2/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1954"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-064"
   },
   {
-    "id": 568475,
-    "IDcode": "200GANA-1955",
-    "title": "在100战的南帕老师的枪房，带来SEX隐藏射击101",
+    "id": 541443,
+    "IDcode": "230OREV-065",
+    "title": "まゆ(34)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/a32853c0ffe31d74e587077c5cb7d57c.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240120/ubKS0guM/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1955"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-065"
   },
   {
-    "id": 568469,
-    "IDcode": "200GANA-1956",
-    "title": "在 100 战斗的南帕老师的枪房里，带入 SEX 隐藏射击 100",
+    "id": 520858,
+    "IDcode": "230OREV-066",
+    "title": "しおり(31)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230422-1/dcf4314096116df933e83d7a764ef16c.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240120/2S6SWYTy/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1956"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-066"
   },
   {
-    "id": 568468,
-    "IDcode": "200GANA-1957",
-    "title": "认真的南帕，第1枪。 1227",
+    "id": 520778,
+    "IDcode": "230OREV-069",
+    "title": "ゆうこ(30)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/e64e803b29d7aff58100b68d9f74efc9.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240121/PnilccfP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1957"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-069"
   },
   {
-    "id": 568467,
-    "IDcode": "200GANA-1958",
-    "title": "认真的南帕，第1枪。 1223",
+    "id": 66904,
+    "IDcode": "230OREV-084",
+    "title": "可奈(27)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/f1d4184f28066b2c157445a97c51e43c.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/575b9a34ccd80d02c4a972cce318cd85.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1958"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-084"
   },
   {
-    "id": 568464,
-    "IDcode": "200GANA-1959",
-    "title": "认真的南帕，第1枪。 1230",
+    "id": 541761,
+    "IDcode": "230OREV-088",
+    "title": "ひより(32)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/e8453ce8374ba5ac8fe9d030236f3420.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240601/kmU39gLU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1959"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-088"
   },
   {
-    "id": 568461,
-    "IDcode": "200GANA-1960",
-    "title": "认真的南帕，第1枪。 1229",
+    "id": 541874,
+    "IDcode": "230OREV-090",
+    "title": "なつき（30）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/c7c8322ed0cd712ab2ef183fce59fa90.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240701/fmZjeTvR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1960"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-090"
   },
   {
-    "id": 568466,
-    "IDcode": "200GANA-1961",
-    "title": "认真的南帕，第1枪。 1228",
+    "id": 517065,
+    "IDcode": "230OREV-091",
+    "title": "奈奈美（35）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/0dc23eac4307afc160376ea12e199227.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690ef5ed2a997527cfd3126d/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1961"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-091"
   },
   {
-    "id": 568454,
-    "IDcode": "200GANA-1962",
-    "title": "认真的南帕，第1枪。 1233",
+    "id": 517056,
+    "IDcode": "230OREV-092",
+    "title": "友子（26）",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/80bc76700621a1d27cbbd46317ffdb44.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690fa9cc165f1917e3c1c67a/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1962"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-092"
   },
   {
-    "id": 568465,
-    "IDcode": "200GANA-1963",
-    "title": "在100战的南帕老师的枪房中，引入SEX隐藏射击102",
+    "id": 517242,
+    "IDcode": "230OREV-126",
+    "title": "佳奈(28)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/98b451ecb7e5fb253ceaa88cbba9b577.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68995b7555337d7f7bd09a87/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1963"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-126"
   },
   {
-    "id": 568462,
-    "IDcode": "200GANA-1964",
-    "title": "在100战的南帕老师的枪房中，引入SEX隐藏射击103",
+    "id": 463438,
+    "IDcode": "230OREV-132",
+    "title": "那奈",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/39025082139e285053c719e02e30034c.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897cd5d55337d7f7bbb2787/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1964"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREV-132"
   },
   {
-    "id": 568463,
-    "IDcode": "200GANA-1965",
-    "title": "认真的南帕，第1枪。 1234",
+    "id": 578493,
+    "IDcode": "230OREX-001",
+    "title": "セイラ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230412-7/2dec708a72bad3b107f2e04d946c4037.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20220928/OREX-001.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1965"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-001"
   },
   {
-    "id": 568456,
-    "IDcode": "200GANA-1966",
-    "title": "认真的南帕，第1枪。 1247",
+    "id": 578501,
+    "IDcode": "230OREX-007",
+    "title": "かなみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/c0fcc46a7e6433a7999789703062502c.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20221001/OREX-007.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1966"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-007"
   },
   {
-    "id": 568459,
-    "IDcode": "200GANA-1967",
-    "title": "认真的南帕，第1枪。 1238",
+    "id": 578584,
+    "IDcode": "230OREX-031",
+    "title": "なつ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/13009bdcf955d11ab72dc8436ac9a17f.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20221012/OREX-031.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1967"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-031"
   },
   {
-    "id": 568460,
-    "IDcode": "200GANA-1968",
-    "title": "100战南帕老师的枪房，带入SEX隐藏射击104",
+    "id": 578578,
+    "IDcode": "230OREX-053",
+    "title": "りりな 2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/ca9182d14f441aca5e27aaa575dfecb0.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20221012/OREX-053.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1968"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-053"
   },
   {
-    "id": 568458,
-    "IDcode": "200GANA-1969",
-    "title": "在100战的南帕老师的枪房中，引入SEX隐藏射击105",
+    "id": 578577,
+    "IDcode": "230OREX-060",
+    "title": "あすみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/1fc155beb24d1f2e784dc33b6fe26358.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20221012/OREX-060.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1969"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-060"
   },
   {
-    "id": 568455,
-    "IDcode": "200GANA-1970",
-    "title": "认真的南帕，第1枪。 1237",
+    "id": 578576,
+    "IDcode": "230OREX-061",
+    "title": "りか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/46d6c77f0ba6838d77c0d964a5518282.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20221012/OREX-061.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1970"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-061"
   },
   {
-    "id": 568457,
-    "IDcode": "200GANA-1971",
-    "title": "认真的南帕，第1枪。 1240",
+    "id": 578496,
+    "IDcode": "230OREX-083",
+    "title": "みつき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/b3a83b7d6829843c155f6d574c2ba8e1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20220930/OREX-083.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1971"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-083"
   },
   {
-    "id": 568446,
-    "IDcode": "200GANA-1972",
-    "title": "认真的南帕，第1枪。 1241",
+    "id": 541133,
+    "IDcode": "230OREX-093",
+    "title": "にいな1",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/1a7f18c36ad6af7dc781d7daf5a0acee.jpg",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/a839764e6948dd4c4c705f44951c0aed.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1972"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-093"
   },
   {
-    "id": 568453,
-    "IDcode": "200GANA-1973",
-    "title": "认真的南帕，第1枪。 1280围捕一个看似容易被推的女大学生……尽情享受被一扫而空的少女们的纤细身材吧！",
+    "id": 60151,
+    "IDcode": "230OREX-095",
+    "title": "为了和粘人的男朋友分手求助前辈他说我们拍个视频给他看就行了鬼知道为什么我没有拒绝",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/026b82414625412c0838fbd9adbc5081.jpg",
+    "cover_url": "https://tutu1.space/images/2025/09/08/0eb8ef8a3541feb850999c338ed1702c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1973"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-095"
   },
   {
-    "id": 568449,
-    "IDcode": "200GANA-1974",
-    "title": "认真的南帕，第1枪。 1243",
+    "id": 59894,
+    "IDcode": "230OREX-097",
+    "title": "对和丈夫的性生活完全不满意的人妻就交给我来满足吧",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "人妻",
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/15263326b39227645426222096100cb9.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/97caea40/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1974"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-097"
   },
   {
-    "id": 568445,
-    "IDcode": "200GANA-1975",
-    "title": "认真的南帕，第1枪。 1235",
+    "id": 60143,
+    "IDcode": "230OREX-098",
+    "title": "聚会认识的美女为了钱很劫难的接受了我的援交请求不过最后还是拜倒在我的肉棒之下",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/8f9af853aad3cfdb87741b7697471a29.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ab5bc6321284a9a3c235029574fb67e1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1975"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-098"
   },
   {
-    "id": 568448,
-    "IDcode": "200GANA-1976",
-    "title": "认真的南帕，第1枪。 1244",
+    "id": 509129,
+    "IDcode": "230OREX-099",
+    "title": "ほのか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/96b8a00c5c4e0f9e050180a1af33f413.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/08387c6ad6e68816bad0ea71a4b1e6d5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1976"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-099"
   },
   {
-    "id": 521546,
-    "IDcode": "200GANA-1977",
-    "title": "マジ软派、初撮。 1308 新宿でゲット！こう见えて営业マン！！日々の疲れと彼氏募集中の彼女にAVと言う営业をかけてみた结果がこれで",
+    "id": 60150,
+    "IDcode": "230OREX-100",
+    "title": "上门服务的美女按摩女郎在我的金钱攻势下最终还是被我插入内射",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/62a1a6a7645f3fa6f7e9a7c2db36b3a4.jpg",
+    "cover_url": "https://tutu1.space/images/2025/09/08/1f69034b43db7ce5aaa08761e7670fbb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1977"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-100"
   },
   {
-    "id": 538710,
-    "IDcode": "200GANA-1979",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 106",
+    "id": 508933,
+    "IDcode": "230OREX-101",
+    "title": "しゅうか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20240711/j3k3KPZR/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/069935eaa2f8a7548cb466a855df2959.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1979"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-101"
   },
   {
-    "id": 568451,
-    "IDcode": "200GANA-1980",
-    "title": "认真的南帕，第1枪。 1250",
+    "id": 509025,
+    "IDcode": "230OREX-108",
+    "title": "しの",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/fa70bfdb92d95abdd6a2bc2fe4c16655.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1764985b832b9be12f384270e9090313.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1980"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-108"
   },
   {
-    "id": 568441,
-    "IDcode": "200GANA-1981",
-    "title": "认真的南帕，第1枪。 1248",
+    "id": 508835,
+    "IDcode": "230OREX-110",
+    "title": "れむ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/80915e8a814c2b53a0e7fcf0d8e38e78.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3273f3d2fbdf0d384b2bac7bc3b41968.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1981"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-110"
   },
   {
-    "id": 568444,
-    "IDcode": "200GANA-1982",
-    "title": "在100战的南帕老师的枪房中，引入SEX隐藏射击108",
+    "id": 530906,
+    "IDcode": "230OREX-113",
+    "title": "わかちゃん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/07d19e4742b9226cc8f476d9452cc100.jpg",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200810/230OREX-113.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1982"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-113"
   },
   {
-    "id": 568450,
-    "IDcode": "200GANA-1983",
-    "title": "100战南帕老师的枪房，带入SEX隐藏射击109",
+    "id": 541190,
+    "IDcode": "230OREX-116",
+    "title": "みりなちゃん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/3734fe66ebcb5db18de906cb71cc1aa9.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200724-1/d75041b19ad50a1d97778af071c889be.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1983"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-116"
   },
   {
-    "id": 568443,
-    "IDcode": "200GANA-1984",
-    "title": "认真的南帕，第1枪。 1250",
+    "id": 508871,
+    "IDcode": "230OREX-118",
+    "title": "なつき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/bc11db013e3e8d809706cb2f1bcd964b.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1a2fca1cf9ad724eeb1e26a60aceab22.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1984"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREX-118"
   },
   {
-    "id": 538704,
-    "IDcode": "200GANA-1985",
-    "title": "マジ软派、初撮。 1251",
+    "id": 407162,
+    "IDcode": "233BAT-076",
+    "title": "ちなみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/20240710/qrvg56mM/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7d345d1fc3964db455df3243d02d6bf0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1985"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-076"
   },
   {
-    "id": 568435,
-    "IDcode": "200GANA-1986",
-    "title": "认真的南帕，第1枪。 1253",
+    "id": 575278,
+    "IDcode": "233BAT-105",
+    "title": "まりえ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/cd70e55a0d252c9292e22b06e8c5c33d.jpg",
+    "cover_url": "https://sex8sex811.com/20250728/owNqDBrd/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1986"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-105"
   },
   {
-    "id": 568440,
-    "IDcode": "200GANA-1987",
-    "title": "认真的南帕，第1枪。 1255",
+    "id": 491632,
+    "IDcode": "233BAT-106",
+    "title": "さら",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/35e54a1da5b7b3cefebf71bc94b18d1d.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/cd85e8cdfd0ad8292df1d3748b27f81b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1987"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-106"
   },
   {
-    "id": 568434,
-    "IDcode": "200GANA-1988",
-    "title": "认真的南帕，第1枪。 1252",
+    "id": 575276,
+    "IDcode": "233BAT-107",
+    "title": "つぼみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/c045fbf7d41585fe69c68b415fd111cf.jpg",
+    "cover_url": "https://sex8sex811.com/20250728/Dp8gHuHX/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1988"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-107"
   },
   {
-    "id": 568438,
-    "IDcode": "200GANA-1989",
-    "title": "认真的南帕，第1枪。 1254",
+    "id": 575277,
+    "IDcode": "233BAT-108",
+    "title": "あいか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/cc6c24477a038050ac4ebdf1fbb30f0b.jpg",
+    "cover_url": "https://sex8sex811.com/20250728/Sqd8kFeh/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1989"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-108"
   },
   {
-    "id": 568437,
-    "IDcode": "200GANA-1990",
-    "title": "认真的南帕，第1枪。 1256",
+    "id": 575275,
+    "IDcode": "233BAT-110",
+    "title": "みなみ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/7ef2163ea39c2292bb05bf9275fc1744.jpg",
+    "cover_url": "https://sex8sex811.com/20250729/46w16OQ0/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1990"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-110"
   },
   {
-    "id": 568442,
-    "IDcode": "200GANA-1991",
-    "title": "认真的南帕，第1枪。 1257",
+    "id": 576058,
+    "IDcode": "233BAT-113",
+    "title": "しほ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/a9a4adce9373ecf174258b20d4e4ca3a.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230525/dnASzVDl/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1991"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-113"
   },
   {
-    "id": 537131,
-    "IDcode": "200GANA-1992",
-    "title": "マジ软派、初撮。 1296 夜の高円寺でオドオドする美少女をホテルへ！男に迫られるのが久しぶ",
+    "id": 541316,
+    "IDcode": "233BAT-117",
+    "title": "ななこ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230625/pb_e_200gana-1992.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231022/19cQdE7R/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1992"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-117"
   },
   {
-    "id": 568432,
-    "IDcode": "200GANA-1993",
-    "title": "认真的南帕，第1枪。 1258",
+    "id": 541444,
+    "IDcode": "233BAT-119",
+    "title": "あおい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/a2c80c9383f306ef33a6a7f9b8dfb35c.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240122/ZREbN169/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1993"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-119"
   },
   {
-    "id": 568433,
-    "IDcode": "200GANA-1994",
-    "title": "认真的南帕，第1枪。 1259",
+    "id": 518009,
+    "IDcode": "233BAT-122",
+    "title": "瞳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/9bc8d9eebbbd295100882aa791334620.jpg",
+    "cover_url": "https://voddadaizi.com:52866/videos/202511/02/690673ad71eb543bb0df9c1d/poster2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1994"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-122"
   },
   {
-    "id": 537071,
-    "IDcode": "200GANA-1995",
-    "title": "マジ软派、初撮。 1262",
+    "id": 541630,
+    "IDcode": "233BAT-124",
+    "title": "えみり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230627/pb_e_200gana-1995.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240429/pJ8ZHe8r/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1995"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=233BAT-124"
   },
   {
-    "id": 537130,
-    "IDcode": "200GANA-1996",
-    "title": "マジ软派、初撮。 1274 パパ活中の巨乳美人お姊さんを汉気土下座ナンパ！",
+    "id": 522367,
+    "IDcode": "240TOKYO-403",
+    "title": "ゆうは",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人"
     ],
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230625/pb_e_200gana-1996.jpg!320x216.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/0f6fa98052d296f77eb3f572419f5cce.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1996"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=240TOKYO-403"
   },
   {
-    "id": 568323,
-    "IDcode": "200GANA-1997",
-    "title": "在100战的南帕大师的枪房中，带来SEX隐藏射击111巧克力，香蕉，chi●Po美味和pakuri♪但是出现色情和天真的苗条女孩！",
+    "id": 522365,
+    "IDcode": "240TOKYO-404",
+    "title": "みづき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/146f5b81ca8deb2d614e4ae03a6517ef.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240213-1/81c8722eb9d67b40c7a5f8ff2ec9e633.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1997"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=240TOKYO-404"
   },
   {
-    "id": 521646,
-    "IDcode": "200GANA-1998",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 123 ショートカットヘアーの清楚な见た目の女の子が、男の指示に従って电话を",
+    "id": 538661,
+    "IDcode": "240TOKYO-409",
+    "title": "みつき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
     "company": "",
-    "publish_date": "2019-04-08",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/f48542057fe6baa42bab8e9f49a982e0.jpg",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240624/1613200489-pb_e_240tokyo-409.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1998"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=240TOKYO-409"
   },
   {
-    "id": 521647,
-    "IDcode": "200GANA-1999",
-    "title": "マジ软派、初撮。 1277 ギャップ萌え必至！露出度高めの巨乳女职人！サバサバしてるかと思いきや、意外にも繊细で可爱らしい反応",
+    "id": 538660,
+    "IDcode": "240TOKYO-412",
+    "title": "める",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人"
     ],
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/08073029604649bf25880508f432f914.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240624/1613200759-pb_e_240tokyo-412.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1999"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=240TOKYO-412"
   },
   {
-    "id": 537129,
-    "IDcode": "200GANA-2000",
-    "title": "マジ软派、初撮。 1263",
+    "id": 538633,
+    "IDcode": "240TOKYO-416",
+    "title": "ともか",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230625/pb_e_200gana-2000.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240614/1613805660-pb_e_240tokyo-416.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2000"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=240TOKYO-416"
   },
   {
-    "id": 537070,
-    "IDcode": "200GANA-2001",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 110",
+    "id": 538590,
+    "IDcode": "240TOKYO-419",
+    "title": "さおり",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230627/pb_e_200gana-2001.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240603/1616393921-pb_e_240tokyo-419.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=240TOKYO-419"
   },
   {
-    "id": 537081,
-    "IDcode": "200GANA-2002",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 114 彼氏がいるのに男の家へ！",
+    "id": 538589,
+    "IDcode": "240TOKYO-420",
+    "title": "えな",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230627/pb_e_200gana-2002.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240603/1616393922-pb_e_240tokyo-420.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=240TOKYO-420"
   },
   {
-    "id": 568421,
-    "IDcode": "200GANA-2003",
-    "title": "成人礼 南帕 03",
+    "id": 538588,
+    "IDcode": "240TOKYO-421",
+    "title": "まい",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "搭讪素人"
+      "素人"
     ],
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/ac476ba9e6e440dd77db3f804c320b6b.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20240603/1616393924-pb_e_240tokyo-421.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2003"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=240TOKYO-421"
   }
 ];

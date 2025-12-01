@@ -85,23 +85,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-585"
   },
   {
-    "id": 213334,
-    "IDcode": "DVDMS-325",
-    "title": "产后大奶妈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奶妈"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/09/12/788b74244c3eda617bd500f30207d00f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-325"
-  },
-  {
     "id": 550942,
     "IDcode": "FC2 PPV 1278940",
     "title": "[FC2真实素人精选!] 刚生产就想要献出鲍鱼!!大奶还能挤出奶水呢!!",
@@ -140,23 +123,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-3256614"
   },
   {
-    "id": 114745,
-    "IDcode": "FC2-3281960",
-    "title": "年轻貌美的妻子随着敏感度的提升而奶水溢出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奶妈"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "2025-09-12",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/ec341f85/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-3281960"
-  },
-  {
     "id": 117165,
     "IDcode": "FC2-4722728",
     "title": "爆乳产奶人妻刚生完孩子还热乎乎",
@@ -174,42 +140,6 @@ window.PAGE_DATA = [
     "cover_url": "https://tutu1.space/video/m3u8/2025/07/15/4c4304c0/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-4722728"
-  },
-  {
-    "id": 178572,
-    "IDcode": "FC2PPV-3071804",
-    "title": "刚生完小孩不久的美乳人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "奶妈"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/f6846aa2/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-3071804"
-  },
-  {
-    "id": 185545,
-    "IDcode": "FC2PPV-3304460",
-    "title": "一位刚生完孩子的妈妈她担心无法和丈夫做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奶妈",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/6f967301/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-3304460"
   },
   {
     "id": 559888,
@@ -341,85 +271,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-183"
   },
   {
-    "id": 222929,
-    "IDcode": "SDMF-026",
-    "title": "哺乳期按摩-三葉せり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奶妈"
-    ],
-    "type": "",
-    "company": "SOD",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-4/bf0809ee691c97ce8d815fc7c540d0a6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-026"
-  },
-  {
-    "id": 70092,
-    "IDcode": "SDMU-962",
-    "title": "派帅哥按摩师内射刚生完孩子的人妻-赤瀬尚子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
-      "巨乳",
-      "奶妈"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3e94b92ad6c1f4f84c8320c28b91c197.jpg",
-    "actress": [
-      "赤瀬尚子",
-      "タツ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-962"
-  },
-  {
-    "id": 146911,
-    "IDcode": "SIRO-4355",
-    "title": "第一拍模特范儿后仰的敏感身材高大出众的奶妈蛋神秘女友魔幻魅力让你想抱多少次..网上AV应用AV体验拍摄1414",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奶妈",
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250217-1/646ec432085788fb9741285cf1dc7234.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4355"
-  },
-  {
-    "id": 151112,
-    "IDcode": "SIRO-4739",
-    "title": "第一枪精湛J奶妈上位抢眼服务年轻迷人脸蛋奇迹美巨乳现役JD现身一边动态移动乳房一边用剃光的阴部握住阴茎..网络上的AV应用AV体验拍摄1719",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奶妈",
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://thjpg10.top/upload/vod/20250303-1/f351133d71acbb5782177afd450365a8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4739"
-  },
-  {
     "id": 14502,
     "IDcode": "SONE-201",
     "title": "姐姐哺乳期在娘家-小宵虎南",
@@ -472,40 +323,5 @@ window.PAGE_DATA = [
       "小宵虎南"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-201"
-  },
-  {
-    "id": 218041,
-    "IDcode": "SSIS-410",
-    "title": "奶水成瘾-鷲尾めい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奶妈"
-    ],
-    "type": "",
-    "company": "S1",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/83f57322941b15592d9c500cb182b73e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-410"
-  },
-  {
-    "id": 572468,
-    "IDcode": "STP27083",
-    "title": "初下海眼镜甜美小姐姐！哺乳期挤出乳汁，美腿丝袜高跟鞋！超近视角揉搓骚逼，抓着奶子舔弄奶头~ new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奶妈",
-      "乱伦"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://pic37.anzise.com/pic/20221026/519a0275decc561d657876ba3ab978ff/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STP27083"
   }
 ];

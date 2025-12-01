@@ -1,208 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 521806,
-    "IDcode": "332NAMA-059",
-    "title": "【个人撮影】唯衣/24歳/ガス会社経理/浮気カップル/NTR/男の家/激ピンク美乳首/スレンダー/美ボディ/お风吕场プレイ/3発射/SEX/颜射/フェラ/口内発射/Tバック/今时ムスメ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "个人撮影",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191219-1/442153ce2213e5af838514e96f48df31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-059"
-  },
-  {
-    "id": 412320,
-    "IDcode": "336DTT-002",
-    "title": "我在丈夫面前被奶油奶油…「现在原谅我…不要只是进去…」 桥本丽华",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/84990f779f536cb3c6da0fcb13b76cdb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-002"
-  },
-  {
-    "id": 494211,
-    "IDcode": "336DTT-051",
-    "title": "与丈夫是NTR爱好者的四个浸渍性！呢Mimori Kei 36岁的已婚女性Crea 美森系",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "少妇",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/91e4069b47097347d15790e7e6cef10b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-051"
-  },
-  {
-    "id": 472012,
-    "IDcode": "336DTT-082",
-    "title": "美丽的Akita美女回应了男友的NTR欲望，来自Akita的单身母亲：透明，非常苗 宫野茜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "TMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250307/RrWeOnbW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-082"
-  },
-  {
-    "id": 520643,
-    "IDcode": "336KNB-055",
-    "title": "全国人妻えろ図鉴 人妻全国募集⇒出张ハメ撮り⇒ネット公开 奈々子さん(27歳)结婚3年目 旦那とのエッチがつまらないからAV出演♪NTR愿望のある旦那はこれを承认♪エロ武勇伝を悠々と喋るモノホンビッチが巨根で责められ“イクイクイっちゃう～！！”と连呼してイキまくり！！连続絶顶后は満足笑颜でお扫除フェラ♪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221120/QsUR6pow/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336KNB-055"
-  },
-  {
-    "id": 532631,
-    "IDcode": "336KNB-234",
-    "title": "【これが本当のスレンダー爆乳】※旦那公认NTR“発売されたら夫と一绪に见ます♪”なんて言って応募",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230522/pb_e_336knb-234.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336KNB-234"
-  },
-  {
-    "id": 542250,
-    "IDcode": "336KNB-279",
-    "title": "【人妻さんいらっしゃい！】※旦那公认NTR“今日は気合い入れてきました！”って奥さん、そん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240923/RrLGPuU5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336KNB-279"
-  },
-  {
-    "id": 575781,
-    "IDcode": "345SIMM-206",
-    "title": "欲求不満人妻の性欲开放NTRセックス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20220926/ZE4lWIre/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-206"
-  },
-  {
-    "id": 159234,
-    "IDcode": "348DNTR-002",
-    "title": "流出 NTR 絶頂拷問研究所 ～夫の目の前で痙攣を繰り返す人妻～ Part-2 -cd1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/oboBlB5G/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=348DNTR-002"
-  },
-  {
-    "id": 531416,
-    "IDcode": "348FNTR-001",
-    "title": "デカチンにNTRされた女子校生 仆の大好きな148cmでIカップの巨乳な彼女をバイト先の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240414/v5eY7Zlo/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=348FNTR-001"
-  },
-  {
-    "id": 531415,
-    "IDcode": "348FNTR-002",
-    "title": "デカチンにNTRされた女子校生 仆の大好きな165cmでEカップの巨乳な彼女をバイト先の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240514/DZZeiui6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=348FNTR-002"
-  },
-  {
     "id": 347771,
     "IDcode": "348FNTR-003",
     "title": "デカチンにNTRされた女子校生 仆の大好きな151cmでGカップの巨乳な彼女をバイト先の",
@@ -611,24 +408,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=420POW-076"
   },
   {
-    "id": 591593,
-    "IDcode": "422ION-0075",
-    "title": "把过于漂亮的朋友女友带到酒店中出NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240825-1/c1b69932a7af29d3cf393918590ced71.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=422ION-0075"
-  },
-  {
     "id": 542887,
     "IDcode": "422ION-0160",
     "title": "NTRに兴味津々の女の子とホテルで彼氏に电话しながらハメ撮り",
@@ -736,61 +515,6 @@ window.PAGE_DATA = [
     "cover_url": "https://tuaskbgnekr.com/20250220/aBbwjTwR/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=476MLA-154"
-  },
-  {
-    "id": 61432,
-    "IDcode": "476MLA-240",
-    "title": "【NTR】こんな可愛いのに流されやすくて男に尽くし過ぎちゃうの可愛いよねw そりゃ中出-すなお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "NTR",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250727-1/125a4bcd6afc30509744b06693b08bfb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=476MLA-240"
-  },
-  {
-    "id": 498851,
-    "IDcode": "483PAK-015",
-    "title": "【NTRナンパvol.001】【今カレとのセックスじゃ欲求不満】【押しに弱い断れないガール】【豊満むっちりボディ】いまの彼氏じゃ満足できない欲求不満ガール！出没！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/4364044d63d4dda37cfe7f3c9ba2be31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=483PAK-015"
-  },
-  {
-    "id": 432036,
-    "IDcode": "483PAK-018",
-    "title": "【彼氏の前で耻ずかしがりながらNTR】【おとなしい性格だけど欲求不満ッ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/c1286d1c1ed3c88df48b4c578cdae37a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=483PAK-018"
   },
   {
     "id": 543231,
@@ -1008,24 +732,6 @@ window.PAGE_DATA = [
     "cover_url": "https://tuaskbgnekr.com/20250627/lji5mVpt/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=586HNHU-0087"
-  },
-  {
-    "id": 92360,
-    "IDcode": "7",
-    "title": "【泄露视频已婚临时工舒适旅行性爱醉酒狂欢、深夜性爱、职场外遇NTR等NTR成功率100%，尽-未知演员。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-04-11",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/df7ff3d48e8d3f7c7fec34718f5ee5fe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=7"
   },
   {
     "id": 575353,
@@ -1474,23 +1180,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-281"
   },
   {
-    "id": 526382,
-    "IDcode": "ABP-773",
-    "title": "【NTR注意】“気が狂いそうな”寝取られフル勃起4シチュエーション NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/12/kqf03bgmuu3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-773"
-  },
-  {
     "id": 556555,
     "IDcode": "ABW-050",
     "title": "* 胸屎 NTR 最严重的抑郁症勃起视频 我最喜欢的承诺幸福的女朋友被一个老人取下并摧毁了。野浦暖 - 野野浦暖",
@@ -1506,23 +1195,6 @@ window.PAGE_DATA = [
     "cover_url": "https://www.jkuntp.com/upload/vod/20230530-1/bc8a00227da1d68c8bb765caa527c617.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-050"
-  },
-  {
-    "id": 594870,
-    "IDcode": "ABW-061",
-    "title": "※愤怒NTR 最糟糕的郁闷勃起影像 最喜爱的女友被大叔侵犯、毁坏。 爱音玛丽亚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210911-1/bab80ec30da830e46e67ed2c27c0cba5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-061"
   },
   {
     "id": 225835,
@@ -1625,7 +1297,7 @@ window.PAGE_DATA = [
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/12/25/b6e6ed4617623bb1513f420998dd6776.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250429-1/b3cd0a7d420d08f06a4fcf4a5de9aaef.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-178"
   },
@@ -1649,23 +1321,6 @@ window.PAGE_DATA = [
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ef2602f3545dc08ac253bef4aa0efe14.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-205"
-  },
-  {
-    "id": 436393,
-    "IDcode": "ABW-233",
-    "title": "※胸糞NTR 最悪の鬱勃起映像 幸せを約束した大好きな彼女がおっさんに寝取られて、壊されました。 唯月優花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b68bd1a16ddd4b110e00ad74417bacee.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-233"
   },
   {
     "id": 566854,
@@ -1831,24 +1486,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-285"
   },
   {
-    "id": 221517,
-    "IDcode": "ABW-300",
-    "title": "不道德的NTR-野々浦暖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/0519f6b46013de59de90406445dfe80b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-300"
-  },
-  {
     "id": 62361,
     "IDcode": "ABW-318",
     "title": "不道德的NTR-鈴村あいり",
@@ -1910,26 +1547,9 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-65"
   },
   {
-    "id": 563924,
-    "IDcode": "ACHJ-018",
-    "title": "误送信されてきた妻が完全に崩壊していた。 アチージョ式NTR 部下と妻の唾液だらだら体液だだ漏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "MADONNA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230724/vbuZvXuh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-018"
-  },
-  {
-    "id": 35549,
-    "IDcode": "ADN-100",
-    "title": "在老公面前被侵犯的人妻松下纱容子",
+    "id": 71797,
+    "IDcode": "ADN-114",
+    "title": "在老公面前被侵犯的人妻香椎梨亚",
     "year": "",
     "country": "",
     "genre": "",
@@ -1937,6 +1557,419 @@ window.PAGE_DATA = [
       "人妻",
       "凌辱",
       "已婚妇女",
+      "强奸",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f0dd962c3ccb3538a0fb49a75cd1f60f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-114"
+  },
+  {
+    "id": 78886,
+    "IDcode": "ADN-123",
+    "title": "在丈夫的面前被侵犯的友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "拘束",
+      "淫妻",
+      "已婚妇女"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/b53ab1f1ec3e2d906f1953fd640cd5d8.jpg",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-123"
+  },
+  {
+    "id": 78807,
+    "IDcode": "ADN-128",
+    "title": "在丈夫面前被强奸-緒奈もえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "强奸",
+      "出轨",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/19/5b9c42371f58d74b3ec15a85b595cf34.jpg",
+    "actress": [
+      "绪奈もえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-128"
+  },
+  {
+    "id": 221568,
+    "IDcode": "ADN-134",
+    "title": "在老公面前被老同学干爽内射的人妻-森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-5/ca110530b541b23d0ee02d1e5393d9a1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-134"
+  },
+  {
+    "id": 214071,
+    "IDcode": "ADN-136",
+    "title": "在我丈夫面前被强奸-倉多まお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/10/22/248531327d5628b8574b326a87bc5a40.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-136"
+  },
+  {
+    "id": 97512,
+    "IDcode": "ADN-145",
+    "title": "在老公面前被他的上司干到高潮的美人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "强奸",
+      "戏剧",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-5/b7b96801ef1328a8693d01157e277c23.jpg",
+    "actress": [
+      "若菜奈央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-145"
+  },
+  {
+    "id": 105396,
+    "IDcode": "ADN-176",
+    "title": "在老公面前被侵犯的赤城碧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "强奸",
+      "淫妻",
+      "已婚妇女"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240415-1/7468679db46c2f3d9601ba5efbf033fa.jpg",
+    "actress": [
+      "木南日菜",
+      "イセドン内村"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-176"
+  },
+  {
+    "id": 71608,
+    "IDcode": "ADN-189",
+    "title": "在丈夫面前被侵犯的妻子-有坂深雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "强奸",
+      "戏剧",
+      "淫妻",
+      "舔阴"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250301-1/55a5aa3ed49f5ac83c8facc65a753a2e.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-189"
+  },
+  {
+    "id": 73590,
+    "IDcode": "ADN-220",
+    "title": "在老公面前被学长侵犯内射的人妻-河南実里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "凌辱",
+      "已婚妇女",
+      "白天出轨",
+      "淫妻",
+      "无码破解",
+      "素人作品",
+      "精选，综合"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b0cd09891f93f0be45ced27f4e2b50cf.jpg",
+    "actress": [
+      "河南実里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-220"
+  },
+  {
+    "id": 97952,
+    "IDcode": "ADN-224",
+    "title": "在丈夫面前被侵犯受孕的人妻神咲诗织",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "白天出轨",
+      "淫妻",
+      "已婚妇女"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678283bc89def9b1b8e47a23/cover.jpg",
+    "actress": [
+      "神咲诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-224"
+  },
+  {
+    "id": 99810,
+    "IDcode": "ADN-232",
+    "title": "夫の目の前で犯 凛音とうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "已婚妇女",
+      "戏剧",
+      "淫妻",
+      "白天出轨"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/b25ad2d522cbf02cfad6a24d6135197a.jpg",
+    "actress": [
+      "凛音とうか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-232"
+  },
+  {
+    "id": 180868,
+    "IDcode": "ADN-234",
+    "title": "在老公面前被公公干到高潮的人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/11cbfbefbfc1ecf80db9c964d50a2109.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-234"
+  },
+  {
+    "id": 220457,
+    "IDcode": "ADN-239",
+    "title": "在丈夫面前被昔日的恩师侵犯-弥生みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/de89f1c0af7732df664671e463618a67.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-239"
+  },
+  {
+    "id": 208034,
+    "IDcode": "ADN-249",
+    "title": "夫の目の前で犯-結城のの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240306-1/200e079365d9d78fd4c3ceb254719a1e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-249"
+  },
+  {
+    "id": 209625,
+    "IDcode": "ADN-254",
+    "title": "兄嫁NTR-夏目彩春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/07/15/9ad18821c7a7f5a48f18aea8cc691ebf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-254"
+  },
+  {
+    "id": 78675,
+    "IDcode": "ADN-311",
+    "title": "夫の目の前で犯●れて― 先輩との再会 吉良りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "淫妻",
+      "新娘，年轻妻子",
+      "白天出轨"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "2021-05-07",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/aa9b7141aa54b5f06a03e5950108cc3e.jpg",
+    "actress": [
+      "吉良鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-311"
+  },
+  {
+    "id": 560021,
+    "IDcode": "ADN-340",
+    "title": "夫の目の前で犯●れて― 好々爷の里の颜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://pic56.anzise.com/pic/20230602/811f38f6c32cd6c4c6254794894b07ad/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-340"
+  },
+  {
+    "id": 519153,
+    "IDcode": "ADN-35",
+    "title": "在丈夫面前被侵犯 再会是破灭的开始III 久远丽罗。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://pic.douimg.cc/upload/vod/20250812-1/d9dbdafffc036431c1fb9cacb1ad9874.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-35"
+  },
+  {
+    "id": 80188,
+    "IDcode": "ADN-358",
+    "title": "在丈夫面前被强奸-久遠れいら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "淫妻",
+      "新娘，年轻妻子",
+      "白天出轨"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/73586ffd117f3ae6945ad2308e830669.jpg",
+    "actress": [
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-358"
+  },
+  {
+    "id": 66673,
+    "IDcode": "ADN-441",
+    "title": "在她丈夫面前被侵犯-本田瞳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "淫妻",
+      "白天出轨",
+      "单体作品"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/ab6e3fdc63afb502f2180b9fff55f5d8.jpg",
+    "actress": [
+      "本田瞳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-441"
+  },
+  {
+    "id": 91693,
+    "IDcode": "ADN-490",
+    "title": "老公不知道我的臀部被羞辱性地使用NTR！ 通野未帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "白天出轨",
       "淫妻",
       "无码破解",
       "单体作品"
@@ -1944,10 +1977,35 @@ window.PAGE_DATA = [
     "type": "",
     "company": "ATTACKERS",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/07/07/8892380d5f2c7674d8538bd52a6bf598.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/b5fe6e234d4fea278d0509a1ac957f9a.jpg",
     "actress": [
-      "松下纱栄子"
+      "通野未帆",
+      "大岛丈"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-100"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-490"
+  },
+  {
+    "id": 106839,
+    "IDcode": "ADN-495",
+    "title": "在丈夫面前被侵犯-西野绘",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "淫妻",
+      "白天出轨",
+      "单体作品"
+    ],
+    "type": "",
+    "company": "ATTACKERS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240813/SiRWv7E4/1.jpg",
+    "actress": [
+      "西野絵美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-495"
   }
 ];

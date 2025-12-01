@@ -76,49 +76,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=090122_001"
   },
   {
-    "id": 99667,
-    "IDcode": "DVDES-623",
-    "title": "怀孕的小蕾接受粉丝和男优们的祝福把精子射进子宫给宝宝补充营养",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "美少女",
-      "中出",
-      "企画",
-      "孕妇"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/07/11/2fe4335e/vod.jpg",
-    "actress": [
-      "蕾"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-623"
-  },
-  {
-    "id": 114235,
-    "IDcode": "FC2-3118958",
-    "title": "极致NTR20岁笑容可爱的孕妇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇",
-      "NTR",
-      "淫妻",
-      "嫩妹"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "2025-09-23",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/189d4312/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-3118958"
-  },
-  {
     "id": 116491,
     "IDcode": "FC2-4464200",
     "title": "用避孕药骗服排卵诱发剂骗孕真正中出操强制解禁孕妇风俗娘",
@@ -274,23 +231,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2345691"
   },
   {
-    "id": 308191,
-    "IDcode": "FC2PPV-2398317",
-    "title": "怀孕10个月的孕妇出镜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/10/fcf43f7b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-2398317"
-  },
-  {
     "id": 175222,
     "IDcode": "FC2PPV-2660318",
     "title": "H罩杯巨乳孕妇被加精液",
@@ -360,58 +300,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4450081"
   },
   {
-    "id": 188268,
-    "IDcode": "FC2PPV-4472660",
-    "title": "F杯孕妇冲击译有出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250811-1/05a1e6ceb514096ab6a66cfa68b22985.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4472660"
-  },
-  {
-    "id": 193414,
-    "IDcode": "FC2PPV-4548601",
-    "title": "沉迷性爱的临产孕妇AV出镜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-1/383dbae3eefd542fe43ca6f54106e504.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4548601"
-  },
-  {
-    "id": 191992,
-    "IDcode": "FC2PPV-4550101",
-    "title": "穿制服的孕妇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250718-1/bd02f8419edc404efdf139f0454e10ec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4550101"
-  },
-  {
     "id": 193209,
     "IDcode": "FC2PPV-4573817",
     "title": "临产孕妇初尝女同3P狂乱",
@@ -447,41 +335,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4574764"
   },
   {
-    "id": 195189,
-    "IDcode": "FC2PPV-4578299",
-    "title": "J罩杯巨乳孕妇与公厕激烈啪啪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "/upload/vod/20250624-1/a600d4c0703c8ba0133f7844c9355e29.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4578299"
-  },
-  {
-    "id": 195365,
-    "IDcode": "FC2PPV-4582637",
-    "title": "临月孕妇们的后半战",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/ef3fc42b/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4582637"
-  },
-  {
     "id": 153012,
     "IDcode": "FC2PPV-4616072",
     "title": "孕妇胎动感爆棚的巨量内射",
@@ -497,23 +350,6 @@ window.PAGE_DATA = [
     "cover_url": "https://tutu1.space/images/2025/04/26/03e0f4736629f49d6b41a36f1625fc75.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4616072"
-  },
-  {
-    "id": 154959,
-    "IDcode": "FC2PPV-4693847",
-    "title": "与怀孕5个月的孕妇邂逅",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/06/34408b0e/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-4693847"
   },
   {
     "id": 154989,
@@ -573,28 +409,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GONE-042"
   },
   {
-    "id": 99888,
-    "IDcode": "HONB-047",
-    "title": "奇跡の激カワ新婚妊婦佐々木綾華（本名）2生で3Pし",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "孕妇",
-      "中出",
-      "瘦小身型"
-    ],
-    "type": "",
-    "company": "MERCURY",
-    "publish_date": "2018-02-09",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/cdllbqkzdl4.jpg",
-    "actress": [
-      "新美もも"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONB-047"
-  },
-  {
     "id": 531926,
     "IDcode": "HONB-100",
     "title": "奇迹外记川新婚孕妇Ai Uema（真名）恶魔颜射肚孕妇",
@@ -627,26 +441,6 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea6d0c631cc64eb5a78454/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDVR-221"
-  },
-  {
-    "id": 83383,
-    "IDcode": "KTKZ-064",
-    "title": "奇跡の美少女妊婦 東海地方出張/現地生中出し撮り/川島唯さん（仮名）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇",
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2020-01-19",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/nmqrqkqz1ua.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKZ-064"
   },
   {
     "id": 2753,
@@ -724,49 +518,10 @@ window.PAGE_DATA = [
     "type": "无码",
     "company": "PREMIUM",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/29/01809d8e/vod.jpg",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020000631631_23798_thumbnail.webp",
     "actress": [
       "蒼乃美月"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-805"
-  },
-  {
-    "id": 81395,
-    "IDcode": "SE-121",
-    "title": "素人援交生中出し 121",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "业余",
-      "中出",
-      "巨乳",
-      "孕妇",
-      "女优按摩棒"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2011-10-31",
-    "cover_url": "https://bf1.qrtuv.com/20210914/C5DCBAB0EB1F8B31/C5DCBAB0EB1F8B31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SE-121"
-  },
-  {
-    "id": 217340,
-    "IDcode": "SMA-569",
-    "title": "sma-569 对精液痴迷的孕妇-瀬戸彩子 小倉まりも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "孕妇"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-11/b1d0cd3a98dcd0d02d475b438333246f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMA-569"
   }
 ];

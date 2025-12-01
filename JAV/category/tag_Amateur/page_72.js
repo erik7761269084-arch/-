@@ -1,26 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 520031,
-    "IDcode": "230ORECO-006",
-    "title": "中出小希的敏感美巨乳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/9066c1d14df1e30c9c30cd37744fe074.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-006"
-  },
-  {
-    "id": 519956,
-    "IDcode": "230ORECO-010",
-    "title": "对可爱和性感打手枪无法抗拒的女大学生",
+    "id": 491639,
+    "IDcode": "275OCHA-130",
+    "title": "こまり",
     "year": "",
     "country": "",
     "genre": "",
@@ -28,34 +10,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/8dbddc2829aac29c908fbe6ea6b8eecb.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/abc41c4890cad653107eb694fd570fc2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-130"
   },
   {
-    "id": 520030,
-    "IDcode": "230ORECO-013",
-    "title": "美体F罩杯美乳天真无邪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/092e640a5be06bf21738554abbb784f0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-013"
-  },
-  {
-    "id": 80355,
-    "IDcode": "230ORECO-022",
-    "title": "将成人性教给一个有男朋友的快乐微笑女孩",
+    "id": 491628,
+    "IDcode": "275OCHA-131",
+    "title": "美波",
     "year": "",
     "country": "",
     "genre": "",
@@ -63,16 +27,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/2585c863cb02027293a962d08f13caff.jpg",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/083693eb0965a76a5110f9485a88f13f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-022"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-131"
   },
   {
-    "id": 589387,
-    "IDcode": "230ORECO-039",
-    "title": "里马酱和美月酱",
+    "id": 491627,
+    "IDcode": "275OCHA-132",
+    "title": "YUI",
     "year": "",
     "country": "",
     "genre": "",
@@ -80,16 +44,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/23/46068_cover_2025-07-23_114229.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/058106859e9792cbd45d351cb3fc2181.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-039"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-132"
   },
   {
-    "id": 468430,
-    "IDcode": "230ORECO-049",
-    "title": "我的素人-Z- 堇 2",
+    "id": 491638,
+    "IDcode": "275OCHA-133",
+    "title": "まち",
     "year": "",
     "country": "",
     "genre": "",
@@ -97,16 +61,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20552cf22ae3e04a81841/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/82f1036e2cdfb493f9de09ca348ffe94.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-049"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-133"
   },
   {
-    "id": 468427,
-    "IDcode": "230ORECO-050",
-    "title": "我的素人-Z- 真央 3",
+    "id": 491626,
+    "IDcode": "275OCHA-134",
+    "title": "亜美",
     "year": "",
     "country": "",
     "genre": "",
@@ -114,16 +78,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2053ecf22ae3e04a81833/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/c60d92da009c2bc7b38ca7623a5886e1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-050"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-134"
   },
   {
-    "id": 468447,
-    "IDcode": "230ORECO-051",
-    "title": "我的素人-Z- 琉衣",
+    "id": 491635,
+    "IDcode": "275OCHA-135",
+    "title": "佐野",
     "year": "",
     "country": "",
     "genre": "",
@@ -131,16 +95,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a205decf22ae3e04a818a4/cover.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/e245cf0b7a9911529897771ba398b8ca.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-051"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-135"
   },
   {
-    "id": 468443,
-    "IDcode": "230ORECO-052",
-    "title": "我的素人-Z- 乃亞",
+    "id": 574935,
+    "IDcode": "275OCHA-136",
+    "title": "ナナ",
     "year": "",
     "country": "",
     "genre": "",
@@ -148,16 +112,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a205cacf22ae3e04a81896/cover.jpg",
+    "cover_url": "https://sex8sex811.com/20250908/uDf7bhtx/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-052"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-136"
   },
   {
-    "id": 574506,
-    "IDcode": "230ORECO-087",
-    "title": "现役女子○生6人全身舐めご奉仕ハーレム连続中出し",
+    "id": 541365,
+    "IDcode": "275OCHA-150",
+    "title": "みつき",
     "year": "",
     "country": "",
     "genre": "",
@@ -165,15 +129,423 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/2023/03/b45ec1kgm4c.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231114/u6YRxRSK/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-087"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-150"
   },
   {
-    "id": 578013,
-    "IDcode": "230ORECO-113",
+    "id": 541367,
+    "IDcode": "275OCHA-151",
+    "title": "なな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231114/XFKcBB1U/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-151"
+  },
+  {
+    "id": 541366,
+    "IDcode": "275OCHA-152",
+    "title": "まちちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231114/tkPL53Ui/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-152"
+  },
+  {
+    "id": 541368,
+    "IDcode": "275OCHA-153",
+    "title": "ましろちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231114/Yk2uiZhp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-153"
+  },
+  {
+    "id": 541369,
+    "IDcode": "275OCHA-154",
+    "title": "まや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231114/WeuLTT06/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-154"
+  },
+  {
+    "id": 541563,
+    "IDcode": "275OCHA-165",
+    "title": "チ○ポケース 01 ふう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240329/vDk7FxZO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-165"
+  },
+  {
+    "id": 541564,
+    "IDcode": "275OCHA-166",
+    "title": "チ○ポケース 02 みくる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240329/Bvgul2Zy/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-166"
+  },
+  {
+    "id": 541567,
+    "IDcode": "275OCHA-167",
+    "title": "チ○ポケース 03 みかん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/oKa3M3fO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-167"
+  },
+  {
+    "id": 541568,
+    "IDcode": "275OCHA-168",
+    "title": "チ○ポケース 04 このか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/rMM3Qhd8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-168"
+  },
+  {
+    "id": 541569,
+    "IDcode": "275OCHA-169",
+    "title": "チ○ポケース 05 そら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/Gd6PpVDG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-169"
+  },
+  {
+    "id": 541570,
+    "IDcode": "275OCHA-170",
+    "title": "チ○ポケース 06 いのり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/HXmxqP3i/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-170"
+  },
+  {
+    "id": 541571,
+    "IDcode": "275OCHA-171",
+    "title": "チ○ポケース 07 ののか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/wimJBvFP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-171"
+  },
+  {
+    "id": 541572,
+    "IDcode": "275OCHA-172",
+    "title": "チ○ポケース 08 のあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/8XFJh5iO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-172"
+  },
+  {
+    "id": 541573,
+    "IDcode": "275OCHA-173",
+    "title": "チ○ポケース 09 かのん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240331/LyiErWpF/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=275OCHA-173"
+  },
+  {
+    "id": 541148,
+    "IDcode": "276KITAIKE-379",
+    "title": "碧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190907-1/87b8a5f91aba1529ee9710e5c03c4add.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-379"
+  },
+  {
+    "id": 535753,
+    "IDcode": "276KITAIKE-414",
+    "title": "梨香さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230930/KITAIKE414.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-414"
+  },
+  {
+    "id": 541185,
+    "IDcode": "276KITAIKE-420",
+    "title": "瑞希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191229-1/9f192651777402b283278bfb64f479b4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-420"
+  },
+  {
+    "id": 508634,
+    "IDcode": "276KITAIKE-425",
+    "title": "絵里 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/74c321e7443259f364f18b5124408532.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-425"
+  },
+  {
+    "id": 574475,
+    "IDcode": "276KITAIKE-452",
+    "title": "玉木さん1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/e8e6311398ea308f2dc24aaf7e43ed25.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-452"
+  },
+  {
+    "id": 508737,
+    "IDcode": "276KITAIKE-455",
+    "title": "ユア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7513ff2fcc9caae7cd5e29d8487bf9c6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-455"
+  },
+  {
+    "id": 508667,
+    "IDcode": "276KITAIKE-456",
+    "title": "小春ちゃん(仮)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8055ab338615627ef1a45bf837695be8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-456"
+  },
+  {
+    "id": 508669,
+    "IDcode": "276KITAIKE-457",
+    "title": "環奈ちゃん(仮)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9ec73c7ec8d86bd6b20fc4e257b6b29a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-457"
+  },
+  {
+    "id": 508680,
+    "IDcode": "276KITAIKE-458",
+    "title": "心ちゃん(仮)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/75c24b5ede4c7e8ec26391c152295e89.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-458"
+  },
+  {
+    "id": 508662,
+    "IDcode": "276KITAIKE-459",
+    "title": "楓ちゃん(仮)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/94ce4462ff949662e7faf4f18c5d59b8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-459"
+  },
+  {
+    "id": 541191,
+    "IDcode": "276KITAIKE-461",
+    "title": "みっちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200724-1/88677196c31e805b417f857b707f99ca.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-461"
+  },
+  {
+    "id": 522357,
+    "IDcode": "276KITAIKE-477",
     "title": "まい",
     "year": "",
     "country": "",
@@ -182,16 +554,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250513/wVWCwk6L/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/aac46e68295919ffd99a7e23dc88c796.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-113"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-477"
   },
   {
-    "id": 578012,
-    "IDcode": "230ORECO-114",
-    "title": "ほたる",
+    "id": 522355,
+    "IDcode": "276KITAIKE-478",
+    "title": "ちさ",
     "year": "",
     "country": "",
     "genre": "",
@@ -199,16 +571,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250513/HtNQdWNM/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/89f25a52965832f06034961d6d55dad9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-114"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-478"
   },
   {
-    "id": 100374,
-    "IDcode": "230ORECO-115",
-    "title": "正妹主動強吻越玩越開放 激烈啪啪呻吟不斷 內射後還追著男友肉棒來吸",
+    "id": 522354,
+    "IDcode": "276KITAIKE-479",
+    "title": "はるか(仮名)",
     "year": "",
     "country": "",
     "genre": "",
@@ -216,16 +588,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/C9Njw6xk/1.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240212-1/14607397fc0b060d892e35c25326563d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-115"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-479"
   },
   {
-    "id": 100356,
-    "IDcode": "230ORECO-116",
-    "title": "朋友街上被拾獲要求做愛 剛開始有點尷尬到後期難捨難分",
+    "id": 574917,
+    "IDcode": "276KITAIKE-516",
+    "title": "由贵さん",
     "year": "",
     "country": "",
     "genre": "",
@@ -233,16 +605,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/EKiS0TOQ/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250912/i3AlyNOr/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-116"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-516"
   },
   {
-    "id": 578015,
-    "IDcode": "230ORECO-117",
-    "title": "ゆいちゃん",
+    "id": 574919,
+    "IDcode": "276KITAIKE-517",
+    "title": "佳代子さん",
     "year": "",
     "country": "",
     "genre": "",
@@ -250,16 +622,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/X5u2Cl1E/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250912/TsQLkmQe/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-517"
   },
   {
-    "id": 578016,
-    "IDcode": "230ORECO-118",
-    "title": "ゆうかさん",
+    "id": 574922,
+    "IDcode": "276KITAIKE-518",
+    "title": "のぞみ",
     "year": "",
     "country": "",
     "genre": "",
@@ -267,16 +639,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/15PpAQaG/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250912/9UxS00sw/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-118"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-518"
   },
   {
-    "id": 578017,
-    "IDcode": "230ORECO-119",
-    "title": "あむちゃん",
+    "id": 574923,
+    "IDcode": "276KITAIKE-519",
+    "title": "奈々子",
     "year": "",
     "country": "",
     "genre": "",
@@ -284,16 +656,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/q2tkU0l4/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250912/YBYL3V1n/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-119"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-519"
   },
   {
-    "id": 578018,
-    "IDcode": "230ORECO-122",
-    "title": "みづねちゃん",
+    "id": 574918,
+    "IDcode": "276KITAIKE-520",
+    "title": "ゆか",
     "year": "",
     "country": "",
     "genre": "",
@@ -301,16 +673,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/CZpRnxjV/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250912/kNvY1G6H/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-122"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-520"
   },
   {
-    "id": 578022,
-    "IDcode": "230ORECO-126",
-    "title": "かれん",
+    "id": 574924,
+    "IDcode": "276KITAIKE-521",
+    "title": "めぐ",
     "year": "",
     "country": "",
     "genre": "",
@@ -318,16 +690,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/xVNWtckE/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250912/vdeXeCdF/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-126"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-521"
   },
   {
-    "id": 578021,
-    "IDcode": "230ORECO-129",
-    "title": "Mちゃん",
+    "id": 574920,
+    "IDcode": "276KITAIKE-522",
+    "title": "ゆうな",
     "year": "",
     "country": "",
     "genre": "",
@@ -335,16 +707,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/Jn1f50Oa/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250912/lJiHYtwD/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-129"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-522"
   },
   {
-    "id": 576090,
-    "IDcode": "230ORECO-130",
-    "title": "Aちゃん (岬あずさ)",
+    "id": 574921,
+    "IDcode": "276KITAIKE-523",
+    "title": "ゆうり",
     "year": "",
     "country": "",
     "genre": "",
@@ -352,16 +724,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230522/pb_e_230oreco-130.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex811.com/20250912/gJ5ioqFv/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-130"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-523"
   },
   {
-    "id": 578020,
-    "IDcode": "230ORECO-131",
-    "title": "Iちゃん",
+    "id": 491654,
+    "IDcode": "276KITAIKE-524",
+    "title": "美穂",
     "year": "",
     "country": "",
     "genre": "",
@@ -369,16 +741,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/1ecB336f/1.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/64060fd26a6c90b2f161191636fa1821.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-131"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-524"
   },
   {
-    "id": 578019,
-    "IDcode": "230ORECO-133",
-    "title": "Yちゃん",
+    "id": 574911,
+    "IDcode": "276KITAIKE-525",
+    "title": "友梨",
     "year": "",
     "country": "",
     "genre": "",
@@ -386,16 +758,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250514/6eAqFfeR/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/hKBzgfOb/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-525"
   },
   {
-    "id": 100387,
-    "IDcode": "230ORECO-134",
-    "title": "雙麻花辮可愛學生為錢出賣肉體 脫下口罩是正妹一名 猛操想哭的樣子",
+    "id": 574908,
+    "IDcode": "276KITAIKE-527",
+    "title": "みおさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -403,16 +775,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230522/pb_e_230oreco-134.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/2RSp6OIQ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-134"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-527"
   },
   {
-    "id": 576100,
-    "IDcode": "230ORECO-135",
-    "title": "Wちゃん (爱花あゆみ)",
+    "id": 574910,
+    "IDcode": "276KITAIKE-534",
+    "title": "まりこ",
     "year": "",
     "country": "",
     "genre": "",
@@ -420,16 +792,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230530/pb_e_230oreco-135.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/RPYWHwUP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-534"
   },
   {
-    "id": 576099,
-    "IDcode": "230ORECO-136",
-    "title": "Dちゃん (奥井枫)",
+    "id": 574909,
+    "IDcode": "276KITAIKE-535",
+    "title": "まい",
     "year": "",
     "country": "",
     "genre": "",
@@ -437,16 +809,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230530/pb_e_230oreco-136.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/4ofvbOze/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-136"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-535"
   },
   {
-    "id": 576087,
-    "IDcode": "230ORECO-137",
-    "title": "T137ちゃん (天然美月)",
+    "id": 574916,
+    "IDcode": "276KITAIKE-536",
+    "title": "みつ子",
     "year": "",
     "country": "",
     "genre": "",
@@ -454,16 +826,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230514/pb_e_230oreco-137.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/tdFUQI8W/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-137"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-536"
   },
   {
-    "id": 578028,
-    "IDcode": "230ORECO-138",
-    "title": "R138ちゃん",
+    "id": 574914,
+    "IDcode": "276KITAIKE-537",
+    "title": "りょうこ",
     "year": "",
     "country": "",
     "genre": "",
@@ -471,16 +843,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250515/RIfWb6Rw/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/N6anCWi2/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-138"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-537"
   },
   {
-    "id": 576086,
-    "IDcode": "230ORECO-139",
-    "title": "F139ちゃん (永野枫果)",
+    "id": 574913,
+    "IDcode": "276KITAIKE-538",
+    "title": "小百合",
     "year": "",
     "country": "",
     "genre": "",
@@ -488,16 +860,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230514/pb_e_230oreco-139.jpg!320x216.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/0fKfuVPU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-139"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-538"
   },
   {
-    "id": 578024,
-    "IDcode": "230ORECO-140",
-    "title": "かなちゃん",
+    "id": 574912,
+    "IDcode": "276KITAIKE-539",
+    "title": "いすず",
     "year": "",
     "country": "",
     "genre": "",
@@ -505,16 +877,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250515/qFnvRfRg/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/yXjmPDCX/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-140"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-539"
   },
   {
-    "id": 578023,
-    "IDcode": "230ORECO-141",
-    "title": "あかりちゃん",
+    "id": 574915,
+    "IDcode": "276KITAIKE-540",
+    "title": "梨花",
     "year": "",
     "country": "",
     "genre": "",
@@ -522,16 +894,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250515/uehwwJVP/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250913/rRprkTyj/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-141"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-540"
   },
   {
-    "id": 578025,
-    "IDcode": "230ORECO-142",
-    "title": "みおなちゃん",
+    "id": 537326,
+    "IDcode": "276KITAIKE-541",
+    "title": "すずかさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -539,16 +911,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250515/TJdcoZG2/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250914/5BG0VgTZ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-142"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-541"
   },
   {
-    "id": 578027,
-    "IDcode": "230ORECO-143",
-    "title": "こなつちゃん",
+    "id": 537325,
+    "IDcode": "276KITAIKE-542",
+    "title": "りささん",
     "year": "",
     "country": "",
     "genre": "",
@@ -556,16 +928,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250515/Dx0yPWSs/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250914/CmtIsy0z/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-143"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-542"
   },
   {
-    "id": 578026,
-    "IDcode": "230ORECO-144",
-    "title": "くるみちゃん",
+    "id": 574893,
+    "IDcode": "276KITAIKE-543",
+    "title": "るかさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -573,16 +945,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250515/TrAZEeDD/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250914/SY17yWLD/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-144"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-543"
   },
   {
-    "id": 100389,
-    "IDcode": "230ORECO-145",
-    "title": "用金錢打破妹子道德底線 最後被快感沖昏頭腦越來越淫蕩",
+    "id": 541574,
+    "IDcode": "276KITAIKE-547",
+    "title": "もなみさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -590,16 +962,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/Y0cz6vNb/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240401/PGGvMcgx/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-145"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-547"
   },
   {
-    "id": 468453,
-    "IDcode": "230ORECO-146",
-    "title": "我的素人-Z- 唯",
+    "id": 541575,
+    "IDcode": "276KITAIKE-548",
+    "title": "诗织さん",
     "year": "",
     "country": "",
     "genre": "",
@@ -607,16 +979,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2061acf22ae3e04a818ce/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240401/FKbU9wPt/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-548"
   },
   {
-    "id": 78657,
-    "IDcode": "230ORECO-147",
-    "title": "小實裡(真白實裡)",
+    "id": 541576,
+    "IDcode": "276KITAIKE-549",
+    "title": "ゆりあさん",
     "year": "",
     "country": "",
     "genre": "",
@@ -624,373 +996,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "2023-09-05",
-    "cover_url": "https://sex8sex8sex8.com/20250516/JcWDE0AE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-147"
-  },
-  {
-    "id": 578033,
-    "IDcode": "230ORECO-148",
-    "title": "めいちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/2GMgu1fF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-148"
-  },
-  {
-    "id": 468457,
-    "IDcode": "230ORECO-149",
-    "title": "我的素人-Z- 琴乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20642cf22ae3e04a818e9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-149"
-  },
-  {
-    "id": 578034,
-    "IDcode": "230ORECO-151",
-    "title": "ななみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/r97Z7cJ6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-151"
-  },
-  {
-    "id": 578032,
-    "IDcode": "230ORECO-153",
-    "title": "みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/vRsjhqIR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-153"
-  },
-  {
-    "id": 578030,
-    "IDcode": "230ORECO-156",
-    "title": "ららさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/TpVChIdS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-156"
-  },
-  {
-    "id": 578029,
-    "IDcode": "230ORECO-157",
-    "title": "こうさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/SNw6SIui/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-157"
-  },
-  {
-    "id": 578031,
-    "IDcode": "230ORECO-159",
-    "title": "ななせさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/a8TLAz5I/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-159"
-  },
-  {
-    "id": 578036,
-    "IDcode": "230ORECO-161",
-    "title": "めいちゃん＆さとみちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/m8kV5DVx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-161"
-  },
-  {
-    "id": 578035,
-    "IDcode": "230ORECO-162",
-    "title": "momo",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250516/e5TDh8jk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-162"
-  },
-  {
-    "id": 578039,
-    "IDcode": "230ORECO-164",
-    "title": "なつき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/f1ecmuWx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-164"
-  },
-  {
-    "id": 578038,
-    "IDcode": "230ORECO-165",
-    "title": "あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/Uh85CNgn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-165"
-  },
-  {
-    "id": 578037,
-    "IDcode": "230ORECO-166",
-    "title": "まゆ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/LxVj5ONv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-166"
-  },
-  {
-    "id": 576112,
-    "IDcode": "230ORECO-167",
-    "title": "Mちゃん (天然美月)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230611/pb_e_230oreco-167.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-167"
-  },
-  {
-    "id": 578041,
-    "IDcode": "230ORECO-168",
-    "title": "ALICE",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/Zsa3L91B/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-168"
-  },
-  {
-    "id": 578042,
-    "IDcode": "230ORECO-169",
-    "title": "HIMARI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/gNm82mMN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-169"
-  },
-  {
-    "id": 578045,
-    "IDcode": "230ORECO-170",
-    "title": "ねんねちゃん＆ももちゃん＆ありすちゃん＆ましろちゃん＆ゆずちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/GthBY7Gy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-170"
-  },
-  {
-    "id": 578040,
-    "IDcode": "230ORECO-171",
-    "title": "こずえちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/9KXceiMw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-171"
-  },
-  {
-    "id": 578043,
-    "IDcode": "230ORECO-172",
-    "title": "ゆらちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/ll90KdKt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-172"
-  },
-  {
-    "id": 578044,
-    "IDcode": "230ORECO-173",
-    "title": "さくらちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250517/aOL8vXTn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-173"
-  },
-  {
-    "id": 578046,
-    "IDcode": "230ORECO-174",
-    "title": "まゆちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250518/FIi8Ol1s/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-174"
-  },
-  {
-    "id": 578048,
-    "IDcode": "230ORECO-175",
-    "title": "こなつ先生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250518/qWf4f5cJ/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240401/pqVdzq2L/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-175"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=276KITAIKE-549"
   },
   {
-    "id": 578050,
-    "IDcode": "230ORECO-176",
-    "title": "ゆの先生",
+    "id": 537769,
+    "IDcode": "277DCV-002",
+    "title": "家まで送ってイイですか？ case.03 押しに弱いむっつりオタク系ナース のぞみさん 24歳 (黒居ろく)",
     "year": "",
     "country": "",
     "genre": "",
@@ -998,16 +1013,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250518/DoJglBfQ/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231127/pb_e_277dcv-002.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-176"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-002"
   },
   {
-    "id": 578047,
-    "IDcode": "230ORECO-177",
-    "title": "ひとみ先生",
+    "id": 537767,
+    "IDcode": "277DCV-006",
+    "title": "家まで送ってイイですか？ case.06 金欲＜性欲⇒贫乏キャンギャルはヤリたがりなドM (彩川渚)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1015,16 +1030,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250518/XpQURdi2/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231127/pb_e_277dcv-006.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-006"
   },
   {
-    "id": 578049,
-    "IDcode": "230ORECO-178",
-    "title": "じゅん先生",
+    "id": 537762,
+    "IDcode": "277DCV-011",
+    "title": "家まで送ってイイですか？ case.11 涙ぐましき女子アナ道！女子力を磨きたくてSEXする名门女子大生 (加藤ほのか)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1032,16 +1047,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250518/84fTYDHE/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231126/pb_e_277dcv-011.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-011"
   },
   {
-    "id": 578051,
-    "IDcode": "230ORECO-183",
-    "title": "ゆず",
+    "id": 537801,
+    "IDcode": "277DCV-013",
+    "title": "家まで送ってイイですか？ case.13 まゆ○は神！！前髪の乱れを许さないド変态メイドは调教済み？",
     "year": "",
     "country": "",
     "genre": "",
@@ -1049,16 +1064,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250518/M7UfecM7/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231126/pb_e_277dcv-013.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-183"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-013"
   },
   {
-    "id": 578052,
-    "IDcode": "230ORECO-184",
-    "title": "あおいちゃん",
+    "id": 537751,
+    "IDcode": "277DCV-018",
+    "title": "家まで送ってイイですか？ case.18 芸能界も喰い尽くす！1000人斩りのFカップギャルは年収1000万円以上！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1066,16 +1081,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/Nsj5AWlG/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231124/pb_e_277dcv-018.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-184"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-018"
   },
   {
-    "id": 578053,
-    "IDcode": "230ORECO-185",
-    "title": "かなちゃん",
+    "id": 537750,
+    "IDcode": "277DCV-019",
+    "title": "家まで送ってイイですか？ case.19 ‘恋爱は向いてない…’逆ナンが趣味の绮丽なお姊さんは男を狩るドMな狩人",
     "year": "",
     "country": "",
     "genre": "",
@@ -1083,16 +1098,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/rrn4Ea6c/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231124/pb_e_277dcv-019.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-185"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-019"
   },
   {
-    "id": 578058,
-    "IDcode": "230ORECO-187",
-    "title": "なつ＆もえ",
+    "id": 537749,
+    "IDcode": "277DCV-021",
+    "title": "家まで送ってイイですか？ case.21 アメリカ帰りの清纯ガールは性にダイナミック！！日焼けスレンダーなカラダを震",
     "year": "",
     "country": "",
     "genre": "",
@@ -1100,16 +1115,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/7AUWU3qB/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231124/pb_e_277dcv-021.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-187"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-021"
   },
   {
-    "id": 578054,
-    "IDcode": "230ORECO-188",
-    "title": "ゆうさん",
+    "id": 537748,
+    "IDcode": "277DCV-023",
+    "title": "家まで送ってイイですか？ case.23 恋爱に败れても前を向く！！相席屋で男を探すズボラ看护师は痉挛",
     "year": "",
     "country": "",
     "genre": "",
@@ -1117,16 +1132,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/GtQeUekE/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231124/pb_e_277dcv-023.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-188"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-023"
   },
   {
-    "id": 578056,
-    "IDcode": "230ORECO-189",
-    "title": "さとみさん",
+    "id": 537732,
+    "IDcode": "277DCV-026",
+    "title": "家まで送ってイイですか？ case.26 ローソク、ムチ、首绞めに溺れた青春时代…。个性派サブカルドM女子は",
     "year": "",
     "country": "",
     "genre": "",
@@ -1134,16 +1149,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/NbvBMysX/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231122/pb_e_277dcv-026.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-189"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-026"
   },
   {
-    "id": 578055,
-    "IDcode": "230ORECO-190",
-    "title": "すみれさん",
+    "id": 537731,
+    "IDcode": "277DCV-027",
+    "title": "家まで送ってイイですか？ case.27 同栖中の彼氏の布団でイキ果ててブチギレるアブノーマルな変态女子！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1151,16 +1166,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/XCwWnZp9/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231122/pb_e_277dcv-027.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-190"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-027"
   },
   {
-    "id": 578057,
-    "IDcode": "230ORECO-191",
-    "title": "こうさん",
+    "id": 537730,
+    "IDcode": "277DCV-028",
+    "title": "家まで送ってイイですか？ case.28 ‘300人の変态とヤッてたら私も変态になっちゃいました…。’ロリロリ童颜",
     "year": "",
     "country": "",
     "genre": "",
@@ -1168,16 +1183,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/FdF05hZZ/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231122/pb_e_277dcv-028.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-191"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-028"
   },
   {
-    "id": 578061,
-    "IDcode": "230ORECO-193",
-    "title": "もなみ＆さら",
+    "id": 537653,
+    "IDcode": "277DCV-031",
+    "title": "家まで送ってイイですか？ case.31 大混雑の渋谷ハロウィンで见つけた博多弁讹りのほんわかビッチ！！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1185,16 +1200,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/001Bminp/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231111/pb_e_277dcv-031.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-193"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-031"
   },
   {
-    "id": 578060,
-    "IDcode": "230ORECO-194",
-    "title": "E18",
+    "id": 537652,
+    "IDcode": "277DCV-032",
+    "title": "家まで送ってイイですか？ case.32 ‘お愿いオジサン…レ●プして？’加齢臭マニアのEカップコスプレイヤー现る！！ (あず希)",
     "year": "",
     "country": "",
     "genre": "",
@@ -1202,16 +1217,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/2y6Gl377/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231111/pb_e_277dcv-032.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-194"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-032"
   },
   {
-    "id": 578059,
-    "IDcode": "230ORECO-195",
-    "title": "りのさん",
+    "id": 537651,
+    "IDcode": "277DCV-033",
+    "title": "家まで送ってイイですか？ case.33 资产30亿円、创业150年の某有名量贩店の娘！！ “私、亲の力は借",
     "year": "",
     "country": "",
     "genre": "",
@@ -1219,16 +1234,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250519/S4wfw7yH/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231111/pb_e_277dcv-033.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-195"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-033"
   },
   {
-    "id": 578063,
-    "IDcode": "230ORECO-196",
-    "title": "かえでさん",
+    "id": 537671,
+    "IDcode": "277DCV-037",
+    "title": "家まで送ってイイですか？ case.37 童颜からは想像できないド淫乱！シリーズNo.1の-イイ人-は、お愿いしたら断",
     "year": "",
     "country": "",
     "genre": "",
@@ -1236,16 +1251,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/9BDw9NNl/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-037.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-196"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-037"
   },
   {
-    "id": 578062,
-    "IDcode": "230ORECO-197",
-    "title": "みりあさん",
+    "id": 537670,
+    "IDcode": "277DCV-039",
+    "title": "家まで送ってイイですか？ case.39 クラブを沸かせる美人DJは硬派を気取るムッツリ敏感娘！その脳内は⇒音楽",
     "year": "",
     "country": "",
     "genre": "",
@@ -1253,16 +1268,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/xdHVGxBx/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-039.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-197"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-039"
   },
   {
-    "id": 578064,
-    "IDcode": "230ORECO-198",
-    "title": "さくらさん",
+    "id": 537669,
+    "IDcode": "277DCV-040",
+    "title": "家まで送ってイイですか？ case.40 Fカップ现役グラドルは2016年1月に処女卒业后50人とヤった遅咲き",
     "year": "",
     "country": "",
     "genre": "",
@@ -1270,16 +1285,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/h4zZg2PY/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-040.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-040"
   },
   {
-    "id": 578065,
-    "IDcode": "230ORECO-199",
-    "title": "みつきちゃん大学生",
+    "id": 537668,
+    "IDcode": "277DCV-041",
+    "title": "家まで送ってイイですか？ case.41 アテンションプリーズ！！现役キャビンアテンダント登场！！ジムで锻えた色白美脚",
     "year": "",
     "country": "",
     "genre": "",
@@ -1287,16 +1302,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/zZ2VkPQc/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-041.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-199"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-041"
   },
   {
-    "id": 578066,
-    "IDcode": "230ORECO-200",
-    "title": "ゆらちゃん大学生",
+    "id": 537667,
+    "IDcode": "277DCV-044",
+    "title": "家まで送ってイイですか？ case.44 関西№1のドMは泥酔ショーダンサー！！ 自由をこよなく爱し喜怒哀楽の-喜・楽-を",
     "year": "",
     "country": "",
     "genre": "",
@@ -1304,16 +1319,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/XBYCLSW1/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-044.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-200"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-044"
   },
   {
-    "id": 578067,
-    "IDcode": "230ORECO-201",
-    "title": "まゆちゃんOL",
+    "id": 537666,
+    "IDcode": "277DCV-045",
+    "title": "家まで送ってイイですか？ case.45 胸もとを见せびらかす超肉食黒ギャルは、三度の饭",
     "year": "",
     "country": "",
     "genre": "",
@@ -1321,16 +1336,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/EQ1XcmZR/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-045.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-201"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-045"
   },
   {
-    "id": 578068,
-    "IDcode": "230ORECO-202",
-    "title": "ゆりちゃん大学生",
+    "id": 537665,
+    "IDcode": "277DCV-047",
+    "title": "家まで送ってイイですか？ case.47 A○Bの指○似！！青森県出身おっとり娘⇒言叶责めでパンツを濡らす変态候补生！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1338,16 +1353,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/oX6SC7Tp/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-047.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-202"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-047"
   },
   {
-    "id": 578069,
-    "IDcode": "230ORECO-203",
-    "title": "くるみさん",
+    "id": 537664,
+    "IDcode": "277DCV-048",
+    "title": "家まで送ってイイですか？ case.48 Per○umeあーちゃ○似の伊○丹勤务美容部员は、合コン后必ずヤれるノーガード女子！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1355,16 +1370,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/AcHTQNSm/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231112/pb_e_277dcv-048.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-203"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-048"
   },
   {
-    "id": 578070,
-    "IDcode": "230ORECO-204",
-    "title": "さりなさん",
+    "id": 564842,
+    "IDcode": "277DCV-051",
+    "title": "ドキュメンTV×PRESTIGE PREMIUM 家まで送ってイイですか？ 51 鹤井さん 木之前さん 里奈さん",
     "year": "",
     "country": "",
     "genre": "",
@@ -1372,16 +1387,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/VwoSBjPa/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20221230/bRjq7Hoy/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-204"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-051"
   },
   {
-    "id": 578071,
-    "IDcode": "230ORECO-205",
-    "title": "ひまりさん",
+    "id": 347860,
+    "IDcode": "277DCV-054",
+    "title": "ドキュメンTV×PRESTIGE PREMIUM 家まで送ってイイですか？ 54 ①爱娇抜",
     "year": "",
     "country": "",
     "genre": "",
@@ -1389,16 +1404,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/zp327aNI/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230814/75zy2CCj/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-205"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-054"
   },
   {
-    "id": 578075,
-    "IDcode": "230ORECO-206",
-    "title": "ひかるさん",
+    "id": 537624,
+    "IDcode": "277DCV-056",
+    "title": "家まで送ってイイですか？ case.56 ‘私、いろんなSEXがしてみたいんです！！お愿いだからイカせて下さい！！’",
     "year": "",
     "country": "",
     "genre": "",
@@ -1406,16 +1421,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250521/MhyNvy6M/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231108/pb_e_277dcv-056.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-206"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-056"
   },
   {
-    "id": 578073,
-    "IDcode": "230ORECO-207",
-    "title": "HINA",
+    "id": 537642,
+    "IDcode": "277DCV-058",
+    "title": "家まで送ってイイですか？ case.58 黄金比ボディを持つバツイチGカップ公务员",
     "year": "",
     "country": "",
     "genre": "",
@@ -1423,16 +1438,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250521/u6T3UMrV/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231109/pb_e_277dcv-058.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-207"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-058"
   },
   {
-    "id": 578076,
-    "IDcode": "230ORECO-208",
-    "title": "Iちゃん3",
+    "id": 537641,
+    "IDcode": "277DCV-061",
+    "title": "家まで送ってイイですか？ case.61 THE・波乱万丈！経験人数1018人のポジティブヤリマンは出会い系に感谢する。",
     "year": "",
     "country": "",
     "genre": "",
@@ -1440,16 +1455,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250521/xaJ4J9DO/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231109/pb_e_277dcv-061.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-208"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-061"
   },
   {
-    "id": 578077,
-    "IDcode": "230ORECO-209",
-    "title": "Tちゃん3",
+    "id": 537640,
+    "IDcode": "277DCV-062",
+    "title": "家まで送ってイイですか？ case.62 生涯黒ギャル宣言！！アルコールの血が流れる黒ギャルは男胜りの性欲",
     "year": "",
     "country": "",
     "genre": "",
@@ -1457,16 +1472,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250521/CqOWMukB/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231109/pb_e_277dcv-062.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-209"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-062"
   },
   {
-    "id": 576158,
-    "IDcode": "230ORECO-210",
-    "title": "Mちゃん2 (渚みつき)",
+    "id": 537602,
+    "IDcode": "277DCV-071",
+    "title": "家まで送ってイイですか？ case.71 春高バレー出身！ドM九州代表！ムッツリ高身长女は",
     "year": "",
     "country": "",
     "genre": "",
@@ -1474,33 +1489,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230714/pb_e_230oreco-210.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231106/pb_e_277dcv-071.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-210"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-071"
   },
   {
-    "id": 578072,
-    "IDcode": "230ORECO-212",
-    "title": "ちはるちゃん",
+    "id": 537601,
+    "IDcode": "277DCV-074",
+    "title": "家まで送ってイイですか？ case.74 北九州の変态アウトロー！！チ○コ好きEカップ美巨乳娘の乳首は24时间ボッキ中！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221216/LHdbnZQX/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231106/pb_e_277dcv-074.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-212"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-074"
   },
   {
-    "id": 578074,
-    "IDcode": "230ORECO-213",
-    "title": "ゆの＆ちはる",
+    "id": 537600,
+    "IDcode": "277DCV-075",
+    "title": "家まで送ってイイですか？ case.75 地上最强の性欲-400人喰い-饥える超肉食系セレブ⇒现在贮金で生活-休息中の暇人",
     "year": "",
     "country": "",
     "genre": "",
@@ -1508,16 +1524,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221224/YarUvoRk/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231106/pb_e_277dcv-075.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-213"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-075"
   },
   {
-    "id": 578078,
-    "IDcode": "230ORECO-214",
-    "title": "えなちゃん",
+    "id": 537575,
+    "IDcode": "277DCV-093",
+    "title": "家まで送ってイイですか？ case.93 榉●46长●ねる似の愈し系清楚美女！美颜・美肌・美脚のトリプルビューティー！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1525,16 +1541,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221212/Xg5OUfWT/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-093.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-214"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-093"
   },
   {
-    "id": 578079,
-    "IDcode": "230ORECO-215",
-    "title": "ののちゃん",
+    "id": 537574,
+    "IDcode": "277DCV-096",
+    "title": "家まで送ってイイですか？ case.96 超エリート才色兼备！博士を目指す研究员登场！⇒“私毎日男に饥えてるんです！”",
     "year": "",
     "country": "",
     "genre": "",
@@ -1542,16 +1558,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221214/FjEaJS2n/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-096.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-215"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-096"
   },
   {
-    "id": 578080,
-    "IDcode": "230ORECO-216",
-    "title": "ゆあちゃん",
+    "id": 537573,
+    "IDcode": "277DCV-098",
+    "title": "家まで送ってイイですか？ case.98 饮み会で鼠径部(そけいぶ)を刺激！男を落とす性悪メソッド！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1559,16 +1575,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20221218/29N0OT98/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-098.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-216"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-098"
   },
   {
-    "id": 578081,
-    "IDcode": "230ORECO-217",
-    "title": "れいちゃん",
+    "id": 537572,
+    "IDcode": "277DCV-102",
+    "title": "家まで送ってイイですか？ case.102 下乳の女神！アイドル目指すGカップはイケばイクほど辉く！⇒镜の前で20年",
     "year": "",
     "country": "",
     "genre": "",
@@ -1576,16 +1592,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250522/s8tbQZYx/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-102.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-217"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-102"
   },
   {
-    "id": 578082,
-    "IDcode": "230ORECO-218",
-    "title": "はなちゃん＆ほのかちゃん",
+    "id": 537571,
+    "IDcode": "277DCV-106",
+    "title": "家まで送ってイイですか？ case.106 チ〇コに狂った栃木のドM！自己犠牲がキモチいい究极の“尽くす女",
     "year": "",
     "country": "",
     "genre": "",
@@ -1593,16 +1609,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230107/SVKWRjiS/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-106.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-218"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-106"
   },
   {
-    "id": 532598,
-    "IDcode": "230ORECO-219",
-    "title": "ありすちゃん&はずきちゃん (若宫はずき)",
+    "id": 537570,
+    "IDcode": "277DCV-107",
+    "title": "家まで送ってイイですか？ case.107 现役アイドル(研究生)はオナニードランカー＠肉棒大好きアイドル。",
     "year": "",
     "country": "",
     "genre": "",
@@ -1610,16 +1626,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230420/pb_e_230oreco-219.jpg!320x216.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-107.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-219"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-107"
   },
   {
-    "id": 578083,
-    "IDcode": "230ORECO-220",
-    "title": "水河",
+    "id": 537569,
+    "IDcode": "277DCV-108",
+    "title": "家まで送ってイイですか？ case.108 ‘私より可爱い女はいない！’颜面パーフェクト保育士はイケばイクほど美しい！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1627,16 +1643,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250522/Dy6TRYfh/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231101/pb_e_277dcv-108.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-220"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-108"
   },
   {
-    "id": 578085,
-    "IDcode": "230ORECO-221",
-    "title": "笹原",
+    "id": 537494,
+    "IDcode": "277DCV-129",
+    "title": "家まで送ってイイですか？ case.129 露出プレイ、ハードSMなんでも来いや～！ド変态ヘルパー登场！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1644,16 +1660,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250522/oXZoLcOd/1.jpg",
+    "cover_url": "http://15.155250922.com/upload/vod/20231024/pb_e_277dcv-129.jpg!320x216.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-221"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-129"
   },
   {
-    "id": 578086,
-    "IDcode": "230ORECO-222",
-    "title": "望月",
+    "id": 521577,
+    "IDcode": "277DCV-133",
+    "title": "エステティシャン(ヘッドスパ勤务) 树里さん 22歳 家まで送ってイイですか？ case.133",
     "year": "",
     "country": "",
     "genre": "",
@@ -1661,33 +1677,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230109/BwbWPOhp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-222"
-  },
-  {
-    "id": 532610,
-    "IDcode": "230ORECO-223",
-    "title": "槙野 (牧野みおな)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "2023-01-08",
-    "cover_url": "http://15.155250922.com/upload/vod/20230429/pb_e_230oreco-223.jpg!320x216.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/869e75afe2deb2b3fd493c58e232ca09.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-223"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-133"
   },
   {
-    "id": 532626,
-    "IDcode": "230ORECO-224",
-    "title": "えみりさん (EMILY)",
+    "id": 82714,
+    "IDcode": "277DCV-134",
+    "title": "家まで送ってイイですか？ case.134 全身ラバースーツ！淫乱リアル不○子ちゃん！1000のディルドを持つ&quot;人間秘宝館&quot;膣内ムッキムキ！締まりにコミットする膣内トレーニング自ら編み出した秘技…大量セルフ潮吹き絶叫！うなる電動マシンバイブ愛する家族…傷だらけの義父に感謝の涙",
     "year": "",
     "country": "",
     "genre": "",
@@ -1695,10 +1694,10 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230512/pb_e_230oreco-224.jpg!320x216.jpg",
+    "company": "",
+    "publish_date": "2023-03-06",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/d536cf709b5795a86855f40a1b5b062b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORECO-224"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-134"
   }
 ];

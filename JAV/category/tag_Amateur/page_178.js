@@ -1,25 +1,27 @@
 window.PAGE_DATA = [
   {
-    "id": 575036,
-    "IDcode": "739PPBY-010",
-    "title": "みっちゃん",
+    "id": 574987,
+    "IDcode": "DHT-0696",
+    "title": "潮！潮！潮！欲求不満の巨乳人妻をイカす！！吹かす！！中に出す。きっと満足。これは社会贡献です。",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "人妻",
+      "素人",
+      "巨乳"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/StdmjEYD/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250904/rNAvZNPR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PPBY-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0696"
   },
   {
-    "id": 575039,
-    "IDcode": "739PPBY-011",
-    "title": "ハナ",
+    "id": 574988,
+    "IDcode": "DHT-0697",
+    "title": "潮！潮！潮！清楚なセレブ奥様の麻衣子さんは超刚毛！ギャップ萌え！潮と精子でびしょ濡れです。",
     "year": "",
     "country": "",
     "genre": "",
@@ -27,33 +29,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/TMpdFYOS/1.jpg",
+    "cover_url": "https://sex8sex811.com/20250904/O7lpMtv1/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PPBY-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0697"
   },
   {
-    "id": 533090,
-    "IDcode": "739PSTL-001",
-    "title": "本田さん (本田瞳)",
+    "id": 543479,
+    "IDcode": "DHT-0698",
+    "title": "Kカップ爆乳パイズリのファーストクラス奥様 しおりさん28歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240228/pb_e_739pstl-001.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250414/0JizY5Ox/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0698"
   },
   {
-    "id": 575040,
-    "IDcode": "739PSTL-005",
-    "title": "かな",
+    "id": 543480,
+    "IDcode": "DHT-0699",
+    "title": "目が大きく聡明でとっても可爱いがなんとパイパンでモリマンのファーストクラス奥様 ちはるさん27歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -61,16 +64,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/oPiFEqmS/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250414/4jYUcYO8/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0699"
   },
   {
-    "id": 575038,
-    "IDcode": "739PSTL-006",
-    "title": "山下さん",
+    "id": 543486,
+    "IDcode": "DHT-0706",
+    "title": "感じている可爱らしい表情と中年のカラダ付きのギャップがエロい！セレブおば様 りなさん52歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -78,16 +81,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/slpae0Op/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250414/KPyzuGuj/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0706"
   },
   {
-    "id": 575041,
-    "IDcode": "739PSTL-007",
-    "title": "田中さん",
+    "id": 543488,
+    "IDcode": "DHT-0707",
+    "title": "耳をすませばシリーズ最高峰の潮吹きの音が何度も！スレンダー美熟女 みうさん44歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -95,16 +98,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/Zm6VY3Xk/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/S3UKUKtb/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0707"
   },
   {
-    "id": 575042,
-    "IDcode": "739PSTL-008",
-    "title": "吉田さん",
+    "id": 543490,
+    "IDcode": "DHT-0708",
+    "title": "长年のセックスレス熟女と若い男性との浓密浓厚不伦！肉感溢れるおば様 ゆかりさん51歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -112,16 +115,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/ZFrASf8G/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/nyRyYBod/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0708"
   },
   {
-    "id": 479330,
-    "IDcode": "739PSTL-009",
-    "title": "木下さん",
+    "id": 543489,
+    "IDcode": "DHT-0761",
+    "title": "浮気相手と别れてから2年ぶりのセックスで30イキ！敏感な超デカロング乳首熟女 あさひさん44歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -129,16 +132,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/9fbfbc26d91eee4d6946430e5ac71caa.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/tSQVFkO3/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0761"
   },
   {
-    "id": 520517,
-    "IDcode": "739PSTL-010",
-    "title": "佐藤さん",
+    "id": 543498,
+    "IDcode": "DHT-0796",
+    "title": "阴毛まる出し透けパンティで诱う若ママに膣内射精 爱さん29歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -146,33 +149,35 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230817-1/0d275f661b2e88e7a885113f0ea0c601.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250416/UKUA7me1/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0796"
   },
   {
-    "id": 575026,
-    "IDcode": "739PSTL-011",
-    "title": "佐藤さん",
+    "id": 543501,
+    "IDcode": "DHT-0797",
+    "title": "オナニーは周に5回の三十路巨乳妻に中出し わかこさん34歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "少妇",
+      "巨乳"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/4qABmXxd/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250416/koDBAvAz/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0797"
   },
   {
-    "id": 479331,
-    "IDcode": "739PSTL-012",
-    "title": "山上さん",
+    "id": 543481,
+    "IDcode": "DHT-0798",
+    "title": "终始激しいピストンに絶顶を缲り返す！清楚な美白肌奥様 ゆりかさん30歳 絶顶45回",
     "year": "",
     "country": "",
     "genre": "",
@@ -180,33 +185,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/2699d4fc773c80ebaa7425c1bf8a6595.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250414/FM0rt8AG/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0798"
   },
   {
-    "id": 575028,
-    "IDcode": "739PSTL-013",
-    "title": "佐野さん",
+    "id": 543483,
+    "IDcode": "DHT-0807",
+    "title": "激カワ人妻に见つめられながらセックス！ファーストクラス奥様 なるみさん27歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/bzqJZG8D/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250414/7dwbPuVs/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0807"
   },
   {
-    "id": 575027,
-    "IDcode": "739PSTL-014",
-    "title": "川上さん",
+    "id": 543482,
+    "IDcode": "DHT-0808",
+    "title": "パイズリでも逝っちゃう敏感ボディから大量の潮浮き！敏感Hカップ奥様 えなさん26歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -214,84 +220,89 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/YN1Jsti3/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250414/T647uZ06/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0808"
   },
   {
-    "id": 575031,
-    "IDcode": "739PSTL-015",
-    "title": "田中さん",
+    "id": 542672,
+    "IDcode": "DHT-0809",
+    "title": "熟妻OL二人组を温泉宿でW生ハメ×中出し さやかさん 恵さん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/ZWOSzpzA/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241218/hDh5QSua/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0809"
   },
   {
-    "id": 575033,
-    "IDcode": "739PSTL-016",
-    "title": "吉田さん",
+    "id": 542674,
+    "IDcode": "DHT-0810",
+    "title": "伊○保温泉で捕获した人妻ふたり组にW中出し しおりさん 麻美さん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "熟女",
+      "素人",
+      "人妻"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/UskvdNvr/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241218/9P4JAbrR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0810"
   },
   {
-    "id": 575030,
-    "IDcode": "739PSTL-018",
-    "title": "新田さん",
+    "id": 542675,
+    "IDcode": "DHT-0811",
+    "title": "温泉街でナンパした独身四十路熟女に生中出し 晴美さん42歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/uNWUf7LB/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241218/fbxf7CZ6/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-018"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0811"
   },
   {
-    "id": 575029,
-    "IDcode": "739PSTL-019",
-    "title": "松田さん",
+    "id": 542671,
+    "IDcode": "DHT-0812",
+    "title": "シロウト四十路妻が友达の目の前で羞耻の生中挿入！ さっちゃん41歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/6Isysyhr/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241218/LfOVTI6e/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-019"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0812"
   },
   {
-    "id": 575032,
-    "IDcode": "739PSTL-020",
-    "title": "田中さん",
+    "id": 543500,
+    "IDcode": "DHT-0813",
+    "title": "泥●×爆●中のお姊さんをホテルに连れ込み生中出し さゆりさん27歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -299,16 +310,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250828/JmBlI0J9/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250416/KV8La1VE/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-020"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0813"
   },
   {
-    "id": 540455,
-    "IDcode": "739PSTL-021",
-    "title": "篠田",
+    "id": 543504,
+    "IDcode": "DHT-0814",
+    "title": "兴味本位で参加したヤリコンで三十路レス妻が轮奸×中出し二连発 亜希さん30歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -316,33 +327,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250830/zJTspKHa/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250416/gyDtXCMk/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-021"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0814"
   },
   {
-    "id": 540456,
-    "IDcode": "739PSTL-022",
-    "title": "山田",
+    "id": 543496,
+    "IDcode": "DHT-0816",
+    "title": "日常生活を忘れレス15年の性欲を开放した本性剥き出しの情交！ Fカップ巨乳熟女ゆきえさん53歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "巨乳"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250830/BLoDkWd9/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/sVLGSsep/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-022"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0816"
   },
   {
-    "id": 511065,
-    "IDcode": "739PSTL-023",
-    "title": "佐藤",
+    "id": 543492,
+    "IDcode": "DHT-0817",
+    "title": "喘ぎ声も感じ方もエロ可爱い极上奥様を寝取られ物语！ 色白柔肌セレブ美熟女ともかさん42歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -350,271 +362,289 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/1543b687e1539c0db69bccd9e323d351.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/Qxykc1wc/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-023"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0817"
   },
   {
-    "id": 540457,
-    "IDcode": "739PSTL-024",
-    "title": "松本",
+    "id": 541361,
+    "IDcode": "DHT-0818",
+    "title": "本当は待っていた！？断りきれない人妻のメンズエステ ①",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250830/Ii65QvKU/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231112/cdjwRRLe/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-024"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0818"
   },
   {
-    "id": 511055,
-    "IDcode": "739PSTL-025",
-    "title": "小山",
+    "id": 541362,
+    "IDcode": "DHT-0819",
+    "title": "本当は待っていた！？断りきれない人妻のメンズエステ ②",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/5d57fdd56c1161aa66a7e04ae737dd11.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231112/vE4HtCnY/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739PSTL-025"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0819"
   },
   {
-    "id": 517190,
-    "IDcode": "739SPKO-001",
-    "title": "素人畫廊 美咲",
+    "id": 532139,
+    "IDcode": "DHT-0820",
+    "title": "欲拒还迎的人妻按摩实录：密室中彻底沦陷的快感沉沦",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2ca9f5f13d063bcde9e7a/cover.jpg",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250508-1/a36c5b24e3a7ab7f4f7752be37beff6b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SPKO-001"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0820"
   },
   {
-    "id": 517191,
-    "IDcode": "739SPKO-002",
-    "title": "素人畫廊 真奈美",
+    "id": 541478,
+    "IDcode": "DHT-0821",
+    "title": "本当は待っていた！？断りきれない人妻のメンズエステ④",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2ccb35f13d063bcdeb90e/cover.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240210/rFBvMeZ0/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SPKO-002"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0821"
   },
   {
-    "id": 540458,
-    "IDcode": "739SRAZ-004",
-    "title": "かれん",
+    "id": 541265,
+    "IDcode": "DHT-0822",
+    "title": "母娘缭乱！熟々な母亲とピチピチな娘さんではどっちが好み？赘沢に亲子丼もご用意できますが！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱伦",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250830/n7Q4BNCO/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230917/pMhShMlR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0822"
   },
   {
-    "id": 520445,
-    "IDcode": "739SRAZ-005",
-    "title": "そら",
+    "id": 541266,
+    "IDcode": "DHT-0823",
+    "title": "母娘缭乱！熟々な母亲とピチピチな娘さんではどっちが好み？赘沢に亲子丼もご用意できますが！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "乱伦",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230624-1/aaffaaa39e112b4f745a12575a172444.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230917/9rMkdxes/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0823"
   },
   {
-    "id": 540460,
-    "IDcode": "739SRAZ-006",
-    "title": "ナナ",
+    "id": 541267,
+    "IDcode": "DHT-0824",
+    "title": "“初めてもらっちゃうよ”绮丽なお姊さんが优しく笔おろし…から一変！媚●でド淫乱化して激し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250830/5eFIIqXf/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230917/impbXuND/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-006"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0824"
   },
   {
-    "id": 520548,
-    "IDcode": "739SRAZ-007",
-    "title": "ミキ",
+    "id": 541268,
+    "IDcode": "DHT-0825",
+    "title": "“初めてもらっちゃうよ”绮丽なお姊さんが优しく笔おろし…から一変！媚●でド淫乱化して激し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20231102-3/8f0662f847d7a9b92cca161f9f55d293.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230917/EwfeGpNU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0825"
   },
   {
-    "id": 540461,
-    "IDcode": "739SRAZ-008",
-    "title": "かりん",
+    "id": 541269,
+    "IDcode": "DHT-0826",
+    "title": "シロウトさんに素股のお愿い！感じてきたところに一撃！ズボッと入れちゃいました！！ Spe",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250830/fIXVmTcI/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230919/Q7dIbzaG/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0826"
   },
   {
-    "id": 540462,
-    "IDcode": "739SRAZ-009",
-    "title": "みさき",
+    "id": 541270,
+    "IDcode": "DHT-0827",
+    "title": "シロウトさんに素股のお愿い！感じてきたところに一撃！ズボッと入れちゃいました！！ Spe",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250830/Kv0B3CSo/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230919/nMeFK4AM/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0827"
   },
   {
-    "id": 575007,
-    "IDcode": "739SRAZ-010",
-    "title": "かな",
+    "id": 575903,
+    "IDcode": "DHT-0828",
+    "title": "寝取られ妻 奥さん、その素敌なカラダでおもいっきり楽しみましょうよ！！厳选 01",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/b4gwkfD4/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230919/1DrRqZc9/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0828"
   },
   {
-    "id": 575009,
-    "IDcode": "739SRAZ-011",
-    "title": "あい",
+    "id": 575904,
+    "IDcode": "DHT-0829",
+    "title": "寝取られ妻 奥さん、その素敌なカラダでおもいっきり楽しみましょうよ！！厳选 02",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/EUc3Hf9u/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20230919/8SfzbGBG/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0829"
   },
   {
-    "id": 575008,
-    "IDcode": "739SRAZ-012",
-    "title": "サキ",
+    "id": 542673,
+    "IDcode": "DHT-0830",
+    "title": "伤心の四十路熟女を慰める中出し温泉露出● ななさん43歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/x7pClLBn/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241218/WaAHttYo/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739SRAZ-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0830"
   },
   {
-    "id": 575010,
-    "IDcode": "739TOBP-005",
-    "title": "きょうこ",
+    "id": 542676,
+    "IDcode": "DHT-0831",
+    "title": "呑みすぎ四十路熟女が●い覚しのザーメン痛饮＆温泉宿で中出し● いくよさん41歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/PV77Iafc/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241219/gwbdePKD/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-005"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0831"
   },
   {
-    "id": 575011,
-    "IDcode": "739TOBP-007",
-    "title": "さゆり",
+    "id": 542677,
+    "IDcode": "DHT-0832",
+    "title": "スレンダー×Gカップ巨乳の四十路熟女に生中出し 三岛さん49歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "熟女",
+      "素人",
+      "巨乳"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/KKpxNOtH/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241219/iRHsUrWU/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0832"
   },
   {
-    "id": 575012,
-    "IDcode": "739TOBP-008",
-    "title": "やまと",
+    "id": 543502,
+    "IDcode": "DHT-0833",
+    "title": "三十路间近の清楚奥様をふたりがかりで弄ぶ潮吹き×生中出し3P はるかさん29歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -622,33 +652,34 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/zQuRDraz/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250416/NDVPCHLv/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0833"
   },
   {
-    "id": 479336,
-    "IDcode": "739TOBP-009",
-    "title": "みか",
+    "id": 543505,
+    "IDcode": "DHT-0834",
+    "title": "ヤリコン参加で発情しちゃったご无沙汰な人妻に串刺し3P连続中出し 香奈さん28歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/dc034f5843d3646020fb8ae16d942814.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250416/PJoE4DFA/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0834"
   },
   {
-    "id": 575013,
-    "IDcode": "739TOBP-010",
-    "title": "まい",
+    "id": 543493,
+    "IDcode": "DHT-0835",
+    "title": "目は虚ろ、喘ぎは泣き声、カラダ全身で感じる快感！Gカップ肉感ボディ熟女 ゆいかさん41歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -656,118 +687,124 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/6iw4zoNt/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/4FHtT6T2/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0835"
   },
   {
-    "id": 575015,
-    "IDcode": "739TOBP-011",
-    "title": "れな",
+    "id": 541383,
+    "IDcode": "DHT-0838",
+    "title": "【血がつながってないんだから(エッチ)しても大丈夫だよね】お义母さんが教えてあげる！【引",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/iR0q2ONM/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231119/I4kbBPNv/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0838"
   },
   {
-    "id": 575014,
-    "IDcode": "739TOBP-012",
-    "title": "ミサ",
+    "id": 450372,
+    "IDcode": "DHT-0839",
+    "title": "【本当のお母さんじゃないからいいじゃん】そんなに恥ずかしがらないで！【引きこもりの冒",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250831/HAYDDiLp/1.jpg",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250507-1/09d19a1f5dc0d0f75cb98af070216357.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0839"
   },
   {
-    "id": 540446,
-    "IDcode": "739TOBP-013",
-    "title": "サキ",
+    "id": 541385,
+    "IDcode": "DHT-0840",
+    "title": "【お义母さんと(エッチなこと)してみるの？どぉかな？】あたしたち血がつながってないから出",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250901/Zb7dwtKa/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231119/G5aTUhFo/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-013"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0840"
   },
   {
-    "id": 540447,
-    "IDcode": "739TOBP-014",
-    "title": "マリ",
+    "id": 541386,
+    "IDcode": "DHT-0841",
+    "title": "【お义母さんだって(セックス)するのは●しいと思ったけど】自身つけさせたいの！【引きこも",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250901/sosSOx0A/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231119/fUTIVaYI/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0841"
   },
   {
-    "id": 540448,
-    "IDcode": "739TOBP-015",
-    "title": "まり",
+    "id": 541387,
+    "IDcode": "DHT-0846",
+    "title": "取り合い！喰い合い！熟女合コンNEO 饮んで！騒いで！ヤリまくる！これが大人の饮み会だ！！ 04",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250901/u0eSdXY1/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231120/wqGkQ4o8/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0846"
   },
   {
-    "id": 540449,
-    "IDcode": "739TOBP-016",
-    "title": "ミキ",
+    "id": 541391,
+    "IDcode": "DHT-0848",
+    "title": "【配信限定】わけありおばちゃんのAV面接 3 “来る所间违ってないですか？”やって来たの",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
+      "素人",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250901/rdzipAT9/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231120/PaDeNVui/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-016"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0848"
   },
   {
-    "id": 103666,
-    "IDcode": "739TOBP-017",
-    "title": "ミサキ",
+    "id": 543494,
+    "IDcode": "DHT-0851",
+    "title": "连続イキする成城セレブ奥さまとの秘め事！ゆるふわ美人熟女 かのかさん42歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -775,16 +812,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/3e9ca2c2d811707ccab5b4df7be512a2.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/pJSyUIhQ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-017"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0851"
   },
   {
-    "id": 101531,
-    "IDcode": "739TOBP-018",
-    "title": "アンナ",
+    "id": 543491,
+    "IDcode": "DHT-0852",
+    "title": "仲良しだから洋服もチ○ポもシェアする母娘！【松田家の秘め事(ゆみ，46歳＆れんか，23歳)】",
     "year": "",
     "country": "",
     "genre": "",
@@ -792,33 +829,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-018"
-  },
-  {
-    "id": 540452,
-    "IDcode": "739TOBP-019",
-    "title": "ミズキ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250901/mnXyTmUZ/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/EHZC9aPG/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-019"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0852"
   },
   {
-    "id": 540451,
-    "IDcode": "739TOBP-020",
-    "title": "しずく",
+    "id": 543497,
+    "IDcode": "DHT-0853",
+    "title": "お酒好きな母娘！ビール党の母はやっぱりナマが好き！【青木家の秘め事(すずか，48歳＆みお",
     "year": "",
     "country": "",
     "genre": "",
@@ -826,16 +846,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250901/E5MyO1cS/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/wJDFvgDx/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739TOBP-020"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0853"
   },
   {
-    "id": 517079,
-    "IDcode": "739WFRN-004",
-    "title": "素人畫廊 美嘉",
+    "id": 543495,
+    "IDcode": "DHT-0854",
+    "title": "何でも话す隠し事がないから一绪に逝く母娘！【深田家の秘め事(さとみ，50歳＆さとり，28歳】",
     "year": "",
     "country": "",
     "genre": "",
@@ -843,16 +863,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/03/6907ad9de264e6282dfd0157/poster2.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250415/XXhu7eoP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=739WFRN-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0854"
   },
   {
-    "id": 576248,
-    "IDcode": "740YMTK-004",
-    "title": "さゆり38歳 02 (彩瀬自由里)",
+    "id": 543487,
+    "IDcode": "DHT-0855",
+    "title": "抱き心地満点ボディで快楽を贪欲に求め大量お漏らし！Gカップ＆巨尻のお嬢様系奥様ゆかりさん28歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -860,16 +880,196 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230926/pb_e_740ymtk-004.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250414/uYWAkj9T/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-004"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0855"
   },
   {
-    "id": 540453,
-    "IDcode": "740YMTK-007",
-    "title": "ももこ33歳 01",
+    "id": 543484,
+    "IDcode": "DHT-0856",
+    "title": "抱き心地満点のエロボディで敏感ボディ！スタイル抜群巨乳エロ奥様 まいなさん28歳 絶顶38回",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250414/b0KiY8ws/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0856"
+  },
+  {
+    "id": 542678,
+    "IDcode": "DHT-0860",
+    "title": "ハメ撮り面接 松本裕里(四十三歳)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241219/sqdIIJh7/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0860"
+  },
+  {
+    "id": 445876,
+    "IDcode": "DHT-0861",
+    "title": "ハメ撮り面接 相原涼子(四十五歳)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/9bdc3c5dbaa0b836c0829af6d283b748.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0861"
+  },
+  {
+    "id": 542679,
+    "IDcode": "DHT-0862",
+    "title": "ハメ撮り面接 冬木さおり(四十九歳)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241219/HPeTig5x/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0862"
+  },
+  {
+    "id": 541388,
+    "IDcode": "DHT-0869",
+    "title": "极美味熟女ナンパ 肉汁溢れる完熟BODY Best 9 7名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231120/N0XfPo9L/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0869"
+  },
+  {
+    "id": 541389,
+    "IDcode": "DHT-0870",
+    "title": "极美味熟女ナンパ 肉汁溢れる完熟BODY Best 10 8名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231120/Kr10BRNe/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0870"
+  },
+  {
+    "id": 541390,
+    "IDcode": "DHT-0871",
+    "title": "出张マッサージのおばちゃんイカセ 勃起チ●コを武器に强引に迫って逝かす！厳选セレクト 01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231120/PsgtmvIG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0871"
+  },
+  {
+    "id": 541392,
+    "IDcode": "DHT-0872",
+    "title": "出张マッサージのおばちゃんイカセ 勃起チ●コを武器に强引に迫って逝かす！厳选セレクト 02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231121/z6qO6A3u/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0872"
+  },
+  {
+    "id": 541393,
+    "IDcode": "DHT-0873",
+    "title": "友达の前でガチエッチ！！ 亲友の目の前で闷絶＆絶顶イキまくり！！ Special.01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231121/zMWOZ8Ym/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0873"
+  },
+  {
+    "id": 541394,
+    "IDcode": "DHT-0874",
+    "title": "友达の前でガチエッチ！！ 亲友の目の前で闷絶＆絶顶イキまくり！！ Special.02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231121/oLdgOC4z/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0874"
+  },
+  {
+    "id": 541480,
+    "IDcode": "DHT-0875",
+    "title": "セレブな美人奥様ナンパ中出し #11 さいこさん Gカップ",
     "year": "",
     "country": "",
     "genre": "",
@@ -877,16 +1077,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250901/I2uRqqFi/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240210/2aZ4gZGX/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-007"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0875"
   },
   {
-    "id": 576304,
-    "IDcode": "740YMTK-008",
-    "title": "ももこ33歳 02",
+    "id": 541479,
+    "IDcode": "DHT-0876",
+    "title": "セレブな美人奥様ナンパ中出し #12 ゆうさん Fカップ",
     "year": "",
     "country": "",
     "genre": "",
@@ -894,16 +1094,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231109/pb_e_740ymtk-008.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240210/Ib3TRl2P/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-008"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0876"
   },
   {
-    "id": 540436,
-    "IDcode": "740YMTK-009",
-    "title": "仲间さん 01",
+    "id": 543503,
+    "IDcode": "DHT-0877",
+    "title": "パート志愿の奥様が夫を里切る理性崩壊×ナマ挿入 かほさん 32歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -911,16 +1111,16 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250902/WNOTRS9Y/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250416/H6kLQQ62/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-009"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0877"
   },
   {
-    "id": 540434,
-    "IDcode": "740YMTK-010",
-    "title": "仲间さん 02",
+    "id": 450342,
+    "IDcode": "DHT-0878",
+    "title": "旦那様と上手くイカない三十路のOL妻に生挿入×顔射 のぞみさん 30歳",
     "year": "",
     "country": "",
     "genre": "",
@@ -928,16 +1128,110 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250902/IW1whJkW/1.jpg",
+    "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250510-1/f425eb65053e53f8841055337b470b27.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-010"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0878"
   },
   {
-    "id": 540439,
-    "IDcode": "740YMTK-011",
-    "title": "铃木さん宅 01",
+    "id": 541397,
+    "IDcode": "DHT-0879",
+    "title": "【私も濡れてきちゃったかも···】责任とってくれる？【出会い系で出会った美女が自分の彼女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231206/GyeIDbUr/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0879"
+  },
+  {
+    "id": 541399,
+    "IDcode": "DHT-0880",
+    "title": "【何でビンビンなの？】勃起チ○ポを弄ぶ手惯れた手グセが凄い！【出会い系で出会った美女が自",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231206/GIOVxpkx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0880"
+  },
+  {
+    "id": 541398,
+    "IDcode": "DHT-0881",
+    "title": "【お愿い！先っちょだけでいいから！】チョー积极的に身体中を爱抚してくる！【出会い系で出会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231206/5Vl1ihmR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0881"
+  },
+  {
+    "id": 541395,
+    "IDcode": "DHT-0882",
+    "title": "“あなた见ないで！！”他人棒でイキまくった生性交狂いのNTR美人妻 vol.1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231121/MjYjJtwB/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0882"
+  },
+  {
+    "id": 541396,
+    "IDcode": "DHT-0883",
+    "title": "“あなた见ないで！！”他人棒でイキまくった生性交狂いのNTR美人妻 vol.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231121/i041w3zf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0883"
+  },
+  {
+    "id": 541482,
+    "IDcode": "DHT-0891",
+    "title": "セレブな美人奥様ナンパ中出し #13 りくさん Bカップ",
     "year": "",
     "country": "",
     "genre": "",
@@ -945,16 +1239,53 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250902/zshHY9Sw/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240210/B17EPkNK/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-011"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0891"
   },
   {
-    "id": 540435,
-    "IDcode": "740YMTK-012",
-    "title": "铃木さん宅 02",
+    "id": 541481,
+    "IDcode": "DHT-0892",
+    "title": "【リモバイ饵食！！！】街イク人妻をGET！ドM妻に激ピス生中大量射精！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240210/l3AVNjJK/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0892"
+  },
+  {
+    "id": 541484,
+    "IDcode": "DHT-0893",
+    "title": "【リモバイ饵食！！！】街イク人妻をゲット！！性交偏差値高めの巨乳妻に他人棒を挿入！大量射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240210/ZX9MuKWh/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0893"
+  },
+  {
+    "id": 541483,
+    "IDcode": "DHT-0896",
+    "title": "セレブな美人奥様ナンパ中出し #14 りんさん Hカップ",
     "year": "",
     "country": "",
     "genre": "",
@@ -962,745 +1293,500 @@ window.PAGE_DATA = [
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250902/5SpNUg5u/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240210/lKSM0qXl/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-012"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0896"
   },
   {
-    "id": 540437,
-    "IDcode": "740YMTK-014",
-    "title": "りょう 43歳 02",
+    "id": 542680,
+    "IDcode": "DHT-0897",
+    "title": "ハメ撮り面接 森田真纪(四十歳)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250902/c3qY4ve9/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241220/2bJBex1l/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-014"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0897"
   },
   {
-    "id": 540441,
-    "IDcode": "740YMTK-015",
-    "title": "高桥 39歳 01",
+    "id": 542681,
+    "IDcode": "DHT-0898",
+    "title": "ハメ撮り面接 秋岛香织(四十ニ歳)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250902/Mb7axaRb/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241220/j2XAhdL6/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-015"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0898"
   },
   {
-    "id": 540440,
-    "IDcode": "740YMTK-017",
-    "title": "とうこ 30代 01",
+    "id": 542683,
+    "IDcode": "DHT-0899",
+    "title": "ハメ撮り面接 柚木あかね(三十八歳)",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250902/yah9bAvA/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241220/cMHiGXHY/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-017"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0899"
   },
   {
-    "id": 574998,
-    "IDcode": "740YMTK-021",
-    "title": "実父と近亲 01",
+    "id": 542682,
+    "IDcode": "DHT-0900",
+    "title": "完堕ち！魅惑のエロ美熟女！！ 激ピス仰け反り逝き狂い！！美希さん41歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250903/ozCAOUSu/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241220/4FTIOOB6/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-021"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0900"
   },
   {
-    "id": 574997,
-    "IDcode": "740YMTK-022",
-    "title": "実父と近亲 02",
+    "id": 542684,
+    "IDcode": "DHT-0901",
+    "title": "义理の息子を诱惑する淫乱母！！ 榨精熟女の生中性交！！美织さん45歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "熟女",
       "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250903/raeaAkhN/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241220/xGjLpOdT/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-022"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0901"
   },
   {
-    "id": 575002,
-    "IDcode": "740YMTK-023",
-    "title": "Gさん28歳 01",
+    "id": 542685,
+    "IDcode": "DHT-0902",
+    "title": "汁まみれ痉挛逝き！！ 肉棒おねだり挿入性交！！あやねさん36歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250903/XaowpRux/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-023"
-  },
-  {
-    "id": 574999,
-    "IDcode": "740YMTK-024",
-    "title": "Gさん28歳 02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250903/ySTMVWD6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-024"
-  },
-  {
-    "id": 575000,
-    "IDcode": "740YMTK-025",
-    "title": "まさみ35歳 01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
+      "熟女",
       "素人",
       "少妇"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250903/5o3tdOGf/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20241220/9ZjoSUVm/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-025"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0902"
   },
   {
-    "id": 576495,
-    "IDcode": "740YMTK-026",
-    "title": "まさみ35歳 02",
+    "id": 541400,
+    "IDcode": "DHT-0906",
+    "title": "【配信限定】わけありおばちゃんのAV面接 4 “来る所间违ってないですか？”やって来たの",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "少妇"
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240106/pb_e_740ymtk-026.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231206/JJxTiYFu/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-026"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0906"
   },
   {
-    "id": 575001,
-    "IDcode": "740YMTK-027",
-    "title": "みや子60歳 01",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250903/nnQjAM22/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-027"
-  },
-  {
-    "id": 576494,
-    "IDcode": "740YMTK-028",
-    "title": "みや子60歳 02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240106/pb_e_740ymtk-028.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-028"
-  },
-  {
-    "id": 518064,
-    "IDcode": "740YMTK-038",
-    "title": "I罩杯32歳 02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe8668dd88d14f0656b557/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=740YMTK-038"
-  },
-  {
-    "id": 574928,
-    "IDcode": "748SPAY-001",
-    "title": "大田区 K原総合病院 泌尿器科",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/aHS78kJk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-001"
-  },
-  {
-    "id": 574926,
-    "IDcode": "748SPAY-002",
-    "title": "幸区 県立H総合クリニック 内科",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/Hc473nzb/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-002"
-  },
-  {
-    "id": 574929,
-    "IDcode": "748SPAY-003",
-    "title": "品川区SG総合病院",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/na0l8R15/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-003"
-  },
-  {
-    "id": 574927,
-    "IDcode": "748SPAY-004",
-    "title": "大田区TH大学病院",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/Yzg7Uxon/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-004"
-  },
-  {
-    "id": 574925,
-    "IDcode": "748SPAY-005",
-    "title": "千代田区 株式会社Eマーク 営业部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/pEtfWmWQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-005"
-  },
-  {
-    "id": 574931,
-    "IDcode": "748SPAY-006",
-    "title": "渋谷区 株式会社Sエージェント 広报部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/r6r5Vq0m/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-006"
-  },
-  {
-    "id": 574933,
-    "IDcode": "748SPAY-007",
-    "title": "杉并区 株式会社E●●RG●●EN 営业部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/U1ODzbJk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-007"
-  },
-  {
-    "id": 574932,
-    "IDcode": "748SPAY-008",
-    "title": "新宿区 M●W●产业株式会社 総务部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250911/gQjL2YsU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-008"
-  },
-  {
-    "id": 540366,
-    "IDcode": "748SPAY-009",
-    "title": "东Y大学 Mちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/u877lC1j/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-009"
-  },
-  {
-    "id": 540367,
-    "IDcode": "748SPAY-010",
-    "title": "R正大学 Aちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/oImypMOJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-010"
-  },
-  {
-    "id": 540368,
-    "IDcode": "748SPAY-012",
-    "title": "OT女子大学 Rちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/e2cC8ppL/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-012"
-  },
-  {
-    "id": 576259,
-    "IDcode": "748SPAY-014",
-    "title": "県立K校 Kちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231007/pb_e_748spay-014.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-014"
-  },
-  {
-    "id": 540373,
-    "IDcode": "748SPAY-016",
-    "title": "ひなのちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/rqnU49g1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-016"
-  },
-  {
-    "id": 540374,
-    "IDcode": "748SPAY-017",
-    "title": "しずくちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/c93LlYGa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-017"
-  },
-  {
-    "id": 540370,
-    "IDcode": "748SPAY-019",
-    "title": "日野さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/Y4Zf0sBn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-019"
-  },
-  {
-    "id": 540371,
-    "IDcode": "748SPAY-022",
-    "title": "合原さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/duXDINFY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-022"
-  },
-  {
-    "id": 540369,
-    "IDcode": "748SPAY-023",
-    "title": "Mさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/P87QT0vq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-023"
-  },
-  {
-    "id": 540372,
-    "IDcode": "748SPAY-024",
-    "title": "Rさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250912/mdNIUF34/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-024"
-  },
-  {
-    "id": 576258,
-    "IDcode": "748SPAY-028",
-    "title": "ほのちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231006/pb_e_748spay-028.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-028"
-  },
-  {
-    "id": 540359,
-    "IDcode": "748SPAY-036",
-    "title": "るりか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250913/1aoC7ovi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-036"
-  },
-  {
-    "id": 511853,
-    "IDcode": "748SPAY-208",
-    "title": "高冈うさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250208-1/064b52b72b28fdaee4b958d51587e550.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-208"
-  },
-  {
-    "id": 576239,
-    "IDcode": "748SPAY-210",
-    "title": "Kちゃん (星宫こと)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230919/pb_e_748spay-210.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-210"
-  },
-  {
-    "id": 576238,
-    "IDcode": "748SPAY-211",
-    "title": "Rちゃん (雅子りな)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230919/pb_e_748spay-211.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-211"
-  },
-  {
-    "id": 576237,
-    "IDcode": "748SPAY-212",
-    "title": "Lちゃん (美澄玲衣)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230919/pb_e_748spay-212.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-212"
-  },
-  {
-    "id": 576244,
-    "IDcode": "748SPAY-214",
-    "title": "あむちゃん (大原あむ)",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230920/pb_e_748spay-214.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-214"
-  },
-  {
-    "id": 576262,
-    "IDcode": "748SPAY-237",
-    "title": "ホテルウーマンI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_748spay-237.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-237"
-  },
-  {
-    "id": 576281,
-    "IDcode": "748SPAY-238",
-    "title": "コンシェルジュM",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_748spay-238.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-238"
-  },
-  {
-    "id": 576280,
-    "IDcode": "748SPAY-239",
-    "title": "ホテルスタッフS",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_748spay-239.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-239"
-  },
-  {
-    "id": 576279,
-    "IDcode": "748SPAY-240",
-    "title": "ホテリエY",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_748spay-240.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-240"
-  },
-  {
-    "id": 540360,
-    "IDcode": "748SPAY-241",
-    "title": "NTR妻Sさん",
+    "id": 541401,
+    "IDcode": "DHT-0908",
+    "title": "父亲の再婚相手の义母との母子相●！？寝取られ美熟女に暴発生中出し！！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "淫妻"
+      "乱伦",
+      "无码"
     ],
-    "type": "",
-    "company": "",
+    "type": "无码",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250913/DPrxXIwf/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20231206/SRMEYmXP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-241"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0908"
   },
   {
-    "id": 540362,
-    "IDcode": "748SPAY-242",
-    "title": "NTR妻Nさん",
+    "id": 541402,
+    "IDcode": "DHT-0910",
+    "title": "母娘缭乱！熟々な母亲とピチピチな娘さんではどっちが好み？赘沢に亲子丼もご用意できますが！",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "淫妻"
+      "乱伦",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/3C6ksEpx/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0910"
+  },
+  {
+    "id": 541403,
+    "IDcode": "DHT-0911",
+    "title": "母娘缭乱！熟々な母亲とピチピチな娘さんではどっちが好み？赘沢に亲子丼もご用意できますが！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱伦",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/raWw61Zw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0911"
+  },
+  {
+    "id": 541404,
+    "IDcode": "DHT-0912",
+    "title": "発情人妻 耻ずかしいけど…本当は…オチ●コ大好きなんです！！厳选セレクト 01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/IY8LxwK1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0912"
+  },
+  {
+    "id": 541405,
+    "IDcode": "DHT-0913",
+    "title": "発情人妻 耻ずかしいけど…本当は…オチ●コ大好きなんです！！厳选セレクト 02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/rMgb9f3v/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0913"
+  },
+  {
+    "id": 541406,
+    "IDcode": "DHT-0914",
+    "title": "牝として絶顶期を迎えた熟女たちのセックスの実态！！赤裸々熟女 特别セレクト 01",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/TT7aDvZs/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0914"
+  },
+  {
+    "id": 541407,
+    "IDcode": "DHT-0915",
+    "title": "牝として絶顶期を迎えた熟女たちのセックスの実态！！赤裸々熟女 特别セレクト 02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231207/dsYhDv8c/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0915"
+  },
+  {
+    "id": 541408,
+    "IDcode": "DHT-0916",
+    "title": "素人モニタリング 初めて会って即キス！！一体どうなっちゃうのか？と思いきやキスの威力で即",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231208/IivtCukL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0916"
+  },
+  {
+    "id": 541409,
+    "IDcode": "DHT-0917",
+    "title": "素人モニタリング 初めて会って即キス！！一体どうなっちゃうのか？と思いきやキスの威力で即",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20231208/1FgMECg8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0917"
+  },
+  {
+    "id": 543508,
+    "IDcode": "DHT-0932",
+    "title": "私の妻を抱いてくれませんか？ 旦那様の目の前でハメシロまる出し生挿入 いおりさん26歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
     ],
     "type": "",
-    "company": "",
+    "company": "TMA",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250913/kVqpSDj7/1.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20250417/tErSft0c/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=748SPAY-242"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0932"
+  },
+  {
+    "id": 543499,
+    "IDcode": "DHT-0946",
+    "title": "性欲溜まり过ぎ！ちょっとの刺激で敏感反応、ハスキーボイスで“イクイクイク…”ハリのある美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250416/JIy0e8cn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0946"
+  },
+  {
+    "id": 525606,
+    "IDcode": "DHT-0952",
+    "title": "“このまま后ろから挿れて…あっ気持ちいい…あぁ～硬い気持ちいい！それ好き！”家庭を顾みず欲望のま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240711/Oww3Gfc2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0952"
+  },
+  {
+    "id": 576886,
+    "IDcode": "DHT-0979",
+    "title": "“そのまま入れて欲しい”“好きなトコ出して”！Hカップのエッチな新妻 まいなさん26歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250414/pl3ylICK/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0979"
+  },
+  {
+    "id": 525605,
+    "IDcode": "DHT-0981",
+    "title": "极上美人妻ナンパ 夫に内绪の●亵SEX Best12 6名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240711/3nT88lKc/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-0981"
+  },
+  {
+    "id": 541876,
+    "IDcode": "DHT-1015",
+    "title": "整体でストレス発散する人妻さん。“ここの施术は他とは违うんですよね…ホントに気持ちよくっ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240702/wHOKDk2D/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-1015"
+  },
+  {
+    "id": 541877,
+    "IDcode": "DHT-1016",
+    "title": "整体でストレス発散する人妻さん。“ここの施术は他とは违うんですよね…ホントに気持ちよくっ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240702/phlxdx9V/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-1016"
+  },
+  {
+    "id": 541829,
+    "IDcode": "DHT-1027",
+    "title": "母娘缭乱！熟々な母亲とピチピチな娘さんではどっちが好み？赘沢に亲子丼もご用意できますが！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱伦",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240620/aG8knJV8/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-1027"
+  },
+  {
+    "id": 541827,
+    "IDcode": "DHT-1028",
+    "title": "母娘缭乱！熟々な母亲とピチピチな娘さんではどっちが好み？赘沢に亲子丼もご用意できますが！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱伦",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240620/a3VBiuuR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-1028"
+  },
+  {
+    "id": 576750,
+    "IDcode": "DHT-1030",
+    "title": "情热的なキスと自ら生挿入へ导く淫乱熟女 たかみさん 37歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241221/HZaGT3EV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-1030"
+  },
+  {
+    "id": 576751,
+    "IDcode": "DHT-1031",
+    "title": "上司という立场を利用して若い社员を诱惑する美熟女 桐岛さん 48歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "熟女",
+      "素人"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20241221/lFzRpoTw/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHT-1031"
   }
 ];

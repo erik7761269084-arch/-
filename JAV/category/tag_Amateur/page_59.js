@@ -1,1863 +1,1902 @@
 window.PAGE_DATA = [
   {
-    "id": 538788,
-    "IDcode": "200GANA-2107",
-    "title": "マジ软派、初撮。 1366 【枕を投げつけ発狂！】上京したての学生をそそのかしてSEXしたら激おこ！いやいや、気持ち良さそうにしてたじゃん…。1",
+    "id": 552750,
+    "IDcode": "259LUXU-0015",
+    "title": "豪华电视023",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/f5ee43d4f7695ae3080d0d0cd8f89590.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/4c34a34d041dcd14f589ce9cce107c63.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2107"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0015"
   },
   {
-    "id": 576743,
-    "IDcode": "200GANA-2108",
-    "title": "マジ软派、初撮。 1367 日本一高い电波塔の下で动くちっちゃカワイイ彼女。キュンキュン不足でネガティブモード発动中！！即席彼氏で身も心もキュンキュンしましょう♪小さな身体がイキっぱなしで止まらない！！1",
+    "id": 553440,
+    "IDcode": "259LUXU-0017",
+    "title": "豪华电视016",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-02",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/037181f6144462fb38de4bc8034d9b50.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/be8fdb6d9ecd502618dc74a0480ed854.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2108"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0017"
   },
   {
-    "id": 526049,
-    "IDcode": "200GANA-2109",
-    "title": "マジ软派、初撮。 1365 女子大生の友情検证と称して二人组の女子大生をナンパ♪最近エッチした相手が同じ男w仲良し过ぎる二人のレズプレイ乱交がソソる！！1",
+    "id": 552751,
+    "IDcode": "259LUXU-0018",
+    "title": "豪华电视008",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱交",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-06-29",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/20961110fdd39c86831fe3da14ba08e6.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/605285172d1feb5de80d1fef18f10234.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2109"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0018"
   },
   {
-    "id": 538780,
-    "IDcode": "200GANA-2110",
-    "title": "ジョギングナンパ 22 隠れ巨乳！ノーパンスパッツ！スポーツウェアの中に隠された魅惑のカラダ！筋トレを教えてもらいながら二人の距离は缩まっていき…？1",
+    "id": 553459,
+    "IDcode": "259LUXU-0019",
+    "title": "豪华电视004",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-04",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/b6b82b526ae84f91362a70bc4869e16b.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/aff825c172df3d74c6f3dc836132bd18.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2110"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0019"
   },
   {
-    "id": 568341,
-    "IDcode": "200GANA-2111",
-    "title": "认真的南帕，第1枪。 1380 一个简单的大学生，我用射击模型 Tay 得到的美丽的大山雀♪ 我讨厌它，但是当我注意到我的眼睛被眩晕时，我开始做爱 w 这是一个淫荡的业余爱好者，摇晃着大山雀并扭动着 www",
+    "id": 552752,
+    "IDcode": "259LUXU-0020",
+    "title": "豪华电视011",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/e1d715b1453739673cc02f791d03f44b.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/274a98c3208d65ca79291348e8837bf2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2111"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0020"
   },
   {
-    "id": 530824,
-    "IDcode": "200GANA-2112",
-    "title": "マジ软派、初撮。 1368 トリマーを目指している小动物系かわいこちゃん！おっとり系の彼女は自分をトリミングされると…？おっとり小动物がキャンキャン喘ぐ！？気持ちよすぎてド変态に変貌！！",
+    "id": 553438,
+    "IDcode": "259LUXU-0021",
+    "title": "豪华电视006",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-06",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/7ff103b44fb14eedf84bca8820c14098.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/2aa72de250afe65fb5edf4dea9bc4f67.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2112"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0021"
   },
   {
-    "id": 538804,
-    "IDcode": "200GANA-2113",
-    "title": "マジ软派、初撮。 1370 ナンパ失败続きで落ち込んでいた时、ママチャリにまたがった美人奥様が现れた！！买い物袋でパンパンに诘まった前カゴ、胸元のゆるいTシャツ、足元はサンダル。“5歳の息子と旦那がお腹を空かして待ってます…”生活感剥き出しの美人奥様は钓れるのか？？1",
+    "id": 552753,
+    "IDcode": "259LUXU-0022",
+    "title": "豪华电视027",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-09",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/8f2a53cf755474aa0c91c554cadce874.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/6cf5e8a83a0afe1a80c6b45a7fde1ce3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2113"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0022"
   },
   {
-    "id": 568300,
-    "IDcode": "200GANA-2114",
-    "title": "Jogging Nampa 23 捡到一个通过摇晃Vine Vine和一个大馅饼奔跑的美女♪他没有好好听故事，因为他感到厌恶",
+    "id": 553433,
+    "IDcode": "259LUXU-0023",
+    "title": "豪华电视063",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/cd4cc1208543186244f8e0b9b8b631f1.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/ab139242599be1240dae06ae43cb9103.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2114"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0023"
   },
   {
-    "id": 568347,
-    "IDcode": "200GANA-2115",
-    "title": "认真的南帕，第1枪。 1387 性感濛濛美女与作弊经历。身体变得好气了就轻松原谅，在床上秀一下情色腰的用法！",
+    "id": 552754,
+    "IDcode": "259LUXU-0024",
+    "title": "豪华电视005",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/77005f66ab2442febbd2cd0ddee1d78e.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/2581f330417928ff825753a30ff473c5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2115"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0024"
   },
   {
-    "id": 542290,
-    "IDcode": "200GANA-2116",
-    "title": "マジ软派、初撮。 1369 合コン不発で不机嫌な美女を神楽坂でナンパ！“楽しませてくれるなら良いよ♪”と缶チューハイで干杯→ドライブ→観覧车のコンボで、そのままホテルへIN！“お兄さん甘えてくれるから断れない♪”と押しに弱い美女を、押して押して最后までヤッちゃいましたwww1",
+    "id": 553434,
+    "IDcode": "259LUXU-0025",
+    "title": "豪华电视029",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-07",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/aa71d75e51b1c19d3bb6eb3e20ec74ac.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/81e4fc940f2178bc5858570acddf4461.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2116"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0025"
   },
   {
-    "id": 538779,
-    "IDcode": "200GANA-2117",
-    "title": "マジ软派、初撮。 1371 クイズと骗されて生ち○ぽを握らされちゃう天然女子！惊き戸惑うもついつい巨根をチラ见！その一瞬を见逃さないナンパ师に丸め込まれて流されSEX！！1",
+    "id": 553468,
+    "IDcode": "259LUXU-0028",
+    "title": "豪华电视035",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-11",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/52141b508ea7786a6c5c23d06a41e5d6.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/17b6e960e055dbd2c3a14020c85301c3.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2117"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0028"
   },
   {
-    "id": 568299,
-    "IDcode": "200GANA-2118",
-    "title": "在南帕100战高手的枪房里，在南帕被捕几个月后，将SEX秘密射击125带进来，让她彻底站在她这边。这样的要求被轻轻的犹豫，精彩地带到了SEX！",
+    "id": 552755,
+    "IDcode": "259LUXU-0029",
+    "title": "豪华电视028",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/f748b03a50b3c7c96f755eec7d643b68.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/cf51684e8f5d81b1f7d109e014f04065.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2118"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0029"
   },
   {
-    "id": 521776,
-    "IDcode": "200GANA-2119",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 126 毎日通ったバーで口说き落とした肉食",
+    "id": 552740,
+    "IDcode": "259LUXU-0030",
+    "title": "豪华电视037",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191015-1/363756787424761dd258c9ebd3be51d9.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/349d780888367daa68a9e59bcbad5442.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2119"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0030"
   },
   {
-    "id": 568346,
-    "IDcode": "200GANA-2120",
-    "title": "认真的南帕，第1枪。第1407章 旷课出去面试的美女上班族！当我邀请你释放压力时，我一边说“只是一点点",
+    "id": 553439,
+    "IDcode": "259LUXU-0031",
+    "title": "豪华电视034",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/a9f73e5a261b5d56fdc319974c69673a.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/e00c0811d47e8253d6fd6d6b4e7da3f7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2120"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0031"
   },
   {
-    "id": 521794,
-    "IDcode": "200GANA-2121",
-    "title": "マジ软派、初撮。 1373 夜の里原で黒髪ショートのオシャレ女子を突撃ナンパ！‘ファッションインタビュー’というキラーワードにまんまと钓られてホテルへ！",
+    "id": 553469,
+    "IDcode": "259LUXU-0032",
+    "title": "豪华电视032",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-14",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191029-1/22e170500d53a41367131aa7c4693ce4.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/1264f18770c5b6d8b0338285dbb4882c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2121"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0032"
   },
   {
-    "id": 530274,
-    "IDcode": "200GANA-2122",
-    "title": "マジ软派、初撮。 1393 猛暑日の渋谷駅前でお菓子を饵にカワイイ女の子が连れました。媚薬效果があるかもしれない面白いお菓子を试しに勧めたら、エッチしたい激热カラダに変貌！おねだりエッチでクールダウンしましたw",
+    "id": 553465,
+    "IDcode": "259LUXU-0033",
+    "title": "豪华电视061",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191115-1/e06289770fc50ced5471fcf8b918dc4e.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/27efeeab577a80247e45190956f6eac0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2122"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0033"
   },
   {
-    "id": 537191,
-    "IDcode": "200GANA-2123",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 124 マッチングアプリで知り合ったふんわ",
+    "id": 552741,
+    "IDcode": "259LUXU-0034",
+    "title": "豪华电视026",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-16",
-    "cover_url": "http://15.155250922.com/upload/vod/20230718/1606620293-cap_e_6_200gana-2123.jpg!320x216.jpg",
-    "actress": [
-      "市川润"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2123"
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/b6e537386d7e8f31c5ca387983659531.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0034"
   },
   {
-    "id": 530272,
-    "IDcode": "200GANA-2124",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 127 占いバーで运命の出会い！某大手饮料メーカーの美人広报を连れ込み！前戏はもちろん骑乘位の时にも乳首を触って男を悦ばせようとする健気女子！",
+    "id": 552742,
+    "IDcode": "259LUXU-0035",
+    "title": "豪华电视057",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191114-1/a0ba37d49058b68feed6d89a60039f23.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/79785bf227966fba24a59cc5b3d69b6b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2124"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0035"
   },
   {
-    "id": 521774,
-    "IDcode": "200GANA-2125",
-    "title": "マジ软派、初撮。 1374 失败続きの秋叶原",
+    "id": 552821,
+    "IDcode": "259LUXU-0037",
+    "title": "豪华电视019",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191018-1/929467e00d6a8733125eb43f32c32182.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/397cef40c5f87d40eb287d6408ad993c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2125"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0037"
   },
   {
-    "id": 521749,
-    "IDcode": "200GANA-2126",
-    "title": "マジ软派、初撮。 1375 连败続きの新宿ナンパで、目の前に现れたメガネ女子！‘痴女拘束’と书かれた特徴的なTシャツに、ミニスカから伸びる生脚、そして“タピオカが好き”と爱娇",
+    "id": 553430,
+    "IDcode": "259LUXU-0038",
+    "title": "豪华电视020",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-07-21",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190911-1/43014d8f4fbdb96ec8782a6674edeccf.jpg",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/9c8812512da94be359cae5b4dd82eea6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2126"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0038"
   },
   {
-    "id": 537190,
-    "IDcode": "200GANA-2127",
-    "title": "マジ软派、初撮。 1376 インタビューの为に撮影に応じてくれた愈し系OL 恋爱のアドバイスと称",
+    "id": 553429,
+    "IDcode": "259LUXU-0039",
+    "title": "豪华电视031",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230718/1607096965-pb_e_200gana-2127.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/59b49d23620862eedf46355385734656.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2127"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0039"
   },
   {
-    "id": 568384,
-    "IDcode": "200GANA-2128",
-    "title": "认真的南帕，第1枪。 1377一款“盒子里有什么？”针对缺钱大学生的游戏！被奖金蒙蔽了双眼，不知不觉挤了吉婆！当我热身时，我在挤压我的衣服！",
+    "id": 552728,
+    "IDcode": "259LUXU-0040",
+    "title": "豪华电视033",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/3e6f80f0a0bbdf1436d554edb19e41b6.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/23cad31894e0085bebcdf3458e085c60.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2128"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0040"
   },
   {
-    "id": 568383,
-    "IDcode": "200GANA-2129",
-    "title": "认真的南帕，第1枪。 1378 在四谷站前发现的超凡典范！与 Tay 拍摄时尚快照的攻击",
+    "id": 552822,
+    "IDcode": "259LUXU-0041",
+    "title": "豪华电视060",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/c3b020261c38d1f6ec81d7f58f183e97.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/a41e33315b77ede5964adb601ed0afeb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2129"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0041"
   },
   {
-    "id": 537194,
-    "IDcode": "200GANA-2130",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 128 【クラブでナンパ♪】友达の付き添",
+    "id": 552829,
+    "IDcode": "259LUXU-0042",
+    "title": "豪华电视042",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230719/pb_e_200gana-2130.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/c0f8bd781293bdc1d05b95a7f2839420.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2130"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0042"
   },
   {
-    "id": 568387,
-    "IDcode": "200GANA-2131",
-    "title": "在南帕100战高手的枪房里，引入SEX隐藏射击134新鲜系统，我遇到了一个匹配的应用程序♪在家放松w 可爱的巨乳和带有可爱微笑的圆润臀部只是新鲜的身体！ !!慢慢展开的 Icharab 蚀刻肯定与爱相匹配。",
+    "id": 553466,
+    "IDcode": "259LUXU-0043",
+    "title": "豪华电视039",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/7a342b8f301782005c9f4ff6b7709f51.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/f3aee649794ac80eb26267de40ee1bb2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2131"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0043"
   },
   {
-    "id": 568386,
-    "IDcode": "200GANA-2132",
-    "title": "烟花汇演 06 烟花燃放前与男友吵架的悲伤浴衣美女！像治愈受伤的心一样轻轻包裹男人的她让我很兴奋♪大胆的腰部动作，感觉叛逆的表情，已经脖子♪",
+    "id": 553437,
+    "IDcode": "259LUXU-0044",
+    "title": "豪华电视041",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/0e41deee1a7876e412fe0833d99ec989.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/279090672222e7615530b05ed27035b7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2132"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0044"
   },
   {
-    "id": 521787,
-    "IDcode": "200GANA-2133",
-    "title": "花火大会ナンパ 07 みなとみらいで花火大会帰りの浴衣美女を高级ホテルとシャンパンで钓ってお持ち帰り♪お酒で头が回らないのか浴衣を脱がされてもされるがまま。それどころか自分か",
+    "id": 553462,
+    "IDcode": "259LUXU-0045",
+    "title": "豪华电视051",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191024-1/1478f7fa7ee81d7a90e1e64aec6b8566.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/817e3203b9129fdf280c47294bd67918.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2133"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0045"
   },
   {
-    "id": 537193,
-    "IDcode": "200GANA-2134",
-    "title": "花火大会ナンパ 08 花火大会帰りの浴衣お姊様2人组をGET！先辈が一绪だからと安心しきった后辈ちゃ",
+    "id": 553436,
+    "IDcode": "259LUXU-0046",
+    "title": "豪华电视053",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230719/1606276064-pb_e_200gana-2134.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/3f7cfe4f765bc17ace581a5bb0a906b0.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2134"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0046"
   },
   {
-    "id": 568378,
-    "IDcode": "200GANA-2135",
-    "title": "Pool Nampa 25 我在游泳池遇到的一对护生！累了就在回家的路上睡在车里去酒店吧！如果您在谨慎时注意到，则穿着泳装的 4P 性爱！",
+    "id": 553404,
+    "IDcode": "259LUXU-0047",
+    "title": "豪华电视065",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/97bc046617f453650b6b5034a575a4a5.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/1daa046adb87b8eb835f7a85facfc593.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2135"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0047"
   },
   {
-    "id": 568328,
-    "IDcode": "200GANA-2136",
-    "title": "游泳池南帕 26 [游泳池南帕！ ] 真的捡到一个拉丁妹子二人组等著捡！穿着泳衣玩了好久，问一句“送你，我休息一下”，帕丽西姑娘们就跟着你！ w4P 狂欢性方式 www",
+    "id": 552823,
+    "IDcode": "259LUXU-0048",
+    "title": "豪华电视056",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/bab7df3f89b606fae61a2d72f40bd184.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/ed209b0919cbc63a93a78559909da4eb.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2136"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0048"
   },
   {
-    "id": 526050,
-    "IDcode": "200GANA-2137",
-    "title": "プールナンパ 27 人気のナイトプールで见つけた水着美女！知らない男にしつこく络まれるわ、スイートだと闻いて通された部屋が夜景すら微妙な普通の部屋だわ…。ガン萎えだったにもかかわらず、アルコールが入った途端ヤりたい欲を抑えきれなくなり、同僚放置でセックス始めッ！！1",
+    "id": 553431,
+    "IDcode": "259LUXU-0049",
+    "title": "豪华电视062",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-08-10",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/0dfd7ffe96b862b183c93d8d9833441c.jpg",
-    "actress": [
-      "富田优衣",
-      "东条有希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2137"
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/c19c62b5a2c5e3c58d27644eaa282934.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0049"
   },
   {
-    "id": 526051,
-    "IDcode": "200GANA-2138",
-    "title": "プールナンパ 28 ナイトプールで女子2人组をホテルへ连れ込み！ノリノリの友达は男と别部屋でSEX！置いてけぼりの优衣ちゃんは戸惑いつつもムッツリな性格を见抜かれてしまい…？1",
+    "id": 552824,
+    "IDcode": "259LUXU-0050",
+    "title": "豪华电视059",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-08-11",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/357ec9b8a118f8fb5b29d02dca2ed6ee.jpg",
-    "actress": [
-      "富田优衣",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2138"
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/0bb35263f70e823231cb93b22eafa657.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0050"
   },
   {
-    "id": 568333,
-    "IDcode": "200GANA-2139",
-    "title": "认真的南帕，第1枪。 1382我捡到一个女生，她说“我对外遇不感兴趣！”如果将其插入因丰富的爱抚变得浓密的秘密部分，则通过以迷人的面孔接受Chi Po来享受第1次婚外情的色情JD！",
+    "id": 552825,
+    "IDcode": "259LUXU-0051",
+    "title": "豪华电视058",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/c52f60e06568eef0f2a725dd403a8e9e.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/18529b28338b6dcbb2287590ca8cf249.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2139"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0051"
   },
   {
-    "id": 568379,
-    "IDcode": "200GANA-2140",
-    "title": "认真的南帕，第1枪。 1381 三垦茶屋的人气少女调查！ H 问题 ⇒ 在练习中击败硬守卫！一旦变成色情的气氛，剩下的就会被冲走……",
+    "id": 553452,
+    "IDcode": "259LUXU-0052",
+    "title": "豪华电视098",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/764447f2d91db80c451359702d79a0da.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/dee119e8b22d40dfba5b4d3ed919bc27.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2140"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0052"
   },
   {
-    "id": 526052,
-    "IDcode": "200GANA-2142",
-    "title": "ファ●ファ●スプラッシュナンパ！ 某テーマパークで行われたフェスで见つけた水着美女二人组！会场の热気でテンションMAXだったからすんなりお持ち帰り成功！一人がトイレに立っている间にもう一人を二人がかりでエッチなイタズラを仕挂け、その势いで4P开始♪1",
+    "id": 553445,
+    "IDcode": "259LUXU-0054",
+    "title": "豪华电视047",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-08-17",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/b32f091fdd6c039a91904b80e72c85f7.jpg",
-    "actress": [
-      "百瀬凛花",
-      "藤白桃羽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2142"
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/b477d349eea2205ae5842cc202ebeadb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0054"
   },
   {
-    "id": 538778,
-    "IDcode": "200GANA-2143",
-    "title": "ファ●ファ●スプラッシュナンパ！ パリピの集まるずぶ濡れフェス！ノリよく过ごせばギャルと饮める！车で送るよとホテルに连れ込めば…その后は水着でツイスター！？ヤリマンギャルと浮気初心者、大学生2人组は互いのSEXに兴味津々の巻【4P乱交】1",
+    "id": 553450,
+    "IDcode": "259LUXU-0055",
+    "title": "豪华电视021",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱交",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/efeabd4113bd54abcf6e0a34a444c606.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/232eec865829b55752e3cbecbe6e5c0a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2143"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0055"
   },
   {
-    "id": 538806,
-    "IDcode": "200GANA-2144",
-    "title": "ファ●ファ●スプラッシュナンパ！ セックス大好きなちょいギャルお姊さんをGET！セフレ立候补からのお试しセックス开始！凄テクフェラで男优にご奉仕→デカチン挿入されて絶叫！素人娘のイキまくりセックスは必见！！1",
+    "id": 552820,
+    "IDcode": "259LUXU-0056",
+    "title": "豪华电视049",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20240802-1/368653cfc1a078e2a236044d639b81cf.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/161bcb66e00c7be13e1ac8bcbcfa0961.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2144"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0056"
   },
   {
-    "id": 568377,
-    "IDcode": "200GANA-2145",
-    "title": "Fa ● Fa ● Splash Nampa！夏季生产！在调情的女孩们聚集的神活动“泼水节”中，摇晃一个巨大的馅饼，拿起清脆的色情卡瓦女孩并带到酒店♪壹岐混乱高潮飞溅热带之夜♪",
+    "id": 553455,
+    "IDcode": "259LUXU-0057",
+    "title": "豪华电视068",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/743a185cf2f7e05d96f3f56fc42979b8.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/3f141d39634ff1821b0b4e9596eaf5d8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2145"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0057"
   },
   {
-    "id": 568334,
-    "IDcode": "200GANA-2146",
-    "title": "100战南帕老师的枪房里，在麻辣拉面店遇到的纯情学园美少女，居然是硬性的SEX组变态少女，让我有种被掐脖子的感觉……",
+    "id": 553409,
+    "IDcode": "259LUXU-0058",
+    "title": "豪华电视052",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/6c8fd639dc8e84cffccc09af8e34f41a.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/f18fdd3d49d38b5a37e5109f79ffb4ba.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2146"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0058"
   },
   {
-    "id": 568380,
-    "IDcode": "200GANA-2147",
-    "title": "烟花大会上有趣的浴衣约会♪美丽的发射烟花中美丽的浴衣美女华丽地发射〜Kagiya〜www白皙的身体！",
+    "id": 552739,
+    "IDcode": "259LUXU-0059",
+    "title": "豪华电视050",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/d5c8b974205bb9cbd2e8f84247e7f38f.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/0581548661a0d05b306f3edb6e2ff01d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2147"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0059"
   },
   {
-    "id": 568372,
-    "IDcode": "200GANA-2148",
-    "title": "认真的南帕，第1枪。 1383【H杯美女巨乳美女熟女x不道德的性爱】情绪失控的同时说“对不起老公和儿子”的情绪控制不住激动，跟别人一起疯了！ !!",
+    "id": 553418,
+    "IDcode": "259LUXU-0060",
+    "title": "豪华电视072",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/b4f9a640a140f62cda4758092087ddf5.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/98bdec5856da8354b541372dc36c7271.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2148"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0060"
   },
   {
-    "id": 568375,
-    "IDcode": "200GANA-2149",
-    "title": "认真的南帕，第1枪。第1385章 和美代前的女大学生一起享受也不会松懈的严密！乖乖出示保证书，SEX就轻松开始了！迫不及待地沉迷于开关一打开就突然变化的淫荡！",
+    "id": 553441,
+    "IDcode": "259LUXU-0061",
+    "title": "豪华电视048",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/d859792063d7e6881ce11be9e5065940.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/2498c08ee7f9f83b147a404aef3c76f7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2149"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0061"
   },
   {
-    "id": 568373,
-    "IDcode": "200GANA-2150",
-    "title": "认真的南帕，第1枪。 1386 把在涩谷抓到的超凡美少女带到酒店接受采访！被调皮的气氛冲走，开始做爱！在坚硬的活塞上，“更多！ !! ’和一边尖叫一边尖叫淫荡的业余女孩♪",
+    "id": 552727,
+    "IDcode": "259LUXU-0062",
+    "title": "豪华电视044",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/af3892a845b0100d630255de2c73ae60.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/fa0327e84f94757bca28ad340129f1ff.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2150"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0062"
   },
   {
-    "id": 568376,
-    "IDcode": "200GANA-2151",
-    "title": "在100战的南帕大师的枪房里，带来SEX秘密射击130 在枪房里穿上你刚买的泳衣，就这样开始做爱！咬入柔软肌肤的色情身体的泳装，具有弹跳感的敏感体质的美少女的淫秽对比！",
+    "id": 552729,
+    "IDcode": "259LUXU-0063",
+    "title": "豪华电视022",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/9fd6a634788c8dc20a783a61a9ada8ad.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/6a791a5a3f307b49301749adb3e4f82d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2151"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0063"
   },
   {
-    "id": 568374,
-    "IDcode": "200GANA-2152",
-    "title": "在100战的南帕老师的枪房中，带来SEX隐藏射击133一个爱着来到枪房的男人的美丽男人！我会用甜美的声音做好♪带有女性香味的完美美体！ !!灵敏度好，只有在刺穿 www 时才会剧烈反应",
+    "id": 553451,
+    "IDcode": "259LUXU-0065",
+    "title": "豪华电视046",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/1e424ed1632a5815e8dfc2a5aa152131.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/3717f5839d4248cf46fee49d03b617b2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2152"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0065"
   },
   {
-    "id": 568267,
-    "IDcode": "200GANA-2153",
-    "title": "南帕100战高手的枪房，带来SEX隐藏射击131在前辈的房间里，与前辈带来的女人偷情♪国宝级的软皮美乳隐藏在少女的衣服后面♪高速回女牛仔抽搐壹岐♪",
+    "id": 553415,
+    "IDcode": "259LUXU-0068",
+    "title": "豪华电视018",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230419-1/a21a060404fbe708994c053c8a9e925a.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/72e5a9c732e553acf713c07667bf34f9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2153"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0068"
   },
   {
-    "id": 568325,
-    "IDcode": "200GANA-2154",
-    "title": "在100战的南帕老师的枪房，带来SEX秘密拍摄132我在喝酒的地方遇到的一个干净整洁的美丽女孩和朋友或多于少有的恋人只是关系很好！用 Icharab SEX 填满她的心，品尝白皙的大山雀！",
+    "id": 553421,
+    "IDcode": "259LUXU-0069",
+    "title": "豪华电视141",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/b048d226a324fa19f5f5bcc6cc388ea4.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/a9b8a67a6870c2529de3b14830d266f6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2154"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0069"
   },
   {
-    "id": 530278,
-    "IDcode": "200GANA-2155",
-    "title": "マジ软派、初撮。 1388 アイドル志望のガーリー美少女を“业界にツテがある”と骗してホテルに连れ込む♪耻じらいながらも梦の为にと我慢していた彼女だが、卓越したスキルにカラダを弄ばれ自尊心折れてSEXに没头♪",
+    "id": 553454,
+    "IDcode": "259LUXU-0070",
+    "title": "豪华电视066",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191126-1/94a16a916672d017b677452f99d9337d.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/d3969c3e3b58cdb696ffbc8a4b2c7abc.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2155"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0070"
   },
   {
-    "id": 530287,
-    "IDcode": "200GANA-2156",
-    "title": "マジ软派、初撮。 1389 お仕事帰りの爆乳秘书をゲット！スーツ着衣のままパンスト破り挿入！社长仕込みの激エロセックスは必见！！！",
+    "id": 552737,
+    "IDcode": "259LUXU-0071",
+    "title": "豪华电视055",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20191215-1/9c10d754ca3a0a336d58e64c04dce323.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/813bbdde0fccd63bf920b3bc124e3e58.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2156"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0071"
   },
   {
-    "id": 537219,
-    "IDcode": "200GANA-2157",
-    "title": "マジ软派、初撮。 1390 若さ溢れるピッチピチでムッチムチな柔肌美少女バンドマン",
+    "id": 553449,
+    "IDcode": "259LUXU-0072",
+    "title": "豪华电视071",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230727/1610511784-pb_e_200gana-2157.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/1b6cca93f7084ab10166f13dee2145c9.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2157"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0072"
   },
   {
-    "id": 568363,
-    "IDcode": "200GANA-2158",
-    "title": "认真的南帕，第1枪。 1391 不告诉男朋友就揍了在学校配合拍摄的美少女♪我一头雾水，却又忍不住起身！我去过 Iku www",
+    "id": 552733,
+    "IDcode": "259LUXU-0073",
+    "title": "豪华电视067",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/a4e6c2235de77ee053ab4afb43dd436f.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/2788b18f063ad6c866ad6e6d2aa76ffa.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2158"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0073"
   },
   {
-    "id": 102735,
-    "IDcode": "200GANA-2159",
-    "title": "マジ軟派、初撮。 1392 フェラに自信がない女子大生！試しにチ○ポ舐めさせたら自分が我慢できなくなっちゃって…。大人しかったのに挿入したら感度バツグン喘ぎまくり！",
+    "id": 552730,
+    "IDcode": "259LUXU-0074",
+    "title": "豪华电视070",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "潮吹",
-      "女大学生",
-      "手指插入",
       "素人",
-      "猎艳",
-      "业余",
-      "搭讪素人",
-      "颜射"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-09-22",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/18495d9011b3f3a75669f2dbd30add4b.jpg",
-    "actress": [
-      "桜子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2159"
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/05fd7b5b8a1fc43d10d5bcf5513c2da4.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0074"
   },
   {
-    "id": 568368,
-    "IDcode": "200GANA-2160",
-    "title": "认真的南帕，第1枪。第1395章 站前叫唤的白皙美少女，她是一个拒绝做爱的守卫少女，所以当我在中间用力触摸她的身体时，我立即感觉到并倒下ww我颤抖着我的身体腿和多次射精，一张迷人的脸变成了一个敏感的女孩！",
+    "id": 552735,
+    "IDcode": "259LUXU-0075",
+    "title": "豪华电视069",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/13208dd87bc78bcbdfb124f8b994346a.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/e605c6c86e4524c239fa4eb184efed53.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2160"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0075"
   },
   {
-    "id": 568371,
-    "IDcode": "200GANA-2162",
-    "title": "在南帕100战大师的枪房里，带来了SEX隐藏射击137 Aika-chan，一个总是挤出来的女孩酒吧服务员♪我带着她以美丽的风格来到模特班并进行了性爱♪Don不要错过被指责为细长腿的footjob！",
+    "id": 553413,
+    "IDcode": "259LUXU-0076",
+    "title": "豪华电视054",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/a344b3e2951f5e9fa332757d6fa8d97f.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/0613094aa5c04dd87ba0b4e0c33cf598.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2162"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0076"
   },
   {
-    "id": 157812,
-    "IDcode": "200GANA-2163",
-    "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 149 甘可愛い彼女はマジ",
+    "id": 553424,
+    "IDcode": "259LUXU-0077",
+    "title": "豪华电视040 - 上原瑞穂",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/4688f7beb6a34d0d7f3efd7965f52daf.jpg",
-    "actress": [
-      "春风光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2163"
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/22aa9aeefd506412c0765724bebf7630.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0077"
   },
   {
-    "id": 568365,
-    "IDcode": "200GANA-2164",
-    "title": "认真的南帕，第1枪。第1406章 拼命说服一个硬著头皮的美女上班族，轻轻抚摸她的胸部，让她全身颤抖，感受得到！如果你抚摸你的背部，它会完全融化，你会不知不觉地被淹没！",
+    "id": 552734,
+    "IDcode": "259LUXU-0078",
+    "title": "豪华电视097 - 香椎梨亚",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/96e16f330ad66d44c637554b1ce1aca7.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/23b382956dfac7a3fb4c8a6cfa70fe27.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2164"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0078"
   },
   {
-    "id": 197097,
-    "IDcode": "200GANA-2165",
-    "title": "约会极品美女巨乳和美臀的双重冲击让人欲罢不能",
+    "id": 552736,
+    "IDcode": "259LUXU-0079",
+    "title": "豪华电视083",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/15/10ee057acf51cdf839f2d6e30683ee1d.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/9494766e515cc996a9aba1ce41823c62.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2165"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0079"
   },
   {
-    "id": 568366,
-    "IDcode": "200GANA-2166",
-    "title": "认真的南帕，第1枪。 1396“给男朋友买了礼物，但今天不能来……”晚上在新宿捡到一个凹版彩蛋！让我们填补您的身心之间的空白！不要错过我他妈的巨大的乳房！ !! !!",
+    "id": 553457,
+    "IDcode": "259LUXU-0080",
+    "title": "豪华电视112",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/e944954c7a61cbb70a2345d02d04c790.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/d42e870ba4f8946dd2ed331f8ed25c3b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2166"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0080"
   },
   {
-    "id": 526036,
-    "IDcode": "200GANA-2167",
-    "title": "日本最大级のEDMフェスでナンパしたJD2人组！イベントサーク4Pフェス开催♪",
+    "id": 553399,
+    "IDcode": "259LUXU-0081",
+    "title": "豪华电视080",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2023/01/j5iyxpj2vyi.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/f3a70c1cbdc5496bd47ba8dea57c35cd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2167"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0081"
   },
   {
-    "id": 568271,
-    "IDcode": "200GANA-2168",
-    "title": "U ● TRA J ● PAN Nampa！成功捕捉到性感姐姐和Lorikawa JD的好朋友Cousin！当我请他去酒店喝酒时，太性感的表姐的性感，Lorikawa的表弟也开始感兴趣了[4P狂欢]",
+    "id": 553308,
+    "IDcode": "259LUXU-0082",
+    "title": "豪华电视077",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/9362b3e41476f16795f7f1d2ea43b5e5.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/23b9a9901e9b2ef0dde84cc7976d789e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2168"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0082"
   },
   {
-    "id": 568358,
-    "IDcode": "200GANA-2169",
-    "title": "3P在酒店一手拿着香槟举行，在节日会场捡到的杰出风格的Norinori gal♪",
+    "id": 553401,
+    "IDcode": "259LUXU-0084",
+    "title": "豪华电视075",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/eabc93ca84727927bc69e7195cbc60db.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/b8afa467b902bb0d01999c9bbcdf960f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2169"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0084"
   },
   {
-    "id": 568361,
-    "IDcode": "200GANA-2170",
-    "title": "认真的南帕，第1枪。你为什么来日本？这就是为什么在浅草捡到一个俄罗斯美女！如果您近距离接触日本的热情款待",
+    "id": 552732,
+    "IDcode": "259LUXU-0085",
+    "title": "豪华电视078",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/9705548905de38ea0029681fa782a387.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/6e41d9e5c82d271298a1ae5879d45f3b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2170"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0085"
   },
   {
-    "id": 537218,
-    "IDcode": "200GANA-2171",
-    "title": "マジ软派、初撮。 1400 バイト帰りの下町美少女をゲット！お人好しガールが流されてセックス开始！",
+    "id": 553402,
+    "IDcode": "259LUXU-0086",
+    "title": "豪华电视079",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230727/1611023020-cap_e_6_200gana-2171.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/7c377cc623e763b9b5fb3a857c4dd1f5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2171"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0086"
   },
   {
-    "id": 568364,
-    "IDcode": "200GANA-2172",
-    "title": "认真的南帕，第1枪。 1397下班回酒店的路上采访姐姐！看起来不是什么大问题！如果你插上极宝，它马上就会掉下来！连续暨同时漏潮！ !!",
+    "id": 553393,
+    "IDcode": "259LUXU-0087",
+    "title": "豪华电视076",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/70f414041296d738c5fa2cd0ca5619ab.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/326980f294a96348513487ce8d166b56.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2172"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0087"
   },
   {
-    "id": 537217,
-    "IDcode": "200GANA-2173",
-    "title": "マジ软派、初撮。 1399 见るからにどエロなむっちりスーツOLをホテルに连れ込み！！",
+    "id": 553407,
+    "IDcode": "259LUXU-0088",
+    "title": "豪华电视074",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230727/1611288160-pb_e_200gana-2173.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/f19b39dcb054a72d6292341c4678dc28.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2173"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0088"
   },
   {
-    "id": 568326,
-    "IDcode": "200GANA-2174",
-    "title": "认真的南帕，第1枪。 1403 安全的拉面女孩，他们的食欲散发着积累的性欲！通过爱抚颈背来开启！兴奋的西装衣服玩从禁止连裤袜打破！ !!淫荡 OL 是 Oma ○ Kobishobisho 并且在痛苦的性爱中昏倒！ !! !!",
+    "id": 552738,
+    "IDcode": "259LUXU-0089",
+    "title": "豪华电视073",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/1dd364d39ab170aeac4d3c190d4e8384.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/76690fb046085a9f679811be21d630e8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2174"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0089"
   },
   {
-    "id": 568359,
-    "IDcode": "200GANA-2175",
-    "title": "认真的南帕，第1枪。第1402章 捡到一对以山女出道来高尾山的女大学生！如果我爬山后喜欢吃喝，我有一个巨大的乳房，完全困倦的美味女孩！",
+    "id": 553392,
+    "IDcode": "259LUXU-0091",
+    "title": "豪华电视081",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人",
-      "出道作"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/1cb8e755ccd698aff153d46c6b580037.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/0986af104add3221df8c9af82dbf338c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2175"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0091"
   },
   {
-    "id": 97526,
-    "IDcode": "200GANA-2176",
-    "title": "マジ軟派、初撮。 1401 高尾山で登山女子を登頂！2つそびえるおっぱいに緩やかな傾斜が続くお尻に興奮！大洪水のオマ●コに予測不可能な腰のうねり！女というドエロい山を制覇せよ！",
+    "id": 553396,
+    "IDcode": "259LUXU-0092",
+    "title": "豪华电视087",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "女大学生",
-      "屁股",
       "素人",
-      "猎艳",
-      "业余",
-      "乳房",
-      "搭讪素人",
-      "颜射"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-10-19",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230419-1/c34cca920a79016001080738e20225a1.jpg",
-    "actress": [
-      "ののは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2176"
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/55b8722799e7d0792ada0e3d049b8432.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0092"
   },
   {
-    "id": 537223,
-    "IDcode": "200GANA-2177",
-    "title": "マジ软派、初撮。 1405 DJを装ってナンパした女は清楚なナリしてクラブの常连！バイブスブチ上げな音楽",
+    "id": 552826,
+    "IDcode": "259LUXU-0093",
+    "title": "豪华电视086",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230730/pb_e_200gana-2177.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/70305a7821c0102943f2ad1ff88d2eb7.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2177"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0093"
   },
   {
-    "id": 568275,
-    "IDcode": "200GANA-2178",
-    "title": "认真的南帕，第1枪。 1418我和她友好交谈，在新宿等她的朋友！因为少接触男人，心里空荡荡的……用身体滋润一下吧！纤细的白板女孩已经很久没有出现了。",
+    "id": 552827,
+    "IDcode": "259LUXU-0094",
+    "title": "豪华电视084",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/5bee5994a876daea0a3e2785416c6822.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/7c4487faa3c707656861fdb87cf90f34.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2178"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0094"
   },
   {
-    "id": 568270,
-    "IDcode": "200GANA-2179",
-    "title": "认真的南帕，第1枪。 1404 用测谎仪揭开女大学生的性情！假装无辜的学园被烤焦的天性是自由奔放的一面……彻底弄湿内裤，一边蠕动一边摇晃敏感的身体！ !!",
+    "id": 552828,
+    "IDcode": "259LUXU-0095",
+    "title": "豪华电视088",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/0996e17e864a426774ce553a58ee0bf9.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/5e7f96b04b401b07b74307f4cafe21c1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2179"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0095"
   },
   {
-    "id": 568330,
-    "IDcode": "200GANA-2180",
-    "title": "认真的南帕，第1枪。 1398新宿抱两个美少女，橄榄球世界杯精彩纷呈！ !!一起尝试所有庆祝活动的狂欢！ !!给他们一个比比赛更热的触地得分 www",
+    "id": 553427,
+    "IDcode": "259LUXU-0096",
+    "title": "豪华电视085",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/c40f331223b24faeee24825e299968dc.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/056da53d7a4bb1b2dd16e3df219ea50c.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2180"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0096"
   },
   {
-    "id": 218352,
-    "IDcode": "200GANA-2181",
-    "title": "身经百战的搭讪大师带妹",
+    "id": 552731,
+    "IDcode": "259LUXU-0097",
+    "title": "豪华电视089 - 椿由衣",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-10/211442f25e764339cd817c0fe4ed05f1.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/3e45aee3b57bdc29e535a89385b22ba2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2181"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0097"
   },
   {
-    "id": 568362,
-    "IDcode": "200GANA-2182",
-    "title": "在南帕100战高手的枪房里，带来SEX隐藏射击136 Icharab SEX，身材苗条，美如模特♪纯白国宝级美乳必看♪",
+    "id": 552830,
+    "IDcode": "259LUXU-0098",
+    "title": "豪华电视091",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/e88e32e0cf94e662bc557ebf51fec02b.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/c786bbff4844e665d2f0e251275f5447.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2182"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0098"
   },
   {
-    "id": 197094,
-    "IDcode": "200GANA-2183",
-    "title": "在新宿街头搭讪到的美女非常害羞敏感到不行",
+    "id": 553410,
+    "IDcode": "259LUXU-0099",
+    "title": "豪华电视092",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/15/91afc387a3d45d24d3f790a7fb184937.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/a62d8a33963e3e39383c2318928f7941.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2183"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0099"
   },
   {
-    "id": 568354,
-    "IDcode": "200GANA-2184",
-    "title": "认真的南帕，第1枪。 1411 捡到170cm左右的高个女上班族！发情与从防雨棚略带调皮的按摩！如果你注意到它，一个好色的姐姐弹起E罩杯的美丽乳房并做瑜伽♪",
+    "id": 553298,
+    "IDcode": "259LUXU-0100",
+    "title": "豪华电视090",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "乱伦",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/b405e4116b773516ff61dcd612055100.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/19c396672f515a38886305acf2df6fb8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2184"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0100"
   },
   {
-    "id": 233674,
-    "IDcode": "200GANA-2185",
-    "title": "调查女孩子的性趣到宾馆后随着聊天的深入越来约淫荡的姑娘一次愉悦的性爱",
+    "id": 552831,
+    "IDcode": "259LUXU-0101",
+    "title": "豪华电视094",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/15/5b66b5bf/vod.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/eb1c75e3bbc8782dd1e1b826966acc46.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2185"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0101"
   },
   {
-    "id": 537239,
-    "IDcode": "200GANA-2186",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 138 揺れまくるデカパイをあらゆる",
+    "id": 553305,
+    "IDcode": "259LUXU-0102",
+    "title": "豪华电视095",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230810/1616657973-pb_e_200gana-2186.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/7d8abea53e834f058229bfeaf4bf5910.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2186"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0102"
   },
   {
-    "id": 537238,
-    "IDcode": "200GANA-2187",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 143 めんどくさいのが大嫌い！",
+    "id": 552832,
+    "IDcode": "259LUXU-0103",
+    "title": "豪华电视093",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230810/pb_e_200gana-2187.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/e0a1d8209d236263ce5f3de244aae3a8.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2187"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0103"
   },
   {
-    "id": 537237,
-    "IDcode": "200GANA-2188",
-    "title": "マジ软派、初撮。 1447 モテる香水の検证をお愿いして媚薬を一吹き⇒徐々に敏感になっていき…少し触っただけ！",
+    "id": 552833,
+    "IDcode": "259LUXU-0110",
+    "title": "豪华电视107",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230810/pb_e_200gana-2188.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250815-1/52e365bbe01d6328028b8d3580160abf.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2188"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0110"
   },
   {
-    "id": 568356,
-    "IDcode": "200GANA-2189",
-    "title": "认真的南帕，第1枪。 1410 Nampa地区是池袋！ Tsugumi-chan，一个干净整洁，纯度为100的女孩，在SNS的背面污垢调查中被选中♪她似乎是一名警卫，但我想知道她是否可以做爱",
+    "id": 552743,
+    "IDcode": "259LUXU-0115",
+    "title": "豪华电视105",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/27247d55eee3895a4774beb649f9a0f0.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/5d4136cda437660533c127c860b3c6ac.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2189"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0115"
   },
   {
-    "id": 568259,
-    "IDcode": "200GANA-2190",
-    "title": "在川崎万圣节活动回家的路上获得鬼川 Cosplay Gal！被对方亲吻的乡下人演员被在涩谷走来走去的帕里西奇特的胶水弄糊涂了 www",
+    "id": 552744,
+    "IDcode": "259LUXU-0116",
+    "title": "豪华电视103",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230419-1/7c751c79fc7ad3e9ad1328ebd39f7dc9.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/3571e5ad90b538442faa7e6802b8ffb5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2190"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0116"
   },
   {
-    "id": 104173,
-    "IDcode": "200GANA-2191",
-    "title": "ハロウィンムードの渋谷で可愛いお姫様を発見！！狼が彼女を襲う！まんざらではお姫様は快楽で喘ぎに喘ぐ！パイパンお姫様に狼オ●ン●ンがパッピーハロウィン！？",
+    "id": 552745,
+    "IDcode": "259LUXU-0117",
+    "title": "豪华电视127",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "角色扮演",
-      "女大学生",
       "素人",
-      "猎艳",
-      "业余",
-      "乳房",
-      "无毛",
-      "搭讪素人",
-      "颜射"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-10-29",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230420-1/7b7c9874789c01d7cfaf202c7b485fa9.jpg",
-    "actress": [
-      "りか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2191"
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/57f0ae0ab9ca30c593cf5ce1610c7125.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0117"
   },
   {
-    "id": 197092,
-    "IDcode": "200GANA-2192",
-    "title": "搭讪短发美女穿着制服不脱就插入",
+    "id": 553453,
+    "IDcode": "259LUXU-0118",
+    "title": "豪华电视115",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/15/3b77e6ca30787864594f2e7b8f560afe.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/af907c9a3a29a991b4bb60ec3f3a6334.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2192"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0118"
   },
   {
-    "id": 568353,
-    "IDcode": "200GANA-2193",
-    "title": "认真的南帕，第1枪。 1415 盒子内容猜谜游戏中，我被咔嚓咔嚓抓住了，但反应似乎并不饱满",
+    "id": 553299,
+    "IDcode": "259LUXU-0128",
+    "title": "豪华电视121",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/c526d55ebc7ca08fcc27158975615e46.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/2c68c7b89d252946c132df24c8ef7a7e.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2193"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0128"
   },
   {
-    "id": 197093,
-    "IDcode": "200GANA-2194",
-    "title": "为了钱跟到宾馆的19岁美少女干几次也不会腻的身体",
+    "id": 552851,
+    "IDcode": "259LUXU-0129",
+    "title": "豪华电视125",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/08/15/2a601046c7addb9c46cb5507d696d6ce.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/0a6fc0789af0a06261e47d42772c5ac2.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2194"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0129"
   },
   {
-    "id": 530300,
-    "IDcode": "200GANA-2195",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 139 可爱い颜して意外とスケベな美少女をお持ち帰り♪腕を拘束されて前戏からフィニッシュまで中でも外でもイキまくり！超敏娘の痴态は超必见！！",
+    "id": 553309,
+    "IDcode": "259LUXU-0130",
+    "title": "豪华电视122",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
-    "publish_date": "2019-12-03",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200220-1/fc6c36171c83522868870ffb48714f6d.jpg",
-    "actress": [
-      "市川润",
-      "まいか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2195"
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/f6ed018d6a233521878f72f3793f0a98.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0130"
   },
   {
-    "id": 537236,
-    "IDcode": "200GANA-2196",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 140 人懐っこさが可爱くてイチャイチャしてたら",
+    "id": 553403,
+    "IDcode": "259LUXU-0134",
+    "title": "豪华电视130",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230810/1615787720-pb_e_200gana-2196.jpg!320x216.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/cbc3bcb40386f9543c76583ac8356348.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2196"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0134"
   },
   {
-    "id": 209176,
-    "IDcode": "200GANA-2197",
-    "title": "新宿で営業中のOL",
+    "id": 553446,
+    "IDcode": "259LUXU-0136",
+    "title": "豪华电视131",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9705576e5a81612963f39db7dc2ad5a1.jpg",
-    "actress": [
-      "藤森里穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2197"
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/f6f4c5b196b204596ec40c8029e57ac3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0136"
   },
   {
-    "id": 568298,
-    "IDcode": "200GANA-2198",
-    "title": "今年的涩谷万圣节又来了！与色情警察（？）的酒店合影留念！哪怕是有点勉强，也只允许今晚！觉悟难免被自己吞噬姬泊的模样激动！ !!",
+    "id": 553456,
+    "IDcode": "259LUXU-0137",
+    "title": "豪华电视 133",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230412-7/b1239cf65816d62f4d29fba0ce705047.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250723-1/10e281211b50da9db91768bc28a7dd25.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2198"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0137"
   },
   {
-    "id": 568350,
-    "IDcode": "200GANA-2199",
-    "title": "涩谷万圣节博伊恩万圣节快乐♪ 想成为醉美人的松鼠自助餐！ !!每次活塞 www 时都会震动的大山雀不给糖就捣蛋",
+    "id": 553473,
+    "IDcode": "259LUXU-0138",
+    "title": "豪华电视129",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/dd3a4a500a8642fe8158b8b444a83bc3.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250722-1/72a0c299320a305b0be44401316ec857.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2199"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0138"
   },
   {
-    "id": 530902,
-    "IDcode": "200GANA-2200",
-    "title": "マジ软派、初撮。 1446 清楚な童颜フェイスで细身なス",
+    "id": 552852,
+    "IDcode": "259LUXU-0139",
+    "title": "豪华电视132",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200810/200GANA-2200.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/c9219221a4012f1a24d25f979b7e3e39.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2200"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0139"
   },
   {
-    "id": 509200,
-    "IDcode": "200GANA-2201",
-    "title": "マジ軟派、初撮。 1422 人通りの少ない板橋で見つけたのは…ショートパンツにショートヘアのアクティブ系JD！「学校の単位がヤバい！！」急ぐ彼女を引き止めて、ホテルへ連れ込みエッチなイタズラを敢行！恥ずかしがる彼女の目の前に勃起チ●ポを見せてみた結果…！(0002)",
+    "id": 553411,
+    "IDcode": "259LUXU-0140",
+    "title": "豪华电视128",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/79e7751dd6bc1c887966be105765fcf0.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/7a00befed14cb87d8b52307dbfd9b064.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2201"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0140"
   },
   {
-    "id": 509132,
-    "IDcode": "200GANA-2202",
-    "title": "マジ軟派、初撮。 1423 スレンダーHカップの爆乳デリヘル嬢をナンパしてホテルイン！フィギュア体型の超絶エロボディ美女がイラマチオでえづき汁ダラダラご奉仕wwすっぽん効果でギンギンのデカチンを挿入すればプルンプルン超乳を揺らしてヨガりまくりww",
+    "id": 553389,
+    "IDcode": "259LUXU-0141",
+    "title": "豪华电视226",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8b3a0022f76a889532a962f0bf750ebb.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/551662eb8a4d6512781629f9b5ee94e6.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2202"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0141"
   },
   {
-    "id": 509144,
-    "IDcode": "200GANA-2203",
-    "title": "マジ軟派、初撮。 1438 巨乳デリヘル嬢をナンパしてホテルIN！追加料金で交渉して生ハメすれば、体をビクビク跳ねさせて何度も絶頂！",
+    "id": 552853,
+    "IDcode": "259LUXU-0142",
+    "title": "豪华电视145",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9bbd6689c7dc22c489051fcb676e5364.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/bf143a39343c4b47c5d951957471e3cd.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2203"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0142"
   },
   {
-    "id": 530306,
-    "IDcode": "200GANA-2204",
-    "title": "マジ软派、初撮。 1421 夜の秋叶原で见つけた子供っぽい女の子(※大人です)にスナップ撮影交渉！街中で1枚撮って、流れでホテルへ连れ込んで、タイミングよく持参していたスク水を着せてしれっとセックスへと持ち込むのだが…果たして上手くいったのか！？",
+    "id": 552854,
+    "IDcode": "259LUXU-0143",
+    "title": "豪华电视142",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200229-1/a83abf5b4bd8a64c951490af5b1b5474.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/d2b2ef538f9cefcba5548f4f6c5718ec.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2204"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0143"
   },
   {
-    "id": 567111,
-    "IDcode": "200GANA-2205",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 148",
+    "id": 552855,
+    "IDcode": "259LUXU-0144",
+    "title": "豪华电视138",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200715/200GANA-2205.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/76b4b2bc0051a772f729464ddedb2b5f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2205"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0144"
   },
   {
-    "id": 500960,
-    "IDcode": "200GANA-2206",
-    "title": "在身经百战的搭讪师做爱房白皙G乳美少女被干成淫娃 山本莲加 -C",
+    "id": 552856,
+    "IDcode": "259LUXU-0145",
+    "title": "豪华电视136",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人",
-      "巨乳"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/82cecb8a17e7d18df9cc85035a2015e3.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250814-1/febeeff5e5c1235beabff75293eaa7c5.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2206"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0145"
   },
   {
-    "id": 60576,
-    "IDcode": "200GANA-2207",
-    "title": "搭讪超天然的萌系清纯少女就算被摸了也只敢轻微的声音拒绝",
+    "id": 553408,
+    "IDcode": "259LUXU-0146",
+    "title": "豪华电视135",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/58e2f30b/vod.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/eb1a15602f838c27a0476ab15308523b.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2207"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0146"
   },
   {
-    "id": 197018,
-    "IDcode": "200GANA-2208",
-    "title": "搭讪了个美女一起喝酒花言巧语迅速升温感情干炮直接走起",
+    "id": 553390,
+    "IDcode": "259LUXU-0147",
+    "title": "豪华电视139",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "搭讪素人"
+      "素人企画",
+      "高端素人"
     ],
     "type": "",
-    "company": "",
+    "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ca7818fa5881090023fcd91c4ee9b8d9.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250724-1/a4335ffdeae226361e85377a55835237.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2208"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0147"
   }
 ];

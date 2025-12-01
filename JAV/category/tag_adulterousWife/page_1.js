@@ -300,25 +300,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=081517-479"
   },
   {
-    "id": 527964,
-    "IDcode": "091723-001-carib",
-    "title": "义姊NTR ～絶対に内绪にするから一度だけ・・・～ 上山奈々",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "加勒比系",
-    "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20231102-2/55cdfddaa0556467a1e66273cddd05d1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=091723-001-carib"
-  },
-  {
     "id": 143268,
     "IDcode": "101317-518",
     "title": "远程NTR-平时干干净净的女朋友是个可笑的枪人-如月柔里",
@@ -802,63 +783,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO 080924_001"
   },
   {
-    "id": 557760,
-    "IDcode": "1PONDO-062219_863",
-    "title": "结婚目前NTR-忘れられない元カレのチンポ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "一本道",
-      "淫妻",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "一本道",
-    "publish_date": "",
-    "cover_url": "https://bf1.qrtuv.com/20230910/B8417462FFF3726A/B8417462FFF3726A.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-062219_863"
-  },
-  {
-    "id": 538412,
-    "IDcode": "200GANA-2262",
-    "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 163 彼氏持ちの彼女をイチャイチャNTRしちゃった♪辛抱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻",
-      "搭讪素人"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240410/pb_e_200gana-2262.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2262"
-  },
-  {
-    "id": 551126,
-    "IDcode": "201904-202001",
-    "title": "[第2集]人妻自撮りNTR 寝取られ报告ビデオ THE BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/20210902-1/09d6270a003c7f2649ce7413a61c10b4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=201904-202001"
-  },
-  {
     "id": 532136,
     "IDcode": "2023-2024",
     "title": "C2904 绿帽老公跪求：快来睡我饥渴人妻！精选极品合集",
@@ -912,24 +836,6 @@ window.PAGE_DATA = [
     "cover_url": "https://sha.lashayu.com/upload/vod/20250811-1/167d9e2427f0f69b74a2436fa57119dc.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=263 NTR"
-  },
-  {
-    "id": 530836,
-    "IDcode": "277DCV-161",
-    "title": "家まで送ってイイですか case.155 超スペシャル回！予期せぬ事态！まさかの彼氏登场！マ〇コ夺い合い！これが本当のNTRセックス嫉妒でイキまくる！ハプバー大好きド変态カップル！浮気盗撮指令…元カレとのアダルト生配信彼に悪いと言いながら…情热的イラマ…情热的骑乘位…チ〇コだったら何でもいい！将来は二人で小さな店を持ちたい(0002)1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/72c1e028305d31290a46daa862a52048.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=277DCV-161"
   },
   {
     "id": 92466,
@@ -1430,26 +1336,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0961"
   },
   {
-    "id": 59053,
-    "IDcode": "300MIUM-0963",
-    "title": "【破解精品】 [诱惑中出性爱]韩流偶像脸的加尔巴店员被逆转！！禁止戴绿帽子的文件！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "淫妻",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-07-16",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0963"
-  },
-  {
     "id": 144258,
     "IDcode": "300MIUM-0964",
     "title": "一亿视觉点可爱又厚脸皮的正妹被撩了禁止戴绿帽的文件脾气暴躁技术超强的天才小恶魔透过舔肛门和原始女牛仔姿势从坚硬的已婚男人的鸡巴中挤出精子NTR反转",
@@ -1489,71 +1375,6 @@ window.PAGE_DATA = [
     "cover_url": "https://tuaskbgnekr.com/20240610/8mvopV87/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-0979"
-  },
-  {
-    "id": 103612,
-    "IDcode": "300MIUM-1012",
-    "title": "【子持ちH乳妻を自宅NTR】病院の当直室でSEXをしていた…だなんてお医者様",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "素人企画",
-      "素人",
-      "淫妻",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-1012"
-  },
-  {
-    "id": 520785,
-    "IDcode": "300MIUM-1018",
-    "title": "【艶肌Gcup！！敏感ま●こ人妻】旦那のレパートリーの少ないテンプレSEXに饱き饱きしていた奥様の欲求不満が爆発！书斎や露天风吕で软体SEX！艶肌Gカップ、爱液だらだら敏感ま●こ奥様に超浓厚中出しNTR！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人企画",
-      "素人",
-      "淫妻",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://bwjpg.top/upload/vod/20250825-27/a84c763b9bded8d440794669d9c97cb3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-1018"
-  },
-  {
-    "id": 101410,
-    "IDcode": "300MIUM-1038",
-    "title": "美脚奥様ブーツのまま不貞自宅NTR→→【コスプレイヤーの奥様は超美身でSSS級】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "素人企画",
-      "素人",
-      "淫妻",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MIUM-1038"
   },
   {
     "id": 144827,
@@ -1610,25 +1431,6 @@ window.PAGE_DATA = [
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/93d781619e91cb2dc7a6d40e093b455a.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-556"
-  },
-  {
-    "id": 519875,
-    "IDcode": "300NTK-598",
-    "title": "[官方NTR！ ！！公共自慰] 美G奶最强敏感GAL参战！ ！！太色情半胸的少女心~是个清纯男友！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://bf1.qrtuv.com/20230814/1731B2EC71EC4802/1731B2EC71EC4802.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-598"
   },
   {
     "id": 144420,
@@ -1797,25 +1599,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=328HMDN-451"
   },
   {
-    "id": 78743,
-    "IDcode": "328HMDNC-493",
-    "title": "【筋肉国际NTR】希望被寝取的肉感巴西混血妻子。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "NTR",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "2023-10-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/ea1dd88e0d5994e1d3cc2a87dc424f5c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=328HMDNC-493"
-  },
-  {
     "id": 532693,
     "IDcode": "328HMDNC-553",
     "title": "【Wち○ぽNTR】クールビューティ美人妻30歳。インポ旦那の目の前でWチ○ポ堕ち。前から",
@@ -1927,5 +1710,208 @@ window.PAGE_DATA = [
     "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d5cf55337d7f7bbc249f/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=328HMDNV-831"
+  },
+  {
+    "id": 521806,
+    "IDcode": "332NAMA-059",
+    "title": "【个人撮影】唯衣/24歳/ガス会社経理/浮気カップル/NTR/男の家/激ピンク美乳首/スレンダー/美ボディ/お风吕场プレイ/3発射/SEX/颜射/フェラ/口内発射/Tバック/今时ムスメ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "个人撮影",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20191219-1/442153ce2213e5af838514e96f48df31.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=332NAMA-059"
+  },
+  {
+    "id": 412320,
+    "IDcode": "336DTT-002",
+    "title": "我在丈夫面前被奶油奶油…「现在原谅我…不要只是进去…」 桥本丽华",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/84990f779f536cb3c6da0fcb13b76cdb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-002"
+  },
+  {
+    "id": 494211,
+    "IDcode": "336DTT-051",
+    "title": "与丈夫是NTR爱好者的四个浸渍性！呢Mimori Kei 36岁的已婚女性Crea 美森系",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "少妇",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250902-1/91e4069b47097347d15790e7e6cef10b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-051"
+  },
+  {
+    "id": 472012,
+    "IDcode": "336DTT-082",
+    "title": "美丽的Akita美女回应了男友的NTR欲望，来自Akita的单身母亲：透明，非常苗 宫野茜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱伦",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "TMA",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250307/RrWeOnbW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336DTT-082"
+  },
+  {
+    "id": 520643,
+    "IDcode": "336KNB-055",
+    "title": "全国人妻えろ図鉴 人妻全国募集⇒出张ハメ撮り⇒ネット公开 奈々子さん(27歳)结婚3年目 旦那とのエッチがつまらないからAV出演♪NTR愿望のある旦那はこれを承认♪エロ武勇伝を悠々と喋るモノホンビッチが巨根で责められ“イクイクイっちゃう～！！”と连呼してイキまくり！！连続絶顶后は満足笑颜でお扫除フェラ♪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221120/QsUR6pow/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336KNB-055"
+  },
+  {
+    "id": 532631,
+    "IDcode": "336KNB-234",
+    "title": "【これが本当のスレンダー爆乳】※旦那公认NTR“発売されたら夫と一绪に见ます♪”なんて言って応募",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230522/pb_e_336knb-234.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336KNB-234"
+  },
+  {
+    "id": 542250,
+    "IDcode": "336KNB-279",
+    "title": "【人妻さんいらっしゃい！】※旦那公认NTR“今日は気合い入れてきました！”って奥さん、そん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240923/RrLGPuU5/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336KNB-279"
+  },
+  {
+    "id": 575781,
+    "IDcode": "345SIMM-206",
+    "title": "欲求不満人妻の性欲开放NTRセックス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/ZE4lWIre/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=345SIMM-206"
+  },
+  {
+    "id": 159234,
+    "IDcode": "348DNTR-002",
+    "title": "流出 NTR 絶頂拷問研究所 ～夫の目の前で痙攣を繰り返す人妻～ Part-2 -cd1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250220/oboBlB5G/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=348DNTR-002"
+  },
+  {
+    "id": 531416,
+    "IDcode": "348FNTR-001",
+    "title": "デカチンにNTRされた女子校生 仆の大好きな148cmでIカップの巨乳な彼女をバイト先の",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240414/v5eY7Zlo/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=348FNTR-001"
+  },
+  {
+    "id": 531415,
+    "IDcode": "348FNTR-002",
+    "title": "デカチンにNTRされた女子校生 仆の大好きな165cmでEカップの巨乳な彼女をバイト先の",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240514/DZZeiui6/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=348FNTR-002"
   }
 ];

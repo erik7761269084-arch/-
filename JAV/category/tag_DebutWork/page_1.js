@@ -1197,25 +1197,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO_082322_001"
   },
   {
-    "id": 568359,
-    "IDcode": "200GANA-2175",
-    "title": "认真的南帕，第1枪。第1402章 捡到一对以山女出道来高尾山的女大学生！如果我爬山后喜欢吃喝，我有一个巨大的乳房，完全困倦的美味女孩！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "搭讪素人",
-      "出道作"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230421-1/1cb8e755ccd698aff153d46c6b580037.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2175"
-  },
-  {
     "id": 144474,
     "IDcode": "300MAAN-0338",
     "title": "身为退休文静少女的书店店员莉娜酱要是出道就完美了是白板H茶杯的神体上班的时候直接在书店捡到的好吃ltNo.017说服女大学生gt",
@@ -1448,7 +1429,7 @@ window.PAGE_DATA = [
     "type": "",
     "company": "",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/748e0e8621f2b34530e62b206786731d.jpg",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/abc37f6ee952cf0161e1b3251eaceb10.jpg",
     "actress": [
       "平本めいさ"
     ],
@@ -1470,31 +1451,6 @@ window.PAGE_DATA = [
     "cover_url": "https://1.15250719pic.com/upload/vod/20250220-1/4615045fee021dc1e63ea47fc3d961c0.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP401FIRSTIMPRESSION131"
-  },
-  {
-    "id": 105593,
-    "IDcode": "AVSA-135",
-    "title": "美日混血女孩出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "胖女人",
-      "巨大屁股",
-      "出道作",
-      "首次亮相",
-      "白人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "妄想族",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240318-1/f8348ad4d8f6cbd7775e8ec99ba6715e.jpg",
-    "actress": [
-      "岩下たろう",
-      "ジェシー・恵麻・グランデ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-135"
   },
   {
     "id": 410736,
@@ -1585,23 +1541,6 @@ window.PAGE_DATA = [
       "沢井亮"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-054"
-  },
-  {
-    "id": 594934,
-    "IDcode": "BGN-057",
-    "title": "新人PRESTIGE专属出道～喜爱性爱的害羞美少女—川口夏奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210911-1/69c40d927c85d3aa852ba089160b2c22.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-057"
   },
   {
     "id": 88293,
@@ -1718,30 +1657,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-400"
   },
   {
-    "id": 100787,
-    "IDcode": "BLK-630",
-    "title": "最近辣妹出道的妹妹-仓本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "荡妇",
-      "乱伦",
-      "出道作",
-      "中出",
-      "妹妹",
-      "女生",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/7ad50c18db27fffa8f553bebd5f6916c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-630"
-  },
-  {
     "id": 566663,
     "IDcode": "BOBB-338",
     "title": "新人出道。I奶大奶“菊池麻耶”BOX 天真浪漫笑容和美爆乳飘落",
@@ -1828,23 +1743,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-150"
   },
   {
-    "id": 594930,
-    "IDcode": "BOKD-183",
-    "title": "复活！再出道 其实我有肉棒 中泽秋林",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210911-1/358a0973d618222ddfdfcb4c0aad0ab9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-183"
-  },
-  {
     "id": 566653,
     "IDcode": "BOKD-247",
     "title": "AV出道～别看我长这样，我可是带把的—本居红芽",
@@ -1860,24 +1758,6 @@ window.PAGE_DATA = [
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/78cbdcc64a7b88a683586da919d495ca.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKD-247"
-  },
-  {
-    "id": 155083,
-    "IDcode": "BWH-180",
-    "title": "13年前还是大企业广告的童星，如今进化成粉嫩白皙巨乳尤物，苍井澪AV出道那次拍摄监禁场景时，让我发现了自己的癖好，现在请帮我彻底满足吧。苍井澪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241220-1/d75d99756abcf64976670f17246e0177.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BWH-180"
   },
   {
     "id": 559049,
@@ -1975,5 +1855,122 @@ window.PAGE_DATA = [
     "cover_url": "https://thjpg10.top/upload/vod/20250125-1/d945340dc186d8d43e3f9df3a610e2e3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-091823-001"
+  },
+  {
+    "id": 140947,
+    "IDcode": "CARIBBEANCOM-100722-001",
+    "title": "出道Vol.79被玩的剃光洛丽塔少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "出道作",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250125-1/2c5c96bc22089d9c978c616be3ca4399.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-100722-001"
+  },
+  {
+    "id": 140982,
+    "IDcode": "CARIBBEANCOM-110422-001",
+    "title": "出道Vol.80性觉醒后变成了成年女性",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "出道作",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250125-1/b42d98cd82f4d9b397ccc4fcafd2381b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-110422-001"
+  },
+  {
+    "id": 140989,
+    "IDcode": "CARIBBEANCOM-111822-001",
+    "title": "出道Vol.81对过于兴奋的敏感女孩连续中出两次",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "出道作",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250125-1/e24638536d03650e3606dc415cb0bf11.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-111822-001"
+  },
+  {
+    "id": 554223,
+    "IDcode": "CARIBBEANCOM080522-001",
+    "title": "女优魂 〜出道作就吓一跳马上抽插马上湿的神对应新人〜 安室奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "出道作",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "加勒比系",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240927-1/ff00653940f189a412ab00144312d141.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM080522-001"
+  },
+  {
+    "id": 78773,
+    "IDcode": "CAWD-042",
+    "title": "说着方言出道的乡下妹子脱了衣服居然是E罩杯第一次拍片就是内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "出道作",
+      "乳房",
+      "美少女电影",
+      "首次亮相",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d7beff56aa3ac388eeb788fe1eb7f954.jpg",
+    "actress": [
+      "马场のん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-042"
+  },
+  {
+    "id": 566628,
+    "IDcode": "CAWD-233",
+    "title": "纯真但强欲的超爱性交少女—日向夏AV出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "",
+    "company": "KAWAII",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2348ea3e481ca3ea4e18789d7842c289.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-233"
   }
 ];

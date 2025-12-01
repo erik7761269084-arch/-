@@ -1,1921 +1,1754 @@
 window.PAGE_DATA = [
   {
-    "id": 532726,
-    "IDcode": "259LUXU-0850",
-    "title": "ラグジュTV 824",
+    "id": 541940,
+    "IDcode": "300NTK-826",
+    "title": "ロハ娘歓迎！【F乳175cm神スタイル大学院生美女ゲッチュ！！】【軽エロだけの约束が…推し",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230816/pb_e_259luxu-850.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240718/v2Zyrq7t/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0850"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-826"
   },
   {
-    "id": 532736,
-    "IDcode": "259LUXU-0851",
-    "title": "ラグジュTV 817",
+    "id": 541945,
+    "IDcode": "300NTK-827",
+    "title": "【神乳Hカップ人妻ナース他人棒で升天！！】【大迫力爆乳の直ちん生マン触诊骑乘位】【旦那(内",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "人妻",
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230820/pb_e_259luxu-851.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240719/oe18PWwR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0851"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-827"
   },
   {
-    "id": 552679,
-    "IDcode": "259LUXU-0852",
-    "title": "豪华电视 876",
+    "id": 541944,
+    "IDcode": "300NTK-828",
+    "title": "【ロケットおっぱいOL！！参上！！】【175cmFカップの超絶神スタイル！！】【承认欲求と",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/1aa97edeba17df4280e13e170ffb687b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0852"
-  },
-  {
-    "id": 553251,
-    "IDcode": "259LUXU-0853",
-    "title": "豪华电视825",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/f1a3293cafb5af6482366410eefa8585.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0853"
-  },
-  {
-    "id": 552680,
-    "IDcode": "259LUXU-0854",
-    "title": "豪华电视861",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/6c39a232e82a42fe5c35167494498388.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0854"
-  },
-  {
-    "id": 553252,
-    "IDcode": "259LUXU-0855",
-    "title": "豪华电视818",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/f4f4b09057a03e20f26bed8bd0761097.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0855"
-  },
-  {
-    "id": 553255,
-    "IDcode": "259LUXU-0856",
-    "title": "豪华电视839",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/aab43fa5ddc4c6db673b80c70fd30fe0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0856"
-  },
-  {
-    "id": 553256,
-    "IDcode": "259LUXU-0857",
-    "title": "豪华电视844",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/3be72f1b57ddc6157f944cd6759f1994.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0857"
-  },
-  {
-    "id": 553253,
-    "IDcode": "259LUXU-0858",
-    "title": "豪华电视841",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/bc61e628304bd5c55ab7de6982ec5d5c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0858"
-  },
-  {
-    "id": 532745,
-    "IDcode": "259LUXU-0859",
-    "title": "ラグジュTV 847",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230825/pb_e_259luxu-859.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0859"
-  },
-  {
-    "id": 552681,
-    "IDcode": "259LUXU-0860",
-    "title": "豪华电视845",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/1e00b688c9c2b6dda0eeec849b031e7f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0860"
-  },
-  {
-    "id": 552685,
-    "IDcode": "259LUXU-0861",
-    "title": "豪华电视870",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/8aafe548e703a6773372b8dd20f459bf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0861"
-  },
-  {
-    "id": 552682,
-    "IDcode": "259LUXU-0863",
-    "title": "豪华电视849",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/af93f1d3a3939d264f858934cec584e2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0863"
-  },
-  {
-    "id": 553164,
-    "IDcode": "259LUXU-0866",
-    "title": "豪华电视851",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/3cd884eb8c7e0166cc1dbe298c226eb4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0866"
-  },
-  {
-    "id": 532760,
-    "IDcode": "259LUXU-0867",
-    "title": "ラグジュTV 862",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://155.sl155cf.com/upload/vod/20230916/pb_e_259luxu-867.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0867"
-  },
-  {
-    "id": 552683,
-    "IDcode": "259LUXU-0871",
-    "title": "豪华电视855",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/38d60134f1a116f6aac176e170b5816d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0871"
-  },
-  {
-    "id": 553165,
-    "IDcode": "259LUXU-0872",
-    "title": "豪华电视838",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/6697d1b4f08c3a5f959bcf62036a0e9b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0872"
-  },
-  {
-    "id": 532793,
-    "IDcode": "259LUXU-0873",
-    "title": "ラグジュTV 828",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230927/pb_e_259luxu-873.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0873"
-  },
-  {
-    "id": 552684,
-    "IDcode": "259LUXU-0874",
-    "title": "豪华电视856",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/1de5068470af9582db14c085d18c3e5b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0874"
-  },
-  {
-    "id": 532791,
-    "IDcode": "259LUXU-0875",
-    "title": "ラグジュTV 875",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230927/pb_e_259luxu-875.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0875"
-  },
-  {
-    "id": 537288,
-    "IDcode": "259LUXU-0876",
-    "title": "ラグジュTV 846",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230825/pb_e_259luxu-876.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0876"
-  },
-  {
-    "id": 552686,
-    "IDcode": "259LUXU-0877",
-    "title": "豪华电视869",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/14476ed93ad4086863d5b4218f5aeffc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0877"
-  },
-  {
-    "id": 552687,
-    "IDcode": "259LUXU-0878",
-    "title": "豪华电视857",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/8c68d89a796c8b97b9cb66683037855f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0878"
-  },
-  {
-    "id": 553254,
-    "IDcode": "259LUXU-0879",
-    "title": "豪华电视872",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250729-1/8ea5f68c7541b011086ab206848785f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0879"
-  },
-  {
-    "id": 532805,
-    "IDcode": "259LUXU-0880",
-    "title": "ラグジュTV 871",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231001/pb_e_259luxu-880.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0880"
-  },
-  {
-    "id": 552688,
-    "IDcode": "259LUXU-0881",
-    "title": "豪华电视902",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/eef39ed16822f0cb87765d8b3aee5932.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0881"
-  },
-  {
-    "id": 537301,
-    "IDcode": "259LUXU-0882",
-    "title": "ラグジュTV 867",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230825/pb_e_259luxu-882.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0882"
-  },
-  {
-    "id": 552689,
-    "IDcode": "259LUXU-0883",
-    "title": "豪华电视878",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/c4c3f2a665e68eb09d6a43d90b3f752a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0883"
-  },
-  {
-    "id": 552690,
-    "IDcode": "259LUXU-0886",
-    "title": "豪华电视904",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/f1aa661e47a0f1d4d44716661a586379.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0886"
-  },
-  {
-    "id": 553166,
-    "IDcode": "259LUXU-0888",
-    "title": "豪华电视905",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/f41b9d105d9b61344c8bdc92ee6a03db.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0888"
-  },
-  {
-    "id": 532817,
-    "IDcode": "259LUXU-0889",
-    "title": "ラグジュTV 852",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231012/pb_e_259luxu-889.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0889"
-  },
-  {
-    "id": 532834,
-    "IDcode": "259LUXU-0890",
-    "title": "ラグジュTV 881",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_259luxu-890.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0890"
-  },
-  {
-    "id": 553167,
-    "IDcode": "259LUXU-0891",
-    "title": "豪华电视853",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/21c6a4ed41b659ff5a4563b13cf2cc2e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0891"
-  },
-  {
-    "id": 532833,
-    "IDcode": "259LUXU-0892",
-    "title": "ラグジュTV 901",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_259luxu-892.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0892"
-  },
-  {
-    "id": 532840,
-    "IDcode": "259LUXU-0893",
-    "title": "ラグジュTV 860",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231022/pb_e_259luxu-893.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0893"
-  },
-  {
-    "id": 552691,
-    "IDcode": "259LUXU-0894",
-    "title": "豪华电视 873",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/34e6c68ce6482518fff31e32ecf636f6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0894"
-  },
-  {
-    "id": 532839,
-    "IDcode": "259LUXU-0895",
-    "title": "ラグジュTV 884",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231022/pb_e_259luxu-895.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0895"
-  },
-  {
-    "id": 532851,
-    "IDcode": "259LUXU-0896",
-    "title": "ラグジュTV 858",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231025/pb_e_259luxu-896.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0896"
-  },
-  {
-    "id": 532850,
-    "IDcode": "259LUXU-0897",
-    "title": "ラグジュTV 880",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231025/pb_e_259luxu-897.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0897"
-  },
-  {
-    "id": 532865,
-    "IDcode": "259LUXU-0900",
-    "title": "ラグジュTV 886",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231029/pb_e_259luxu-900.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0900"
-  },
-  {
-    "id": 532864,
-    "IDcode": "259LUXU-0901",
-    "title": "ラグジュTV 866",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231029/pb_e_259luxu-901.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0901"
-  },
-  {
-    "id": 552692,
-    "IDcode": "259LUXU-0902",
-    "title": "豪华电视882",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/e4e759a0ffee6902357718c6fe033b90.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0902"
-  },
-  {
-    "id": 552693,
-    "IDcode": "259LUXU-0903",
-    "title": "豪华电视911",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/36a75098f93f6f5fb07977dd676de081.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0903"
-  },
-  {
-    "id": 553168,
-    "IDcode": "259LUXU-0904",
-    "title": "豪华电视920",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/52d549a5d8c146f456a59f9236f6cf8e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0904"
-  },
-  {
-    "id": 552697,
-    "IDcode": "259LUXU-0905",
-    "title": "豪华电视885",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/459b2249d64c69935349abb8d59d68d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0905"
-  },
-  {
-    "id": 552694,
-    "IDcode": "259LUXU-0906",
-    "title": "豪华电视888",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/3c27ba065481722c8e974bb620567007.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0906"
-  },
-  {
-    "id": 552695,
-    "IDcode": "259LUXU-0907",
-    "title": "豪华电视910",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/76bf2b1ddac22831c7ad817729476851.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0907"
-  },
-  {
-    "id": 552696,
-    "IDcode": "259LUXU-0908",
-    "title": "豪华电视895",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250820-1/1e0f10e5fc6ede21c3672d8fa0ba0a08.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0908"
-  },
-  {
-    "id": 88057,
-    "IDcode": "259LUXU-0910",
-    "title": "ラグジュTV 898",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "屁股",
-      "素人企画",
-      "HDTV",
-      "素人",
-      "业余",
-      "乳房",
-      "姐姐",
-      "高端素人",
-      "颜射",
-      "女优按摩棒"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/80a2f5f4b418abfa2b883813a3db9027.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0910"
-  },
-  {
-    "id": 553169,
-    "IDcode": "259LUXU-0911",
-    "title": "豪华电视897",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/da4177fd4b98e319b5faab266038229e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0911"
-  },
-  {
-    "id": 552649,
-    "IDcode": "259LUXU-0912",
-    "title": "豪华电视912",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/c787636dbbf2ebaa11e1bcc8fccad630.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0912"
-  },
-  {
-    "id": 552650,
-    "IDcode": "259LUXU-0913",
-    "title": "豪华电视 893",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/73cddb6ac340cde2cfd1ced6b6930ba4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0913"
-  },
-  {
-    "id": 553180,
-    "IDcode": "259LUXU-0914",
-    "title": "豪华电视906",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/86d6d27a8e6681ec0bcf131e2178fd64.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0914"
-  },
-  {
-    "id": 552651,
-    "IDcode": "259LUXU-0916",
-    "title": "豪华电视891",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/5c5497cfd5223703040c68c7c1af8c5d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0916"
-  },
-  {
-    "id": 553181,
-    "IDcode": "259LUXU-0917",
-    "title": "豪华电视907",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/3fd860b2d9e8d851040ea42ab7e7acd8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0917"
-  },
-  {
-    "id": 552652,
-    "IDcode": "259LUXU-0919",
-    "title": "豪华电视916",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/d4d4d84c8a5aa30363702e5bfdd83cdb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0919"
-  },
-  {
-    "id": 552653,
-    "IDcode": "259LUXU-0922",
-    "title": "豪华电视 894",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/3d6b6518667da39b3a1f8a30ac052393.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0922"
-  },
-  {
-    "id": 553182,
-    "IDcode": "259LUXU-0923",
-    "title": "豪华电视919",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/1bfd3c1b82f0750670f48b5f44858c47.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0923"
-  },
-  {
-    "id": 552654,
-    "IDcode": "259LUXU-0924",
-    "title": "豪华电视892",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
+      "素人"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/8d316d1df2a186a860a482670d3d663a.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240719/XAUl2rtJ/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0924"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-828"
   },
   {
-    "id": 552655,
-    "IDcode": "259LUXU-0925",
-    "title": "豪华电视913",
+    "id": 541947,
+    "IDcode": "300NTK-829",
+    "title": "ロハ娘歓迎！【爆F乳ホルスタ里垢美女ゲッチュ！！】【里垢フォロワーとロハぱこオフ会！！】【",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/31bff64ce29aefc398c9734907d8552d.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240719/wYDh3iJC/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0925"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-829"
   },
   {
-    "id": 553183,
-    "IDcode": "259LUXU-0926",
-    "title": "豪华电视917",
+    "id": 541946,
+    "IDcode": "300NTK-830",
+    "title": "【大阪HENTAIラバーやりまんJD袭来！！】【スレンダー神スタイルのガチド淫乱！！】【上",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
+      "素人"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/f1d6b236ed42c1fbdf3ba00234627e4b.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240719/3GIbDDX2/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0926"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-830"
   },
   {
-    "id": 553184,
-    "IDcode": "259LUXU-0927",
-    "title": "豪华电视889",
+    "id": 441392,
+    "IDcode": "300NTK-831",
+    "title": "【G乳ロリボイン美少女ヤリマン(レイヤー)参上！！】【エロムチ合法ロリ乳レイヤーの過激",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/3fcbb2ff804cb864f7361254bb1b6cad.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/99f5ccbd9a381ad91058f38208760d59.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0927"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-831"
   },
   {
-    "id": 552656,
-    "IDcode": "259LUXU-0928",
-    "title": "豪华电视914",
+    "id": 403764,
+    "IDcode": "300NTK-832",
+    "title": "※歌うまSEXうまスレンダー美女3に連射※【細エチボディの激エロギャルJD】【前向きご",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
+      "素人"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/60b713b0f76961963ad8938cae422086.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/fcbd5bda2027681010f0690ac6828c46.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0928"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-832"
   },
   {
-    "id": 553179,
-    "IDcode": "259LUXU-0929",
-    "title": "豪华电视909",
+    "id": 541949,
+    "IDcode": "300NTK-833",
+    "title": "※ロリG乳JD耻じらいハメ撮り连続榨精※【水着はまハメJD！！エロむちBODY大升天！！】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/66b55552f48e6663b4300cc4fa38a18e.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240720/lYx3WuXt/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0929"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-833"
   },
   {
-    "id": 553185,
-    "IDcode": "259LUXU-0930",
-    "title": "豪华电视918",
+    "id": 541951,
+    "IDcode": "300NTK-834",
+    "title": "絶品！！美少女×2水着乱交SP【そそる若尻ボディ竞演！！】【天真烂漫なスレンダー美少女ビッ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "乱交"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/51aac303a629ad93bb3ef2115dc60f15.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240720/FfOeFZHR/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0930"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-834"
   },
   {
-    "id": 553176,
-    "IDcode": "259LUXU-0931",
-    "title": "豪华电视915",
+    "id": 541948,
+    "IDcode": "300NTK-835",
+    "title": "【里オフ会パンツ売买P活：底辺地下アイドルいっちー】【元気はつらつ明るさ担当の美少女アイド",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
+      "素人"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/ab64b8827d9b7b3f55d3dd49a51735c4.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240720/6zyJ1oIP/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0931"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-835"
   },
   {
-    "id": 73111,
-    "IDcode": "259LUXU-0933",
-    "title": "ラグジュTV 923",
+    "id": 541950,
+    "IDcode": "300NTK-836",
+    "title": "【极上P活娘ローションましましヌルテカSEX！】【もちろん生で味わう健康的美ボディ！】【ロ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "苗条",
-      "屁股",
-      "素人企画",
-      "HDTV",
-      "素人",
-      "自慰",
-      "业余",
-      "乳房",
-      "无毛",
-      "姐姐",
-      "高端素人",
-      "颜射"
+      "素人"
     ],
     "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/f1734ad63563b45887c26c6e7a3311ac.jpg",
+    "company": "",
+    "publish_date": "2023-10-13",
+    "cover_url": "https://tuaskbgnekr.com/20240720/RpHGp2Eu/1.jpg",
     "actress": [
-      "明美美羽"
+      "前田美波",
+      "みなみ"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0933"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-836"
   },
   {
-    "id": 553177,
-    "IDcode": "259LUXU-0934",
-    "title": "豪华电视924",
+    "id": 541956,
+    "IDcode": "300NTK-837",
+    "title": "残暑吹き飞ばすヤリマンWタイフーン上陆！！エロ乳ビッチ美少女＆スレンダーぴえん美少女ビッチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "2023-09-17",
+    "cover_url": "https://tuaskbgnekr.com/20240721/YlpC9n8S/1.jpg",
+    "actress": [
+      "【あいまり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-837"
+  },
+  {
+    "id": 541955,
+    "IDcode": "300NTK-840",
+    "title": "ヤリマン多様性时代の到来！！清楚系ビッチ美女＆ギャルビッチの根っこがヤリマン集结！！水着大",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240721/ThE3hnuO/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-840"
+  },
+  {
+    "id": 441390,
+    "IDcode": "300NTK-847",
+    "title": "【Hカップ美爆乳エチョナサンタ！！】爆弾超乳のドスケベボデイ美女が参戦！！エロコスはめ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/aede5239d35f94dbb4e638df0cfe3f49.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0934"
+    "company": "",
+    "publish_date": "2023-12-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/24da80e3b4256a79720652952d37853e.jpg",
+    "actress": [
+      "堀北実来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-847"
   },
   {
-    "id": 532963,
-    "IDcode": "259LUXU-0935",
-    "title": "ラグジュTV 925",
+    "id": 541963,
+    "IDcode": "300NTK-852",
+    "title": "【诱う淫惑の浴衣美女をナンパせよ！！】【色白の“うなじ”に欲情不可避！！】【脱がせばエロい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240724/cUjt0SFq/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-852"
+  },
+  {
+    "id": 541962,
+    "IDcode": "300NTK-853",
+    "title": "【Hカップ爆乳浴衣エチチ美女の映えより性欲重视の撮影开始！！】【アヘ颜は下品であればある程",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231214/pb_e_259luxu-935.jpg!320x216.jpg",
+    "cover_url": "https://tuaskbgnekr.com/20240724/sJhgczVW/1.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0935"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-853"
   },
   {
-    "id": 553186,
-    "IDcode": "259LUXU-0939",
-    "title": "豪华电视928",
+    "id": 441389,
+    "IDcode": "300NTK-855",
+    "title": "【美巨乳GのトップオブトップP活娘】【ビジュつよつよ美女と応援チアプレイ！！】【応援＆",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/35181f742fae63fd8e1fd64573b9a177.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0939"
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250509-1/3178ef900fa3f169bfc218799e93ae2d.jpg",
+    "actress": [
+      "なつ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-855"
   },
   {
-    "id": 553174,
-    "IDcode": "259LUXU-0940",
-    "title": "豪华电视 932",
+    "id": 541966,
+    "IDcode": "300NTK-857",
+    "title": "【生意気ハーフ美女JDにわからせP活SEX】【心にクル言叶攻めとチ○コにクル美ムチボデイの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240726/fTsLYd8P/1.jpg",
+    "actress": [
+      "千鶴えま"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-857"
+  },
+  {
+    "id": 450353,
+    "IDcode": "300NTK-858",
+    "title": "【高身長ヤリマン人妻の東京遠征SEX】【スレンダー神スタイルでM！！】【攻められ震える",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "2024-03-08",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250509-1/378ad57fb3fd9581a980fa1076dfaccc.jpg",
+    "actress": [
+      "七瀨詩音",
+      "しの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-858"
+  },
+  {
+    "id": 450355,
+    "IDcode": "300NTK-859",
+    "title": "【スレンダー美ちっぱい淫乱人妻エチョナ登場！！】170cmオーバーの高身長の極上クビレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "2024-03-25",
+    "cover_url": "https://sha.lashayu.com/upload/vod/20250509-1/0138ecdb17ab7c91bae1f13f064285f5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-859"
+  },
+  {
+    "id": 441391,
+    "IDcode": "300NTK-860",
+    "title": "【八頭身170cm神スタイルお嬢様JD参戦！！】【スレンダーF乳くびれデカ尻ドえっち警",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/ffda2d8629573b1fe20d9482c7b3e1e7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0940"
+    "company": "",
+    "publish_date": "2024-03-19",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/894a1f5822de2b9a17d4e32cb8f6b6e0.jpg",
+    "actress": [
+      "透美かなた",
+      "かな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-860"
   },
   {
-    "id": 552657,
-    "IDcode": "259LUXU-0941",
-    "title": "豪华电视930",
+    "id": 511117,
+    "IDcode": "300NTK-864",
+    "title": "【シンプルに淫乱GALヤリマン登場！！】【おかわり生チ○コを求めて路上で逆ナン疑惑！？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/ab6ab6a1fa96f95fc574e263c1cd0e69.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-864"
+  },
+  {
+    "id": 458789,
+    "IDcode": "300NTK-865",
+    "title": "【お金じゃない快楽求めるSEXガチ勢ギャルのロハぱこSP！！】【クールな美女なのにシン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "2024-04-16",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/d390733ee2a76c395de3fb498195308c.jpg",
+    "actress": [
+      "りな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-865"
+  },
+  {
+    "id": 466162,
+    "IDcode": "300NTK-866",
+    "title": "【烹飪班最情色蕩婦老師登場】【OO吃雞饕餮神乳】【真正瘋狂性感到極致】【女牛仔天才！ ！爆發力】烹飪老師的特寫課！ ！在生烹飪訓練中吃OO勃起的雞巴！ ！身材淫蕩,單純又色情的料理老師登場！ ！視覺與性慾最好的蕩婦2擠壓NN！ ！ /賓博GP/032",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7b3ae79f1ac4ec45a77f8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-866"
+  },
+  {
+    "id": 541970,
+    "IDcode": "300NTK-867",
+    "title": "※美巨乳エロF乳ド淫乱人妻が2NN生ハメ撮り※【骑乘位の天才！！性欲大解放の不贞人妻が他人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240728/cv2PjtHV/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-867"
+  },
+  {
+    "id": 176920,
+    "IDcode": "300NTK-870",
+    "title": "みずき&あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/10/7186c3083ca8f4dd6cbd137f2a434176.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-870"
+  },
+  {
+    "id": 541971,
+    "IDcode": "300NTK-871",
+    "title": "【爆潮お姊さん手マン潮！！ハメ潮！！潮潮！！痉挛升天！！】【极上えちちスタイルの雑鱼まん！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240728/zwmu9jvW/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-871"
+  },
+  {
+    "id": 177550,
+    "IDcode": "300NTK-882",
+    "title": "とりあえずお店で飲んで歌う…！？いや弄るしかないでしょ初対面でディープキスとチク舐め店内デート許す淫乱妻！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/10/10/419ee875b8c968fa41b3935373ddd03a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-882"
+  },
+  {
+    "id": 508942,
+    "IDcode": "302GERBM-001",
+    "title": "人妻 あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/260cfe32806892d629ce01a534b60fb5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-001"
+  },
+  {
+    "id": 508770,
+    "IDcode": "302GERBM-002",
+    "title": "女子大生 あんじゅ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b62238a9d86dd725fb44984dc16f189.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-002"
+  },
+  {
+    "id": 508899,
+    "IDcode": "302GERBM-003",
+    "title": "デリヘル嬢 あんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0ac13aa968fc010365d0977476c1f68f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-003"
+  },
+  {
+    "id": 508908,
+    "IDcode": "302GERBM-004",
+    "title": "OL ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dde14f36665866b5de1cb6b1f717c479.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-004"
+  },
+  {
+    "id": 508788,
+    "IDcode": "302GERBM-005",
+    "title": "人妻 りかこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/63600a3db4cdcb89a9ece989789bb24d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-005"
+  },
+  {
+    "id": 508780,
+    "IDcode": "302GERBM-006",
+    "title": "人妻 えりこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/53516610e36617f7d37fd13b67285fb5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-006"
+  },
+  {
+    "id": 508860,
+    "IDcode": "302GERBM-007",
+    "title": "めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/810eda72663b4d4a914eb26e0f43680e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-007"
+  },
+  {
+    "id": 76010,
+    "IDcode": "302GERBM-008",
+    "title": "美人妻欠钱肉偿妻车内干一炮抵利息",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c6e03f9516f9944e15d44a42acf93e17.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-008"
+  },
+  {
+    "id": 508783,
+    "IDcode": "302GERBM-009",
+    "title": "人妻 ともか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a578cb4b7b4ce474b0b0491b8d63fa57.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERBM-009"
+  },
+  {
+    "id": 575774,
+    "IDcode": "302GERK-188",
+    "title": "Kさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/tv6dMaMY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-188"
+  },
+  {
+    "id": 575754,
+    "IDcode": "302GERK-189",
+    "title": "Cさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/5nlGzW3N/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-189"
+  },
+  {
+    "id": 575775,
+    "IDcode": "302GERK-190",
+    "title": "Rさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/8VZiE7bP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-190"
+  },
+  {
+    "id": 575809,
+    "IDcode": "302GERK-191",
+    "title": "Hさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/ZhhaRJY0/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-191"
+  },
+  {
+    "id": 575807,
+    "IDcode": "302GERK-192",
+    "title": "Tさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/BdiEhnFP/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-192"
+  },
+  {
+    "id": 575808,
+    "IDcode": "302GERK-193",
+    "title": "Mさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/jmh17XXd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-193"
+  },
+  {
+    "id": 575786,
+    "IDcode": "302GERK-194",
+    "title": "Sさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/MZBKfTzf/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-194"
+  },
+  {
+    "id": 575791,
+    "IDcode": "302GERK-195",
+    "title": "Yさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/dY0PvXoI/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-195"
+  },
+  {
+    "id": 575788,
+    "IDcode": "302GERK-196",
+    "title": "Rさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/VJwDvrfp/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-196"
+  },
+  {
+    "id": 575829,
+    "IDcode": "302GERK-202",
+    "title": "篠崎さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/mJtQlIIt/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-202"
+  },
+  {
+    "id": 575827,
+    "IDcode": "302GERK-203",
+    "title": "横山さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/E5HR3zcN/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-203"
+  },
+  {
+    "id": 508706,
+    "IDcode": "302GERK-213",
+    "title": "まより",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a7dda79aed16b3aad4e9f930d99a509c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-213"
+  },
+  {
+    "id": 508698,
+    "IDcode": "302GERK-215",
+    "title": "M姉さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0581b39fb2e0e9f6b86e6b57fd31a1eb.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-215"
+  },
+  {
+    "id": 551329,
+    "IDcode": "302GERK-216",
+    "title": "S姊さん1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20221225-1/ee4b305f53850547d5d222aba634408a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-216"
+  },
+  {
+    "id": 508868,
+    "IDcode": "302GERK-217",
+    "title": "まお 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9a3606588fc06bcfb648280d55f2a672.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-217"
+  },
+  {
+    "id": 532510,
+    "IDcode": "302GERK-218",
+    "title": "なつこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221028/302GERK-218.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-218"
+  },
+  {
+    "id": 533015,
+    "IDcode": "302GERK-219",
+    "title": "女子大生A",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221001/302GERK-219.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-219"
+  },
+  {
+    "id": 533013,
+    "IDcode": "302GERK-223",
+    "title": "まいな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20220930/302GERK-223.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-223"
+  },
+  {
+    "id": 532509,
+    "IDcode": "302GERK-224",
+    "title": "まおさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221028/302GERK-224.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-224"
+  },
+  {
+    "id": 532508,
+    "IDcode": "302GERK-225",
+    "title": "つばささん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221028/302GERK-225.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-225"
+  },
+  {
+    "id": 532507,
+    "IDcode": "302GERK-226",
+    "title": "みひなさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20221028/302GERK-226.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-226"
+  },
+  {
+    "id": 508723,
+    "IDcode": "302GERK-228",
+    "title": "しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0d2308fe5aed3085112dcb0597b10f84.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-228"
+  },
+  {
+    "id": 508717,
+    "IDcode": "302GERK-230",
+    "title": "みゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/704dbc7fb16d611c95cd96ee85ee2e37.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-230"
+  },
+  {
+    "id": 532506,
+    "IDcode": "302GERK-231",
+    "title": "エリー先生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://155.sl155cf.com/upload/vod/20221028/302GERK-231.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-231"
+  },
+  {
+    "id": 508734,
+    "IDcode": "302GERK-232",
+    "title": "なつき先生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/53f7e13057672bb833833bb52ff77706.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-232"
+  },
+  {
+    "id": 508754,
+    "IDcode": "302GERK-233",
+    "title": "わか先生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/aaffe042e8ce194ae65de012dfd145a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-233"
+  },
+  {
+    "id": 508839,
+    "IDcode": "302GERK-234",
+    "title": "Rさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/67ce26e2a0d314ee6ddab6593b49151a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-234"
+  },
+  {
+    "id": 508833,
+    "IDcode": "302GERK-235",
+    "title": "Hさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d61b10663e7104346b8814348fd96b77.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-235"
+  },
+  {
+    "id": 508746,
+    "IDcode": "302GERK-236",
+    "title": "Kさん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/841fbdc4fd0e0f004c8d3c74dd8299f1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-236"
+  },
+  {
+    "id": 530979,
+    "IDcode": "302GERK-237",
+    "title": "りお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200812/302GERK-237.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-237"
+  },
+  {
+    "id": 530977,
+    "IDcode": "302GERK-238",
+    "title": "アン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200812/302GERK-238.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-238"
+  },
+  {
+    "id": 531011,
+    "IDcode": "302GERK-241",
+    "title": "さくら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200805/302GERK-241.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-241"
+  },
+  {
+    "id": 531009,
+    "IDcode": "302GERK-242",
+    "title": "かれん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200805/302GERK-242.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-242"
+  },
+  {
+    "id": 530323,
+    "IDcode": "302GERK-243",
+    "title": "ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20200729-1/9cc0a7c35898bd47ceccbd5b39ad4e53.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-243"
+  },
+  {
+    "id": 531010,
+    "IDcode": "302GERK-244",
+    "title": "みさと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200805/302GERK-244.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-244"
+  },
+  {
+    "id": 529883,
+    "IDcode": "302GERK-304",
+    "title": "るか嬢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/7cbb042945e5f1a9dc2ad12db677e1a3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-304"
+  },
+  {
+    "id": 529881,
+    "IDcode": "302GERK-305",
+    "title": "あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/cb4fbe59301bac9a3f34f1ddad9ec2d5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-305"
+  },
+  {
+    "id": 529882,
+    "IDcode": "302GERK-306",
+    "title": "ゆりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/21906b880258ceb7134bfa9aeebdc9fc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-306"
+  },
+  {
+    "id": 529879,
+    "IDcode": "302GERK-307",
+    "title": "りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/78a62b53cb793c0a43fe6cbddfbe63f7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-307"
+  },
+  {
+    "id": 196983,
+    "IDcode": "302GERK-308",
+    "title": "隔壁新搬来的美女巨乳人妻巨乳是风俗女被我发现威胁内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "巨乳"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/e47142fd/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-308"
+  },
+  {
+    "id": 196982,
+    "IDcode": "302GERK-310",
+    "title": "总是深夜加班的隔壁人妻做小姐被我发现成为我的内射工具",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/715d5b93/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-310"
+  },
+  {
+    "id": 196981,
+    "IDcode": "302GERK-312",
+    "title": "和经常去夜店玩的开的美女爽快的内射性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/15/83e06928/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=302GERK-312"
+  },
+  {
+    "id": 508675,
+    "IDcode": "305TRUMG-088",
+    "title": "えりこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9a4f0e3c7bd78b0cfab4e5e59e27abde.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-088"
+  },
+  {
+    "id": 575814,
+    "IDcode": "305TRUMG-089",
+    "title": "かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/GPnKOuhd/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-089"
+  },
+  {
+    "id": 575818,
+    "IDcode": "305TRUMG-090",
+    "title": "みやび",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/HwrV3dRH/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-090"
+  },
+  {
+    "id": 575811,
+    "IDcode": "305TRUMG-091",
+    "title": "ゆりこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20220926/HJyh3KME/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-091"
+  },
+  {
+    "id": 529880,
+    "IDcode": "305TRUMG-123",
+    "title": "しょうこ36歳",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "少妇"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/a72777ef948dcd3fe65117e595ad85ef.jpg",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/9979697419377345854e9e2d2aadda55.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0941"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-123"
   },
   {
-    "id": 553173,
-    "IDcode": "259LUXU-0942",
-    "title": "豪华电视 929",
+    "id": 529878,
+    "IDcode": "305TRUMG-124",
+    "title": "ほのか33歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/23b450ae2d70fedd1bafdabdb6248248.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-124"
+  },
+  {
+    "id": 529876,
+    "IDcode": "305TRUMG-126",
+    "title": "ゆき32歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/89f0135a2de1e00a74a504e9361c2524.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-126"
+  },
+  {
+    "id": 529877,
+    "IDcode": "305TRUMG-127",
+    "title": "みどり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240218-1/7798bc159149273b5d2a33dca007a8a1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-127"
+  },
+  {
+    "id": 531616,
+    "IDcode": "305TRUMG-128",
+    "title": "きょうか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/e1556285d4c694ffec84a597910022b6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-128"
+  },
+  {
+    "id": 531615,
+    "IDcode": "305TRUMG-129",
+    "title": "しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/c93460c263afd73a580df25302c76d95.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-129"
+  },
+  {
+    "id": 531613,
+    "IDcode": "305TRUMG-130",
+    "title": "しょうこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/63a8549fd74093a9674284dc9fd46bc7.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-130"
+  },
+  {
+    "id": 535779,
+    "IDcode": "305TRUMG-136",
+    "title": "あおいとみさと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231130/1613981448-pb_e_305trumg-136.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=305TRUMG-136"
+  },
+  {
+    "id": 549970,
+    "IDcode": "307SHIC-090",
+    "title": "再婚相手の连れ子 弥生ちゃん あまね弥生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231207/1598795707-h_839shic090pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-090"
+  },
+  {
+    "id": 549969,
+    "IDcode": "307SHIC-094",
+    "title": "再婚相手の连れ子に诱惑されて…DX _ 七菜原ココ、桥下まこ、一ノ瀬恋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231207/1598796043-h_839shic094pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-094"
+  },
+  {
+    "id": 549963,
+    "IDcode": "307SHIC-101",
+    "title": "父と娘の壮絶亲子喧哗！！そしてその后は… ひまりちゃん 高坂ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231205/1598796279-h_839shic101pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-101"
+  },
+  {
+    "id": 530559,
+    "IDcode": "307SHIC-137",
+    "title": "教え子の白い肌に伝う汗に欲情し、我慢できなくなった家庭教师は… あいちゃん、叶月ちゃん、ひまりちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://ll.lasha250923.top/upload/vod/20201031-1/a1e11dce24bbd69c44912f34540a4f1e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-137"
+  },
+  {
+    "id": 502211,
+    "IDcode": "307SHIC-193",
+    "title": "お留守番中の巨乳思春期娘 ディレクターズカット最终版",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "巨乳"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/d36f6f8421f9c19fc48b1f3737902522.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240919-1/0dcd848a0e654ef225e43e086c81a47a.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0942"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-193"
   },
   {
-    "id": 532984,
-    "IDcode": "259LUXU-0943",
-    "title": "ラグジュTV 943",
+    "id": 435952,
+    "IDcode": "307SHIC-205",
+    "title": "伝説の美少女コレクション あみなちゃん4時間 桐島亞美菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/9b8f362f8d982cd1919b3454e4c86270.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-205"
+  },
+  {
+    "id": 447967,
+    "IDcode": "307SHIC-220",
+    "title": "再婚对象带来的孩子诱惑…-筱原りこ。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "",
+    "company": "",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240707-1/97daabf6d7c911f9ef82c91bcd0df9d3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-220"
+  },
+  {
+    "id": 92020,
+    "IDcode": "307SHIC-224",
+    "title": "うちの娘、家ではブラジャーを着けないので、父としてはちょっと困ってます… / しおんちゃん 夏目しおん",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
+      "乱伦",
+      "乳房",
+      "中出",
+      "美少女电影",
+      "单体作品"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231221/pb_e_259luxu-943.jpg!320x216.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240629-1/9826d0f7e3a381d322ee5cf97a43235d.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0943"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-224"
   },
   {
-    "id": 553171,
-    "IDcode": "259LUXU-0944",
-    "title": "豪华电视 934",
+    "id": 92021,
+    "IDcode": "307SHIC-227",
+    "title": "うちの娘、家ではブラジャーを着けないので、父としてはちょっと困ってます… / 四宮繭",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
+      "瘦小身型",
       "素人",
-      "素人企画",
-      "高端素人"
+      "乱伦",
+      "单体作品"
     ],
     "type": "",
-    "company": "蚊香社",
+    "company": "",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/5613cdf28090a94517977223d517c44d.jpg",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240629-1/178a8a689a51039ccc51b4e2ec114c1f.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0944"
-  },
-  {
-    "id": 552658,
-    "IDcode": "259LUXU-0945",
-    "title": "豪华电视958",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/0fe4d43bc84e2288846f5755f615a69b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0945"
-  },
-  {
-    "id": 553172,
-    "IDcode": "259LUXU-0946",
-    "title": "豪华电视 937",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/80c19064b91bcb9f077394725676c04a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0946"
-  },
-  {
-    "id": 552659,
-    "IDcode": "259LUXU-0949",
-    "title": "豪华电视 936",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/ce64fcee892b571903fa1cefd2b307b3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0949"
-  },
-  {
-    "id": 552660,
-    "IDcode": "259LUXU-0950",
-    "title": "豪华电视 944",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/fce04672f0f1b7f035a94eeda7ea942c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0950"
-  },
-  {
-    "id": 553187,
-    "IDcode": "259LUXU-0952",
-    "title": "豪华电视931",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/16e99702a60281f915a02cece19cc2de.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0952"
-  },
-  {
-    "id": 552661,
-    "IDcode": "259LUXU-0953",
-    "title": "豪华电视948",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/cd04cf067ef1853dd6e3275811341332.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0953"
-  },
-  {
-    "id": 552662,
-    "IDcode": "259LUXU-0954",
-    "title": "豪华电视 935",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/9b1829655cbb9b37d0f9cbe464d53695.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0954"
-  },
-  {
-    "id": 553170,
-    "IDcode": "259LUXU-0955",
-    "title": "豪华电视 947",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/bb775e81acaf5e4023abfa07ef09a987.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0955"
-  },
-  {
-    "id": 553178,
-    "IDcode": "259LUXU-0956",
-    "title": "豪华电视953",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/84f259a41ad8eeaf260dfe78dffce985.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0956"
-  },
-  {
-    "id": 552663,
-    "IDcode": "259LUXU-0957",
-    "title": "豪华电视 939",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/01dea1c105632f512aa3f34118cac41e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0957"
-  },
-  {
-    "id": 552664,
-    "IDcode": "259LUXU-0958",
-    "title": "豪华电视986",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/4916b680fea9d3c3c5e46c569ee7dc0b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0958"
-  },
-  {
-    "id": 533002,
-    "IDcode": "259LUXU-0959",
-    "title": "ラグジュTV 938",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231230/pb_e_259luxu-959.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0959"
-  },
-  {
-    "id": 553188,
-    "IDcode": "259LUXU-0960",
-    "title": "豪华电视946",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250915-1/9cdb69f98fb2eddacaac0dc0939bad86.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0960"
-  },
-  {
-    "id": 533006,
-    "IDcode": "259LUXU-0962",
-    "title": "ラグジュTV 942",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240103/pb_e_259luxu-962.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0962"
-  },
-  {
-    "id": 552616,
-    "IDcode": "259LUXU-0963",
-    "title": "豪华电视954",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/40f95eba1542c02a5f12998b8e8def85.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0963"
-  },
-  {
-    "id": 553189,
-    "IDcode": "259LUXU-0964",
-    "title": "豪华电视955",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/8551ce17d9562440c2e4a75cda283e4b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0964"
-  },
-  {
-    "id": 553190,
-    "IDcode": "259LUXU-0965",
-    "title": "豪华电视956",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/6c160769b1c161ec79ae6fae9abf071f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0965"
-  },
-  {
-    "id": 553175,
-    "IDcode": "259LUXU-0967",
-    "title": "豪华电视 957",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/1097500a7dc85d86df286ad1527db6b6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0967"
-  },
-  {
-    "id": 553191,
-    "IDcode": "259LUXU-0969",
-    "title": "豪华电视984",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/664ddaa1503da3b75dfd3867d5dcfc46.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0969"
-  },
-  {
-    "id": 553192,
-    "IDcode": "259LUXU-0970",
-    "title": "豪华电视959",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/f890e0e784b4b23912908ad4070321bc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0970"
-  },
-  {
-    "id": 553193,
-    "IDcode": "259LUXU-0971",
-    "title": "豪华电视951",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250730-1/d287b6aa10730935602b96405ed2c622.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0971"
-  },
-  {
-    "id": 552617,
-    "IDcode": "259LUXU-0972",
-    "title": "豪华电视952",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/9476fc46d78a1716f288505c0a01b128.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0972"
-  },
-  {
-    "id": 552634,
-    "IDcode": "259LUXU-0973",
-    "title": "豪华电视965",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/cadd691c5240485b6dc4af2c5459c996.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0973"
-  },
-  {
-    "id": 552635,
-    "IDcode": "259LUXU-0974",
-    "title": "豪华电视960",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/aaa7ac1a7c4cc9ee1217004565db44b7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0974"
-  },
-  {
-    "id": 553128,
-    "IDcode": "259LUXU-0975",
-    "title": "豪华电视961",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250731-1/2d3f5140c204b2a9ee4e94916effe66e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0975"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-227"
   }
 ];

@@ -1,20 +1,5 @@
 window.PAGE_DATA = [
   {
-    "id": 541110,
-    "IDcode": "24-FC2",
-    "title": "petipapa 大叔与援少女们 -10 ママには内绪でお父さんとラブホ配信1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/2018-12-16/15449496214.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=24-FC2"
-  },
-  {
     "id": 558025,
     "IDcode": "3-FC2",
     "title": "【个人撮影】19歳いずみ·现役バレリーナに裸で跃らせた·筋肉·ダンス·アスリート-PPV-1066703",
@@ -222,47 +207,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-1062588-2"
   },
   {
-    "id": 118194,
-    "IDcode": "FC2-1066192",
-    "title": "原S1女优音梓为钱当素人拍片的无套内射录像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "私人摄影",
-      "素人",
-      "原作",
-      "内射",
-      "可爱",
-      "美女",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "FC2",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/06/06/2c3d2589/vod.jpg",
-    "actress": [
-      "音梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-1066192"
-  },
-  {
-    "id": 120038,
-    "IDcode": "FC2-1090375",
-    "title": "耽溺しちった若い美女-顔射-刺青美女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/47d1694122f1af8c77333c44a7032b51.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-1090375"
-  },
-  {
     "id": 437031,
     "IDcode": "FC2-1105691",
     "title": "完全素人42 ヒナ24才その２、顔出し解禁！！制服コス、亀甲縛りで２連発",
@@ -293,21 +237,6 @@ window.PAGE_DATA = [
     "cover_url": "https://pic44.anzise.com/pic/20230118/5e385731ef9f122c9e6403f6c03db342/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-1144628"
-  },
-  {
-    "id": 528538,
-    "IDcode": "FC2-1156236",
-    "title": "个人撮影未公开エ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250213-1/6e9f1dc109055078242e0d8d2d11909f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-1156236"
   },
   {
     "id": 574072,
@@ -367,24 +296,9 @@ window.PAGE_DATA = [
     "type": "",
     "company": "FC2",
     "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/24bf7a3653c3551fdab33317e315b638.jpg",
+    "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-1217843"
-  },
-  {
-    "id": 155753,
-    "IDcode": "FC2-1223694",
-    "title": "AI修复-昭和女神-超可爱女友小鳩美愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250315-1/505656707435103a4e43e1aa7c729718.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-1223694"
   },
   {
     "id": 572157,
@@ -1152,21 +1066,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2313436"
   },
   {
-    "id": 543953,
-    "IDcode": "FC2-2319777",
-    "title": "清纯派の美꘎꘎と本気妊娠セックス-CD2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "",
-    "cover_url": "https://pic46.anzise.com/pic/20230207/d8eb7a1b41c21e6627a13cf3c92a9835/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2319777"
-  },
-  {
     "id": 119185,
     "IDcode": "FC2-2352420",
     "title": "美艳惊人大屁股美女",
@@ -1340,26 +1239,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2541323"
   },
   {
-    "id": 114432,
-    "IDcode": "FC2-2559379",
-    "title": "在浴缸里用潜望镜在她体内射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女",
-      "素人",
-      "内射",
-      "私人摄影"
-    ],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "2025-09-20",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/a17eacbb/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2559379"
-  },
-  {
     "id": 543955,
     "IDcode": "FC2-2624851",
     "title": "“24”清纯派黒髪美乳꘎꘎。敏感な膣奥を突かれ腰がビクビク。骑乘位中出し♡魅惑の目力♡-CD1",
@@ -1469,36 +1348,6 @@ window.PAGE_DATA = [
     "cover_url": "https://pic42.anzise.com/pic/20221221/31b9ee6c529c0b32fdfc52fa035e652b/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2709359"
-  },
-  {
-    "id": 115443,
-    "IDcode": "FC2-2724256",
-    "title": "终极美少女再临SSS级美少女与韩国系美女的震撼3P",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "2025-08-31",
-    "cover_url": "https://tutu1.space/images/2025/08/30/03a890a4fc90d5cb597a6694d7e5f4f0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2724256"
-  },
-  {
-    "id": 114114,
-    "IDcode": "FC2-2760723",
-    "title": "梦幻共演下定决心露脸毕业前夕挑战过去最高作品",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FC2",
-    "publish_date": "2025-09-28",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/c3fb2247/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2760723"
   },
   {
     "id": 573985,
@@ -1627,5 +1476,142 @@ window.PAGE_DATA = [
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/7721a14d/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2882940"
+  },
+  {
+    "id": 574098,
+    "IDcode": "FC2-2885742",
+    "title": "【有码】 Limited to today [Popular Former Oha ● Tao",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250315/iGuVITjl/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2885742"
+  },
+  {
+    "id": 113665,
+    "IDcode": "FC2-2892243",
+    "title": "令和最强肉体神乳写真偶像",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "2025-10-08",
+    "cover_url": "https://tutu1.space/images/2025/10/07/1d29142c787a4da11b5dbac2dd0cae78.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2892243"
+  },
+  {
+    "id": 113662,
+    "IDcode": "FC2-2897885",
+    "title": "美肌少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "2025-10-08",
+    "cover_url": "https://tutu1.space/images/2025/10/07/850e40e577d8d146adbb5297e32b6f34.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2897885"
+  },
+  {
+    "id": 113640,
+    "IDcode": "FC2-2899595",
+    "title": "私拍车内口交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "2025-10-08",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/505a81a3/vod.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2899595"
+  },
+  {
+    "id": 113667,
+    "IDcode": "FC2-2900378",
+    "title": "迫在屋内射精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "2025-10-08",
+    "cover_url": "https://tutu1.space/images/2025/10/07/36dec114e5c85273b96ccd55c21b8490.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2900378"
+  },
+  {
+    "id": 113669,
+    "IDcode": "FC2-2900756",
+    "title": "以性服务换取加入经纪公司的资格",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "2025-10-08",
+    "cover_url": "https://tutu1.space/images/2025/10/07/d0c9a04e073ea368d571d3f4ceb267ff.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2900756"
+  },
+  {
+    "id": 113692,
+    "IDcode": "FC2-2904483",
+    "title": "身着求职套装的女性",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "2025-10-09",
+    "cover_url": "https://tutu1.space/images/2025/10/08/ffd5ac0ed5ef4d9aeee09e5f47dcac8c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2904483"
+  },
+  {
+    "id": 574101,
+    "IDcode": "FC2-2906526",
+    "title": "【有码】 あくちゃんと公园デートからホテルへ！あくちゃんはオネムでスヤ〜！？【#60p】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质"
+    ],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250316/1cgesk91/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2906526"
+  },
+  {
+    "id": 543957,
+    "IDcode": "FC2-2908301",
+    "title": "【神スレンダー8等身ボディ】幸薄い系病弱若妻27歳 身体を锻えようと通い始めたジムのインストラクターとイケない仲に♡マッスルピストンで失",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "",
+    "company": "FC2",
+    "publish_date": "",
+    "cover_url": "https://pic50.anzise.com/pic/20230323/064403b328c35e2c46a99a8359bc6819/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-2908301"
   }
 ];
