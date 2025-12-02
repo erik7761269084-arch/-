@@ -10,51 +10,22 @@ body {
   font-family: "微软雅黑", sans-serif;
   background-color: #0d0d0d;
   color: #fff;
-  display: flex;
-  height: 100vh;
-  overflow: hidden;
-}
-
-/* 左侧导航栏 */
-.sidebar {
-  width: 200px;
-  background-color: #111;
-  border-right: 1px solid #222;
-  padding-top: 20px;
-  display: flex;
-  flex-direction: column;
-}
-.sidebar h2 {
-  text-align: center;
-  margin-bottom: 20px;
-  font-size: 18px;
-}
-.sidebar button {
-  background: none;
-  color: #ccc;
-  border: none;
-  text-align: left;
-  padding: 12px 20px;
-  font-size: 15px;
-  cursor: pointer;
-}
-.sidebar button:hover,
-.sidebar button.active {
-  background-color: #222;
-  color: #fff;
+  overflow-y: auto;
 }
 
 /* 主内容区域 */
 .main {
-  flex: 1;
-  overflow-y: auto;
-  padding: 20px;
+  padding: 15px;
 }
+
+/* 自适应网格：电脑 5 列、平板 3-4 列、手机 2 列 */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 15px;
 }
+
+/* 卡片样式 */
 .card {
   background-color: #1a1a1a;
   border-radius: 8px;
@@ -63,45 +34,52 @@ body {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 .card:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
   box-shadow: 0 4px 12px rgba(255,255,255,0.2);
 }
 .card img {
   width: 100%;
-  height: 260px;
+  height: 220px;   /* 手机下更合理 */
   object-fit: cover;
 }
 .card-title {
   padding: 10px;
-  font-size: 15px;
+  font-size: 14px;
   text-align: center;
   color: #eee;
+}
+
+/* 手机进一步优化：卡片更紧凑 */
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 12px;
+  }
+  .card img {
+    height: 190px;
+  }
+  .card-title {
+    font-size: 13px;
+  }
 }
 </style>
 </head>
 <body>
-
-<div class="sidebar">
-  <h2>分类</h2>
-  <button class="active" onclick="filterCategory('全部')">全部</button>
-</div>
 
 <div class="main">
   <div class="grid" id="dramaGrid"></div>
 </div>
 
 <script>
-
 let dramas = [];
 
 async function loadDramas() {
-  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/testphoto/category/2025_dl_lxj.json");
+  const res = await fetch("https://ljt462625949.github.io/testphoto/category/2025_dl_lxj.json");
   dramas = await res.json();
   renderDramas(dramas);
 }
 
 loadDramas();
-
 
 function renderDramas(list) {
   const container = document.getElementById('dramaGrid');
@@ -117,16 +95,6 @@ function renderDramas(list) {
     container.appendChild(card);
   });
 }
-
-function filterCategory(cat) {
-  document.querySelectorAll('.sidebar button').forEach(b => b.classList.remove('active'));
-  event.target.classList.add('active');
-  if (cat === '全部') renderDramas(dramas);
-  else renderDramas(dramas.filter(d => d.category === cat));
-}
-
-// 初始加载
-renderDramas(dramas);
 </script>
 
 </body>
