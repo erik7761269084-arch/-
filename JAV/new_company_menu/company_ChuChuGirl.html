@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>company_穢土_EDO</title>
+<title>company_ChuChuGirl</title>
 <style>
 body { margin:0; font-family:"微软雅黑",sans-serif; background:#0d0d0d; color:#fff; padding-top:60px; }
 .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:20px; padding:20px; }
@@ -51,7 +51,7 @@ async function loadMaxPage(){
   try{
     const res = await fetch("https://yunvgong.com/JAV/new_company_menu/stats.json");
     const json = await res.json();
-    MAX_PAGE = parseInt(json["company_穢土_EDO"]) || 1;
+    MAX_PAGE = parseInt(json["company_ChuChuGirl"]) || 1;
   }catch(e){
     console.error("stats.json 加载失败，使用默认 MAX_PAGE = 1");
   }
@@ -68,7 +68,7 @@ function initPage(){
 
   // 加载对应分页的数据文件
   const script = document.createElement('script');
-  script.src = `https://yunvgong.com/JAV/new_company_menu/company_穢土_EDO/page_${pageNumber}.js`;
+  script.src = `https://yunvgong.com/JAV/new_company_menu/company_ChuChuGirl/page_${pageNumber}.js`;
   script.onload = ()=>{
     if(typeof window.PAGE_DATA !== 'undefined'){
       renderAll(window.PAGE_DATA);
